@@ -74,6 +74,23 @@ body{font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif;backgroun
 .tocTable tr.active .genre,
 .tocTable tr.active .page{color:#fff}
 
+/* chapter content */
+.chapterContent{background:#fff;border:1px solid #E5DFD2;border-radius:10px;padding:24px;margin-bottom:24px;max-height:70vh;overflow-y:auto}
+.chapterContent h1{font-size:22px;font-weight:700;color:#2B2620;margin:28px 0 12px 0;padding-bottom:8px;border-bottom:2px solid #F3E9DE}
+.chapterContent h1:first-child{margin-top:0}
+.chapterContent h2{font-size:18px;font-weight:700;color:#2B2620;margin:24px 0 10px 0}
+.chapterContent h3{font-size:15px;font-weight:700;color:#2B2620;margin:20px 0 8px 0}
+.chapterContent p{margin:8px 0;line-height:1.7;font-size:13.5px;color:#2B2620}
+.chapterContent ul,.chapterContent ol{margin:6px 0 6px 22px;line-height:1.7}
+.chapterContent li{margin:3px 0;font-size:13.5px}
+.chapterContent strong{font-weight:700}
+.chapterContent em{font-style:italic}
+.chapterContent img{max-width:100%;height:auto;border-radius:8px;margin:12px 0;border:1px solid #F0EBE0}
+.chapterContent hr{border:none;border-top:2px solid #F3E9DE;margin:20px 0}
+.chapterContent code{background:#F3E9DE;padding:1px 5px;border-radius:4px;font-size:0.9em;color:#5C5446}
+.chapterContent pre{background:#F8F6F0;border:1px solid #E5DFD2;border-radius:8px;padding:14px;overflow-x:auto;margin:12px 0;font-size:13px;line-height:1.5}
+.chapterContent pre code{background:none;padding:0;border-radius:0}
+.chapterContent a{color:#A33B2C;text-decoration:underline}
 /* genre badge in work column */
 .genreBadge{display:inline-block;font-size:11px;color:#8A8070;background:#F3E9DE;border-radius:4px;padding:2px 8px;margin-left:8px;font-weight:400}
 .chapterMeta{font-size:12px;color:#8A8070;margin-top:-14px;margin-bottom:18px}
@@ -833,6 +850,7 @@ function renderContent(){
   workCol.innerHTML = `
     <div class="chapterTitle">${chapterName}</div>
     ${metaHtml}
+    <div id="chapterContent" class="chapterContent"><div style="text-align:center;color:#8A8070;font-size:13px;padding:12px 0"><span class="loadingDots">Loading chapter content</span></div></div>
     <div class="actionsRow">
       <button class="actionCard" onclick="callAI('mcq')"><div style="font-size:20px">📝</div><div class="actionLabel">Generate MCQs</div><div class="actionDesc">10 questions with answer key</div></button>
       <button class="actionCard" onclick="callAI('mindmap')"><div style="font-size:20px">🧠</div><div class="actionLabel">Mind Map</div><div class="actionDesc">Visual concept breakdown</div></button>
@@ -845,6 +863,7 @@ function renderContent(){
     </div>
     <div id="resultArea"></div>
   `;
+  loadChapterContent();
 }
 
 function selectChapter(i){
@@ -1010,6 +1029,95 @@ async function doAIFetch(mode, query, label, btns){
     for(var b=0;b<btns.length;b++) btns[b].disabled = false;
   };
   xhr.send(JSON.stringify(streamPayload));
+}
+
+async function loadChapterContent(){
+  var area = document.getElementById('chapterContent');
+  if(!area) return;
+  var subj = INDEX[activeClass][activeSubject];
+  var chName = getChapterName();
+  if(!chName){ area.innerHTML = ''; return; }
+  var folder = encodeURIComponent(activeClass);
+  var fname = encodeURIComponent(activeClass+' '+subj+'.md');
+  var fileUrl = folder+'/'+fname;
+  try {
+    var resp = await fetch(fileUrl);
+    if(!resp.ok){ area.innerHTML = ''; return; }
+    var text = await resp.text();
+    var MAX = 30000;
+    var startPos = 0;
+    if(chName){
+      var idx = text.indexOf(chName);
+      if(idx>=0) startPos = idx;
+      else {
+        var num = selectedChapter+1;
+        var queries = ['Chapter '+num,'chapter '+num,num+'. '];
+        var nep = ['०','१','२','३','४','५','६','७','८','९'];
+        var nns = num.toString().split('').map(function(d){return nep[parseInt(d)]}).join('');
+        queries.push(nns+'. '); queries.push(nns+'.');
+        for(var q=0;q<queries.length;q++){
+          var si = text.indexOf(queries[q]);
+          if(si>=0){ startPos=si; break; }
+        }
+      }
+    }
+    var content = text.substring(startPos, startPos+MAX);
+    // Try to stop at next chapter heading
+    var cutoff = content.length;
+    for(var ci=startPos+200; ci<startPos+MAX && ci<text.length; ci++){
+      if(text[ci]==='\n' && ci+1<text.length && text[ci+1]==='#'){
+        cutoff = ci; break;
+      }
+    }
+    content = content.substring(0, cutoff-startPos).trim();
+    area.innerHTML = markdownToHtml(content);
+  } catch(e){ area.innerHTML = ''; }
+}
+
+function markdownToHtml(md){
+  var lines = md.split('\n');
+  var html = '', inList = false, inOrdered = false;
+  for(var i=0;i<lines.length;i++){
+    var l = lines[i], t = l.trim();
+    if(!t){
+      if(inList){ html += '</ul>'; inList = false; }
+      if(inOrdered){ html += '</ol>'; inOrdered = false; }
+      continue;
+    }
+    if(t.startsWith('### ')){ html += '<h3>'+inlineFmt(t.substring(4))+'</h3>'; continue; }
+    if(t.startsWith('## ')){ html += '<h2>'+inlineFmt(t.substring(3))+'</h2>'; continue; }
+    if(t.startsWith('# ')){ html += '<h1>'+inlineFmt(t.substring(2))+'</h1>'; continue; }
+    if(t.startsWith('- ')||t.startsWith('* ')){
+      var item = t.startsWith('- ')?t.substring(2):t.substring(2);
+      if(inOrdered){ html += '</ol>'; inOrdered = false; }
+      if(!inList){ html += '<ul>'; inList = true; }
+      html += '<li>'+inlineFmt(item)+'</li>'; continue;
+    }
+    if(/^\d+[\.\)]\s/.test(t)){
+      var item = t.replace(/^\d+[\.\)]\s/,'');
+      if(inList){ html += '</ul>'; inList = false; }
+      if(!inOrdered){ html += '<ol>'; inOrdered = true; }
+      html += '<li>'+inlineFmt(item)+'</li>'; continue;
+    }
+    if(/^!\[.*\]\(.*\)$/.test(t)){
+      var alt = t.match(/!\[(.*?)\]/)[1];
+      var src = t.match(/\((.*?)\)/)[1];
+      html += '<img src="'+src+'" alt="'+alt+'">'; continue;
+    }
+    if(/^[-*_]{3,}$/.test(t)){ html += '<hr>'; continue; }
+    if(inList){ html += '</ul>'; inList = false; }
+    if(inOrdered){ html += '</ol>'; inOrdered = false; }
+    html += '<p>'+inlineFmt(t)+'</p>';
+  }
+  if(inList) html += '</ul>';
+  if(inOrdered) html += '</ol>';
+  return html;
+}
+
+function inlineFmt(s){
+  s = s.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>');
+  s = s.replace(/\*(.+?)\*/g,'<em>$1</em>');
+  return s;
 }
 
 function escapeHtml(t){return t.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
