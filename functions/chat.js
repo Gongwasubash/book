@@ -134,6 +134,14 @@ exports.handler = async (event, context) => {
 
 Format clearly with sections.`,
 
+    chapter_exercise: `You are an AI tutor for ${subjectHeader}. ${langInstr} ${sourceInstr} This is the most important instruction: Carefully read the provided textbook content for this specific chapter and generate a complete chapter exercise that includes:
+1. 5 MCQs (multiple choice questions with 4 options each and answer key)
+2. 5 short-answer conceptual questions
+3. 3 numerical/long-answer problems with step-by-step solutions
+4. A summary of key formulas/concepts from this chapter
+
+Every question must be directly based on the content present in the textbook excerpt below. Do not include any topic not covered in the provided text. Use the exact terminology and examples from the textbook. Format clearly with sections.`,
+
     ask: `You are an AI tutor for ${subjectHeader}. ${langInstr} ${sourceInstr} Answer the student's question based on the textbook content below. Be thorough, educational, and use examples from the text. If the question is off-topic, politely redirect to the subject matter.`
   };
 

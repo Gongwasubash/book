@@ -836,6 +836,7 @@ function renderContent(){
       <button class="actionCard" onclick="callAI('mcq')"><div style="font-size:20px">📝</div><div class="actionLabel">Generate MCQs</div><div class="actionDesc">10 questions with answer key</div></button>
       <button class="actionCard" onclick="callAI('mindmap')"><div style="font-size:20px">🧠</div><div class="actionLabel">Mind Map</div><div class="actionDesc">Visual concept breakdown</div></button>
       <button class="actionCard" onclick="callAI('exercise')"><div style="font-size:20px">✏️</div><div class="actionLabel">Practice Exercise</div><div class="actionDesc">Mixed Q&A with solutions</div></button>
+      <button class="actionCard" onclick="callAI('chapter_exercise')"><div style="font-size:20px">📘</div><div class="actionLabel">Chapter Exercise</div><div class="actionDesc">Full exercise from textbook content</div></button>
     </div>
     <div class="queryRow">
       <input class="queryInput" id="queryInput" placeholder="Ask a question about this chapter..." onkeydown="if(event.key==='Enter')callAI('ask')">
@@ -863,8 +864,8 @@ async function callAI(mode){
   var resultArea = document.getElementById('resultArea');
   var subj = INDEX[activeClass][activeSubject];
   var chName = getChapterName();
-  var modeNames = {mcq:'MCQs',mindmap:'Mind Map',exercise:'Practice',ask:'Ask AI'};
-  var icons = {mcq:'📝',mindmap:'🧠',exercise:'✏️',ask:'💬'};
+  var modeNames = {mcq:'MCQs',mindmap:'Mind Map',exercise:'Practice',chapter_exercise:'Chapter Exercise',ask:'Ask AI'};
+  var icons = {mcq:'📝',mindmap:'🧠',exercise:'✏️',chapter_exercise:'📘',ask:'💬'};
   var label = (icons[mode]||'💬')+' '+(modeNames[mode]||'');
   var query = '';
   if(mode==='ask'){
