@@ -138,7 +138,7 @@ Format clearly with sections.`,
   const userPrompt = `Here is the full textbook content for ${subjectHeader}:
 
 === BEGIN TEXTBOOK CONTENT ===
-${fileContent.substring(0, 12000)}
+${fileContent.substring(0, 20000)}
 === END TEXTBOOK CONTENT ===
 
 ${chapterContext}

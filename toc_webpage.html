@@ -890,8 +890,33 @@ async function callAI(mode){
   } catch(e) {
     // If fetch fails, still try with empty content
   }
-  // Truncate to 12K chars
-  if(fileContent.length > 12000) fileContent = fileContent.substring(0, 12000);
+  // Find chapter content: search for chapter title and send from that point
+  var MAX_CHARS = 20000;
+  var startPos = 0;
+  if(chName && fileContent.length > MAX_CHARS){
+    // Try to find the chapter title in the content
+    var searchQueries = [chName];
+    // Also try numeric patterns like "Chapter 7" or "७. गणित"
+    if(selectedChapter !== null && selectedChapter !== undefined){
+      var num = selectedChapter + 1;
+      searchQueries.push('Chapter '+num);
+      searchQueries.push('chapter '+num);
+      searchQueries.push(num+'. ');
+      // Try Nepali numerals
+      var nepaliNum = ['०','१','२','३','४','५','६','७','८','९'];
+      var nepNumStr = num.toString().split('').map(d=>nepaliNum[parseInt(d)]).join('');
+      searchQueries.push(nepNumStr+'. ');
+      searchQueries.push(nepNumStr+'.');
+    }
+    for(var q=0; q<searchQueries.length; q++){
+      var idx = fileContent.indexOf(searchQueries[q]);
+      if(idx >= 0){
+        startPos = Math.max(0, idx - 200); // Include a bit before for context
+        break;
+      }
+    }
+  }
+  fileContent = fileContent.substring(startPos, startPos + MAX_CHARS);
 
   resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText"><span class="loadingDots">Thinking</span></div></div>';
 

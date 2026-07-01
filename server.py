@@ -188,7 +188,7 @@ Format clearly with sections.""",
     user_prompt = f"""Here is the full textbook content for {subject_header}:
 
 === BEGIN TEXTBOOK CONTENT ===
-{content[:12000]}
+{content[:20000]}
 === END TEXTBOOK CONTENT ===
 
 {chapter_context}
@@ -286,7 +286,7 @@ def chat_stream():
     if chapter_index is not None:
         chapter_context = f"\n(The student is asking about Chapter {chapter_index + 1})"
 
-    user_prompt = f"Here is the full textbook content for {subject_header}:\n\n=== BEGIN TEXTBOOK CONTENT ===\n{content[:12000]}\n=== END TEXTBOOK CONTENT ===\n{chapter_context}\nStudent's request: {query}"
+    user_prompt = f"Here is the full textbook content for {subject_header}:\n\n=== BEGIN TEXTBOOK CONTENT ===\n{content[:20000]}\n=== END TEXTBOOK CONTENT ===\n{chapter_context}\nStudent's request: {query}"
 
     def generate():
         def stream_provider(api_key, api_url, model):
