@@ -1015,7 +1015,14 @@ async function doAIFetch(mode, query, label, btns){
 }
 
 function escapeHtml(t){return t.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
-function cleanResponse(t){return t.replace(/^[-\*_]{3,}\s*$/gm,'').replace(/\n{3,}/g,'\n\n').trim()}
+function cleanResponse(t){
+  // Strip markdown separators, LaTeX delimiters, and excess blank lines
+  return t
+    .replace(/^[-\*_]{3,}\s*$/gm,'')
+    .replace(/\n{3,}/g,'\n\n')
+    .replace(/\\[()\[\]]/g,'')  // strip \( \) \[ \]
+    .trim()
+}
 
 function filterSidebar(val){
   const q = val.toLowerCase().trim();
