@@ -695,6 +695,7 @@ const UNINDEXABLE = new Set(["Class 9|Naturopath 2082","Class 9|Yoga Education 2
 
 // ====== APP STATE ======
 let activeClass = null, activeSubject = null, selectedChapter = null, result = null, error = null;
+let EXERCISES_DATA = null;
 function key(c,s){return c+'|'+s}
 
 function getChapters(c,s){
@@ -836,7 +837,7 @@ function renderContent(){
       <button class="actionCard" onclick="callAI('mcq')"><div style="font-size:20px">📝</div><div class="actionLabel">Generate MCQs</div><div class="actionDesc">10 questions with answer key</div></button>
       <button class="actionCard" onclick="callAI('mindmap')"><div style="font-size:20px">🧠</div><div class="actionLabel">Mind Map</div><div class="actionDesc">Visual concept breakdown</div></button>
       <button class="actionCard" onclick="callAI('exercise')"><div style="font-size:20px">✏️</div><div class="actionLabel">Practice Exercise</div><div class="actionDesc">Mixed Q&A with solutions</div></button>
-      <button class="actionCard" onclick="callAI('chapter_exercise')"><div style="font-size:20px">📘</div><div class="actionLabel">Chapter Exercise</div><div class="actionDesc">Full exercise from textbook content</div></button>
+      <button class="actionCard" onclick="callAI('chapter_exercise')"><div style="font-size:20px">📘</div><div class="actionLabel">Chapter Exercise</div><div class="actionDesc">Real exercises from the textbook</div></button>
     </div>
     <div class="queryRow">
       <input class="queryInput" id="queryInput" placeholder="Ask a question about this chapter..." onkeydown="if(event.key==='Enter')callAI('ask')">
@@ -880,7 +881,63 @@ async function callAI(mode){
   var btns = document.querySelectorAll('.actionCard, .queryBtn');
   for(var b=0;b<btns.length;b++) btns[b].disabled = true;
 
-  // Fetch the markdown file as a static asset
+  // For Chapter Exercise, try to load from exercises.json
+  if(mode==='chapter_exercise'){
+    // Lazy-load exercises data
+    var loadExercises = function(cb) {
+      if(EXERCISES_DATA) { cb(EXERCISES_DATA); return; }
+      fetch('exercises.json').then(function(r){return r.json()}).then(function(d){EXERCISES_DATA=d; cb(d)}).catch(function(){cb(null)});
+    };
+    resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText"><span class="loadingDots">Looking up textbook exercises</span></div></div>';
+    loadExercises(function(data){
+      if(!data){
+        // Fall through to AI below
+        proceedToAI();
+        return;
+      }
+      var exKey = key(activeClass, subj);
+      var exData = data[exKey];
+      var matched = [];
+      if(exData && exData.exercises){
+        for(var ei=0;ei<exData.exercises.length;ei++){
+          var ex = exData.exercises[ei];
+          if(ex.chapterIndex===null || ex.chapterIndex===undefined) continue;
+          if(ex.chapterIndex===selectedChapter) matched.push(ex);
+        }
+      }
+      if(matched.length>0){
+        var html = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div>';
+        for(var mi=0;mi<matched.length;mi++){
+          var ex = matched[mi];
+          html += '<div style="margin-bottom:20px;border-bottom:1px solid #E5DFD2;padding-bottom:14px">';
+          var exName = ex.name || 'Exercise';
+          html += '<div style="font-weight:700;font-size:14px;margin-bottom:8px;color:#A33B2C">'+escapeHtml(exName)+'</div>';
+          html += '<div class="resultText" style="white-space:pre-wrap">'+escapeHtml(ex.text)+'</div>';
+          html += '</div>';
+        }
+        html += '</div>';
+        resultArea.innerHTML = html;
+        for(var b=0;b<btns.length;b++) btns[b].disabled = false;
+        return;
+      }
+      proceedToAI();
+    });
+    // This function is called when no extracted exercises are found
+    var proceedToAI = function() {
+      doAIFetch(mode, query, label, btns);
+    };
+    return;
+  }
+
+  // For non-chapter_exercise modes, go directly to AI
+  doAIFetch(mode, query, label, btns);
+}
+
+async function doAIFetch(mode, query, label, btns){
+  var resultArea = document.getElementById('resultArea');
+  var subj = INDEX[activeClass][activeSubject];
+  var chName = getChapterName();
+
   var folder = encodeURIComponent(activeClass);
   var fname = encodeURIComponent(activeClass+' '+subj+'.md');
   var fileUrl = folder+'/'+fname;
@@ -888,42 +945,32 @@ async function callAI(mode){
   try {
     var resp = await fetch(fileUrl);
     if(resp.ok) fileContent = await resp.text();
-  } catch(e) {
-    // If fetch fails, still try with empty content
-  }
-  // Find chapter content: search for chapter title and send from that point
+  } catch(e) {}
   var MAX_CHARS = 20000;
   var startPos = 0;
   if(chName && fileContent.length > MAX_CHARS){
-    // Try to find the chapter title in the content
     var searchQueries = [chName];
-    // Also try numeric patterns like "Chapter 7" or "७. गणित"
     if(selectedChapter !== null && selectedChapter !== undefined){
       var num = selectedChapter + 1;
       searchQueries.push('Chapter '+num);
       searchQueries.push('chapter '+num);
       searchQueries.push(num+'. ');
-      // Try Nepali numerals
       var nepaliNum = ['०','१','२','३','४','५','६','७','८','९'];
-      var nepNumStr = num.toString().split('').map(d=>nepaliNum[parseInt(d)]).join('');
+      var nepNumStr = num.toString().split('').map(function(d){return nepaliNum[parseInt(d)]}).join('');
       searchQueries.push(nepNumStr+'. ');
       searchQueries.push(nepNumStr+'.');
     }
     for(var q=0; q<searchQueries.length; q++){
       var idx = fileContent.indexOf(searchQueries[q]);
       if(idx >= 0){
-        startPos = Math.max(0, idx - 200); // Include a bit before for context
+        startPos = Math.max(0, idx - 200);
         break;
       }
     }
   }
   fileContent = fileContent.substring(startPos, startPos + MAX_CHARS);
-
   resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText"><span class="loadingDots">Thinking</span></div></div>';
-
   var basePayload = {class:activeClass,subject:subj,chapterIndex:selectedChapter,query:query,mode:mode,fileContent:fileContent};
-
-  // Try streaming first
   var streamPayload = JSON.parse(JSON.stringify(basePayload));
   streamPayload.stream = true;
   var xhr = new XMLHttpRequest();
@@ -941,7 +988,6 @@ async function callAI(mode){
     if(xhr.status===200){
       resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText" style="white-space:pre-wrap">'+xhr.responseText+'</div></div>';
     } else {
-      // Fallback to non-streaming
       var xhr2 = new XMLHttpRequest();
       xhr2.open('POST', API_BASE+'/api/chat', true);
       xhr2.setRequestHeader('Content-Type','application/json');
@@ -951,22 +997,24 @@ async function callAI(mode){
           if(data.error) throw new Error(data.error);
           resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText" style="white-space:pre-wrap">'+data.answer+'</div></div>';
         } else {
-          resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="errorBox">⚠️ Error: Could not reach AI server.</div></div>';
+          resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="errorBox">\u26a0\ufe0f Error: Could not reach AI server.</div></div>';
         }
       };
       xhr2.onerror = function(){
-        resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="errorBox">⚠️ Network error. Check your connection.</div></div>';
+        resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="errorBox">\u26a0\ufe0f Network error. Check your connection.</div></div>';
       };
       xhr2.send(JSON.stringify(basePayload));
     }
     for(var b=0;b<btns.length;b++) btns[b].disabled = false;
   };
   xhr.onerror = function(){
-    resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="errorBox">⚠️ Network error. Check your connection.</div></div>';
+    resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="errorBox">\u26a0\ufe0f Network error. Check your connection.</div></div>';
     for(var b=0;b<btns.length;b++) btns[b].disabled = false;
   };
   xhr.send(JSON.stringify(streamPayload));
 }
+
+function escapeHtml(t){return t.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
 
 function filterSidebar(val){
   const q = val.toLowerCase().trim();
