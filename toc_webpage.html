@@ -898,18 +898,15 @@ async function callAI(mode){
         }
       }
       if(matched.length>0){
-        var html = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div>';
+        // Send extracted exercises to AI for answer generation
+        var exerciseText = '';
         for(var mi=0;mi<matched.length;mi++){
           var ex = matched[mi];
-          html += '<div style="margin-bottom:20px;border-bottom:1px solid #E5DFD2;padding-bottom:14px">';
-          var exName = ex.name || 'Exercise';
-          html += '<div style="font-weight:700;font-size:14px;margin-bottom:8px;color:#A33B2C">'+escapeHtml(exName)+'</div>';
-          html += '<div class="resultText" style="white-space:pre-wrap">'+escapeHtml(ex.text)+'</div>';
-          html += '</div>';
+          exerciseText += (ex.name || 'Exercise') + ':\n' + ex.text + '\n\n';
         }
-        html += '</div>';
-        resultArea.innerHTML = html;
-        for(var b=0;b<btns.length;b++) btns[b].disabled = false;
+        var answerQuery = 'Answer the following textbook exercises for the chapter "'+chName+'". For each exercise, provide the correct answer/solution. Here are the exercises:\n\n'+exerciseText;
+        resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText"><span class="loadingDots">Generating answers for textbook exercises</span></div></div>';
+        doAIFetch(mode, answerQuery, label, btns);
         return true;
       }
       return false;
