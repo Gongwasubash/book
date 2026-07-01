@@ -972,6 +972,8 @@ async function doAIFetch(mode, query, label, btns){
       searchQueries.push('Chapter '+num);
       searchQueries.push('chapter '+num);
       searchQueries.push(num+'. ');
+      searchQueries.push('kf7 M ');
+      if(num<=9) searchQueries.push('kf7 M '+num);
       var nepaliNum = ['०','१','२','३','४','५','६','७','८','९'];
       var nepNumStr = num.toString().split('').map(function(d){return nepaliNum[parseInt(d)]}).join('');
       searchQueries.push(nepNumStr+'. ');
@@ -1044,14 +1046,15 @@ async function loadChapterContent(){
     var resp = await fetch(fileUrl);
     if(!resp.ok){ area.innerHTML = ''; return; }
     var text = await resp.text();
-    var MAX = 30000;
+    var MAX = 25000;
     var startPos = 0;
     if(chName){
       var idx = text.indexOf(chName);
       if(idx>=0) startPos = idx;
       else {
         var num = selectedChapter+1;
-        var queries = ['Chapter '+num,'chapter '+num,num+'. '];
+        var queries = ['Chapter '+num,'chapter '+num,num+'. ','kf7 M '];
+        if(num<=9) queries.push('kf7 M '+num);
         var nep = ['०','१','२','३','४','५','६','७','८','९'];
         var nns = num.toString().split('').map(function(d){return nep[parseInt(d)]}).join('');
         queries.push(nns+'. '); queries.push(nns+'.');
@@ -1061,15 +1064,23 @@ async function loadChapterContent(){
         }
       }
     }
-    var content = text.substring(startPos, startPos+MAX);
-    // Try to stop at next chapter heading
-    var cutoff = content.length;
-    for(var ci=startPos+200; ci<startPos+MAX && ci<text.length; ci++){
-      if(text[ci]==='\n' && ci+1<text.length && text[ci+1]==='#'){
-        cutoff = ci; break;
+    // Find the next chapter/section heading to stop at
+    var searchEnd = Math.min(startPos + MAX, text.length);
+    var cutoff = searchEnd;
+    var from = startPos + Math.min(150, text.length - startPos - 1);
+    var chunk = text.substring(from, searchEnd);
+    var endRx = /(?:\n|\r\n?)(?:#\s|##\s|###\s|kf7\s+M\s[!@#$%^&*()\d]|PsfO\s+\d+\s+M|[०१२३४५६७८९]+\.\s|\d+\.\s|[A-Z][a-z]+\s+\d+)/;
+    var m = endRx.exec(chunk);
+    if(m) cutoff = from + m.index;
+    else {
+      // Fallback: look for kf7 M  or PsfO  patterns line-by-line
+      for(var ci=from; ci<searchEnd; ci++){
+        if(ci+6<text.length && text.substring(ci,ci+6)==='\nkf7 M'){
+          cutoff = ci+1; break;
+        }
       }
     }
-    content = content.substring(0, cutoff-startPos).trim();
+    var content = text.substring(startPos, cutoff).trim();
     area.innerHTML = markdownToHtml(content);
   } catch(e){ area.innerHTML = ''; }
 }
