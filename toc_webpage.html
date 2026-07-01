@@ -981,12 +981,12 @@ async function doAIFetch(mode, query, label, btns){
     var text = xhr.responseText.substring(lastIdx);
     lastIdx = xhr.responseText.length;
     if(text){
-      resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText" style="white-space:pre-wrap">'+xhr.responseText+'</div></div>';
+      resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText" style="white-space:pre-wrap">'+cleanResponse(xhr.responseText)+'</div></div>';
     }
   };
   xhr.onload = function(){
     if(xhr.status===200){
-      resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText" style="white-space:pre-wrap">'+xhr.responseText+'</div></div>';
+      resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText" style="white-space:pre-wrap">'+cleanResponse(xhr.responseText)+'</div></div>';
     } else {
       var xhr2 = new XMLHttpRequest();
       xhr2.open('POST', API_BASE+'/api/chat', true);
@@ -995,7 +995,7 @@ async function doAIFetch(mode, query, label, btns){
         if(xhr2.status===200){
           var data = JSON.parse(xhr2.responseText);
           if(data.error) throw new Error(data.error);
-          resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText" style="white-space:pre-wrap">'+data.answer+'</div></div>';
+          resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText" style="white-space:pre-wrap">'+cleanResponse(data.answer)+'</div></div>';
         } else {
           resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="errorBox">\u26a0\ufe0f Error: Could not reach AI server.</div></div>';
         }
@@ -1015,6 +1015,7 @@ async function doAIFetch(mode, query, label, btns){
 }
 
 function escapeHtml(t){return t.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
+function cleanResponse(t){return t.replace(/^[-\*_]{3,}\s*$/gm,'').replace(/\n{3,}/g,'\n\n').trim()}
 
 function filterSidebar(val){
   const q = val.toLowerCase().trim();
