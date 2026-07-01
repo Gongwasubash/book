@@ -1,0 +1,17 @@
+[build]
+  functions = "functions"
+
+[[redirects]]
+  from = "/"
+  to = "/toc_webpage.html"
+  status = 200
+
+[[redirects]]
+  from = "/api/chat"
+  to = "/.netlify/functions/chat"
+  status = 200
+
+[[redirects]]
+  from = "/api/chat/stream"
+  to = "/.netlify/functions/chat"
+  status = 200

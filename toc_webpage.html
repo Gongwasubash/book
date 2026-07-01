@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sarathi Study — Nepal Textbooks Grade 1-10</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif;background:#FAF8F4;color:#2B2620;display:flex;min-height:100vh}
+/* sidebar */
+.sidebar{width:280px;border-right:1px solid #E5DFD2;display:flex;flex-direction:column;background:#fff;position:fixed;top:0;left:0;bottom:0;z-index:100;transition:transform .3s ease}
+.brand{display:flex;align-items:center;gap:10px;padding:18px 16px;border-bottom:1px solid #E5DFD2;flex-shrink:0}
+.brandMark{width:34px;height:34px;border-radius:8px;background:#A33B2C;color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:16px;font-family:'Noto Serif Devanagari',serif}
+.brandTitle{font-weight:700;font-size:14.5px;letter-spacing:-.01em}
+.brandSub{font-size:11.5px;color:#8A8070;margin-top:1px}
+.sidebar-search{padding:8px 12px;border-bottom:1px solid #E5DFD2;flex-shrink:0}
+.sidebar-search input{width:100%;padding:7px 10px;border-radius:6px;border:1px solid #E5DFD2;background:#FAF8F4;font-size:13px;outline:none;color:#2B2620}
+.sidebar-search input::placeholder{color:#A8A090}
+.treeScroll{flex:1;overflow-y:auto;padding:8px 8px 20px}
+.treeScroll::-webkit-scrollbar{width:4px}
+.treeScroll::-webkit-scrollbar-thumb{background:#D9D0C0;border-radius:2px}
+.classRow{width:100%;display:flex;align-items:center;gap:8px;padding:9px 8px;background:none;border:none;cursor:pointer;font-size:13.5px;font-weight:600;color:#2B2620;border-radius:6px;text-align:left;transition:.15s}
+.classRow:hover{background:#F3E9DE}
+.classRow.active{background:#F3E9DE;color:#A33B2C}
+.countPill{margin-left:auto;font-size:10.5px;background:#F0EBE0;color:#8A8070;border-radius:10px;padding:1px 7px;font-weight:600}
+.classRow.active .countPill{background:#E8D5C4}
+.subjectList{padding-left:16px;display:flex;flex-direction:column;margin-bottom:4px;overflow:hidden;transition:max-height .25s ease;max-height:0}
+.subjectList.open{max-height:2000px}
+.subjectRow{display:flex;align-items:center;gap:8px;padding:7px 8px;background:none;border:none;cursor:pointer;font-size:12.8px;color:#5C5446;border-radius:6px;text-align:left;width:100%;transition:.15s}
+.subjectRow:hover{background:#F3E9DE}
+.subjectRow.active{background:#F3E9DE;color:#A33B2C;font-weight:600}
+.subjectLabel{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+/* main */
+.main{margin-left:280px;flex:1;display:flex;flex-direction:column;min-height:100vh}
+.mainHeader{padding:16px 28px;border-bottom:1px solid #E5DFD2;display:flex;align-items:center;gap:16px;flex-shrink:0;background:#fff;position:sticky;top:0;z-index:50}
+.menuBtn{display:none;background:none;border:none;font-size:22px;cursor:pointer;color:#5C5446;padding:4px;line-height:1}
+.crumb{font-size:13.5px;font-weight:600;color:#5C5446}
+/* content areas */
+.bodyArea{flex:1;display:flex;overflow:hidden}
+.chapterCol{width:270px;border-right:1px solid #E5DFD2;padding:14px;overflow-y:auto;overflow-x:auto;background:#fff}
+.colLabel{font-size:11px;font-weight:700;color:#A8A090;letter-spacing:.06em;text-transform:uppercase;margin-bottom:8px}
+.chapterBtn{text-align:left;padding:9px 10px;border-radius:7px;border:none;background:none;font-size:12.8px;color:#3B3528;cursor:pointer;line-height:1.3;transition:.12s;width:100%}
+.chapterBtn:hover{background:#F3E9DE}
+.chapterBtn.active{background:#A33B2C;color:#fff;font-weight:600}
+.workCol{flex:1;padding:28px;overflow-y:auto;display:flex;flex-direction:column}
+.pickPrompt{color:#A8A090;font-size:14px;margin-top:60px;text-align:center}
+.chapterTitle{font-size:20px;font-weight:700;margin-bottom:20px;color:#2B2620}
+.actionsRow{display:flex;gap:14px;margin-bottom:24px}
+.actionCard{flex:1;display:flex;flex-direction:column;align-items:flex-start;gap:6px;padding:16px;border-radius:10px;border:1px solid #E5DFD2;background:#fff;cursor:pointer;text-align:left;color:#A33B2C;transition:.15s}
+.actionCard:hover{border-color:#C9BFA8;background:#FAF8F4}
+.actionCard:disabled{opacity:.5;cursor:not-allowed}
+.actionLabel{font-size:13.5px;font-weight:700;color:#2B2620}
+.actionDesc{font-size:11.5px;color:#8A8070;line-height:1.4}
+.errorBox{background:#FBE7E3;color:#A33B2C;padding:10px 14px;border-radius:8px;font-size:13px;margin-bottom:16px}
+.resultBox{background:#fff;border:1px solid #E5DFD2;border-radius:10px;padding:20px}
+.resultMeta{display:flex;align-items:center;gap:6px;font-size:11.5px;color:#8A8070;margin-bottom:12px;font-weight:600}
+.resultText{white-space:pre-wrap;font-family:inherit;font-size:13.5px;line-height:1.6;color:#2B2620;margin:0}
+/* empty state */
+.emptyState{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:40px;margin:auto}
+.emptyIcon{font-size:36px;margin-bottom:10px}
+.emptyTitle{font-size:16px;font-weight:700;margin-bottom:6px}
+.emptyDesc{font-size:13px;color:#8A8070;max-width:380px;line-height:1.5}
+/* toc table in work col */
+.tocTable{width:100%;border-collapse:collapse;font-size:12.8px}
+.tocTable th{background:#F3E9DE;padding:5px 6px;text-align:left;font-weight:600;font-size:10.5px;color:#5C5446;border-bottom:2px solid #E5DFD2;white-space:nowrap}
+.tocTable td{padding:4px 6px;border-bottom:1px solid #F0EBE0;line-height:1.3}
+.tocTable tr:hover td{background:#F3E9DE}
+.tocTable tr.active td{background:#A33B2C;color:#fff;font-weight:600}
+.tocTable tr.active:hover td{background:#A33B2C}
+.tocTable .num{width:24px;text-align:center;color:#8A8070;font-size:11px}
+.tocTable .page{width:40px;text-align:right;color:#8A8070;font-size:11px;white-space:nowrap}
+.tocTable .genre{font-size:10.5px;color:#8A8070;white-space:nowrap;width:52px;text-align:center}
+.tocTable tr.active .num,
+.tocTable tr.active .genre,
+.tocTable tr.active .page{color:#fff}
+
+/* genre badge in work column */
+.genreBadge{display:inline-block;font-size:11px;color:#8A8070;background:#F3E9DE;border-radius:4px;padding:2px 8px;margin-left:8px;font-weight:400}
+.chapterMeta{font-size:12px;color:#8A8070;margin-top:-14px;margin-bottom:18px}
+.simpleList{list-style:none;padding:0}
+.simpleList li{padding:5px 0;border-bottom:1px solid #F0EBE0;font-size:13.5px;display:flex;align-items:baseline;gap:8px}
+.simpleList li .idx{color:#8A8070;font-size:12.5px;min-width:26px;text-align:right}
+/* welcome */
+.welcome{display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:70vh;text-align:center;padding:40px;margin:auto}
+.welcome .flagIcon{font-size:56px;margin-bottom:12px}
+.welcome h2{font-size:24px;color:#2B2620;margin-bottom:6px}
+.welcome p{color:#8A8070;max-width:440px;line-height:1.6;font-size:14px}
+/* overlay */
+.overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:99}
+.overlay.show{display:block}
+@keyframes spin{to{transform:rotate(360deg)}}
+.loader{animation:spin .9s linear infinite}
+/* query row */
+.queryRow{display:flex;gap:8px;margin-bottom:16px}
+.queryInput{flex:1;padding:10px 14px;border-radius:8px;border:1px solid #E5DFD2;background:#fff;font-size:13.5px;outline:none;color:#2B2620;font-family:inherit}
+.queryInput:focus{border-color:#A33B2C}
+.queryInput::placeholder{color:#A8A090}
+.queryBtn{padding:10px 20px;border-radius:8px;border:none;background:#A33B2C;color:#fff;font-size:13.5px;font-weight:600;cursor:pointer;white-space:nowrap;transition:.15s}
+.queryBtn:hover{background:#8C2E20}
+.queryBtn:disabled{opacity:.5;cursor:not-allowed}
+.loadingDots::after{content:'';animation:dots 1.5s steps(4,end) infinite}
+@keyframes dots{0%{content:''}25%{content:'.'}50%{content:'..'}75%{content:'...'}100%{content:''}}
+@media(max-width:900px){
+  .chapterCol{width:220px}
+  .actionsRow{flex-direction:column}
+}
+@media(max-width:768px){
+  .sidebar{transform:translateX(-100%)}
+  .sidebar.open{transform:translateX(0)}
+  .menuBtn{display:block}
+  .main{margin-left:0}
+  .mainHeader{padding:14px 16px}
+  .crumb{font-size:12.5px}
+  .bodyArea{flex-direction:column}
+  .chapterCol{width:100%;border-right:none;border-bottom:1px solid #E5DFD2;padding:14px;max-height:40vh}
+  .workCol{padding:18px}
+  .actionsRow{flex-direction:column}
+}
+</style>
+</head>
+<body>
+
+<div class="overlay" id="overlay" onclick="toggleSidebar()"></div>
+
+<aside class="sidebar" id="sidebar">
+  <div class="brand">
+    <div class="brandMark">सा</div>
+    <div>
+      <div class="brandTitle">Sarathi Study</div>
+      <div class="brandSub">Class 1–10 · CDC Nepal</div>
+    </div>
+  </div>
+  <div class="sidebar-search">
+    <input type="text" placeholder="Search class or subject..." oninput="filterSidebar(this.value)">
+  </div>
+  <div class="treeScroll" id="sidebarNav"></div>
+</aside>
+
+<main class="main">
+  <div class="mainHeader">
+    <button class="menuBtn" onclick="toggleSidebar()">&#9776;</button>
+    <div class="crumb" id="crumb">Select a class</div>
+  </div>
+  <div class="bodyArea" id="bodyArea">
+    <div class="welcome" id="welcome">
+      <div class="flagIcon">📚</div>
+      <h2>Sarathi Study</h2>
+      <p>Nepal CDC Textbooks Grade 1–10. Select a class and subject from the sidebar to browse chapters.</p>
+    </div>
+    <div style="display:none;flex:1" id="mainWork">
+      <div class="chapterCol" id="chapterCol"></div>
+      <div class="workCol" id="workCol"></div>
+    </div>
+  </div>
+</main>
+
+<script>
+// ====== FULL DATA ======
+const INDEX = {
+  "Class 1": ["English","Mathematics (English)","Mathematics (Nepali)","Nepali","Serofero"],
+  "Class 2": ["English","Health Physical Creative Arts (English)","Mathematics (English)","Mathematics (Nepali)","Nepali"],
+  "Class 3": ["English","Maths (English)","Maths (Nepali)","Nepali","Serofero"],
+  "Class 4": ["English","Health Physical Creative Arts (Nepali)","Mathematics (English)","Mathematics (Nepali)","Nepali","Science and Technology (English)","Science and Technology (Nepali)","Social Studies and Human Value Education"],
+  "Class 5": ["English","Mathematics (English)","Mathematics (Nepali)","Nepali","Science and Technology","Science Health Physical (English)","Science Health Physical (Nepali)","Social Studies Creative Arts (English)","Social Studies Creative Arts (Nepali)"],
+  "Class 6": ["English","Health Physical (Nepali)","Health Physical Creative Arts (English)","Maths (English Transcribed)","Mathematics (Nepali)","Nepali","Science (Nepali)","Social Studies"],
+  "Class 7": ["English","Health Physical (Nepali)","Health Physical Creative Arts (English)","Maths (English)","Maths (Nepali)","Nepali","Science Technology (English)","Science Technology (Nepali)","Social Studies"],
+  "Class 8": ["English 2019","English 2023","Health Physical Creative Arts (English)","Health Physical Education","Maths (English Transcribed)","Maths (Nepali)","Moral Education (English)","Moral Education (Nepali)","Nepali 2076","Nepali 2080","Science Environment (English)","Science Environment (Nepali)","Social Studies Population","Vocational Technical Education"],
+  "Class 9": ["Computer Science 2081","Economics 2074","English 2079","Mathematics (English) 2022","Mathematics (Nepali) 2079","Mathematics Open Ended 2079","Naturopath 2082","Nepali 2079","Optional Mathematics 2074","Optional Mathematics 2076","Science Technology 2024","Social Studies 2079","Yoga Education 2082"],
+  "Class 10": ["Accountancy","Compulsory English","Compulsory Mathematics (English)","Compulsory Mathematics (Nepali)","Compulsory Nepali","Computer Science","Economics","History","Optional Mathematics","Science","Social Studies"]
+};
+
+const CHAPTERS = {};
+
+function addChapters(cls, subj, chs){ CHAPTERS[cls+'|'+subj] = {chapters: chs, source:'extracted'}; }
+
+// Class 1
+addChapters("Class 1","English",["Me and My Family (L1-14)","Alphabet Aa-Zz (L15-71)","Me and My Family (L73-74)","My Daily Life (L75-79)","My School (L80-84)","Our Environment (L85-88)","My Belongings (L89-92)","Our Culture (L93-94)","Communication Tech & Market (L95-97)","Fruits and Vegetables (L98-100)","Hobbies and Interests (L101-102)","Birds and Animals (L103-108)","Wordlist / Learning Chart"]);
+addChapters("Class 1","Mathematics (English)",["Shape and Size, and Space","Lines","Geometric Shapes","Numbers up to 9","Zero","Ten","Addition (sum up to 10)","Subtraction (up to 10)","Numbers 11-20","Addition (sum up to 20)","Subtraction (up to 20)","Odd and Even Numbers","Number Names up to 20","Ordinal Numbers","Numbers 21-100","Addition (sum up to 100)","Subtraction (two digits)","Devanagari Numerals","Time","Coins and Notes","Length","Pictograph"]);
+addChapters("Class 1","Mathematics (Nepali)",["आकारप्रकार र स्थान","रेखाहरू","ज्यामितीय आकारहरू","९ सम्मका सङ्ख्याहरू","शून्य","दश","योगफल १० सम्म आउने जोड","१० सम्मका सङ्ख्याहरूको घटाउ","११ देखि २० सम्मका सङ्ख्याहरू","योगफल २० सम्म आउने जोड","२० सम्मका सङ्ख्याहरूको घटाउ","जोर र बिजोर सङ्ख्याहरू","२० सम्मका सङ्ख्याहरु अक्षरमा","क्रमात्मक सङ्ख्याहरू","२१ देखि १०० सम्मका सङ्ख्याहरू","योगफल १०० सम्म आउने जोड","दुई अङ्कसम्मका सङ्ख्याहरूको घटाउ","हिन्दु अरेबिक सङ्ख्याङ्कहरू","समय","सिक्का र नोटहरू","लम्बाइ","चित्रग्राफ"]);
+addChapters("Class 1","Nepali",["म र मेरो परिवार","मेरो दैनिक जीवन","हाम्रो समुदाय","मेरो विद्यालय","हाम्रो वातावरण","हाम्रो सिर्जना","रुचि र बानी","हाम्रो संस्कृति","सञ्चार, प्रविधि र बजार","हाम्रो क्रियाकलाप","हाम्रो वरपरको संसार"]);
+addChapters("Class 1","Serofero",["म र मेरो परिवार","हाम्रो दैनिकी","हाम्रो समुदाय","हाम्रो विद्यालय","हाम्रा वरपरका जीवजन्तु","हाम्रो वातावरण","हाम्रो सिर्जना","हाम्रा संस्कृति","सञ्चार प्रविधि र बजार","हाम्रो वरपरको संसार"]);
+
+// Class 2
+addChapters("Class 2","English",["Before you begin I-II","Me and My Family (L1-6)","My Daily Life (L7-12)","My School (L13-18)","Our Environment (L19-24)","My Belongings (L25-27)","Our Culture (L28-30)","Communication Tech & Market (L31-34)","Fruits and Vegetables (L35-37)","Hobbies and Interests (L38-40)","Birds and Animals (L41-44)","Word List / Learning Chart"]);
+addChapters("Class 2","Health Physical Creative Arts (English)",["Personal Hygiene","Environmental Sanitation","Food and Nutrition","Disease and Substance abuse","Safety","Drills and Physical Exercise","Athletics and Gymnastic","Games","Yoga","Drawing and Colour","Printmaking, Clay, Collage","Singing and Musical Instruments","Dance and Acting"]);
+addChapters("Class 2","Mathematics (English)",["Me and My Family — Capacity","My Daily Life — Time","Number Sense — Numbers up to 1000","Our Community — Comparison","Basic Operations 1 — Add/Subtract","My School — Length, Area, Multiply","My Creation — Geometric Shapes","Communication Tech — Pictograph","Basic Operations 2 — Multiply/Divide"]);
+addChapters("Class 2","Mathematics (Nepali)",["म र मेरो परिवार — क्षमता","मेरो दैनिक जीवन — समय","सङ्ख्याको ज्ञान","हाम्रो समुदाय","गणितका आधारभूत क्रिया १","मेरो विद्यालय","मेरो सिर्जना","सञ्चार प्रविधि र बजार","गणितका आधारभूत क्रिया २"]);
+addChapters("Class 2","Nepali",["म र मेरो परिवार","मेरो दैनिक जीवन","हाम्रो समुदाय","मेरो विद्यालय","हाम्रो वातावरण","मेरो सिर्जना","रुचि र बानी","हाम्रो संस्कृति","सञ्चार प्रविधि र बजार","हाम्रा क्रियाकलाप","हाम्रो वरपरको संसार"]);
+
+// Class 3
+addChapters("Class 3","English",["Before you begin","Me and My Family (L1-5)","My Daily Life (L6-10)","My School (L11-15)","Our Environment (L16-20)","My Belongings (L21-23)","Our Culture (L24-26)","Communication Tech & Market (L27-29)","Fruits and Vegetables (L30-31)","Hobbies and Interests (L32-33)","Birds and Animals (L34-35)","Word List / Learning Chart"]);
+addChapters("Class 3","Maths (English)",["My Daily Life 1 — Time 1","Number Sense","My Community","My Creation (Lines, Angles, Shapes)","Basic Operations (Add/Sub/Mul/Div)","My Daily Life 2 — Time 2","Communication, Money, Capacity","Measurement — Area"]);
+addChapters("Class 3","Maths (Nepali)",["मेरो दैनिक जीवन १ — समय १","सङ्ख्याको ज्ञान","हाम्रो समुदाय","मेरो सिर्जना","गणितका आधारभूत क्रिया","मेरो दैनिक जीवन २ — समय २","सञ्चार प्रविधि र बजार","नाप — क्षेत्रफल"]);
+addChapters("Class 3","Nepali",["म र मेरो परिवार","मेरो दैनिक जीवन","हाम्रो समुदाय","मेरो विद्यालय","हाम्रो वातावरण","मेरो सिर्जना","रुचि र बानी","हाम्रो संस्कृति","सञ्चार प्रविधि र बजार","हाम्रा क्रियाकलाप","हाम्रो वरपरको संसार"]);
+addChapters("Class 3","Serofero",["म र मेरो परिवार","हाम्रा खानेकुरा","खेल खेलौँ","नाप्ने उपकरण","वरपरका जनावर","शारीरिक कसरत","जीव र वातावरण","हाम्रो पृथ्वी","हावा र पानी","सञ्चार प्रविधि र बजार"]);
+
+// Class 4
+addChapters("Class 4","English",["Meeting People","Talking About Name","Describing Things","My School / Classroom","Describing People","Telling Time / Daily Life","Our Environment / City Life","Our Culture / Festivals","Communication & Technology","Hobbies / Sports","Shopping / Market","Birds & Animals"]);
+addChapters("Class 4","Health Physical Creative Arts (Nepali)",["व्यक्तिगत स्वच्छता","वातावरण सरसफाइ","खाना र पोषण","रोग तथा पदार्थहरूको दुर्व्यसन","हाम्रो सुरक्षा","कवाज र शारीरिक व्यायाम","एथ्लेटिक्स र जिम्नास्टिक","खेलहरू","योग","रेखाचित्र र रङ","छपाइ, माटाको काम, कोलाज","गायन र वादन","नृत्य र अभिनय"]);
+addChapters("Class 4","Mathematics (English)",["Lines and Angles","Plane Surface","Solid objects","Number sense","Basic Operations","Fraction, Decimal, Percentage","Time","Currency","Distance","Capacity","Weight","Perimeter and Area","Bill and Budget","Bar diagram","Algebra"]);
+addChapters("Class 4","Mathematics (Nepali)",["रेखाहरू र कोणहरू","समतलीय आकृतिहरू","ठोस वस्तुहरू","सङ्ख्याको ज्ञान","गणितका आधारभूत क्रियाहरू","भिन्न, दशमलव र प्रतिशत","समय","मुद्रा","दुरी","क्षमता","तौल","परिमिति र क्षेत्रफल","बिल र बजेट","स्तम्भ चित्र","बीजगणित"]);
+addChapters("Class 4","Nepali",["सबै मेरा गुरू (कविता)","सुनको मूर्ति (कथा)","मलाई पुस्तक मन पर्छ (निबन्ध)","साथीलाई चिठी (चिठी)","खेलकुदको महत्त्व (संवाद)","झुटको परिणाम (कथा)","समाजसेवी महावीर पुन (जीवनी)","कुरिलो खेती (निबन्ध)","घमन्डको फल (कथा)","सानी नदी (कविता)","नारायणहिटी दरबार सङ्ग्रहालय","निसाफ (कथा)","घले गाउँ (नियात्रा)","जूनतारा छुन (कविता)","साथी (कथा)"]);
+addChapters("Class 4","Science and Technology (English)",["Personal Hygiene","Environmental Sanitation","Food and Nutrition","Disease and Substance abuse","Safety","Drills","Athletics","Games","Yoga","Drawing","Printmaking","Singing","Dance"]);
+addChapters("Class 4","Science and Technology (Nepali)",["वैज्ञानिक सिकाइ","सूचना तथा सञ्चार प्रविधि","जीव र वातावरण","सजीवहरूको वर्गीकरण","जीवन प्रक्रिया","पदार्थ","शक्ति","पृथ्वी र अन्तरिक्ष"]);
+addChapters("Class 4","Social Studies and Human Value Education",["हामी र हाम्रो समुदाय","हाम्रा मूल्य मान्यता","नागरिक चेतना","सामाजिक समस्या र समाधान","हाम्रो विगत","हाम्रा आर्थिक क्रियाकलाप","हाम्रो पृथ्वी"]);
+
+// Class 5
+addChapters("Class 5","English",["Expressing wants","Expressing reasons","Describing locations","Talking about future","Describing people","Describing time","Describing quantities","Describing possessions","Checking and confirming","Months and seasons","Narrating events","Talking about picnic"]);
+addChapters("Class 5","Mathematics (English)",["Geometry","Concept of Numbers","Fundamental Operations","Time","Money","Distance","Perimeter","Area","Capacity","Volume","Weight","Fraction and Decimal","Percentage","Unitary Method & Interest","Bill and Budget","Statistics","Set","Algebra"]);
+addChapters("Class 5","Mathematics (Nepali)",["ज्यामिति","सङ्ख्याको ज्ञान","गणितका आधारभूत क्रियाहरू","समय","मुद्रा","दुरी","परिमिति","क्षेत्रफल","क्षमता","आयतन","तौल","भिन्न र दशमलव","प्रतिशत","ऐकिक नियम र ब्याज","बिल र बजेट","तथ्याङ्क शास्त्र","समूह","बीज गणित"]);
+addChapters("Class 5","Nepali",["नैतिक दृष्टान्त","कर्मको फल","कामको महिमा","किसानको रहर","आँखाको ज्योति","समय","बाल दिवस","अनौठा प्रश्न","हाम्रो यात्रा","साथीलाई चिठी","नदी","प्रेरणा","रिसको औषधी","सिक्नुपर्ने कुरा","बिरामी बिदाको निवेदन","देशको माटो","सबैभन्दा ठुला भक्त","परीक्षाको तयारी","नर्सको जीवन","राष्ट्रिय गौरव","पश्चात्ताप","किताब कसरी बन्छ ?"]);
+addChapters("Class 5","Science and Technology",["Scientific Learning","ICT","Organisms and Environment","Classification of Living Beings","Life Process","Matter","Energy","Earth and Space"]);
+addChapters("Class 5","Science Health Physical (English)",["Science: Different Kinds of Animals","Science: Cell & Lifecycle","Science: Plants & Environment","Science: Matter & Energy","Science: Weather & Space","Health: Cleanliness & Exercise","Health: Diet & Disease","Health: Safety & First Aid","PE: Locomotor Skills","PE: Games & Sports","PE: Drill & PT"]);
+addChapters("Class 5","Science Health Physical (Nepali)",["विज्ञान: जनावर, कोष, वातावरण","विज्ञान: पदार्थ, शक्ति, मौसम","स्वास्थ्य: सरसफाइ, पोषण, रोग","स्वास्थ्य: सुरक्षा, प्राथमिक उपचार","शारीरिक: गतिशील अवस्था, खेल"]);
+addChapters("Class 5","Social Studies Creative Arts (English)",["Unit 1: Me, My Family & Neighbours","Unit 2: Our Traditions & Values","Unit 3: Social Problems","Unit 4: Civics Sense","Unit 5: Our Earth","Unit 6: Our Past","Unit 7: Economic Activities","Creative Arts: Visual Art, Music, Dance"]);
+addChapters("Class 5","Social Studies Creative Arts (Nepali)",["एकाइ १: आफू, परिवार र छिमेकी","एकाइ २: परम्परा, मूल्य मान्यता","एकाइ ३: सामाजिक समस्या","एकाइ ४: नागरिक चेतना","एकाइ ५: हाम्रो पृथ्वी","एकाइ ६: हाम्रो विगत","एकाइ ७: आर्थिक क्रियाकलाप","सिर्जनात्मक कला"]);
+
+// Class 6 - newly extracted
+addChapters("Class 6","English",["T.S. Eliot / Professions","Three Simple Rules / Honesty","Beauty and the Beast","Festivals of Nepal","The Monkeys Go Fasting","Tom Paints the Fence","Gairigaun: Then and Now","Past & Present Comparison","Comparisons: Big, Bigger, Biggest","Central Zoo: Rules & Safety","Mobile Phones: Uses and Abuses","Forgiveness of the King","Animals and Abilities","Seasons and Change","The Musicians of Ilam","Umar in Disguise","A Palm Reader","Data and Charts"]);
+addChapters("Class 6","Health Physical (Nepali)",["मानव शरीर","सामुदायिक स्वास्थ्य तथा मानसिक स्वास्थ्य","पोषण र खाद्य सुरक्षा","रोग, सुरक्षा र प्राथमिक उपचार","यौनिक र प्रजनन स्वास्थ्य","शारीरिक कसरत र कवाज","एथलेटिक्स र साहसिक क्रियाकलाप","खेलहरू","योग","कलाको परिचय, रेखाङ्कन र रङ","छपाइ, माटाको काम, कोलाज","गायन र वादन","नृत्य र अभिनय"]);
+addChapters("Class 6","Health Physical Creative Arts (English)",["Human Body","Community & Mental Health","Nutrition & Food Security","Disease, Safety & First Aid","Sexual & Reproductive Health","Physical Exercise & Drill","Athletics & Adventurous Activities","Games","Yoga","Introduction to Arts, Line Art, Colour","Print Making, Clay Work, Collage","Singing & Playing Instrument","Dance & Acting"]);
+addChapters("Class 6","Maths (English Transcribed)",["Set","Whole Numbers","Integers","Fractions","Decimals","Percentage","Profit and Loss","Unitary Method","Distance","Perimeter, Area and Volume","Exponents","Algebraic Expressions","Equations, Inequalities, Graphs","Lines and Angles","Plane Figures","Circle","Solid Objects","Coordinate Geometry","Symmetry and Tessellation","Statistics"]);
+addChapters("Class 6","Mathematics (Nepali)",["समूह","पूर्ण सङ्ख्या","पूर्णाङ्कहरू","भिन्न","दशमलव","प्रतिशत","नाफा र नोक्सान","ऐकिक नियम","दुरी","परिमिति, क्षेत्रफल र आयतन","घाताङ्क","बीजीय अभिव्यञ्जक","समीकरण, असमानता, लेखाचित्र","रेखा र कोणहरू","समतलीय आकृति","वृत्त","ठोस वस्तुहरू","निर्देशाङ्क ज्यामिति","सममिति र टेसेलेसन","तथ्याङ्क शास्त्र"]);
+addChapters("Class 6","Nepali",["मातृभूमिको आवाज (कविता)","कुमार व्यव्रीत (कथा)","नेपाली संस्कृति (निबन्ध)","छोरालाई चिठी (चिठी)","सङ्गीतकार अम्बर गुरुङ (जीवनी)","चम्किला अनुहारहरू (कथा)","सम्पत्तिभन्दा स्वास्थ्य ठुलो","मेरा रहर (निबन्ध)","जाग जाग (कविता)","आशाको दियो (कथा)","सहभागिताका लागि निवेदन","थोमस एल्भा एडिसन (जीवनी)","लाग्दछ मलाई रमाइला (कविता)","वनभोज (संवाद)","पानीको कथा (प्रबन्ध)","मायाको घर (कथा)"]);
+addChapters("Class 6","Science (Nepali)",["वैज्ञानिक सिकाइ","सूचना तथा सञ्चार प्रविधि","जीवहरू र तिनीहरूको बनोट","जैविक विविधता र वातावरण","जीवन प्रक्रिया","बल र चाल","दैनिक जीवनमा शक्ति","विद्युत् र चुम्बकत्व","पदार्थ","दैनिक प्रयोगका सामग्रीहरू","पृथ्वी र अन्तरिक्ष"]);
+addChapters("Class 6","Social Studies",["हामी र हाम्रो समाज","हाम्रा मानव मूल्य मान्यता","नागरिक चेतना, कर्तव्य र अधिकार","सामाजिक समस्या र समाधान","हाम्रो विगत","नेपालका आर्थिक क्रियाकलाप","हाम्रो पृथ्वी","जनसङ्ख्या र यसको व्यवस्थापन","अन्तर्राष्ट्रिय सम्बन्ध र सूचना प्रविधि"]);
+
+// Class 7 - newly extracted
+addChapters("Class 7","English",["A Job Interview","The Small Bird's Wisdom","Kisa Gotami and the Mustard Seed","Some Festivals of Nepal","The Three Merchants","My Holiday Plan","Fast Food and Health","A Trip to a Village","Smartphones and Data","COVID-19 Safety","Dr. Sanduk Ruit — Eye Surgeon","A Terrifying Night","Mt. K2 — The Savage Mountain","Climate Change","A Lesson from a Son","Fair Shares","Elephants — Giants of Nature"]);
+addChapters("Class 7","Health Physical (Nepali)",["मानव शरीर","सामुदायिक स्वास्थ्य तथा मानसिक स्वास्थ्य","पोषण र खाद्य सुरक्षा","रोग, सुरक्षा र प्राथमिक उपचार","यौनिक तथा प्रजनन स्वास्थ्य","शारीरिक कसरत र कवाज","एथलेटिक्स र साहसिक क्रियाकलाप","खेल","योग","कलाको परिचय, रेखाचित्र र रङ","छपाइ, माटाको काम, कोलाज","गायन र वादन","नृत्य र अभिनय"]);
+addChapters("Class 7","Health Physical Creative Arts (English)",["Human Body","Community & Mental Health","Nutrition & Food Security","Disease, Safety & First Aid","Sexual & Reproductive Health","Physical Exercise & Drill","Athletics & Adventurous Activities","Games","Yoga","Intro to Arts, Line Art, Colour","Print Making, Clay, Collage","Singing & Playing Instrument","Dance & Acting"]);
+addChapters("Class 7","Maths (English)",["Set","Whole Number","Integer","Rational Number","Fraction and Decimal","Ratio and Proportion","Profit and Loss","Unitary Method","Perimeter, Area, Volume","Indices","Algebraic Expression","Equation, Inequality, Graph","Lines and Angles","Plane Figures","Congruent Figures","Solid Objects","Coordinates","Statistics","Symmetry","Bearing and Scale Drawing","Presentation of Data"]);
+addChapters("Class 7","Maths (Nepali)",["समूह","पूर्ण सङ्ख्या","पूर्णाङ्क","परिमेय सङ्ख्या","भिन्न र दशमलव","अनुपात र समानुपात","नाफा नोक्सान","ऐकिक नियम","परिमिति, क्षेत्रफल, आयतन","घाताङ्क","बीजीय अभिव्यञ्जक","समीकरण, असमानता, लेखाचित्र","रेखा र कोण","समतलीय आकृति","सर्वागसम आकृति","ठोस वस्तु","निर्देशाङ्क","तथ्याङ्कशास्त्र","सममिति","नाप र स्केल चित्र","तथ्याङ्क प्रस्तुतीकरण"]);
+addChapters("Class 7","Nepali",["मेरो देश (कविता)","तितो बोली सच्चा गुण (कथा)","स्वरोजगारीको महत्त्व (संवाद)","साहित्यिकार भूपि शेरचन (जीवनी)","स्वस्थ्य जीवनका लागि योग (निबन्ध)","भाइलाई चिठी (चिठी)","परिकल्पना (कथा)","सिर्जनाका कोपिला (निबन्ध)","आमा (कविता)","अवसरको सदुपयोग (दैनिकी)","अबोध (कथा)","मदर टेरेसा (जीवनी)","जेष्ठ नागरिकहरूप्रति दायित्व","काली गण्डकीको किनारै किनार","वसन्त (कविता)","गुरुको सम्मान (सम्मानपत्र)","स्थायी बास (कथा)"]);
+addChapters("Class 7","Science Technology (English)",["Scientific Learning","Information & Communication Technology","Organisms and their Structure","Biodiversity and Environment","Life Process","Force and Motion","Energy in Daily Life","Electricity and Magnetism","Matter","Materials Used in Daily Life","The Earth and Space"]);
+addChapters("Class 7","Science Technology (Nepali)",["वैज्ञानिक सिकाइ","सूचना तथा सञ्चार प्रविधि","जीवहरू र तिनको बनौट","जैविक विविधता र वातावरण","जीवन प्रक्रिया","बल र चाल","दैनिक जीवनमा शक्ति","विद्युत् र चुम्बकत्व","पदार्थ","दैनिक प्रयोगका पदार्थ","पृथ्वी र अन्तरिक्ष"]);
+addChapters("Class 7","Social Studies",["हामी र हाम्रो समाज","हाम्रा मानव मूल्य मान्यता","नागरिक चेतना, अधिकार र कर्तव्य","सामाजिक समस्या र समाधान","हाम्रो विगत","हाम्रा आर्थिक क्रियाकलाप","हाम्रो पृथ्वी","जनसङ्ख्या र यसको व्यवस्थापन","हाम्रो अन्तर्राष्ट्रिय सम्बन्ध"]);
+
+// Class 8 - newly extracted
+addChapters("Class 8","English 2019",["Travelogue: A Memorable Journey","An Expedition: Visit to Godawari","Business and Commerce","Biography: Ganesh Man Singh","Festivals: Holi","Technology: Computer","Journalism: First Man on Moon","Dangers of Junk Food","Moral Stories","Habits and Behaviour","Games and Sports","District Profile: Dadeldhura","Childhood Memories","Graphs and Charts","Lincoln's Letter","Fairy Tales","Forms and Cheques"]);
+addChapters("Class 8","English 2023",["A Tour to Central Zoo: Timetable","A Father's Letter to his Son","Public Announcements","A Memoir: A Visit to Mustang","The Old Woman and the Lime Tree","Traditional Wedding Customs","Weather Forecast / Migration","Having Fun / Historical Inventions","The Leap between High School and College","Vacancy Announcement / Invitation","Sir Isaac Newton / Khaptad National Park","Nepal's Bird Man","Nepal Doubles its Tiger Population","The Magic Mirror","Conservation of Earth","Why I Became a Vegan","Naresh and the Stranger","Road Accidents in Nepal","A Tale of Two Birds"]);
+addChapters("Class 8","Health Physical Creative Arts (English)",["Human Body","Community Health and Mental Health","Nutrition and Food Security","Disease, Safety and First Aid","Sexual and Reproductive Health","Physical Exercise and Drill","Athletics and Adventurous Activities","Games","Yoga","Introduction to Arts, Line art and Colour","Print making, Clay work, Collage and Construction","Singing and Playing Instrument","Dance and Acting"]);
+addChapters("Class 8","Health Physical Education",["Human Body","Personal Health","Nutrition","Disease","Adolescent Health","Drugs, Alcohol, Tobacco","Environmental Health","Safety and First Aid","Family & Community Health","Physical Education: Exercise","Drill","Physical Training","Yoga","Games","Athletics"]);
+addChapters("Class 8","Maths (English Transcribed)",["Set","Whole Numbers","Rational and Irrational Numbers","Ratio and Proportion","Profit and Loss","Unitary Method","Simple Interest","Area and Volume","Indices","Algebraic Expression","Algebraic Fraction","Equation and Graph","Lines and Angles","Plane Figures","Congruency and Similarity","Solid objects","Coordinates","Tessellation","Transformation","Bearing and Scale Drawing","Statistics"]);
+addChapters("Class 8","Maths (Nepali)",["रेखा र कोण","त्रिभुज, चतुर्भुज र बहुभुज","त्रिभुजको सर्वांगसमता र समरूपता","वृत्त","ठोस आकृतिहरू","निर्देशांक","क्षेत्रफल र आयतन","स्थानान्तरण","बीजगणितीय अभिव्यक्ति","संख्या","अभाज्य संख्याहरू","अभाज्य गुणनखण्ड","पूर्ण संख्याहरू","प्राकृतिक संख्याहरू","अनुपात, समानुपात र प्रतिशत","नाफा र नोक्सान","पाइथागोरस नियम","साधारण ब्याज","तथ्याङ्क शास्त्र","बीजगणितीय अभिव्यक्तिहरू","ग्राफ","समीकरण, असमानता र रेखाचित्र"]);
+addChapters("Class 8","Moral Education (English)",["Character Development: Aaitaman","Character: Be a Good Example","Character: Think Positively","Human Values: True Soul Mates","Human Values: My Real Identity","Human Values: Universal Relationship","Civil Rights: Duty of Citizens","Civil Rights: My Duty","Civil Rights: Misrilal","Community: Peace and Friendship","Community: Ganga's Effort","Community: Five Brothers","Discipline: Regret","Discipline: Inner Eyes","Discipline: Excess is Destructive"]);
+addChapters("Class 8","Moral Education (Nepali)",["Unit 1: Character Development","Unit 2: Human Values","Unit 3: Civil Rights and Duties","Unit 4: Community Life Style","Unit 5: Discipline and Positive Thinking"]);
+addChapters("Class 8","Nepali 2076",["नेपाल (कविता)","मिठो (कथा)","बिदेशीले यात्रा (जीवनी)","हिमालपारि (निबन्ध)","लघुबान्धव","प्रीति (कथा)","जीवन र प्रेम (कविता)","एउटा निर्लज्जको संसार (जीवनी)","सिर्जना र वातावरण (निबन्ध)","एउटा घटना (कथा)","बुबालाई चिठी (चिठी)","मेरो घर (कविता)","विज्ञान विनासको जरिवाना","स्वस्थताको लागि योगाभ्यास","सात सुन्दरी (कथा)","स्काउट र गाइडिङ (निबन्ध)","हामी एउटै हौँ (प्रार्थना)","चेपाङ (कविता)","जात्रा र पर्वको कथा","नेपाली संस्कृति (निबन्ध)","डा. कोफी अन्नान (जीवनी)","मधुकरी (कथा)"]);
+addChapters("Class 8","Nepali 2080",["सहिदहरूको सम्झनामा (कविता)","साकार सपना (कथा)","स्वामी प्रपन्ताचार्य (जीवनी)","व्यावसायिक चिठी (चिठी)","मानव अधिकार (निबन्ध)","अमर पुत्र (कथा)","पदमार्ग (संवाद)","फर्क आफ्नै देश (कविता)","नेपालको वैदेशिक व्यापार (प्रबन्ध)","हजुर आमाको जन्मोत्सव (मनोवाद)","एकजोर जुत्ता (कथा)","जुन्को ताबेई (जीवनी)","प्यारो प्रकृति (कविता)","शैक्षिक भ्रमण (दैनिकी)","से गुम्बाको सुन्दरता","सम्पादकलाई चिठी (चिठी)","डल्ले खोला (कथा)"]);
+addChapters("Class 8","Science Environment (English)",["Physics: Measurement","Velocity and Acceleration","Simple Machine","Pressure","Work, Energy and Power","Heat","Light","Sound","Magnetism","Electricity","Chemistry: Matter","Mixture","Metal and Non-metal","Acid, Base and Salt","Useful Chemicals","Biology: Living Beings","Cell and Tissue","Life Process","Geology: Structure of the Earth","Weather and Climate","Earth and Universe","Environment: Balance","Degradation and Conservation","Sustainable Development"]);
+addChapters("Class 8","Science Environment (Nepali)",["भौतिक: मापन, वेग, साधारण यन्त्र","भौतिक: चाप, कार्य, उर्जा, ताप","भौतिक: प्रकाश, ध्वनि, चुम्बकत्व","रसायन: पदार्थ, मिश्रण, धातु","रसायन: अम्ल, क्षार, लवण","जीव: सजीव, कोष, जीवन प्रक्रिया","भूगर्भ: पृथ्वी, मौसम, ब्रह्माण्ड","वातावरण: सन्तुलन, संरक्षण"]);
+addChapters("Class 8","Social Studies Population",["हामी, हाम्रो परिवार र राष्ट्र","हाम्रो सामाजिक मूल्य र परम्परा","सामाजिक समस्या र समाधान","नागरिक चेतना","हाम्रो पृथ्वी","हाम्रो विगत","हाम्रो आर्थिक क्रियाकलाप","अन्तर्राष्ट्रिय सम्बन्ध","जनसङ्ख्या परिचय","जनसङ्ख्या वृद्धि र व्यवस्थापन"]);
+addChapters("Class 8","Vocational Technical Education",["व्यावसायिक शिक्षा","शिक्षा, तालिम र रोजगारी","रोजगारी सम्बन्धी सूचना","जीवनोपयोगी सीपहरू","व्यवसाय सञ्चालन","व्यवसाय व्यवस्थापन","तरकारी खेती","कुखुरा खेती","माछा खेती, घरेलु उद्योग","बुनाइ र हस्तकला","दुग्ध व्यवसाय र पशुपालन","लेखनकला"]);
+
+// Class 9 - from sarathi seed data
+addChapters("Class 9","Computer Science 2081",["Computer System","Number System","Block Programming","Web Technology","Internet and Social Media","Cyber Security and Digital Citizenship","Concept of Programming"]);
+addChapters("Class 9","Economics 2074",["Basic Concepts of Economics","Microeconomics","Macroeconomics","Development Economics","Nepal's Economy","Quantitative Techniques"]);
+addChapters("Class 9","English 2079",["Travel and Holidays","Health and Hygiene","Family, Market and Public Places","Life and Death","Ethics, Norms and Values","Custom and Culture","Ecology and Environment","Science and Technology","Work and Leisure","Earth and Space"]);
+addChapters("Class 9","Mathematics (English) 2022",["Sets","Tax","Commission and Dividend","Household Arithmetic","Area","Prism","Cylinder and Sphere","Sequence and Series","Factorization","HCF and LCM","Linear Equation","Indices","Triangle","Quadrilateral","Construction","Circle","Data Presentation","Measures of Central Tendency","Probability","Trigonometry"]);
+addChapters("Class 9","Mathematics (Nepali) 2079",["समूह (Sets)","कर (Tax)","कमिसन र लाभांश","घरायसी अङ्कगणित","क्षेत्रफल (Area)","प्रिज्म (Prism)","बेलना र गोला","अनुक्रम र श्रेणी","खण्डीकरण","महत्तम समापवर्तक","रेखीय समीकरण","घातांक","त्रिभुज","चतुर्भुज","रचना","वृत्त","तथ्याङ्क प्रस्तुतीकरण","केन्द्रिय मापन","सम्भाव्यता","त्रिकोणमिति"]);
+addChapters("Class 9","Mathematics Open Ended 2079",["समूह (Sets) — Open Ended","कर (Tax) — Open Ended","कमिसन र लाभांश — Open Ended","घरायसी अङ्कगणित — Open Ended","क्षेत्रफल (Area) — Open Ended","प्रिज्म (Prism) — Open Ended","बेलना र गोला — Open Ended","अनुक्रम र श्रेणी — Open Ended","खण्डीकरण — Open Ended","महत्तम समापवर्तक — Open Ended","रेखीय समीकरण — Open Ended","घातांक — Open Ended","त्रिभुज — Open Ended","चतुर्भुज — Open Ended","रचना — Open Ended","वृत्त — Open Ended","तथ्याङ्क प्रस्तुतीकरण — Open Ended","केन्द्रिय मापन — Open Ended","सम्भाव्यता — Open Ended","त्रिकोणमिति — Open Ended"]);
+addChapters("Class 9","Naturopath 2082",["Too corrupted to recover"]);
+addChapters("Class 9","Nepali 2079",["मेघ बिजुली विवाह","करेसाबारी","निवेदन","सत्यमोहन जोशी","पर्यावरण सन्तुलन","कालजित र अजङ्गको कथा","सारङ्गीमा देश","व्यक्तित्व विकासमा विद्यालय","समय पीडा","माइकल फेराडे","कार्यालयीय चिठी","नेपाली लोकबाजा","आमाको तस्बिर","भविष्य निर्माण"]);
+addChapters("Class 9","Optional Mathematics 2074",["Algebra (Relation, Function, Polynomial)","Limit","Matrices","Coordinate Geometry","Trigonometry","Vector","Transformation","Statistics"]);
+addChapters("Class 9","Optional Mathematics 2076",["Algebra","Concept of Set","Matrices","Coordinate Geometry","Trigonometry","Vector","Transformation","Statistics"]);
+addChapters("Class 9","Science Technology 2024",["Scientific Study","Classification of Living Beings","Mushroom","Evolution","Body Structure & Life Process","Nature and Environment","Force and Motion","Simple Machine","Energy","Wave","Electricity","The Universe","ICT","Atomic Structure","Chemical Reaction","Gases","Metals and Non-metals","Carbon Compounds","Agricultural Materials"]);
+addChapters("Class 9","Social Studies 2079",["We and Our Society","Infrastructure of Development","Our Social Values and Norms","Social Problems and Solutions","Civic Awareness","Our Earth","Our Past","Our Economic Activities"]);
+addChapters("Class 9","Yoga Education 2082",["Specification table only"]);
+
+// Class 10 - from sarathi seed + our extraction
+addChapters("Class 10","Accountancy",["Office Management","Filing and Indexing","Bank, Insurance, Finance","Introduction to Tax","Business Accounting","Bank Reconciliation","Errors in Accounting","Final Accounts","Government Accounting","Revenue Accounting","Government Expenditure","Inventory Accounting","Fund Accounting","Internal Control and Auditing","Agencies in Govt Accounting","IT in Office Management"]);
+addChapters("Class 10","Compulsory English",["Current Affairs and Issues","Festivals and Celebrations","Health and Wellness","Work and Leisure","Science and Experiment","Food and Cuisine","Cyber Security and Safety","Hobbies and Interests","Environment and Ecology","Career and Entrepreneurship"]);
+addChapters("Class 10","Compulsory Mathematics (English)",["Sets","Compound Interest","Growth and Depreciation","Currency & Exchange Rate","Area and Volume","Sequence and Series","Quadratic Equation","Algebraic Fraction","Indices","Triangles & Quadrilaterals","Construction","Circle","Statistics","Probability"]);
+addChapters("Class 10","Compulsory Mathematics (Nepali)",["समूह (Sets)","चक्रिय ब्याज (Compound Interest)","वृद्धि र ह्रास","मुद्रा विनिमय दर","क्षेत्रफल र आयतन","अनुक्रम र श्रेणी","द्विघात समीकरण","बीजीय भिन्न","घाताङ्क","त्रिभुज र चतुर्भुज","रचना","वृत्त","तथ्याङ्कशास्त्र","सम्भाव्यता"]);
+addChapters("Class 10","Compulsory Nepali",["उज्यालो यात्रा (कविता)","घरझगडा (कथा)","चिकित्सा विज्ञान र आयुर्वेद","यस्तो कहिल्यै नहोस् (मनोवाद)","लक्ष्मीप्रसाद देवकोटा (जीवनी)","अधिकार ठुलो कि कर्तव्य ठुलो ?","शत्रु (कथा)","नेपाली हाम्रो श्रम र सिप (कविता)","मेरो देशको शिक्षा (निबन्ध)","व्यावसायिक चिठी (चिठी)","कर्तव्य (कथा)","पाब्लो पिकासो (जीवनी)","पख्नोस् (निबन्ध)","घरको माया (एकाङ्की)","गाउँमाथि एउटा कविता (कविता)","आयाम (कथा)","सन्दुक रुइत (जीवनी)"]);
+addChapters("Class 10","Computer Science",["Networking and Telecommunication","Ethical and Social Issues in ICT","Computer Security","E-commerce","Contemporary Technology","Number System and Digital Logic","Database Management System","Programming in QBASIC","Modular Programming","File Handling in QBASIC","Structured Programming in C"]);
+addChapters("Class 10","Economics",["Basic Concepts & Resource Allocation","Microeconomics","Macroeconomics","Development Economics","Nepal's Economy","Quantitative Techniques"]);
+addChapters("Class 10","History",["Medieval Nepal (Singha, Simraungadh)","Modern Nepal (Panchayat to Federal)","World Civilizations","World Revolutions","World War II","Global Organizations (UN)","Practical Field (Research)"]);
+addChapters("Class 10","Optional Mathematics",["Function","Polynomial","Linear Programming","Quadratic Equation","Series","Matrix and Determinant","Trigonometry","Coordinate Geometry","Transformation","Vector","Statistics","Continuity"]);
+addChapters("Class 10","Science",["Scientific Study","Classification of Living Things","Bee","Heredity","Body Structure & Life Process","Nature and Environment","Force and Motion","Pressure","Heat","Wave","Electricity and Magnetism","Universe","ICT","Classification of Elements","Chemical Reaction","Gas","Metals and Non-metals","Hydrocarbon and its Compounds","Chemicals in Daily Life"]);
+addChapters("Class 10","Social Studies",["We and Our Society","Development & Infrastructure","Social Values and Norms","Social Problems and Solutions","Civic Awareness","Our Earth","Our Past","Economic Activities"]);
+
+// ====== RICH TOC TABLES (with page numbers and genres) ======
+const TOC_TABLES = {};
+
+function addTOC(k, arr){ TOC_TABLES[k] = arr; }
+
+// Class 1 Nepali
+addTOC("Class 1|Nepali",[
+  {num:1,title:"म र मेरो परिवार",page:"१"},{num:2,title:"मेरो दैनिक जीवन",page:"१५"},
+  {num:3,title:"हाम्रो समुदाय",page:"२७"},{num:4,title:"मेरो विद्यालय",page:"३९"},
+  {num:5,title:"हाम्रो वातावरण",page:"४९"},{num:6,title:"हाम्रो सिर्जना",page:"६५"},
+  {num:7,title:"रुचि र बानी",page:"८३"},{num:8,title:"हाम्रो संस्कृति",page:"१०१"},
+  {num:9,title:"सञ्चार, प्रविधि र बजार",page:"११९"},{num:10,title:"हाम्रो क्रियाकलाप",page:"१३९"},
+  {num:11,title:"हाम्रो वरपरको संसार",page:"१५३"}
+]);
+// Class 1 Serofero
+addTOC("Class 1|Serofero",[
+  {num:1,title:"म र मेरो परिवार",page:"१"},{num:2,title:"हाम्रो दैनिकी",page:"२९"},
+  {num:3,title:"हाम्रो समुदाय",page:"५९"},{num:4,title:"हाम्रो विद्यालय",page:"८४"},
+  {num:5,title:"हाम्रा वरपरका जीवजन्तु",page:"१११"},{num:6,title:"हाम्रो वातावरण",page:"१२७"},
+  {num:7,title:"हाम्रो सिर्जना",page:"१४४"},{num:8,title:"हाम्रा संस्कृति",page:"१६४"},
+  {num:9,title:"सञ्चार प्रविधि र बजार",page:"१७६"},{num:10,title:"हाम्रो वरपरको संसार",page:"१९४"}
+]);
+// Class 1 Mathematics (Nepali)
+addTOC("Class 1|Mathematics (Nepali)",[
+  {num:1,title:"आकारप्रकार र स्थान",page:"१"},{num:2,title:"रेखाहरू",page:"१३"},
+  {num:3,title:"ज्यामितीय आकारहरू",page:"१७"},{num:4,title:"९ सम्मका सङ्ख्याहरू",page:"२७"},
+  {num:5,title:"शून्य",page:"४५"},{num:6,title:"दश",page:"५०"},
+  {num:7,title:"योगफल १० सम्म आउने जोड",page:"५६"},{num:8,title:"१० सम्मका सङ्ख्याहरूको घटाउ",page:"७५"},
+  {num:9,title:"११ देखि २० सम्मका सङ्ख्याहरू",page:"९३"},{num:10,title:"योगफल २० सम्म आउने जोड",page:"१०५"},
+  {num:11,title:"२० सम्मका सङ्ख्याहरूको घटाउ",page:"११५"},{num:12,title:"जोर र बिजोर सङ्ख्याहरू",page:"१२४"},
+  {num:13,title:"२० सम्मका सङ्ख्याहरु अक्षरमा",page:"१२८"},{num:14,title:"क्रमात्मक सङ्ख्याहरू",page:"१३०"},
+  {num:15,title:"२१ देखि १०० सम्मका सङ्ख्याहरू",page:"१३६"},{num:16,title:"योगफल १०० सम्म आउने जोड",page:"१५०"},
+  {num:17,title:"दुई अङ्कसम्मका सङ्ख्याहरूको घटाउ",page:"१५७"},{num:18,title:"हिन्दु अरेबिक सङ्ख्याङ्कहरू",page:"१६३"},
+  {num:19,title:"समय",page:"१७४"},{num:20,title:"सिक्का र नोटहरू",page:"१७८"},
+  {num:21,title:"लम्बाइ",page:"१८३"},{num:22,title:"चित्रग्राफ",page:"१८८"}
+]);
+// Class 2 Nepali
+addTOC("Class 2|Nepali",[
+  {num:1,title:"म र मेरो परिवार",page:"१"},{num:2,title:"मेरो दैनिक जीवन",page:"१९"},
+  {num:3,title:"हाम्रो समुदाय",page:"३७"},{num:4,title:"मेरो विद्यालय",page:"५९"},
+  {num:5,title:"हाम्रो वातावरण",page:"७७"},{num:6,title:"मेरो सिर्जना",page:"९७"},
+  {num:7,title:"रुचि र बानी",page:"१११"},{num:8,title:"हाम्रो संस्कृति",page:"१२७"},
+  {num:9,title:"सञ्चार प्रविधि र बजार",page:"१४१"},{num:10,title:"हाम्रा क्रियाकलाप",page:"१५७"},
+  {num:11,title:"हाम्रो वरपरको संसार",page:"१७१"}
+]);
+// Class 2 Mathematics (Nepali)
+addTOC("Class 2|Mathematics (Nepali)",[
+  {num:1,title:"म र मेरो परिवार — क्षमता",page:"१–१०"},{num:2,title:"मेरो दैनिक जीवन — समय",page:"११–२२"},
+  {num:3,title:"सङ्ख्याको ज्ञान",page:"२३–७६"},{num:4,title:"हाम्रो समुदाय",page:"७७–९४"},
+  {num:5,title:"गणितका आधारभूत क्रिया १",page:"९५–१४६"},{num:6,title:"मेरो विद्यालय",page:"१४७–१८०"},
+  {num:7,title:"मेरो सिर्जना",page:"१८१–१९४"},{num:8,title:"सञ्चार प्रविधि र बजार",page:"१९५–२१०"},
+  {num:9,title:"गणितका आधारभूत क्रिया २",page:"२११–२४८"}
+]);
+// Class 3 Nepali
+addTOC("Class 3|Nepali",[
+  {num:1,title:"म र मेरो परिवार",page:"१"},{num:2,title:"मेरो दैनिक जीवन",page:"१७"},
+  {num:3,title:"हाम्रो समुदाय",page:"३७"},{num:4,title:"मेरो विद्यालय",page:"५३"},
+  {num:5,title:"हाम्रो वातावरण",page:"७३"},{num:6,title:"मेरो सिर्जना",page:"९९"},
+  {num:7,title:"रुचि र बानी",page:"११५"},{num:8,title:"हाम्रो संस्कृति",page:"१३१"},
+  {num:9,title:"सञ्चार प्रविधि र बजार",page:"१४७"},{num:10,title:"हाम्रा क्रियाकलाप",page:"१६५"},
+  {num:11,title:"हाम्रो वरपरको संसार",page:"१८३"}
+]);
+// Class 3 Maths (Nepali)
+addTOC("Class 3|Maths (Nepali)",[
+  {num:1,title:"मेरो दैनिक जीवन १ — समय १",page:"१–८"},{num:2,title:"सङ्ख्याको ज्ञान",page:"९–३८"},
+  {num:3,title:"हाम्रो समुदाय",page:"३९–६४"},{num:4,title:"मेरो सिर्जना",page:"६५–९६"},
+  {num:5,title:"गणितका आधारभूत क्रिया",page:"९७–१८४"},{num:6,title:"मेरो दैनिक जीवन २ — समय २",page:"१८५–२००"},
+  {num:7,title:"सञ्चार प्रविधि र बजार",page:"२०१–२४६"},{num:8,title:"नाप — क्षेत्रफल",page:"२४७–२५६"}
+]);
+// Class 4 Nepali (with genre!)
+addTOC("Class 4|Nepali",[
+  {num:1,title:"सबै मेरा गुरू",genre:"कविता",page:"१"},{num:2,title:"सुनको मूर्ति",genre:"कथा",page:"८"},
+  {num:3,title:"मलाई पुस्तक मन पर्छ",genre:"निबन्ध",page:"२०"},{num:4,title:"साथीलाई चिठी",genre:"चिठी",page:"३१"},
+  {num:5,title:"खेलकुदको महत्त्व",genre:"संवाद",page:"३९"},{num:6,title:"झुटको परिणाम",genre:"कथा",page:"४९"},
+  {num:7,title:"समाजसेवी महावीर पुन",genre:"जीवनी",page:"६०"},{num:8,title:"कुरिलो खेती",genre:"निबन्ध",page:"७२"},
+  {num:9,title:"घमन्डको फल",genre:"कथा",page:"८१"},{num:10,title:"सानी नदी",genre:"कविता",page:"९२"},
+  {num:11,title:"नारायणहिटी दरबार सङ्ग्रहालय",genre:"निबन्ध",page:"१००"},{num:12,title:"निसाफ",genre:"कथा",page:"१११"},
+  {num:13,title:"घले गाउँ",genre:"नियात्रा",page:"१२१"},{num:14,title:"जूनतारा छुन",genre:"कविता",page:"१३२"},
+  {num:15,title:"साथी",genre:"कथा",page:"१३८"}
+]);
+// Class 4 Mathematics (Nepali)
+addTOC("Class 4|Mathematics (Nepali)",[
+  {num:1,title:"रेखाहरू र कोणहरू",page:"१"},{num:2,title:"समतलीय आकृतिहरू",page:"८"},
+  {num:3,title:"ठोस वस्तुहरू",page:"१५"},{num:4,title:"सङ्ख्याको ज्ञान",page:"२६"},
+  {num:5,title:"गणितका आधारभूत क्रियाहरू",page:"४१"},{num:6,title:"भिन्न, दशमलव र प्रतिशत",page:"७३"},
+  {num:7,title:"समय",page:"९७"},{num:8,title:"मुद्रा",page:"११३"},
+  {num:9,title:"दुरी",page:"१२०"},{num:10,title:"क्षमता",page:"१३२"},
+  {num:11,title:"तौल",page:"१४०"},{num:12,title:"परिमिति र क्षेत्रफल",page:"१५२"},
+  {num:13,title:"बिल र बजेट",page:"१६३"},{num:14,title:"स्तम्भ चित्र",page:"१८९"},
+  {num:15,title:"बीजगणित",page:"२०४"}
+]);
+// Class 4 Health Physical Creative Arts (Nepali)
+addTOC("Class 4|Health Physical Creative Arts (Nepali)",[
+  {num:1,title:"व्यक्तिगत स्वच्छता",page:"१"},{num:2,title:"वातावरण सरसफाइ",page:"१०"},
+  {num:3,title:"खाना र पोषण",page:"१९"},{num:4,title:"रोग तथा पदार्थहरूको दुर्व्यसन",page:"२९"},
+  {num:5,title:"हाम्रो सुरक्षा",page:"४०"},{num:6,title:"कवाज र शारीरिक व्यायाम",page:"४९"},
+  {num:7,title:"एथ्लेटिक्स र जिम्नास्टिक",page:"५९"},{num:8,title:"खेलहरू",page:"७१"},
+  {num:9,title:"योग",page:"८२"},{num:10,title:"रेखाचित्र र रङ",page:"८७"},
+  {num:11,title:"छपाइ, माटाको काम, कोलाज",page:"१००"},{num:12,title:"गायन र वादन",page:"११५"},
+  {num:13,title:"नृत्य र अभिनय",page:"१२७"}
+]);
+// Class 4 Science and Technology (Nepali)
+addTOC("Class 4|Science and Technology (Nepali)",[
+  {num:1,title:"वैज्ञानिक सिकाइ",page:"१"},{num:2,title:"सूचना तथा सञ्चार प्रविधि",page:"१८"},
+  {num:3,title:"जीव र वातावरण",page:"४४"},{num:4,title:"सजीवहरूको वर्गीकरण",page:"५८"},
+  {num:5,title:"जीवन प्रक्रिया",page:"८१"},{num:6,title:"पदार्थ",page:"९१"},
+  {num:7,title:"शक्ति",page:"११७"},{num:8,title:"पृथ्वी र अन्तरिक्ष",page:"१३९"}
+]);
+// Class 5 Nepali
+addTOC("Class 5|Nepali",[
+  {num:1,title:"नैतिक दृष्टान्त",page:"१"},{num:2,title:"कर्मको फल",page:"४"},
+  {num:3,title:"कामको महिमा",page:"१२"},{num:4,title:"किसानको रहर",page:"१७"},
+  {num:5,title:"आँखाको ज्योति",page:"२१"},{num:6,title:"समय",page:"३१"},
+  {num:7,title:"बाल दिवस",page:"४०"},{num:8,title:"अनौठा प्रश्न",page:"४७"},
+  {num:9,title:"हाम्रो यात्रा",page:"५३"},{num:10,title:"साथीलाई चिठी",page:"५९"},
+  {num:11,title:"नदी",page:"६३"},{num:12,title:"प्रेरणा",page:"६७"},
+  {num:13,title:"रिसको औषधी",page:"७२"},{num:14,title:"सिक्नुपर्ने कुरा",page:"८०"},
+  {num:15,title:"बिरामी बिदाको निवेदन",page:"८५"},{num:16,title:"देशको माटो",page:"८९"},
+  {num:17,title:"सबैभन्दा ठुला भक्त",page:"९३"},{num:18,title:"परीक्षाको तयारी",page:"१०३"},
+  {num:19,title:"नर्सको जीवन",page:"१०९"},{num:20,title:"राष्ट्रिय गौरव",page:"११५"},
+  {num:21,title:"पश्चात्ताप",page:"१२०"},{num:22,title:"किताब कसरी बन्छ ?",page:"१२८"}
+]);
+// Class 5 Mathematics (Nepali)
+addTOC("Class 5|Mathematics (Nepali)",[
+  {num:1,title:"ज्यामिति",page:"१"},{num:2,title:"सङ्ख्याको ज्ञान",page:"१८"},
+  {num:3,title:"गणितका आधारभूत क्रियाहरू",page:"३४"},{num:4,title:"समय",page:"३९"},
+  {num:5,title:"मुद्रा",page:"४४"},{num:6,title:"दुरी",page:"५१"},
+  {num:7,title:"परिमिति",page:"५५"},{num:8,title:"क्षेत्रफल",page:"५९"},
+  {num:9,title:"क्षमता",page:"६३"},{num:10,title:"आयतन",page:"६७"},
+  {num:11,title:"तौल",page:"७२"},{num:12,title:"भिन्न र दशमलव",page:"७७"},
+  {num:13,title:"प्रतिशत",page:"९६"},{num:14,title:"ऐकिक नियम र साधारण ब्याज",page:"१०२"},
+  {num:15,title:"बिल र बजेट",page:"१०६"},{num:16,title:"तथ्याङ्क शास्त्र",page:"११०"},
+  {num:17,title:"समूह",page:"११८"},{num:18,title:"बीज गणित",page:"१२०"}
+]);
+// Class 6 Maths (English Transcribed) — 6 units
+addTOC("Class 6|Maths (English Transcribed)",[
+  {num:1,title:"Set",page:"1-9"},{num:2,title:"Number System (Whole Numbers, Integers, Fractions, Decimals, Percentage, Profit & Loss, Unitary Method)",page:"10-105"},
+  {num:3,title:"Mensuration (Distance, Perimeter, Area & Volume)",page:"106-127"},{num:4,title:"Algebra (Exponents, Algebraic Expressions, Equations & Graphs)",page:"128-158"},
+  {num:5,title:"Geometry (Lines & Angles, Plane Figures, Circle, Solids, Coordinates, Symmetry)",page:"159-223"},{num:6,title:"Statistics",page:"224-233"}
+]);
+// Class 6 Mathematics (Nepali) — 20 chapters
+addTOC("Class 6|Mathematics (Nepali)",[
+  {num:1,title:"समूह"},{num:2,title:"पूर्ण सङ्ख्या"},{num:3,title:"पूर्णाङ्कहरू"},{num:4,title:"भिन्न"},
+  {num:5,title:"दशमलव"},{num:6,title:"प्रतिशत"},{num:7,title:"नाफा र नोक्सान"},{num:8,title:"ऐकिक नियम"},
+  {num:9,title:"दुरी"},{num:10,title:"परिमिति, क्षेत्रफल र आयतन"},{num:11,title:"घाताङ्क"},{num:12,title:"बीजीय अभिव्यञ्जक"},
+  {num:13,title:"समीकरण, असमानता, लेखाचित्र"},{num:14,title:"रेखा र कोणहरू"},{num:15,title:"समतलीय आकृति"},
+  {num:16,title:"वृत्त"},{num:17,title:"ठोस वस्तुहरू"},{num:18,title:"निर्देशाङ्क ज्यामिति"},
+  {num:19,title:"सममिति र टेसेलेसन"},{num:20,title:"तथ्याङ्क शास्त्र"}
+]);
+// Class 6 Nepali — 16 chapters with genre
+addTOC("Class 6|Nepali",[
+  {num:1,title:"मातृभूमिको आवाज",genre:"कविता"},{num:2,title:"कुमार व्यव्रीत",genre:"कथा"},
+  {num:3,title:"नेपाली संस्कृति",genre:"निबन्ध"},{num:4,title:"छोरालाई चिठी",genre:"चिठी"},
+  {num:5,title:"सङ्गीतकार अम्बर गुरुङ",genre:"जीवनी"},{num:6,title:"चम्किला अनुहारहरू",genre:"कथा"},
+  {num:7,title:"सम्पत्तिभन्दा स्वास्थ्य ठुलो"},{num:8,title:"मेरा रहर",genre:"निबन्ध"},
+  {num:9,title:"जाग जाग",genre:"कविता"},{num:10,title:"आशाको दियो",genre:"कथा"},
+  {num:11,title:"सहभागिताका लागि निवेदन"},{num:12,title:"थोमस एल्भा एडिसन",genre:"जीवनी"},
+  {num:13,title:"लाग्दछ मलाई रमाइला",genre:"कविता"},{num:14,title:"वनभोज",genre:"संवाद"},
+  {num:15,title:"पानीको कथा",genre:"प्रबन्ध"},{num:16,title:"मायाको घर",genre:"कथा"}
+]);
+// Class 6 Science (Nepali)
+addTOC("Class 6|Science (Nepali)",[
+  {num:1,title:"वैज्ञानिक सिकाइ"},{num:2,title:"सूचना तथा सञ्चार प्रविधि"},
+  {num:3,title:"जीवहरू र तिनीहरूको बनोट"},{num:4,title:"जैविक विविधता र वातावरण"},
+  {num:5,title:"जीवन प्रक्रिया"},{num:6,title:"बल र चाल"},
+  {num:7,title:"दैनिक जीवनमा शक्ति"},{num:8,title:"विद्युत् र चुम्बकत्व"},
+  {num:9,title:"पदार्थ"},{num:10,title:"दैनिक प्रयोगका सामग्रीहरू"},
+  {num:11,title:"पृथ्वी र अन्तरिक्ष"}
+]);
+// Class 6 Social Studies
+addTOC("Class 6|Social Studies",[
+  {num:1,title:"हामी र हाम्रो समाज"},{num:2,title:"हाम्रा मानव मूल्य मान्यता"},
+  {num:3,title:"नागरिक चेतना, कर्तव्य र अधिकार"},{num:4,title:"सामाजिक समस्या र समाधान"},
+  {num:5,title:"हाम्रो विगत"},{num:6,title:"नेपालका आर्थिक क्रियाकलाप"},
+  {num:7,title:"हाम्रो पृथ्वी"},{num:8,title:"जनसङ्ख्या र यसको व्यवस्थापन"},
+  {num:9,title:"अन्तर्राष्ट्रिय सम्बन्ध र सूचना प्रविधि"}
+]);
+// Class 6 Health Physical (Nepali)
+addTOC("Class 6|Health Physical (Nepali)",[
+  {num:1,title:"मानव शरीर"},{num:2,title:"सामुदायिक स्वास्थ्य तथा मानसिक स्वास्थ्य"},
+  {num:3,title:"पोषण र खाद्य सुरक्षा"},{num:4,title:"रोग, सुरक्षा र प्राथमिक उपचार"},
+  {num:5,title:"यौनिक र प्रजनन स्वास्थ्य"},{num:6,title:"शारीरिक कसरत र कवाज"},
+  {num:7,title:"एथलेटिक्स र साहसिक क्रियाकलाप"},{num:8,title:"खेलहरू"},
+  {num:9,title:"योग"},{num:10,title:"कलाको परिचय, रेखाङ्कन र रङ"},
+  {num:11,title:"छपाइ, माटाको काम, कोलाज"},{num:12,title:"गायन र वादन"},
+  {num:13,title:"नृत्य र अभिनय"}
+]);
+// Class 7 Maths (Nepali) — 21 chapters
+addTOC("Class 7|Maths (Nepali)",[
+  {num:1,title:"समूह"},{num:2,title:"पूर्ण सङ्ख्या"},{num:3,title:"पूर्णाङ्क"},{num:4,title:"परिमेय सङ्ख्या"},
+  {num:5,title:"भिन्न र दशमलव"},{num:6,title:"अनुपात र समानुपात"},{num:7,title:"नाफा नोक्सान"},
+  {num:8,title:"ऐकिक नियम"},{num:9,title:"परिमिति, क्षेत्रफल, आयतन"},{num:10,title:"घाताङ्क"},
+  {num:11,title:"बीजीय अभिव्यञ्जक"},{num:12,title:"समीकरण, असमानता, लेखाचित्र"},{num:13,title:"रेखा र कोण"},
+  {num:14,title:"समतलीय आकृति"},{num:15,title:"सर्वागसम आकृति"},{num:16,title:"ठोस वस्तु"},
+  {num:17,title:"निर्देशाङ्क"},{num:18,title:"तथ्याङ्कशास्त्र"},{num:19,title:"सममिति"},
+  {num:20,title:"नाप र स्केल चित्र"},{num:21,title:"तथ्याङ्क प्रस्तुतीकरण"}
+]);
+// Class 7 Nepali — 17 chapters with genre
+addTOC("Class 7|Nepali",[
+  {num:1,title:"मेरो देश",genre:"कविता"},{num:2,title:"तितो बोली सच्चा गुण",genre:"कथा"},
+  {num:3,title:"स्वरोजगारीको महत्त्व",genre:"संवाद"},{num:4,title:"साहित्यिकार भूपि शेरचन",genre:"जीवनी"},
+  {num:5,title:"स्वस्थ्य जीवनका लागि योग",genre:"निबन्ध"},{num:6,title:"भाइलाई चिठी",genre:"चिठी"},
+  {num:7,title:"परिकल्पना",genre:"कथा"},{num:8,title:"सिर्जनाका कोपिला",genre:"निबन्ध"},
+  {num:9,title:"आमा",genre:"कविता"},{num:10,title:"अवसरको सदुपयोग",genre:"दैनिकी"},
+  {num:11,title:"अबोध",genre:"कथा"},{num:12,title:"मदर टेरेसा",genre:"जीवनी"},
+  {num:13,title:"जेष्ठ नागरिकहरूप्रति दायित्व"},{num:14,title:"काली गण्डकीको किनारै किनार"},
+  {num:15,title:"वसन्त",genre:"कविता"},{num:16,title:"गुरुको सम्मान",genre:"सम्मानपत्र"},
+  {num:17,title:"स्थायी बास",genre:"कथा"}
+]);
+// Class 7 Science Technology (Nepali)
+addTOC("Class 7|Science Technology (Nepali)",[
+  {num:1,title:"वैज्ञानिक सिकाइ"},{num:2,title:"सूचना तथा सञ्चार प्रविधि"},
+  {num:3,title:"जीवहरू र तिनको बनौट"},{num:4,title:"जैविक विविधता र वातावरण"},
+  {num:5,title:"जीवन प्रक्रिया"},{num:6,title:"बल र चाल"},{num:7,title:"दैनिक जीवनमा शक्ति"},
+  {num:8,title:"विद्युत् र चुम्बकत्व"},{num:9,title:"पदार्थ"},{num:10,title:"दैनिक प्रयोगका पदार्थ"},
+  {num:11,title:"पृथ्वी र अन्तरिक्ष"}
+]);
+// Class 7 Social Studies
+addTOC("Class 7|Social Studies",[
+  {num:1,title:"हामी र हाम्रो समाज"},{num:2,title:"हाम्रा मानव मूल्य मान्यता"},
+  {num:3,title:"नागरिक चेतना, अधिकार र कर्तव्य"},{num:4,title:"सामाजिक समस्या र समाधान"},
+  {num:5,title:"हाम्रो विगत"},{num:6,title:"हाम्रा आर्थिक क्रियाकलाप"},{num:7,title:"हाम्रो पृथ्वी"},
+  {num:8,title:"जनसङ्ख्या र यसको व्यवस्थापन"},{num:9,title:"हाम्रो अन्तर्राष्ट्रिय सम्बन्ध"}
+]);
+// Class 7 Health Physical (Nepali)
+addTOC("Class 7|Health Physical (Nepali)",[
+  {num:1,title:"मानव शरीर"},{num:2,title:"सामुदायिक स्वास्थ्य तथा मानसिक स्वास्थ्य"},
+  {num:3,title:"पोषण र खाद्य सुरक्षा"},{num:4,title:"रोग, सुरक्षा र प्राथमिक उपचार"},
+  {num:5,title:"यौनिक तथा प्रजनन स्वास्थ्य"},{num:6,title:"शारीरिक कसरत र कवाज"},
+  {num:7,title:"एथलेटिक्स र साहसिक क्रियाकलाप"},{num:8,title:"खेल"},
+  {num:9,title:"योग"},{num:10,title:"कलाको परिचय, रेखाचित्र र रङ"},
+  {num:11,title:"छपाइ, माटाको काम, कोलाज"},{num:12,title:"गायन र वादन"},
+  {num:13,title:"नृत्य र अभिनय"}
+]);
+// Class 8 Nepali 2080 — 17 chapters with genre
+addTOC("Class 8|Nepali 2080",[
+  {num:1,title:"सहिदहरूको सम्झनामा",genre:"कविता"},{num:2,title:"साकार सपना",genre:"कथा"},
+  {num:3,title:"स्वामी प्रपन्ताचार्य",genre:"जीवनी"},{num:4,title:"व्यावसायिक चिठी",genre:"चिठी"},
+  {num:5,title:"मानव अधिकार",genre:"निबन्ध"},{num:6,title:"अमर पुत्र",genre:"कथा"},
+  {num:7,title:"पदमार्ग",genre:"संवाद"},{num:8,title:"फर्क आफ्नै देश",genre:"कविता"},
+  {num:9,title:"नेपालको वैदेशिक व्यापार",genre:"प्रबन्ध"},{num:10,title:"हजुर आमाको जन्मोत्सव",genre:"मनोवाद"},
+  {num:11,title:"एकजोर जुत्ता",genre:"कथा"},{num:12,title:"जुन्को ताबेई",genre:"जीवनी"},
+  {num:13,title:"प्यारो प्रकृति",genre:"कविता"},{num:14,title:"शैक्षिक भ्रमण",genre:"दैनिकी"},
+  {num:15,title:"से गुम्बाको सुन्दरता"},{num:16,title:"सम्पादकलाई चिठी",genre:"चिठी"},
+  {num:17,title:"डल्ले खोला",genre:"कथा"}
+]);
+// Class 8 Nepali 2076 — 22 chapters with inferred genre
+addTOC("Class 8|Nepali 2076",[
+  {num:1,title:"नेपाल",genre:"कविता"},{num:2,title:"मिठो",genre:"कथा"},{num:3,title:"बिदेशीले यात्रा",genre:"जीवनी"},
+  {num:4,title:"हिमालपारि",genre:"निबन्ध"},{num:5,title:"लघुबान्धव"},{num:6,title:"प्रीति",genre:"कथा"},
+  {num:7,title:"जीवन र प्रेम",genre:"कविता"},{num:8,title:"एउटा निर्लज्जको संसार",genre:"जीवनी"},
+  {num:9,title:"सिर्जना र वातावरण",genre:"निबन्ध"},{num:10,title:"एउटा घटना",genre:"कथा"},
+  {num:11,title:"बुबालाई चिठी",genre:"चिठी"},{num:12,title:"मेरो घर",genre:"कविता"},
+  {num:13,title:"विज्ञान विनासको जरिवाना"},{num:14,title:"स्वस्थताको लागि योगाभ्यास"},{num:15,title:"सात सुन्दरी",genre:"कथा"},
+  {num:16,title:"स्काउट र गाइडिङ",genre:"निबन्ध"},{num:17,title:"हामी एउटै हौँ",genre:"प्रार्थना"},
+  {num:18,title:"चेपाङ",genre:"कविता"},{num:19,title:"जात्रा र पर्वको कथा"},{num:20,title:"नेपाली संस्कृति",genre:"निबन्ध"},
+  {num:21,title:"डा. कोफी अन्नान",genre:"जीवनी"},{num:22,title:"मधुकरी",genre:"कथा"}
+]);
+// Class 8 Social Studies Population
+addTOC("Class 8|Social Studies Population",[
+  {num:1,title:"हामी, हाम्रो परिवार र राष्ट्र"},{num:2,title:"हाम्रो सामाजिक मूल्य र परम्परा"},
+  {num:3,title:"सामाजिक समस्या र समाधान"},{num:4,title:"नागरिक चेतना"},{num:5,title:"हाम्रो पृथ्वी"},
+  {num:6,title:"हाम्रो विगत"},{num:7,title:"हाम्रो आर्थिक क्रियाकलाप"},{num:8,title:"अन्तर्राष्ट्रिय सम्बन्ध"},
+  {num:9,title:"जनसङ्ख्या परिचय"},{num:10,title:"जनसङ्ख्या वृद्धि र व्यवस्थापन"}
+]);
+// Class 8 Vocational Technical Education
+addTOC("Class 8|Vocational Technical Education",[
+  {num:1,title:"व्यावसायिक शिक्षा"},{num:2,title:"शिक्षा, तालिम र रोजगारी"},{num:3,title:"रोजगारी सम्बन्धी सूचना"},
+  {num:4,title:"जीवनोपयोगी सीपहरू"},{num:5,title:"व्यवसाय सञ्चालन"},{num:6,title:"व्यवसाय व्यवस्थापन"},
+  {num:7,title:"तरकारी खेती"},{num:8,title:"कुखुरा खेती"},{num:9,title:"माछा खेती, घरेलु उद्योग"},
+  {num:10,title:"बुनाइ र हस्तकला"},{num:11,title:"दुग्ध व्यवसाय र पशुपालन"},{num:12,title:"लेखनकला"}
+]);
+// Class 8 Science Environment (Nepali)
+addTOC("Class 8|Science Environment (Nepali)",[
+  {num:1,title:"भौतिक: मापन, वेग, साधारण यन्त्र"},{num:2,title:"भौतिक: चाप, कार्य, उर्जा, ताप"},
+  {num:3,title:"भौतिक: प्रकाश, ध्वनि, चुम्बकत्व"},{num:4,title:"रसायन: पदार्थ, मिश्रण, धातु"},
+  {num:5,title:"रसायन: अम्ल, क्षार, लवण"},{num:6,title:"जीव: सजीव, कोष, जीवन प्रक्रिया"},
+  {num:7,title:"भूगर्भ: पृथ्वी, मौसम, ब्रह्माण्ड"},{num:8,title:"वातावरण: सन्तुलन, संरक्षण"}
+]);
+// Class 8 Health Physical Education
+addTOC("Class 8|Health Physical Education",[
+  {num:1,title:"Human Body"},{num:2,title:"Personal Health"},{num:3,title:"Nutrition"},
+  {num:4,title:"Disease"},{num:5,title:"Adolescent Health"},{num:6,title:"Drugs, Alcohol, Tobacco"},
+  {num:7,title:"Environmental Health"},{num:8,title:"Safety and First Aid"},{num:9,title:"Family & Community Health"},
+  {num:10,title:"Physical Education: Exercise"},{num:11,title:"Drill"},{num:12,title:"Physical Training"},
+  {num:13,title:"Yoga"},{num:14,title:"Games"},{num:15,title:"Athletics"}
+]);
+// Class 8 Health Physical Creative Arts (English) — 13 units restored from CDC PDF
+addTOC("Class 8|Health Physical Creative Arts (English)",[
+  {num:1,title:"Human Body",page:"१"},{num:2,title:"Community Health and Mental Health",page:"१५"},
+  {num:3,title:"Nutrition and Food Security",page:"३०"},{num:4,title:"Disease, Safety and First Aid",page:"४४"},
+  {num:5,title:"Sexual and Reproductive Health",page:"६१"},{num:6,title:"Physical Exercise and Drill",page:"७७"},
+  {num:7,title:"Athletics and Adventurous Activities",page:"९६"},{num:8,title:"Games",page:"१०९"},
+  {num:9,title:"Yoga",page:"१४०"},{num:10,title:"Introduction to Arts, Line art and Colour",page:"१४७"},
+  {num:11,title:"Print making, Clay work, Collage and Construction",page:"१६४"},
+  {num:12,title:"Singing and Playing Instrument",page:"१८०"},{num:13,title:"Dance and Acting",page:"२०९"}
+]);
+// Class 8 Maths (English Transcribed) — 21 chapters from CDC English PDF
+addTOC("Class 8|Maths (English Transcribed)",[
+  {num:1,title:"Set",page:"१"},{num:2,title:"Whole Numbers",page:"१३"},{num:3,title:"Rational and Irrational Numbers",page:"२८"},
+  {num:4,title:"Ratio and Proportion",page:"४५"},{num:5,title:"Profit and Loss",page:"५६"},{num:6,title:"Unitary Method",page:"६५"},
+  {num:7,title:"Simple Interest",page:"७९"},{num:8,title:"Area and Volume",page:"९५"},{num:9,title:"Indices",page:"१३१"},
+  {num:10,title:"Algebraic Expression",page:"१३८"},{num:11,title:"Algebraic Fraction",page:"१६६"},{num:12,title:"Equation and Graph",page:"१८५"},
+  {num:13,title:"Lines and Angles",page:"१९९"},{num:14,title:"Plane Figures",page:"२१२"},{num:15,title:"Congruency and Similarity",page:"२४९"},
+  {num:16,title:"Solid objects",page:"२६८"},{num:17,title:"Coordinates",page:"२७६"},{num:18,title:"Tessellation",page:"२८२"},
+  {num:19,title:"Transformation",page:"२८७"},{num:20,title:"Bearing and Scale Drawing",page:"२९०"},{num:21,title:"Statistics",page:"३१४"}
+]);
+// Class 8 Maths (Nepali) — 22 chapters decoded from Preeti TOC
+addTOC("Class 8|Maths (Nepali)",[
+  {num:1,title:"रेखा र कोण"},{num:2,title:"त्रिभुज, चतुर्भुज र बहुभुज"},{num:3,title:"त्रिभुजको सर्वांगसमता र समरूपता"},
+  {num:4,title:"वृत्त"},{num:5,title:"ठोस आकृतिहरू"},{num:6,title:"निर्देशांक"},{num:7,title:"क्षेत्रफल र आयतन"},
+  {num:8,title:"स्थानान्तरण"},{num:9,title:"बीजगणितीय अभिव्यक्ति"},{num:10,title:"संख्या"},{num:11,title:"अभाज्य संख्याहरू"},
+  {num:12,title:"अभाज्य गुणनखण्ड"},{num:13,title:"पूर्ण संख्याहरू"},{num:14,title:"प्राकृतिक संख्याहरू"},
+  {num:15,title:"अनुपात, समानुपात र प्रतिशत"},{num:16,title:"नाफा र नोक्सान"},{num:17,title:"पाइथागोरस नियम"},
+  {num:18,title:"साधारण ब्याज"},{num:19,title:"तथ्याङ्क शास्त्र"},{num:20,title:"बीजगणितीय अभिव्यक्तिहरू"},
+  {num:21,title:"ग्राफ"},{num:22,title:"समीकरण, असमानता र रेखाचित्र"}
+]);
+// Class 9 Nepali 2079 — 14 chapters with genre from ALL_TOC
+addTOC("Class 9|Nepali 2079",[
+  {num:1,title:"मेघ बिजुली विवाह"},{num:2,title:"करेसाबारी"},{num:3,title:"निवेदन"},
+  {num:4,title:"सत्यमोहन जोशी"},{num:5,title:"पर्यावरण सन्तुलन"},{num:6,title:"कालजित र अजङ्गको कथा"},
+  {num:7,title:"सारङ्गीमा देश"},{num:8,title:"व्यक्तित्व विकासमा विद्यालय"},{num:9,title:"समय पीडा"},
+  {num:10,title:"माइकल फेराडे"},{num:11,title:"कार्यालयीय चिठी"},{num:12,title:"नेपाली लोकबाजा"},
+  {num:13,title:"आमाको तस्बिर"},{num:14,title:"भविष्य निर्माण"}
+]);
+// Class 9 Computer Science 2081 (English, with PDF page numbers)
+addTOC("Class 9|Computer Science 2081",[
+  {num:1,title:"Computer System",page:"१"},{num:2,title:"Number System",page:"४१"},
+  {num:3,title:"Block Programming",page:"५३"},{num:4,title:"Web Technology",page:"८१"},
+  {num:5,title:"Internet and Social Media",page:"१४३"},{num:6,title:"Cyber Security and Digital Citizenship",page:"१६७"},
+  {num:7,title:"Concept of Programming",page:"१८५"}
+]);
+// Class 10 Compulsory Nepali (with genre + page)
+addTOC("Class 10|Compulsory Nepali",[
+  {num:1,title:"उज्यालो यात्रा",genre:"कविता",page:"१"},{num:2,title:"घरझगडा",genre:"कथा",page:"१२"},
+  {num:3,title:"चिकित्सा विज्ञान र आयुर्वेद चिकित्सा",genre:"निबन्ध",page:"२५"},{num:4,title:"यस्तो कहिल्यै नहोस्",genre:"मनोवाद",page:"३९"},
+  {num:5,title:"लक्ष्मीप्रसाद देवकोटा",genre:"जीवनी",page:"५१"},{num:6,title:"अधिकार ठुलो कि कर्तव्य ठुलो ?",genre:"वादविवाद",page:"६८"},
+  {num:7,title:"शत्रु",genre:"कथा",page:"८९"},{num:8,title:"नेपाली हाम्रो श्रम र सिप",genre:"कविता",page:"१०३"},
+  {num:9,title:"मेरो देशको शिक्षा",genre:"निबन्ध",page:"११४"},{num:10,title:"व्यावसायिक चिठी",genre:"चिठी",page:"१२९"},
+  {num:11,title:"कर्तव्य",genre:"कथा",page:"१४१"},{num:12,title:"पाब्लो पिकासो",genre:"जीवनी",page:"१५९"},
+  {num:13,title:"पख्नोस्",genre:"निबन्ध",page:"१७६"},{num:14,title:"घरको माया",genre:"एकाङ्की",page:"१८८"},
+  {num:15,title:"गाउँमाथि एउटा कविता",genre:"कविता",page:"२०७"},{num:16,title:"आयाम",genre:"कथा",page:"२१८"},
+  {num:17,title:"सन्दुक रुइत",genre:"जीवनी",page:"२३५"}
+]);
+// Class 10 Compulsory Mathematics (Nepali)
+addTOC("Class 10|Compulsory Mathematics (Nepali)",[
+  {num:1,title:"समूह (Sets)"},{num:2,title:"चक्रिय ब्याज (Compound Interest)"},{num:3,title:"वृद्धि र ह्रास"},
+  {num:4,title:"मुद्रा विनिमय दर"},{num:5,title:"क्षेत्रफल र आयतन"},{num:6,title:"अनुक्रम र श्रेणी"},
+  {num:7,title:"द्विघात समीकरण"},{num:8,title:"बीजीय भिन्न"},{num:9,title:"घाताङ्क"},
+  {num:10,title:"त्रिभुज र चतुर्भुज"},{num:11,title:"रचना"},{num:12,title:"वृत्त"},
+  {num:13,title:"तथ्याङ्कशास्त्र"},{num:14,title:"सम्भाव्यता"}
+]);
+// Class 10 Science (Nepali topics)
+addTOC("Class 10|Science",[
+  {num:1,title:"वैज्ञानिक अध्ययन"},{num:2,title:"सजीवहरूको वर्गीकरण"},{num:3,title:"मौरी"},
+  {num:4,title:"वंशानुक्रम"},{num:5,title:"शारीरिक संरचना र जीवन प्रक्रिया"},{num:6,title:"प्रकृति र वातावरण"},
+  {num:7,title:"बल र चाल"},{num:8,title:"चाप"},{num:9,title:"ताप"},{num:10,title:"तरङ्ग"},
+  {num:11,title:"विद्युत् र चुम्बकत्व"},{num:12,title:"ब्रह्माण्ड"},{num:13,title:"सूचना तथा सञ्चार प्रविधि"},
+  {num:14,title:"तत्त्वको वर्गीकरण"},{num:15,title:"रासायनिक प्रतिक्रिया"},{num:16,title:"ग्यास"},
+  {num:17,title:"धातु र अधातु"},{num:18,title:"हाइड्रोकार्बन र यसका यौगिकहरू"},{num:19,title:"दैनिक जीवनमा प्रयोग हुने रसायनहरू"}
+]);
+// Class 10 Accountancy (Nepali)
+addTOC("Class 10|Accountancy",[
+  {num:1,title:"Office Management"},{num:2,title:"Filing and Indexing"},{num:3,title:"Bank, Insurance, Finance"},
+  {num:4,title:"Introduction to Tax"},{num:5,title:"Business Accounting"},{num:6,title:"Bank Reconciliation"},
+  {num:7,title:"Errors in Accounting"},{num:8,title:"Final Accounts"},{num:9,title:"Government Accounting"},
+  {num:10,title:"Revenue Accounting"},{num:11,title:"Government Expenditure"},{num:12,title:"Inventory Accounting"},
+  {num:13,title:"Fund Accounting"},{num:14,title:"Internal Control and Auditing"},{num:15,title:"Agencies in Govt Accounting"},
+  {num:16,title:"IT in Office Management"}
+]);
+// Class 10 Social Studies
+addTOC("Class 10|Social Studies",[
+  {num:1,title:"We and Our Society"},{num:2,title:"Development & Infrastructure"},{num:3,title:"Social Values and Norms"},
+  {num:4,title:"Social Problems and Solutions"},{num:5,title:"Civic Awareness"},{num:6,title:"Our Earth"},
+  {num:7,title:"Our Past"},{num:8,title:"Economic Activities"}
+]);
+// Class 10 Economics
+addTOC("Class 10|Economics",[
+  {num:1,title:"Basic Concepts & Resource Allocation"},{num:2,title:"Microeconomics"},{num:3,title:"Macroeconomics"},
+  {num:4,title:"Development Economics"},{num:5,title:"Nepal's Economy"},{num:6,title:"Quantitative Techniques"}
+]);
+// Class 10 History
+addTOC("Class 10|History",[
+  {num:1,title:"Medieval Nepal (Singha, Simraungadh)"},{num:2,title:"Modern Nepal (Panchayat to Federal)"},
+  {num:3,title:"World Civilizations"},{num:4,title:"World Revolutions"},{num:5,title:"World War II"},
+  {num:6,title:"Global Organizations (UN)"},{num:7,title:"Practical Field (Research)"}
+]);
+// Class 10 Optional Mathematics
+addTOC("Class 10|Optional Mathematics",[
+  {num:1,title:"Function"},{num:2,title:"Polynomial"},{num:3,title:"Linear Programming"},
+  {num:4,title:"Quadratic Equation"},{num:5,title:"Series"},{num:6,title:"Matrix and Determinant"},
+  {num:7,title:"Trigonometry"},{num:8,title:"Coordinate Geometry"},{num:9,title:"Transformation"},
+  {num:10,title:"Vector"},{num:11,title:"Statistics"},{num:12,title:"Continuity"}
+]);
+
+// Class 10 Computer Science (with PDF page numbers)
+addTOC("Class 10|Computer Science",[
+  {num:1,title:"Networking and Telecommunication",page:"१"},
+  {num:2,title:"Ethical and Social Issues in ICT",page:"३४"},
+  {num:3,title:"Computer Security",page:"४७"},
+  {num:4,title:"E-commerce",page:"६४"},
+  {num:5,title:"Contemporary Technology",page:"७३"},
+  {num:6,title:"Number System and Digital Logic",page:"८३"},
+  {num:7,title:"Database Management System",page:"१०३"},
+  {num:8,title:"Programming in QBASIC",page:"१५०"},
+  {num:9,title:"Modular Programming",page:"१५७"},
+  {num:10,title:"File Handling in QBASIC",page:"१८७"},
+  {num:11,title:"Structured Programming in C",page:"२०९"}
+]);
+
+// mark corrupted/unindexable
+const UNINDEXABLE = new Set(["Class 9|Naturopath 2082","Class 9|Yoga Education 2082"]);
+
+// ====== APP STATE ======
+let activeClass = null, activeSubject = null, selectedChapter = null, result = null, error = null;
+function key(c,s){return c+'|'+s}
+
+function getChapters(c,s){
+  const k = key(c,s);
+  if(UNINDEXABLE.has(k)) return null;
+  return CHAPTERS[k] || null;
+}
+
+// ====== RENDER SIDEBAR ======
+function renderSidebar(){
+  const nav = document.getElementById('sidebarNav');
+  nav.innerHTML = '';
+  Object.keys(INDEX).forEach(cls => {
+    const clsDiv = document.createElement('div');
+    const clsBtn = document.createElement('button');
+    clsBtn.className = 'classRow' + (activeClass === cls ? ' active' : '');
+    clsBtn.innerHTML = `<span>${activeClass===cls?'▾':'▸'}</span><span>${cls}</span><span class="countPill">${INDEX[cls].length}</span>`;
+    clsBtn.onclick = () => { activeClass = (activeClass===cls) ? null : cls; activeSubject=null; selectedChapter=null; renderSidebar(); renderContent(); };
+    clsDiv.appendChild(clsBtn);
+
+    const subWrap = document.createElement('div');
+    subWrap.className = 'subjectList' + (activeClass===cls?' open':'');
+    INDEX[cls].forEach((sub,i) => {
+      const s = document.createElement('button');
+      s.className = 'subjectRow' + (activeClass===cls && activeSubject===i ? ' active' : '');
+      s.innerHTML = `<span style="font-size:11px;opacity:.6">${getIcon(sub)}</span><span class="subjectLabel">${sub}</span>`;
+      s.onclick = () => { activeSubject=i; selectedChapter=null; result=null; error=null; renderSidebar(); renderContent(); closeSidebar(); };
+      subWrap.appendChild(s);
+    });
+    clsDiv.appendChild(subWrap);
+    nav.appendChild(clsDiv);
+  });
+}
+
+function getIcon(s){
+  const l=s.toLowerCase();
+  if(l.includes('english')) return '📘';
+  if(l.includes('math')) return '📐';
+  if(l.includes('nepali')) return '📖';
+  if(l.includes('social')||l.includes('population')) return '🌍';
+  if(l.includes('science')) return '🔬';
+  if(l.includes('health')||l.includes('physical')) return '🏃';
+  if(l.includes('moral')) return '⭐';
+  if(l.includes('computer')) return '💻';
+  if(l.includes('economics')) return '💰';
+  if(l.includes('history')) return '📜';
+  if(l.includes('account')) return '💰';
+  if(l.includes('vocational')) return '🔧';
+  if(l.includes('yoga')) return '🧘';
+  if(l.includes('serofero')) return '🌿';
+  return '📄';
+}
+
+// ====== RENDER CONTENT ======
+function renderContent(){
+  const body = document.getElementById('bodyArea');
+  const crumb = document.getElementById('crumb');
+  const welcome = document.getElementById('welcome');
+  const mainWork = document.getElementById('mainWork');
+
+  if(!activeClass || activeSubject===null){
+    welcome.style.display='flex';
+    mainWork.style.display='none';
+    crumb.textContent = 'Select a class';
+    return;
+  }
+
+  const cls = activeClass;
+  const sub = INDEX[cls][activeSubject];
+  crumb.textContent = cls + ' / ' + sub;
+  welcome.style.display='none';
+  mainWork.style.display='flex';
+
+  const ch = getChapters(cls, sub);
+  const isUnindexable = UNINDEXABLE.has(key(cls, sub));
+
+  // Chapter column
+  const chCol = document.getElementById('chapterCol');
+  const tblData = TOC_TABLES[key(cls, sub)];
+  if(!ch || isUnindexable){
+    chCol.innerHTML = `<div class="colLabel">Chapters</div>
+      <div style="padding:12px 0;color:#8A8070;font-size:13px;text-align:center">
+        ${isUnindexable ? '⚠️ OCR scan too damaged' : 'Chapters not available'}
+      </div>`;
+  } else if(tblData){
+    const hasGenre = tblData.some(r => r.genre);
+    const hasPage = tblData.some(r => r.page);
+    let html = `<div class="colLabel" style="margin-bottom:4px">Table of Contents</div>`;
+    html += `<table class="tocTable"><thead><tr><th class="num">#</th><th>Title</th>`;
+    if(hasGenre) html += `<th class="genre">Genre</th>`;
+    if(hasPage) html += `<th class="page">Page</th>`;
+    html += `</tr></thead><tbody>`;
+    tblData.forEach((r,i) => {
+      const act = selectedChapter===i ? ' active' : '';
+      html += `<tr class="${act}" onclick="selectChapter(${i})" style="cursor:pointer">`;
+      html += `<td class="num">${r.num}</td><td>${r.title}</td>`;
+      if(hasGenre) html += `<td class="genre">${r.genre||'—'}</td>`;
+      if(hasPage) html += `<td class="page">${r.page||'—'}</td>`;
+      html += `</tr>`;
+    });
+    html += `</tbody></table>`;
+    chCol.innerHTML = html;
+  } else {
+    let html = `<div class="colLabel">Chapters (${ch.chapters.length})</div>`;
+    ch.chapters.forEach((c,i) => {
+      html += `<button class="chapterBtn${selectedChapter===i?' active':''}" onclick="selectChapter(${i})">${c}</button>`;
+    });
+    chCol.innerHTML = html;
+  }
+
+  // Work column
+  const workCol = document.getElementById('workCol');
+  if(isUnindexable){
+    workCol.innerHTML = `<div class="emptyState"><div class="emptyIcon">⚠️</div><div class="emptyTitle">OCR scan too damaged</div><div class="emptyDesc">This book's scan is too corrupted to extract chapter titles reliably.</div></div>`;
+    return;
+  }
+  if(!ch){
+    workCol.innerHTML = `<div class="emptyState"><div class="emptyIcon">📖</div><div class="emptyTitle">Chapters not indexed yet</div><div class="emptyDesc">This book hasn't been broken into chapters yet.</div></div>`;
+    return;
+  }
+  if(selectedChapter===null){
+    workCol.innerHTML = `<div class="pickPrompt">Select a chapter to view details</div>`;
+    return;
+  }
+
+  const tblDataRow = tblData ? tblData[selectedChapter] : null;
+  const chapterName = tblDataRow ? tblDataRow.title : ch.chapters[selectedChapter];
+  let metaHtml = '';
+  if(tblDataRow && (tblDataRow.genre || tblDataRow.page)){
+    metaHtml = `<div class="chapterMeta">`;
+    if(tblDataRow.genre) metaHtml += `<span class="genreBadge">${tblDataRow.genre}</span>`;
+    if(tblDataRow.page) metaHtml += `${tblDataRow.genre ? ' ' : ''}Page ${tblDataRow.page}`;
+    metaHtml += `</div>`;
+  }
+  workCol.innerHTML = `
+    <div class="chapterTitle">${chapterName}</div>
+    ${metaHtml}
+    <div class="actionsRow">
+      <button class="actionCard" onclick="callAI('mcq')"><div style="font-size:20px">📝</div><div class="actionLabel">Generate MCQs</div><div class="actionDesc">10 questions with answer key</div></button>
+      <button class="actionCard" onclick="callAI('mindmap')"><div style="font-size:20px">🧠</div><div class="actionLabel">Mind Map</div><div class="actionDesc">Visual concept breakdown</div></button>
+      <button class="actionCard" onclick="callAI('exercise')"><div style="font-size:20px">✏️</div><div class="actionLabel">Practice Exercise</div><div class="actionDesc">Mixed Q&A with solutions</div></button>
+    </div>
+    <div class="queryRow">
+      <input class="queryInput" id="queryInput" placeholder="Ask a question about this chapter..." onkeydown="if(event.key==='Enter')callAI('ask')">
+      <button class="queryBtn" onclick="callAI('ask')">Ask AI</button>
+    </div>
+    <div id="resultArea"></div>
+  `;
+}
+
+function selectChapter(i){
+  selectedChapter = i; result=null; error=null; renderContent();
+}
+
+function getChapterName(){
+  const subj = INDEX[activeClass][activeSubject];
+  const tr = TOC_TABLES[key(activeClass, subj)];
+  if(tr && tr[selectedChapter]) return tr[selectedChapter].title;
+  const ch = getChapters(activeClass, subj);
+  return ch ? ch.chapters[selectedChapter] : '';
+}
+// Uses relative paths: works with python server.py locally, or Netlify Functions when deployed
+const API_BASE = '';
+
+function callAI(mode){
+  var resultArea = document.getElementById('resultArea');
+  var subj = INDEX[activeClass][activeSubject];
+  var chName = getChapterName();
+  var modeNames = {mcq:'MCQs',mindmap:'Mind Map',exercise:'Practice',ask:'Ask AI'};
+  var icons = {mcq:'📝',mindmap:'🧠',exercise:'✏️',ask:'💬'};
+  var label = (icons[mode]||'💬')+' '+(modeNames[mode]||'');
+  var query = '';
+  if(mode==='ask'){
+    query = document.getElementById('queryInput').value.trim();
+    if(!query){ document.getElementById('queryInput').focus(); return; }
+  } else {
+    query = 'Generate '+modeNames[mode].toLowerCase()+' for the chapter "'+chName+'".';
+  }
+  resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText"><span class="loadingDots">Thinking</span></div></div>';
+  var btns = document.querySelectorAll('.actionCard, .queryBtn');
+  for(var b=0;b<btns.length;b++) btns[b].disabled = true;
+  var payload = {class:activeClass,subject:subj,chapterIndex:selectedChapter,query:query,mode:mode};
+  // Try streaming first
+  var streamPayload = JSON.parse(JSON.stringify(payload));
+  streamPayload.stream = true;
+  var xhr = new XMLHttpRequest();
+  xhr.open('POST', API_BASE+'/api/chat/stream', true);
+  xhr.setRequestHeader('Content-Type','application/json');
+  var lastIdx = 0;
+  xhr.onprogress = function(){
+    var text = xhr.responseText.substring(lastIdx);
+    lastIdx = xhr.responseText.length;
+    if(text){
+      resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText" style="white-space:pre-wrap">'+xhr.responseText+'</div></div>';
+    }
+  };
+  xhr.onload = function(){
+    if(xhr.status===200){
+      resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText" style="white-space:pre-wrap">'+xhr.responseText+'</div></div>';
+    } else {
+      // Fallback to non-streaming
+      var xhr2 = new XMLHttpRequest();
+      xhr2.open('POST', API_BASE+'/api/chat', true);
+      xhr2.setRequestHeader('Content-Type','application/json');
+      xhr2.onload = function(){
+        if(xhr2.status===200){
+          var data = JSON.parse(xhr2.responseText);
+          if(data.error) throw new Error(data.error);
+          resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText" style="white-space:pre-wrap">'+data.answer+'</div></div>';
+        } else {
+          resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="errorBox">⚠️ Error: Could not reach AI server.</div></div>';
+        }
+      };
+      xhr2.onerror = function(){
+        resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="errorBox">⚠️ Network error. Check your connection.</div></div>';
+      };
+      xhr2.send(JSON.stringify(payload));
+    }
+    for(var b=0;b<btns.length;b++) btns[b].disabled = false;
+  };
+  xhr.onerror = function(){
+    resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="errorBox">⚠️ Network error. Check your connection.</div></div>';
+    for(var b=0;b<btns.length;b++) btns[b].disabled = false;
+  };
+  xhr.send(JSON.stringify(streamPayload));
+}
+
+function filterSidebar(val){
+  const q = val.toLowerCase().trim();
+  document.querySelectorAll('.classRow').forEach(el => {
+    const text = el.textContent.toLowerCase();
+    el.closest('div').style.display = (!q || text.includes(q)) ? '' : 'none';
+  });
+}
+
+function toggleSidebar(){
+  document.getElementById('sidebar').classList.toggle('open');
+  document.getElementById('overlay').classList.toggle('show');
+}
+function closeSidebar(){
+  if(window.innerWidth<=768){
+    document.getElementById('sidebar').classList.remove('open');
+    document.getElementById('overlay').classList.remove('show');
+  }
+}
+
+renderSidebar();
+renderContent();
+</script>
+</body>
+</html>
