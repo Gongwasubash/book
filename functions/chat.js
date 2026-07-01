@@ -1,34 +1,8 @@
-const fs = require('fs');
-const path = require('path');
 const https = require('https');
 
-const SITE_ROOT = process.cwd();
 const GROQ_API_KEY = process.env.GROQ_API_KEY || '';
 const GROQ_URL = 'https://api.groq.com/openai/v1/chat/completions';
 const GROQ_MODEL = process.env.GROQ_MODEL || 'llama-3.3-70b-versatile';
-
-function buildFileMap() {
-  const fmap = {};
-  for (let i = 1; i <= 10; i++) {
-    const clsDir = path.join(SITE_ROOT, `Class ${i}`);
-    try {
-      const entries = fs.readdirSync(clsDir, { withFileTypes: true });
-      for (const ent of entries) {
-        if (!ent.name.endsWith('.md') || ent.name.includes('DUPLICATE')) continue;
-        const stem = ent.name.replace(/\.md$/, '');
-        const m = stem.match(/^Class\s+\d+\s+(.+)$/);
-        if (m) {
-          fmap[`Class ${i}|${m[1].trim()}`] = path.join(clsDir, ent.name);
-        }
-      }
-    } catch (_) {
-      // Directory doesn't exist
-    }
-  }
-  return fmap;
-}
-
-const FILE_MAP = buildFileMap();
 
 exports.handler = async (event, context) => {
   if (event.httpMethod !== 'POST') {
@@ -47,38 +21,19 @@ exports.handler = async (event, context) => {
   const chapterIndex = data.chapterIndex;
   const query = data.query || '';
   const mode = data.mode || 'ask';
-
+  const fileContent = data.fileContent || '';
   const isStream = data.stream === true;
 
-  // Resolve file path
-  let filePath = FILE_MAP[`${cls}|${subj}`];
-  if (!filePath) {
-    for (const [key, p] of Object.entries(FILE_MAP)) {
-      const [c, s] = key.split('|');
-      if (c === cls && (s.toLowerCase() === subj.toLowerCase() || s.toLowerCase().includes(subj.toLowerCase()) || subj.toLowerCase().includes(s.toLowerCase()))) {
-        filePath = p;
-        break;
-      }
-    }
-  }
-  if (!filePath) {
-    return {
-      statusCode: 404,
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ error: `File not found for ${cls}/${subj}` })
-    };
+  if (!GROQ_API_KEY) {
+    const err = 'GROQ_API_KEY not set. Add it in Netlify dashboard → Site settings → Environment variables.';
+    if (isStream) return { statusCode: 200, headers: { 'Content-Type': 'text/plain' }, body: err };
+    return { statusCode: 502, headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ error: err }) };
   }
 
-  // Read file content
-  let content;
-  try {
-    content = fs.readFileSync(filePath, 'utf-8');
-  } catch (e) {
-    return {
-      statusCode: 500,
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ error: `Failed to read file: ${e.message}` })
-    };
+  if (!fileContent) {
+    const err = 'Could not read textbook file. Make sure the markdown file exists in the repo.';
+    if (isStream) return { statusCode: 200, headers: { 'Content-Type': 'text/plain' }, body: err };
+    return { statusCode: 502, headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ error: err }) };
   }
 
   const subjectHeader = `${cls} - ${subj}`;
@@ -125,11 +80,10 @@ Format clearly with sections.`,
     chapterContext = `\n(The student is asking about Chapter ${chapterIndex + 1})`;
   }
 
-  const truncatedContent = content.substring(0, 12000);
   const userPrompt = `Here is the full textbook content for ${subjectHeader}:
 
 === BEGIN TEXTBOOK CONTENT ===
-${truncatedContent}
+${fileContent.substring(0, 12000)}
 === END TEXTBOOK CONTENT ===
 
 ${chapterContext}
@@ -191,7 +145,6 @@ Student's request: ${query}`;
     });
 
     const answer = result.choices?.[0]?.message?.content || '';
-    const usage = result.usage || {};
 
     if (isStream) {
       return {
@@ -204,10 +157,13 @@ Student's request: ${query}`;
     return {
       statusCode: 200,
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ answer, usage, model: GROQ_MODEL })
+      body: JSON.stringify({ answer, usage: result.usage || {}, model: GROQ_MODEL })
     };
 
   } catch (e) {
+    if (isStream) {
+      return { statusCode: 200, headers: { 'Content-Type': 'text/plain' }, body: `Error: ${e.message}` };
+    }
     return {
       statusCode: 502,
       headers: { 'Content-Type': 'application/json' },

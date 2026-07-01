@@ -859,7 +859,7 @@ function getChapterName(){
 // Uses relative paths: works with python server.py locally, or Netlify Functions when deployed
 const API_BASE = '';
 
-function callAI(mode){
+async function callAI(mode){
   var resultArea = document.getElementById('resultArea');
   var subj = INDEX[activeClass][activeSubject];
   var chName = getChapterName();
@@ -873,12 +873,30 @@ function callAI(mode){
   } else {
     query = 'Generate '+modeNames[mode].toLowerCase()+' for the chapter "'+chName+'".';
   }
-  resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText"><span class="loadingDots">Thinking</span></div></div>';
+
+  // Show loading state
+  resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText"><span class="loadingDots">Loading textbook</span></div></div>';
   var btns = document.querySelectorAll('.actionCard, .queryBtn');
   for(var b=0;b<btns.length;b++) btns[b].disabled = true;
-  var payload = {class:activeClass,subject:subj,chapterIndex:selectedChapter,query:query,mode:mode};
+
+  // Fetch the markdown file as a static asset
+  var fileUrl = 'Class '+activeClass+'/Class '+activeClass+' '+encodeURIComponent(subj)+'.md';
+  var fileContent = '';
+  try {
+    var resp = await fetch(fileUrl);
+    if(resp.ok) fileContent = await resp.text();
+  } catch(e) {
+    // If fetch fails, still try with empty content
+  }
+  // Truncate to 12K chars
+  if(fileContent.length > 12000) fileContent = fileContent.substring(0, 12000);
+
+  resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText"><span class="loadingDots">Thinking</span></div></div>';
+
+  var basePayload = {class:activeClass,subject:subj,chapterIndex:selectedChapter,query:query,mode:mode,fileContent:fileContent};
+
   // Try streaming first
-  var streamPayload = JSON.parse(JSON.stringify(payload));
+  var streamPayload = JSON.parse(JSON.stringify(basePayload));
   streamPayload.stream = true;
   var xhr = new XMLHttpRequest();
   xhr.open('POST', API_BASE+'/api/chat/stream', true);
@@ -911,7 +929,7 @@ function callAI(mode){
       xhr2.onerror = function(){
         resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="errorBox">⚠️ Network error. Check your connection.</div></div>';
       };
-      xhr2.send(JSON.stringify(payload));
+      xhr2.send(JSON.stringify(basePayload));
     }
     for(var b=0;b<btns.length;b++) btns[b].disabled = false;
   };

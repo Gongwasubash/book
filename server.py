@@ -115,21 +115,24 @@ def chat():
     query = data.get('query', '')
     mode = data.get('mode', 'ask')  # mcq, mindmap, exercise, ask
 
-    # Read the file
-    path = FILE_MAP.get((cls, subj))
-    if not path:
-        for (c, s), p in FILE_MAP.items():
-            if c == cls and (subj.lower() in s.lower() or s.lower() in subj.lower()):
-                path = p
-                break
-    if not path:
-        return jsonify({"error": f"File not found for {cls}/{subj}"}), 404
-
-    try:
-        with open(path, 'r', encoding='utf-8') as f:
-            content = f.read()
-    except Exception as e:
-        return jsonify({"error": f"Failed to read file: {e}"}), 500
+    # Accept fileContent from request, or read from filesystem
+    content = data.get('fileContent', '')
+    if not content:
+        # Fallback: read from filesystem (for local dev with old frontend)
+        path = FILE_MAP.get((cls, subj))
+        if not path:
+            for (c, s), p in FILE_MAP.items():
+                if c == cls and (subj.lower() in s.lower() or s.lower() in subj.lower()):
+                    path = p
+                    break
+        if path:
+            try:
+                with open(path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+            except Exception as e:
+                return jsonify({"error": f"Failed to read file: {e}"}), 500
+        else:
+            return jsonify({"error": f"No content provided and file not found for {cls}/{subj}"}), 400
 
     # Build system prompt based on mode
     subject_header = f"{cls} - {subj}"
@@ -246,20 +249,23 @@ def chat_stream():
     query = data.get('query', '')
     mode = data.get('mode', 'ask')
 
-    path = FILE_MAP.get((cls, subj))
-    if not path:
-        for (c, s), p in FILE_MAP.items():
-            if c == cls and (subj.lower() in s.lower() or s.lower() in subj.lower()):
-                path = p
-                break
-    if not path:
-        return jsonify({"error": f"File not found for {cls}/{subj}"}), 404
-
-    try:
-        with open(path, 'r', encoding='utf-8') as f:
-            content = f.read()
-    except Exception as e:
-        return jsonify({"error": f"Failed to read file: {e}"}), 500
+    # Accept fileContent from request, or read from filesystem
+    content = data.get('fileContent', '')
+    if not content:
+        path = FILE_MAP.get((cls, subj))
+        if not path:
+            for (c, s), p in FILE_MAP.items():
+                if c == cls and (subj.lower() in s.lower() or s.lower() in subj.lower()):
+                    path = p
+                    break
+        if path:
+            try:
+                with open(path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+            except Exception as e:
+                return jsonify({"error": f"Failed to read file: {e}"}), 500
+        else:
+            return jsonify({"error": f"No content provided and file not found for {cls}/{subj}"}), 400
 
     subject_header = f"{cls} - {subj}"
     system_prompts = {
