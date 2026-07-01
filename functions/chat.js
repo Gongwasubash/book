@@ -92,8 +92,16 @@ exports.handler = async (event, context) => {
   }
 
   const subjectHeader = `${cls} - ${subj}`;
+  // Detect if textbook is Nepali (subject or content contains Nepali chars)
+  const isNepali = /[\u0900-\u097F]/.test(subj + (fileContent || '').substring(0, 500));
+  const lang = isNepali ? 'Nepali' : 'English';
+  const langInstr = isNepali
+    ? 'IMPORTANT: Respond in Nepali language only. Use textbook terminology and explanations.'
+    : 'Respond in English.';
+  const sourceInstr = 'Base your answer strictly on the textbook content provided below. Do not use external knowledge or make up information not present in the text.';
+
   const systemPrompts = {
-    mcq: `You are an AI tutor for ${subjectHeader}. Based on the textbook content below, generate 10 multiple-choice questions with 4 options each and an answer key. Focus on the most important concepts from the chapter. Format as:
+    mcq: `You are an AI tutor for ${subjectHeader}. ${langInstr} ${sourceInstr} Generate 10 multiple-choice questions with 4 options each and an answer key. Focus on the most important concepts from the chapter covered in the textbook content. Format as:
 
 ## Multiple Choice Questions
 
@@ -106,7 +114,7 @@ exports.handler = async (event, context) => {
 
 (Continue for all 10 questions)`,
 
-    mindmap: `You are an AI tutor for ${subjectHeader}. Based on the textbook content below, create a detailed mind map / concept map of the chapter. Use indentation to show hierarchy. Format as:
+    mindmap: `You are an AI tutor for ${subjectHeader}. ${langInstr} ${sourceInstr} Create a detailed mind map / concept map of the chapter based on the textbook content. Use indentation to show hierarchy. Format as:
 
 ## Mind Map: [Chapter Title]
 
@@ -119,14 +127,14 @@ exports.handler = async (event, context) => {
   - Sub-concept 2.1
 ...`,
 
-    exercise: `You are an AI tutor for ${subjectHeader}. Based on the textbook content below, create a practice exercise set with:
+    exercise: `You are an AI tutor for ${subjectHeader}. ${langInstr} ${sourceInstr} Create a practice exercise set based on the textbook content with:
 1. 5 short-answer questions
 2. 3 numerical/long-answer problems
 3. A brief answer key
 
 Format clearly with sections.`,
 
-    ask: `You are an AI tutor for ${subjectHeader}. Answer the student's question based on the textbook content below. Be thorough, educational, and use examples from the text. If the question is off-topic, politely redirect to the subject matter.`
+    ask: `You are an AI tutor for ${subjectHeader}. ${langInstr} ${sourceInstr} Answer the student's question based on the textbook content below. Be thorough, educational, and use examples from the text. If the question is off-topic, politely redirect to the subject matter.`
   };
 
   const systemPrompt = systemPrompts[mode] || systemPrompts.ask;

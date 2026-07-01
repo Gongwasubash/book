@@ -141,8 +141,13 @@ def chat():
 
     # Build system prompt based on mode
     subject_header = f"{cls} - {subj}"
+    is_nepali = bool(re.search(r'[\u0900-\u097F]', (subj + content[:500])))
+    lang = 'Nepali' if is_nepali else 'English'
+    lang_instr = 'IMPORTANT: Respond in Nepali language only. Use textbook terminology and explanations.' if is_nepali else 'Respond in English.'
+    source_instr = 'Base your answer strictly on the textbook content provided below. Do not use external knowledge or make up information not present in the text.'
+
     system_prompts = {
-        "mcq": f"""You are an AI tutor for {subject_header}. Based on the textbook content below, generate 10 multiple-choice questions with 4 options each and an answer key. Focus on the most important concepts from the chapter. Format as:
+        "mcq": f"""You are an AI tutor for {subject_header}. {lang_instr} {source_instr} Generate 10 multiple-choice questions with 4 options each and an answer key. Focus on the most important concepts from the chapter covered in the textbook content. Format as:
 
 ## Multiple Choice Questions
 
@@ -155,7 +160,7 @@ def chat():
 
 (Continue for all 10 questions)""",
 
-        "mindmap": f"""You are an AI tutor for {subject_header}. Based on the textbook content below, create a detailed mind map / concept map of the chapter. Use indentation to show hierarchy. Format as:
+        "mindmap": f"""You are an AI tutor for {subject_header}. {lang_instr} {source_instr} Create a detailed mind map / concept map of the chapter based on the textbook content. Use indentation to show hierarchy. Format as:
 
 ## Mind Map: [Chapter Title]
 
@@ -168,14 +173,14 @@ def chat():
   - Sub-concept 2.1
 ...""",
 
-        "exercise": f"""You are an AI tutor for {subject_header}. Based on the textbook content below, create a practice exercise set with:
+        "exercise": f"""You are an AI tutor for {subject_header}. {lang_instr} {source_instr} Create a practice exercise set based on the textbook content with:
 1. 5 short-answer questions
 2. 3 numerical/long-answer problems
 3. A brief answer key
 
 Format clearly with sections.""",
 
-        "ask": f"""You are an AI tutor for {subject_header}. Answer the student's question based on the textbook content below. Be thorough, educational, and use examples from the text. If the question is off-topic, politely redirect to the subject matter."""
+        "ask": f"""You are an AI tutor for {subject_header}. {lang_instr} {source_instr} Answer the student's question based on the textbook content below. Be thorough, educational, and use examples from the text. If the question is off-topic, politely redirect to the subject matter."""
     }
 
     system_prompt = system_prompts.get(mode, system_prompts["ask"])
@@ -274,11 +279,14 @@ def chat_stream():
             return jsonify({"error": f"No content provided and file not found for {cls}/{subj}"}), 400
 
     subject_header = f"{cls} - {subj}"
+    is_nepali = bool(re.search(r'[\u0900-\u097F]', subj + content[:500]))
+    lang_instr = 'IMPORTANT: Respond in Nepali language only. Use textbook terminology and explanations.' if is_nepali else 'Respond in English.'
+    source_instr = 'Base your answer strictly on the textbook content provided below. Do not use external knowledge.'
     system_prompts = {
-        "mcq": f"You are an AI tutor for {subject_header}. Based on the textbook content below, generate 10 multiple-choice questions with 4 options each and an answer key. Focus on the most important concepts from the chapter.",
-        "mindmap": f"You are an AI tutor for {subject_header}. Based on the textbook content below, create a detailed mind map / concept map of the chapter. Use indentation to show hierarchy.",
-        "exercise": f"You are an AI tutor for {subject_header}. Based on the textbook content below, create a practice exercise set with 5 short-answer questions, 3 numerical/long-answer problems, and a brief answer key.",
-        "ask": f"You are an AI tutor for {subject_header}. Answer the student's question based on the textbook content below. Be thorough, educational, and use examples from the text."
+        "mcq": f"You are an AI tutor for {subject_header}. {lang_instr} {source_instr} Generate 10 multiple-choice questions with 4 options each and an answer key. Focus on the most important concepts from the chapter covered in the textbook content.",
+        "mindmap": f"You are an AI tutor for {subject_header}. {lang_instr} {source_instr} Create a detailed mind map / concept map of the chapter based on the textbook content. Use indentation to show hierarchy.",
+        "exercise": f"You are an AI tutor for {subject_header}. {lang_instr} {source_instr} Create a practice exercise set based on the textbook content with 5 short-answer questions, 3 numerical/long-answer problems, and a brief answer key.",
+        "ask": f"You are an AI tutor for {subject_header}. {lang_instr} {source_instr} Answer the student's question based on the textbook content below. Be thorough, educational, and use examples from the text."
     }
 
     system_prompt = system_prompts.get(mode, system_prompts["ask"])
