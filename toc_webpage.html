@@ -883,15 +883,17 @@ async function callAI(mode){
 
   // For Chapter Exercise, try to load from exercises.json
   if(mode==='chapter_exercise'){
-    // Lazy-load exercises data
+    // Define proceedToAI BEFORE loadExercises to avoid hoisting bug
+    var proceedToAI = function() {
+      doAIFetch(mode, query, label, btns);
+    };
+    resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText"><span class="loadingDots">Looking up textbook exercises</span></div></div>';
     var loadExercises = function(cb) {
       if(EXERCISES_DATA) { cb(EXERCISES_DATA); return; }
       fetch('exercises.json').then(function(r){return r.json()}).then(function(d){EXERCISES_DATA=d; cb(d)}).catch(function(){cb(null)});
     };
-    resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText"><span class="loadingDots">Looking up textbook exercises</span></div></div>';
     loadExercises(function(data){
       if(!data){
-        // Fall through to AI below
         proceedToAI();
         return;
       }
@@ -922,10 +924,6 @@ async function callAI(mode){
       }
       proceedToAI();
     });
-    // This function is called when no extracted exercises are found
-    var proceedToAI = function() {
-      doAIFetch(mode, query, label, btns);
-    };
     return;
   }
 
