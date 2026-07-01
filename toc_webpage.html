@@ -880,7 +880,9 @@ async function callAI(mode){
   for(var b=0;b<btns.length;b++) btns[b].disabled = true;
 
   // Fetch the markdown file as a static asset
-  var fileUrl = 'Class '+activeClass+'/Class '+activeClass+' '+encodeURIComponent(subj)+'.md';
+  var folder = encodeURIComponent(activeClass);
+  var fname = encodeURIComponent(activeClass+' '+subj+'.md');
+  var fileUrl = folder+'/'+fname;
   var fileContent = '';
   try {
     var resp = await fetch(fileUrl);
