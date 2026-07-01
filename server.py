@@ -31,6 +31,11 @@ DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 DEEPSEEK_URL = "https://api.deepseek.com/v1/chat/completions"
 DEEPSEEK_MODEL = "deepseek-chat"
 
+# Mistral AI config (free tier fallback)
+MISTRAL_API_KEY = os.environ.get("MISTRAL_API_KEY", "u0YMFGONYPEqZHTEChuOUUr9Sw4QZUBI")
+MISTRAL_URL = "https://api.mistral.ai/v1/chat/completions"
+MISTRAL_MODEL = os.environ.get("MISTRAL_MODEL", "mistral-small-latest")
+
 # Build file mapping from the directory structure
 def build_file_map():
     fmap = {}
@@ -189,20 +194,8 @@ Format clearly with sections.""",
 {chapter_context}
 Student's request: {query}"""
 
-    # Call AI API
-    try:
-        if AI_PROVIDER == "groq":
-            api_key = GROQ_API_KEY
-            api_url = GROQ_URL
-            model = GROQ_MODEL
-        else:
-            api_key = DEEPSEEK_API_KEY
-            api_url = DEEPSEEK_URL
-            model = DEEPSEEK_MODEL
-
-        if not api_key:
-            return jsonify({"error": f"No API key configured for provider '{AI_PROVIDER}'. Set {AI_PROVIDER.upper()}_API_KEY environment variable."}), 401
-
+    # Call AI API — try Groq first, fallback to Mistral
+    def call_api(api_key, api_url, model):
         payload = {
             "model": model,
             "messages": [
@@ -213,31 +206,44 @@ Student's request: {query}"""
             "max_tokens": 4096,
             "stream": False
         }
-
         headers = {
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json"
         }
-
         resp = requests.post(api_url, json=payload, headers=headers, timeout=120)
         resp.raise_for_status()
-        result = resp.json()
+        return resp.json()
 
-        answer = result['choices'][0]['message']['content']
-        usage = result.get('usage', {})
+    answer = None
+    model_used = None
+    last_error = None
 
-        return jsonify({
-            "answer": answer,
-            "usage": usage,
-            "model": model
-        })
+    # Try Groq first
+    if GROQ_API_KEY:
+        try:
+            result = call_api(GROQ_API_KEY, GROQ_URL, GROQ_MODEL)
+            answer = result['choices'][0]['message']['content']
+            model_used = GROQ_MODEL
+        except Exception as e:
+            last_error = f"Groq failed: {str(e)}"
 
-    except requests.exceptions.Timeout:
-        return jsonify({"error": f"{AI_PROVIDER.title()} API timed out. Please try a shorter query."}), 504
-    except requests.exceptions.RequestException as e:
-        return jsonify({"error": f"{AI_PROVIDER.title()} API error: {str(e)}"}), 502
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
+    # Fallback to Mistral
+    if not answer and MISTRAL_API_KEY:
+        try:
+            result = call_api(MISTRAL_API_KEY, MISTRAL_URL, MISTRAL_MODEL)
+            answer = result['choices'][0]['message']['content']
+            model_used = MISTRAL_MODEL
+        except Exception as e:
+            last_error = f"Groq and Mistral both failed. Mistral error: {str(e)}"
+
+    if not answer:
+        err_msg = last_error or "No AI provider available. Set GROQ_API_KEY or MISTRAL_API_KEY."
+        return jsonify({"error": err_msg}), 502
+
+    return jsonify({
+        "answer": answer,
+        "model": model_used
+    })
 
 @app.route('/api/chat/stream', methods=['POST'])
 def chat_stream():
@@ -283,20 +289,7 @@ def chat_stream():
     user_prompt = f"Here is the full textbook content for {subject_header}:\n\n=== BEGIN TEXTBOOK CONTENT ===\n{content[:12000]}\n=== END TEXTBOOK CONTENT ===\n{chapter_context}\nStudent's request: {query}"
 
     def generate():
-        try:
-            if AI_PROVIDER == "groq":
-                api_key = GROQ_API_KEY
-                api_url = GROQ_URL
-                model = GROQ_MODEL
-            else:
-                api_key = DEEPSEEK_API_KEY
-                api_url = DEEPSEEK_URL
-                model = DEEPSEEK_MODEL
-
-            if not api_key:
-                yield f"Error: No API key configured for provider '{AI_PROVIDER}'. Set {AI_PROVIDER.upper()}_API_KEY environment variable."
-                return
-
+        def stream_provider(api_key, api_url, model):
             payload = {
                 "model": model,
                 "messages": [
@@ -307,12 +300,10 @@ def chat_stream():
                 "max_tokens": 4096,
                 "stream": True
             }
-
             headers = {
                 "Authorization": f"Bearer {api_key}",
                 "Content-Type": "application/json"
             }
-
             with requests.post(api_url, json=payload, headers=headers, stream=True, timeout=120) as resp:
                 resp.raise_for_status()
                 for line in resp.iter_lines(decode_unicode=True):
@@ -328,8 +319,33 @@ def chat_stream():
                                     yield delta['content']
                             except json.JSONDecodeError:
                                 continue
-        except Exception as e:
-            yield f"\n\n[Error: {str(e)}]"
+
+        yielded = False
+        # Try Groq first
+        if GROQ_API_KEY:
+            try:
+                for chunk in stream_provider(GROQ_API_KEY, GROQ_URL, GROQ_MODEL):
+                    yielded = True
+                    yield chunk
+                if yielded:
+                    return
+            except Exception as e:
+                yield f"\n[Groq failed, trying Mistral...]\n"
+
+        # Fallback to Mistral
+        if MISTRAL_API_KEY:
+            try:
+                for chunk in stream_provider(MISTRAL_API_KEY, MISTRAL_URL, MISTRAL_MODEL):
+                    yielded = True
+                    yield chunk
+                if yielded:
+                    return
+            except Exception as e:
+                yield f"\n\n[Error: Groq and Mistral both failed. Mistral error: {str(e)}]"
+                return
+
+        if not yielded:
+            yield "\n\n[Error: No AI provider available. Set GROQ_API_KEY or MISTRAL_API_KEY.]"
 
     return Response(generate(), mimetype='text/plain')
 
