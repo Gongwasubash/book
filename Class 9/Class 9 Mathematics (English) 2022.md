@@ -3470,17 +3470,17 @@ P a + b + c
 Here, in the right angled triangle ADB,
 |   AD2 + BD2 = AB2 |     |     |     |     |
 | ----------------- | --- | --- | --- | --- |
-(cid:31)
+
 | or,   h2 + (a – x)2 = c2                      |     |     |          |          |
 | --------------------------------------------- | --- | --- | -------- | -------- |
 | or,   h2 = c2 – (a – x)2 ................ (i) |     |     |          |          |
-| Again in the right angled triangle ADC        |     |     | (cid:29) | (cid:30) |
-(cid:31)
+| Again in the right angled triangle ADC        |     |     |  |  |
+
 |   AD2 + DC2 = AC2 |     |     |                                                   |          |
 | ----------------- | --- | --- | ------------------------------------------------- | -------- |
-| or, h2 + x2 = b2  |     |     | (cid:30)                                          | (cid:29) |
-|                   |     |     | (cid:28)(cid:27)(cid:26)(cid:27)(cid:27) (cid:28) | (cid:27) |
-(cid:28)
+| or, h2 + x2 = b2  |     |     |                                           |  |
+|                   |     |     |   |  |
+
 88
 Mathematics Grade 9
 
@@ -3587,17 +3587,17 @@ Area of triangle = s(s – a) ((s – b) (s – c)
 Mathematics Grade 9
 
 Example 2
-(cid:31)
-|                                           |     |     |          | (cid:24)                            | (cid:27) (cid:30) (cid:29) (cid:28) |                                     |
+
+|                                           |     |     |          |                             |     |                                     |
 | ----------------------------------------- | --- | --- | -------- | ----------------------------------- | ----------------------------------- | ----------------------------------- |
-| Find the area of the given quadrilateral: |     |     |          |                                     |                                     | (cid:21)                            |
-| Solution,                                 |     |     |          |                                     | (cid:28)                            | (cid:31)                            |
-|                                           |     |     | (cid:27) | (cid:25) (cid:31) (cid:29) (cid:28) | (cid:31)(cid:29)                    | (cid:27) (cid:31) (cid:29) (cid:28) |
-(cid:31)(cid:30)
+| Find the area of the given quadrilateral: |     |     |          |                                     |                                     |                             |
+| Solution,                                 |     |     |          |                                     |                             |                             |
+|                                           |     |     |  |     |                     |     |
+
 Here,
-|     |     |     |     | (cid:23) |     | (cid:22) |
+|     |     |     |     |  |     |  |
 | --- | --- | --- | --- | -------- | --- | -------- |
-there are two scalene triangles in the given quadrilateral. (cid:27) (cid:26) (cid:31) (cid:29) (cid:28)
+there are two scalene triangles in the given quadrilateral.     
 In, ∆ABC, AB = c = 16 cm, BC = a = 12 cm, AC = b = 20 cm
 |                       |     | a + b + c  12 + 20 + 16  |     |         |     |     |
 | --------------------- | --- | ------------------------ | --- | ------- | --- | --- |
@@ -3725,30 +3725,30 @@ b = 58 m – 28 m = 30 m
 respectively, what is the perimeter of the triangle?
 (c) Write the formula to find the area of scalene triangle (Heron's formula).
 2. Find the area of the given scalene triangles.
-(cid:31)(cid:30)(cid:29) (cid:31) (cid:31)(cid:28)(cid:29) (cid:21)
-(cid:23)(cid:26) (cid:25)
-(cid:24) (cid:28) (cid:27)
-(cid:26)(cid:25)
-(cid:24)
-(cid:28)(cid:22)(cid:26)(cid:25)(cid:24)
-(cid:28)
-(cid:29) (cid:20) (cid:19)
-(cid:30) (cid:23)(cid:22)(cid:26)(cid:25)(cid:24)
-(cid:18)(cid:26)(cid:25)(cid:24)
+   
+ 
+  
+
+
+
+
+  
+ 
+
 94
 Mathematics Grade 9
-(cid:27) (cid:26)(cid:25) (cid:24)
-(cid:23)(cid:22)(cid:26)(cid:25)(cid:24)
-(cid:13) (cid:31)(cid:27)(cid:29) (cid:16) (cid:15)
-(cid:28)(cid:10)(cid:26)(cid:25)(cid:24)
-(cid:28)(cid:17)(cid:26)(cid:25)(cid:24)
-(cid:23)(cid:28)(cid:26)(cid:25)(cid:24)
-(cid:12)
-(cid:11) (cid:14) (cid:28) (cid:9) (cid:26)(cid:25) (cid:24)
+  
+
+   
+
+
+
+
+     
 Exercise 5.1
-(cid:31)(cid:26)(cid:29)
-(cid:24)
-(cid:28)(cid:17)(cid:26)(cid:25)
+
+
+
 
 3. Find the area of the given quadrilateral:
 (a) A 4 cm D (b) P 14 cm S
@@ -3769,11 +3769,11 @@ is 540 ft. What is the area of that field? Find out.
 is 6 5 m2, find the measure of remaining edges of that field.
 8. The given traffic symbol board is of equilateral triangular
 shape having length of sides 'a' cm. If the perimeter of the
-(cid:31) (cid:31)
+ 
 board is 360 cm, find its area using Heron's formula.
-(cid:30)(cid:29)(cid:28)(cid:27)(cid:27)(cid:26)
-(cid:25)(cid:24)(cid:23)(cid:25)(cid:22)
-(cid:31)
+
+
+
 9. The given figure is the scale drawing of a 28 m
 A D
 quadrilateral land. The land will have to be divided Younger
@@ -3832,16 +3832,16 @@ surface can be found and which surface area is equal between those
 areas.
 Activity 2
 Measure the length, breadth and height of any one
-(cid:30) (cid:29)
+ 
 of the rooms in your house. Prepare a drawing of
-(cid:24)
-the room with that measurement. Preent in the (cid:31)
-(cid:20)(cid:22)
+
+the room with that measurement. Preent in the 
+
 class, then discuss in group and find the area of
-four walls, floor and ceiling. (cid:25)
-(cid:28)
-Among them, the model of a room presented by (cid:21)(cid:22)
-(cid:26) (cid:23)(cid:22) (cid:27)
+four walls, floor and ceiling. 
+
+Among them, the model of a room presented by 
+  
 one member of any group is presented here in
 the figure.
 Length of room (AB) = l = 4 m
@@ -3919,23 +3919,23 @@ Activity 3
 The length, breadth and height of a room are
 10m, 8m and 3m respectively. There is a door
 of height 2 m and breadth 1 m and there are
-two windows of same shape and size with (cid:31)(cid:30)
+two windows of same shape and size with 
 length 1 m and breadth 0.5 m.
 How the area of walls without door and
 windows can be found, discuss in a group and
 present in the class.
 99
 Mathematics Grade 9
-(cid:30)(cid:31)(cid:29)
-(cid:31)(cid:31)(cid:30)(cid:30)
-(cid:31)(cid:31)(cid:30)
-(cid:28)(cid:26)(cid:25)
-(cid:31)(cid:30)
-(cid:28)(cid:26)(cid:25)
-(cid:31)(cid:30)
-(cid:30)
-(cid:27)(cid:31)
-(cid:31)(cid:28)(cid:31)(cid:30)
+
+
+
+
+
+
+
+
+
+
 
 Here, area of four walls with one door and two windows (A ) = 2h (l + b)
 1
@@ -4011,13 +4011,13 @@ Activity 4
 One student has brought a model drawing of a square room
 made for security guard of the school. Based on that model,
 discuss the following questions and present in the class:
-(cid:26)(cid:27)(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)
-(cid:26)(cid:28)(cid:27)
-(a)  What is the relationship between the area of the  (cid:26)(cid:27)
-|     | plane surfaces of the room?  |     | (cid:31)(cid:27) |     |
+
+
+(a)  What is the relationship between the area of the  
+|     | plane surfaces of the room?  |     |  |     |
 | --- | ---------------------------- | --- | ---------------- | --- |
-(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)
-(b)  Is there any difference between the area of the  (cid:31)(cid:30)(cid:29)(cid:28)(cid:27)
+
+(b)  Is there any difference between the area of the  
 floor and the area of ceiling, or not?
 | (c)  | What is the area of walls, floor and ceiling?  |     |     |     |
 | ---- | ---------------------------------------------- | --- | --- | --- |
@@ -4102,17 +4102,17 @@ relation with the area of floor?
 four walls and area of ceiling from the following rectangular and cubical
 model figures of rooms.
 (a) (b)
-(cid:31) (cid:26) (cid:31) (cid:30)
-(cid:24)
-(cid:27)
-(cid:30)
-(cid:26)
-(cid:29)
-(cid:27)
-(cid:24)
-(cid:25)
-(cid:25) (cid:28)
-(cid:29) (cid:28)
+   
+
+
+
+
+
+
+
+
+ 
+ 
 3. If the length, breadth and height of a rectangular room are 8m, 5m and 2.5 m
 respectively, then find (a) the area of four walls, and (b) the area of floor and ceiling.
 4. In a rectangular room of length 8.5m, breadth 6m and height 2.4m,
@@ -5088,12 +5088,12 @@ of triangular or rectangular or square shapes.
 Cut the prism from its middle part as shown in the figure. Observe the surface of the
 object, discuss in your group and present it in your class. Eg. the group work of the
 third group was as follows:
-(cid:31) (cid:26) (cid:31)(cid:25)
+  
 The area of the triangle MNO is the cross-sectional
-area of the prism if we cut the solid object of the (cid:28) (cid:30)(cid:25)
-(cid:30)
+area of the prism if we cut the solid object of the  
+
 triangular base making the triangular face parallel and
-(cid:29) (cid:27) (cid:29)(cid:25)
+  
 perpendicular to its length or height.
 Therefore, (∆ABC ≅ ∆MNO ≅ ∆A'B'C')
 132
@@ -5147,17 +5147,17 @@ Activity 4
 Distribute solid objects of triangular, rectangular and square base in different groups
 and trace the object in your copy.
 The group work of group 3 is as below:
-(cid:25) (cid:30)
+ 
 They took prism of six faces and denoted its length,
-(cid:24)
-breadth and height by l, b and h respectively. The faces (cid:31)
-(cid:22)
+
+breadth and height by l, b and h respectively. The faces 
+
 of the prism except the bases are
-(cid:28)
-(cid:26)
+
+
 ABHE, DCGF, ADFE and BCGH
-(cid:23) (cid:29)
-(cid:27) (cid:31)
+ 
+ 
 All the faces are rectangular and each surface has:
 Area of the face ABHE (A ) = l × h = lh
 1
@@ -5182,13 +5182,13 @@ Mathematics Grade 9
 
 Example 1
 Find the cross sectional area and lateral surface area of following prism.
-(cid:24)(cid:30)(cid:29)(cid:28)
-(cid:31)(cid:30)(cid:29) (cid:31)(cid:28)(cid:29)
-(cid:27)(cid:30)(cid:29)(cid:28) (cid:24)(cid:30)(cid:29)(cid:28)
-(cid:26)(cid:30)(cid:29)(cid:28)
-(cid:31)(cid:30)(cid:29)(cid:28) (cid:26)(cid:30)(cid:29)(cid:28)
-(cid:31)(cid:30)(cid:29)(cid:28) (cid:31)(cid:30)(cid:29)(cid:28)
-(cid:25)(cid:31)(cid:30)(cid:29)(cid:28)
+
+ 
+ 
+
+ 
+ 
+
 Solution,
 Here,
 a) In given prism,
@@ -5205,18 +5205,18 @@ b) Extend line CD upto G in the figure. Area of rectangle ABCG (A )
 = 16 × 4
 = 64 cm2
 Area of the rectangle DEFG (A )
-2 (cid:31)(cid:30)(cid:29)(cid:28)
+2 
 = DE × EF = 4 × 8
-= 32 cm2 (cid:31)(cid:30)(cid:29)(cid:28)
-(cid:31)(cid:30)(cid:29)(cid:28)
-(cid:31)(cid:30)(cid:29)(cid:28)
-Now, Cross sectional area of prism is (cid:25)(cid:30)(cid:29)(cid:28)
-= A + A (cid:31)(cid:30)(cid:29)(cid:28)
+= 32 cm2 
+
+
+Now, Cross sectional area of prism is 
+= A + A 
 1 2
 = 64 + 32
-(cid:26)(cid:30)(cid:29)(cid:28)
+
 = 96 cm2
-(cid:27)(cid:26)(cid:30)(cid:29)(cid:28)
+
 Again, Perimeter of the base (P)
 = AB + BC + CD + DE + EF + FA
 = 16 + 4 + 8 + 4 + 8 + 8
@@ -5227,14 +5227,14 @@ Lateral surface area of prism = P × l
 = 288 cm2
 135
 Mathematics Grade 9
-(cid:31) (cid:30)(cid:29) (cid:28)
-(cid:25)(cid:30)(cid:29)(cid:28) (cid:18)
-(cid:19)
-(cid:23)
-(cid:21)
-(cid:22)
-(cid:20)
-(cid:24)
+  
+ 
+
+
+
+
+
+
 
 6.4 Total surface area of prism
 Activity 5
@@ -5269,22 +5269,22 @@ P = Perimeter of base
 Example 2
 Find total surface area of given prism:
 Solution,
-(cid:31)(cid:30)(cid:29)(cid:28)
+
 Here, length of cubical prism (l) = 3 cm
 Total surface area = 6l2 = 6 × (3 cm)2 = 54 cm2
-(cid:31)(cid:30)(cid:29)(cid:28)
-(cid:31)(cid:30)(cid:29)(cid:28)
+
+
 Example 3
 A school constructed a rectangular water tank as the figure below, for drinking
 water. The length of the tank is 12 ft., breadth of the tank is 10 ft and height of
 the tank is 6 ft. Find the total surface area of the water tank:
 Solution,
 Here,
-(cid:25)(cid:29)(cid:28)(cid:27)
+
 length of the water tank (l) = 12 ft
 breadth (b) = 10 ft
-(cid:31)(cid:26)(cid:29)(cid:28)(cid:27)
-height (h) = 6 ft (cid:31)(cid:30)(cid:29)(cid:28)(cid:27)
+
+height (h) = 6 ft 
 By formula,
 Total surface area of the tank (A) = 2(lb + bh + hl)
 = 2 (12 × 10 + 10 × 6 + 6 × 12) ft2
@@ -5388,24 +5388,24 @@ Total surface area of the prism (TSA) = 2 × A + LSA
 (b)  Join I, L, and C, F as figure.
 | Now, area of square IJKL (A | ) = (2 cm)2  |     |
 | --------------------------- | ------------ | --- |
-(cid:31)(cid:30)(cid:29)(cid:28)(cid:19)
-|      | 1 (cid:20) |                                  |
+
+|      | 1  |                                  |
 | ---- | ---------- | -------------------------------- |
-|      | = 4 cm2    | (cid:31)(cid:30)(cid:29)(cid:28) |
-(cid:21) (cid:27)(cid:30)(cid:29)(cid:28)(cid:14) (cid:27)(cid:30)(cid:29)(cid:28)
-| Area of the rectangle ABGH (A | )   | (cid:18) |
+|      | = 4 cm2    |  |
+  
+| Area of the rectangle ABGH (A | )   |  |
 | ----------------------------- | --- | -------- |
-(cid:17)
-|     | 2   | (cid:27)(cid:30)(cid:29)(cid:28) |
+
+|     | 2   |  |
 | --- | --- | -------------------------------- |
-  = (3 + 2 + 3) cm × 3 cm (cid:27)(cid:30)(cid:29)(cid:28)
-(cid:23)
-(cid:22) (cid:15)
-|   = 8 × 3 cm2 = 24 cm2 |     | (cid:16) |
+  = (3 + 2 + 3) cm × 3 cm 
+
+ 
+|   = 8 × 3 cm2 = 24 cm2 |     |  |
 | ---------------------- | --- | -------- |
-(cid:31)(cid:30)(cid:29)(cid:28)
-Area of the square CDEF (A ) = (2 cm)2  (cid:31)(cid:30)(cid:29)(cid:28) (cid:26)(cid:30)(cid:29)(cid:28)
-|     | 3 (cid:24)(cid:31)(cid:30)(cid:29)(cid:28) | (cid:25) |
+
+Area of the square CDEF (A ) = (2 cm)2   
+|     | 3  |  |
 | --- | ------------------------------------------ | -------- |
    = 4 cm2
 Cross sectional area of the prism (A) = A  + A  + A
@@ -5449,26 +5449,26 @@ c
 m
 6 cm
 10 cm
-(cid:27)(cid:30)(cid:29)(cid:28)(cid:27) (cid:27)(cid:30)(cid:29)(cid:28)
-(cid:31)(cid:30)(cid:29) (cid:27)(cid:30)(cid:29)(cid:28) (cid:31)(cid:28)(cid:29) (cid:27)(cid:30)(cid:29)(cid:28)
-(cid:25)(cid:30)(cid:29)(cid:28) (cid:25)(cid:30)(cid:29)(cid:28) (cid:25)(cid:30)(cid:29)(cid:28)
-(cid:25)(cid:30)(cid:29)(cid:28) (cid:25)(cid:30)(cid:29)(cid:28)
-(cid:31)(cid:30)(cid:29)(cid:28)
-(cid:27)(cid:30)(cid:29)(cid:28)
-(cid:24)(cid:30)(cid:29)(cid:28)
-(cid:25)(cid:30)(cid:29)(cid:28) (cid:27)(cid:30)(cid:29)(cid:28)
-(cid:26)(cid:30)(cid:29)(cid:28)
-(cid:27)(cid:30)(cid:29)(cid:28)
-(cid:27)
-(cid:31)(cid:30)(cid:29) (cid:31)(cid:29)(cid:28)(cid:27) (cid:31)(cid:29)(cid:28)(cid:27) (cid:31)(cid:28)(cid:29) (cid:24)(cid:30)(cid:29)(cid:28)(cid:27) (cid:31)(cid:30)(cid:29)(cid:29)(cid:28) (cid:24)(cid:30)(cid:29)(cid:28)(cid:27)
-(cid:26)(cid:29)(cid:28)(cid:27)
-(cid:24)(cid:30)(cid:29)(cid:28)(cid:27) (cid:24)(cid:30)(cid:27)(cid:29)(cid:28)(cid:27)
-(cid:26)(cid:29)(cid:28)(cid:27)
-(cid:24)(cid:30)(cid:29)(cid:28)(cid:27)
-(cid:24)(cid:30)(cid:29)(cid:28)(cid:27)
-(cid:25)(cid:29)(cid:28)(cid:27)
-(cid:24)(cid:30)(cid:29)(cid:28)(cid:27)
-(cid:31)(cid:30)(cid:29)(cid:29)(cid:28)(cid:27)
+ 
+   
+  
+ 
+
+
+
+ 
+
+
+
+      
+
+ 
+
+
+
+
+
+
 5. If there is a cuboidal prism having 6 cm length, 5 cm breadth, and 8 cm
 height:
 (a) Find the area of cross section?
@@ -5483,29 +5483,29 @@ Mathematics Grade 9
 
 8. Find the cross-sectional area, lateral surface area, total surface area, and
 volume of the following prism.
-(cid:16) (cid:16)(cid:28)
-(cid:29) (cid:29)(cid:28)
-(cid:30)(cid:29)(cid:28) (cid:30)(cid:27)(cid:28)
-(cid:25) (cid:31)
-(cid:26) (cid:31)
-(cid:24) (cid:17)(cid:28)
-(cid:30)(cid:28)
-(cid:30) (cid:17)
-(cid:27)(cid:26)(cid:25) (cid:19)(cid:21)(cid:26)(cid:25) (cid:31)
-(cid:31) (cid:23)(cid:22)(cid:21)(cid:26)(cid:25) (cid:31)(cid:28) (cid:18) (cid:23)(cid:20)(cid:21)(cid:26)(cid:25) (cid:18)(cid:28)
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+  
+     
 143
 Mathematics Grade 9
-(cid:19) (cid:26)
-(cid:19)
-(cid:25)
-(cid:26) (cid:25)
-(cid:15) (cid:21)(cid:26) (cid:25)
-(cid:23) (cid:24) (cid:26) (cid:25)
-(cid:30)(cid:25)(cid:28)
-(cid:30)(cid:26)(cid:28) (cid:15)(cid:21)(cid:26)(cid:25)
-(cid:23)(cid:22)(cid:21)(cid:26)(cid:25)
-(cid:25) (cid:23)(cid:14)(cid:21)(cid:26)
-(cid:23) (cid:19) (cid:21)(cid:26) (cid:25)
+ 
+
+
+ 
+  
+   
+
+ 
+
+ 
+   
 9. The volume of the right triangular prism is 864 m3. If the length of side to
 make right angle of right triangles are 8 cm and 9 cm respectively find the
 height of prism.
@@ -5649,11 +5649,11 @@ Take one paper-made cylinder having different sizes in each group.
 147
 Mathematics Grade 9
 
-(cid:31)
-(cid:30)
+
+
 Cut the cylinder vertically as shown in the above figure.
-(cid:30)
-(cid:31)
+
+
 Make a rectangle after cutting the paper cylinder such that the circumference of the
 circle is converted into length and height into the breadth of the rectangle as shown
 in the above figure.
@@ -5663,13 +5663,13 @@ present them in your class.
 (b) If the length and breadth are given, then which formula is appropriate to find
 the area of the rectangle?
 (c) Which part of the cylinder is represented by the area of the rectangle?
-(cid:31)
+
 The following conclusions can be drawn
-(cid:30)(cid:31)(cid:31)
+
 from the discussion:
-(cid:29)
+
 The length of the circumference of the circle
-is the perimeter of the circle. (cid:31)
+is the perimeter of the circle. 
 So, the circumference of the circle = length of
 the perimeter = 2πr
 Likewise, the formula to find the area of the rectangle is l × b.
@@ -5695,10 +5695,10 @@ Curved surface area
 = C(r + h) where, C = 2πr
 149
 Mathematics Grade 9
-(cid:31) (cid:26)
-(cid:31)
-(cid:29)(cid:28) (cid:27)
-(cid:30) (cid:29)(cid:28) (cid:27)
+ 
+
+ 
+  
 Example 1
 Find the curved surface area and total surface area (TSA) of cylinder.
 Solution,
@@ -5801,16 +5801,16 @@ shown in the following figure and make a cuboid from the pieces
 of the cylinder.
 151
 Mathematics Grade 9
-(cid:31)
-(cid:30)
-(cid:30) (cid:29)
-(cid:31)
+
+
+ 
+
 
 Now, compare the cylinder and cuboid and find
-(cid:31)(cid:31)
+
 the cuboid’s length, breadth, and height. Then
 find the volume of the cuboid.
-(cid:30)
+
 Here, the length of the cuboid = πr
 The breadth of the cuboid = r
 Height of the cuboid = h
@@ -5971,10 +5971,10 @@ find the volume of the cylindrical log.
 16. The inner circumference of the following cylindrical pots are 21 cm and 14
 cm and the heights are 14 cm and 21 cm respectively. Find how much water
 can be filled in these pots.
-(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)
-(cid:26)(cid:31)(cid:29)(cid:28)(cid:27)
-(cid:26)(cid:31)(cid:29)(cid:28)(cid:27)
-(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)
+
+
+
+
 17. The students in a school are requested to participate in the competition of
 making cylindrical pencil cases. The radius and height of each pencil case
 must be 3 cm and 10.5 cm respectively. If 35 students participated in the
@@ -6027,7 +6027,7 @@ Make an appropriate number of groups and take a rubber ball
 for each group.
 Thumb a pin at any point on the surface of the ball. Cover the
 ball by thread with the help of a pin and glue on the overall
-(cid:31)
+
 surface of the ball. Now, remove the thread from the ball.
 Find the diameter of the rubber ball. For this, put the ball in the middle of two
 pieces of cardboard paper as shown in the above figure. The distance between two
@@ -6131,9 +6131,9 @@ Sit into the appropriate number of groups. In each group, take a cylinder having
 diameter of the base equal to the diameter of the sphere. The diameter and height
 of the cylinder must be equal. Now, fill the water in the cylinder and note down the
 quantity of the water in the cylinder using a measuring cylinder.
-(cid:31)
-(cid:30)(cid:31)(cid:30)
-(cid:30) (cid:31)(cid:31)
+
+
+ 
 Now put the sphere into the cylinder as shown in the picture. Then put the water
 in the cylinder with the sphere from the measuring cylinder. Again note down the
 quantity of the water in the cylinder using a measuring cylinder. Now compare the
@@ -6409,10 +6409,10 @@ cm
 floor of a living room of his house as
 shown in the given figure. Twenty-
 eight triangular tiles of sides 9cm,
-(cid:28)
-(cid:26)(cid:31)(cid:29)(cid:28)
-12cm, and 15cm were used to make (cid:31)(cid:30)(cid:31)(cid:29)
-(cid:31)(cid:27)(cid:31)(cid:29)(cid:28)
+
+
+12cm, and 15cm were used to make 
+
 such pattern. Find out the total cost of
 laying tiles if the per-unit centimeter
 cost of the tile is 10 paisa.
@@ -6436,18 +6436,18 @@ size 1 meter × 1.5 meters in a room of size 12 meters and
 the rate of Rs 180 is Rs.30,060, find the height of the rooms.
 168
 Mathematics Grade 9
-(cid:31) (cid:30) (cid:31)(cid:29) (cid:28)
+   
 
 9.  Find total surfae area and volume of the given prisms:
 10.  Find the cost of colouring the following solid objects, if the cost of
 colouring per sq. centimeter is Rs. 180:
-| (cid:30)(cid:29)(cid:28) |     | (cid:30)(cid:27)(cid:28) | (cid:31) |
+|  |     |  |  |
 | ------------------------ | --- | ------------------------ | -------- |
-(cid:27) (cid:26) (cid:29) (cid:28)
-(cid:31) (cid:30) (cid:31) (cid:29) (cid:28)
-|     | (cid:31)                            |          | (cid:31)                   |
+   
+    
+|     |                             |          |                    |
 | --- | ----------------------------------- | -------- | -------------------------- |
-|     | (cid:27) (cid:26) (cid:29) (cid:28) | (cid:25) | (cid:27) (cid:29) (cid:28) |
+|     |     |  |    |
 Answers
 | (a) 126 cm2  | (b) 89.29 cm2  | 2. Rs. 15,120 |     |
 | ------------ | -------------- | ------------- | --- |
@@ -7077,44 +7077,44 @@ Factorization
 9.0 Review
 Make different groups in your class. Observe the following pictures carefully and
 find the area of each figure. Present it in your class.
-(cid:29)
-|     |          |                                            |          |     |     |     | (cid:24) | (cid:29) (cid:28)(cid:27) (cid:28)(cid:31) | (cid:31) | (cid:21) |     |
+
+|     |          |                                            |          |     |     |     |  |    |  |  |     |
 | --- | -------- | ------------------------------------------ | -------- | --- | --- | --- | -------- | ------------------------------------------ | -------- | -------- | --- |
-|     |          | (cid:30) (cid:27)(cid:26) (cid:27)(cid:31) |          |     |     |     |          |                                            |          |          |     |
-|     | (cid:30) |                                            | (cid:31) |     |     |     |          |                                            |          |          |     |
-(cid:30) (cid:24) (cid:26)
-(cid:29) (cid:28)(cid:27) (cid:28)(cid:31)
-(cid:29) (cid:28)(cid:27) (cid:28)(cid:31)
-|     | (cid:30)          |     |                   | (cid:30)                  |                  |     | (cid:29) |                                                                       |          |          | (cid:29) |
+|     |          |    |          |     |     |     |          |                                            |          |          |     |
+|     |  |                                            |  |     |     |     |          |                                            |          |          |     |
+  
+  
+  
+|     |           |     |                   |                   |                  |     |  |                                                                       |          |          |  |
 | --- | ----------------- | --- | ----------------- | ------------------------- | ---------------- | --- | -------- | --------------------------------------------------------------------- | -------- | -------- | -------- |
-|     |                   |     |                   |                           |                  |     |          | (cid:30) (cid:29) (cid:28)(cid:27) (cid:28)(cid:31) (cid:26) (cid:25) |          |          |          |
-|     | (cid:28)          |     | (cid:30) (cid:31) |                           |                  |     |          |                                                                       |          |          |          |
-|     | (cid:30)          |     |                   | (cid:30) (cid:27)(cid:26) | (cid:27)(cid:31) |     |          |                                                                       |          |          |          |
-|     |                   |     |                   |                           |                  |     | (cid:31) | (cid:31) (cid:30) (cid:29) (cid:28)(cid:27) (cid:28)(cid:31) (cid:26) |          | (cid:31) |          |
-|     | (cid:30) (cid:31) |     | (cid:31) (cid:28) |                           |                  |     |          |                                                                       |          |          |          |
-|     | (cid:31)          |     |                   | (cid:31)                  |                  |     | (cid:23) |                                                                       |          | (cid:22) |          |
-|     |                   |     |                   |                           |                  |     |          | (cid:29) (cid:28)(cid:27) (cid:28)(cid:31)                            | (cid:31) |          |          |
-|     | (cid:30)          |     | (cid:31)          |                           |                  |     |          |                                                                       |          |          |          |
-(cid:29)
-|          | (cid:31)(cid:30)(cid:29)(cid:28)(cid:31)(cid:30)(cid:29) |          |          |          |          |          |                                            | (cid:31)(cid:30)(cid:29)(cid:28)(cid:30)(cid:31)(cid:26) |          |          |                   |
+|     |                   |     |                   |                           |                  |     |          |       |          |          |          |
+|     |           |     |   |                           |                  |     |          |                                                                       |          |          |          |
+|     |           |     |                   |   |  |     |          |                                                                       |          |          |          |
+|     |                   |     |                   |                           |                  |     |  |       |          |  |          |
+|     |   |     |   |                           |                  |     |          |                                                                       |          |          |          |
+|     |           |     |                   |                   |                  |     |  |                                                                       |          |  |          |
+|     |                   |     |                   |                           |                  |     |          |                               |  |          |          |
+|     |           |     |           |                           |                  |     |          |                                                                       |          |          |          |
+
+|          |  |          |          |          |          |          |                                            |  |          |          |                   |
 | -------- | -------------------------------------------------------- | -------- | -------- | -------- | -------- | -------- | ------------------------------------------ | -------------------------------------------------------- | -------- | -------- | ----------------- |
-|          |                                                          |          |          |          |          |          |                                            |                                                          |          | (cid:30) | (cid:30) (cid:30) |
-| (cid:23) | (cid:31) (cid:22)                                        | (cid:23) | (cid:31) | (cid:22) | (cid:20) | (cid:31) | (cid:19)                                   |                                                          |          |          |                   |
-|          |                                                          |          |          |          |          |          |                                            | (cid:31)                                                 | (cid:31) |          |                   |
-|          |                                                          |          |          |          |          |          |                                            |                                                          | (cid:31) | (cid:31) | (cid:31) (cid:31) |
-|          |                                                          |          |          |          |          |          | (cid:31) (cid:26)(cid:25) (cid:26)(cid:30) | (cid:31) (cid:26)(cid:25) (cid:26)(cid:31)               |          |          |                   |
-(cid:30)
-| (cid:31) | (cid:31) (cid:24) | (cid:31) |     |          | (cid:31) |     |          |     |          |          |                   |
+|          |                                                          |          |          |          |          |          |                                            |                                                          |          |  |   |
+|  |                                          |  |  |  |  |  |                                    |                                                          |          |          |                   |
+|          |                                                          |          |          |          |          |          |                                            |                                                  |  |          |                   |
+|          |                                                          |          |          |          |          |          |                                            |                                                          |  |  |   |
+|          |                                                          |          |          |          |          |          |    |                  |          |          |                   |
+
+|  |   |  |     |          |  |     |          |     |          |          |                   |
 | -------- | ----------------- | -------- | --- | -------- | -------- | --- | -------- | --- | -------- | -------- | ----------------- |
-|          |                   |          |     | (cid:30) |          |     | (cid:23) |     | (cid:31) | (cid:30) | (cid:30) (cid:30) |
-(cid:22)
-|          |          |          |          | (cid:21) (cid:24) |          |                                            | (cid:30) |          |          |          |                   |
+|          |                   |          |     |  |          |     |  |     |  |  |   |
+
+|          |          |          |          |   |          |                                            |  |          |          |          |                   |
 | -------- | -------- | -------- | -------- | ----------------- | -------- | ------------------------------------------ | -------- | -------- | -------- | -------- | ----------------- |
-|          |          |          | (cid:30) |                   |          |                                            | (cid:30) | (cid:30) | (cid:31) | (cid:30) | (cid:30) (cid:30) |
-| (cid:28) | (cid:27) | (cid:28) |          | (cid:27)          | (cid:28) | (cid:31) (cid:26)(cid:25) (cid:26)(cid:30) | (cid:27) |          |          |          |                   |
-(cid:31) (cid:26)(cid:25) (cid:26)(cid:24)
-(cid:31)(cid:30)(cid:29)(cid:28)(cid:31)(cid:30)(cid:29)
-(cid:31)(cid:30)(cid:29)(cid:28)(cid:29)(cid:28)(cid:27)
+|          |          |          |  |                   |          |                                            |  |  |  |  |   |
+|  |  |  |          |           |  |    |  |          |          |          |                   |
+  
+
+
 | 9.1  | Factorization  |     |     | of  | the  | expression  |     | in  | the  | form  | of   |
 | ---- | -------------- | --- | --- | --- | ---- | ----------- | --- | --- | ---- | ----- | ---- |
 (a + b)3, (a3 + b3), (a − b)3 and (a3 − b3)
@@ -7141,12 +7141,12 @@ a
 | ------- | --- | --- | --- | --- | --- |
 (a + b)
 (a + b)
-|     | (cid:30) | (cid:30) | (cid:30) | (cid:31) | (cid:31) |
+|     |  |  |  |  |  |
 | --- | -------- | -------- | -------- | -------- | -------- |
-(cid:31) (cid:31) (cid:31) (cid:31) (cid:31) (cid:31) (cid:31)
-| (cid:31) | (cid:31) | (cid:31) |     |                   |          |
+      
+|  |  |  |     |                   |          |
 | -------- | -------- | -------- | --- | ----------------- | -------- |
-|          |          |          |     | (cid:30) (cid:30) | (cid:30) |
+|          |          |          |     |   |  |
 For example, the conclusion of group A is as follows:
 The volume of the cube = Volume of some of all pieces.
 Thus, (a + b)3 = a3 + b3 + a2b + a2b + a2b + ab2 + ab2 + ab2
@@ -7178,39 +7178,39 @@ a3 = (a – b)3 + b3 + (a – b)2· b + (a – b)2 · b +
 or, (a – b)3 = a3 – 3a2b + 3ab2 – b3
 186
 Mathematics Grade 9
-(cid:31) (cid:30)
-(cid:31)
-(cid:29)
-(cid:30) (cid:29)
-(cid:29)
-(cid:31) (cid:30)
-(cid:31)
-(cid:29)
-(cid:30) (cid:29)
-(cid:29)
-(cid:31) (cid:30)
-(cid:31)
-(cid:29)
-(cid:31)
-(cid:30)
-(cid:30)
-(cid:29)
-(cid:31)
-(cid:31)
-(cid:31) (cid:30)
-(cid:30) (cid:29)
-(cid:29)
-(cid:31)
-(cid:31) (cid:30) (cid:29)
-(cid:29)(cid:29)
-(cid:29)
-(cid:29)
-(cid:31)
-(cid:29)
-(cid:30) (cid:29)
-(cid:29)(cid:29)
-(cid:31) (cid:30) (cid:29)
-(cid:29)(cid:29)
+ 
+
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+  
+
+
+
+
+
+ 
+
+  
+
 a
 (a–b) b
 b
@@ -12578,22 +12578,22 @@ middle value using the following formula:
 328
 Mathematics Grade 9
 
-|                   | (cid:30) N (cid:31)1(cid:27) |     |     |     |     |
+|                   |  N 1 |     |     |     |     |
 | ----------------- | ---------------------------- | --- | --- | --- | --- |
-| Median = (cid:28) | (cid:25) item                |     |     |     |     |
-|                   | (cid:29) 2 (cid:26)          |     |     |     |     |
+| Median =  |  item                |     |     |     |     |
+|                   |  2           |     |     |     |     |
 
-(cid:30)29(cid:31)1(cid:27)
-|        = (cid:28) | (cid:25) |     |     |     |     |
+291
+|        =  |  |     |     |     |     |
 | ----------------- | -------- | --- | --- | --- | --- |
 2
-| (cid:29) | (cid:26)    |     |     |     |     |
+|  |     |     |     |     |     |
 | -------- | ----------- | --- | --- | --- | --- |
-| (cid:31) | 30 (cid:28) |     |     |     |     |
+|  | 30  |     |     |     |     |
        =
-| (cid:29) | (cid:26)   |     |     |     |     |
+|  |    |     |     |     |     |
 | -------- | ---------- | --- | --- | --- | --- |
-| (cid:30) | 2 (cid:27) |     |     |     |     |
+|  | 2  |     |     |     |     |
       = 15th item
   8, 8, 8, 10, 10, 10, 10, 10, 12, 12, 12, 12, 12, 12, 12, 12, 12, 14, 14, 14, 14, 14,
 14, 14, 14, 16, 16, 16, 18
@@ -12615,24 +12615,24 @@ Now, construct the cumulative frequency table as follows
 |             | 16  |               | 3   |                           | 25 + 3 = 28 |
 |             | 18  |               | 1   |                           | 28 + 1 = 29 |
 Total (N) = 29
-|              | (cid:30) N | (cid:31)1(cid:27) |     |     |     |
+|              |  N | 1 |     |     |     |
 | ------------ | ---------- | ----------------- | --- | --- | --- |
-| (f)  Median  | = (cid:28) | (cid:25) th item  |     |     |     |
+| (f)  Median  | =  |  th item  |     |     |     |
 2
-|     | (cid:29) | (cid:26) |     |     |     |
+|     |  |  |     |     |     |
 | --- | -------- | -------- | --- | --- | --- |
-(cid:30)29(cid:31)1(cid:27)
-|          | = (cid:28) | (cid:25)th item |     |     |     |
+291
+|          | =  | th item |     |     |     |
 | -------- | ---------- | --------------- | --- | --- | --- |
 
-|     | (cid:29) | 2 (cid:26) |     |     |     |
+|     |  | 2  |     |     |     |
 | --- | -------- | ---------- | --- | --- | --- |
-(cid:31)30(cid:28)th item
+30th item
 =
-|            | (cid:29) | (cid:26) |     |     |     |
+|            |  |  |     |     |     |
 | ---------- | -------- | -------- | --- | --- | --- |
 2
-|           | (cid:30)    | (cid:27) |     |     |     |
+|           |     |  |     |     |     |
 | --------- | ----------- | -------- | --- | --- | --- |
 |           | = 15th item |          |     |     |     |
 329
@@ -12657,9 +12657,9 @@ in ascending or descending order. In the discrete distribution, the position of
 the median contains in the corresponding cumulative frequency in which we
 operate the cumulative frequency.
 The following formula is used to calculate the median:
-(cid:30) N (cid:31)1(cid:27)
-Total number = N, Median = (cid:28) (cid:25) th item
-(cid:29) 2 (cid:26)
+ N 1
+Total number = N, Median =   th item
+ 2 
 Example 3
 Find the median from the following data:
 Rainfall (mm) 40 43 54 55 60 62
@@ -12682,18 +12682,18 @@ Mathematics Grade 9
  Total (N) = ∑ f = 29
 Here, N = 29
 We know that,
-N (cid:31)1(cid:27)
-(cid:30)
-| Median = (cid:28) | (cid:25) th item    |     |     |     |     |     |     |
-| ----------------- | ------------------- | --- | --- | --- | --- | --- | --- |
-|                   | (cid:29) 2 (cid:26) |     |     |     |     |     |     |
+N 1
 
-(cid:30)29(cid:31)1(cid:27)
-  = (cid:28) (cid:25)th item
-(cid:29) 2 (cid:26)
-  = (cid:31)30(cid:28)th item
-(cid:29) (cid:26)
-(cid:30) 2 (cid:27)
+| Median =  |  th item    |     |     |     |     |     |     |
+| ----------------- | ------------------- | --- | --- | --- | --- | --- | --- |
+|                   |  2  |     |     |     |     |     |     |
+
+291
+  =  th item
+ 2 
+  = 30th item
+ 
+ 2 
   = 15th item
 From cf column,
 | ⸫ Median (M | ) = 54 mm |     |     |     |     |     |     |
@@ -14056,15 +14056,15 @@ Dividing both sides by AC2
 |      |  +                   |  =                  |                              |          |     |     |     |     |     |
 | AC2  | AC2                  | AC2                 |                              |          |     |     |     |     |     |
 |      |                      | 2                   | 2                            | 2        |     |     |     |     |     |
-|      | (cid:31) AB (cid:28) | (cid:31) BC         | (cid:28) (cid:31) AC(cid:28) |          |     |     |     |     |     |
-| Or   |                      | (cid:25)            | (cid:24)                     |          |     |     |     |     |     |
-|      | (cid:29) (cid:26)    | (cid:29)            | (cid:26) (cid:29)            | (cid:26) |     |     |     |     |     |
-|      | (cid:30) AC(cid:27)  | (cid:30) AC(cid:27) | (cid:30) AC(cid:27)          |          |     |     |     |     |     |
+|      |  AB  |  BC         |   AC |          |     |     |     |     |     |
+| Or   |                      |             |                      |          |     |     |     |     |     |
+|      |      |             |              |  |     |     |     |     |     |
+|      |  AC  |  AC |  AC          |          |     |     |     |     |     |
 |      | 2                    |                     | 2                            |          |     |     |     |     | θ   |
-|      | (cid:31) p(cid:28)   | (cid:31)b(cid:28)   |                              |          |     | B   |     |     | C   |
-| Or   |                      | (cid:25)            | = 1                          |          |     |     |     |     |     |
-|      | (cid:29) (cid:26)    | (cid:29) (cid:26)   |                              |          |     |     |     |     |     |
-|      | (cid:30) h (cid:27)  | (cid:30)h(cid:27)   |                              |          |     |     |     |     |     |
+|      |  p   | b   |                              |          |     | B   |     |     | C   |
+| Or   |                      |             | = 1                          |          |     |     |     |     |     |
+|      |      |     |                              |          |     |     |     |     |     |
+|      |  h   | h   |                              |          |     |     |     |     |     |
 or, (sinθ)2 + (cosθ)2 = 1
 or, sin2θ + cos2θ = 1
 Similarly, divide the equation (i) by AB2 and BC2.
@@ -14251,10 +14251,10 @@ x
 By Pythagoras theorem in ∆PMR,
 (PM)2 = (PR)2 – (MR)2
 2
-|     |                       |     | (cid:31) x(cid:28) |     | x2  |     |     |     |     |
+|     |                       |     |  x |     | x2  |     |     |     |     |
 | --- | --------------------- | --- | ------------------ | --- | --- | --- | --- | --- | --- |
-|     | (PM)2 = x2 – (cid:29) |     | (cid:26) = x2 –    |     |     |     |     |     |     |
-|     |                       |     | (cid:30)2(cid:27)  |     | 4   |     |     |     |     |
+|     | (PM)2 = x2 –  |     |  = x2 –    |     |     |     |     |     |     |
+|     |                       |     | 2  |     | 4   |     |     |     |     |
 3x2
 |     | (PM)2 =  |     |     |     |     |     |     |     |     |
 | --- | -------- | --- | --- | --- | --- | --- | --- | --- | --- |

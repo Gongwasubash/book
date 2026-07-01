@@ -1,10 +1,11 @@
-सामािजक अ(cid:559)यन तथा जनसङ् (cid:421)ा
-िश(cid:407)ा
-क(cid:407)ा ८
+सामाजिक अध्ययन तथा जनसङ्ख्या
+शिक्षा
+कक्षा ८
 नेपाल सरकार
-िश(cid:407)ा ,िव(cid:466)ान तथा (cid:366)िविध म(cid:568)ालय
-पा(cid:492)(cid:354)म िवकास के (cid:574)
-सानोिठिम, भ(cid:389)पुर
+शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय
+पाठ्यक्रम विकास केन्द्र
+सानोठिमि, भक्तपुर
+
 
 ;fdflhs cWoog /
 hg;ª\Vof lzIff
@@ -1154,7 +1155,7 @@ cEof;
 ljleGg JolStnfO{ ;f]wL sIffdf k|:t't u/ .
 ;fdflhs cWoog / hg;ª\Vof lzIff, sIff * 37
 
-kf7 M % (cid:79)(cid:69)(cid:88)(cid:73)(cid:64)(cid:3)ljsf;
+kf7 M % ljsf;
 ljsf;sf nfe / ultnfO{ jt{dfgsf cltl/St eljio;Dd ;'lglZrttf lbg] cjwf/0ff lbuf]
 ljsf; xf] . o;n] jt{dfgdf ;|f]tsf] cTolws k|of]un] efjL k':tfnfO{ ;|f]tljxLg agfpg' x'“b}g
 eGg] dfGotf /fV5 . lbuf] ljsf; cfkm}“df wflgg ;Sg] ljsf; xf] . jftfj/0f d}qL ljsf;

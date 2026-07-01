@@ -1,9 +1,10 @@
-गिणत
-क(cid:407)ा ८
+गणित
+कक्षा ८
 नेपाल सरकार
-िश(cid:407)ा ,िव(cid:466)ान तथा (cid:366)िविध म(cid:568)ालय
-पा(cid:492)(cid:354)म िवकास के (cid:574)
-सानोिठिम, भ(cid:389)पुर
+शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय
+पाठ्यक्रम विकास केन्द्र
+सानोठिमि, भक्तपुर
+
 
 ul0ft
 sIff *
@@ -2235,7 +2236,7 @@ lrq g+= @
 | rf8} fO (b) = jQ[ | sf ]                                    | cwJ{ of;  = r 5 . |     |        |     |     |     |
 | ----------------- | --------------------------------------- | ----------------- | --- | ------ | --- | --- | --- |
 | ca, xfdLnfO {     | yfxf 5,                                 |                   |     |        |     |     |     |
-| cfotsf ]          | Ifq] kmn (A) = nDafO (l) x(cid:31) rf8} |                   |     | fO (b) |     |     |     |
+| cfotsf ]          | Ifq] kmn (A) = nDafO (l) x rf8} |                   |     | fO (b) |     |     |     |
 π
 =    r × r
 π r2 ju { PsfO
@@ -6629,7 +6630,7 @@ X
 | --- | --- | --- | --- | --- | --- | --- | --- | ------- |
 1st
 lbg
-dflysf ] lrqdf x/] f “} . lagn'  ] cf(cid:31)gf ] pknlAw (I,Q) k/LIf0fdf 8 lbg;Dd l7s pQ/ lbPsf kZ| gx¿sf]
+dflysf ] lrqdf x/] f “} . lagn'  ] cfgf ] pknlAw (I,Q) k/LIf0fdf 8 lbg;Dd l7s pQ/ lbPsf kZ| gx¿sf]
 | ljj/0f bv]  | fOPsf ]] 5 . tnsf kZ| |             | gaf/ ]               | 5nkmn u/f “}       | M   |     |     |     |
 | ----------- | --------------------- | ----------- | -------------------- | ------------------ | --- | --- | --- | --- |
 | -s_ klxnf ] | lbgdf sltcf6]         | f kZ|       | gsf ] l7s pQ/ lbOg \ |                    | <   |     |     |     |
