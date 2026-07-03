@@ -7,6 +7,11 @@
   status = 200
 
 [[redirects]]
+  from = "/api/pdf-url"
+  to = "/.netlify/functions/pdf-url"
+  status = 200
+
+[[redirects]]
   from = "/api/chat"
   to = "/.netlify/functions/chat"
   status = 200
