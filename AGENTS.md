@@ -20,25 +20,30 @@
 - **Pushed to GitHub** — `origin` at `https://github.com/Gongwasubash/book.git`
 - **Batch TOC extraction from 43 unique PDFs** — used `pdfjs-dist` to download every PDF, detect page-label offset, extract outline/bookmarks, and fall back to text extraction from first 100 pages; results saved to `_toc_extracted.json`
 - **Discovered ~30 new PDF URLs** — found via EducateNepal blog and Pragyapath site (Grade 7–10 CDN links including Science Technology English, Social Studies, Health PE)
-- **All 87 books now have TOC entries** — auto-generated `addTOC()` calls from `addChapters()` data for the 39 books missing chapter listings; every book in INDEX now has at least a basic chapter table (without page numbers)
+- **All 87 books now have TOC entries** — auto-generated `addTOC()` calls from `addChapters()` data for the 39 books missing chapter listings; every book in INDEX now has at least a basic chapter table
 - **Hardcoded Mistral API key removed** — `functions/chat.js` now reads `MISTRAL_API_KEY` from environment only
+- **OCR pipeline built** — `tesseract.js` + `canvas` renders PDF pages as images and OCRs them with `eng+nep` language support; proof-of-concept verified on Class 6 Math (Nepali)
+- **Imported 72 curated chapter maps from smatoroai** — `chapterMap.ts` from sibling project `E:\smatoroai` has manually-extracted chapter titles and page numbers from actual PDF TOCs; converted to `addTOC()` format and merged into `toc_webpage.html`
+- **78/87 books now have page numbers** — up from 22; all 72 smatoroai entries have Devanagari page numbers, plus 6 OCR-extracted books unique to our system
 
 ### Current State
-- **87 books in INDEX**, all with TOC entries (22 with page numbers, 65 without)
-- **54 PDF URLs** mapped in `pdf_lookup.json` (covering 38/87 books)
-- **16 books** are Fully Functional (PDF + TOC with page numbers → chapter-click jumps to correct PDF page)
-- **22 books** have PDFs and TOC entries but no page numbers (PDF viewable, chapter navigation works with no page jump)
-- **16 books** have PDFs but no TOC page numbers (PDF viewable)
-- **33 books** have no PDF URL at all (markdown-only, no PDF viewing)
-- PDF text extraction from _toc_extracted.json returned 0 usable text for all PDFs (Preeti font issues for Nepali, no embedded text layer for English)
+- **87 books in INDEX**, all with TOC entries
+- **78 books with page numbers** (72 from smatoroai import + 6 from manual OCR batch)
+- **9 books without page numbers** (3 have PDFs: Class 3 Maths English, Class 9 Opt Math 2074, Class 9 Science Tech 2024; 6 have no PDF)
+- **54 PDF URLs** mapped in `pdf_lookup.json`
+- Most Class 9–10 books now have complete, properly-titled chapter lists from smatoroai with accurate page numbers
+- Lower-grade English & Nepali books from smatoroai have detailed chapter maps (e.g., Class 1 English has lessons 1–24)
+- Smatoroai chapter titles include proper Nepali/English names as they appear in the actual textbooks (e.g., "Unit 1: Current Affairs and Issues" instead of generic auto-generated names)
+- 6 OCR-extracted books retained: Class 1 Math English, Class 2 Math English, Class 4 Science Tech English, Class 5 Science Health Physical (Eng/Nep), Class 9 Naturopath 2082
+- PDF text extraction from `_toc_extracted.json` returned 0 usable text (Preeti font issues for Nepali)
 - CDC website has no accessible textbook listing — `/category/textbook/` shows only notices, WordPress REST API is disabled
 - Python `requests` fails on the CDN with SSL errors — use browser/iframe for PDF viewing
 
 ### Next Steps
-1. **Add page numbers manually** — 38 books with PDFs need page numbers extracted from printed TOC pages; requires opening each PDF, reading the Devanagari/Arabic page numbers, and typing them into `addTOC()` entries in `toc_webpage.html`
-2. **Deploy to Netlify** — requires `netlify login` or `NETLIFY_AUTH_TOKEN`; set `GROQ_API_KEY` and `MISTRAL_API_KEY` as Netlify environment variables for AI chat feature
-3. **Discover more PDF URLs** — for the 33 books still missing PDFs, try CDC elibrary (`lib.moecdc.gov.np/elibrary`) or other sources
-4. **Test PDF chapter-click → correct page** for the 16 fully functional books
+1. **Add page numbers for remaining 3 PDF-capable books** — Class 3 Maths English, Class 9 Optional Mathematics 2074, Class 9 Science Technology 2024; either via OCR pipeline or manual lookup
+2. **Verify chapter-click → correct PDF page** for the 78 books with page numbers; test in PDF.js viewer
+3. **Deploy to Netlify** — requires `netlify login` or `NETLIFY_AUTH_TOKEN`; set `GROQ_API_KEY` and `MISTRAL_API_KEY` as Netlify environment variables for AI chat feature
+4. **Discover more PDF URLs** — for the ~33 books still missing PDFs, try CDC elibrary (`lib.moecdc.gov.np/elibrary`) or other sources
 5. **Test across browsers** — verify PDF.js viewer works in Chrome, Firefox, Edge
 
 ## Key Files
@@ -51,3 +56,6 @@
 - `book_pdf_map.json`: Source PDF URL data from CDC CDN scraping (200+ content IDs, most with `no pdf`)
 - `_toc_extracted.json`: Extracted outline and page-text data from all PDFs for TOC_TABLES generation
 - `_gen_toc_entries.mjs`: Script to generate addTOC() calls from addChapters() data
+- `_apply_ocr_pages.cjs`: Script to apply OCR-extracted page numbers to toc_webpage.html
+- `_import_smatoroai.cjs`: Script to import curated chapter data from smatoroai chapterMap.ts
+- `_merge_smatoroai.cjs`: Script to merge imported chapter data into toc_webpage.html
