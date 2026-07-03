@@ -4,7 +4,7 @@ const GROQ_API_KEY = process.env.GROQ_API_KEY || '';
 const GROQ_URL = 'https://api.groq.com/openai/v1/chat/completions';
 const GROQ_MODEL = process.env.GROQ_MODEL || 'llama-3.3-70b-versatile';
 
-const MISTRAL_API_KEY = process.env.MISTRAL_API_KEY || 'u0YMFGONYPEqZHTEChuOUUr9Sw4QZUBI';
+const MISTRAL_API_KEY = process.env.MISTRAL_API_KEY;
 const MISTRAL_URL = 'https://api.mistral.ai/v1/chat/completions';
 const MISTRAL_MODEL = process.env.MISTRAL_MODEL || 'mistral-small-latest';
 
