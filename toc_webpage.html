@@ -727,6 +727,7 @@ let viewMode = 'pdf'; // 'pdf' | 'chapter'
 let pdfAvailable = false;
 let pdfUrlCache = {}; // key -> pdf_url
 let pdfPageTarget = null; // page number to jump to in PDF
+let pdfPendingTarget = null; // queued page jump while PDF URL is loading
 let pendingScroll = null;
 let EXERCISES_DATA = null;
 function key(c,s){return c+'|'+s}
@@ -755,7 +756,7 @@ function renderSidebar(){
       const s = document.createElement('button');
       s.className = 'subjectRow' + (activeClass===cls && activeSubject===i ? ' active' : '');
       s.innerHTML = `<span style="font-size:11px;opacity:.6">${getIcon(sub)}</span><span class="subjectLabel">${sub}</span>`;
-      s.onclick = () => { activeSubject=i; selectedChapter=null; result=null; error=null; pdfPageTarget=null; renderSidebar(); renderContent(); closeSidebar(); };
+      s.onclick = () => { activeSubject=i; selectedChapter=null; result=null; error=null; pdfPageTarget=null; pdfPendingTarget=null; renderSidebar(); renderContent(); closeSidebar(); };
       subWrap.appendChild(s);
     });
     clsDiv.appendChild(subWrap);
@@ -804,6 +805,7 @@ function renderContent(){
 
   // Reset view mode when switching books
   viewMode = 'pdf';
+  pdfPendingTarget = null;
 
   const ch = getChapters(cls, sub);
   const isUnindexable = UNINDEXABLE.has(key(cls, sub));
@@ -850,19 +852,37 @@ function renderWorkColumn(){
   var pk = key(activeClass, INDEX[activeClass][activeSubject]);
   var hasPdf = !!pdfUrlCache[pk];
   var isUnindexable = UNINDEXABLE.has(pk);
+  var pdfStatus = pdfUrlCache[pk]; // undefined=not checked, null=fetching, false=unavailable, URL=available
 
   // If we haven't checked PDF availability yet, do it async
-  if (!hasPdf && pdfUrlCache[pk] !== false) {
-    pdfUrlCache[pk] = false; // mark as checked
+  if (pdfStatus === undefined) {
+    pdfUrlCache[pk] = null; // mark as fetching
     fetch(API_BASE+'/api/pdf-url?class='+encodeURIComponent(activeClass)+'&subject='+encodeURIComponent(INDEX[activeClass][activeSubject]))
       .then(function(r){ return r.json(); })
       .then(function(d){
         if(d.available && d.pdf_url){
           pdfUrlCache[pk] = d.pdf_url;
           detectPdfOffset(pk, d.pdf_url, function(){});
+          // If there's a queued chapter jump, apply it
+          if (pdfPendingTarget && pdfPendingTarget.pk === pk) {
+            var pt = pdfPendingTarget;
+            var offset = PDF_OFFSET_CACHE[pk];
+            if (offset === null || offset === undefined) offset = 2;
+            var baseNum = parseInt(devToAr(pt.tblPage), 10);
+            pdfPageTarget = isNaN(baseNum) ? pt.pageNum : baseNum + offset;
+            pdfPendingTarget = null;
+            if (viewMode === 'pdf') renderWorkColumn();
+          } else if (viewMode === 'pdf') {
+            renderWorkColumn();
+          }
+        } else {
+          pdfUrlCache[pk] = false;
           if (viewMode === 'pdf') renderWorkColumn();
         }
-      }).catch(function(){});
+      }).catch(function(){
+        pdfUrlCache[pk] = false;
+        if (viewMode === 'pdf') renderWorkColumn();
+      });
   }
 
   var workCol = document.getElementById('workCol');
@@ -887,11 +907,14 @@ function renderWorkColumn(){
       pdfSrc += '#page=' + pdfPageTarget;
     }
     workCol.innerHTML = toggleHtml + '<iframe class="pdfViewer" src="'+pdfSrc+'"></iframe>';
-  } else if (viewMode === 'pdf' && !hasPdf && pdfUrlCache[pk] === false) {
+  } else if (viewMode === 'pdf' && pdfUrlCache[pk] === null) {
+    // PDF is being fetched — show loading state
+    workCol.innerHTML = toggleHtml + '<div class="pdfLoading"><span class="loadingDots">Loading PDF</span></div>';
+  } else if (viewMode === 'pdf' && pdfUrlCache[pk] === false) {
     // Checked and no PDF available — show chapter view with note
-    workCol.innerHTML = toggleHtml + renderChapterView(ch, isUnindexable);
+    workCol.innerHTML = toggleHtml + '<div class="pdfUnavailable"><h3>📄 PDF Not Available</h3><p>Viewing chapter content instead.</p></div>' + renderChapterView(ch, isUnindexable);
   } else {
-    // viewMode === 'chapter' or PDF still loading
+    // viewMode === 'chapter' or not checked yet
     viewMode = 'chapter';
     pdfPageTarget = null;
     workCol.innerHTML = toggleHtml + renderChapterView(ch, isUnindexable);
@@ -1056,6 +1079,7 @@ function selectChapter(i){
   if (hasPdf && pageNum !== null) {
     viewMode = 'pdf';
     pdfPageTarget = pageNum;
+    pdfPendingTarget = null;
     renderWorkColumn();
     // If offset still pending, re-render once detected
     if (PDF_OFFSET_CACHE[pk] === null) {
@@ -1068,11 +1092,17 @@ function selectChapter(i){
         }
       });
     }
+  } else if (!hasPdf && pageNum !== null && pdfUrlCache[pk] === null) {
+    // PDF URL is still loading — queue jump and show loading state
+    pdfPendingTarget = { pk: pk, pageNum: pageNum, tblPage: tblData[i].page, chapterIndex: i };
+    viewMode = 'pdf';
+    renderWorkColumn();
   } else {
     if (viewMode === 'pdf') {
       viewMode = 'chapter';
     }
     pdfPageTarget = null;
+    pdfPendingTarget = null;
     renderWorkColumn();
   }
 }
