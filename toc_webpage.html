@@ -732,8 +732,8 @@ let activeClass = null, activeSubject = null, selectedChapter = null, result = n
 let viewMode = 'pdf'; // 'pdf' | 'chapter'
 let pdfAvailable = false;
 let pdfUrlCache = {}; // key -> pdf_url
-let pdfPageTarget = null; // page number to jump to in PDF
-let pdfPendingTarget = null; // queued page jump while PDF URL is loading
+let pdfJumpRequest = null; // { pk, rawTblPage } — page to jump to once offset is detected
+let pdfLoadingPk = null; // pk whose PDF is currently being loaded (prevents duplicate loads)
 let pendingScroll = null;
 // PDF.js viewer state
 var pdfDoc = null;
@@ -767,7 +767,7 @@ function renderSidebar(){
       const s = document.createElement('button');
       s.className = 'subjectRow' + (activeClass===cls && activeSubject===i ? ' active' : '');
       s.innerHTML = `<span style="font-size:11px;opacity:.6">${getIcon(sub)}</span><span class="subjectLabel">${sub}</span>`;
-      s.onclick = () => { activeSubject=i; selectedChapter=null; result=null; error=null; pdfPageTarget=null; pdfPendingTarget=null; renderSidebar(); renderContent(); closeSidebar(); };
+      s.onclick = () => { activeSubject=i; selectedChapter=null; result=null; error=null; pdfJumpRequest=null; pdfCurrentPage=1; renderSidebar(); renderContent(); closeSidebar(); };
       subWrap.appendChild(s);
     });
     clsDiv.appendChild(subWrap);
@@ -816,7 +816,8 @@ function renderContent(){
 
   // Reset view mode when switching books
   viewMode = 'pdf';
-  pdfPendingTarget = null;
+  pdfJumpRequest = null;
+  pdfCurrentPage = 1;
   destroyPdfViewer();
 
   const ch = getChapters(cls, sub);
@@ -874,15 +875,8 @@ function renderWorkColumn(){
       .then(function(d){
         if(d.available && d.pdf_url){
           pdfUrlCache[pk] = d.pdf_url;
-          detectPdfOffset(pk, d.pdf_url, function(){});
-          // If there's a queued chapter jump, apply it
-          if (pdfPendingTarget && pdfPendingTarget.pk === pk) {
-            var pt = pdfPendingTarget;
-            var offset = PDF_OFFSET_CACHE[pk];
-            if (offset === null || offset === undefined) offset = 2;
-            var baseNum = parseInt(devToAr(pt.tblPage), 10);
-            pdfPageTarget = isNaN(baseNum) ? pt.pageNum : baseNum + offset;
-            pdfPendingTarget = null;
+          // If there's a queued chapter jump, load PDF with jump request
+          if (pdfJumpRequest && pdfJumpRequest.pk === pk) {
             if (viewMode === 'pdf') renderWorkColumn();
           } else if (viewMode === 'pdf') {
             renderWorkColumn();
@@ -926,7 +920,7 @@ function renderWorkColumn(){
       '</div>' +
       '<div class="pdfCanvasWrapper"><canvas id="pdfCanvas"></canvas></div>' +
     '</div>';
-    loadPdfViewer(pk, pdfPageTarget || 1);
+    loadPdfViewer(pk);
   } else if (viewMode === 'pdf' && pdfUrlCache[pk] === null) {
     // PDF is being fetched — show loading state
     workCol.innerHTML = toggleHtml + '<div class="pdfLoading"><span class="loadingDots">Loading PDF</span></div>';
@@ -936,7 +930,7 @@ function renderWorkColumn(){
   } else {
     // viewMode === 'chapter' or not checked yet
     viewMode = 'chapter';
-    pdfPageTarget = null;
+    pdfJumpRequest = null;
     workCol.innerHTML = toggleHtml + renderChapterView(ch, isUnindexable);
   }
 }
@@ -968,25 +962,64 @@ function devToAr(num){
   return String(num).replace(/[०१२३४५६७८९]/g, function(c){ return map[c] || c; });
 }
 
-// PDF page offset per book — auto-detected via PDF.js page labels
-// Cache: key -> offset (null = detection pending)
+// PDF page offset per book — auto-detected via PDF.js page labels in loadPdfViewer
 var PDF_OFFSET_CACHE = {};
 
-function detectPdfOffset(pk, pdfUrl, callback) {
-  if (PDF_OFFSET_CACHE[pk] !== undefined) {
-    callback(PDF_OFFSET_CACHE[pk] === null ? 2 : PDF_OFFSET_CACHE[pk]);
+function loadPdfViewer(pk){
+  var url = pdfUrlCache[pk];
+  if (!url) return;
+
+  // Prevent duplicate loads when user clicks chapters while PDF is loading
+  if (pdfLoadingPk === pk) return;
+
+  // If same PDF already loaded, check jump request and render
+  if (pdfDoc && pdfCurrentPk === pk) {
+    resolvePdfJump(pk);
+    pdfRenderPage();
     return;
   }
-  PDF_OFFSET_CACHE[pk] = null; // mark pending
 
-  pdfjsLib.getDocument(pdfUrl).promise.then(function(pdf) {
-    return pdf.getPageLabels();
-  }).then(function(labels) {
-    if (!labels || labels.length === 0) {
-      PDF_OFFSET_CACHE[pk] = 2;
-      callback(2);
-      return;
-    }
+  if (pdfDoc) { pdfDoc.destroy(); pdfDoc = null; }
+  pdfCurrentPk = pk;
+  pdfLoadingPk = pk;
+  pdfScale = null; // reset scale for auto-fit
+
+  var container = document.getElementById('pdfViewerContainer');
+  if (!container) return;
+  var wrapper = container.querySelector('.pdfCanvasWrapper');
+  var nav = container.querySelector('.pdfNavBar');
+  if (nav) nav.style.display = '';
+  if (wrapper) wrapper.innerHTML = '<canvas id="pdfCanvas"></canvas>';
+
+  pdfjsLib.getDocument(url).promise.then(function(pdf){
+    pdfLoadingPk = null;
+    pdfDoc = pdf;
+    var maxPage = pdf.numPages;
+    var totalEl = document.getElementById('pdfTotalPages');
+    if (totalEl) totalEl.textContent = maxPage;
+    var inputEl = document.getElementById('pdfPageInput');
+    if (inputEl) inputEl.max = maxPage;
+
+    // Chain: detect offset → resolve jump → render
+    return detectPdfOffsetOnce(pk, pdf).then(function(){
+      resolvePdfJump(pk, maxPage);
+      pdfRenderPage();
+    });
+  }).catch(function(err){
+    pdfLoadingPk = null;
+    container.innerHTML = '<div class="errorBox" style="margin:16px">\u26a0\ufe0f Failed to load PDF: ' + escapeHtml(err.message) + '</div>';
+  });
+}
+
+// Detect offset if not yet known, using an already-opened PDF document
+// Returns a promise that resolves when PDF_OFFSET_CACHE[pk] is set
+function detectPdfOffsetOnce(pk, pdf){
+  if (PDF_OFFSET_CACHE[pk] !== undefined) {
+    return Promise.resolve(); // already known or pending
+  }
+  PDF_OFFSET_CACHE[pk] = 2; // set immediate default (will be refined if labels found)
+  return pdf.getPageLabels().then(function(labels){
+    if (!labels || labels.length === 0) return;
     var offset = 2;
     for (var i = 0; i < labels.length; i++) {
       var label = (labels[i] || '').toString().trim();
@@ -996,43 +1029,24 @@ function detectPdfOffset(pk, pdfUrl, callback) {
       }
     }
     PDF_OFFSET_CACHE[pk] = offset;
-    callback(offset);
-  }).catch(function() {
+  }).catch(function(){
     PDF_OFFSET_CACHE[pk] = 2;
-    callback(2);
   });
 }
 
-function loadPdfViewer(pk, pageNum){
-  // If same PDF already loaded, just jump to page
-  if (pdfDoc && pdfCurrentPk === pk) {
-    pdfCurrentPage = Math.max(1, Math.min(pageNum || 1, pdfDoc.numPages));
-    pdfRenderPage();
+// Check pdfJumpRequest and set pdfCurrentPage accordingly
+// PDF_OFFSET_CACHE[pk] is guaranteed to be set before this is called
+function resolvePdfJump(pk, maxPage){
+  if (!pdfJumpRequest || pdfJumpRequest.pk !== pk) {
+    pdfCurrentPage = 1;
     return;
   }
-  var url = pdfUrlCache[pk];
-  if (!url) return;
-  if (pdfDoc) { pdfDoc.destroy(); pdfDoc = null; }
-  pdfCurrentPk = pk;
-  pdfScale = null; // reset scale for auto-fit
-  var container = document.getElementById('pdfViewerContainer');
-  if (!container) return;
-  var wrapper = container.querySelector('.pdfCanvasWrapper');
-  var nav = container.querySelector('.pdfNavBar');
-  if (nav) nav.style.display = '';
-  if (wrapper) wrapper.innerHTML = '<canvas id="pdfCanvas"></canvas>';
-  pdfjsLib.getDocument(url).promise.then(function(pdf){
-    pdfDoc = pdf;
-    var maxPage = pdf.numPages;
-    var totalEl = document.getElementById('pdfTotalPages');
-    if (totalEl) totalEl.textContent = maxPage;
-    var inputEl = document.getElementById('pdfPageInput');
-    if (inputEl) inputEl.max = maxPage;
-    pdfCurrentPage = Math.max(1, Math.min(pageNum || 1, maxPage));
-    pdfRenderPage();
-  }).catch(function(err){
-    container.innerHTML = '<div class="errorBox" style="margin:16px">\u26a0\ufe0f Failed to load PDF: ' + escapeHtml(err.message) + '</div>';
-  });
+  var offset = PDF_OFFSET_CACHE[pk] || 2;
+  var baseNum = parseInt(devToAr(pdfJumpRequest.rawTblPage), 10);
+  pdfCurrentPage = isNaN(baseNum) ? 1 : baseNum + offset;
+  if (maxPage && pdfCurrentPage > maxPage) pdfCurrentPage = maxPage;
+  if (pdfCurrentPage < 1) pdfCurrentPage = 1;
+  pdfJumpRequest = null;
 }
 
 function pdfRenderPage(){
@@ -1096,7 +1110,7 @@ function pdfZoomOut(){
 function switchView(mode){
   viewMode = mode;
   if (mode === 'pdf') {
-    pdfPageTarget = null; // full PDF when clicking PDF View button
+    pdfJumpRequest = null; // full PDF from beginning
   }
   renderWorkColumn();
 }
@@ -1166,53 +1180,25 @@ function scrollToChapter(i){
 function selectChapter(i){
   selectedChapter = i; result=null; error=null;
   var pk = key(activeClass, INDEX[activeClass][activeSubject]);
-  var hasPdf = !!pdfUrlCache[pk];
   var tblData = TOC_TABLES[pk];
-
-  // Check if we have page data to jump to in PDF
-  var pageNum = null;
-  if (hasPdf && tblData && tblData[i] && tblData[i].page) {
-    var pageStr = devToAr(tblData[i].page);
-    pageNum = parseInt(pageStr, 10);
-    if (!isNaN(pageNum)) {
-      var offset = PDF_OFFSET_CACHE[pk];
-      if (offset === null || offset === undefined) offset = 2;
-      pageNum += offset;
-    }
-  }
+  var rawPage = tblData && tblData[i] && tblData[i].page;
 
   // Update sidebar active state
   document.querySelectorAll('.chapterBtn, .tocTable tr').forEach(function(el){
     el.classList.toggle('active', el.dataset && parseInt(el.dataset.ch)===i);
   });
 
-  if (hasPdf && pageNum !== null) {
-    viewMode = 'pdf';
-    pdfPageTarget = pageNum;
-    pdfPendingTarget = null;
-    renderWorkColumn();
-    // If offset still pending, re-render once detected
-    if (PDF_OFFSET_CACHE[pk] === null) {
-      var pdfUrl = pdfUrlCache[pk];
-      detectPdfOffset(pk, pdfUrl, function(detectedOffset) {
-        var newOffset = detectedOffset || 2;
-        if (newOffset !== 2) {
-          pdfPageTarget = parseInt(devToAr(tblData[i].page), 10) + newOffset;
-          renderWorkColumn();
-        }
-      });
-    }
-  } else if (!hasPdf && pageNum !== null && pdfUrlCache[pk] === null) {
-    // PDF URL is still loading — queue jump and show loading state
-    pdfPendingTarget = { pk: pk, pageNum: pageNum, tblPage: tblData[i].page, chapterIndex: i };
+  if (rawPage) {
+    // Queue page jump — offset will be applied in loadPdfViewer after detection
+    pdfJumpRequest = { pk: pk, rawTblPage: rawPage };
     viewMode = 'pdf';
     renderWorkColumn();
   } else {
+    // No page data → show chapter view
     if (viewMode === 'pdf') {
       viewMode = 'chapter';
     }
-    pdfPageTarget = null;
-    pdfPendingTarget = null;
+    pdfJumpRequest = null;
     renderWorkColumn();
   }
 }
