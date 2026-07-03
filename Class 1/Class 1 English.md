@@ -1,231 +1,103 @@
-My English
-Grade 1
-Name :
-Roll number :
-School :
-Government of Nepal
-Ministry of Education, Science and Technology
-Curriculum Development Centre
-Sanothimi, Bhaktapur
+---
+title: "English"
+grade: 1
+language: english
+subject: "English"
+publisher: "Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre"
+location: "Sanothimi, Bhaktapur"
+edition: "2077 BS"
+isbn: "978-9937-601-43-6"
+---
 
-Publisher: Government of Nepal
-Ministry of Education, Science and Technology
-Curriculum Development Centre
-Sanothimi, Bhaktapur
-© Curriculum Development Centre
-ISBN: 978-9937-601-43-6
-All rights reserved. No part of this publication may be reproduced or transmitted in any other form
-or by any means without the written permission of the publisher. However, this does not prohibit
-making copies of its pages for teacher training or other non-profit making purposes.
-Edition:
-First Edition: 2077 BS (2020 AD)
-Second Edition: 2078 BS (2021 AD)
-Send your comments and suggestions to:
-Curriculum Development Centre
-Phone: 01-6630588
-Fax: 01-6630797
-Email: cdc@ntc.net.np
-Website: moecdc.gov.np
+# English — Grade 1
 
-Preface
-Curriculum Development Centre (CDC) revises curricula and textbooks on a regular basis to
-make education relevant to changed context. Keeping to the tradition, the new Basic Level
-Curriculum (Grades 1-3) developed as an integrated form is based on the guiding principles
-of National Curriculum Framework 2019. To see their relevance and practicalities, both the
-curriculum and the book of Grade 1 were piloted in over 100 schools across the country in
-the academic year 2076 BS. The curriculum has been updated on the basis of the feedback
-obtained from different stakeholders. Likewise, this book has also been revised on the basis
-of the updated version of the integrated curriculum and as well as the feedback obtained from
-the piloting.
-The book is organized under eleven multidisciplinary themes and incorporates the competencies
-and the language functions outlined in the curriculum. Due to this, it is expected to help in
-integrated teaching and learning process. This book can be used as a textbook as well as a
-workbook.
-This book was initially developed by Prof. Dr. Laxman Gnawali, Mr. Ramesh Prasad Ghimire,
-Mr. Ramesh Dhakal and Mr. Uddhav Bhattarai. Based on the feedback received from piloting,
-it was revised and edited by a team of experts comprising Mr. Nim Prakash Singh Rathour,
-Mr. Nabin Kumar Khadka and Mr. Shankar Adhikari. Various people have contributed to
-bring this book in this form, notably; Dr. Lekha Nath Poudel, Mr. Tukaraj Adhikari, Prof. Dr.
-Bal Mukunda Bhandari, Dr. Gangaram Gautam, Dr. Gopal Prasad Pandey, Mr. Purna Bahadur
-Lamichhane, Mr. Gangadhar Hada, Mr. Mahendra Kumar Shrestha, Ms. Rani Jha and Mr.
-Kedar Bahadur Tamang. The illustration of the book was done by Mr. Ujwal Tamang and Mr.
-Sonam Tamang and the layout design by Mr. Khados Sunuwar and Mr. Bhakta Bahadur Karki.
-The Centre would like to extend its sincere thanks to all the people who have contributed for
-the development of this book.
-An attempt has been made to make this book accessible and learner friendly. In order to make
-its effective use, the teacher needs to be a facilitator in the classroom. The Centre believes that
-it will also work as a self-access learning resource for the students.
-The Centre always welcomes constructive feedback for bringing improvements in its materials.
-2078 Curriculum Development Centre
-Sanothimi, Bhaktapur
+> **Publisher:** Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre
+> **Location:** Sanothimi, Bhaktapur
 
-4 My English Book 1
+## Table of Contents
 
-Table of Contents
-| Theme and Lesson                 |                        | Page    |
-| -------------------------------- | ---------------------- | ------- |
-| Me and My Family                 |                        | 1-30    |
-|   Lesson 1 – 14                  |                        | 1-28    |
-|   Assessment 1                   |                        | 29      |
-| Alphabet                         |                        | 31-148  |
-|   Lesson 15 – 25 (Aa - Ee)       |                        | 31-52   |
-|   Lesson 26 – 36 (Ff - Jj)       |                        | 53-74   |
-|   Lesson 37 – 47 (Kk - Oo)       |                        | 75-96   |
-|   Lesson 48 – 58 (Pp - Tt)       |                        | 97-118  |
-|   Lesson 59 – 71 (Uu - Zz)       |                        | 119-144 |
-|   Lesson 72 (Revision: Aa - Zz)  |                        | 145     |
-|   Assessment 2                   |                        | 147     |
-| Me and My Family                 |                        | 149-152 |
-|   Lesson 73                      | :  Head and Shoulders  | 149     |
-|   Lesson 74                      | :  I See with My Eyes  | 151     |
-| My Daily Life                    |                        | 153-164 |
-|   Lesson 75                      | :  Brush Your Teeth    | 153     |
-|   Lesson 76                      | :  I Can Jump          | 155     |
-|   Lesson 77                      | :  I'm Happy           | 157     |
-|   Lesson 78                      | :  It's Seven O'clock  | 159     |
-|   Lesson 79                      | :  Seven Days          | 161     |
-|   Assessment 3                   |                        | 163     |
-| My School                        |                        | 165-176 |
-|   Lesson 80                      | :  Come Here           | 165     |
-|   Lesson 81                      | :  May I...?           | 167     |
+| S.No. | Title |
+|-------|-------|
+| 6 | [Date: ....................................](#ch-6) |
+| 7 | [Date: ....................................](#ch-7) |
+| 8 | [Date: ....................................](#ch-8) |
+| 9 | [Date: ....................................](#ch-9) |
+| 10 | [Date: ....................................](#ch-10) |
+| 11 | [Date: ....................................](#ch-11) |
+| 12 | [Date: ....................................](#ch-12) |
+| 13 | [Date: ....................................](#ch-13) |
+| 14 | [Date: ....................................](#ch-14) |
+| 15 | [|     | Aa  | Date: .................................... |](#ch-15) |
+| 16 | [Date: ....................................](#ch-16) |
+| 17 | [Date: ....................................](#ch-17) |
+| 18 | [Date: ....................................](#ch-18) |
+| 19 | [Date: ....................................](#ch-19) |
+| 20 | [Date: ....................................](#ch-20) |
+| 21 | [Date: ....................................](#ch-21) |
+| 22 | [Date: ....................................](#ch-22) |
+| 23 | [Date: ....................................](#ch-23) |
+| 24 | [Date: ....................................](#ch-24) |
+| 25 | [Date: ....................................](#ch-25) |
+| 26 | [Date: ....................................](#ch-26) |
+| 27 | [Date: ....................................](#ch-27) |
+| 28 | [Date: ....................................](#ch-28) |
+| 29 | [Date: ....................................](#ch-29) |
+| 30 | [Date: ....................................](#ch-30) |
+| 31 | [Date: ....................................](#ch-31) |
+| 32 | [Date: ....................................](#ch-32) |
+| 33 | [Date: ....................................](#ch-33) |
+| 34 | [Date: ....................................](#ch-34) |
+| 35 | [Date: ....................................](#ch-35) |
+| 36 | [Date: ....................................](#ch-36) |
+| 37 | [Date: ....................................](#ch-37) |
+| 38 | [Date: ....................................](#ch-38) |
+| 39 | [Date: ....................................](#ch-39) |
+| 40 | [Date: ....................................](#ch-40) |
+| 41 | [Date: ....................................](#ch-41) |
+| 42 | [Read.](#ch-42) |
+| 43 | [Date: ....................................](#ch-43) |
+| 44 | [Read.](#ch-44) |
+| 45 | [Date: ....................................](#ch-45) |
+| 46 | [Read.](#ch-46) |
+| 47 | [Date: ....................................](#ch-47) |
+| 48 | [Date: ....................................](#ch-48) |
+| 49 | [Read.](#ch-49) |
+| 50 | [Date: ....................................](#ch-50) |
+| 51 | [Read.](#ch-51) |
+| 52 | [Date: ....................................](#ch-52) |
+| 53 | [Read.](#ch-53) |
+| 54 | [Date: ....................................](#ch-54) |
+| 55 | [Read.](#ch-55) |
+| 56 | [Date: ....................................](#ch-56) |
+| 57 | [Read.](#ch-57) |
+| 58 | [Date: ....................................](#ch-58) |
+| 59 | [Date: ....................................](#ch-59) |
+| 60 | [Read.](#ch-60) |
+| 61 | [Date: ....................................](#ch-61) |
+| 62 | [Read.](#ch-62) |
+| 63 | [Date: ....................................](#ch-63) |
+| 64 | [Read.](#ch-64) |
+| 65 | [Date: ....................................](#ch-65) |
+| 66 | [Read.](#ch-66) |
+| 67 | [Date: ....................................](#ch-67) |
+| 68 | [Read.](#ch-68) |
+| 69 | [Date: ....................................](#ch-69) |
+| 70 | [Date: ....................................](#ch-70) |
+| 71 | [Date: ....................................](#ch-71) |
+| 72 | [Date: ....................................](#ch-72) |
+| 73 | [Date: ....................................](#ch-73) |
+| 74 | [Date: ....................................](#ch-74) |
+| 75 | [Date: ....................................](#ch-75) |
+| 76 | [Date: ....................................](#ch-76) |
+| 77 | [Date: ....................................](#ch-77) |
+| 78 | [Date: ....................................](#ch-78) |
+| 79 | [Date: ....................................](#ch-79) |
+| 80 | [Date: ....................................](#ch-80) |
 
-|   Lesson 82                          | :  I'm Pawan                | 169     |
-| ------------------------------------ | --------------------------- | ------- |
-|   Lesson 83                          | :  Things in the Classroom  | 171     |
-|   Lesson 84                          | :  Let's Play               | 173     |
-|   Assessment 4                       |                             | 175     |
-| Our Environment                      |                             | 177-186 |
-|   Lesson 85                          | :  On the Table             | 177     |
-|   Lesson 86                          | :  The Rainbow              | 179     |
-|   Lesson 87                          | :  Red Rose                 | 181     |
-|   Lesson 88                          | :  This is a Bag            | 183     |
-|   Assessment 5                       |                             | 185     |
-| My Belongings                        |                             | 187-196 |
-|   Lesson 89                          | :  In the Bag               | 187     |
-|   Lesson 90                          | :  Under the Table          | 189     |
-|   Lesson 91                          | :  Things at Home           | 191     |
-|   Lesson 92                          | :  Where Are My Socks?      | 193     |
-|   Assessment 6                       |                             | 195     |
-| Our Culture                          |                             | 197-202 |
-|   Lesson 93                          | :  Dashain                  | 197     |
-|   Lesson 94                          | :  Birthday                 | 199     |
-|   Assessment 7                       |                             | 201     |
-| Communication Technology and Market  |                             | 203-210 |
-|   Lesson 95                          | :  Ramu is a Farmer         | 203     |
-|   Lesson 96                          | :  Rice and Curry           | 205     |
-|   Lesson 97                          | :  Vehicles                 | 207     |
-|   Assessment 8                       |                             | 209     |
+---
 
-| Fruits and Vegetables       |                      | 211-218 |
-| --------------------------- | -------------------- | ------- |
-|   Lesson 98                 | :  Fruits            | 211     |
-|   Lesson 99                 | :  A/An              | 213     |
-|   Lesson 100 :              | Vegetables           | 215     |
-|   Assessment 9              |                      | 217     |
-| Hobbies and Interests       |                      | 219-224 |
-|   Lesson 101 :              | I Like Fruits        | 219     |
-|   Lesson 102 :              | I Don't Like Leaves  | 221     |
-|   Assessment 10             |                      | 223     |
-| Birds and Animals           |                      | 225-238 |
-|   Lesson 103 :              | The Tiger            | 225     |
-|   Lesson 104 :              | The Cock             | 227     |
-|   Lesson 105 :              | Birds in the Tree    | 229     |
-|   Lesson 106 :              | On/In/Under          | 231     |
-|   Lesson 107 :              | Big and Small        | 233     |
-|   Lesson 108 :              | My Pet               | 235     |
-|   Assessment 11             |                      | 237     |
-| Wordlist                    |                      | 239     |
-| Learning Progression Chart  |                      | 243     |
+## 6: Date: ....................................  {#ch-6}
 
-Me and My Family
-Lesson 1
-Date: ....................................
-Listen and say.
-Good morning,
-father.
-Good morning,
-mother.
-Good morning,
-puppy.
-Point (to the same pictures in each row).
-My English Grade 1 1
-
-Colour.
-Listen and sing.
-Johnny Johnny !
-Yes, Papa.
-Eating sugar?
-No, Papa.
-Telling a lie?
-No, Papa.
-Open your mouth.
-Ha ha ha!
-2 My English Grade 1
-
-Lesson 2
-Date: ....................................
-Listen and practise.
-Good morning, teacher.
-Good morning, friends.
-Good morning to you all.
-Point (to the same pictures in each row).
-My English Grade 1 3
-
-Colour.
-Colour (the way).
-4 My English Grade 1
-
-Lesson 3
-Date: ....................................
-Listen and say.
-Good
-night! Good
-morning!
-Good
-afternoon!
-Hi!
-Hello!
-Point (to the same pictures in each row).
-My English Grade 1 5
-
-Colour.
-Colour (the way).
-6 My English Grade 1
-
-Lesson 4
-Date: ....................................
-Listen and act.
-Bye bye.
-Goodbye.
-Bye bye.
-Goodbye.
-I can clap my hands.
-Bye bye.
-Good bye.
-Point (to the same pictures in each row).
-My English Grade 1 7
-
-Colour.
-Listen and sing.
-Hello, Maya!
-How are you?
-Fine, thanks.
-What about you?
-8 My English Grade 1
-
-Lesson 5
-Date: ....................................
-Say.
-Bye.
-Bye bye.
-Point (to the same pictures in each row).
-My English Grade 1 9
-
-Colour.
-Colour (the way).
-10 My English Grade 1
-
-Lesson 6
 Date: ....................................
 Say.
 Hello, everyone.
@@ -237,12 +109,12 @@ My name
 is Nima.
 Colour (the same picture in each row).
 My English Grade 1 11
-
 Trace and colour.
 Trace (the way).
 12 My English Grade 1
 
-Lesson 7
+## 7: Date: ....................................  {#ch-7}
+
 Date: ....................................
 Listen and act.
 I am Prem.
@@ -254,7 +126,6 @@ I am Deli,
 the dog.
 Colour (the same picture in each row).
 My English Grade 1 13
-
 Trace and colour.
 Listen and sing.
 Two big apples
@@ -263,7 +134,8 @@ One is for you
 And one is for me.
 14 My English Grade 1
 
-Lesson 8
+## 8: Date: ....................................  {#ch-8}
+
 Date: ....................................
 Listen and say.
 He is my father.
@@ -273,24 +145,24 @@ She is my sister.
 I love them all.
 Colour (the same picture in each row).
 My English Grade 1 15
-
 Trace and colour.
 Trace (the way).
 16 My English Grade 1
 
-Lesson 9
+## 9: Date: ....................................  {#ch-9}
+
 Date: ....................................
 Listen and say.
 father mother
 brother sister
 Colour (the same picture in each row).
 My English Grade 1 17
-
 Trace and colour.
 Trace (the way).
 18 My English Grade 1
 
-Lesson 10
+## 10: Date: ....................................  {#ch-10}
+
 Date: ....................................
 Listen and say.
 He is my uncle.
@@ -302,12 +174,12 @@ I love them all.
 nephew niece
 Colour (the same picture in each row).
 My English Grade 1 19
-
 Trace and colour.
 Trace (the way).
 20 My English Grade 1
 
-Lesson 11
+## 11: Date: ....................................  {#ch-11}
+
 Date: ....................................
 Listen and say.
 He is my grandfather.
@@ -319,12 +191,12 @@ I love them all.
 uncle aunt
 Tick (the same picture in each row).
 My English Grade 1 21
-
 Join (the dots).
 Draw (the lines).
 22 My English Grade 1
 
-Lesson 12
+## 12: Date: ....................................  {#ch-12}
+
 Date: ....................................
 Listen and act.
 Cow says moo moo
@@ -334,37 +206,33 @@ Cat says meow meow
 All animals say hello.
 Tick (the same picture in each row).
 My English Grade 1 23
-
 Join (the dots).
 Draw (the lines).
 24 My English Grade 1
 
-Lesson 13
+## 13: Date: ....................................  {#ch-13}
+
 Date: ....................................
 Listen and act.
 moo moo
 maa maa
-bow
-wow
 meow
 meow
 Tick (the same picture in each row).
 My English Grade 1 25
-
 Join (the dots).
 Draw (the lines).
 26 My English Grade 1
 
-Lesson 14
+## 14: Date: ....................................  {#ch-14}
+
 Date: ....................................
 Listen and act.
 Tick (the same line in each row).
 My English Grade 1 27
-
 Join (the dots).
 Draw (the shapes).
 28 My English Grade 1
-
 Assessment 1
 1. Listen and say after the teacher.
 a. Good morning.
@@ -378,7 +246,6 @@ Bye!
 Pinki.
 Hello!
 My English Grade 1 29
-
 4. Listen and sing.
 Two big apples
 Under a tree.
@@ -386,43 +253,35 @@ One is for you
 And one is for me.
 5. Join (the dots).
 30 My English Grade 1
-
 Alphabet
-Lesson 15
-|     | Aa  | Date: .................................... |
-| --- | --- | ------------------------------------------ |
- Listen and say.
-| father | mother | sister |
-| ------ | ------ | ------ |
- Talk about the picture.
- Listen and say.
-a
-My English  Grade 1 31
 
- Colour.
- Colour (the apples with letter a).
-|     |     | a   |     | s   |
-| --- | --- | --- | --- | --- |
+## 15: |     | Aa  | Date: .................................... |  {#ch-15}
+
+| | Aa  | Date: .................................... |
+Listen and say.
+| father | mother | sister |
+Talk about the picture.
+Listen and say.
+My English  Grade 1 31
+Colour.
+Colour (the apples with letter a).
+| | | a | | s |
 v a
-|     | a   |     | a   | a   |
-| --- | --- | --- | --- | --- |
-| c   |     | i   |     | a   |
-  Write.
+| | a | | a | a |
+| c | | i | | a |
+Write.
 32 My English  Grade 1
 
-Lesson 16
+## 16: Date: ....................................  {#ch-16}
+
 Date: ....................................
-Aa
 Read.
 a a a a a
 Say the words.
 apple
-Aa
-ant
 aeroplane
 Write.
 My English Grade 1 33
-
 Listen and sing.
 Up in the apple tree
 High off the ground
@@ -433,15 +292,13 @@ Circle (the objects found in the picture above).
 Copy.
 34 My English Grade 1
 
-Lesson 17
+## 17: Date: ....................................  {#ch-17}
+
 Date: ....................................
-Bb
 Name the pictures.
 Talk about the picture.
 Listen and say.
-b
 My English Grade 1 35
-
 Colour.
 Listen and sing.
 Baa, baa, black sheep,
@@ -455,44 +312,37 @@ Who lives down the lane.
 Write.
 36 My English Grade 1
 
-Lesson 18
+## 18: Date: ....................................  {#ch-18}
+
 Date: ....................................
-Bb
 Read.
 b a b a b
 Say the words.
 ball
-Bb
 book
 banana
 Write.
 My English Grade 1 37
-
 Talk about the picture.
 Circle (the objects found in the picture above).
 Copy.
 38 My English Grade 1
 
-Lesson 19
+## 19: Date: ....................................  {#ch-19}
+
 Date: ....................................
-Cc
 Name the pictures.
 Talk about the picture.
 Listen and say.
-c
 My English Grade 1 39
-
 Colour.
 Match (the pictures with the letters).
-Aa
-Bb
-Cc
 Write.
 40 My English Grade 1
 
-Lesson 20
+## 20: Date: ....................................  {#ch-20}
+
 Date: ....................................
-Cc
 Read.
 b c a b c
 Listen and sing.
@@ -500,150 +350,117 @@ C is for cat k k cat.
 C is for cap k k cap.
 C is for cup k k cup.
 Say the words.
-cup
-Cc
-cap
-cat
 Write.
 My English Grade 1 41
-
 Talk about the picture.
 Circle (the objects found in the picture above).
 Copy.
 42 My English Grade 1
 
-Lesson 21
+## 21: Date: ....................................  {#ch-21}
+
 Date: ....................................
-Dd
 Name the pictures.
 Talk about the picture.
 Listen and say.
-d
 My English Grade 1 43
-
- Colour.
-  Listen and sing.
+Colour.
+Listen and sing.
 D is for dog d d dog.
 D is for door d d door.
 D is for duck d d duck.
 D is for doll d d doll.
- Colour the boxes having 'd' or 'D'.
-| a   | B   | C   | d   | e   |
-| --- | --- | --- | --- | --- |
-| e   | D   | B   | c   | a   |
-| d   | C   | E   | c   | b   |
-| c   | A   | D   | b   | c   |
-  Write.
+Colour the boxes having 'd' or 'D'.
+| a | B | C | d | e |
+| e | D | B | c | a |
+| d | C | E | c | b |
+| c | A | D | b | c |
+Write.
 44 My English  Grade 1
 
-Lesson 22
+## 22: Date: ....................................  {#ch-22}
+
 Date: ....................................
-Dd
 Read.
 d a c b d
 Say the words.
-dog
-Dd
 doll
 door
 Write.
 My English Grade 1 45
-
 Colour (the picture that begins with the letter d).
 1. door and
-key
 2. donkey and
 monkey
 3. dog and
-cat
 Copy.
 46 My English Grade 1
 
-Lesson 23
+## 23: Date: ....................................  {#ch-23}
+
 Date: ....................................
-Ee
 Name the pictures.
 Talk about the picture.
 Listen and say.
-e
 My English Grade 1 47
-
 Colour.
- Find and trace (the way).
-|     |     | b   |     | n   | m   |
-| --- | --- | --- | --- | --- | --- |
-e
-| a   | g   | f   | a   | e   | r   |
-| --- | --- | --- | --- | --- | --- |
-| w   | e   | l   | k   | j   | i   |
-| t   | r   | e   | t   | o   | n   |
-| e   | s   | g   | u   |     |     |
- Write.
+Find and trace (the way).
+| | | b | | n | m |
+| a | g | f | a | e | r |
+| w | e | l | k | j | i |
+| t | r | e | t | o | n |
+| e | s | g | u | | |
+Write.
 48 My English  Grade 1
 
-Lesson 24
+## 24: Date: ....................................  {#ch-24}
+
 Date: ....................................
-Ee
 Read.
 e a d b c
 Say the words.
 elephant
-Ee
-eye
-ear
 Write.
 My English Grade 1 49
+Read.
+| b | e  d | b  | e  e |
+| | bed  | | bee  |
+|  Colour (the picture that starts with  | | e | |
+Copy.
+| | | 50  | My English  Grade 1 |
 
- Read.
-|   b                                    | e  d |   b  | e  e |
-| -------------------------------------- | ---- | ---- | ---- |
-|                                        | bed  |      | bee  |
-|  Colour (the picture that starts with  |      | e    |      |
-).
- Copy.
-|     |     | 50  | My English  Grade 1 |
-| --- | --- | --- | ------------------- |
+## 25: Date: ....................................  {#ch-25}
 
-Lesson 25
 Date: ....................................
 Aa-Ee
- Say the words.
+Say the words.
 | apple | ant  | arm  |
-| ----- | ---- | ---- |
 | ball  | bag  | book |
-| cat   | cap  | car  |
-| dog   | duck | doll |
-| egg   | eye  | ear  |
+| cat | cap  | car  |
+| dog | duck | doll |
+| egg | eye  | ear  |
 My English  Grade 1 51
-
- Write.
-|     | .......pple  |     | .......all  |     | .......at |
-| --- | ------------ | --- | ----------- | --- | --------- |
-|     | .......og    |     | .......gg   |     |           |
- Read and match.
-| book |     | bag   |     | cap  |     |
-| ---- | --- | ----- | --- | ---- | --- |
-| bee  |     | bed   |     | cat  |     |
-| ball |     | bread |     | cab  |     |
- Write correct words.
-|     |     | bde   | ............................ |     |     |
-| --- | --- | ----- | ---------------------------- | --- | --- |
-|     |     | ebe   | ............................ |     |     |
-|     |     | cba   | ............................ |     |     |
+Write.
+| | .......pple  | | .......all  | | .......at |
+| | .......og | | .......gg | | |
+Read and match.
+| book | | bag | | cap  | |
+| bee  | | bed | | cat  | |
+| ball | | bread | | cab  | |
+Write correct words.
+| | | bde | ............................ | | |
+| | | ebe | ............................ | | |
+| | | cba | ............................ | | |
 52 My English  Grade 1
 
-Lesson 26
-Date: ....................................
-Ff
- Listen and say.
-| bed  | bee  | cab  | dad |
-| ---- | ---- | ---- | --- |
- Talk about the picture.
- Listen and say.
-f
-| My English  Grade 1 | 53  |     |     |
-| ------------------- | --- | --- | --- |
+## 26: Date: ....................................  {#ch-26}
 
+Date: ....................................
+Listen and say.
+| bed  | bee  | cab  | dad |
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 53  | | |
 Colour.
 Listen and sing.
 Funny froggie, hop, hop, hop
@@ -653,245 +470,166 @@ Funny froggie, don’t run away!
 Write.
 54 My English Grade 1
 
-Lesson 27
+## 27: Date: ....................................  {#ch-27}
+
 Date: ....................................
-Ff
 Read.
 f d e b c
 Say the words.
 flower
-Ff
 fish
 flag
 Write.
 My English Grade 1 55
-
-|   Colour (the picture that starts with  |     |     | f   |     |
-| --------------------------------------- | --- | --- | --- | --- |
-).
- Read.
-|   f  | e  e |   f  | a  c  | e   |
-| ---- | ---- | ---- | ----- | --- |
-|      | fee  |      | face  |     |
- Copy.
+| Colour (the picture that starts with  | | | f | |
+Read.
+| f  | e  e | f  | a  c  | e |
+| | fee  | | face  | |
+Copy.
 56 My English  Grade 1
 
-Lesson 28
-Date: ....................................
-Gg
- Listen and say.
-| face  | fee  | bed  | dad |
-| ----- | ---- | ---- | --- |
- Talk about the picture.
- Listen and say.
-g
-| My English  Grade 1 | 57  |     |     |
-| ------------------- | --- | --- | --- |
+## 28: Date: ....................................  {#ch-28}
 
-  Colour.
-|  Tick  |  (the pictures that begin with the letter  | g   |
-| ------ | ------------------------------------------ | --- |
-).
- Write.
+Date: ....................................
+Listen and say.
+| face  | fee  | bed  | dad |
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 57  | | |
+Colour.
+|  Tick  |  (the pictures that begin with the letter  | g |
+Write.
 58 My English  Grade 1
 
-Lesson 29
+## 29: Date: ....................................  {#ch-29}
+
 Date: ....................................
-Gg
 Read.
 g d f e c
 Say the words.
 glass
-Gg
 goat
 grapes
 Write.
 My English Grade 1 59
-
-  Colour g.
-g
-g
-g
-g
-g
-|     | g   | g   |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     | g   |     |     |     |     | g   |
-| g g |     |     |     |     |     | g   |     |
-|     | g   |     |     | g   | g   |     |     |
-|     | g   | a   | q   |     |     |     |     |
-| g   |     |     |     |     |     |     | g   |
-|     | g   |     | r   |     | v   |     |     |
-|     |     |     |     | s   |     | w   |     |
-|     |     | p   |     |     | t u | f c | c g |
-y
-e
-|     |     | g   |     | x   |     | d   | b   |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     | z o |     | k   |     |     |
-|     |     |     |     |     |     | e a |     |
-l
+Colour g.
+| | g | g | | | | | |
+| | | g | | | | | g |
+| g g | | | | | | g | |
+| | g | | | g | g | | |
+| | g | a | q | | | | |
+| g | | | | | | | g |
+| | g | | r | | v | | |
+| | | | | s | | w | |
+| | | p | | | t u | f c | c g |
+| | | g | | x | | d | b |
+| | | | z o | | k | | |
+| | | | | | | e a | |
 g n
-|     |     | g   |     |     | m   |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     | g   | g   |
-g
-g
-|     |     |     | g   |     |     |     | g   |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-g
-|     |     | g   | g   |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-g
-g
-|     |     |     | g   |     |     | g g | g   |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     | g   | g   |     |     |     |     |
-g
-g
-g
- Read.
-|   b  |     | a  g |     |     |   e  | g   | g   |
-| ---- | --- | ---- | --- | --- | ---- | --- | --- |
-|      | bag |      |     |     |      | egg |     |
- Copy.
-|     |     |     |     |     |     | 60 My English  Grade 1 |     |
-| --- | --- | --- | --- | --- | --- | ---------------------- | --- |
+| | | g | | | m | | |
+| | | | | | | g | g |
+| | | | g | | | | g |
+| | | g | g | | | | |
+| | | | g | | | g g | g |
+| | | g | g | | | | |
+Read.
+| b  | | a  g | | | e  | g | g |
+| | bag | | | | | egg | |
+Copy.
+| | | | | | | 60 My English  Grade 1 | |
 
-Lesson 30
+## 30: Date: ....................................  {#ch-30}
+
 Date: ....................................
-Hh
- Listen and say.
+Listen and say.
 | bag  | egg  | bed  | bee |
-| ---- | ---- | ---- | --- |
- Talk about the picture.
- Listen and say.
-h
-| My English  Grade 1 | 61  |     |     |
-| ------------------- | --- | --- | --- |
-
-  Colour.
- Match (the letters).
-| D   | a   | E   | f   |
-| --- | --- | --- | --- |
-| B   | c   | G   | h   |
-| A   | d   | F   | e   |
-| C   | b   | H   | g   |
- Write.
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 61  | | |
+Colour.
+Match (the letters).
+| D | a | E | f |
+| B | c | G | h |
+| A | d | F | e |
+| C | b | H | g |
+Write.
 62 My English  Grade 1
 
-Lesson 31
+## 31: Date: ....................................  {#ch-31}
+
 Date: ....................................
-Hh
 Read.
 g d f h e
 Say the words.
 house
-Hh
 horse
 hand
 Write.
 My English Grade 1 63
-
-|   Colour (the box where there is letter  |     |     | H   | h   |     |
-| ---------------------------------------- | --- | --- | --- | --- | --- |
- and  ).
-| B   | h   | c   | d   | H   | A   |
-| --- | --- | --- | --- | --- | --- |
-| a   | H   | e   | F   | h   | B   |
-| G   | H   | h   | h   | H   | C   |
-| B   | h   | g   | B   | h   | E   |
-| c   | H   | D   | b   | H   | F   |
- Read.
-|   h  | e   |   h  | e  a  | d   |     |
-| ---- | --- | ---- | ----- | --- | --- |
-| he   |     |      | head  |     |     |
+| Colour (the box where there is letter  | | | H | h | |
+and  ).
+| B | h | c | d | H | A |
+| a | H | e | F | h | B |
+| G | H | h | h | H | C |
+| B | h | g | B | h | E |
+| c | H | D | b | H | F |
+Read.
+| h  | e | h  | e  a  | d | |
+| he | | | head  | | |
 ghee
 Copy.
-|     |     |     | 64  | My English  Grade 1 |     |
-| --- | --- | --- | --- | ------------------- | --- |
+| | | | 64  | My English  Grade 1 | |
 
-Lesson 32
+## 32: Date: ....................................  {#ch-32}
+
 Date: ....................................
 I i
- Listen and say.
+Listen and say.
 | head  | he  | ghee |
-| ----- | --- | ---- |
- Talk about the picture.
- Listen and say.
-i
-| My English  Grade 1 | 65  |     |
-| ------------------- | --- | --- |
-
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 65  | |
 Colour.
 Colour (the picture that starts with I or i ).
 Write.
 66 My English Grade 1
 
-Lesson 33
+## 33: Date: ....................................  {#ch-33}
+
 Date: ....................................
 I i
 Read.
 h e f g i
 Say the words.
 ice cream
-i
-I
-ink
 iron
 Write.
 My English Grade 1 67
-
-|   Colour I | i   |     |     |     |     |
-| ---------- | --- | --- | --- | --- | --- |
- and  .
-|     |     | b   |     |     | J   |
-| --- | --- | --- | --- | --- | --- |
-e
-a
-j
-b
+| Colour I | i | | | | |
+and  .
+| | | b | | | J |
 d h
-f
-T
-|     | I   |     |     | P   |     |
-| --- | --- | --- | --- | --- | --- |
-I
-i
+| | I | | | P | |
 i i
-e
-a
-i
-| g   |     |     |     | I   |     |
-| --- | --- | --- | --- | --- | --- |
-|     |     | i   | i   |     | I   |
-f
-| c   |     | m   |     |     |     |
-| --- | --- | --- | --- | --- | --- |
-t
-d
-f
- Read.
-|   i  | c   | e   |   d  | i  c  | e   |
-| ---- | --- | --- | ---- | ----- | --- |
-|      | ice |     |      | dice  |     |
-| big  |     |     | dig  | child |     |
- Copy.
-|     |     |     |     | 68 My English  Grade 1 |     |
-| --- | --- | --- | --- | ---------------------- | --- |
+| g | | | | I | |
+| | | i | i | | I |
+| c | | m | | | |
+Read.
+| i  | c | e | d  | i  c  | e |
+| | ice | | | dice  | |
+| big  | | | dig  | child | |
+Copy.
+| | | | | 68 My English  Grade 1 | |
 
-Lesson 34
+## 34: Date: ....................................  {#ch-34}
+
 Date: ....................................
 J j
- Listen and say.
+Listen and say.
 | big  | dig  | ice  | dice |
-| ---- | ---- | ---- | ---- |
- Talk about the picture.
- Listen and say.
-j
-| My English  Grade 1 | 69  |     |     |
-| ------------------- | --- | --- | --- |
-
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 69  | | |
 Colour.
 Listen and say.
 Jay and Junu, Jaya and Junu,
@@ -903,136 +641,111 @@ Ate all day.
 Write.
 70 My English Grade 1
 
-Lesson 35
+## 35: Date: ....................................  {#ch-35}
+
 Date: ....................................
 J j
 Read.
 h j f i g
 Say the words.
-jug
 J j
 joker
-jam
 Write.
 My English Grade 1 71
+Match.
+Read.
+| h  | i | h  | i  g  | h |
+| hi | | | high  | |
+Copy.
+| | | | 72 My English  Grade 1 | |
 
- Match.
- Read.
-|   h  | i   |   h  | i  g  | h   |
-| ---- | --- | ---- | ----- | --- |
-| hi   |     |      | high  |     |
- Copy.
-|     |     |     | 72 My English  Grade 1 |     |
-| --- | --- | --- | ---------------------- | --- |
+## 36: Date: ....................................  {#ch-36}
 
-Lesson 36
 Date: ....................................
 Ff - Jj
- Listen and say.
-|     | e   |     |     | e   |     | e   |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| a   | f   | i   | a   | g i | a   | h   | i   |
- Write the first letter to make words.
-| ........nt          |     | ........rm |     | ........all | ........ag  |     | ........at |
-| ------------------- | --- | ---------- | --- | ----------- | ----------- | --- | ---------- |
-| ........ap          |     | ........og |     | ........oll | ........gg  |     | ........ye |
-| ........an          |     | ........ox |     | .....lass   | ........oat |     | ........at |
-| ........en          |     | ........ce |     | ........ron | ........ug  |     | ......eep  |
-| My English  Grade 1 |     | 73         |     |             |             |     |            |
-
- Find and colour the boxes having F, G, H, I and J.
-|     | C   | P   | J   | H   | C   |
-| --- | --- | --- | --- | --- | --- |
-|     | B   | A   | G   | E   | A   |
-|     |     | L   | B   | A   | H   |
-I
-|     | A   | C   | M   | D   | z   |
-| --- | --- | --- | --- | --- | --- |
-|     | V   | B   | E   | F   | G   |
- Write.
-| fee  |     | bag  |     | head |     |
-| ---- | --- | ---- | --- | ---- | --- |
-| ice  |     | hi   |     | high |     |
+Listen and say.
+| | e | | | e | | e | |
+| a | f | i | a | g i | a | h | i |
+Write the first letter to make words.
+| ........nt | | ........rm | | ........all | ........ag  | | ........at |
+| ........ap | | ........og | | ........oll | ........gg  | | ........ye |
+| ........an | | ........ox | | .....lass | ........oat | | ........at |
+| ........en | | ........ce | | ........ron | ........ug  | | ......eep  |
+| My English  Grade 1 | | 73 | | | | | |
+Find and colour the boxes having F, G, H, I and J.
+| | C | P | J | H | C |
+| | B | A | G | E | A |
+| | | L | B | A | H |
+| | A | C | M | D | z |
+| | V | B | E | F | G |
+Write.
+| fee  | | bag  | | head | |
+| ice  | | hi | | high | |
 74 My English  Grade 1
 
-Lesson 37
+## 37: Date: ....................................  {#ch-37}
+
 Date: ....................................
-Kk
- Listen and say.
+Listen and say.
 | hi  | high  | ice  | ghee |
-| --- | ----- | ---- | ---- |
- Talk about the picture.
- Listen and say.
-k
-| My English  Grade 1 | 75  |     |     |
-| ------------------- | --- | --- | --- |
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 75  | | |
+Colour.
+| K | k | | | |
+|  Find (  and  | ) and colour the boxes. | | | |
+| a k | k k | K k | k K | A C |
+| b d | L o | p r | s K | F G |
+| c d | D q | a k | k K | e f |
+| e j | m s | t k | i h | g u |
+| g a | b d | c k | j x | w v |
+| k k | k k | k k | a b | y r |
+| k r | s m | n z | x w | v m |
+| k w | v u | t y | a b | t u |
+| k k | k k | k k | k k | k k |
+| c d | e o | n m | y x | w z |
+Write.
+| | | | 76  | My English  Grade 1 |
 
- Colour.
-| K             | k                       |     |     |     |
-| ------------- | ----------------------- | --- | --- | --- |
-|  Find (  and  | ) and colour the boxes. |     |     |     |
-| a k           | k k                     | K k | k K | A C |
-| b d           | L o                     | p r | s K | F G |
-| c d           | D q                     | a k | k K | e f |
-| e j           | m s                     | t k | i h | g u |
-| g a           | b d                     | c k | j x | w v |
-| k k           | k k                     | k k | a b | y r |
-| k r           | s m                     | n z | x w | v m |
-| k w           | v u                     | t y | a b | t u |
-| k k           | k k                     | k k | k k | k k |
-| c d           | e o                     | n m | y x | w z |
- Write.
-|     |     |     | 76  | My English  Grade 1 |
-| --- | --- | --- | --- | ------------------- |
+## 38: Date: ....................................  {#ch-38}
 
-Lesson 38
 Date: ....................................
-Kk
 Read.
 g j h k i
 Say the words.
 kite
-Kk
-key
 kettle
 Write.
 My English Grade 1 77
-
-k
-|  Colour (the pictures that begin with  |     |     | ).  |     |
-| -------------------------------------- | --- | --- | --- | --- |
- Read.
-|   k   | i  d |   b    | i  k  | e   |
-| ----- | ---- | ------ | ----- | --- |
-|       | kid  |        | bike  |     |
-| chick |      | jackal | back  |     |
- Copy.
+|  Colour (the pictures that begin with  | | | ).  | |
+Read.
+| k | i  d | b | i  k  | e |
+| | kid  | | bike  | |
+| chick | | jackal | back  | |
+Copy.
 78 My English  Grade 1
 
-Lesson 39
+## 39: Date: ....................................  {#ch-39}
+
 Date: ....................................
 L l
- Listen and say.
+Listen and say.
 | bike  | kid  | beak  | jackal |
-| ----- | ---- | ----- | ------ |
- Talk about the picture.
- Listen and say.
-l
-| My English  Grade 1 | 79  |     |     |
-| ------------------- | --- | --- | --- |
-
- Colour.
-|  Colour the boxes: L |  red and  | l  blue. |     |     |
-| -------------------- | --------- | -------- | --- | --- |
-| l                    | L         | l        | l   | l   |
-| l                    | L         | l        | l   | l   |
-| l                    | L         | l        | l   | l   |
-| l                    | L         | l        | l   | l   |
-| l                    | L         | L        | L   | L   |
- Write.
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 79  | | |
+Colour.
+|  Colour the boxes: L |  red and  | l  blue. | | |
+| l | L | l | l | l |
+| l | L | l | l | l |
+| l | L | l | l | l |
+| l | L | l | l | l |
+| l | L | L | L | L |
+Write.
 80 My English  Grade 1
 
-Lesson 40
+## 40: Date: ....................................  {#ch-40}
+
 Date: ....................................
 L l
 Read.
@@ -1044,28 +757,22 @@ leaf
 lion
 Write.
 My English Grade 1 81
-
- Colour (the pictures that begin with l).
- Read.
-|   l  | e  g |   f  | l  a  | g   |
-| ---- | ---- | ---- | ----- | --- |
-|      | leg  |      | flag  |     |
-| ball |      | hill | leaf  |     |
- Copy.
+Colour (the pictures that begin with l).
+Read.
+| l  | e  g | f  | l  a  | g |
+| | leg  | | flag  | |
+| ball | | hill | leaf  | |
+Copy.
 82 My English  Grade 1
 
-Lesson 41
-Date: ....................................
-Mm
- Listen and say.
-| ball  | flag  | leg  | leaf |
-| ----- | ----- | ---- | ---- |
- Talk about the picture.
- Listen and say.
-m
-| My English  Grade 1 | 83  |     |     |
-| ------------------- | --- | --- | --- |
+## 41: Date: ....................................  {#ch-41}
 
+Date: ....................................
+Listen and say.
+| ball  | flag  | leg  | leaf |
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 83  | | |
 Colour.
 Listen and say.
 Monkey, monkey m - m- m
@@ -1076,99 +783,69 @@ come home soon.
 Write.
 84 My English Grade 1
 
-Lesson 42
-Mm
+## 42: Read.  {#ch-42}
+
 Read.
 m j k i l
 Say the words.
-man
-Mm
 monkey
 mango
 Write.
 My English Grade 1 85
-
- Colour (M with green and m with red).
-|     | m   | M   |     | M   | m   |
-| --- | --- | --- | --- | --- | --- |
-m
-M
-|     |     |     |     | m   | M   |
-| --- | --- | --- | --- | --- | --- |
-m
-M
-m
-m
-M
-M
- Read.
-|   j  | a  m |     |   m  | i  l  | k   |
-| ---- | ---- | --- | ---- | ----- | --- |
-|      | jam  |     |      | milk  |     |
-|      | mill | me  |      | make  |     |
- Copy.
+Colour (M with green and m with red).
+| | m | M | | M | m |
+| | | | | m | M |
+Read.
+| j  | a  m | | m  | i  l  | k |
+| | jam  | | | milk  | |
+| | mill | me  | | make  | |
+Copy.
 86 My English  Grade 1
 
-Lesson 43
+## 43: Date: ....................................  {#ch-43}
+
 Date: ....................................
-Nn
- Listen and say.
+Listen and say.
 | milk  | jam  | mill  | make |
-| ----- | ---- | ----- | ---- |
- Talk about the picture.
- Listen and say.
-n
-| My English  Grade 1 | 87  |     |     |
-| ------------------- | --- | --- | --- |
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 87  | | |
+Colour.
+Find and trace (the way).
+| | | M | N | N | D |
+| L | | F | F | N | J |
+| E | N | B | G | H | I |
+| L | K | N | I | L | N |
+| N | B | G | E | | |
+Write.
+| | | | 88  | My English  Grade 1 | |
 
- Colour.
- Find and trace (the way).
-|     |     | M   | N   | N   | D   |
-| --- | --- | --- | --- | --- | --- |
-B
-| L   |     | F   | F   | N   | J   |
-| --- | --- | --- | --- | --- | --- |
-| E   | N   | B   | G   | H   | I   |
-| L   | K   | N   | I   | L   | N   |
-| N   | B   | G   | E   |     |     |
- Write.
-|     |     |     | 88  | My English  Grade 1 |     |
-| --- | --- | --- | --- | ------------------- | --- |
+## 44: Read.  {#ch-44}
 
-Lesson 44
-Nn
 Read.
 n j k m l
 Say the words.
 nose
-Nn
 nest
 nurse
 Write.
 My English Grade 1 89
+Colour (the picture that begins with n).
+Read.
+| f  | a  n | n  | a  i  | l |
+| | fan  | | nail  | |
+| man  | | hen  | hand  | |
+Copy.
+| | | | 90 My English  Grade 1 | |
 
- Colour (the picture that begins with n).
- Read.
-|   f  | a  n |   n  | a  i  | l   |
-| ---- | ---- | ---- | ----- | --- |
-|      | fan  |      | nail  |     |
-| man  |      | hen  | hand  |     |
- Copy.
-|     |     |     | 90 My English  Grade 1 |     |
-| --- | --- | --- | ---------------------- | --- |
+## 45: Date: ....................................  {#ch-45}
 
-Lesson 45
 Date: ....................................
-Oo
- Listen and say.
+Listen and say.
 | man  | fan  | hen  | hand |
-| ---- | ---- | ---- | ---- |
- Talk about the picture.
- Listen and say.
-o
-| My English  Grade 1 | 91  |     |     |
-| ------------------- | --- | --- | --- |
-
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 91  | | |
 Colour.
 Listen and say.
 Open, shut them,
@@ -1180,306 +857,214 @@ Lay them in your lap.
 Write.
 92 My English Grade 1
 
-Lesson 46
-Oo
+## 46: Read.  {#ch-46}
+
 Read.
 o n m l k
 Say the words.
 orange
-Oo
 onion
-owl
 Write.
 My English Grade 1 93
-
- Colour letter O.
-H
-|     | A   | B   |     |     |     |     | J   |     | E   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     | O   |     |     |     |     | N   |
-G
-O
-V
-O
-| C   |     |     |     |     |     |     |     | F   | C   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     | D   |     |     |     | O   |     |     |     |     |
-I
-O
-H
-N
-| O   |     |     |     |     |     | O   |     |     | O   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-O
-L
-O
-|     |     | O   |     |     |     | O   |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     | O   | O   |     |     |     |     |
-|     | G   |     |     |     |     |     |     | J   |     |
-|     |     |     |     |     | H   |     |     |     | K   |
-L
-O
-E
-|     |     |     | D   |     | N   |     | O   |     | M   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-F
- Read.
-|   d  | o   | g   |     |      |   l  | i    | o    |     | n   |
-| ---- | --- | --- | --- | ---- | ---- | ---- | ---- | --- | --- |
-|      | dog |     |     |      |      | lion |      |     |     |
-|      | god |     |     | doll |      |      | book |     |     |
- Copy.
+Colour letter O.
+| | A | B | | | | | J | | E |
+| | | | | O | | | | | N |
+| C | | | | | | | | F | C |
+| | D | | | | O | | | | |
+| O | | | | | | O | | | O |
+| | | O | | | | O | | | |
+| | | | | O | O | | | | |
+| | G | | | | | | | J | |
+| | | | | | H | | | | K |
+| | | | D | | N | | O | | M |
+Read.
+| d  | o | g | | | l  | i | o | | n |
+| | dog | | | | | lion | | | |
+| | god | | | doll | | | book | | |
+Copy.
 94 My English  Grade 1
 
-Lesson 47
+## 47: Date: ....................................  {#ch-47}
+
 Date: ....................................
 Kk - Oo
- Listen and say.
-| e   |     | e   |     | e   |     | e   |
-| --- | --- | --- | --- | --- | --- | --- |
-| a m | a   | k   | a   | n   | a   |     |
-|     | i   |     | i   |     | i   | l i |
-| o   |     | o   |     | o   |     | o   |
-  Match and write.
-| l   |     |     |     | all  | ........ball.......... |     |
-| --- | --- | --- | --- | ---- | ---------------------- | --- |
-| j   |     |     |     | lag  | ………………….               |     |
-b
-|     |     |     |     | eg   | …………………. |     |
-| --- | --- | --- | --- | ---- | -------- | --- |
-| f   |     |     |     | am   | …………………  |     |
-| m   |     |     |     | an   | ……………….. |     |
-d
-|     |     |     |     | en  | ………………….                   |     |
-| --- | --- | --- | --- | --- | -------------------------- | --- |
-| h   |     |     |     | og  | .......................... |     |
-f
-|                     |     |     |     | oon  | .......................... |     |
-| ------------------- | --- | --- | --- | ---- | -------------------------- | --- |
-| My English  Grade 1 |     | 95  |     |      |                            |     |
+Listen and say.
+| e | | e | | e | | e |
+| a m | a | k | a | n | a | |
+| | i | | i | | i | l i |
+| o | | o | | o | | o |
+Match and write.
+| l | | | | all  | ........ball.......... | |
+| j | | | | lag  | …………………. | |
+| | | | | eg | …………………. | |
+| f | | | | am | …………………  | |
+| m | | | | an | ……………….. | |
+| | | | | en  | …………………. | |
+| h | | | | og  | .......................... | |
+| | | | | oon  | .......................... | |
+| My English  Grade 1 | | 95  | | | | |
+Find the words.
+| | B | D | M | R | S | B | B | O |
+| | R | D | L | I | O | N | M | N |
+| | P | B | O | O | K | B | A | G |
+| | X | L | F | W | F | A | N | G |
+| | Y | O | D | Q | L | N | G | Y |
+| | P | B | E | A | z | A | O | S |
+| | U | O | N | I | O | N | O | T |
+| | M | H | O | F | M | A | G | K |
+Write.
+| kid  | | | | leg  | | | jam | |
+| fan  | | | | dog  | | | book | |
+| | | | | | | 96  | My English  Grade 1 | |
 
- Find the words.
-|     | B   | D   | M   | R   | S   | B   | B   | O   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     | R   | D   | L   | I   | O   | N   | M   | N   |
-|     | P   | B   | O   | O   | K   | B   | A   | G   |
-|     | X   | L   | F   | W   | F   | A   | N   | G   |
-|     | Y   | O   | D   | Q   | L   | N   | G   | Y   |
-|     | P   | B   | E   | A   | z   | A   | O   | S   |
-|     | U   | O   | N   | I   | O   | N   | O   | T   |
-|     | M   | H   | O   | F   | M   | A   | G   | K   |
- Write.
-| kid  |     |     |     | leg  |     |     | jam                 |     |
-| ---- | --- | --- | --- | ---- | --- | --- | ------------------- | --- |
-| fan  |     |     |     | dog  |     |     | book                |     |
-|      |     |     |     |      |     | 96  | My English  Grade 1 |     |
+## 48: Date: ....................................  {#ch-48}
 
-Lesson 48
 Date: ....................................
-Pp
- Listen and say.
+Listen and say.
 | lion  | book  | doll  | onion |
-| ----- | ----- | ----- | ----- |
- Talk about the picture.
- Listen and say.
-p
-| My English  Grade 1 | 97  |     |     |
-| ------------------- | --- | --- | --- |
-
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 97  | | |
 Colour.
 Match.
 Write.
 98 My English Grade 1
 
-Lesson 49
-Pp
+## 49: Read.  {#ch-49}
+
 Read.
 p k m o n
 Say the words.
-pen
-Pp
 pencil
-pan
 Write.
 My English Grade 1 99
-
- Read.
-|   p    | e  n |   l  | a  m  | p   |
-| ------ | ---- | ---- | ----- | --- |
-|        | pen  |      | lamp  |     |
-| pencil |      | pan  | cap   |     |
-| apple  |      | pool | jeep  |     |
- Read and discuss.
+Read.
+| p | e  n | l  | a  m  | p |
+| | pen  | | lamp  | |
+| pencil | | pan  | cap | |
+| apple  | | pool | jeep  | |
+Read and discuss.
 A long pencil.
- Copy.
+Copy.
 100 My English  Grade 1
 
-Lesson 50
-Date: ....................................
-Qq
- Listen and say.
-| lamp  | pen  | pencil  | jeep |
-| ----- | ---- | ------- | ---- |
- Talk about the picture.
- Listen and say.
-q
-| My English  Grade 1 | 101 |     |     |
-| ------------------- | --- | --- | --- |
+## 50: Date: ....................................  {#ch-50}
 
+Date: ....................................
+Listen and say.
+| lamp  | pen  | pencil  | jeep |
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 101 | | |
 Colour.
 Find 'Q' and colour.
 Write.
 102 My English Grade 1
 
-Lesson 51
-Qq
+## 51: Read.  {#ch-51}
+
 Read.
 q o n p m
 Say the words.
 queen
-Qq
 quill
 quilt
 Write.
 My English Grade 1 103
-
- Read.
-|   c  | a  n |   m  | o    | o  n |
-| ---- | ---- | ---- | ---- | ---- |
-|      | can  |      | moon |      |
-|      | go   | come |      | pin  |
-| map  |      | look |      | help |
- Read and discuss.
+Read.
+| c  | a  n | m  | o | o  n |
+| | can  | | moon | |
+| | go | come | | pin  |
+| map  | | look | | help |
+Read and discuss.
 Go home.
- Copy.
-|     |     |     | 104 | My English  Grade 1 |
-| --- | --- | --- | --- | ------------------- |
+Copy.
+| | | | 104 | My English  Grade 1 |
 
-Lesson 52
+## 52: Date: ....................................  {#ch-52}
+
 Date: ....................................
-Rr
- Listen and say.
+Listen and say.
 | moon  | map  | look  | help |
-| ----- | ---- | ----- | ---- |
- Talk about the picture.
- Listen and say.
-r
-| My English  Grade 1 | 105 |     |     |
-| ------------------- | --- | --- | --- |
-
- Colour.
- Find the way and colour.
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 105 | | |
+Colour.
+Find the way and colour.
 R R
-| R   | R P | R   |
-| --- | --- | --- |
-| W   |     | J   |
-|     | R   | R R |
-R
-| I   |     | R   |
-| --- | --- | --- |
-Z
-R
-| R   |     | D   |
-| --- | --- | --- |
-R
-| R   | R   | U   |
-| --- | --- | --- |
-M
-| X   | R   |     |
-| --- | --- | --- |
-| R   |     | R   |
-R
-A
-R
-B
-C
-H
+| R | R P | R |
+| W | | J |
+| | R | R R |
+| I | | R |
+| R | | D |
+| R | R | U |
+| X | R | |
+| R | | R |
 R R
 O R
-R
-| R   |     | R   |
-| --- | --- | --- |
-R
-R
- Write.
+| R | | R |
+Write.
 106 My English  Grade 1
 
-Lesson 53
-Rr
+## 53: Read.  {#ch-53}
+
 Read.
 r o p n q
 Say the words.
-rat
-Rr
 rose
 rabbit
 Write.
 My English Grade 1 107
-
- Read.
-|   c    | a  r |   r  | i    | n  g |
-| ------ | ---- | ---- | ---- | ---- |
-|        | car  |      | ring |      |
-| bar    |      | arm  |      | room |
-| circle |      | girl |      | rice |
- Read and discuss.
+Read.
+| c | a  r | r  | i | n  g |
+| | car  | | ring | |
+| bar | | arm  | | room |
+| circle | | girl | | rice |
+Read and discuss.
 Eat rice.
- Copy.
+Copy.
 108 My English  Grade 1
 
-Lesson 54
-Date: ....................................
-Ss
- Listen and say.
-| ring  | car  | girl  | rice |
-| ----- | ---- | ----- | ---- |
- Talk about the picture.
- Listen and say.
-s
-| My English  Grade 1 | 109 |     |     |
-| ------------------- | --- | --- | --- |
+## 54: Date: ....................................  {#ch-54}
 
+Date: ....................................
+Listen and say.
+| ring  | car  | girl  | rice |
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 109 | | |
 Colour.
 Colour (the pictures that begin with s ).
 Write.
 110 My English Grade 1
 
-Lesson 55
-Ss
+## 55: Read.  {#ch-55}
+
 Read.
 s q p r o
 Say the words.
-sun
-Ss
 star
 swan
 Write.
 My English Grade 1 111
-
- Read.
-|   s    | u  n |   f   | i    | s  h  |
-| ------ | ---- | ----- | ---- | ----- |
-|        | sun  |       | fish |       |
-| nose   |      | horse |      | class |
-| school |      | son   |      | see   |
- Read and discuss.
+Read.
+| s | u  n | f | i | s  h  |
+| | sun  | | fish | |
+| nose | | horse | | class |
+| school | | son | | see |
+Read and discuss.
 Long nose.
- Copy.
+Copy.
 112 My English  Grade 1
 
-Lesson 56
-Date: ....................................
-Tt
- Listen and say.
-| nose  | horse  | fish  | school |
-| ----- | ------ | ----- | ------ |
- Talk about the picture.
- Listen and say.
-t
-| My English  Grade 1 | 113 |     |     |
-| ------------------- | --- | --- | --- |
+## 56: Date: ....................................  {#ch-56}
 
+Date: ....................................
+Listen and say.
+| nose  | horse  | fish  | school |
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 113 | | |
 Colour.
 Listen and say.
 Teddy bear, teddy bear,
@@ -1489,30 +1074,28 @@ touch the ground.
 Write.
 114 My English Grade 1
 
-Lesson 57
-Tt
+## 57: Read.  {#ch-57}
+
 Read.
 t r s q p
 Say the words.
 tiger
-Tt
 table
 tree
 Write.
 My English Grade 1 115
-
- Read.
-|   t  | a  p   |   k   | i    | t  e   |
-| ---- | ------ | ----- | ---- | ------ |
-|      | tap    |       | kite |        |
-|      | bat    | cat   |      | father |
-|      | mother | tiger |      | sit    |
- Read and discuss.
+Read.
+| t  | a  p | k | i | t  e |
+| | tap | | kite | |
+| | bat | cat | | father |
+| | mother | tiger | | sit |
+Read and discuss.
 a tiger
- Copy.
+Copy.
 116 My English  Grade 1
 
-Lesson 58
+## 58: Date: ....................................  {#ch-58}
+
 Date: ....................................
 Pp - Tt
 Listen and say.
@@ -1537,415 +1120,322 @@ M.......P
 ........OT
 D O G
 My English Grade 1 117
-
- Find the words.
-| L L | E   | A F A | T L |
-| --- | --- | ----- | --- |
-| W W | O   | V F P | O D |
-| A D | R   | B D P | M K |
-| Y S | A   | E H L | A F |
-| W N | N   | U L E | T I |
-| B A | G   | C I P | O A |
-| I K | E   | H X D | P U |
-| T E | T   | R A I | N A |
- Write.
-| pen   |     | moon  | ring |
-| ----- | --- | ----- | ---- |
-| fish  |     | kite  | tap  |
+Find the words.
+| L L | E | A F A | T L |
+| W W | O | V F P | O D |
+| A D | R | B D P | M K |
+| Y S | A | E H L | A F |
+| W N | N | U L E | T I |
+| B A | G | C I P | O A |
+| I K | E | H X D | P U |
+| T E | T | R A I | N A |
+Write.
+| pen | | moon  | ring |
+| fish  | | kite  | tap  |
 118 My English  Grade 1
 
-Lesson 59
+## 59: Date: ....................................  {#ch-59}
+
 Date: ....................................
-Uu
- Listen and say.
+Listen and say.
 | orange  | snake  | train  | tomato |
-| ------- | ------ | ------ | ------ |
- Talk about the picture.
- Listen and say.
-u
-| My English  Grade 1 | 119 |     |     |
-| ------------------- | --- | --- | --- |
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 119 | | |
+Colour.
+Find and trace (the way).
+| | | | | n | b |
+| | | b | u | | |
+| a | g | f | e | u | c |
+| h | u | l | k | j | i |
+| t | r | u | p | o | n |
+| u | s | g | u | | |
+Write.
+| | | | 120 | My English  Grade 1 | |
 
- Colour.
- Find and trace (the way).
-|     |     |     |     | n   | b   |
-| --- | --- | --- | --- | --- | --- |
-|     |     | b   | u   |     |     |
-| a   | g   | f   | e   | u   | c   |
-| h   | u   | l   | k   | j   | i   |
-| t   | r   | u   | p   | o   | n   |
-| u   | s   | g   | u   |     |     |
- Write.
-|     |     |     | 120 | My English  Grade 1 |     |
-| --- | --- | --- | --- | ------------------- | --- |
+## 60: Read.  {#ch-60}
 
-Lesson 60
-Uu
 Read.
 u r t q s
 Say the words.
 umbrella
-Uu
 under
 up
 Write.
 My English Grade 1 121
-
- Read.
-|   s     | u  n |   b   | l    | u  e |
-| ------- | ---- | ----- | ---- | ---- |
-|         | sun  |       | blue |      |
-| uncle   |      | horse |      | put  |
-| student |      | mouse |      | out  |
- Read and discuss.
+Read.
+| s | u  n | b | l | u  e |
+| | sun  | | blue | |
+| uncle | | horse | | put  |
+| student | | mouse | | out  |
+Read and discuss.
 Uncle has an umbrella.
- Copy.
+Copy.
 122 My English  Grade 1
 
-Lesson 61
-Date: ....................................
-Vv
- Listen and say.
-| student  | mouth  | uncle  | house |
-| -------- | ------ | ------ | ----- |
- Talk about the picture.
- Listen and say.
-v
-| My English  Grade 1 | 123 |     |     |
-| ------------------- | --- | --- | --- |
+## 61: Date: ....................................  {#ch-61}
 
- Colour.
- Find (the way).
-|     |     |     |     | n   | b   |
-| --- | --- | --- | --- | --- | --- |
-|     |     | b   | v   |     |     |
-| a   | g   | f   | e   | v   | c   |
-| h   | v   | l   | k   | j   | i   |
-|     | r   | v   | p   | o   | n   |
-t
-| v   | s   | g   | u   |     |     |
-| --- | --- | --- | --- | --- | --- |
- Write.
+Date: ....................................
+Listen and say.
+| student  | mouth  | uncle  | house |
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 123 | | |
+Colour.
+Find (the way).
+| | | | | n | b |
+| | | b | v | | |
+| a | g | f | e | v | c |
+| h | v | l | k | j | i |
+| | r | v | p | o | n |
+| v | s | g | u | | |
+Write.
 124 My English  Grade 1
 
-Lesson 62
-Vv
+## 62: Read.  {#ch-62}
+
 Read.
 v r t u s
 Say the words.
-van
-Vv
 vase
 vest
 Write.
 My English Grade 1 125
-
- Read.
-|   v  | a  n |   v  | a    | s  e |
-| ---- | ---- | ---- | ---- | ---- |
-|      | van  |      | vase |      |
-| vast |      | cave |      | live |
-| give |      | vest |      | hive |
- Read and discuss.
+Read.
+| v  | a  n | v  | a | s  e |
+| | van  | | vase | |
+| vast | | cave | | live |
+| give | | vest | | hive |
+Read and discuss.
 Bees live in hives.
- Copy.
+Copy.
 126 My English  Grade 1
 
-Lesson 63
-Date: ....................................
-Ww
- Listen and say.
-| give  | vest  | live  | cave    |
-| ----- | ----- | ----- | ------- |
- Talk about the picture.
- Listen and say.
-w
-| My English  Grade 1 | 127 |     |     |
-| ------------------- | --- | --- | --- |
+## 63: Date: ....................................  {#ch-63}
 
+Date: ....................................
+Listen and say.
+| give  | vest  | live  | cave |
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 127 | | |
 Colour.
 Circle (the odd picture).
 Write.
 128 My English Grade 1
 
-Lesson 64
-Ww
+## 64: Read.  {#ch-64}
+
 Read.
 w s v u t
 Say the words.
 watch
-Ww
 window
 wheel
 Write.
 My English Grade 1 129
-
- Read.
-|   c   | o  w |   c   | r  o  | w   |
-| ----- | ---- | ----- | ----- | --- |
-|       | cow  |       | crow  |     |
-| water |      | watch | arrow |     |
-| snow  |      | swan  | show  |     |
- Read and discuss.
+Read.
+| c | o  w | c | r  o  | w |
+| | cow  | | crow  | |
+| water | | watch | arrow | |
+| snow  | | swan  | show  | |
+Read and discuss.
 A cow is drinking water.
- Copy.
+Copy.
 130 My English  Grade 1
 
-Lesson 65
-Date: ....................................
-Xx
- Listen and say.
-| crow  | water  | show  | snow |
-| ----- | ------ | ----- | ---- |
- Talk about the picture.
- Listen and say.
-x
-| My English  Grade 1 | 131 |     |     |
-| ------------------- | --- | --- | --- |
+## 65: Date: ....................................  {#ch-65}
 
+Date: ....................................
+Listen and say.
+| crow  | water  | show  | snow |
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 131 | | |
 Colour.
 Match.
-6
-fox
-box
-six
-ox
-axe
 Write.
 132 My English Grade 1
 
-Lesson 66
-Xx
+## 66: Read.  {#ch-66}
+
 Read.
 x w v u t
 Say the words.
 x-ray
-Xx
 xerox
 xylophone
 Write.
 My English Grade 1 133
-
- Read.
-|   b  | o  x |   t  | a  x  | i   |
-| ---- | ---- | ---- | ----- | --- |
-|      | box  |      | taxi  |     |
-|      | fox  | ox   | axe   |     |
-|      | six  | mix  | text  |     |
- Read and discuss.
+Read.
+| b  | o  x | t  | a  x  | i |
+| | box  | | taxi  | |
+| | fox  | ox | axe | |
+| | six  | mix  | text  | |
+Read and discuss.
 A fox and an ox are in the box.
- Copy.
+Copy.
 134 My English  Grade 1
 
-Lesson 67
-Date: ....................................
-Yy
- Listen and say.
-| axe  | box  | taxi  | fox  |
-| ---- | ---- | ----- | ---- |
- Talk about the picture.
- Listen and say.
-y
-| My English  Grade 1 | 135 |     |     |
-| ------------------- | --- | --- | --- |
+## 67: Date: ....................................  {#ch-67}
 
+Date: ....................................
+Listen and say.
+| axe  | box  | taxi  | fox  |
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 135 | | |
 Colour.
 Find the way and colour.
-Y
-T
-Y
-Y
-N
 Y Y
-Y
 M Y
 A L E
-Y
-Y
-G
 S Y Y D
-C
-Y
-w
-P
-O
-Y
-J
 O Y
 Write.
 136 My English Grade 1
 
-Lesson 68
-Yy
+## 68: Read.  {#ch-68}
+
 Read.
 x w v u y
 Say the words.
-yak
-Yy
 yellow
-yam
 Write.
 My English Grade 1 137
-
- Read.
-|   b  | o  y |   p  | l    | a  y |
-| ---- | ---- | ---- | ---- | ---- |
-|      | boy  |      | play |      |
-|      | toy  | yak  |      | say  |
-| yam  |      | my   |      | they |
- Read and discuss.
+Read.
+| b  | o  y | p  | l | a  y |
+| | boy  | | play | |
+| | toy  | yak  | | say  |
+| yam  | | my | | they |
+Read and discuss.
 A boy likes a toy.
- Copy.
+Copy.
 138 My English  Grade 1
 
-Lesson 69
-Date: ....................................
-zz
- Listen and say.
-| play  | boy  | toy  | yak |
-| ----- | ---- | ---- | --- |
- Talk about the picture.
- Listen and say.
-z
-| My English  Grade 1 | 139 |     |     |
-| ------------------- | --- | --- | --- |
+## 69: Date: ....................................  {#ch-69}
 
+Date: ....................................
+Listen and say.
+| play  | boy  | toy  | yak |
+Talk about the picture.
+Listen and say.
+| My English  Grade 1 | 139 | | |
 Colour.
 Find (and colour the picture that starts with z).
 Write.
 140 My English Grade 1
 
-Lesson 70
+## 70: Date: ....................................  {#ch-70}
+
 Date: ....................................
-zz
 Read.
 z v y w x
 Say the words.
 zebra
-Zz
 zero
-zoo
 Write.
 My English Grade 1 141
-
- Read.
-|   z   | o  o |   z  | e    | r  o |
-| ----- | ---- | ---- | ---- | ---- |
-|       | zoo  |      | zero |      |
-| quiz  |      | lazy |      | maze |
-| prize |      | zoom |      | size |
- Read and discuss.
+Read.
+| z | o  o | z  | e | r  o |
+| | zoo  | | zero | |
+| quiz  | | lazy | | maze |
+| prize | | zoom | | size |
+Read and discuss.
 A zebra is in the zoo.
- Copy.
+Copy.
 142 My English  Grade 1
 
-Lesson 71
+## 71: Date: ....................................  {#ch-71}
+
 Date: ....................................
 Uu - zz
- Read.
-| zero  | zoo  |     | quiz  |     | prize |
-| ----- | ---- | --- | ----- | --- | ----- |
- Circle (the correct word for pictures).
+Read.
+| zero  | zoo  | | quiz  | | prize |
+Circle (the correct word for pictures).
 | sun  run  | pun | man  van  | pan | cat  | crow  cow |
-| --------- | --- | --------- | --- | ---- | --------- |
-| fox  ox   | box | toy  boy  | joy | lip  | ship  zip |
- Match.
+| fox  ox | box | toy  boy  | joy | lip  | ship  zip |
+Match.
 umbrella
 vase
 watch
 x-ray
-yak
 zebra
-| My English  Grade 1 | 143 |     |     |     |     |
-| ------------------- | --- | --- | --- | --- | --- |
-
- Find.
-|     | E   | D L z | A U | B B |     |
-| --- | --- | ----- | --- | --- | --- |
-|     | L   | C E J | D D | O O |     |
-|     | P   | R B I | U H | X Y |     |
-|     | z   | O M S | C A | V E |     |
-|     | z   | W A I | K L | M H |     |
-|     | Q   | B R A | S z | O O |     |
- Write a-z.
-| .....pple | .....all  | .....at    | ......og  | ......ye  | .....an   |
-| --------- | --------- | ---------- | --------- | --------- | --------- |
-| ......ate | ......en  | .....ron   | .....oker | .....ite  | .....eaf  |
-| ...onkey  | ......est | ...range   | ....arrot | .....ueen | ....abbit |
-| .....nake | ....able  | ...mbrella | .....an   | .....atch | .....ray  |
-| .....ak   | .....ebra |            |           |           |           |
+| My English  Grade 1 | 143 | | | | |
+Find.
+| | E | D L z | A U | B B | |
+| | L | C E J | D D | O O | |
+| | P | R B I | U H | X Y | |
+| | z | O M S | C A | V E | |
+| | z | W A I | K L | M H | |
+| | Q | B R A | S z | O O | |
+Write a-z.
+| .....pple | .....all  | .....at | ......og  | ......ye  | .....an |
+| ......ate | ......en  | .....ron | .....oker | .....ite  | .....eaf  |
+| ...onkey  | ......est | ...range | ....arrot | .....ueen | ....abbit |
+| .....nake | ....able  | ...mbrella | .....an | .....atch | .....ray  |
+| .....ak | .....ebra | | | | |
 144 My English  Grade 1
 
-Lesson 72
+## 72: Date: ....................................  {#ch-72}
+
 Date: ....................................
 Aa - zz
- Listen and say.
-| eraser  | sharpener  | bench  | prize        |
-| ------- | ---------- | ------ | ------------ |
+Listen and say.
+| eraser  | sharpener  | bench  | prize |
 Play.
 Finish
 Start
-| My English  Grade 1 | 145 |     |     |
-| ------------------- | --- | --- | --- |
-
-  Read
-|     | Aa  |     | Bb  |     | Cc  |     | Dd  | Ee  | Ff  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     | Gg  |     | Hh  |     | Ii  |     | Jj  | Kk  | Ll  |
-|     | Mm  |     | Nn  |     | Oo  |     | Pp  | Qq  | Rr  |
-|     | Ss  |     | Tt  |     | Uu  |     | Vv  | Ww  | Xx  |
-|     | Yy  |     | zz  |     |     |     |     |     |     |
- Write A - z.
-| .....NT  |     | ....AG  |     | ..ARROT     |        | ....UCK  |        | ....AR   | ....ROG    |
-| -------- | --- | ------- | --- | ----------- | ------ | -------- | ------ | -------- | ---------- |
-| ....OAT  |     | ...OUSE |     | ...CE CREAM |        | ...ACKAL |        | .....EY  | ...AMP     |
-| ....OUSE |     | ....OSE |     |             | ....WL |          | ....EN | ....UILL | .....ADISH |
-| ...UN    |     | ...AP   |     | ....NICORN  |        | ....ASE  |        | ....ELL  | ....EROX   |
+| My English  Grade 1 | 145 | | |
+Read
+| | Aa  | | Bb  | | Cc  | | Dd  | Ee  | Ff  |
+| | Gg  | | Hh  | | Ii  | | Jj  | Kk  | Ll  |
+| | Mm  | | Nn  | | Oo  | | Pp  | Qq  | Rr  |
+| | Ss  | | Tt  | | Uu  | | Vv  | Ww  | Xx  |
+| | Yy  | | zz  | | | | | | |
+Write A - z.
+| .....NT  | | ....AG  | | ..ARROT | | ....UCK  | | ....AR | ....ROG |
+| ....OAT  | | ...OUSE | | ...CE CREAM | | ...ACKAL | | .....EY  | ...AMP |
+| ....OUSE | | ....OSE | | | ....WL | | ....EN | ....UILL | .....ADISH |
+| ...UN | | ...AP | | ....NICORN  | | ....ASE  | | ....ELL  | ....EROX |
 ....AK
 ...ERO
-|     |     |     |     |     |     |     | 146 | My English  Grade 1 |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | ------------------- | --- |
-
- Assessment 2
+| | | | | | | | 146 | My English  Grade 1 | |
+Assessment 2
 1.  Listen, point and say.
-| Bb  | Ss  | Mm  | Aa  |     | Uu  |     | Cc  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Kk  | Nn  | Vv  | Ww  |     | Tt  |     | Ff  |
-| Pp  | Ee  | Jj  | Oo  |     | Gg  |     | Hh  |
-| Xx  | Ll  | Ii  | Rr  |     | Yy  |     | Qq  |
-| zz  | Dd  |     |     |     |     |     |     |
+| Bb  | Ss  | Mm  | Aa  | | Uu  | | Cc  |
+| Kk  | Nn  | Vv  | Ww  | | Tt  | | Ff  |
+| Pp  | Ee  | Jj  | Oo  | | Gg  | | Hh  |
+| Xx  | Ll  | Ii  | Rr  | | Yy  | | Qq  |
+| zz  | Dd  | | | | | | |
 2.  Listen and point.
-| Carrot    | Yak   | Rose |     | Vase     |     | Lamp   |     |
-| --------- | ----- | ---- | --- | -------- | --- | ------ | --- |
-| Ice-cream | Duck  | Frog |     | Sun      |     | Radish |     |
-| Wolf      | Owl   | Well |     | Rabbit   |     | Monkey |     |
-| Kettle    | Horse | Cab  |     | Elephant |     | Xerox  |     |
+| Carrot | Yak | Rose | | Vase | | Lamp | |
+| Ice-cream | Duck  | Frog | | Sun | | Radish | |
+| Wolf | Owl | Well | | Rabbit | | Monkey | |
+| Kettle | Horse | Cab  | | Elephant | | Xerox  | |
 3.  Match the words with pictures.
 Leaf
 Vase
 Nest
 Goat
-| My English  Grade 1 | 147 |     |     |     |     |     |     |
-| ------------------- | --- | --- | --- | --- | --- | --- | --- |
-
+| My English  Grade 1 | 147 | | | | | | |
 4.  Read the words.
-| toy | yellow | taxi   | water | crow |
-| --- | ------ | ------ | ----- | ---- |
+| toy | yellow | taxi | water | crow |
 | cab | train  | queen  | doll  | lion |
-| hen | meal   | jackal | beak  | ghee |
-| ink | dice   | child  | high  | hat  |
+| hen | meal | jackal | beak  | ghee |
+| ink | dice | child  | high  | hat  |
 5.  Write from Aa to Zz.
 148 My English  Grade 1
-
 Me and My Family
-Lesson 73
+
+## 73: Date: ....................................  {#ch-73}
+
 Date: ....................................
 Head and Shoulders
 Look at the pictures and read.
 head
 hand
 stomach
-leg
 Sing and act.
 Head and shoulder,
 knees and toes,
@@ -1958,7 +1448,6 @@ Head and shoulders,
 knees and toes
 knees and toes.
 My English Grade 1 149
-
 Read and answer.
 The Doll
 This is my doll.
@@ -1977,7 +1466,8 @@ on the tree.
 in the nest.
 150 My English Grade 1
 
-Lesson 74
+## 74: Date: ....................................  {#ch-74}
+
 Date: ....................................
 I See with My Eyes
 Look at the pictures and read.
@@ -1990,7 +1480,6 @@ I listen with my ears.
 I taste with my tongue.
 I feel with my skin.
 My English Grade 1 151
-
 Read and answer.
 Mango Tree
 This is a mango tree.
@@ -2007,9 +1496,10 @@ Write three sentences.
 2. It has a long
 3. It has two
 152 My English Grade 1
-
 My Daily Life
-Lesson 75
+
+## 75: Date: ....................................  {#ch-75}
+
 Date: ....................................
 Brush Your Teeth
 Look at the picture and read.
@@ -2022,30 +1512,26 @@ Eat food.
 Drink water.
 Clean plates.
 My English Grade 1 153
-
-  Read and answer.
-|     | Frog |     |     |
-| --- | ---- | --- | --- |
+Read and answer.
+| | Frog | | |
 I see a frog.
 The frog is in a pond.
 The frog eats a fly.
 1.  What do I see?
-|     |  a cat  |  a frog  |  a bee |
-| --- | ------- | -------- | ------ |
+| |  a cat  |  a frog  |  a bee |
 2.  Where is the frog?
-|     |  in a pond  |  on the ground  |  on the leaf |
-| --- | ----------- | --------------- | ------------ |
+| |  in a pond  |  on the ground  |  on the leaf |
 3.  What does the frog eat?
-|     |  a bee  |  an ant  |  a fly |
-| --- | ------- | -------- | ------ |
- Complete the sentences.
+| |  a bee  |  an ant  |  a fly |
+Complete the sentences.
 1.  Wash your
 2.  Brush your
 3.  Comb your
 4.  Wear your
 154 My English  Grade 1
 
-Lesson 76
+## 76: Date: ....................................  {#ch-76}
+
 Date: ....................................
 I Can Jump
 Look at the pictures and read.
@@ -2058,31 +1544,28 @@ He can't dance.
 Sunita can read.
 She can't draw.
 My English Grade 1 155
-
-  Read and answer.
-    The Monkey
+Read and answer.
+The Monkey
 This is a monkey.
 It has a long tail.
 It can jump.
 It can't swim.
-| 1.  This is a      |     |             |             |     |     |     |
-| ------------------ | --- | ----------- | ----------- | --- | --- | --- |
-|   a. cat           |     |   b. bird   |   c. monkey |     |     |     |
-| 2.  It has a long  |     |             |             |     |     |     |
-|   a. tail          |     | b. ear      |   c. nose   |     |     |     |
-| 3.  It can         |     |             |             |     |     |     |
-|   a. sleep         |     |   b. jump   | c. walk     |     |     |     |
- Write what you can and can't do.
-| I can |     |     |     | I can't |     |     |
-| ----- | --- | --- | --- | ------- | --- | --- |
+| 1.  This is a | | | | | | |
+| a. cat | | b. bird | c. monkey | | | |
+| 2.  It has a long  | | | | | | |
+| a. tail | | b. ear | c. nose | | | |
+| 3.  It can | | | | | | |
+| a. sleep | | b. jump | c. walk | | | |
+Write what you can and can't do.
+| I can | | | | I can't | | |
 I can
 I can't
-| I can |      |      |     | I can't |                     |      |
-| ----- | ---- | ---- | --- | ------- | ------------------- | ---- |
-| walk  | read | jump |     | fly     | drive               | cook |
-|       |      |      |     | 156     | My English  Grade 1 |      |
+| I can | | | | I can't | | |
+| walk  | read | jump | | fly | drive | cook |
+| | | | | 156 | My English  Grade 1 | |
 
-Lesson 77
+## 77: Date: ....................................  {#ch-77}
+
 Date: ....................................
 I'm Happy
 Look at the pictures and read.
@@ -2093,28 +1576,24 @@ She is
 He is
 She is
 My English Grade 1 157
-
-  Read and answer.
+Read and answer.
 The Doll Says, "Hello"
 Sunita has a doll.
 The doll says, "Hello".
 Sunita is happy.
 1.  Sunita has a
-|   a. book  |     | b. doll  |   c. ball |     |     |     |
-| ---------- | --- | -------- | --------- | --- | --- | --- |
+| a. book  | | b. doll  | c. ball | | | |
 2.  The doll says
-|   a. hello  |     | b. hi   |   c. bye |     |     |     |
-| ----------- | --- | ------- | -------- | --- | --- | --- |
+| a. hello  | | b. hi | c. bye | | | |
 3.  Sunita is
-|   a. sad   |     | b. happy  |     | c. angry |     |     |
-| ---------- | --- | --------- | --- | -------- | --- | --- |
- Make words.
-| f u | s   | m   | l   | t   | c h |     |
-| --- | --- | --- | --- | --- | --- | --- |
-| s e | p   | l   | a   |     | d   | l   |
+| a. sad | | b. happy  | | c. angry | | |
+Make words.
+| f u | s | m | l | t | c h | |
+| s e | p | l | a | | d | l |
 158 My English  Grade 1
 
-Lesson 78
+## 78: Date: ....................................  {#ch-78}
+
 Date: ....................................
 It's Seven O'clock
 Look at the pictures and read.
@@ -2131,7 +1610,6 @@ Bina eats her snacks.
 It is four o'clock.
 Bina comes home.
 My English Grade 1 159
-
 Read and answer.
 Time
 I am a clock.
@@ -2153,7 +1631,8 @@ It is It is
 It is It is
 160 My English Grade 1
 
-Lesson 79
+## 79: Date: ....................................  {#ch-79}
+
 Date: ....................................
 Seven Days
 Listen and sing.
@@ -2164,7 +1643,6 @@ Thursday and Friday.
 But Saturday, Saturday
 Saturday is a holiday.
 My English Grade 1 161
-
 Write the days in the correct order.
 Saturday
 Sunday
@@ -2179,28 +1657,18 @@ Today is
 Tomorrow is
 162 My English Grade 1
 yadnuS
-y
-a
 y a d
 d n
 ru o
 ta M
-S
-F
 Tuesday
 dir W
 a e
 y T d
 h n
 u e
-s
 r d
-s
 d a
-y
-a
-y
-
 Assessment 3
 1. Listen, say and act.
 a. I can jump.
@@ -2212,31 +1680,27 @@ e. I can drink water.
 do.
 3. Say the time.
 My English Grade 1 163
-
 4.  Read and answer.
 I am a clock.
 I am on the wall.
 I tell time.
 Boys and girls look at me.
 a.  Who am I ?
-  I am a
-|   a. book  |     | b. clock  |     | c. time |     |     |
-| ---------- | --- | --------- | --- | ------- | --- | --- |
+I am a
+| a. book  | | b. clock  | | c. time | | |
 b.  I tell
-|   a. time  |     | b. story  |     | c. song |     |     |
-| ---------- | --- | --------- | --- | ------- | --- | --- |
+| a. time  | | b. story  | | c. song | | |
 c.  I am on the
-|   a. table  |     | b. floor  |     | c. wall |     |     |
-| ----------- | --- | --------- | --- | ------- | --- | --- |
+| a. table  | | b. floor  | | c. wall | | |
 5.  Make words.
-| f u | s   | m   | l   | t                       | c h |     |
-| --- | --- | --- | --- | ----------------------- | --- | --- |
-|     |     | l   | a   |                         | d   | l   |
-| s e | p   |     |     |                         |     |     |
-|     |     |     |     | 164 My English  Grade 1 |     |     |
-
+| f u | s | m | l | t | c h | |
+| | | l | a | | d | l |
+| s e | p | | | | | |
+| | | | | 164 My English  Grade 1 | | |
 My School
-Lesson 80
+
+## 80: Date: ....................................  {#ch-80}
+
 Date: ....................................
 Come Here
 Look at the pictures and read.
@@ -2247,7 +1711,6 @@ Stand up.
 Make a line.
 Go out.
 My English Grade 1 165
-
 Read and answer.
 My Family
 This is my father.
@@ -2264,7 +1727,6 @@ Sit here
 Go up
 Come down
 166 My English Grade 1
-
 Lesson 81
 Date: ....................................
 May I ...?
@@ -2288,7 +1750,6 @@ television?
 Yes, you can.
 May I play?
 My English Grade 1 167
-
 Read and answer.
 What Are They Doing?
 Roshan is reading.
@@ -2311,7 +1772,6 @@ Ouch !
 It's OK.
 3. Sarala :
 168 My English Grade 1
-
 Lesson 82
 Date: ....................................
 I'm Pawan
@@ -2326,7 +1786,6 @@ I am
 I am
 son father daughter mother
 My English Grade 1 169
-
 Read and answer.
 Hello Everyone!
 Hello everyone!
@@ -2341,14 +1800,10 @@ a. three b. five c. six
 3. I read in class
 a. one b. two c. three
 Write three words and complete the sentences.
-1.
-2.
-3.
 1. She is a
 2. She is drinking
 3. She is sitting on a
 170 My English Grade 1
-
 Lesson 83
 Date: ....................................
 Things in the Classroom
@@ -2364,7 +1819,6 @@ I write on it.
 I keep my bag on it.
 I keep my shoes in it.
 My English Grade 1 171
-
 Read and answer.
 My Classroom
 This is my classroom.
@@ -2379,19 +1833,16 @@ Look at the family picture and complete the sentences.
 2. This is
 3. This is
 172 My English Grade 1
-
 Lesson 84
 Date: ....................................
 Let's Play
-  Look at the picture and read.
+Look at the picture and read.
 This is a jungle. There are many animals. They are playing games.
 | football | cricket | volleyball |
-| -------- | ------- | ---------- |
-| skipping | swing   | basketball |
+| skipping | swing | basketball |
 Which game do you like to play?
 I like to play
 My English  Grade 1 173
-
 Read and answer.
 The Playground
 Juma has two friends.
@@ -2406,11 +1857,7 @@ playground.
 3. They like to play
 4. They like to play in the
 Look at the picture and write three sentences.
-1.
-2.
-3.
 174 My English Grade 1
-
 Assessment 4
 1. Listen and follow:
 a. Come here.
@@ -2429,7 +1876,6 @@ May I draw,
 madam ?
 3. Talk about the things in the classroom.
 My English Grade 1 175
-
 4.  Read and tick (√) the answer.
 Hello everyone!
 I am Rita.
@@ -2437,18 +1883,16 @@ I am a girl.
 I am five years old.
 I read in class one.
 a.  Rita is a
-|   a. boy                | b. teacher  | c. girl  |
-| ----------------------- | ----------- | -------- |
-| b.  She is              |  years old. |          |
-|   a. three              | b. five     | c. six   |
-| c.  She reads in class  | .           |          |
-|   a. one                | b. two      | c. three |
+| a. boy | b. teacher  | c. girl  |
+| b.  She is |  years old. | |
+| a. three | b. five | c. six |
+| c.  She reads in class  | . | |
+| a. one | b. two | c. three |
 5.  Write three sentences.
 a.  She is a
 b.  She is drinking
 c.  She is sitting on a
 176 My English  Grade 1
-
 Our Environment
 Lesson 85
 Date: ....................................
@@ -2461,32 +1905,23 @@ Where is the cat?
 on the roof on the table
 on the cupboard on the book
 My English Grade 1 177
-
-  Read and answer.
+Read and answer.
 The Story Book
 This is a book.
 The book is on the chair.
 There are many stories in the book.
 Children like to read stories.
 1.  Is this a book?
-|   a. yes  | b. no |     |
-| --------- | ----- | --- |
-2.  The book is   the chair.
-|   a. in  | b. on  | c. under |
-| -------- | ------ | -------- |
+| a. yes  | b. no | |
+2.  The book is the chair.
+| a. in  | b. on  | c. under |
 3.  The book has
-|   a. songs  | b. stories  | c. poems |
-| ----------- | ----------- | -------- |
+| a. songs  | b. stories  | c. poems |
 4.  Children like to read
-|   a. stories  | b. songs  | c. books |
-| ------------- | --------- | -------- |
- Colour the ball on the box.
- Write three sentences.
-1.
-2.
-3.
+| a. stories  | b. songs  | c. books |
+Colour the ball on the box.
+Write three sentences.
 178 My English  Grade 1
-
 Lesson 86
 Date: ....................................
 The Rainbow
@@ -2504,7 +1939,6 @@ green leaf
 blue sky
 yellow banana
 My English Grade 1 179
-
 Read and answer.
 The Traffic Lights
 red stop
@@ -2523,7 +1957,6 @@ The mango is
 The apple is
 The tree is
 180 My English Grade 1
-
 Lesson 87
 Date: ....................................
 Red Rose
@@ -2537,11 +1970,9 @@ Sunflower
 The marigold is orange.
 Marigold
 Colour the names of the flowers.
-sun
 lotus
 rose sun book flower
 My English Grade 1 181
-
 Read and answer.
 The Rose
 This is a rose plant.
@@ -2561,7 +1992,6 @@ Make sentences.
 2. hand :
 3. basket :
 182 My English Grade 1
-
 Lesson 88
 Date: ....................................
 This is a Bag
@@ -2576,7 +2006,6 @@ This is an apple.
 That is a
 rabbit.
 My English Grade 1 183
-
 Read and answer.
 The Cow
 This is a cow.
@@ -2588,17 +2017,8 @@ The cow is our national animal.
 3. It has four
 4. It gives us
 Write five words.
-1.
-2.
-3.
-4.
-5.
 Write three sentences about the picture.
-1.
-2.
-3.
 184 My English Grade 1
-
 Assessment 5
 1. Listen and sing.
 Oh, rainbow, oh rainbow,
@@ -2614,7 +2034,6 @@ b. rbabit
 c. lutos
 d. rsoe
 My English Grade 1 185
-
 4. Read and tick (√) the correct answer.
 There is a book.
 It is on the chair.
@@ -2633,7 +2052,6 @@ The mango is
 The apple is
 The tree is
 186 My English Grade 1
-
 My Belongings
 Lesson 89
 In the Bag Date: ....................................
@@ -2643,11 +2061,10 @@ The book is in the bag.
 The cat is in the cupboard.
 The bananas are in the basket.
 Where are they?
-;s{nleq d';f]
+;s{nleq d';f
 in the circle in the bucket
 in the cage in the cowshed
 My English Grade 1 187
-
 Read and answer.
 The Ball
 Rita has a ball.
@@ -2668,7 +2085,6 @@ Write sentences.
 2. brush :
 3. play :
 188 My English Grade 1
-
 Lesson 90
 Date: ....................................
 Under the Table
@@ -2680,7 +2096,6 @@ Where are my things?
 under the umbrella under the table
 under the chair under the sofa
 My English Grade 1 189
-
 Read and answer.
 The Monkey
 This is a monkey.
@@ -2692,17 +2107,8 @@ The monkey is
 3. What is the monkey eating?
 The monkey is eating
 Write five words.
-1.
-2.
-3.
-4.
-5.
 Write three sentences about the picture.
-1.
-2.
-3.
 190 My English Grade 1
-
 Lesson 91
 Date: ....................................
 Things at Home
@@ -2710,11 +2116,8 @@ Talk about the picture.
 Make words.
 colck
 mriorr
-fna
 taebl
-bde
 My English Grade 1 191
-
 Read and answer.
 My Reading Room
 This is my reading room.
@@ -2729,11 +2132,7 @@ The books are on a
 4. What do I read?
 I read
 Write three sentences.
-1.
-2.
-3.
 192 My English Grade 1
-
 Lesson 92
 Date: ....................................
 Where Are My Socks?
@@ -2748,7 +2147,6 @@ Read.
 shirt frock tie
 socks ribbon jacket
 My English Grade 1 193
-
 Read and answer.
 Bunny Goes to School
 This is Bunny.
@@ -2773,13 +2171,11 @@ your head?
 A hat ! A hat ! A hat !
 A hat ! A hat ! A hat !
 194 My English Grade 1
-
 Assessment 6
 1. Listen to your teacher and tick (√) the correct picture.
 2. Say where things are.
 3. Look at the above picture and write three sentences.
 My English Grade 1 195
-
 4. Read and answer.
 This is my reading room.
 The room is big. It is very
@@ -2797,7 +2193,6 @@ d. What do I read?
 I read
 5. Colour the picture.
 196 My English Grade 1
-
 Our Culture
 Lesson 93
 Date: ....................................
@@ -2815,7 +2210,6 @@ I go ?
 Where do
 I go ?
 My English Grade 1 197
-
 Read and answer.
 Where Do They Go?
 Hindus go to temple.
@@ -2837,7 +2231,6 @@ Write sentences.
 2. cold :
 3. ring :
 198 My English Grade 1
-
 Lesson 94
 Birthday
 Listen and sing.
@@ -2851,30 +2244,24 @@ cake candle cup
 gifts balloon friends
 What do you do on your birthday?
 My English Grade 1 199
-
-  Read and answer.
-    Punam's Birthday
+Read and answer.
+Punam's Birthday
 It is Punam's birthday.
 She gets many gifts.
 Now, she is six years old.
 It is a special day for her.
 We all wish her a happy birthday.
 1.  Whose birthday is it?
-
 2.  How old is Punam now?
-
 3.  What does she get on her birthday?
-
 4.  What do we wish her on her birthday?
-  Read
-| 1 one   | 6 six   | 11 eleven   | 16 sixteen   |
-| ------- | ------- | ----------- | ------------ |
-| 2 two   | 7 seven | 12 twelve   | 17 seventeen |
+Read
+| 1 one | 6 six | 11 eleven | 16 sixteen |
+| 2 two | 7 seven | 12 twelve | 17 seventeen |
 | 3 three | 8 eight | 13 thirteen | 18 eighteen  |
 | 4 four  | 9 nine  | 14 fourteen | 19 nineteen  |
-| 5 five  | 10 ten  | 15 fifteen  | 20 twenty    |
+| 5 five  | 10 ten  | 15 fifteen  | 20 twenty |
 200 My English  Grade 1
-
 Assessment 7
 1. Listen to your teacher and tick (√) the correct picture.
 2. Match and say the words.
@@ -2883,21 +2270,18 @@ Monastery
 Temple
 Church
 My English Grade 1 201
-
 3.  Read the numbers in words.
-| 1 one   | 6 six   | 11 eleven   | 16 sixteen   |
-| ------- | ------- | ----------- | ------------ |
-| 2 two   | 7 seven | 12 twelve   | 17 seventeen |
+| 1 one | 6 six | 11 eleven | 16 sixteen |
+| 2 two | 7 seven | 12 twelve | 17 seventeen |
 | 3 three | 8 eight | 13 thirteen | 18 eighteen  |
 | 4 four  | 9 nine  | 14 fourteen | 19 nineteen  |
-| 5 five  | 10 ten  | 15 fifteen  | 20 twenty    |
+| 5 five  | 10 ten  | 15 fifteen  | 20 twenty |
 4.  Write sentences.
 cake
 gifts
 cold
 ring
 202 My English  Grade 1
-
 Communication Technology
 Lesson 95 and Market
 Date: ....................................
@@ -2914,27 +2298,15 @@ She works in a hospital.
 Binod is a driver.
 He drives a bus.
 My English Grade 1 203
-
 Look at the pictures and write the words.
-(3)
-F
-(2) (5)
 D D
-(4)
-(1)
 P T
-(5)
-(2)
-(3)
-(1)
-(4)
 Write.
 1. What is your name?
 2. Who are there in your family?
 3. What does your father do?
 4. What does your mother do?
 204 My English Grade 1
-
 Lesson 96
 Date: ....................................
 Rice and Curry
@@ -2943,14 +2315,12 @@ We eat foods. Foods keep us healthy.
 rice curry milk
 water egg meat
 Make words.
-geg
 wetar
 maet
 crruy
 rcie
 mlik
 My English Grade 1 205
-
 Read and answer.
 At a Party
 Dipu eats rice and curry.
@@ -2963,24 +2333,16 @@ I like all of them.
 3. What does Padam eat?
 4. Who likes all of them?
 Write three sentences about your favourite foods.
-1.
-2.
-3.
 206 My English Grade 1
-
 Lesson 97
 Date: ....................................
 Vehicles
 Talk about the picture.
 Match.
-bus
-van
-car
 aeroplane
 bicycle
 tempo
 My English Grade 1 207
-
 Read and answer.
 The Bicycle
 My papa has a bicycle.
@@ -2992,11 +2354,7 @@ The bicycle can go fast.
 3. How many wheels does it have?
 4. Can a bicycle go fast?
 Write three sentences about the picture.
-1.
-2.
-3.
 208 My English Grade 1
-
 Assessment 8
 1. Listen to your teacher and tick (√) the correct picture.
 2. Ask and answer in pairs.
@@ -3013,24 +2371,20 @@ I like all of them.
 a. What does Dipu eat?
 b. Who drinks water?
 My English Grade 1 209
-
 c. What does Padam eat?
 d. Who likes all of them?
 4. Discuss and write four sentences about the picture.
 210 My English Grade 1
-
 Fruits and Vegetables
 Lesson 98
 Date: ....................................
 Fruits
-  Look at the pictures and read.
+Look at the pictures and read.
 Fruits are good for health. There are different fruits.
 | apple  | mango  | coconut |
-| ------ | ------ | ------- |
 | grapes | banana | papaya  |
- Write.
+Write.
 My English  Grade 1 211
-
 Read and answer.
 The Papaya Tree
 This is a papaya tree.
@@ -3043,11 +2397,7 @@ I like papayas.
 3. How many papayas does the tree have?
 4. What colour are papayas?
 Write three sentences about the picture.
-1.
-2.
-3.
 212 My English Grade 1
-
 Lesson 99
 Date: ....................................
 A/An
@@ -3056,13 +2406,9 @@ a tree a book a cat
 an apple an eye an egg
 Write ‘a/an’.
 umbrella
-eye
 apple
-dog
-bag
 girl
 My English Grade 1 213
-
 Read and answer.
 The Red Apple
 This is an apple.
@@ -3075,30 +2421,22 @@ I like apples very much.
 3. Do you like apples?
 4. Do you eat an apple everyday?
 Write three sentences about the picture.
-1.
-2.
-3.
 214 My English Grade 1
-
 Lesson 100
 Date: ....................................
 Vegetables
- Look at the pictures and read.
+Look at the pictures and read.
 We eat vegetables everyday. Eating vegetables is good
 for our health.
-| a potato  |     | a tomato      |     | an onion   |
-| --------- | --- | ------------- | --- | ---------- |
-| a pumpkin |     | a cauliflower |     | a cucumber |
+| a potato  | | a tomato | | an onion |
+| a pumpkin | | a cauliflower | | a cucumber |
 Fill in the missing letters and colour.
-|     | t   | m t |     |     |
-| --- | --- | --- | --- | --- |
+| | t | m t | | |
 o i n
-|     | p    | m k n |     |     |
-| --- | ---- | ----- | --- | --- |
-|     | c c  | m     |  r  |     |
-|     | p    | t t   |     |     |
+| | p | m k n | | |
+| | c c  | m |  r  | |
+| | p | t t | | |
 My English  Grade 1 215
-
 Read and answer.
 Hi Everyone !
 Hi everyone!
@@ -3112,16 +2450,11 @@ People like me a lot.
 3. What colour is it?
 4. Is it a vegetable or a fruit?
 Look at the picture and write three sentences.
-1.
-2.
-3.
 216 My English Grade 1
-
 Assessment 9
 1. Listen to your teacher and write the words.
 2. Look at the picture and say what you see there.
 My English Grade 1 217
-
 3. Read and answer.
 Hi everyone!
 I am a pumpkin.
@@ -3138,7 +2471,6 @@ a.
 b.
 c.
 218 My English Grade 1
-
 Hobbies and Interests
 Lesson 101
 Date: ....................................
@@ -3163,7 +2495,6 @@ I like to
 I like to
 dance read draw play jump
 My English Grade 1 219
-
 Read and answer.
 Painting
 Saru likes to paint.
@@ -3183,7 +2514,6 @@ darw
 2. draw :
 3. swim :
 220 My English Grade 1
-
 Lesson 102
 Date: ....................................
 I Don't Like Leaves
@@ -3202,7 +2532,6 @@ milk.
 Write what you like to do and don't like to do.
 I like to I don't like to
 My English Grade 1 221
-
 Read and answer.
 Rabbits
 We are rabbits.
@@ -3222,7 +2551,6 @@ bnoe
 2. under :
 3. bone :
 222 My English Grade 1
-
 Assessment 10
 1. Ask and answer.
 a. I like apples. What do you like?
@@ -3241,7 +2569,6 @@ b. Where do they live?
 c. What do they like to eat?
 d. What don't they like?
 My English Grade 1 223
-
 3. Re-arrange the letters to make words.
 a. alppe
 b. tatomo
@@ -3253,7 +2580,6 @@ b.
 c.
 d.
 224 My English Grade 1
-
 Birds and Animals
 Lesson 103
 Date: ....................................
@@ -3273,7 +2599,6 @@ I found a hen !
 When?
 Write the names of animals.
 My English Grade 1 225
-
 Read and answer.
 The Tiger Again
 This is a tiger.
@@ -3289,26 +2614,17 @@ The tiger lives in
 The tiger eats
 4. Is the tiger a wild animal?
 Look at the picture and write three words and two sentences.
-1.
-2.
-3.
-1.
-2.
 226 My English Grade 1
-
 Lesson 104
 Date: ....................................
 The Cock
- Look at the pictures and discuss.
+Look at the pictures and discuss.
 a duck
 a cock
-| a parrot |     |     | a pigeon |
-| -------- | --- | --- | -------- |
- Colour the name of this bird.
+| a parrot | | | a pigeon |
+Colour the name of this bird.
 | cock | duck | parrot | pigeon |
-| ---- | ---- | ------ | ------ |
 My English  Grade 1 227
-
 Read and answer.
 Kukhuri Kaa
 This is a cock.
@@ -3325,10 +2641,7 @@ dcuk
 pegoin
 prraot
 Write two sentences.
-1.
-2.
 228 My English Grade 1
-
 Lesson 105
 Date: ....................................
 Birds in the Tree
@@ -3339,11 +2652,8 @@ a crow
 a sparrow
 a peacock
 Colour and write their names.
-s
-p
 c d
 My English Grade 1 229
-
 Read and answer.
 The Sparrow
 Sparrow is a small bird.
@@ -3357,11 +2667,7 @@ It makes a nest in our house.
 3. What does the sparrow do?
 4. Where does the sparrow make its nest?
 Write three sentences about the picture.
-1.
-2.
-3.
 230 My English Grade 1
-
 Lesson 106
 Date: ....................................
 On/In/Under
@@ -3373,7 +2679,6 @@ Where is the rabbit?
 the table the table the hole
 the tree the mat the burrow
 My English Grade 1 231
-
 Read and answer. Give me a carrot,
 please?
 A Vegetable Garden
@@ -3390,21 +2695,15 @@ Thanks.
 3. What does the rabbit ask for?
 4. The rabbit says, "Thanks". What does the girl say?
 Write three sentences about the picture.
-1.
-2.
-3.
 232 My English Grade 1
-
 Lesson 107
 Date: ....................................
 Big and Small
- Talk about the picture.
- Look at the pictures and read.
-| big                 |      | small |       |
-| ------------------- | ---- | ----- | ----- |
-| fat                 | thin | tall  | short |
-| My English  Grade 1 | 233  |       |       |
-
+Talk about the picture.
+Look at the pictures and read.
+| big | | small | |
+| fat | thin | tall  | short |
+| My English  Grade 1 | 233  | | |
 Read and answer.
 The Elephant and Deer.
 The elephant is big.
@@ -3425,24 +2724,20 @@ Write sentences using these words.
 2. tree :
 3. hen :
 234 My English Grade 1
-
 Lesson 108
 Date: ....................................
 My Pet
- Look at the picture and read.
+Look at the picture and read.
 | a buffalo | a cow | a goat | a dog | a sheep | a cat |
-| --------- | ----- | ------ | ----- | ------- | ----- |
- Find and write the names of animals.
-| b                   | t   | r c |     |     |     |
-| ------------------- | --- | --- | --- | --- | --- |
-| u z                 | d   | a   |     |     |     |
-| f g                 | o a | t   |     |     |     |
-| f s                 | g   | o   |     |     |     |
-| a u                 | p   | i l |     |     |     |
-| l c                 | o w | s   |     |     |     |
-| o a                 | m   |     |     |     |     |
-| My English  Grade 1 | 235 |     |     |     |     |
-
+Find and write the names of animals.
+| b | t | r c | | | |
+| u z | d | a | | | |
+| f g | o a | t | | | |
+| f s | g | o | | | |
+| a u | p | i l | | | |
+| l c | o w | s | | | |
+| o a | m | | | | |
+| My English  Grade 1 | 235 | | | | |
 Read and answer.
 My Dog
 I have a pet dog.
@@ -3456,11 +2751,7 @@ He loves to play with me. I love him a lot.
 3. What does Kale do?
 4. What does Kale love to do?
 Write three sentences about the picture.
-1.
-2.
-3.
 236 My English Grade 1
-
 Assessment 11
 1. Ask and answer about these animals.
 A : What is this?
@@ -3474,304 +2765,194 @@ It chirps and dances.
 It makes a nest in our house.
 a. What is a sparrow?
 My English Grade 1 237
-
 b. What does the sparrow eat?
 c. What does the sparrow do?
 d. Where does the sparrow make its nest?
 3. Write four sentences about the picture.
 238 My English Grade 1
-
 Word list
-| aeroplane | bird     | cat         | cupboard |
-| --------- | -------- | ----------- | -------- |
-| alphabet  | birthday | cauliflower | curry    |
-| angry     | black    | cave        | cut      |
-| animal    | blue     | child       | dance    |
-| ant       | board    | church      | dear     |
-| apple     | bone     | circle      | deer     |
-| arm       | book     | clap        | desk     |
-| arrow     | box      | class       | dice     |
-| aunt      | boy      | clean       | dig      |
-| axe       | bread    | climb       | discuss  |
-| bag       | brother  | clock       | doctor   |
+| aeroplane | bird | cat | cupboard |
+| alphabet  | birthday | cauliflower | curry |
+| angry | black | cave | cut |
+| animal | blue | child | dance |
+| ant | board | church | dear |
+| apple | bone | circle | deer |
+| arm | book | clap | desk |
+| arrow | box | class | dice |
+| aunt | boy | clean | dig |
+| axe | bread | climb | discuss  |
+| bag | brother  | clock | doctor |
 ball
-|                     | brush   | cock     | dog     |
-| ------------------- | ------- | -------- | ------- |
-| balloon             | bucket  | coconut  | doll    |
-| banana              | buffalo | colour   | donkey  |
-| basketball          | bus     | comb     | door    |
-| bat                 | bye     | come     | dove    |
-| beak                | cab     | corn     | draw    |
-| bear                | cabbage | cow      | drink   |
-| bed                 | cage    | cowshed  | driver  |
-| bee                 | cake    | cricket  | duck    |
-| bench               | candle  | crow     | dustbin |
-| bicycle             | cap     | crying   | eagle   |
-| big                 | car     | cucumber | ear     |
-| bin                 | carrot  | cup      | eat     |
-| My English  Grade 1 | 239     |          |         |
-
-| egg      | gift    | hen      | key   |
-| -------- | ------- | -------- | ----- |
-| elephant | giraffe | here     | kid   |
-| eraser   | girl    | hide     | king  |
-| eye      | give    | high     | kite  |
-| face     | glasses | hill     | knee  |
-| family   | go      | hive     | knife |
-| fan      | goat    | holiday  | lamp  |
-| farmer   | god     | home     | lazy  |
-| fat      | good    | homework | leaf  |
+| | brush | cock | dog |
+| balloon | bucket  | coconut  | doll |
+| banana | buffalo | colour | donkey  |
+| basketball | bus | comb | door |
+| bat | bye | come | dove |
+| beak | cab | corn | draw |
+| bear | cabbage | cow | drink |
+| bed | cage | cowshed  | driver  |
+| bee | cake | cricket  | duck |
+| bench | candle  | crow | dustbin |
+| bicycle | cap | crying | eagle |
+| big | car | cucumber | ear |
+| bin | carrot  | cup | eat |
+| My English  Grade 1 | 239 | | |
+| egg | gift | hen | key |
+| elephant | giraffe | here | kid |
+| eraser | girl | hide | king  |
+| eye | give | high | kite  |
+| face | glasses | hill | knee  |
+| family | go | hive | knife |
+| fan | goat | holiday  | lamp  |
+| farmer | god | home | lazy  |
+| fat | good | homework | leaf  |
 afternoon
-| father  |     | horse | leave |
-| ------- | --- | ----- | ----- |
+| father  | | horse | leave |
 good bye
-| fee |     | house | leg |
-| --- | --- | ----- | --- |
+| fee | | house | leg |
 good
-| feet |     | ice-cream | lie |
-| ---- | --- | --------- | --- |
+| feet | | ice-cream | lie |
 evening
-| fish |     | ink | like |
-| ---- | --- | --- | ---- |
+| fish | | ink | like |
 good
-| flag |     | iron | lion |
-| ---- | --- | ---- | ---- |
+| flag | | iron | lion |
 morning
-| fly |     | jackal | lip |
-| --- | --- | ------ | --- |
+| fly | | jackal | lip |
 good night
-| football |     | jacket | listen |
-| -------- | --- | ------ | ------ |
+| football | | jacket | listen |
 grapes
-| fox |     | jam | live |
-| --- | --- | --- | ---- |
+| fox | | jam | live |
 grass
-| Friday |     | jeep | look |
-| ------ | --- | ---- | ---- |
+| Friday | | jeep | look |
 green
-| friend |     | join | lotus |
-| ------ | --- | ---- | ----- |
+| friend | | join | lotus |
 ground
-| frock |     | joker | love |
-| ----- | --- | ----- | ---- |
+| frock | | joker | love |
 hands
-| frog |     | jug | madam |
-| ---- | --- | --- | ----- |
+| frog | | jug | madam |
 happy
-| fruit |     | jump | make |
-| ----- | --- | ---- | ---- |
-hat
-| garden |     | jungle | man |
-| ------ | --- | ------ | --- |
+| fruit | | jump | make |
+| garden | | jungle | man |
 head
-| gate |     | kangaroo | mango |
-| ---- | --- | -------- | ----- |
+| gate | | kangaroo | mango |
 hello
-| ghee |     | kettle | map |
-| ---- | --- | ------ | --- |
+| ghee | | kettle | map |
 240 My English  Grade 1
-
-| marigold            | ox         | puppy    | ruler     |
-| ------------------- | ---------- | -------- | --------- |
-| mat                 | paint      | queen    | sad       |
-| meat                | pan        | question | same      |
-| meow                | papaya     | queue    | Saturday  |
-| milk                | parrot     | quill    | say       |
-| mill                | peach      | quilt    | school    |
-| monastery           | peacock    | quiz     | see       |
-| Monday              | pear       | rabbit   | sharpener |
-| monkey              | pen        | rack     | sheep     |
-| moon                | picture    | radio    | shirt     |
-| mosque              | pig        | radish   | shoes     |
-| mother              | pigeon     | rainbow  | short     |
-| mouse               | pin        | rat      | shoulder  |
-| nail                | pineapple  | read     | show      |
-| name                | play       | red      | shut      |
-| neck                | playground | rhino    | sing      |
-| nest                | please     | ribbon   | sir       |
-| net                 | point      | rice     | sister    |
-| nose                | pool       | ring     | sit       |
-| nurse               | porter     | robot    | size      |
-| onion               | pot        | roof     | skin      |
-| open                | potato     | room     | skipping  |
-| orange              | practise   | rose     | sky       |
-| ostrich             | prize      | round    | slide     |
-| owl                 | pumpkin    | row      | small     |
-| My English  Grade 1 | 241        |          |           |
-
-| snake      | there      | vulture    | yak       |
-| ---------- | ---------- | ---------- | --------- |
-| snow       | thin       | wall       | yam       |
-| socks      | this       | wash       | yacht     |
-| sparrow    | Thursday   | watch      | year      |
-| stamp      | tick       | water      | yellow    |
-| stand      | tie        | watermelon | yesterday |
-| star       | tiger      | way        | zebra     |
-| stomach    | toe        | web        | zero      |
-| student    | tomato     | Wednesday  | zipper    |
-| sugar      | tongue     | welcome    | zoo       |
-| sun        | toy        | well       |           |
-| Sunday     | trace      | whale      |           |
-| sunflower  | tractor    | wheel      |           |
-| swan       | train      | wheelchair |           |
-| swim       | tree       | white      |           |
-| table      | Tuesday    | whiteboard |           |
-| tall       | umbrella   | wind       |           |
-| tap        | uncle      | window     |           |
-| taxi       | uniform    | wine       |           |
-| teacher    | van        | wolf       |           |
-| teeth      | vase       | wood       |           |
-| television | vegetable  | write      |           |
-| temple     | vest       | Xerox      |           |
-| tempo      | violin     | x-ray      |           |
-| that       | volleyball | xylophone  |           |
+| marigold | ox | puppy | ruler |
+| mat | paint | queen | sad |
+| meat | pan | question | same |
+| meow | papaya | queue | Saturday  |
+| milk | parrot | quill | say |
+| mill | peach | quilt | school |
+| monastery | peacock | quiz | see |
+| Monday | pear | rabbit | sharpener |
+| monkey | pen | rack | sheep |
+| moon | picture | radio | shirt |
+| mosque | pig | radish | shoes |
+| mother | pigeon | rainbow  | short |
+| mouse | pin | rat | shoulder  |
+| nail | pineapple  | read | show |
+| name | play | red | shut |
+| neck | playground | rhino | sing |
+| nest | please | ribbon | sir |
+| net | point | rice | sister |
+| nose | pool | ring | sit |
+| nurse | porter | robot | size |
+| onion | pot | roof | skin |
+| open | potato | room | skipping  |
+| orange | practise | rose | sky |
+| ostrich | prize | round | slide |
+| owl | pumpkin | row | small |
+| My English  Grade 1 | 241 | | |
+| snake | there | vulture | yak |
+| snow | thin | wall | yam |
+| socks | this | wash | yacht |
+| sparrow | Thursday | watch | year |
+| stamp | tick | water | yellow |
+| stand | tie | watermelon | yesterday |
+| star | tiger | way | zebra |
+| stomach | toe | web | zero |
+| student | tomato | Wednesday  | zipper |
+| sugar | tongue | welcome | zoo |
+| sun | toy | well | |
+| Sunday | trace | whale | |
+| sunflower  | tractor | wheel | |
+| swan | train | wheelchair | |
+| swim | tree | white | |
+| table | Tuesday | whiteboard | |
+| tall | umbrella | wind | |
+| tap | uncle | window | |
+| taxi | uniform | wine | |
+| teacher | van | wolf | |
+| teeth | vase | wood | |
+| television | vegetable  | write | |
+| temple | vest | Xerox | |
+| tempo | violin | x-ray | |
+| that | volleyball | xylophone  | |
 242 My English  Grade 1
-
 LEARNING PROGRESSION CHART
 Tick (√) the box on the day you complete the task.
-|     | Lesson |     |     | Lesson |     |     | Lesson |
-| --- | ------ | --- | --- | ------ | --- | --- | ------ |
+| | Lesson | | | Lesson | | | Lesson |
 START
-|        | 1      |        |        | 2      |        |        | 3      |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-|        | Lesson |        |        |        | Lesson |        |        |
-|        |        | 5      |        |        | 4      |        |        |
-| Lesson |        |        | Lesson |        |        | Lesson |        |
-| 6      |        |        | 7      |        |        |        | 8      |
-|        |        | Lesson |        |        | Lesson |        |        |
-|        |        | 10     |        |        |        | 9      |        |
-| Lesson |        | Lesson |        |        | Lesson |        |        |
-| 11     |        |        | 12     |        | 13     |        |        |
-|        |        |        |        | Lesson |        |        | Lesson |
-|        |        |        |        | 15     |        |        | 14     |
+| | Lesson | | | | Lesson | | |
+| Lesson | | | Lesson | | | Lesson | |
+| | | Lesson | | | Lesson | | |
+| Lesson | | Lesson | | | Lesson | | |
+| | | | | Lesson | | | Lesson |
 Lesson Lesson
-| 16  |     |     |     | 17  |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 Lesson Lesson
-18
-19
 Lesson Lesson
-|        | 20  |     |     |        |     |     | 21  |
-| ------ | --- | --- | --- | ------ | --- | --- | --- |
-| Lesson |     |     |     | Lesson |     |     |     |
-|        | 23  |     |     | 22     |     |     |     |
+| Lesson | | | | Lesson | | | |
 Lesson
-24
 Lesson
-25
 Lesson Lesson
-27 26
 Lesson
-28
-|     |        | Lesson |     |        |     |     | Lesson |
-| --- | ------ | ------ | --- | ------ | --- | --- | ------ |
-|     |        | 30     |     |        |     |     | 29     |
-|     | Lesson |        |     | Lesson |     |     |        |
-|     | 31     |        |     | 32     |     |     |        |
+| | | Lesson | | | | | Lesson |
+| | Lesson | | | Lesson | | | |
 Lesson Lesson
-34 33
 Lesson Lesson
-|     | 35  |     |     |     |     |     | 36  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 Lesson Lesson
-38 37
 Lesson Lesson
-|                     | 39  |     |     |     |     |     | 40  |
-| ------------------- | --- | --- | --- | --- | --- | --- | --- |
-| My English  Grade 1 | 243 |     |     |     |     |     |     |
-
+| My English  Grade 1 | 243 | | | | | | |
 Lesson Lesson
-41 42
 Lesson
-43
-| Lesson |     |     | Lesson |     |
-| ------ | --- | --- | ------ | --- |
-44
-45
-|     | Lesson |     |     | Lesson |
-| --- | ------ | --- | --- | ------ |
-|     | 47     |     |     | 46     |
-L
-e
-sso
-| 4   |     |     | Lesson |     |
-| --- | --- | --- | ------ | --- |
+| Lesson | | | Lesson | |
+| | Lesson | | | Lesson |
+| 4 | | | Lesson | |
 8 n
-49
 Lesson
 Lesson
-51 50
 Lesson Lesson
-52 53
 Lesson
 Lesson
-|        | 55     |     | 54     |        |
-| ------ | ------ | --- | ------ | ------ |
-|        | Lesson |     |        | Lesson |
-|        | 56     |     |        | 57     |
-| Lesson |        |     | Lesson |        |
-59 58
-|     | Lesson |     |     | Lesson |
-| --- | ------ | --- | --- | ------ |
-60 61
-| n   |     |     | Lesson |     |
-| --- | --- | --- | ------ | --- |
-o
-ess
-| 3   |     |     | 62  |     |
-| --- | --- | --- | --- | --- |
+| | Lesson | | | Lesson |
+| Lesson | | | Lesson | |
+| | Lesson | | | Lesson |
+| n | | | Lesson | |
 L 6
 Lesson
-64
 Lesson Lesson
-65
-66
 Lesson Lesson
-67 68
-|        | Lesson |        | Lesson |        |
-| ------ | ------ | ------ | ------ | ------ |
-|        | 70     |        | 69     |        |
-|        | Lesson |        | Lesson |        |
-|        | 71     |        |        | 72     |
-| Lesson |        | Lesson |        | Lesson |
-| 75     |        | 74     |        | 73     |
-|        | Lesson |        | Lesson | Lesson |
-|        | 76     |        | 77     | 78     |
+| | Lesson | | Lesson | |
+| | Lesson | | Lesson | |
+| Lesson | | Lesson | | Lesson |
+| | Lesson | | Lesson | Lesson |
 244 My English  Grade 1
-
-|     |     | Lesson |     |        |     | Lesson |     | Lesson |     |
-| --- | --- | ------ | --- | ------ | --- | ------ | --- | ------ | --- |
-|     |     | 79     |     |        |     | 80     |     | 81     |     |
-|     |     |        |     | Lesson |     |        |     | Lesson |     |
-|     |     |        |     | 83     |     |        |     | 82     |     |
+| | | Lesson | | | | Lesson | | Lesson | |
+| | | | | Lesson | | | | Lesson | |
 L e
 sson
-|     |     |     | Lesson |     |     |     |     | Lesson |     |
-| --- | --- | --- | ------ | --- | --- | --- | --- | ------ | --- |
-8 4
-|     |        |     |        | 85  |     |        |        | 86  |        |
-| --- | ------ | --- | ------ | --- | --- | ------ | ------ | --- | ------ |
-|     |        |     | Lesson |     |     |        | Lesson |     |        |
-|     |        |     | 88     |     |     |        |        | 87  |        |
-|     | Lesson |     |        |     |     |        | Lesson |     |        |
-|     | 89     |     |        |     |     |        | 90     |     |        |
-|     | Lesson |     |        |     |     | Lesson |        |     | Lesson |
-|     | 93     |     |        |     |     | 92     |        |     | 91     |
-|     |        |     | Lesson |     |     |        | Lesson |     | Lesson |
-|     |        |     | 94     |     |     |        | 95     |     | 96     |
-|     |        |     | Lesson |     |     |        | Lesson |     |        |
-|     |        |     | 98     |     |     |        | 97     |     |        |
+| | | | Lesson | | | | | Lesson | |
+| | | | Lesson | | | | Lesson | | |
+| | Lesson | | | | | | Lesson | | |
+| | Lesson | | | | | Lesson | | | Lesson |
+| | | | Lesson | | | | Lesson | | Lesson |
+| | | | Lesson | | | | Lesson | | |
 Lesson
-| 99  |     |     |     | Lesson |        |     |     | Lesson |     |
-| --- | --- | --- | --- | ------ | ------ | --- | --- | ------ | --- |
-|     |     |     |     | 100    |        |     |     | 101    |     |
-|     |     |     |     |        | Lesson |     |     | Lesson |     |
+| 99  | | | | Lesson | | | | Lesson | |
+| | | | | | Lesson | | | Lesson | |
 Lesson
-| 104                 |        |                       |     |        | 103 |     |     | 102    |     |
-| ------------------- | ------ | --------------------- | --- | ------ | --- | --- | --- | ------ | --- |
-|                     |        |                       |     | Lesson |     |     |     | Lesson |     |
-|                     |        |                       |     | 105    |     |     |     | 106    |     |
-|                     |        |                       |     | Lesson |     |     |     | Lesson |     |
-|                     |        |                       |     | 108    |     |     |     | 107    |     |
-|                     | FINISH | SEE YOU IN GRADE TWO! |     |        |     |     |     |        |     |
-| My English  Grade 1 |        |                       | 245 |        |     |     |     |        |     |
+| | | | | Lesson | | | | Lesson | |
+| | | | | Lesson | | | | Lesson | |
+| | FINISH | SEE YOU IN GRADE TWO! | | | | | | | |
+| My English  Grade 1 | | | 245 | | | | | | |

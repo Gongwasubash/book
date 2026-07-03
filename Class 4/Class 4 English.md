@@ -1,1576 +1,54 @@
-ENGLISH
-Grade 4
-Government of Nepal
-Ministry of Education, Science and Technology
-Curriculum Development Centre
+---
+title: "English"
+grade: 4
+language: english
+subject: "English"
+publisher: "Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre"
+location: "Sanothimi, Bhaktapur"
+edition: "2022
+"
+---
 
-Publisher: Government of Nepal
-Ministry of Education, Science and Technology
-Curriculum Development Centre
-Sanothimi, Bhaktapur
-© Curriculum Development Centre
-All rights reserved, no part of this publication may be reproduced,
-transmitted in any other form or by any means without the written
-permission of the publisher. However, this does not prohibit
-making photocopies of its pages for teacher training or other
-non-profit making purposes.
-First Edition: 2022
-Send your comments and suggestions to:
-Curriculum Development Centre
-Phone: 01-6630-588, Fax: 01-6630-797
-Email: info@moecdc.gov.np
-Website: moecdc.gov.np
+# English — Grade 4
 
-Preface
-The curriculum is the central guide of education and shows what is essential for
-teaching and learning. A textbook is a main tool to deliver the curriculum. The
-amendment of the curriculum and textbook is a regular process, so as to make it
-relevant, practical, qualitative and useful for the overall development of a person.
-This textbook - ‘English Grade 4’ is developed to address the main aims of Basic
-Education; developing the fundamental skills of basic literacy and life skills in
-addition to arousing interest in arts and aesthetic values. It is aligned with the intent
-carried out by the National Curriculum Framework for School Education, 2076 and
-is developed fully in accordance with the new Basic Level English Curriculum,
-2077. All components of each unit in the textbook are equally important and
-have the specific aim of presentation so as to fulfill the learning outcomes stated
-in the curriculum. Moreover, it incorporates the latest developments in the field
-of English Language Teaching and Learning.
-This textbook was initially prepared by a team comprising of Prof. Dr. Tara Dutta
-Bhatta, Mr. Shankar Adhikari, Mr. Nim Prakash Singh Ratthour, Mr. Nabin Kumar
-Khadka, Mr. Raju Shrestha and Mr. Matrika Subedi. It has been revised by a team
-comprising of Prof. Dr. Rishi Ram Rijal, Mr. Puspa Raj Poudel, Dr. Neil David Rose
-and the initial team. Several people notably – Mr. Ana Prasad Neupane, Prof. Dr. Jib
-Lal Sapkota, Prof. Dr. Rishi Ram Rijal, Dr. Gopal Prasad Pandey, Mr. Madhav Prasad
-Ghimire, Ms. Maiya Niraula Pokharel and Mr. Tuka Raj Adhikari have contributed
-considerably for the development of this book. The contributions made by the
-school teachers; Mr. Durga Prasad Bhatta, Mr. Shyamlal Aryal, Ms. Sunita Subedi,
-Mr. Dharmendra Chaudhary, Mr. Lalmani Joshi, Mr. Ramesh Prasad Ghimire, Ms.
-Mallika Joshi, Ms. Anita Paudel, Mr. Birat Chaulagain and Mr. Kailash Tamang are
-also appreciated. The illustrations in the book have been designed by Ms. Shaili
-Malla and the layout design has been done by Mr. Shreehari Shrestha and Ms.
-Nirmala Pokharel. The Curriculum Development Centre extends sincere gratitude
-to all of them. With the view that the learning of English should be based on
-authentic materials, we have retrieved and adapted the texts and tasks including
-the audios from various authentic sources. Therefore, the Centre would like to
-extend its acknowledgements to all of them.
-This textbook may deliver the foundation for the content of the curriculum, the
-balance of skills to be taught and the types of language practice the students are
-to take part in. However, teachers can adapt the contents and tasks as per the need
-and context of their students. This textbook can be used as the primary resource
-for classroom teaching but teachers are encouraged to make use of their own
-resources to supplement the language learning of students.
-Curriculum Development Centre always welcomes constructive feedback for the
-betterment of its publications.
-2022 AD Curriculum Development Centre
+> **Publisher:** Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre
+> **Location:** Sanothimi, Bhaktapur
 
-Table of Contents
+## Table of Contents
 
-| Unit | Topic | Page |
-|------|-------|------|
-| 1 | Meeting People / Personal Introduction | 1 |
-|   | Pronunciation: /ə/, /ʌ/, /ɪe/, /ɜː/, /iː/, /ɪ/ | |
-|   | Grammar: Is/am/are, Countable/Uncountable | |
-| 2 | Talking About Name and Introduction |  |
-|   | Conversation: Greetings, Introducing Self | |
-| 3 | Describing Things - My Belongings |  |
-|   | Possessives, Adjectives, Question Words | |
-| 4 | My School / Classroom / School Timetable |  |
-|   | Prepositions: in, from, Library Rules | |
-| 5 | Describing People / Personal Profile |  |
-|   | Story: A Clever Fox, The Lost Donkey | |
-| 6 | Telling Time / My Daily Life |  |
-|   | Simple Present, Present Continuous | |
-| 7 | Our Environment / City Life & Village |  |
-|   | Comparative Adjectives, Prepositions of Direction | |
-| 8 | Our Culture / Festivals / National Food |  |
-| 9 | Communication & Technology |  |
-|   | Telephone, Message Notes, Email | |
-| 10 | Hobbies & Interests / Sports & Games |  |
-|    | Expressing Likes/Dislikes, Agreeing/Disagreeing | |
-| 11 | Shopping / Market / Fruits & Vegetables |  |
-|     | Shopping List, Prices, Quantifiers | |
-| 12 | Birds & Animals / Story |  |
-|     | Describing Animals, Past Tense | |
-|     | Glossary | |
-gnidaeR
-seluR yrarbiL
-sgnignoleB
-|     |     |     |  lanosreP |     |     |     | liame nA |     |     |     |
-| --- | --- | --- | --------- | --- | --- | --- | -------- | --- | --- | --- |
-yeknoD
-pohS a
-xoF
-|     |     |     |     | sgnignoleB | selbatemiT |     |     |     |     |     |
-| --- | --- | --- | --- | ---------- | ---------- | --- | --- | --- | --- | --- |
- dna seluR
-|     |  gntieeM |     |  lanosreP |     |     |     | stseuqeR |     |     | yttinauQ |
-| --- | -------- | --- | --------- | --- | --- | --- | -------- | --- | --- | -------- |
- gniklaT
-|     | elpoeP |     |     |     |     |     |     |     |     |  tuobA |
-| --- | ------ | --- | --- | --- | --- | --- | --- | --- | --- | ------ |
-tinU
-|     | 1   |     | 2   |     | 3   |     | 4   |     |     | 5   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| S.No. | Title |
+|-------|-------|
+| 1 | [Ball point pen                       2 pieces](#ch-1) |
+| 2 | [Sugar                                    1 kilogram](#ch-2) |
+| 3 | [There are eight planets that move around the Sun in our](#ch-3) |
+| 4 | [The closest planet to the Sun is Mercury and the farthest](#ch-4) |
+| 5 | [The biggest planet is Jupiter and the smallest planet is](#ch-5) |
+| 6 | [The Earth is the only planet that we know that has creatures](#ch-6) |
+| 7 | [The Earth rotates (spins) as it orbits the Sun. It takes one](#ch-7) |
+| 8 | [It takes 365 and ¼ days for the Earth to complete one circuit](#ch-8) |
+| 9 | [We are held onto the surface of the Earth by a force called](#ch-9) |
+| 10 | [Not everything in the Solar system orbits only around the](#ch-10) |
 
-|     |     |     |     |     | 401 |     | 711 | 821 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     | 56  | 77  |     | 09  |     |     |     |     |
- fo notipircseD
- a dna moor a
- evtiarapmoC
-|     |           |     |     | notipircseD |                    |             |  a gntiarraN |           |
-| --- | --------- | --- | --- | ----------- | ------------------ | ----------- | ------------ | --------- |
-|     | hpargaraP |     |     |             |                    |  a gniredrO | tneve tsap   | hpargaraP |
-|     | secnetnes |     |     |             | snoticerid         |             |              |           |
-|     |           |     |     |             |  fo tes A eugolaiD |             |              |           |
- ecalp
-yrots
-evtialrepus dna
-elpmis tneserP
-|  evtiarapmoC |     |  snotiisoperP |     |     |     |     |     |  dna tub ,dnA |
-| ------------ | --- | ------------- | --- | --- | --- | --- | --- | ------------- |
-sevtiarepmI snotiisoperP
-|     |     |     |     |     |     |     | elpmis tsaP | elpmis tsaP |
-| --- | --- | --- | --- | --- | --- | --- | ----------- | ----------- |
-esuaceb
-|              |  dna egalliv fo |  notiasrevnoC |              |          |  notiasrevnoC |     |               |              |
-| ------------ | --------------- | ------------- | ------------ | -------- | ------------- | --- | ------------- | ------------ |
-|              |                 | nwot a tuoba  |              |          | snoticerid no |     |  fo notiarraN |              |
-|  notipircseD |                 |               |  notipircseD |          |               |     | tneve tsap a  |  notipircseD |
-|              | efil ytic       |               |              | llabtoof |               |     |               | sgod fo      |
- tuoba
-|     |     |     |     |  ,/ːɔ/ fo notiaicnunorP |     |     |  /əe/ fo notiaicnunorP |     |
-| --- | --- | --- | --- | ----------------------- | --- | --- | ---------------------- | --- |
- ’re-‘ fo notiaicnunorP /əʊ/ fo notiaicnunorP  /ːɔ/ fo notiaicnunorP
-|     |     |                     |  stcaf ,stibah gntiatS |  ’se-‘ dna ’s-‘ dna/ɒ/ |     |                     |     |     |
-| --- | --- | ------------------- | ---------------------- | ---------------------- | --- | ------------------- | --- | --- |
-|     |     | notiacol gnibircseD |                        |                        |     |  tsap tuoba gniklaT |     |     |
-/ fo notiaicnunorP
-|     |     | /æ/ dna /ɪɔ/ ,/ʊa |     |     | snoticerid gniviG |     | ’de-‘ dna ’d-‘ dna |     |
-| --- | --- | ----------------- | --- | --- | ----------------- | --- | ------------------ | --- |
-snosaer gniviG
-gnirapmoC
-shturt dna
-|     | sgnidne |     |     |     |     |     |     | /ɪɔ/ dna |
-| --- | ------- | --- | --- | --- | --- | --- | --- | -------- |
-stneve
-esuoH ylevoL ruO
-setoN egasseM
-|     |     |  mliF A :yrotS |     |     | paM teertS A |  renniD :yrotS |     |     |
-| --- | --- | -------------- | --- | --- | ------------ | -------------- | --- | --- |
-metsyS raloS
-|  dna lapeN | dnalreztiwS |     |     |           |  ot ediuG A |     | rehtaF htiw senohpeleT |     |
-| ---------- | ----------- | --- | --- | --------- | ----------- | --- | ---------------------- | --- |
-|            |             |     |     | slairetaM | rupidnaB    |     |                        |     |
-efiL ytiC
-teP yM
-toohS
-|     | nosirapmoC |     |     | notiamrofnI |     |     |     |     |
-| --- | ---------- | --- | --- | ----------- | --- | --- | --- | --- |
-stnevE tsaP
-snoticeriD
-|     |     | notiacoL |     |     |     |     |     | snosaeR |
-| --- | --- | -------- | --- | --- | --- | --- | --- | ------- |
- gnttieG
- gniviG
-|     |     |     |     |     |     |     | 01  | 11  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     | 6   | 7   |     | 8   | 9   |     |     |     |
+---
 
-| 831 | 051 | 261 | 471 | 681 691 |
-| --- | --- | --- | --- | ------- |
-notipircseD
-|     | hpargaraP | hpargaraP | hpargaraP |     |
-| --- | --------- | --------- | --------- | --- |
-tsiL-oD-oT
- + evol/etah/ekiL
-erutuf ot gnioG
-dluoc dna naC
-elpmis erutuF
-suountinoc
-| sevticejdA |     |     | snotiseuQ |     |
-| ---------- | --- | --- | --------- | --- |
-notiageN
- tneserP
-gni-v
- notiasrevnoC
-|  lanotian a fo | gninedrag fo | sinnet tuoba |     |              |
-| -------------- | ------------ | ------------ | --- | ------------ |
-|  notipircseD   |  notipircseD |  notipircseD |     |  notipircseD |
-tnaruatser
-syot fo
-| krap                  |                                             |                                             |  a ta                 |                                            |
-| --------------------- | ------------------------------------------- | ------------------------------------------- | --------------------- | ------------------------------------------ |
-| /əɪ/ fo notiaicnunorP |                                             |                                             | /ʊə/ fo notiaicnunorP |                                            |
-|                       |  dna sekil gnisserpxE  /ɪ/ fo notiaicnunorP | ytiliba tuoba gniklaT /ːɜ/ fo notiaicnunorP |                       | erutuf tuoba gniklaT /ɪa/ fo notiaicnunorP |
- elpoep gnibircseD
- dna gnieergA
-gnieergasid
-secalp dna
-/:i/ dna
-sekilsid
- llabtooF lanotiaN
-|               | ybboH evtiaerC A  s’nemoW lapeN |  tA :notiasrevnoC |  fo pmuL A :yrotS |                 |
-| ------------- | ------------------------------- | ----------------- | ----------------- | --------------- |
-| raazaB ehcmaN |                                 |                   |                   |  ecnaD lanotiaN |
-nilpahC eilrahC
- dna seibboH
-|     |           |           | cinciP :meoP | notitiepmoC |
-| --- | --------- | --------- | ------------ | ----------- |
-|     | stseretnI | yrarbiL a |              |             |
-|     |           | maeT      |              | retteL      |
-dloG
-gnieergasiD
-|  dna secalP |     |  gnisserpxE |     |     |
-| ----------- | --- | ----------- | --- | --- |
- gnieergA
-|  ralupoP |  seibboH stseretnI |     |     |     |
-| -------- | ------------------ | --- | --- | --- |
- erutuF
-| elpoeP |     | ytilibA |     |     |
-| ------ | --- | ------- | --- | --- |
-snalP
-|     |  dna |     |  dna |     |
-| --- | ---- | --- | ---- | --- |
-yrassolG
- 61
-| 21  | 31  | 41  | 51  |     |
-| --- | --- | --- | --- | --- |
+## 1: Ball point pen                       2 pieces  {#ch-1}
 
-Unit
-11
-Meeting People
-Getting started
-A. Look at the pictures and discuss these questions.
-a. Who do you think they are?
-b. What do you think they are doing?
-B. Listen and sing.
-I am your teacher; I am your teacher.
-My name is Daisy, Daisy
-Daisy, Daisy, Daisy, Daisy
-Yes, I am Daisy.
-Hello dear, hello dear
-What’s your name?
-My name is Henry, Henry
-English Grade 4 1
 
-  A lovely name
-Say, hello to friends, hello to friends.
-H-e-l-l-o
-Hello Henry, hello Henry
-Hello, dear friends.
-Fill in the missing letters and say he words aloud.
-| a.  | t – a – he –      |       | b. h – l – o     |     |
-| --- | ----------------- | ----- | ---------------- | --- |
-| c.  | f  r –  e  –  ds  |       | d. d – ar        |     |
-| e.  | l – tt – e        |       | f. t– an – y – u |     |
-Now, take turns to ask and answer the questions.
-Example:
-| Q:   | Hello! How are you?    |     |     |     |
-| ---- | ---------------------- | --- | --- | --- |
-| A:   | I am fine. Thank you.  |     |     |     |
-Reading I
-Look at the picture and answer these questions.
-a.  Who do you think these
-people are?
-Where do you think they are?
-b.
-c.  What do you think they are
-doing?
-| 2     |     |     |     |         English Grade  4 |
-| ----- | --- | --- | --- | ------------------------ |
+## 2: Sugar                                    1 kilogram  {#ch-2}
 
-First Day at School
-Roshan gets up every morning at 6:00 a.m. He gives himself a good wash.
-He says,“Good morning father and mother.” At 9:00 a.m. he says,“Good bye mother.”
-At school, he greets his teachers. "Hi! It’s me Roshan. I am from Chitwan."
-"May I introduce my friend? He is Arnav." See you again.
-English Grade 4 3
-
-A.   Learn these expressions.
-|   a. Good morning!  b. Good bye!  |     |     |    c. It’s me, ......... |     |
-| --------------------------------- | --- | --- | ------------------------ | --- |
-  d. See you!        e. Greetings!        f. May I introduce..?
-B.   Complete the following sentences and solve the puzzle.
-| 1.  | He says………………. to  |     |     |     |
-| --- | ------------------ | --- | --- | --- |
-1
-his father and mother in the  G
-morning.
-| 2.  | ……………...my friend, Arnav.  |     |     |     |
-| --- | -------------------------- | --- | --- | --- |
-2
-M
-| 3.  | May I ………………. myself? |     |     |     |
-| --- | --------------------- | --- | --- | --- |
-3
-I
-| 4.                                   | See you …………….... .  |     |     |     |
-| ------------------------------------ | -------------------- | --- | --- | --- |
-| C.   Answer the following questions. |                      |     |     | 4   |
-A
-| a.  | When does Roshan get up?      |     |     |     |
-| --- | ----------------------------- | --- | --- | --- |
-| b.  | How does he greet his father  |     |     |     |
-and mother?
-| c.  | How does he introduce his friend, Arnav? |     |     |     |
-| --- | ---------------------------------------- | --- | --- | --- |
-| d.  | Where is Roshan from?                    |     |     |     |
-| e.  | What does he say when he leaves school?  |     |     |     |
-D.   Match the expressions in column A with their suitable
-responses from column B.
-|                           | Column ‘A’  |     |                           | Column ‘B’               |
-| ------------------------- | ----------- | --- | ------------------------- | ------------------------ |
-| a.                        | Hi!         |     | i. Hi! Hena.              |                          |
-| b. Hi! My name is Tom.    |             |     | ii. Nice to meet you too. |                          |
-| c. May I know your name?  |             |     | iii. Hello, I am Jerry.   |                          |
-| d. Meet my friend, Hena.  |             |     | iv. Of course, I am Anna. |                          |
-| e. Nice to meet you.      |             |     | v. Hello!                 |                          |
-| 4                         |             |     |                           |         English Grade  4 |
-
-Pronunciation I
-Pronounce these words. Learn how the letters in red are
-pronounced.
-teacher driver painter doctor actor
-about ago along around asleep
-lesson person second season button
-Writing I
-Complete the school registration form with the necessary information.
-SHREE TRIBHUVAN SECONDARY SCHOOL
-Manechauka, Tanahun
-STUDENT REGISTRATION FORM
-Name of applicant (in BLOCK letters):
-First name Middle name Last name/Surname
-Date of birth:
-Gender: M F Other
-Grade:
-Name of previous school (only for new students):
-Address :
-Parents’ information:
-Father’s name
-Father’s contact number
-Father’s occupation
-Mother’s name
-Mother’s contact number
-Mother’s occupation
-English Grade 4 5
-
-Grammar I
-A.   Study the following examples.
-| a.  | Hello, what is your name? |     |     |     |
-| --- | ------------------------- | --- | --- | --- |
-| b.  | My name is Peter.         |     |     |     |
-| c.  | I am pleased to meet you. |     |     |     |
-| d.  | We are friends.           |     |     |     |
-| e.  | They are from Butwal.     |     |     |     |
-| f.  | He is coming from school. |     |     |     |
-B.   Complete the sentences with is, am or are.
-| a.  | We ….from Chitwan.                                 |     |     |     |
-| --- | -------------------------------------------------- | --- | --- | --- |
-| b.  | He…..from Pokhara.                                 |     |     |     |
-| c.  | I…. a student of grade four.                       |     |     |     |
-| d.  | He …… a good boy.                                  |     |     |     |
-| e.  | They…… close friends.                              |     |     |     |
-| f.  | We….going to the market.                           |     |     |     |
-| g.  | She….coming here.                                  |     |     |     |
-| h.  | Hi! I….a boy.                                      |     |     |     |
-| i.  | Good morning every one. We.........going to dance  |     |     |     |
-together.
-Listening
-A.   Look at the picture and answer the
-questions.
-| a.    | Who do you think they are?        |     |     |                          |
-| ----- | --------------------------------- | --- | --- | ------------------------ |
-| b.    | What do you think they are doing? |     |     |                          |
-| 6     |                                   |     |     |         English Grade  4 |
-
-B. Listen to the audio and circle the correct answers.
-a. What is the speaker's name?
-i Anna ii. Mary iii. Freya
-b. Where is she from?
-i small town ii. big town iii. medium town
-c. What is the small town like?
-i good ii. nice iii. beautiful
-d. What doesn’t she get?
-i. job ii. neighbours iii. friends
-e. What does she want to learn about?
-i. Washington D.C. ii. English iii. small town
-C. Introduce yourself. Say: your name, where you live and
-what you like to do.
-Reading II
-Answer these questions.
-a. Who do you think these people are?
-b. Do you feel they are happy or sad?
-Personal Profile
-Hi, everyone. Let me introduce myself. My name
-is Hamid and I am from Pakistan. I am nine years
-old. My hometown is Islamabad. It is the capital
-city of Pakistan. I have come to the UK with my
-father to study English language. I will stay here for
-a year. I want to learn English so that I can become
-a teacher.
-My family is big. I have three brothers and one sister. She has a
-hearing difficulty. I am the oldest one. My sister is the youngest of
-all. She is four years old. My father works as an ambassador and my
-mother is a doctor.
-English Grade 4 7
-
-A.  Learn these words. Make your own sentences.
-|   introduce  |     | hometown  |     | English      |     |
-| ------------ | --- | --------- | --- | ------------ | --- |
-|   big        |     | learn     |     | ambassador   |     |
-B  Complete these sentences. Use words from  the reading text.
-| a.  | Islamabad is Hamid's …………… .           |     |     |     |     |
-| --- | -------------------------------------- | --- | --- | --- | --- |
-| b.  | He has gone to the UK to……..English.   |     |     |     |     |
-| c.  | His family is………. .                    |     |     |     |     |
-| d.  | His youngest sister is…………….years old. |     |     |     |     |
-| e.  | His sister has a …………. difficulty.     |     |     |     |     |
-C.  Read the text again and answer the following questions.
-| a.  | Where is Hamid from?                        |     |     |     |     |
-| --- | ------------------------------------------- | --- | --- | --- | --- |
-| b.  | How old is he?                              |     |     |     |     |
-| c.  | How many brothers and sisters does he have? |     |     |     |     |
-| d.  | What does his father do?                    |     |     |     |     |
-| e.  | Why does he want to learn English?          |     |     |     |     |
-D.   Read the text again and talk about your own family.
-Pronunciation II
-Pronounce these words. Notice the two different sounds made by
-the red letters.
-|   bin   | bean   |     | dip   |                          | deep |
-| ------- | ------ | --- | ----- | ------------------------ | ---- |
-|   fit   | feet   |     | sit   |                          | seat |
-|   hit   | heat   |     | lick  |                          | leak |
-|   chip  | cheap  |     | lid   |                          | lead |
-|   mill  | meal   |     | sick  |                          | seek |
-| 8       |        |     |       |         English Grade  4 |      |
-
-Speaking
-A. Act out the following conversation.
-Hi! I am John. Hello! I am Mary.
-Nice to meet Nice to meet
-you, Mary. you too, John.
-How are you? I am fine. Thank
-you. How are you?
-B. Work in pairs. Take turns to ask and answer the questions.
-Q: Hi, what’s your name?
-A: My name is …………………..
-Q: ……………………you?
-A: I'm fine. Thank you.
-C. Complete these expressions and practise by reading aloud.
-a. ……………. . I'm Irfan Ali.
-b. I'm ……………. Parsa.
-c. May I ……………. . myself?
-d. It's ……………. ., Nitu. I'm ………… Banke.
-e. Meet my ……………., Ramita. ……………. is from
-Makwanpur.
-f. ……………. ! Have a nice day!
-English Grade 4 9
-
-| g.  | See you…………………. !                                |     |     |     |
-| --- | ------------------------------------------------ | --- | --- | --- |
-| h.  | I'm Nisha. May I ……….......….your good …..……. .? |     |     |     |
-| i.  | Hello! How .................. you?               |     |     |     |
-| j.  | I am …………………... Thank you.                       |     |     |     |
-Grammar II
-A.  Study these sentences.
-| a.  | I live in Kathmandu.   |     |     |     |
-| --- | ---------------------- | --- | --- | --- |
-| b.  | I'm from Banke.        |     |     |     |
-| c.  | I study in grade four. |     |     |     |
-| d.  | Where are you from?    |     |     |     |
-B.  Complete the sentences with in or from.
-| a.  | Hi! I am….....................…Dharan.          |     |     |     |
-| --- | ----------------------------------------------- | --- | --- | --- |
-| b.  | Hello, dear friends. I live…..........a hamlet. |     |     |     |
-| c.  | I read…............... grade four.              |     |     |     |
-| d.  | Where are you…...................?              |     |     |     |
-| e.  | We have come….................Palpa.            |     |     |     |
-| f.  | There are four members ……….. my family.         |     |     |     |
-| g.  | They came…..India and nowadays they live….      |     |     |     |
-Lamjung.
-Writing II
-A.   Rewrite the following sentences. Use capital letters, full
-stops or question marks correctly.
-| 10     |     |     |     |         English Grade  4 |
-| ------ | --- | --- | --- | ------------------------ |
-
-Example:
-(How/how) are you (. / ?)
-How are you?
-a. (What’s/what’s) your name (. / ?)
-b. (my/My) name is Peter (. / ?)
-c. (Where/where) are you from (. / ?)
-d. (Meet/meet) my friend Yogesh (. / ?)
-e. (may/May) I introduce myself (. / ?)
-f. (see/See) you tomorrow (. / ?)
-g. (She/she) is from Mustang (. / ?)
-h. (have/Have) a nice day (. / ?)
-i. (May/may) I know your good name (. / ?)
-j. (Nice/nice) to meet you (. / ?)
-B. Write about one of your friends. Use the given clues.
-Name
-Study
-Age
-My
-friend
-Interests
-and
-Hometown
-hobbies
-My friend’s name is…………..
-English Grade 4 11
-
-Do it by yourself.
-Stick your photo in the box. Complete the following sentences
-about yourself.
-My name is………..
-I am from………….
-I read in grade…….
-I am good at……….
-I always greet my……
-I have many……..friends.
-I love making new………
-I like playing…..with them.
-I go to ………….. regularly.
-12 English Grade 4
-
-Unit
-22
-Personal Belongings
-Getting started
-A. Look at the pictures and guess what these people are
-saying.
-What things do you own? Talk to your friends.
-B. Listen and sing.
-I have a pet.
-It is a dog.
-And it says,
-"WOOF-WOOF-WOOF-WOOF-WOOF"
-English Grade 4 13
-
-I have a pet.
-It is a cat.
-And it says,
-"MEOW-MEOW-MEOW-MEOW-MEOW."
-I have a pet.
-It is a mouse.
-And it says,
-"SQUEAK- SQUEAK-SQUEAK- SQUEAK-SQUEAK."
-I have a pet.
-It is a bird.
-And it says
-"TWEET-TWEET-TWEET-TWEET-TWEET."
-I have a pet.
-It is a fish.
-And it says
-"GLUB-GLUB-GLUB-GLUB-GLUB."
-What sounds do these animals make? Match.
-| dog  |     | tweet |     |     |
-| ---- | --- | ----- | --- | --- |
-
-|   cat    |     | glub   |     |                          |
-| -------- | --- | ------ | --- | ------------------------ |
-|   mouse  |     | woof   |     |                          |
-|   bird   |     | meow   |     |                          |
-|   fish   |     | squeak |     |                          |
-| 14       |     |        |     |          English Grade 4 |
-
-Reading I
-Look at the pictures below and answer the questions.
-a. What things do you see?
-b. Do you have any of them at your home?
-c. Do you like any of them? Why?
-Personal Belongings
-Hello! I am Rajesh. This is my pet. It’s a cat called Billy. We have
-four cats in our family, but Billy is my favourite.
-He is brown. He has beautiful green eyes.
-He isn’t very friendly with other people, but
-loves me because he is my favourite pet.
-While playing with him, I forget everything
-and it relieves my stress.
-Hi! I am Shambhu. I am a professional musician.
-This is my trumpet. It’s really important for me.
-Actually, I have got many trumpets, but this one
-is my favourite. It is made in America.
-Hello! Everybody, I am Mary. This is my laptop.
-It is new and I really like it. It has an internet
-connection and a DVD player. I have got some
-really good games on it. I love my laptop.
-English Grade 4 15
-
-A.  Learn these words.
-|   pet       |     | relieve  |     | professional  |     |
-| ----------- | --- | -------- | --- | ------------- | --- |
-|   trumpet   |     | laptop   |     | internet      |     |
-Now, complete the sentences with the above words.
-| a.  | A  wonderful  | natural  | way  to  | …..…………  | stress  is  |
-| --- | ------------- | -------- | -------- | -------- | ----------- |
-meditation.
-| b.  | My father is a ………..............…football player. |     |     |     |     |
-| --- | ------------------------------------------------- | --- | --- | --- | --- |
-c.  My sister has a ….......... . It is the latest model on the
-market.
-| d.  | The speed of the……...............….is very slow.   |     |     |     |     |
-| --- | -------------------------------------------------- | --- | --- | --- | --- |
-| e.  | This is my cat. It is a……...............…. animal. |     |     |     |     |
-f.  The ..........….. is one of the famous musical instruments.
-B.  What do they own? Complete the table.
-| Rajesh |     | cat |     |     |     |
-| ------ | --- | --- | --- | --- | --- |
-Shambhu
-Mary
-C.  Write 'True' or 'False' for the statements.
-| a.     | Billy is a pet cat.                         |     |     |                            |     |
-| ------ | ------------------------------------------- | --- | --- | -------------------------- | --- |
-| b.     | Billy is very friendly with other people.   |     |     |                            |     |
-| c.     | Shambhu is a musician by profession.        |     |     |                            |     |
-| d.     | Mary has a trumpet.                         |     |     |                            |     |
-| e.     | Mary takes care of her laptop.              |     |     |                            |     |
-| 16     |                                             |     |     |            English Grade 4 |     |
-
-D.  Answer the following questions.
-| a.  Why does Billy love Rajesh?                       |     |     |     |     |     |
-| ----------------------------------------------------- | --- | --- | --- | --- | --- |
-| b.  Why does Rajesh play with Billy?                  |     |     |     |     |     |
-| c.  Who does the trumpet belong to? Where is it made? |     |     |     |     |     |
-| d.  What facilities does Mary's laptop have?          |     |     |     |     |     |
-E.  What is the most favourite thing you own? Talk about it
-with your friends.
-Pronunciation I
-Pronounce these words. Notice what sound the red letters make.
-|   fast   | are    | car   | mask   | ask  |     |
-| -------- | ------ | ----- | ------ | ---- | --- |
-|   blast  | grasp  | last  | class  | cast |     |
-Writing I
-A.   Study the following thank-you note and answer the questions.
-  Dear Tom,
-|   Thank  | you  so  | much  for  | the  beautiful  | poster.  | I    |
-| -------- | -------- | ---------- | --------------- | -------- | ---- |
-really like it. I have stuck it on my room wall. I will keep
-it safe.
-  Thank you again.
-  Love
-  Jerry
-| English Grade 4  |     |     |     |     | 17  |
-| ---------------- | --- | --- | --- | --- | --- |
-
-| a.  Who is thanking Tom?              |     |     |     |     |
-| ------------------------------------- | --- | --- | --- | --- |
-| b.  Why has Jerry thanked Tom?        |     |     |     |     |
-| c.  Does Jerry like the poster?       |     |     |     |     |
-| d.  Where has Jerry stuck the poster? |     |     |     |     |
-B.  Your friend has given you a storybook. You like it very
-much. Now, write a thank-you note to your friend. Use the
-given outline.
-  Dear…….,
-  ……………………… interesting story book. ……....…………
-  .......................................................................................................
-  Thank you again.
-  Love
-  …………..................
-Grammar I
-A.  Study the following sentences.
-| a.     | I have a car. My car is new.                    |     |     |                          |
-| ------ | ----------------------------------------------- | --- | --- | ------------------------ |
-| b.     | Hello Mark! Is that your telephone?             |     |     |                          |
-| c.     | It is a mouse. Its tail is long.                |     |     |                          |
-| d.     | He has a computer. It is his computer.          |     |     |                          |
-| e.     | She has a new ring. It is hers.                 |     |     |                          |
-| f.     | You have a cute dog. Your dog is cute.          |     |     |                          |
-| g.     | They have a television. It is their television. |     |     |                          |
-| h.     | We have a parrot. This is ours.                 |     |     |                          |
-| 18     |                                                 |     |     |          English Grade 4 |
-
-B. Complete the sentences with the words given in the box.
-You can use some words more than once.
-mine, your, her, their, yours, his, our, its, my, hers
-a. You have a book. …………….book is new.
-b. He has a pillow. ................... pillow is soft.
-c. She has a dog. …………………dog is small.
-d. We have a parrot. ………….parrot is beautiful.
-e. You have a house. ………….house looks nice.
-f. They are ………………………...bags.
-g. This is my laptop, not….....................
-h. That is my pen, not……………….pen.
-i. Wash……………………hands.
-j. Is that ……. ……………..wallet?
-k. It is a cat. …………………….. teeth are very sharp.
-l. She has got a cat. It’s …………..cat.
-m. May I borrow ……….pencil? I broke………...
-n. I found………key, but Mary couldn’t find………..
-o. This book must be ………………. Your name is written
-on its cover page.
-Listening
-A. Look at the picture and answer the questions.
-a. Who do you think the people are?
-b. What do you think they are talking
-about?
-c. Can you guess why they are smiling?
-English Grade 4 19
-
-B.  Listen to the audio and complete the sentences.
-| a.  | The mobile is ………….., not old.          |     |     |     |
-| --- | --------------------------------------- | --- | --- | --- |
-| b.  | It has got three ………….. .               |     |     |     |
-| c.  | It has got an MP3 player and a ………….. . |     |     |     |
-| d.  | The teacher has got  ………….. .           |     |     |     |
-C.  Work in pairs. Ask and answer questions about what
-you own. You can talk about things you personally own.
-Reading II
-  Look at the picture and answer the questions.
-| a.  | What animals do you see in the  |     |     |     |
-| --- | ------------------------------- | --- | --- | --- |
-pictures?
-| b.  | What is happening in them? |     |     |     |
-| --- | -------------------------- | --- | --- | --- |
-The Young Fox
-At night, the young fox pokes its head
-Out of its den beneath the shed.
-It listens with its pointed ears
-To hear if there is danger near.
-Its sharp nose sniffs the air and tells
-If there are any dangerous smells.
-Its sharp eyes peer from left to right
-Watching for movements in the night.
-If it senses it’s safe, then up it leaps
-And off across the fields it creeps.
--John Foster
-| 20     |     |     |     |          English Grade 4 |
-| ------ | --- | --- | --- | ------------------------ |
-
-A.  Read the poem and identify the rhyming words for the
-following.
-
-| head  |     | ear  |     | tells  |     | right  |     | leaps |
-| ----- | --- | ---- | --- | ------ | --- | ------ | --- | ----- |
-B.  Match the words in column ‘A’ with their meanings from
-column ‘B’.
-|   Column ‘A’  |        |     |     |       |                            | Column ‘B’ |     |     |
-| ------------- | ------ | --- | --- | ----- | -------------------------- | ---------- | --- | --- |
-|   a.          | poke   |     |     | i.    | home to a fox              |            |     |     |
-| b.            | sniff  |     |     | ii.   | move slowly and carefully  |            |     |     |
-| c.            | peer   |     |     | iii.  | bring some parts outside   |            |     |     |
-| d.            | creep  |     |     | iv.   | jump across                |            |     |     |
-| e.            | leap   |     |     | v.    | look with concentration    |            |     |     |
-| f.            | den    |     |     | vi.   | draw up air audibly        |            |     |     |
-C.  Write True or False for the statements.
-a.
-The fox lives in a shed.
-| b.  | The fox listens for sounds of danger.             |     |     |     |     |     |     |     |
-| --- | ------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- |
-| c.  | The fox has a good sense of smell.                |     |     |     |     |     |     |     |
-| d.  | The fox looks left and right in the day time.     |     |     |     |     |     |     |     |
-| e.  | If it is safe, the fox creeps across the fields.  |     |     |     |     |     |     |     |
-D.  Work in pairs. What does the fox look like? Talk about
-the fox in the poem.
-Pronunciation II
-Pronounce these words. Identify the sound the letters in red make.
-|   smell  |     | shed    |     | tell  |     | head  |     | den  |
-| -------- | --- | ------- | --- | ----- | --- | ----- | --- | ---- |
-|   left   |     | sense   |     | then  |     | set   |     | pet  |
-English Grade 4  21
-
-Speaking
-A.  Act out the conversations.
-| Q  :   | Whose …………………….is this?                                |     |     |                          |
-| ------ | ------------------------------------------------------ | --- | --- | ------------------------ |
-| A  :   | This is my ........  It’s mine, not hers. It’s theirs. |     |     |                          |
-| 22     |                                                        |     |     |          English Grade 4 |
-
-B. Work in pairs. Talk to your friend as in the example.
-Example:
-A: Whose books are they?
-B: They are not mine.
-A: We found these books on your table.
-a. A: …………….mobile is this?
-B: This is not .................... This is also……..
-A: I found it…………………………….
-b. A: …………….pens are these?
-B: These are………… These are also……......
-A: I found……………………..
-Grammar II
-A. Study the examples.
-a. I am making a phone call.
-b. He is drinking a cup of tea.
-c. I bought a bag yesterday. It was very expensive.
-d. You are shaking my hand.
-e. We are having breakfast.
-f. She is dancing.
-g. Jane likes him.
-h. Mark saw us in school yesterday.
-i. David gave me a present.
-English Grade 4 23
-
-| j.  | Look! They are laughing. She is telling them a joke.  |     |     |     |     |
-| --- | ----------------------------------------------------- | --- | --- | --- | --- |
-| k.  | I am waiting for you. Please be quick!                |     |     |     |     |
-B.  Did you notice the words in red in the sentences from 'A' above?
-Find and underline the similar words in the text below.
-  Hello, my name is Lisa and I live near London. His name is
-John. He is very cool. My mother's name is Sharon. She is
-very beautiful. I have a little brother. His name is Mike and he
-is cute. We love playing in our garden. I have many friends at
-school. They are Shelly, Kate and Debby. My mother takes
-me to school in our car. It's grey. Can you tell me something
-about you?
-C.  Now, complete the sentences with the words given below.
-You can repeat some of them.
-|   I  | it  them                                             | she  | they  | him  we  | us  |
-| ---- | ---------------------------------------------------- | ---- | ----- | -------- | --- |
-| a.   | Look at the blue dress. …………. is beautiful.          |      |       |          |     |
-| b.   | My sister is coming to see me tonight. ………. will be  |      |       |          |     |
-here at 7:00 p.m.
-| c.  | My name is Andrew.  ………am your English teacher.      |     |     |     |     |
-| --- | ---------------------------------------------------- | --- | --- | --- | --- |
-| d.  | Jane’s parents can’t come to the party. ………. are in  |     |     |     |     |
-New York.
-| e.  | I am Mark and this is my wife, Jane. ………are your  |     |     |     |     |
-| --- | ------------------------------------------------- | --- | --- | --- | --- |
-neighbours.
-f.  We  are  going  to  the  cinema.  Do  you  want  to  come
-with……..?
-| 24     |     |     |     |          English Grade 4 |     |
-| ------ | --- | --- | --- | ------------------------ | --- |
-
-g. This is Mark’s telephone number. Call……… if you need
-any help.
-h. The neighbours are making a lot of noise. I am going to
-ask ……..to stop.
-Writing II
-A. Fix the mistakes in the following sentences. Each sentence
-has one mistake.
-Example:
-How old are you.
-How old are you?
-a. This is Mr. Wilson
-b. The book is yellow’
-c. i am twelve years old.
-d. My baby sister is very cute?
-e. What do you eat.
-f. his mother cooks dinner.
-B. You visited your best friend yesterday. You saw many
-playthings in his/her house. Now, write a message to
-another friend about the playthings you saw. Include these
-in your message.
-a. What playthings were there?
-b. Who did they belong to?
-c. Do you have any of them at your home?
-English Grade 4 25
-
-Do it by yourself.
-Visit two of your close friends and make a list of things they
-have at their home. Use the given table.
-| Name   | What does she/he have? |     | How did she/he get it? |                          |
-| ------ | ---------------------- | --- | ---------------------- | ------------------------ |
-| Nita   | laptop                 |     | a birthday gift        |                          |
-| 26     |                        |     |                        |          English Grade 4 |
-
-Unit
-33
-Rules and Timetables
-Getting started
-A. Look at the pictures. Ask and answer questions about
-the items below.
-B. Listen and sing.
-Here are rules for you and me,
-See how important they can be.
-Always be honest, be kind and fair,
-Always be good and willing to share.
-These are rules that we should know,
-And follow these rules wherever we go.
-English Grade 4 27
-
-Now, discuss the following questions.
-a.   Do you follow such rules at your school? Why?
-b.   What other rules do we have to follow in our life?
-Reading I
-Discuss the following questions.
-a.   Do you have your school timetable?
-b.   What does the school timetable show? Why is it important?
-Kevin's School Timetable
-Lakeview School, London
-|     | Student’s Name:  Kevin |     |     | Class: 4B |     |
-| --- | ---------------------- | --- | --- | --------- | --- |
-8:30-9:00       Registration and Assembly
-|            | Monday  | Tuesday | Wednesday | Thursday | Friday  |
-| ---------- | ------- | ------- | --------- | -------- | ------- |
-| 9:00-10:30 | English | Maths   | History   | English  | Science |
-10:30-11:30
-|             | Maths | IT  | Science | Maths | English |
-| ----------- | ----- | --- | ------- | ----- | ------- |
-| 11:30-12:00 |       |     | Break   |       |         |
-Physical
-| 12:00-1:00 | Geography | Music |     | Drama | Arts |
-| ---------- | --------- | ----- | --- | ----- | ---- |
-Education
-| 1:00-2:00 |     |     | Lunch Break |     |     |
-| --------- | --- | --- | ----------- | --- | --- |
-Physical
-| 2:00-3:00 | Citizenship |     | Geography | IT  | History |
-| --------- | ----------- | --- | --------- | --- | ------- |
-Education
-After school
-|        | Football |     | Piano |                           | Swimming |
-| ------ | -------- | --- | ----- | ------------------------- | -------- |
-| 28     |          |     |       |          English Grade  4 |          |
-
-A. Complete the sentences with the correct words.
-registration break assembly History Geography
-a. Our school has a five-minute ......... after the second
-period.
-b. We use a globe in our ...................... class.
-c. There will be an .................... before class starts.
-d. Do you have a ......................... card?
-e. We are reading about the .................... of ancient Nepali
-society.
-B. Answer the questions.
-a. What class is Kevin in?
-b. What lessons does he have on Tuesday?
-c. Does he have any lessons on Sunday?
-d. How long is the lunch break?
-e. What day is the Piano class on?
-C. Read the timetable again. Write True or False in the boxes.
-a. Kevin doesn't go to school on Saturday.
-b. The school starts every day at 8:00 a.m.
-c. Kevin has classes twice a week after school.
-d. He has a Citizenship class once a week.
-English Grade 4 29
-
-D. Design your school timetable on chart paper. Make it as
-attractive as you can. You can use different fonts, formats,
-pictures and colours.
-Pronunciation I
-Pronounce these words. What sound do the red letters make?
-monday cut but jump cover luck
-duck come love fun mother cup
-Writing I
-Compare the timetable of your school with Kevin's and write
-a paragraph about your timetable. You can answer these
-questions in your paragraph.
-What class are you in? When does your school start and close?
-What and how many subjects do you have? What are your favourite
-subjects? Which subjects are you good at? Do you have assembly
-and breaks? Do you have extra classes after school? What is your
-favourite day? Why?
-Grammar I
-A. Study this short text. Underline the sentences with always,
-usually, often, sometimes and never.
-Hi, my name is John. This is how I usually
-spend my morning. My day usually starts quite
-early. I always get up at 5:30 a.m. I usually wear
-casual clothes, mainly jeans, shorts, T-shirts and
-trainers. We have breakfast at 7:30 a.m. and I
-often set the table. I always have breakfast with
-my mother and my little brother, Tommy. My
-dad never has breakfast with us on weekdays. I usually have
-a bowl of cornflakes with hot milk. Before I go to school, I
-30 English Grade 4
-
-sometimes have to walk our dog, Leo. I read a book or surf
-the internet for a while. I usually walk to school because
-I don’t live very far away. I never watch TV in the morning.
-B. Rearrange the words to make meaningful sentences.
-a. We/swimming/sometimes/go/at the weekends.
-b. I/late/am/never/for school.
-c. usually/makes/My mother/my bed.
-d. Bikash/often/late/is/for school.
-e. drinks/Reeta/coffee/never/in the evening.
-f. usually/helps/Pratik/his friends with homework.
-g. My grandfather/goes/always/for a walk/in the evening.
-h. go to/They/often/the movies/on Saturdays.
-i. about/complains/She/always/her son.
-C. Write sentences about something that:
-a. You always do.
-b. You usually do.
-c. You often don't do.
-d. You sometimes do.
-e. You never do.
-Listening
-A. Look at the picture and answer the questions.
-a. Where do you think they are?
-b. What are the things we can
-do there?
-English Grade 4 31
-
-B. Listen to the audio and write True or False.
-a. The library closes at six o'clock every day.
-b. The library opens even on Sunday.
-c. The library hours on Saturdays are 9 a.m. to 6 p.m.
-d. The caller doesn't have any more questions to ask.
-C. Have you ever visited a public library? What did you see
-there? Talk to your friends.
-Reading II
-Look at the pictures and answer the questions.
-a. Where do you see these signs?
-b. What do these signs mean?
-Library Rules
-Shree Janata Secondary School Library
-(A Hub for Knowledge)
-OPENING HOURS
-SUNDAY TO THURSDAY 09:00 AM. - 4:00 PM.
-FRIDAY 09:00 AM. - 3:00 PM.
-SATURDAY CLOSED
-LIBRARY RULES
-All students must have a valid library card.
-Computers are for school work only.
-32 English Grade 4
-
-You can’t eat food in the library.
-No running or shouting in the library.
-Mobile phones must be turned off.
-Students can borrow two books at a time.
-Take care of the books. Return them on time.
-A. Fill in the blanks with the correct words from the text above.
-a. The above text shows the ................. rules of a school.
-b. The library opens for ........days a week.
-c. The library is .................. on Saturdays.
-d. Students can take away......... books at a time.
-e. Students must ................... care of the books.
-B. Are these statements True or False? Write True or False
-in the boxes.
-a. You can use the library computers for personal
-reasons.
-b. You cannot eat anything in the library.
-c. You need an identity card to use the library.
-d. The library is open till 4. p.m. on Fridays.
-e. You can't use your mobile phones inside the library.
-C. What are the rules for your school library? Complete the
-table.
-Things you are allowed to do Things you are not allowed to do
-English Grade 4 33
-
-Pronunciation II
-Pronounce these words. What sounds do the red letters make?
-book       good       could       look       cook        foot       sugar
-food        shoot      blue         moon  soon        you       who
-Writing II
-A.   Put a question mark (?) or a full stop (.).
-| a.   | Where do you live                  |     |     |     |
-| ---- | ---------------------------------- | --- | --- | --- |
-| b.   | Yes, I can play the Madal          |     |     |     |
-| c.   | Do you like rice pudding           |     |     |     |
-| d.   | What is your favourite food        |     |     |     |
-| e.   | It is Meena's birthday today       |     |     |     |
-| f.   | How do you travel to school        |     |     |     |
-| g.   | When do you get up in the morning  |     |     |     |
-| h.   | I exercise everyday                |     |     |     |
-| i.   | Can you jump over the wall         |     |     |     |
-| j.   | Are we going swimming this evening |     |     |     |
-B.   Work in groups of five. Discuss the rules and regulations
-you have to follow in your classroom. Talk about what
-you can and can't do in the classroom. Prepare rules for
-your class.
-Speaking
-A.   Act out the conversation.
-| Librarian  | :   Good morning, how can I help? |     |     |     |
-| ---------- | --------------------------------- | --- | --- | --- |
-Student  :   Good morning sir. How much do I have to pay for
-joining the library?
-| 34     |     |     |     |          English Grade  4 |
-| ------ | --- | --- | --- | ------------------------- |
-
-Librarian : No fee. It’s free to join.
-Student : Does the library open at weekends?
-Librarian : We’re open on Saturday mornings, but not on Sunday.
-Student : What time does the library close in the evening?
-Librarian : Every evening at seven.
-Student : How many books can I borrow at a time?
-Librarian : You can borrow five books.
-Student : How long can I keep them?
-Librarian : For four weeks.
-Student : Ok, thank you very much for your help.
-Now, list out the questions used in the conversation.
-B. Look at a page of a calendar. Ask and answer the following
-questions in pairs.
-English Grade 4 35
-
-| a.   | Which Nepali year of Bikram Sambat is shown in the  |     |     |     |
-| ---- | --------------------------------------------------- | --- | --- | --- |
-calendar?
-| b.   | How many days are there in the month?     |     |     |     |
-| ---- | ----------------------------------------- | --- | --- | --- |
-| c.   | What day of the week is Mangsir 6?        |     |     |     |
-| d.   | How many Fridays are there in the month?  |     |     |     |
-| e.   | How many weekends are there in the month? |     |     |     |
-| f.   | What is the English date for Mangsir 27?  |     |     |     |
-| g.   | Is Mangsir 1 a holiday?                   |     |     |     |
-Now, practise asking as many similar questions as possible
-about the English months shown in the calendar.
-Grammar II
-A.  Complete the sentences with correct question words from
-the brackets.
-| a.   | ........... are you going to Pokhara? (Who/What/When) |     |     |     |
-| ---- | ----------------------------------------------------- | --- | --- | --- |
-| b.   | ........... have you parked your bicycle?             |     |     |     |
-(What/Where/Which)
-| c.   | ............ do you look so happy? (Which/Why/What)   |     |     |     |
-| ---- | ----------------------------------------------------- | --- | --- | --- |
-| d.   | ........... is the colour of your new mobile? (Whose/ |     |     |     |
-What/Where)
-| e.   | ........... is the girl in red dress? (What/Who/Which) |     |     |     |
-| ---- | ------------------------------------------------------ | --- | --- | --- |
-| f.   | ........... old is she? (How/When/What)                |     |     |     |
-| g.   | ........... aren't you going to Anu's birthday party?  |     |     |     |
-(What/Where/Why)
-| h.   | ........... is your birthday? (What/When/Where) |     |     |     |
-| ---- | ----------------------------------------------- | --- | --- | --- |
-i.   ........... do you want to eat for lunch? (What/Who/Whose)
-| j.     | ........... book is yours? (Why/Where/Which) |     |     |                           |
-| ------ | -------------------------------------------- | --- | --- | ------------------------- |
-| 36     |                                              |     |     |          English Grade  4 |
-
-B. Make questions for the underlined words in the given
-sentences. The question words are in the brackets.
-Example:
-The baby is six month old. How old is the baby?
-a. Robert always goes to bed at nine o'clock. (What time)
-b. Tom went to the zoo last Saturday. (Where)
-c. They are watching a film on TV. (What)
-d. My sister is reading a drama now. (Who)
-e. She likes to have dinner at a restaurant. (Where)
-f. She is wearing a blue dress now. (What)
-g. The first bus arrives at 7:00 a.m. (When)
-Do it by yourself.
-Collect different types of English and Nepali calendars. Design
-a page of a calendar for an English month.
-English Grade 4 37
-
-Unit
-44
-Requests
-Getting started
-A. Look at the pictures. What do you think you say in the
-situations?
-B. Listen and sing.
-Have you got a pencil?
-Turn to page one
-Quiet, please, children
-The class has just begun.
-Can I have a pencil, please?
-Can I have a pencil, please?
-Yes, here you are.
-Have you got some scissors?
-Turn to page two
-Quiet, please, children
-Have you got some glue?
-38 English Grade 4 English Grade 4 39
-
-Find and write the rhyming words from the song.
-Reading I
-Answer these questions.
-a. Have you heard about an email? What is it for?
-b. Which one is faster, an email or a letter by post?
-An Email for a Request
-To nitish@gmail.com Cc Bcc
-Basketball Practice Session
-Hi Nitish,
-I hope you are enjoying the vacation. I am writing this email to
-inform you that there will be a basketball practice session from
-Sunday next week. It starts at 2:00 p.m. and finishes at 4:30 p.m.
-The game will be at the school basketball court. Please be there on
-time. Will you bring your ball so that our team can practise more?
-The school provides only one ball. If we have our own ball, we can
-practise even in the break.
-Mr. Suraj Chhetri is our new coach. He will train us till the
-interschool basketball competition to be held in November. Can
-you please inform Dipesh? Please ask him to bring some water
-bottles for our team. That would be great!
-Hope to see you soon.
-Thanks
-Samyak
-38 English Grade 4 English Grade 4 39
-
-A.   Read the email and complete the sentences.
-| a.   This is an email written to ............ . |     |     |     |     |     |
-| ----------------------------------------------- | --- | --- | --- | --- | --- |
-b.   This informs about the ................. practice session.
-| c.   The new coach is ...................  |     |     |     |     |     |
-| ------------------------------------------ | --- | --- | --- | --- | --- |
-B.   Answer these questions.
-| a.   Who is the sender of this email?                 |     |     |     |     |     |
-| ----------------------------------------------------- | --- | --- | --- | --- | --- |
-| b.   Why has he written the email?                    |     |     |     |     |     |
-| c.   When does the basketball practice session begin? |     |     |     |     |     |
-| d.   What does Samyak ask Nitish to bring with him?   |     |     |     |     |     |
-| e.   What event is going to be held in November?      |     |     |     |     |     |
-C.   Do you know the different parts of an email or a letter? Your
-teacher will tell you about them.
-address
-salutation
-body
-closing sentence
-signature
-Pronunciation I
-Pronounce these words. Notice the sound the letters in red
-make.
-|   break  | brake  | great   | eight  | lay   | bake       |
-| -------- | ------ | ------- | ------ | ----- | ---------- |
-|   rain   | pain   | weight  | train  | main  | face       |
-40                          English Grade 4 English Grade 4  41
-
-Writing I
-Read the email to Nitish again. Write a reply to him.
-Grammar I
-A. Study the following text.
-Our school is in a village. It is big with 25 rooms. It has a playground
-but it hasn’t got a swimming pool. We play football and volleyball
-but we don’t play cricket. We can’t play cricket because there is no
-cricket pitch. Our teachers haven’t got cars. So, they usually come
-to the office on bikes.
-B. Make as many negative sentences as possible from the
-table below.
-isn't know what the capital city of Japan is.
-I
-aren't be at home at this time.
-We
-don't/doesn't rain tomorrow.
-You
-can't like riding bumper cars.
-He
-won't go to the cinema last week.
-She
-didn't finished working on the project.
-It
-haven't/hasn't studying for the test.
-They
-wasn't/weren't waiting for the reply.
-C. Change the following sentences into negative sentences.
-a. I play football on Tuesday and Thursday.
-b. The rooms are tidy.
-c. He has got a bike.
-d. Hari can swim under water for two minutes.
-40 English Grade 4 English Grade 4 41
-
-e. They will complete the race.
-f. He likes playing games.
-g. The students are going for a picnic next week.
-h. He is working hard.
-i. They went to the cinema yesterday.
-j. The students have got a lot of homework.
-Listening
-A. Look at the picture and answer these questions.
-a. Who do you think they are?
-b. What do you think they are
-talking about?
-B. Listen to the audio and tick (√) for what the boy can do
-and cross (X) for what he can't.
-a. can borrow a pen now
-b. can borrow a pen later
-c. can read the magazine
-d. can use the phone
-e. can listen to music on the radio
-C. How do you make requests in your own language? Discuss.
-42 English Grade 4 English Grade 4 43
-
-Speaking
-A. Act out the following requests and responses.
-Open the door,
-Can you hold this
-please.
-I’m sorry. I am
-for me, please?
-reading at the
-Yes, just a moment.
-moment.
-Will you pass
-Yes,
-me the salt
-Will you take
-sure.
-please?
-a deep breath
-please?
-Yes, of
-course.
-Can I pour you
-some tea? Yes
-please.
-42 English Grade 4 English Grade 4 43
-
-B. Work in pairs. Take turns to request and respond as in the
-example.
-Example:
-get me a biscuit
-A: Can you get me a biscuit please?
-B: Yes, of course./Sorry, I'm busy with my homework.
-tidy my room find my pencil
-pass me the dictionary get me a biscuit
-bring some vegetables lend me a pen
-turn the radio off iron the clothes
-stop talking turn the music down
-Reading II
-Look at the following pictures and answer these questions.
-a. What do you see in the pictures?
-b. What do you think the story is about?
-A Clever Fox in the Forest
-Once in a forest, a fox was very hungry. He was looking for food,
-but he couldn't find anything to eat. When he was walking here
-and there, he saw something. It was a piece of cheese - nice,
-yellow cheese. The fox loved cheese.
-He ran to get it, but then he saw a bird - a big, black bird. It was a
-crow. The crow liked the cheese, too. The big, black crow landed
-next to the cheese, picked it up in her beak and flew up into a tree.
-44 English Grade 4 English Grade 4 45
-
-| The  fox  | wasn't    | happy.        | He  | was  | still  |     |
-| --------- | --------- | ------------- | --- | ---- | ------ | --- |
-| hungry,   | but  now  | he  couldn't  |     | eat  | the    |     |
-piece of cheese. He could only see it.
-It was in the crow's beak and the crow
-was sitting on a branch in the tree.
-| 'I  really  | want  | that  piece  | of  | cheese,’  |     |     |
-| ----------- | ----- | ------------ | --- | --------- | --- | --- |
-thought the fox. 'But how can I get it? I
-can't climb the trees. And the crow can fly away.'
-The fox was very clever and he had
-an idea. He walked to the tree and he
-looked up. The crow was sitting on a
-branch. She was holding the piece
-of cheese in her beak. She saw the
-fox, but she didn't say anything. She
-|     |     |     | couldn't  |     | speak  because  | she  was  |
-| --- | --- | --- | --------- | --- | --------------- | --------- |
-holding the piece of cheese in her beak.
-'Isn't it a lovely day?' says the fox. 'The sun is shining. The birds
-are singing.'
-The crow didn't say anything.
-| 'But  you  | aren't       | singing',  | says    | the  | fox.  |     |
-| ---------- | ------------ | ---------- | ------- | ---- | ----- | --- |
-| 'Why       | aren't  you  | singing    | today,  |      | Mrs.  |     |
-Crow? Everyone says that you've got a
-beautiful voice.'
-The fox says, 'Please sing for me, Mrs.
-Crow. I want to hear your beautiful voice.'
-The crow wanted to sing. She wanted to
-have a beautiful voice.
-'Please, sing your beautiful song for me,' said the fox again.
-She opened her beak and says: 'Caw, caw.'
-44                          English Grade 4 English Grade 4  45
-
-But the fox wasn't listening to her. When she opened her beak,
-the piece of cheese fell down. It landed in front of the fox. He
-looked at the cheese. The crow also looked at the cheese.
-'Thank you', said the fox. Then he picked up the piece of cheese
-- the nice, yellow cheese. He ate it and went away.
-A. Use the clues below to fill in the crossword puzzle with
-the correct words. The words are from the story.
-Down
-1. very beautiful 1
-L
-3. quick to understand
-2 V 3 C
-Across
-4
-P
-2. sound 5
-B
-4. a small part of an object
-5. a bird's horny projecting jaws 6
-H
-6. feeling or showing the need for food
-B. Put the events from the story in the correct order.
-a. The cheese fell.
-b. The fox said that the crow had got a beautiful voice.
-c. She flew up into a tree.
-d. The fox ate the piece of cheese.
-e. The crow picked up the piece of cheese.
-f. The crow opened her beak to sing.
-C. Retell the story in your own words. This time, the fox is
-female and the crow is male.
-46 English Grade 4 English Grade 4 47
-
-Pronunciation II
-Pronounce these words. Notice what sound the red letters
-make.
-fox on pot top dog
-hospital hot sock boss watch
-Writing II
-A. Put a question mark (?) or a full stop (.) wherever necessary.
-Yes, how
-Hello, are you can i help
-from the animal you?
-rescue office?
-Please help me! There
-is a strange animal near
-my house It is striped It’s
-roaring Does it bite It has
-long nails What shall I do
-B. The following is a story. Use the simple past form of the
-verbs in the brackets to complete the story.
-There was (is) a fierce lion in a forest. One day, he was walking
-through the forest when ....(step) on a thorn. He hurt himself a
-lot and ....... (cry) in pain. He limped along the forest when he
-....(see) a shepherd. He .... (go) to the shepherd. The shepherd
-...(see) that the lion was limping. He .... (examine) his paw. He
-......(find) the thorn and ........... (pull) it out. The lion .....(wag)
-his tail to thank him. Some people ...(do) not like the shepherd.
-46 English Grade 4 English Grade 4 47
-
-They .... (say) that he ....(is) a thief. One day, the shepherd was
-looking after his sheep when the king's soldiers .......(come) to
-arrest him. They ....(take) him to the king. The king ......(order)
-them to throw the shepherd into a lion's cage. The lion ....(roar)
-loudly seeing the man, but when it ...(come) to him, he, at
-once .......(recognize) the shepherd. He .....(is) the same lion the
-shepherd had helped in the forest. When the king ...... (know)
-why the lion would not kill the shepherd, he ....(give) orders to
-free both of them.
-Grammar II
-A. Study these sentences.
-a. There was a school concert yesterday evening. The
-concert was fun.
-b. There were many people. They were happy.
-c. Deepa was not at the concert. She was at home. She
-was sick.
-d. Was there a singer? Yes, there was.
-e. Were there any Madals? No, there weren't.
-B. Make as many sentences as possible from the following table.
-I
-Rojina was
-He wasn't on holiday yesterday.
-It ill last Saturday.
-We were at home last week.
-You here
-They weren't
-My parents
-48 English Grade 4 English Grade 4 49
-
-C. Complete the sentences with was, were, wasn't or weren't.
-a. Ravi ..... at school yesterday. He ..... at the movies.
-b. ...... it sunny yesterday? No, it ........ It .......... cloudy.
-c. ...... they at the library yesterday? No, they ............
-d. .......... there a volleyball match yesterday? Yes, it
-.........
-e. Rama wasn’t at the library yesterday. She .... at home.
-f. ........... Milan sad yesterday? No, he ......
-D. Complete the story with was, were, wasn't or weren't.
-A long time ago, there was a castle in a village. The castle .......
-small but beautiful. A pretty girl lived in the castle. Anne ........ her
-name. She ......... the princess. There ......... any other children in the
-castle. She didn’t have any friends. She .......... a happy princess.
-She cried every day. One day, a boy came to the castle. His name
-..... John. He had many animals. They ...... good animals. Princess
-Anne and John played with the animals in the garden. She ..... sad
-anymore. They ......... happy together.
-Do it by yourself.
-Ask your parents to tell you a short story. Write it down in
-English to share with your class.
-48 English Grade 4 English Grade 4 49
-
-Unit
-55
-Talking About Quantity
-Getting started
-A. Study the pictures below and ask and answer about them.
-Example:
-Q: How many books are there?
-A: There are many books.
-25 kg
-Milk 1 litre
-B. Listen and sing.
-How many fingers on one hand?
-How many fingers on one hand?
-Let's all count together.
-One, two, three, four, five.
-How many fingers on two hands?
-How many fingers on two hands?
-One, two, three, four, five.
-Six, seven, eight, nine, ten.
-50 English Grade 4
-Milk 1 litre
-
-Now, take turns to ask and answer questions. You can talk about
-anything you have more than one of.
-Reading I
-Look at the pictures and answer the questions.
-a. Where do you think these people are?
-b. Who do you think they are?
-c. What does the woman want to buy?
-At a Shop
-Shopkeeper : Good afternoon, madam! What can I do for
-you?
-Woman : Good afternoon! I'd like to look at some shirts.
-Shopkeeper : Cottons or synthetics, madam?
-Woman : Cottons, if you have some.
-Shopkeeper : Sure, madam. We have an excellent range of shirts
-in cottons. These striped ones are new arrivals.
-Woman : I like those blue ones with red stripes. Could you
-take them out, please?
-English Grade 4 51
-
-| Shopkeeper :   | What's the collar-size, madam?  |                |      |     |
-| -------------- | ------------------------------- | -------------- | ---- | --- |
-| Woman          | :   Fifteen.                    |                |      |     |
-| Shopkeeper :   | Fifteen? Are you sure, madam?   |                |      |     |
-| Woman          | :   Yes. I'm sure.              |                |      |     |
-| Shopkeeper :   | Here you are, madam.            |                |      |     |
-| Woman          | :   How much is it?             |                |      |     |
-| Shopkeeper	:		 | It's	                           | five	 hundred	 | and	 |     |
-fifty	rupees.	Would	you
-like to try it on?
-| Woman  | :   Try  | it  on?  No.  | Could  |     |
-| ------ | -------- | ------------- | ------ | --- |
-you gift-wrap it? It's a
-|     | gift  | to  my  son  | on  his  |     |
-| --- | ----- | ------------ | -------- | --- |
-birthday!
-Shopkeeper :   I see! (Later) Here it is! I've stuck a little card say-
-ing 'Happy Birthday!'
-| Woman       | :   That's very kind of you, young man. Bye!  |     |     |                          |
-| ----------- | --------------------------------------------- | --- | --- | ------------------------ |
-| Shopkeeper  | :   Good-bye, madam! Call again.              |     |     |                          |
-| 52          |                                               |     |     |          English Grade 4 |
-
-A. Complete the following sentences with these words.
-range stripes collar gift-wrap stuck call
-a. My T-shirt has red ……….. on it.
-b. The price of the book has been ……….. on its cover.
-c. The part around the neck of a shirt is called a ………..
-d. The store has a ………... of T-shirts. You will find your
-choice there.
-e. Please, ……….. the watch. I am gifting it to my father
-on his birthday.
-f. The shopkeeper told the woman to ……….. him again.
-B. Answer the questions.
-a. What time of the day did the woman visit the shop?
-b. What type of shirts did the woman like?
-c. What is the price of the shirt?
-d. Why didn't the woman try on the shirt?
-C. Play the role of the shopkeeper and the woman. Act out
-the conversation.
-Pronunciation I
-Pronounce these words. Notice what sound the letters in red make.
-shirts birthday third curd earth
-curd hurt girl worth bird
-English Grade 4 53
-
-Writing I
-Suppose, you are going to market this evening. Make a list of
-the things you wish to buy.
-|     |      | My Shopping List |     |     |     |
-| --- | ---- | ---------------- | --- | --- | --- |
-1.  Ball point pen                       2 pieces
-2.  Sugar                                    1 kilogram
-3.  ...
-4.  ...
-5.  .....
 Grammar I
 A.  Study the following examples.
-| a.  | How much money did the woman pay for the shirt?  |     |     |     |     |
-| --- | ------------------------------------------------ | --- | --- | --- | --- |
-| b.  | How many shirts did the woman buy?               |     |     |     |     |
-| c.  | How many books do you have?                      |     |     |     |     |
-| d.  | How much time do you spend on writing in a week? |     |     |     |     |
-| e.  | How much  water do you drink in a day?           |     |     |     |     |
+| a.  | How much money did the woman pay for the shirt?  | | | | |
+| b.  | How many shirts did the woman buy? | | | | |
+| c.  | How many books do you have? | | | | |
+| d.  | How much time do you spend on writing in a week? | | | | |
+| e.  | How much  water do you drink in a day? | | | | |
 B.  Choose the best option and complete the questions.
-| a.  ….. languages do you speak?       |     |     | How much  |                          | How many |
-| ------------------------------------- | --- | --- | --------- | ------------------------ | -------- |
-| b.  ….. days are there in a week?     |     |     | How much  |                          | How many |
-| c.  ..... English words do you know?  |     |     | How much  |                          | How many |
-| d.  …  pets do you have?              |     |     | How much  |                          | How many |
-| 54                                    |     |     |           |          English Grade 4 |          |
-
+| a.  ….. languages do you speak? | | | How much  | | How many |
+| b.  ….. days are there in a week? | | | How much  | | How many |
+| c.  ..... English words do you know?  | | | How much  | | How many |
+| d.  …  pets do you have? | | | How much  | | How many |
+| 54 | | | | English Grade 4 | |
 e. ..... do you love me? How much How many
 f. …. coffee do you drink? How much How many
 C. Put the following words in the correct column.
@@ -1590,33 +68,30 @@ f. The waiters in this restaurant are smart. ………………..
 g. Some police officers are at the corner. ……………..
 h. I bought three bottles of water. ..................
 English Grade 4 55
-
 E.  List the countable nouns from the above examples.
-  Children, ……………………………………………………....
-  The word ‘children’ is countable and it is plural. The singular
+Children, ……………………………………………………....
+The word ‘children’ is countable and it is plural. The singular
 form is child.
-  Now, write the singular forms of the above words.
-  Child ..............................................................
+Now, write the singular forms of the above words.
+Child ..............................................................
 F.  Write either the singular or the plural form for the follow-
 ing nouns.
-| Singular | Plural   |     | Singular | Plural                   |
-| -------- | -------- | --- | -------- | ------------------------ |
-| driver   | ……………….. |     | dress    | ………………..                 |
-| ……………….. | dishes   |     | banana   | ………………..                 |
-| watch    | ……………….. |     | mirror   | ………………..                 |
-| house    | ……………….. |     | egg      | ………………..                 |
-| ……………….. | oxen     |     | cow      | ………………..                 |
-| ……………….. | buses    |     | tree     | …………….                   |
-| window   | ……………….. |     | sofa     | ……………..                  |
-| ……………….. | branches |     | star     | ………………                   |
-| sparrow  | ……………….. |     | …………….   | knives                   |
-| ……………….. | thieves  |     | wife     | …………….                   |
-| ……………….. | toys     |     | ……………..  | countries                |
-| kite     | ……………….. |     | baby     | …………….                   |
-| family   | ……………….. |     | man      | …………….                   |
-| ……………….. | teeth    |     | ……………..  | geese                    |
-| 56       |          |     |          |          English Grade 4 |
-
+| Singular | Plural | | Singular | Plural |
+| driver | ……………….. | | dress | ……………….. |
+| ……………….. | dishes | | banana | ……………….. |
+| watch | ……………….. | | mirror | ……………….. |
+| house | ……………….. | | egg | ……………….. |
+| ……………….. | oxen | | cow | ……………….. |
+| ……………….. | buses | | tree | ……………. |
+| window | ……………….. | | sofa | …………….. |
+| ……………….. | branches | | star | ……………… |
+| sparrow  | ……………….. | | ……………. | knives |
+| ……………….. | thieves  | | wife | ……………. |
+| ……………….. | toys | | ……………..  | countries |
+| kite | ……………….. | | baby | ……………. |
+| family | ……………….. | | man | ……………. |
+| ……………….. | teeth | | ……………..  | geese |
+| 56 | | | | English Grade 4 |
 Listening
 A. Look at the picture and answer the questions.
 a. Who do you think these people are?
@@ -1637,7 +112,6 @@ Look at the pictures below and answer the questions.
 a. What animals do you see?
 b. What is the man doing in the second picture?
 English Grade 4 57
-
 The Lost Donkey
 Once there was a very funny man. His name was Jeha. He had
 five big donkeys. He didn’t want any more donkeys because his
@@ -1668,7 +142,6 @@ answered.
 His friends looked at him. One of them said,“But Jeha, how can
 you say that you are happy when you have lost a donkey?”
 58 English Grade 4
-
 A second friend told him, “Jeha, don’t
 be funny. No one is happy if he loses
 his donkey. Why are you hiding that
@@ -1695,36 +168,29 @@ i. Did you like this ………….?
 B. Answer the following questions.
 a. What type of man was Jeha?
 English Grade 4 59
-
-| b.  | How many donkeys did he have?                |     |     |     |     |
-| --- | -------------------------------------------- | --- | --- | --- | --- |
-| c.  | Did he want to sell any of his donkeys? Why? |     |     |     |     |
-| d.  | Where did he take his donkeys one day?       |     |     |     |     |
-| e.  | What did the donkeys do in the field?        |     |     |     |     |
-| f.  | How many donkeys did Jeha lose?              |     |     |     |     |
-| g.  | Who came to Jeha’s party?                    |     |     |     |     |
-| h.  | Why was he not sad about losing a donkey?    |     |     |     |     |
+| b.  | How many donkeys did he have? | | | | |
+| c.  | Did he want to sell any of his donkeys? Why? | | | | |
+| d.  | Where did he take his donkeys one day? | | | | |
+| e.  | What did the donkeys do in the field? | | | | |
+| f.  | How many donkeys did Jeha lose? | | | | |
+| g.  | Who came to Jeha’s party? | | | | |
+| h.  | Why was he not sad about losing a donkey? | | | | |
 C.  Retell this story to your brother/sister in your own words.
 Pronunciation II
 Pronounce these words. Notice what sounds the letters in red make.
-| desks  |     | dogs     |     | benches    |     |
-| ------ | --- | -------- | --- | ---------- | --- |
-| cats   |     | pens     |     | classes    |     |
-| caps   |     | fingers  |     | gases      |     |
-| kites  |     | hands    |     | watches    |     |
+| desks  | | dogs | | benches | |
+| cats | | pens | | classes | |
+| caps | | fingers  | | gases | |
+| kites  | | hands | | watches | |
 Speaking
 A.  Work in pairs. Ask and answer these questions.
-| a.  | How many members are there in your family?              |     |     |     |     |
-| --- | ------------------------------------------------------- | --- | --- | --- | --- |
-| b.  | How many animals are there in the nearest three houses  |     |     |     |     |
+| a.  | How many members are there in your family? | | | | |
+| b.  | How many animals are there in the nearest three houses  | | | | |
 to you?
-| c.  | How much water do you drink a day?                  |     |     |     |     |
-| --- | --------------------------------------------------- | --- | --- | --- | --- |
-| d.  | How much time does it take to reach your home from  |     |     |     |     |
+| c.  | How much water do you drink a day? | | | | |
+| d.  | How much time does it take to reach your home from  | | | | |
 school?
-| 60     |     |     |     |          English Grade 4 |     |
-| ------ | --- | --- | --- | ------------------------ | --- |
-
+| 60 | | | | English Grade 4 | |
 B. Act out the following conversations in pairs.
 A: How many books do you have?
 B: I have three books.
@@ -1749,35 +215,30 @@ h. I have one and a half litres of milk.
 i. She needs an hour to finish her homework.
 j. I invited more than thirty friends to my party.
 English Grade 4 61
-
 Grammar II
 A.  These sentences are from the story ‘The Lost Donkey’.
 Complete these sentences.
-| a.  | Once there was …………………….                          |     |     |     |
-| --- | ------------------------------------------------- | --- | --- | --- |
-| b.  | Jeha took his donkeys to ………………. in the country.  |     |     |     |
-| c.  | Jeha slept for ………………on the grass.                |     |     |     |
-| d.  | Why did you have ……………… for us today?             |     |     |     |
-| e.  | They knew that Jeha was ……………………..                |     |     |     |
+| a.  | Once there was ……………………. | | | |
+| b.  | Jeha took his donkeys to ………………. in the country.  | | | |
+| c.  | Jeha slept for ………………on the grass. | | | |
+| d.  | Why did you have ……………… for us today? | | | |
+| e.  | They knew that Jeha was …………………….. | | | |
 B.  Look at these sentences too.
-| a.  | I saw a tiger at the zoo.    |     |     |     |
-| --- | ---------------------------- | --- | --- | --- |
-| b.  | Could you give me a book?    |     |     |     |
-| c.  | Please give me an ice-cream. |     |     |     |
-| d.  | He has a mango in his hand.  |     |     |     |
-| e.  | There’s an old house.        |     |     |     |
-| f.  | I’ve an interesting book.    |     |     |     |
+| a.  | I saw a tiger at the zoo. | | | |
+| b.  | Could you give me a book? | | | |
+| c.  | Please give me an ice-cream. | | | |
+| d.  | He has a mango in his hand.  | | | |
+| e.  | There’s an old house. | | | |
+| f.  | I’ve an interesting book. | | | |
 C.  Complete the given sentences with a or an.
-| a.     | There is…… English book on the desk. |     |     |                          |
-| ------ | ------------------------------------ | --- | --- | ------------------------ |
-| b.     | She’s reading……old comic.            |     |     |                          |
-| c.     | They’ve got…… idea.                  |     |     |                          |
-| d.     | He is drinking ……cup of coffee.      |     |     |                          |
-| e.     | The girl is ……pilot.                 |     |     |                          |
-| f.     | Humla has ……airport.                 |     |     |                          |
-| g.     | This is…… expensive bike.            |     |     |                          |
-| 62     |                                      |     |     |          English Grade 4 |
-
+| a. | There is…… English book on the desk. | | | |
+| b. | She’s reading……old comic. | | | |
+| c. | They’ve got…… idea. | | | |
+| d. | He is drinking ……cup of coffee. | | | |
+| e. | The girl is ……pilot. | | | |
+| f. | Humla has ……airport. | | | |
+| g. | This is…… expensive bike. | | | |
+| 62 | | | | English Grade 4 |
 h. Look! There’s ……bird flying.
 i. My friend would like to be ……astronaut.
 j. What ……… beautiful day!
@@ -1803,12 +264,10 @@ C. Put question marks (?) or exclamation marks (!) in the
 following sentences.
 a. What time is the game
 English Grade 4 63
-
-| b.  | We are so happy we won the game |     |     |     |
-| --- | ------------------------------- | --- | --- | --- |
-| c.  | I am so happy to see you        |     |     |     |
-| d.  | What day is today               |     |     |     |
-| e.  | What a sunny day                |     |     |     |
+| b.  | We are so happy we won the game | | | |
+| c.  | I am so happy to see you | | | |
+| d.  | What day is today | | | |
+| e.  | What a sunny day | | | |
 D.  Look at the shopping list you made earlier. Write about
 the  things you will buy. Write a paragraph. You may start
 like this.
@@ -1820,13 +279,10 @@ Do it by yourself.
 Visit the nearest shop. Talk to the owner. Make a list of any
 ten things available at the shop with their price. Show your
 chart to your friends and talk about each item.
-| Items  |     |               |     | Price                    |
-| ------ | --- | ------------- | --- | ------------------------ |
-| Sugar  |     | Rs. 85 per kg |     |                          |
-| 64     |     |               |     |          English Grade 4 |
-
+| Items  | | | | Price |
+| Sugar  | | Rs. 85 per kg | | |
+| 64 | | | | English Grade 4 |
 Unit
-66
 Comparison
 Getting started
 A. Look at the pictures and talk about them. The questions
@@ -1843,7 +299,6 @@ You're better looking than me
 But it's easy to see
 It loves me.
 English Grade 4 65
-
 I love it and it loves me
 I'm happier than the birds in the trees.
 Your work is better than mine
@@ -1872,156 +327,127 @@ Himalayas and Switzerland has the Alps. Many tourists visit
 both countries. Both countries have lakes, but Switzerland has
 many bigger lakes. The lakes in Nepal are smaller. Both Nepal
 66 English Grade 4
-
 and Switzerland do not touch the sea
 but Switzerland is closer to the sea.
-| Nepal  has  | Mt.  Everest;  | Switzerland  |     |     |
-| ----------- | -------------- | ------------ | --- | --- |
+| Nepal  has  | Mt.  Everest;  | Switzerland  | | |
 has Monte Rosa. Mt. Everest is taller
 than Monte Rosa. In fact, Mt. Everest
 is the highest mountain in the world.
 Both countries have unique flags.
 The Nepali flag is triangular but
-|     |     | the  Swiss  | flag  is  | square  with  a  |
-| --- | --- | ----------- | --------- | ---------------- |
+| | | the  Swiss  | flag  is  | square  with  a  |
 white cross.
-|     |     | Switzerland  | is  a  | richer  country  |
-| --- | --- | ------------ | ------ | ---------------- |
+| | | Switzerland  | is  a  | richer  country  |
 than Nepal. It has many factories
-|     |     | but  | Nepal  has  | fewer  factories.  |
-| --- | --- | ---- | ----------- | ------------------ |
+| | | but  | Nepal  has  | fewer  factories.  |
 Nepal has a larger population than Switzerland.
 A.  Choose the words to match with the correct pictures.
-|   square  | tourists  | factories  | triangular  | cross  lake   |
-| --------- | --------- | ---------- | ----------- | ------------- |
+| square  | tourists  | factories  | triangular  | cross  lake |
 English Grade 4  67
-
 B.  Write 'True' or 'False' for the following statements.
-| a.  | Switzerland is smaller than Nepal.                 |     |     |     |
-| --- | -------------------------------------------------- | --- | --- | --- |
-| b.  | Switzerland has no lakes.                          |     |     |     |
-| c.  | Both Switzerland and Nepal are surrounded by land. |     |     |     |
-| d.  | Generally, the Swiss are richer than the Nepalis.  |     |     |     |
-| e.  | Switzerland is more populated.                     |     |     |     |
-C.   Work  in  groups  and  complete  the  table  below.  One
+| a.  | Switzerland is smaller than Nepal. | | | |
+| b.  | Switzerland has no lakes. | | | |
+| c.  | Both Switzerland and Nepal are surrounded by land. | | | |
+| d.  | Generally, the Swiss are richer than the Nepalis.  | | | |
+| e.  | Switzerland is more populated. | | | |
+C. Work  in  groups  and  complete  the  table  below.  One
 example has been given.
-| Nepal and Switzerland are         |     |     | Nepal and Switzerland are  |     |
-| --------------------------------- | --- | --- | -------------------------- | --- |
-| similar because                   |     |     | different because          |     |
-| 1. They are both small countries. |     |     | 1. Nepal is bigger.        |     |
+| Nepal and Switzerland are | | | Nepal and Switzerland are  | |
+| similar because | | | different because | |
+| 1. They are both small countries. | | | 1. Nepal is bigger. | |
 Pronunciation
 Pronounce the words. Notice how 'er' in the following words
 is pronounced.
-bigger                   smaller                         closer                     friendlier
-taller                     richer                            higher                     happier
+bigger smaller closer friendlier
+taller richer higher happier
 Speaking
 A.  These sentences are from the above text. Complete the
 sentences and read them to your friends.
-| a.     | Nepal is …………………… than Switzerland. |     |     |                           |
-| ------ | ----------------------------------- | --- | --- | ------------------------- |
-| b.     | The lakes in Nepal are …………………… .   |     |     |                           |
-| 68     |                                     |     |     |          English Grade  4 |
-
+| a. | Nepal is …………………… than Switzerland. | | | |
+| b. | The lakes in Nepal are …………………… . | | | |
+| 68 | | | | English Grade  4 |
 c.  Mt. Everest is …………………… than Monte Rosa.
 d.  Switzerland is a …………………… country.
 e.  Mt. Everest is the …………………… mountain in the
 world.
 Now, write the missing forms.
 | Positive | Comparative | Superlative |
-| -------- | ----------- | ----------- |
-| small    | smaller     | smallest    |
+| small | smaller | smallest |
 tall
 rich
 high
-big
-B.   Work in pairs. Ask and answer the questions.
-| a.  Which is lighter?       |   1 kg or 5 kg                 |     |
-| --------------------------- | ------------------------------ | --- |
-| b.  Which is longer?        |   1 metre or 3 metres          |     |
-| c.  Who is younger?         |   elder brother or you         |     |
-| d.  Which is higher?        |   Mt. Everest or Mt. Annapurna |     |
-| e.  Which is faster?        |   hare or tortoise             |     |
-| f.  Which is cheaper?       |   sugar or salt                |     |
-| g.  Which is softer?        |   wood or cotton               |     |
-| h.  Which river is bigger?  | Bagmati or Koshi               |     |
+B. Work in pairs. Ask and answer the questions.
+| a.  Which is lighter? | 1 kg or 5 kg | |
+| b.  Which is longer? | 1 metre or 3 metres | |
+| c.  Who is younger? | elder brother or you | |
+| d.  Which is higher? | Mt. Everest or Mt. Annapurna | |
+| e.  Which is faster? | hare or tortoise | |
+| f.  Which is cheaper? | sugar or salt | |
+| g.  Which is softer? | wood or cotton | |
+| h.  Which river is bigger?  | Bagmati or Koshi | |
 English Grade 4  69
-
-C.   Look at the pictures and compare them.
+C. Look at the pictures and compare them.
 Example:
-| A is longer than B.    |     |     |     |   A |     |
-| ---------------------- | --- | --- | --- | --- | --- |
-| B is shorter than A.   |     |     |     |   B |     |
-
+| A is longer than B. | | | | A | |
+| B is shorter than A. | | | | B | |
 Grammar
-A.   Study the following.
-| Positive   |     | Comparative       |     |     | Superlative               |
-| ---------- | --- | ----------------- | --- | --- | ------------------------- |
-| bad        |     | worse             |     |     | worst                     |
-| sad        |     | sadder            |     |     | saddest                   |
-| hard       |     | harder            |     |     | hardest                   |
-| happy      |     | happier           |     |     | happiest                  |
-| early      |     | earlier           |     |     | earliest                  |
-| far        |     | farther/further   |     |     | furthest                  |
-| 70         |     |                   |     |     |          English Grade  4 |
-
-| good          | better             | best             |     |
-| ------------- | ------------------ | ---------------- | --- |
-| near          | nearer             | nearest          |     |
-| important     | more important     | most important   |     |
-| expensive     | more expensive     | most expensive   |     |
-| interesting   | more interesting   | most interesting |     |
-| difficult     | more difficult     | most difficult   |     |
+A. Study the following.
+| Positive | | Comparative | | | Superlative |
+| bad | | worse | | | worst |
+| sad | | sadder | | | saddest |
+| hard | | harder | | | hardest |
+| happy | | happier | | | happiest |
+| early | | earlier | | | earliest |
+| far | | farther/further | | | furthest |
+| 70 | | | | | English Grade  4 |
+| good | better | best | |
+| near | nearer | nearest | |
+| important | more important | most important | |
+| expensive | more expensive | most expensive | |
+| interesting | more interesting | most interesting | |
+| difficult | more difficult | most difficult | |
 B.  Choose the correct words from the brackets to complete
 the sentences.
 a.  I think Kathmandu is ………………. (more expensive/
 expensive) than Nuwakot.
-b.  My dad is funny but your dad is ………. (funnier/funny)
+b.  My dad is funny but your dad is ………. (funnier/funny
 than mine.
 | c.  Crocodiles  | are  ……………….  | (more  | dangerous/ |
-| --------------- | ------------- | ------ | ---------- |
 dangerous) than dolphins.
 d.  Ram is the ………………. (taller/tallest) in the class.
 e.  The Karnali is the ……….…. (longer/longest) river in
 Nepal.
 f.  Birgunj is ………………. (hotter/hot) than Mustang.
-C.   Complete the sentences. Use the words in the brackets.
+C. Complete the sentences. Use the words in the brackets.
 Use '…er' or 'more ….'
 a.  Dogs are ………………. (intelligent) than rabbits.
 b.  My mother is ………………. (old) than me.
 c.  Russia is far ………………. (large) than Nepal.
 d.  Kathmandu is ………………. (busy) than Dhading.
 English Grade 4  71
-
-| e.  | Julie is ………………. (quiet) than her sister.        |     |     |     |
-| --- | ------------------------------------------------ | --- | --- | --- |
-| f.  | Nitu is ………………. (ambitious) than Neeru.          |     |     |     |
-| g.  | My garden is ………………. (colourful) than this park. |     |     |     |
-| h.  | His house is a bit ………………. (comfortable) than a  |     |     |     |
+| e.  | Julie is ………………. (quiet) than her sister. | | | |
+| f.  | Nitu is ………………. (ambitious) than Neeru. | | | |
+| g.  | My garden is ………………. (colourful) than this park. | | | |
+| h.  | His house is a bit ………………. (comfortable) than a  | | | |
 hotel.
-D.   Talk  about  different  things  in  your  classroom.  Make
+D. Talk  about  different  things  in  your  classroom.  Make
 comparisons between them.
 Example:
 The window is smaller than the door. The door is bigger than the
 window.
 Listening
-A.   Look at the pictures and answer these questions.
-| a.  | What do you think you see in the  |     |     |     |
-| --- | --------------------------------- | --- | --- | --- |
+A. Look at the pictures and answer these questions.
+| a.  | What do you think you see in the  | | | |
 first picture?
-| b.  | What do you think you see in the  |     |     |     |
-| --- | --------------------------------- | --- | --- | --- |
+| b.  | What do you think you see in the  | | | |
 second picture?
 | c.  | Where  do  | you  want  | to  live:  | in  a  |
-| --- | ---------- | ---------- | ---------- | ------ |
 village or in a city? Why?
-B.   Listen to the audio and complete the sentences.
-| a.  | Kathmandu, Pokhara and Biratnagar are ………………  |     |     |     |
-| --- | --------------------------------------------- | --- | --- | --- |
+B. Listen to the audio and complete the sentences.
+| a.  | Kathmandu, Pokhara and Biratnagar are ………………  | | | |
 cities.
-| b.     | Cities have ……………… schools. |     |     |                             |
-| ------ | --------------------------- | --- | --- | --------------------------- |
-| 72     |                             |     |     |            English Grade  4 |
-
+| b. | Cities have ……………… schools. | | | |
+| 72 | | | | English Grade  4 |
 c. Nowadays, ……………… people live in villages.
 d. Cities are ……………… polluted than villages.
 e. The air is ……………… in villages.
@@ -2036,26 +462,22 @@ Example:
 The red bicycle is smaller than the blue bicycle. The blue bicycle
 is bigger than the red bicycle.
 English Grade 4 73
-
 Reading II
 Answer these questions.
 a.  Where do you think people like to live: in a city or in a village?
 b.  Give examples of good things about living in a village or in a city.
 City Life
 Living in a city may be good but it is also
-| difficult.  | People  may  | feel  less  | secure  |     |
-| ----------- | ------------ | ----------- | ------- | --- |
+| difficult.  | People  may  | feel  less  | secure  | |
 than in the countryside. Also, there is
 more pollution because of vehicles and
 factories. So, there are more traffic jams.
 Cities are bigger and so they are more
 crowded. City life is busier and people have less time for their
 family.
-| Living  | in  the  countryside  | may  | be  |     |
-| ------- | --------------------- | ---- | --- | --- |
+| Living  | in  the  countryside  | may  | be  | |
 easier but it can be boring too. You
-| might  | not  have  much  | fun.  | You  |     |
-| ------ | ---------------- | ----- | ---- | --- |
+| might  | not  have  much  | fun.  | You  | |
 cannot go to the cinema or shopping
 centre. It is also more difficult to go
 to different places as there are no
@@ -2064,11 +486,9 @@ be harder there.
 A.  Write these words/phrases in the correct box.
 difficult, crowded, busy, easy, hard, boring, difficult to travel,
 go to the cinema, go to the shopping centre, less pollution
-|         | City |     |      | Village                   |
-| ------- | ---- | --- | ---- | ------------------------- |
-| crowded |      |     | easy |                           |
-| 74      |      |     |      |          English Grade  4 |
-
+| | City | | | Village |
+| crowded | | | easy | |
+| 74 | | | | English Grade  4 |
 B. Answer these questions.
 a. What causes pollution in cities?
 b. Why do city people have less time for their family?
@@ -2091,7 +511,6 @@ B: ………………….
 d. A: Sorry ! I am late.
 B: ………………….
 English Grade 4 75
-
 B. Look at these pictures. Write a short paragraph to compare
 them.
 Do it by yourself.
@@ -2106,9 +525,7 @@ c. What do your family members do?
 d. How many children are there in the family?
 e. How much land does your family have?
 76 English Grade 4
-
 Unit
-77
 Location
 Getting started
 A. Look at the pictures. Point to each picture and say where
@@ -2124,7 +541,6 @@ Where's the monkey? Where's the monkey?
 The monkey is on your head. The monkey is
 on your head.
 English Grade 4 77
-
 Underline the phrases that say on, in, under (e.g. under the bed) in
 the above song.
 Reading I
@@ -2154,7 +570,6 @@ There are two bedrooms, a bathroom and a study room upstairs.
 In my parent's bedroom, there is a large bed, a wardrobe, a
 mirror and two bedside tables. In my bedroom, there are two
 78 English Grade 4
-
 beds, a large bookcase with books, a table with my computer,
 two chairs and toys. There is a table with a computer, a chair,
 books, a lamp and my father's files in the study room.
@@ -2163,53 +578,36 @@ around our house. Sparrows like our trees and they often jump
 on to the branches. There is a garden in front of the house. You
 can see butterflies flying and sitting on to the flowers. I like my
 house very much.
-A.   Learn  the  words.  Write  the  words  under  the  correct
+A. Learn  the  words.  Write  the  words  under  the  correct
 pictures below. You may not need all the words.
-|   branch,                | roundtable,  | wardrobe,  | two-storey,    |     | fence,  |
-| ------------------------ | ------------ | ---------- | -------------- | --- | ------- |
-| surrounded,    fridge,   |              | carpet,    | comfortable,   |     | chair   |
-|                          |              |            |                |     |         |
-
-  ..................  .................  .................  .................
-|     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- |
-
-|     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- |
-  .................  .................  .................  .................
-B.   Now, complete the sentences with the above words.
+| branch, | roundtable,  | wardrobe,  | two-storey, | | fence,  |
+| surrounded, fridge, | | carpet, | comfortable, | | chair |
+B. Now, complete the sentences with the above words.
 a.  People are having a ………………… discussion.
 b.  There is a beautiful …………………  house in my village.
 c.  The ………………… is open.
-| English Grade 4  |     |     |     |     | 79  |
-| ---------------- | --- | --- | --- | --- | --- |
-
-| d.  | The ………………… of the tree has fallen down. |     |     |     |
-| --- | ---------------------------------------- | --- | --- | --- |
-| e.  | There are some clothes in the …………………    |     |     |     |
-| f.  | The room has a red ………………… on the floor. |     |     |     |
-| g.  | The garden is ………………… by a …………………       |     |     |     |
-| h.  | The sofa must be ………………… to sit on.      |     |     |     |
-| i.  | The ………………… is made of wood.             |     |     |     |
-C.   Write True or False for the following statements.
-| a.  Nita is from Nepal. |     |     |     |     |
-| ----------------------- | --- | --- | --- | --- |
+| English Grade 4  | | | | | 79  |
+| d.  | The ………………… of the tree has fallen down. | | | |
+| e.  | There are some clothes in the ………………… | | | |
+| f.  | The room has a red ………………… on the floor. | | | |
+| g.  | The garden is ………………… by a ………………… | | | |
+| h.  | The sofa must be ………………… to sit on. | | | |
+| i.  | The ………………… is made of wood. | | | |
+C. Write True or False for the following statements.
+| a.  Nita is from Nepal. | | | | |
 b.
 Nita's family lives in a three-storey house.
-| c.  There are two armchairs in the living room. |     |     |     |     |
-| ----------------------------------------------- | --- | --- | --- | --- |
-| d.  There are three bedrooms in the house.      |     |     |     |     |
-| e.  The house has a fence surrounding it.       |     |     |     |     |
-| f.  The garden is behind the house.             |     |     |     |     |
-D.   What is your living room like? Describe it to your friend.
+| c.  There are two armchairs in the living room. | | | | |
+| d.  There are three bedrooms in the house. | | | | |
+| e.  The house has a fence surrounding it. | | | | |
+| f.  The garden is behind the house. | | | | |
+D. What is your living room like? Describe it to your friend.
 Pronunciation I
 Pronounce the following words. Notice what sound the letters
 in red make.
-sound             round                found                now                      bow
-brown            proud                 how                  bough                   cloud
-| 80     |     |     |     |          English Grade  4 |
-| ------ | --- | --- | --- | ------------------------- |
-
+sound round found now bow
+brown proud how bough cloud
+| 80 | | | | English Grade  4 |
 Listening
 A. Look at the picture and answer the questions.
 a. Who do you think they are?
@@ -2224,85 +622,66 @@ d. The museum is opposite to the …………….
 e. Most of the shops are in Penny …………….
 C. What are the different places around your village/town?
 Tell your friends about their location. (e.g. behind,
-opposite, in front of etc.)
+opposite, in front of etc.
 Grammar
 A. Put these words under the correct pictures.
 above under behind in front of
 next to between
 English Grade 4 81
-
 B.  Look at the given picture. Choose the correct answer.
-  a.  Where do you think the toys are?
-| i.    | They are on the toy box.    |     |     |     |     |
-| ----- | --------------------------- | --- | --- | --- | --- |
-| ii.   | They are in the toy box.    |     |     |     |     |
-| iii.  | They are under the toy box. |     |     |     |     |
+a.  Where do you think the toys are?
+| i. | They are on the toy box. | | | | |
+| ii. | They are in the toy box. | | | | |
+| iii.  | They are under the toy box. | | | | |
 b.  Where is the plant?
-| i.    | It’s on the shelf       |     |     |     |     |
-| ----- | ----------------------- | --- | --- | --- | --- |
-| ii.   | It's above the shelf.   |     |     |     |     |
-| iii.  | It's next to the shelf. |     |     |     |     |
+| i. | It’s on the shelf | | | | |
+| ii. | It's above the shelf. | | | | |
+| iii.  | It's next to the shelf. | | | | |
 c.  Where is the wardrobe?
-| i.    | It’s between the picture and the window. |     |     |     |     |
-| ----- | ---------------------------------------- | --- | --- | --- | --- |
-| ii.   | It's next to the shelf.                  |     |     |     |     |
-| iii.  | It's in front of the bed.                |     |     |     |     |
+| i. | It’s between the picture and the window. | | | | |
+| ii. | It's next to the shelf. | | | | |
+| iii.  | It's in front of the bed. | | | | |
 d.  Where is the shelf?
-| i.    | It's between the picture and the window.  |     |     |     |     |
-| ----- | ----------------------------------------- | --- | --- | --- | --- |
-| ii.   | It's next to the picture.                 |     |     |     |     |
-| iii.  | It's between the wardrobe and the window. |     |     |     |     |
+| i. | It's between the picture and the window.  | | | | |
+| ii. | It's next to the picture. | | | | |
+| iii.  | It's between the wardrobe and the window. | | | | |
 C.  Rewrite the sentences choosing the correct words from
 the brackets.
-| a.  | My father is ……………… the kitchen. He is preparing  |     |     |     |     |
-| --- | ------------------------------------------------- | --- | --- | --- | --- |
-food. (on/in/behind)
-| b.  | My  brother  | sleeps  with  | me  ………………  |     | the  bed.  |
-| --- | ------------ | ------------- | ----------- | --- | ---------- |
-(between/on/in)
-| c.  | I’m waiting for my friend ……………… his house. (in  |     |     |     |     |
-| --- | ------------------------------------------------ | --- | --- | --- | --- |
-front of/under/on)
-| 82     |     |     |     |          English Grade  4 |     |
-| ------ | --- | --- | --- | ------------------------- | --- |
-
-| d.  We’re playing hide and seek. I’m hiding ………………  |     |     |     |     |     |
-| --------------------------------------------------- | --- | --- | --- | --- | --- |
-the door! (on/under/behind)
-| e.  I like sitting ………………my father and mother on the  |     |     |     |     |     |
-| ----------------------------------------------------- | --- | --- | --- | --- | --- |
-sofa. (under/in/between)
-| f.  Can you swim ………………water? (under/on/ |     |     |     |     |     |
-| ---------------------------------------- | --- | --- | --- | --- | --- |
-between)
-| g.  My sister is ……………… this photo. Can you  |     |     |     |     |     |
-| -------------------------------------------- | --- | --- | --- | --- | --- |
-recognise her? (next to/between/in)
+| a.  | My father is ……………… the kitchen. He is preparing  | | | | |
+food. (on/in/behind
+| b.  | My  brother  | sleeps  with  | me  ………………  | | the  bed.  |
+between/on/in
+| c.  | I’m waiting for my friend ……………… his house. (in  | | | | |
+front of/under/on
+| 82 | | | | English Grade  4 | |
+| d.  We’re playing hide and seek. I’m hiding ………………  | | | | | |
+the door! (on/under/behind
+| e.  I like sitting ………………my father and mother on the  | | | | | |
+sofa. (under/in/between
+| f.  Can you swim ………………water? (under/on/ | | | | | |
+between
+| g.  My sister is ……………… this photo. Can you  | | | | | |
+recognise her? (next to/between/in
 Writing I
 A.  Observe  the  picture.  Complete  its  description  with  in,
 under, on, next to, behind, over, between or above.
-|   There           | is           | a  vase  |     |     |     |
-| ----------------- | ------------ | -------- | --- | --- | --- |
-| …………............  |              | the      |     |     |     |
-| table             | and  .……………  |          |     |     |     |
+| There | is | a  vase  | | | |
+| …………............  | | the | | | |
+| table | and  .……………  | | | | |
 the vase, there are six
-| flowers.   | ……………      |        |     |     |     |
-| ---------- | ---------- | ------ | --- | --- | --- |
-| the        | table,     | there  |     |     |     |
-| is  a      | magazine.  | A      |     |     |     |
-| different  | magazine   | is     |     |     |     |
-| …………………    |            | the    |     |     |     |
+| flowers. | …………… | | | | |
+| the | table, | there  | | | |
+| is  a | magazine.  | A | | | |
+| different  | magazine | is | | | |
+| ………………… | | the | | | |
 floor. There is a cat …………………the armchair. There is a
 sofa ………………… the table. The table is …………………
 the sofa and the armchair. ………….. the sofa, there are
 two pillows. ………… the sofa, there's a small round table.
-| …………………  |     | the  roundtable,  | there  | is  a  small  | lamp.  |
-| -------- | --- | ----------------- | ------ | ------------- | ------ |
+| …………………  | | the  roundtable,  | there  | is  a  small  | lamp.  |
 There's a big carpet …….the floor. There are lots of books
 …………… the shelf. There is also a small TV set …………….
-| English Grade 4  |     |     |     |     | 83  |
-| ---------------- | --- | --- | --- | --- | --- |
-
+| English Grade 4  | | | | | 83  |
 the shelf. The books are …………… the TV set. There are
 two glasses …………… the books, too. …………………
 the glasses, there's a bottle. The bottle is small. There's
@@ -2333,7 +712,6 @@ the river. In a matter of seconds, he reached the boy. "Don't
 worry!" he said as he caught hold of him. "I'll soon get you out
 of the water."
 84 English Grade 4
-
 But the boy began shouting at him. Robert could not understand
 him. He started to swim towards the bank dragging the boy with
 him. But at that moment, he saw a large motor boat under the
@@ -2341,11 +719,9 @@ bridge. There were several people on the boat looking in his
 direction. Robert decided to swim towards the boat.
 "Give me a hand," he shouted as
 | he  neared  | the  | boat.  He  looked  |
-| ----------- | ---- | ------------------ |
 up and saw that people looked
 | angry.  | The  people  | on  the  boat  |
-| ------- | ------------ | -------------- |
-| helped  | the  boy     | and  wrapped   |
+| helped  | the  boy | and  wrapped |
 him in a blanket. But they did
 nothing to help Robert.
 "Aren't you going to pull me out
@@ -2354,53 +730,42 @@ too?" Robert asked.
 next to a large camera. "You! We were making a film and you
 spoilt a whole afternoon's work! You can stay in the water!"
 A.  Match the words with their meanings.
-| a.  | moment      | i.  jumped into water           |
-| --- | ----------- | ------------------------------- |
-| b.  | shivered    | ii.  covered in something       |
-| c.  | floating    | iii.  damaged something         |
-| d.  | taking off  | iv.  pulling something          |
+| a.  | moment | i.  jumped into water |
+| b.  | shivered | ii.  covered in something |
+| c.  | floating | iii.  damaged something |
+| d.  | taking off  | iv.  pulling something |
 | e.  | dived into  | v.  a very short period of time |
-| f.  | dragging    | vi.  removing clothes from body |
-| g.  | wrapped     | vii.                            |
+| f.  | dragging | vi.  removing clothes from body |
+| g.  | wrapped | vii. |
 shook slightly because of the cold
-| h.  | spoilt  | viii.  moving slowly and lightly in the    |
-| --- | ------- | ------------------------------------------ |
-    water or in the air
+| h.  | spoilt  | viii.  moving slowly and lightly in the |
+water or in the air
 English Grade 4  85
-
 B.  Now, complete the sentences with the above words.
-| a.  | She bought a mobile phone to give to her father on his  |     |     |     |
-| --- | ------------------------------------------------------- | --- | --- | --- |
+| a.  | She bought a mobile phone to give to her father on his  | | | |
 birthday and …………….. it with paper.
-| b.  | The rain has …………….. my book.                     |     |     |     |
-| --- | ------------------------------------------------- | --- | --- | --- |
-| c.  | Please wait for me. I am coming in a ……………..      |     |     |     |
-| d.  | Look! The paper boat is …………….. on the water.     |     |     |     |
-| e.  | His clothes are wet. He is …………….. his clothes.   |     |     |     |
-| f.  | She is a good swimmer. She …………….. the river and  |     |     |     |
+| b.  | The rain has …………….. my book. | | | |
+| c.  | Please wait for me. I am coming in a …………….. | | | |
+| d.  | Look! The paper boat is …………….. on the water. | | | |
+| e.  | His clothes are wet. He is …………….. his clothes. | | | |
+| f.  | She is a good swimmer. She …………….. the river and  | | | |
 crossed it easily.
-| g.  | Look! The man is …………….. a branch of a tree.       |     |     |     |
-| --- | -------------------------------------------------- | --- | --- | --- |
-| h.  | He was wearing a thin cotton shirt. He …………….. in  |     |     |     |
+| g.  | Look! The man is …………….. a branch of a tree. | | | |
+| h.  | He was wearing a thin cotton shirt. He …………….. in  | | | |
 the cold.
 C.  Choose the correct answer.
-| a.  | When Robert heard "Help! Help!", he was ……………  . |     |                            |     |
-| --- | ------------------------------------------------ | --- | -------------------------- | --- |
-|     | i.   still on the bridge                         |     | ii. looking at the river   |     |
-iii.   taking off his clothes
-| b.  | Robert dived into the river …………….  . |                       |     |                      |
-| --- | ------------------------------------- | --------------------- | --- | -------------------- |
-|     | i.    to swim                         | ii. to get his coat   |     | iii. to save the boy |
-| c.  | The people on the boat ……………. .       |                       |     |                      |
-i.   were happy with Robert   ii. were angry with Robert
+| a.  | When Robert heard "Help! Help!", he was ……………  . | | | |
+| | i. still on the bridge | | ii. looking at the river | |
+iii. taking off his clothes
+| b.  | Robert dived into the river …………….  . | | | |
+| | i. to swim | ii. to get his coat | | iii. to save the boy |
+| c.  | The people on the boat ……………. . | | | |
+i. were happy with Robert ii. were angry with Robert
 iii.  were sad with Robert
-| 86   |       |     |     |          English Grade  4 |
-| ---- | ----- | --- | --- | ------------------------- |
-
+| 86 | | | | English Grade  4 |
 D. Put these words/expressions in the correct rows.
 winter, Robert, a boy, a bridge, afternoon, Robert dragged the boy, a
 river, He spoilt the film.
-Day
 Time of
 Year
 Places
@@ -2420,7 +785,6 @@ Example:
 A: Where is the marble?
 B: It's above the box.
 English Grade 4 87
-
 B. Observe the picture. There are different things in the
 room. Where are they? Talk about the following things in
 pairs.
@@ -2436,7 +800,6 @@ just then, he heard a cry "Help Help" the cry was coming
 from the river robert looked down the boy was in the water
 and his boat was floating away "Help! Help" he called again
 88 English Grade 4
-
 B. Write about a place you have recently been to. Make notes
 in the given table first.
 Where did you go? When did you go? Who did you go with?
@@ -2445,9 +808,7 @@ Draw a map of your neighbourhood. Be prepared to talk about
 where different things are. Show the map to your friends and
 describe it.
 English Grade 4 89
-
 Unit
-88
 Getting Information
 Getting started
 A. Look at the pictures and the questions below them.Take
@@ -2463,7 +824,6 @@ You can see me up in the sky.
 A ball of fire is how I am seen.
 All planets orbit me making me supreme.
 90 English Grade 4
-
 Now, discuss the answers to these questions in pairs.
 a. What is the Sun?
 b. Where can you see the Sun?
@@ -2482,68 +842,73 @@ Sun.
 – a massive ball of
 hot gas that gives
 off light and heat.
-3. There are eight planets that move around the Sun in our
+
+## 3: There are eight planets that move around the Sun in our  {#ch-3}
+
 Solar System.
-4. The closest planet to the Sun is Mercury and the farthest
+
+## 4: The closest planet to the Sun is Mercury and the farthest  {#ch-4}
+
 away is Neptune.
-5. The biggest planet is Jupiter and the smallest planet is
+
+## 5: The biggest planet is Jupiter and the smallest planet is  {#ch-5}
+
 Mercury.
 English Grade 4 91
 
-6.  The Earth is the only planet that we know that has creatures
+## 6: The Earth is the only planet that we know that has creatures  {#ch-6}
+
 living on it.
-7.  The Earth rotates (spins) as it orbits the Sun. It takes one
+
+## 7: The Earth rotates (spins) as it orbits the Sun. It takes one  {#ch-7}
+
 day to complete one rotation.
-8.  It takes 365 and ¼ days for the Earth to complete one circuit
+
+## 8: It takes 365 and ¼ days for the Earth to complete one circuit  {#ch-8}
+
 around the Sun. We call this a year.
-9.  We are held onto the surface of the Earth by a force called
+
+## 9: We are held onto the surface of the Earth by a force called  {#ch-9}
+
 gravity.
-10.  Not everything in the Solar system orbits only around the
+
+## 10: Not everything in the Solar system orbits only around the  {#ch-10}
+
 Sun. The Moon moves around the Earth.
 A.  Find the words for these meanings and write them down.
-| a.   | moves around        | b. produces   |                          | c. large and heavy  |
-| ---- | ------------------- | ------------- | ------------------------ | ------------------- |
-| d.   | animals and humans  |               |   e. strength or energy  |                     |
+| a. | moves around | b. produces | | c. large and heavy  |
+| d. | animals and humans  | | e. strength or energy  | |
 B.  Write short answers to these questions.
-| a.  | What is the Sun made of?                         |     |     |     |
-| --- | ------------------------------------------------ | --- | --- | --- |
-| b.  | How many planets are there in our solar system?  |     |     |     |
-| c.  | Which planet is nearest to the Sun?              |     |     |     |
+| a.  | What is the Sun made of? | | | |
+| b.  | How many planets are there in our solar system?  | | | |
+| c.  | Which planet is nearest to the Sun? | | | |
 d.  What  is  the  name  of  the  largest  planet  in  our  solar
 system?
-| e.  | What is special about the Earth?  |     |     |     |
-| --- | --------------------------------- | --- | --- | --- |
+| e.  | What is special about the Earth?  | | | |
 f.  How long does it take for the Earth to spin around once?
-| g.  | What is the name of the force that prevents us from  |     |     |     |
-| --- | ---------------------------------------------------- | --- | --- | --- |
+| g.  | What is the name of the force that prevents us from  | | | |
 floating?
-C.   Design  five  to  seven  questions  from  the  above  text.
+C. Design  five  to  seven  questions  from  the  above  text.
 Organise a quiz to give to your class.
-| 92     |     |     |                       English Grade 4 |     |
-| ------ | --- | --- | ------------------------------------- | --- |
-
+| 92 | | | English Grade 4 | |
 Pronunciation I
 Listen to your teacher and pronounce these words. Notice how
 '-s' or '-es' is pronounced.
-|   gives  | plays  | sings   | stings   | sinks   | sleeps  |
-| -------- | ------ | ------- | -------- | ------- | ------- |
-|   hits   | takes  | dances  | changes  | buzzes  | pinches |
+| gives  | plays  | sings | stings | sinks | sleeps  |
+| hits | takes  | dances  | changes  | buzzes  | pinches |
 Grammar I
 A.  Complete the sentences with the words from the above
 reading text.
-| a.  The Sun …………… a star.             |     |     |     |     |     |
-| ------------------------------------- | --- | --- | --- | --- | --- |
-| b.  The Sun …………… light and heat.     |     |     |     |     |     |
-| c.  The planets …………… around the Sun. |     |     |     |     |     |
-| d.  The Earth …………… creatures on it.  |     |     |     |     |     |
+| a.  The Sun …………… a star. | | | | | |
+| b.  The Sun …………… light and heat. | | | | | |
+| c.  The planets …………… around the Sun. | | | | | |
+| d.  The Earth …………… creatures on it.  | | | | | |
 B.  Look at the pictures and read the sentences below them.
-Samir drives a bus.  The Earth moves around the Sun.      The doctors treat patients.
-  Pawan gets up at 6 a.m.  The tree looks beautiful.     Plants need water.
+Samir drives a bus.  The Earth moves around the Sun. The doctors treat patients.
+Pawan gets up at 6 a.m.  The tree looks beautiful. Plants need water.
 English Grade 4  93
-
-|   The boy likes white.  |     | Nepal lies between India and China. |     |     |
-| ----------------------- | --- | ----------------------------------- | --- | --- |
-C.   Tick the correct form of the verbs for each sentence. Then,
+| The boy likes white.  | | Nepal lies between India and China. | | |
+C. Tick the correct form of the verbs for each sentence. Then,
 listen to your teacher and check.
 When you want/wants to do something that's new,
 And it seem/seems really, really hard to do,
@@ -2557,17 +922,14 @@ Well, try and try and try again,
 Keep on trying and soon end,
 You put/puts your hands out in the air,
 You'll catch the ball.
-D.   Choose the correct form of the verbs from the brackets to
+D. Choose the correct form of the verbs from the brackets to
 complete the sentences.
-| a.  | My father ……………….. (work/works) at a bank.  |     |                   |               |
-| --- | ------------------------------------------- | --- | ----------------- | ------------- |
-| b.  | She ……………….. (live/lives) with her parents. |     |                   |               |
-| c.  | Water  ………………..                             |     | (change/changes)  | into  vapour  |
+| a.  | My father ……………….. (work/works) at a bank.  | | | |
+| b.  | She ……………….. (live/lives) with her parents. | | | |
+| c.  | Water  ……………….. | | (change/changes)  | into  vapour  |
 due to sunlight.
-| d.     | Cows ……………….. (feed/feeds) on grass. |     |                                         |     |
-| ------ | ------------------------------------ | --- | --------------------------------------- | --- |
-| 94     |                                      |     |                         English Grade 4 |     |
-
+| d. | Cows ……………….. (feed/feeds) on grass. | | | |
+| 94 | | | English Grade 4 | |
 e. My mother ……………….. (earn/earns) a good amount
 of money every month.
 f. I ……………….. (want/wants) to be a teacher.
@@ -2596,7 +958,6 @@ a. What are they playing?
 b. Do you know anything about the game?
 c. Which game do you like? Why?
 English Grade 4 95
-
 B. Listen to the audio and complete the sentences using the
 correct words. Use ONE WORD only.
 a. Football is the biggest and best …………… in the world.
@@ -2626,7 +987,6 @@ in the atmosphere
 atmosphere
 water
 96 English Grade 4
-
 Reading II
 Look at the pictures below and answer the questions.
 a. Can you name all the materials in the pictures?
@@ -2656,13 +1016,11 @@ it is much stronger than glass. We use wood to
 make lots of things. Things made from wood
 are usually light, hard and strong. Chairs and
 English Grade 4 97
-
 tables are made from wood. Pencils are made from wood.
 Now let’s talk about cloth. Cloth is very light. It is much lighter
 than wood. And it is very soft. We use cloth
 to make lots of things. For example, it is used
 | to  make  | clothing.  | And  | it  is  used  | to  make  |
-| --------- | ---------- | ---- | ------------- | --------- |
 blankets.
 Last, let’s talk about plastic. Plastic is also very light. But it is
 different from cloth. Sometimes it is soft. And
@@ -2674,55 +1032,47 @@ and strong. A helmet and a plastic bag seem different. But they
 are both made from plastic.
 A.  What items are made of these materials? Write as many
 things as you can in the given table. Use the text to help.
-|         | Material |                     |     | Things |
-| ------- | -------- | ------------------- | --- | ------ |
-| metal   |          | spade,……………………………   |     |        |
-| glass   |          | mirror, …………………………… |     |        |
-| wood    |          | table,………………………………  |     |        |
-| cloth   |          | shirt,………………………………  |     |        |
-| plastic |          | bag, ………………………………   |     |        |
+| | Material | | | Things |
+| metal | | spade,…………………………… | | |
+| glass | | mirror, …………………………… | | |
+| wood | | table,………………………………  | | |
+| cloth | | shirt,………………………………  | | |
+| plastic | | bag, ……………………………… | | |
 B.  Choose the correct answer.
 Which of these things is a material?
 a.
 i.  chair
-ii.   clothing
+ii. clothing
 iii.  window
 iv.  wood
-| 98     |     |     |     |                       English Grade 4 |
-| ------ | --- | --- | --- | ------------------------------------- |
-
-| b.  What does glass feel like?  |     |     |     |     |     |
-| ------------------------------- | --- | --- | --- | --- | --- |
-i.     smooth and cool
-ii.    warm and soft
-iii.   light and hard
-iv.   sharp and heavy
+| 98 | | | | English Grade 4 |
+| b.  What does glass feel like?  | | | | | |
+i. smooth and cool
+ii. warm and soft
+iii. light and hard
+iv. sharp and heavy
 Which material would you use if you wanted to make
 c.
 something that was strong and very light?
-i.    plastic
-ii.   wood
-iii.   metal
-iv.   glass
-C.   Answer the following questions.
-| a.  Are there any other materials except these five? |     |     |     |     |     |
-| ---------------------------------------------------- | --- | --- | --- | --- | --- |
+i. plastic
+ii. wood
+iii. metal
+iv. glass
+C. Answer the following questions.
+| a.  Are there any other materials except these five? | | | | | |
 b.
 Why is metal used to make cars?
-| c.  Why do people use glass for windows? |     |     |     |     |     |
-| ---------------------------------------- | --- | --- | --- | --- | --- |
-| d.  Is wood as strong as metal?          |     |     |     |     |     |
-| e.  What is a blanket made of?           |     |     |     |     |     |
+| c.  Why do people use glass for windows? | | | | | |
+| d.  Is wood as strong as metal? | | | | | |
+| e.  What is a blanket made of? | | | | | |
 D.  Which of these five materials do you think is the best?
 Why? Talk to your friends.
 Pronunciation II
 Listen to your teacher and pronounce the following words.
 Notice the sounds made by the letters in red.
-| cloth  | law   | body  | stop  | shop  | want   |
-| ------ | ----- | ----- | ----- | ----- | ------ |
-| fork   | door  | pork  | war   | four  | course |
+| cloth  | law | body  | stop  | shop  | want |
+| fork | door  | pork  | war | four  | course |
 English Grade 4  99
-
 Speaking
 A. Look at the pictures. What does the girl do in any one
 day? Point to the pictures and say one sentence for each.
@@ -2732,93 +1082,72 @@ B. Talk to three of your friends. Ask the questions and write
 their answers in the table below.
 Name
 Questions
-1. 2. 3.
 When do you get up?
 What does your mother do?
 What does your father do?
 What do you do in the evening?
 Now, tell a group of five about each of your friends.
 100 English Grade 4
-
 Example:
 My friend, Niru gets up at 6 a.m. Her father works as a cleaner.
 Her mother is a nurse. She plays games in the evening.
 Grammar II
 A.  Study the table.
-| I am a   | I am not a  | I walk to  | I do not/don't walk  |
-| -------- | ----------- | ---------- | -------------------- |
-| student. | student.    | school.    | to school.           |
+| I am a | I am not a  | I walk to  | I do not/don't walk  |
+| student. | student. | school. | to school. |
 I/We
-| We are   | We are not/     | We walk to  | We do not/don't        |
-| -------- | --------------- | ----------- | ---------------------- |
-| healthy. | aren't healthy. | school.     | walk to school.        |
-| You are  | You are not/    | You sing a  | You do not/don't sing  |
-You
-| clever. | aren't clever.   | song.      | a song.              |
-| ------- | ---------------- | ---------- | -------------------- |
-|         | He is not/isn't  | He dances  | He does not/doesn't  |
+| We are | We are not/ | We walk to  | We do not/don't |
+| healthy. | aren't healthy. | school. | walk to school. |
+| You are  | You are not/ | You sing a  | You do not/don't sing  |
+| clever. | aren't clever. | song. | a song. |
+| | He is not/isn't  | He dances  | He does not/doesn't  |
 He is tall.
-|     | tall. | well. | dance well. |
-| --- | ----- | ----- | ----------- |
+| | tall. | well. | dance well. |
 She is
 | He/ | She is not/isn't  | She reads  | She does not/doesn't  |
-| --- | ----------------- | ---------- | --------------------- |
 smart.
 | She/ | smart. | the news. | read the news. |
-| ---- | ------ | --------- | -------------- |
 It is cold
 | It/  | It is not/isn't  | It smells  | It does not/doesn't  |
-| ---- | ---------------- | ---------- | -------------------- |
 today.
 | They | cold today. | good. | smell good. |
-| ---- | ----------- | ----- | ----------- |
 They are
-|     | They are not/  | They work  | They do not/don’t  |
-| --- | -------------- | ---------- | ------------------ |
+| | They are not/  | They work  | They do not/don’t  |
 friends.
-|     | aren’t friends. | hard. | work hard. |
-| --- | --------------- | ----- | ---------- |
+| | aren’t friends. | hard. | work hard. |
 B.  Match the sentences in the left column with their negatives
 from the right column.
-| a.  I am a boy.      |   i. We do not/don't read a poem.     |     |     |
-| -------------------- | ------------------------------------- | --- | --- |
-| b.  He is dancing.   | ii. She does not/doesn't  study hard. |     |     |
+| a.  I am a boy. | i. We do not/don't read a poem. | | |
+| b.  He is dancing. | ii. She does not/doesn't  study hard. | | |
 English Grade 4  101
-
-c.  They are students.        iii. It does not/doesn’t rain here
-|     |                    |     |    every day.                      |
-| --- | ------------------ | --- | ---------------------------------- |
-| d.  | She studies hard.  |     |       iv. He is not/isn't dancing. |
+c.  They are students. iii. It does not/doesn’t rain here
+| | | | every day. |
+| d.  | She studies hard.  | | iv. He is not/isn't dancing. |
 e.
-|     | We read a story.  |     |       v. I am not a boy. |
-| --- | ----------------- | --- | ------------------------ |
+| | We read a story.  | | v. I am not a boy. |
 f.  It rains here every day. vi. They are not/aren't students.
 C.  Complete the sentences with don't or doesn't.
-| a.  | I …………. like meat.                 |     |     |
-| --- | ---------------------------------- | --- | --- |
-| b.  | My sister …………. eat bread.         |     |     |
-| c.  | You …………. buy apples.              |     |     |
-| d.  | This dog …………. bark.               |     |     |
-| e.  | My mum …………. read stories.         |     |     |
-| f.  | Anna and I …………. go to the cinema. |     |     |
-| g.  | Cows …………. live in the sea.        |     |     |
-| h.  | They …………. play football.          |     |     |
-| i.  | My cat …………. chase mice.           |     |     |
-D.   Use negative forms: am not/is not/are not/do not/does not
+| a.  | I …………. like meat. | | |
+| b.  | My sister …………. eat bread. | | |
+| c.  | You …………. buy apples. | | |
+| d.  | This dog …………. bark. | | |
+| e.  | My mum …………. read stories. | | |
+| f.  | Anna and I …………. go to the cinema. | | |
+| g.  | Cows …………. live in the sea. | | |
+| h.  | They …………. play football. | | |
+| i.  | My cat …………. chase mice. | | |
+D. Use negative forms: am not/is not/are not/do not/does not
 to make sentences.
-|     |     | I like tea. |     |
-| --- | --- | ----------- | --- |
+| | | I like tea. | |
 Example :
-|       |                                   | I do not/don’t like tea. |                                         |
-| ----- | --------------------------------- | ------------------------ | --------------------------------------- |
-| a.    | I/ like coffee.                   |                          |                                         |
-| b.    | I/a teacher.                      |                          |                                         |
-| c.    | John/work in a bank.              |                          |                                         |
-| d.    | They/get up at six o’clock.       |                          |                                         |
-| e.    | We/go to the cinema every Friday. |                          |                                         |
-| f.    | We/watch TV in the evening.       |                          |                                         |
-| 102   |                                   |                          |                         English Grade 4 |
-
+| | | I do not/don’t like tea. | |
+| a. | I/ like coffee. | | |
+| b. | I/a teacher. | | |
+| c. | John/work in a bank. | | |
+| d. | They/get up at six o’clock. | | |
+| e. | We/go to the cinema every Friday. | | |
+| f. | We/watch TV in the evening. | | |
+| 102 | | | English Grade 4 |
 g. I/have a shower in the morning.
 h. She/drink tea every afternoon.
 i. It/rain here in the summer.
@@ -2855,9 +1184,7 @@ about its habitat, lifestyle, diet, eating habits, size and
 appearance. Prepare a mindmap similar to the elephant in
 B above. Display the mind map in the classroom. Be creative.
 English Grade 4 103
-
 Unit
-99
 Directions
 Getting started
 A. Look at the traffic signs and say what they mean.
@@ -2873,137 +1200,107 @@ washed away,
 Has left a pool of tears crying for the day.
 Why leave me standing here, let me know the way.
 104 English Grade 4
-
 Have you ever travelled along a windy road? How did you
 feel? Talk to your friends.
 Reading I
 Read the following instructions. Take turns in pairs to  give
 directions and follow them by walking.
-| Turn left.     |     |   Turn right.              |     |
-| -------------- | --- | -------------------------- | --- |
-| Go straight.   |     |   Go ahead.                |     |
-| Go along.      |     |   Take the first turning.  |     |
+| Turn left. | | Turn right. | |
+| Go straight. | | Go ahead. | |
+| Go along. | | Take the first turning.  | |
 A Street Map
 stadium
 cinema
 Supermarket
 Hall
-|     | New Road  |     | New Road |
-| --- | --------- | --- | -------- |
+| | New Road  | | New Road |
 hospital
 hotel
-| post |     |     | bank |
-| ---- | --- | --- | ---- |
+| post | | | bank |
 office
 West Road
 fun park East Road
 school
-|     | Old Road | Old Road |     |
-| --- | -------- | -------- | --- |
+| | Old Road | Old Road | |
 restaurant
 buspark
-| police  |     |     | pharmacy |
-| ------- | --- | --- | -------- |
+| police  | | | pharmacy |
 post
 You are here
 English Grade 4  105
-
-A.   Match the places with their locations.
-| Column A   |                   |         | Column B                     |     |
-| ---------- | ----------------- | ------- | ---------------------------- | --- |
-| a.         | the school        |   i.    | to the west of West Road     |     |
-| b.         | the hotel         |   ii.   | to the east of East Road     |     |
-| c.         | the post office   | iii.    | next to the cinema hall      |     |
-| d.         | the stadium       |   iv.   | to the north of the fun park |     |
-| e.         | the bank          |   v.    | opposite the bus park        |     |
-B.   Write True or False for the statements.
-|   a.   | The supermarket is opposite the post office.   |     |     |     |
-| ------ | ---------------------------------------------- | --- | --- | --- |
-|   b.   | The cinema hall is to the right of New Road.   |     |     |     |
-|   c.   | The police post is to the east of the buspark. |     |     |     |
-|   d.   | The fun park is to the north of Old Road.      |     |     |     |
-|   e.   | The school is to the south of the buspark.     |     |     |     |
-|   f.   | The pharmacy is opposite the restaurant.       |     |     |     |
-|   g.   | The stadium is to the south of the hotel.      |     |     |     |
-C.   One of your friends who lives close to you wants to visit
+A. Match the places with their locations.
+| Column A | | | Column B | |
+| a. | the school | i. | to the west of West Road | |
+| b. | the hotel | ii. | to the east of East Road | |
+| c. | the post office | iii. | next to the cinema hall | |
+| d. | the stadium | iv. | to the north of the fun park | |
+| e. | the bank | v. | opposite the bus park | |
+B. Write True or False for the statements.
+| a. | The supermarket is opposite the post office. | | | |
+| b. | The cinema hall is to the right of New Road. | | | |
+| c. | The police post is to the east of the buspark. | | | |
+| d. | The fun park is to the north of Old Road. | | | |
+| e. | The school is to the south of the buspark. | | | |
+| f. | The pharmacy is opposite the restaurant. | | | |
+| g. | The stadium is to the south of the hotel. | | | |
+C. One of your friends who lives close to you wants to visit
 your home. Briefly, draw a map and write the directions
 to go to your home from school.
-| 106     |     |     |     |          English Grade 4 |
-| ------- | --- | --- | --- | ------------------------ |
-
+| 106 | | | | English Grade 4 |
 Writing I
 A.  Read the text and mark the route to the theatre from the airport.
-|   Come  out   | of  the    |     |     |
-| ------------- | ---------- | --- | --- |
-| airport       | and  turn  |     |     |
-| left.  Go     | along      |     |     |
-| the  Airport  | Road.      |     |     |
-| Cross  the    | narrow     |     |     |
-A
-I
-| road and continue  |     |     | R   |
-| ------------------ | --- | --- | --- |
-P
-| straight  | ahead.  |     | O   |
-| --------- | ------- | --- | --- |
-R
+| Come  out | of  the | | |
+| airport | and  turn  | | |
+| left.  Go | along | | |
+| the  Airport  | Road. | | |
+| Cross  the | narrow | | |
+| road and continue  | | | R |
+| straight  | ahead.  | | O |
 There is a bank on
-T
-| your  right    | at  the  |     |     |
-| -------------- | -------- | --- | --- |
-| corner.  Turn  | right    |     |     |
-| into  New      | Road.    |     |     |
-| Go  straight   |          | on  |     |
+| your  right | at  the  | | |
+| corner.  Turn  | right | | |
+| into  New | Road. | | |
+| Go  straight | | on  | |
 until Central Road.
 Cross Central Road and go along New Road. The theatre is
 on your left. It is opposite the college.
 B.  How can a person get to the shopping mall from the theatre?
 Write a set of directions.
 Grammar I
-A.   Study the following sentences.
-| a.   Turn right.  |     |     |   b. Go straight ahead. |
-| ----------------- | --- | --- | ----------------------- |
-c.   Get up early in the morning.      d. Switch off your
-|                        |     |     |       mobile phones.     |
-| ---------------------- | --- | --- | ------------------------ |
-| e.   Don’t touch me.   |     |     |   f. Don’t eat too much. |
-g.   Stop talking and start the work. h. Wash your
-|     |     |     |    hands before you eat. |
-| --- | --- | --- | ------------------------ |
+A. Study the following sentences.
+| a. Turn right.  | | | b. Go straight ahead. |
+c. Get up early in the morning. d. Switch off your
+| | | | mobile phones. |
+| e. Don’t touch me. | | | f. Don’t eat too much. |
+g. Stop talking and start the work. h. Wash your
+| | | | hands before you eat. |
 English Grade 4  107
-
-B.   Choose the words/phrases from the box and complete the
+B. Choose the words/phrases from the box and complete the
 sentences.
-|   make  | lend  |     | turn on  | use  |     | complete             |
-| ------- | ----- | --- | -------- | ---- | --- | -------------------- |
-  hurry            clean            sit              give  press
-| a.   | Press the button.                       |     |     |     |     |     |
-| ---- | --------------------------------------- | --- | --- | --- | --- | --- |
-| b.   | …….. me your book.                      |     |     |     |     |     |
-| c.   | …….. the lights.                        |     |     |     |     |     |
-| d.   | Don’t …….. a noise.                     |     |     |     |     |     |
-| e.   | Don’t ……… the computer for a long time. |     |     |     |     |     |
-| f.   | …….. your task by tomorrow.             |     |     |     |     |     |
-| g.   | ……. me the room key.                    |     |     |     |     |     |
-| h.   | …….. your room.                         |     |     |     |     |     |
-| i.   | Don’t ……… there. It's dusty.            |     |     |     |     |     |
-| j.   | ……. up! You are late.                   |     |     |     |     |     |
-C.   Complete the sentences with the affirmative or negative
+| make  | lend  | | turn on  | use  | | complete |
+hurry clean sit give  press
+| a. | Press the button. | | | | | |
+| b. | …….. me your book. | | | | | |
+| c. | …….. the lights. | | | | | |
+| d. | Don’t …….. a noise. | | | | | |
+| e. | Don’t ……… the computer for a long time. | | | | | |
+| f. | …….. your task by tomorrow. | | | | | |
+| g. | ……. me the room key. | | | | | |
+| h. | …….. your room. | | | | | |
+| i. | Don’t ……… there. It's dusty. | | | | | |
+| j. | ……. up! You are late. | | | | | |
+C. Complete the sentences with the affirmative or negative
 form of the verbs.
 Examples:
 …..  (take) your medicine on time.
-| Take your medicine on time.   |     |     |     |     |     |     |
-| ----------------------------- | --- | --- | --- | --- | --- | --- |
+| Take your medicine on time. | | | | | | |
 Please, ……..  (make) noise. The baby is sleeping.
 Please, don’t make noise. The baby is sleeping.
-| a.   | ……… (stop) fighting, please.        |     |     |     |     |     |
-| ---- | ----------------------------------- | --- | --- | --- | --- | --- |
-| b.   | ……… (touch) it. It looks dangerous. |     |     |     |     |     |
-| c.   | ……….. (write) anything in the book. |     |     |     |     |     |
-d.   ……….. (forget) to take your umbrella. It is going to rain.
-| 108     |     |     |     |     |          English Grade 4 |     |
-| ------- | --- | --- | --- | --- | ------------------------ | --- |
-
+| a. | ……… (stop) fighting, please. | | | | | |
+| b. | ……… (touch) it. It looks dangerous. | | | | | |
+| c. | ……….. (write) anything in the book. | | | | | |
+d. ……….. (forget) to take your umbrella. It is going to rain.
+| 108 | | | | | English Grade 4 | |
 e. Please, ……. (walk) slowly. I'm feeling tired.
 f. ………. (speak) so fast. I can’t understand you.
 g. …….. (spend) so much money. It’s not a good habit.
@@ -3024,25 +1321,21 @@ iv. in the bed
 c. How far is the drug store from her home?
 i. 100 m ii. 200 m iii. 300 m iv. 400 m
 English Grade 4 109
-
-| d.   | Where is the Russian restaurant? |     |     |     |
-| ---- | -------------------------------- | --- | --- | --- |
-  i. opposite the traffic lights     ii. in front of the traffic lights
-  iii. behind the traffic lights     iv. next to the traffic lights
-C.   Recall the instruction  the mother gave to her daughter on
+| d. | Where is the Russian restaurant? | | | |
+i. opposite the traffic lights ii. in front of the traffic lights
+iii. behind the traffic lights iv. next to the traffic lights
+C. Recall the instruction  the mother gave to her daughter on
 the audio. Write any three of them.
 Reading II
 Answer these questions.
-| a.   | Why do tourists visit different places? |     |     |     |
-| ---- | --------------------------------------- | --- | --- | --- |
-b.   Name some places of Nepal that you would like to visit.
+| a. | Why do tourists visit different places? | | | |
+b. Name some places of Nepal that you would like to visit.
 Why?
 A Guide to Bandipur
-| Bandipur     | is  a  popular  | tourist     |     |     |
-| ------------ | --------------- | ----------- | --- | --- |
-| destination  | of  Nepal.      | It  is  a   |     |     |
-| living       | museum          | of  Newari  |     |     |
-| culture.     | It  has         | preserved   |     |     |
+| Bandipur | is  a  popular  | tourist | | |
+| destination  | of  Nepal. | It  is  a | | |
+| living | museum | of  Newari  | | |
+| culture. | It  has | preserved | | |
 Newari culture with cafes and
 lodges. It is famous for outdoor
 dining. Its main street is lined
@@ -3054,19 +1347,15 @@ km east of Pokhara. It is nearly half way
 between these two popular destinations.
 It is about eight kilometres to the south
 from Dumre Bazaar and about 700 metres
-| above the Marsyangdi River. |     |       |     | Khadgadevi Temple        |
-| --------------------------- | --- | ----- | --- | ------------------------ |
-| 110                         |     |       |     |          English Grade 4 |
-
+| above the Marsyangdi River. | | | | Khadgadevi Temple |
+| 110 | | | | English Grade 4 |
 There are many places to visit in Bandipur.  It is famous for
 historical  temples  with  the  attractive  eighteenth  century
 | architecture  | like  Khadga  | Devi,  | Bindabasini,  | Mahalaxmi,  |
-| ------------- | ------------- | ------ | ------------- | ----------- |
 Narayan, etc. Other places like Tundikhel, Tin Dhara, Siddha
 Cave, Gurunche Danda, Padma Library and Purano Kot are some
 of the most beautiful places.
-| Tin Dhara |     | Gurunche Danda |     | Siddha Cave |
-| --------- | --- | -------------- | --- | ----------- |
+| Tin Dhara | | Gurunche Danda | | Siddha Cave |
 How to travel to Bandipur from Kathmandu
 It is quite easy to reach. You have four choices. Go with a tour
 package. Take a local bus. Take a tourist bus or ride by yourself
@@ -3076,90 +1365,71 @@ Get off at Dumre (a gateway to Bandipur).
 Take a local bus or a private jeep.
 Get off at the bus park (just before the town entrance).
 Walk for about half an hour. (No vehicles are allowed into Bandipur).
-A.   Choose the correct words/phrases from the box to complete
+A. Choose the correct words/phrases from the box to complete
 the sentences.
-|   destination                             | living museum  |     | lodge        | traditional |
-| ----------------------------------------- | -------------- | --- | ------------ | ----------- |
-|   pagoda style                            | historical     |     | architecture |             |
-| a.  Bandipur is a ………… of Newari culture. |                |     |              |             |
+| destination | living museum  | | lodge | traditional |
+| pagoda style | historical | | architecture | |
+| a.  Bandipur is a ………… of Newari culture. | | | | |
 English Grade 4  111
-
-| b.  | It’s Lhochhar today. Phulting is wearing ………….dress.     |     |     |     |
-| --- | -------------------------------------------------------- | --- | --- | --- |
-| c.  | Pokhara is a popular holiday …………….                      |     |     |     |
-| d.  | The Bhaktapur Durbar Square is a ………..place.             |     |     |     |
-| e.  | A small house in the country where people stay is known  |     |     |     |
+| b.  | It’s Lhochhar today. Phulting is wearing ………….dress. | | | |
+| c.  | Pokhara is a popular holiday ……………. | | | |
+| d.  | The Bhaktapur Durbar Square is a ………..place. | | | |
+| e.  | A small house in the country where people stay is known  | | | |
 as a ………...........
-| f.  | Araniko spread the Nepali ………….. in China. |     |     |     |
-| --- | ------------------------------------------ | --- | --- | --- |
-| g.  | The Pashupatinath Temple is built in……….   |     |     |     |
-B.   Match  the  phrases  in  column  A  with  their  relevant
+| f.  | Araniko spread the Nepali ………….. in China. | | | |
+| g.  | The Pashupatinath Temple is built in………. | | | |
+B. Match  the  phrases  in  column  A  with  their  relevant
 information in column B.
-| Column A               |     |     | Column B                           |     |
-| ---------------------- | --- | --- | ---------------------------------- | --- |
-| a.  a living museum    |     |     | i.  18th century architecture in   |     |
-| of Newari culture      |     |     |   Bandipur                         |     |
-| b.  a style of houses  |     |     | ii.   a gateway to Bandipur        |     |
-| c.  the temples        |     |     | iii.  Bandipur                     |     |
-| d.  Dumre Bazar        |     |     | iv.  pagoda                        |     |
-C.   Answer these questions.
-| a.   | What is Bandipur famous for?                          |     |     |     |
-| ---- | ----------------------------------------------------- | --- | --- | --- |
-| b.   | How far is Bandipur from Kathmandu?                   |     |     |     |
-| c.   | Where does the Marsyangdi River lie?                  |     |     |     |
-| d.   | Write any four beautiful places to visit in Bandipur. |     |     |     |
-| e.   | Why should a visitor walk in Bandipur?                |     |     |     |
-D.   Are there any popular tourist destinations in your district?
+| Column A | | | Column B | |
+| a.  a living museum | | | i.  18th century architecture in | |
+| of Newari culture | | | Bandipur | |
+| b.  a style of houses  | | | ii. a gateway to Bandipur | |
+| c.  the temples | | | iii.  Bandipur | |
+| d.  Dumre Bazar | | | iv.  pagoda | |
+C. Answer these questions.
+| a. | What is Bandipur famous for? | | | |
+| b. | How far is Bandipur from Kathmandu? | | | |
+| c. | Where does the Marsyangdi River lie? | | | |
+| d. | Write any four beautiful places to visit in Bandipur. | | | |
+| e. | Why should a visitor walk in Bandipur? | | | |
+D. Are there any popular tourist destinations in your district?
 What are they famous for? Share with your friends.
-| 112     |     |     |     |          English Grade 4 |
-| ------- | --- | --- | --- | ------------------------ |
-
+| 112 | | | | English Grade 4 |
 Pronunciation
 Pronounce these words. Notice the sound the letters in red make.
-| tour     | tourist  | ensure  | visual   | pure |
-| -------- | -------- | ------- | -------- | ---- |
-| curious  | secure   | mature  | furious  | cure |
+| tour | tourist  | ensure  | visual | pure |
+| curious  | secure | mature  | furious  | cure |
 Speaking
-A.   Act out the following conversation.
-Tourist  :   Excuse me! Can you help me? I’m new in this town.
-| Lakpa    | :   Sure! How can I help you?                 |     |     |     |
-| -------- | --------------------------------------------- | --- | --- | --- |
-| Tourist  | :   I want to visit the museum. Where is it?  |     |     |     |
-| Lakpa    | :   Not so far. It‘s about a ten minute walk. |     |     |     |
-| Tourist  | :   How can I get there?                      |     |     |     |
-Lakpa  :   Go along this street up to the traffic lights. From
+A. Act out the following conversation.
+Tourist  : Excuse me! Can you help me? I’m new in this town.
+| Lakpa | : Sure! How can I help you? | | | |
+| Tourist  | : I want to visit the museum. Where is it?  | | | |
+| Lakpa | : Not so far. It‘s about a ten minute walk. | | | |
+| Tourist  | : How can I get there? | | | |
+Lakpa  : Go along this street up to the traffic lights. From
 there, turn left and go along the sidewalk.
-| Tourist  | :   Please, wait a minute. Let me make some notes. |              |     |     |
-| -------- | -------------------------------------------------- | ------------ | --- | --- |
-| Lakpa    | :   OK, no problem.                                |              |     |     |
-| Tourist  | :   Now,                                           | I’m  ready.  |     |     |
+| Tourist  | : Please, wait a minute. Let me make some notes. | | | |
+| Lakpa | : OK, no problem. | | | |
+| Tourist  | : Now, | I’m  ready.  | | |
 Please continue.
-| Lakpa  | :  Go straight on. Take  |                |     |     |
-| ------ | ------------------------ | -------------- | --- | --- |
-|        | the  second              | turning        |     |     |
-|        | on  the                  | right.  After  |     |     |
+| Lakpa  | :  Go straight on. Take  | | | |
+| | the  second | turning | | |
+| | on  the | right.  After  | | |
 a  two-minute  walk,
-|     | you  | will  find  it  on  |     |     |
-| --- | ---- | ------------------- | --- | --- |
+| | you  | will  find  it  on  | | |
 your left.
-| Tourist          | :   Thank you!      |     |     |     |
-| ---------------- | ------------------- | --- | --- | --- |
-| Lakpa            | :   You’re welcome! |     |     |     |
-| English Grade 4  |                     |     |     | 113 |
-
+| Tourist | : Thank you! | | | |
+| Lakpa | : You’re welcome! | | | |
+| English Grade 4  | | | | 113 |
 B. Work in pairs. Take turns to ask and give directions.
 Use these guidelines:
 Questions:
 a. Excuse me! How can I get to
 .......... ?
 b. Hello! Good morning . Can
-A
 you tell me how to get to I
-R
 ............? P
-O
 Answers: R
-T
 a. Sure. Go straight/turn left/
 turn right/go ahead ......
 b. Of course. Go straight on/
@@ -3179,7 +1449,6 @@ car park and you will find the stationery.
 A: Thanks a lot.
 B: ………………………………….
 114 English Grade 4
-
 Grammar II
 A. Study the following examples.
 a. The school is on the right.
@@ -3203,16 +1472,13 @@ g. The post office is …..the
 corner.
 h. The stationery is …. south of the park.
 English Grade 4 115
-
 Do it by yourself.
 Choose a cultural/historical place from your locality. Write
 the name of the place on the top and paste the photos of that
 place.Then, display it in the classroom and talk about it.
-(Name of the place)
+Name of the place
 116 English Grade 4
-
 Unit
-1100
 Past Events
 Getting started
 A. Look at the pictures and describe the events of a school
@@ -3231,7 +1497,6 @@ Then last night it ran away,
 But first it wet the bed.
 -Shel Silverstein
 English Grade 4 117
-
 Answer these questions.
 a. What did the girl make with snow?
 b. Do you like to play with snow? why?
@@ -3261,7 +1526,6 @@ told him, "Yes, you have! You left a lesson
 for every son and hope for every father".
 The restaurant went silent.
 118 English Grade 4
-
 A. Find the words from the text to complete the puzzle.
 4S
 Across
@@ -3290,7 +1554,6 @@ d. A son and his father went to a restaurant.
 e. Another old man called the son.
 D. How should we take care of elderly people? Talk to your friends.
 English Grade 4 119
-
 Pronunciation I
 Pronounce these words. Notice the sounds the letters in red
 make.
@@ -3318,7 +1581,6 @@ k. The master came to know its trick.
 l. The donkey tried the same trick.
 Now, write the story in your notebook.
 120 English Grade 4
-
 Grammar
 A. These sentences are from the story ‘Dinner with
 Father’. Fill in the spaces with missing words.
@@ -3341,39 +1603,32 @@ i. Susan …… (come) to Kathmandu ten years ago.
 j. We …… (spend) the summer holiday in Dhangadi.
 k. He ……… (call) me just an hour ago.
 English Grade 4 121
-
 Listening
-A.   Look at these pictures and answer the following questions.
-| a.   | What do you see in the pictures? |     |     |     |
-| ---- | -------------------------------- | --- | --- | --- |
-| b.   | What are they doing?             |     |     |     |
-B.   Listen to the audio and answer these questions.
-| a.   | What was Emma doing at home?             |     |     |     |
-| ---- | ---------------------------------------- | --- | --- | --- |
-| b.   | When did the thief come to Emma’s house? |     |     |     |
-| c.		 | Where	did	the	thief	go	first?            |     |     |     |
-| d.   | What made Emma wake up?                  |     |     |     |
-| e.   | How did Emma go into the kitchen?        |     |     |     |
-C.   Have you heard a story like this from either your family,
+A. Look at these pictures and answer the following questions.
+| a. | What do you see in the pictures? | | | |
+| b. | What are they doing? | | | |
+B. Listen to the audio and answer these questions.
+| a. | What was Emma doing at home? | | | |
+| b. | When did the thief come to Emma’s house? | | | |
+| c.		 | Where	did	the	thief	go	first? | | | |
+| d. | What made Emma wake up? | | | |
+| e. | How did Emma go into the kitchen? | | | |
+C. Have you heard a story like this from either your family,
 friends or from a movie? Share it with your friends.
 Reading II
 Look at the pictures and answer these questions.
-| a.   What  | do  you  | see  in  | the  |     |
-| ---------- | -------- | -------- | ---- | --- |
+| a. What  | do  you  | see  in  | the  | |
 pictures?
-b.   Do you have a telephone at
+b. Do you have a telephone at
 your home?
-c.   What do you use it for?
-| 122     |     |     |       |        English Grade 4 |
-| ------- | --- | --- | ----- | ---------------------- |
-
+c. What do you use it for?
+| 122 | | | | English Grade 4 |
 Telephones
 Do you know that there are more telephones
-(landlines and mobile phones combined)
+landlines and mobile phones combined
 in the world than people? There are more
-| than  six  | billion       | mobile       | phones  | in          | the  |     |
-| ---------- | ------------- | ------------ | ------- | ----------- | ---- | --- |
-| world.     | It  is  hard  | to  imagine  |         | the  world  |      |     |
+| than  six  | billion | mobile | phones  | in | the  | |
+| world. | It  is  hard  | to  imagine  | | the  world  | | |
 without telephones. Thanks to Alexander
 Graham Bell who invented it in 1876 AD.
 Alexander Graham Bell was born in Scotland. As a young boy,
@@ -3392,150 +1647,124 @@ hear and speak. Since 1873, he began to teach less and focused
 his energy on experiments with sound. On March 10, 1876, while
 working on his invention, Mr. Bell spoke the first words ever on the
 telephone: “Mr. Watson, come here. I want to see you.”
-A.   Use these words/phrases to create meaningful sentences
+A. Use these words/phrases to create meaningful sentences
 of your own.
-| mobile phones      |     |     | billion     |     |     | invented   |
-| ------------------ | --- | --- | ----------- | --- | --- | ---------- |
-| hearing impaired   |     |     | workshop    |     |     | experiment |
-B.   Complete the table with correct information from the text.
-| Events                     |     |     |     |     |     | Year  |
-| -------------------------- | --- | --- | --- | --- | --- | ----- |
-| moved to Canada            |     |     |     |     |     | …………… |
-| ……………                      |     |     |     |     |     | 1871  |
-| focused more on experiment |     |     |     |     |     | …………… |
-| ……………                      |     |     |     |     |     | 1876  |
+| mobile phones | | | billion | | | invented |
+| hearing impaired | | | workshop | | | experiment |
+B. Complete the table with correct information from the text.
+| Events | | | | | | Year  |
+| moved to Canada | | | | | | …………… |
+| …………… | | | | | | 1871  |
+| focused more on experiment | | | | | | …………… |
+| …………… | | | | | | 1876  |
 English Grade 4  123
-
-C.   Answer these questions.
-| a.   | Where was Alexander Graham Bell born?          |     |     |     |     |     |     |     |
-| ---- | ---------------------------------------------- | --- | --- | --- | --- | --- | --- | --- |
-| b.   | What were his childhood interests and hobbies? |     |     |     |     |     |     |     |
-| c.   | Why did he build a small workshop?             |     |     |     |     |     |     |     |
-| d.   | Why did he go to Boston?                       |     |     |     |     |     |     |     |
-| e.		 | What	were	his	first	words	on	the	telephone?    |     |     |     |     |     |     |     |
-D.   Have you or any of your family members or friends ever
+C. Answer these questions.
+| a. | Where was Alexander Graham Bell born? | | | | | | | |
+| b. | What were his childhood interests and hobbies? | | | | | | | |
+| c. | Why did he build a small workshop? | | | | | | | |
+| d. | Why did he go to Boston? | | | | | | | |
+| e.		 | What	were	his	first	words	on	the	telephone? | | | | | | | |
+D. Have you or any of your family members or friends ever
 used a mobile phone? How did you feel?
 Pronunciation II
 Pronounce these words. Notice the sounds the letters in red make.
-| there  |     | parents  |     | where  | care  |     | air  |     |
-| ------ | --- | -------- | --- | ------ | ----- | --- | ---- | --- |
-| share  |     | chair    |     | pair   | rare  |     | wear |     |
+| there  | | parents  | | where  | care  | | air  | |
+| share  | | chair | | pair | rare  | | wear | |
 Speaking
-A.   Work in pairs and take turns to ask and answer the questions.
-| What did you do        |       |        |     |     | I read a story. I found it very  |           |          |       |
-| ---------------------- | ----- | ------ | --- | --- | -------------------------------- | --------- | -------- | ----- |
-| yesterday?             |       |        |     |     | interesting.                     |           |          |       |
-| Where did you go on    |       |        |     |     | I didn’t go anywhere. I          |           |          |       |
-| your last holiday?     |       |        |     |     | stayed at home.                  |           |          |       |
-| Did you watch TV       |       |        |     |     | Yes,  I                          | did.  I   | watched  | a     |
-| last night? What did   |       |        |     |     | cartoon show. It was Motu        |           |          |       |
-| you watch?             |       |        |     |     | Patlu.                           |           |          |       |
-| When did you go        |       |        |     |     | I  went                          | shopping  |          | last  |
-| shopping? What did     |       |        |     |     | month. I bought a bag and        |           |          |       |
-| you buy?               |       |        |     |     | a pair of shoes.                 |           |          |       |
-| When was the last you  |       |        |     |     | I  got  angry                    | a         | week     | ago   |
-| got  angry             | last  | time?  |     |     | because my brother broke         |           |          |       |
-| Why?                   |       |        |     |     | my ruler.                        |           |          |       |
-| 124                    |       |        |     |     |          English Grade 4         |           |          |       |
-
-B.   Work in pairs. Take turns, roll a dice and answer the
+A. Work in pairs and take turns to ask and answer the questions.
+| What did you do | | | | | I read a story. I found it very  | | | |
+| yesterday? | | | | | interesting. | | | |
+| Where did you go on | | | | | I didn’t go anywhere. I | | | |
+| your last holiday? | | | | | stayed at home. | | | |
+| Did you watch TV | | | | | Yes,  I | did.  I | watched  | a |
+| last night? What did | | | | | cartoon show. It was Motu | | | |
+| you watch? | | | | | Patlu. | | | |
+| When did you go | | | | | I  went | shopping  | | last  |
+| shopping? What did | | | | | month. I bought a bag and | | | |
+| you buy? | | | | | a pair of shoes. | | | |
+| When was the last you  | | | | | I  got  angry | a | week | ago |
+| got  angry | last  | time?  | | | because my brother broke | | | |
+| Why? | | | | | my ruler. | | | |
+| 124 | | | | | English Grade 4 | | | |
+B. Work in pairs. Take turns, roll a dice and answer the
 questions.
 How did you
-|               | When were  | What was your  |               |        |
-| ------------- | ---------- | -------------- | ------------- | ------ |
-| celebrate     |            |                | When did you  |        |
-|               | you sick   | last exciting  |               | FINISH |
-| the last New  |            |                | go to market? |        |
-|               | last time? | dream?         |               |        |
+| | When were  | What was your  | | |
+| celebrate | | | When did you  | |
+| | you sick | last exciting  | | FINISH |
+| the last New  | | | go to market? | |
+| | last time? | dream? | | |
 Year?
 When did you
 read a story?
-
-| What was        |         | When did       |                 |                 |
-| --------------- | ------- | -------------- | --------------- | --------------- |
-|                 | Go two  |                | Did you listen  | Were you late   |
-| your favourite  |         | you go to      |                 |                 |
-|                 | spaces  |                | to a new song   | to school last  |
-| toy as a small  |         | mamaghar last  |                 |                 |
-|                 | ahead.  |                | this week?      | week?           |
-| child?          |         | time?          |                 |                 |
-How
+| What was | | When did | | |
+| | Go two  | | Did you listen  | Were you late |
+| your favourite  | | you go to | | |
+| | spaces  | | to a new song | to school last  |
+| toy as a small  | | mamaghar last  | | |
+| | ahead.  | | this week? | week? |
+| child? | | time? | | |
 was your
 weekend?
-
-| Who was    | What          |                  |                  |           |
-| ---------- | ------------- | ---------------- | ---------------- | --------- |
-|            |               |                  | When was         | Who last  |
-| absent in  | was the       | Go three spaces  |                  |           |
-|            |               |                  | the last public  | made you  |
-| the class  | weather like  | ahead.           |                  |           |
-|            |               |                  | holiday?         | angry?    |
-| yesterday? | yesterday?    |                  |                  |           |
+| Who was | What | | | |
+| | | | When was | Who last  |
+| absent in  | was the | Go three spaces  | | |
+| | | | the last public  | made you  |
+| the class  | weather like  | ahead. | | |
+| | | | holiday? | angry? |
+| yesterday? | yesterday? | | | |
 How old were
 you two years
 ago?
-
-|                |          | What did      |                | Who was      |
-| -------------- | -------- | ------------- | -------------- | ------------ |
-| What time did  | Go back  |               | What time did  |              |
-|                |          | you have for  |                | your best    |
-| you go to bed  | three    |               | you get up     |              |
-|                |          | breakfast     |                | friend in    |
-| last night?    | spaces.  |               | today?         |              |
-|                |          | today?        |                | grade three? |
+| | | What did | | Who was |
+| What time did  | Go back  | | What time did  | |
+| | | you have for  | | your best |
+| you go to bed  | three | | you get up | |
+| | | breakfast | | friend in |
+| last night? | spaces.  | | today? | |
+| | | today? | | grade three? |
 Go three
 spaces ahead.
-
 How old
-|       |             |                | Who taught      | were you      |
-| ----- | ----------- | -------------- | --------------- | ------------- |
-|       | Where were  | When were you  |                 |               |
-| START |             |                | you your first  | when you      |
-|       | you born?   | born?          |                 |               |
-|       |             |                | letter?         | came to this  |
+| | | | Who taught | were you |
+| | Where were  | When were you  | | |
+| START | | | you your first  | when you |
+| | you born? | born? | | |
+| | | | letter? | came to this  |
 school?
 English Grade 4  125
-
 Writing II
-A.   Study the following examples. Notice the comma (,).
-| a.   There are pencils, erasers and scissors on the table. |     |     |     |     |
-| ---------------------------------------------------------- | --- | --- | --- | --- |
-| b.   Rita, my aunt, is a doctor.                           |     |     |     |     |
-| c.   In 2018, I went to Manakamana.                        |     |     |     |     |
-B.   Rewrite these sentences using commas (,).
-| a.   | February March and April are my favourite months.      |     |     |     |
-| ---- | ------------------------------------------------------ | --- | --- | --- |
-| b.   | Dilip Ramu Nabina and Ramlakhan are my best friends.   |     |     |     |
-| c.   | In the winter we need warm clothes.                    |     |     |     |
-| d.   | My favourite colours are pink blue and green.          |     |     |     |
-| e.   | September 20 2015 was an important day in the history  |     |     |     |
+A. Study the following examples. Notice the comma (,).
+| a. There are pencils, erasers and scissors on the table. | | | | |
+| b. Rita, my aunt, is a doctor. | | | | |
+| c. In 2018, I went to Manakamana. | | | | |
+B. Rewrite these sentences using commas (,).
+| a. | February March and April are my favourite months. | | | |
+| b. | Dilip Ramu Nabina and Ramlakhan are my best friends. | | | |
+| c. | In the winter we need warm clothes. | | | |
+| d. | My favourite colours are pink blue and green. | | | |
+| e. | September 20 2015 was an important day in the history  | | | |
 of Nepal.
-| f.   | Ranjit my brother is a teacher.   |     |     |     |
-| ---- | --------------------------------- | --- | --- | --- |
-| g.   | Excuse me can you help me?        |     |     |     |
-| h.   | Yes you are right.                |     |     |     |
-| i.   | Hi how are you?                   |     |     |     |
-| j.   | Without water life is impossible. |     |     |     |
-C.   Read the following paragraph about a birthday celebration.
-
+| f. | Ranjit my brother is a teacher. | | | |
+| g. | Excuse me can you help me? | | | |
+| h. | Yes you are right. | | | |
+| i. | Hi how are you? | | | |
+| j. | Without water life is impossible. | | | |
+C. Read the following paragraph about a birthday celebration.
 Last Friday was a special day for me. It was my birthday. I
 invited my friends and relatives. They arrived at my home at
 6:00 p.m. First, I welcomed and greeted everybody. We lit
 the candles. We cut a beautiful cake. We flew the balloons.
 My mother prepared delicious food which we ate together.
 After having our dinner together, we sang and danced a lot.
-| 126     |     |     |     |        English Grade 4 |
-| ------- | --- | --- | --- | ---------------------- |
-
+| 126 | | | | English Grade 4 |
 D. How did you celebrate your last birthday? Write a similar
 paragraph.
 Do it by yourself.
 Draw or paste the pictures of different mobile phones. Show
 the pictures to your friends. Say where you saw them.
 English Grade 4 127
-
 Unit
-1111
 Giving Reasons
 Getting started
 A. Look at these pictures and discuss the questions below
@@ -3559,47 +1788,38 @@ Till morning in the land of Nod.
 Try as I like to find the way,
 I never can get back by day,
 128 English Grade 4
-
 Nor can remember plain and clear
 The curious music that I hear.
 -Robert Louis Stevenson
-a.   Find the missing letters of these words from the above song
+a. Find the missing letters of these words from the above song
 and read them aloud.
-| i.                  | a - r - a -  |     | ii. n - d      |     |
-| ------------------- | ------------ | --- | -------------- | --- |
-| iii. s - r - a - s  |              |     | iv. d - e - m  |     |
-b.   Have you ever had a strange dream? What things people
+| i. | a - r - a -  | | ii. n - d | |
+| iii. s - r - a - s  | | | iv. d - e - m  | |
+b. Have you ever had a strange dream? What things people
 dream about? Talk to your friends.
 Reading I
 Look at the following pictures and answer these questions.
-a.   What do you see in the pictures?
-b.   What do you think they are doing?
+a. What do you see in the pictures?
+b. What do you think they are doing?
 My Pet
-| Hi!    | I’m  Peter.  | Now  I’m     |     |     |
-| ------ | ------------ | ------------ | --- | --- |
-| going  | to  share    | with    you  |     |     |
+| Hi! | I’m  Peter.  | Now  I’m | | |
+| going  | to  share | with you  | | |
 the story of my pet. Most
-| people  | pick  dogs  | or  cats  |     |     |
-| ------- | ----------- | --------- | --- | --- |
+| people  | pick  dogs  | or  cats  | | |
 for pets but the best pet I
 ever had was a shark. Of
-| course,  | the  first  | time  he  |     |     |
-| -------- | ----------- | --------- | --- | --- |
+| course,  | the  first  | time  he  | | |
 swam up to our boat, I was
 rather scared. He had more
 teeth in his mouth than a tree has leaves. But then, he couldn’t
 stop wiggling his fin. Mom said I could keep him as long as he
 didn’t get the carpet wet.
-129
 English Grade 4
-
-| I  named  | him  | Rover  |     |     |
-| --------- | ---- | ------ | --- | --- |
+| I  named  | him  | Rover  | | |
 and we had lots of fun
 together. However, the
-| neighbours  |          | became  |     |     |
-| ----------- | -------- | ------- | --- | --- |
-| a  little   | nervous  | once    |     |     |
+| neighbours  | | became  | | |
+| a  little | nervous  | once | | |
 they heard that I had a
 pet shark. They didn’t
 want their kids playing
@@ -3615,17 +1835,14 @@ He always chased the boats because he loved them so much.
 One day, he went after a new speedboat. No one has seen him
 since. So if you spot a shark in a red scarf, please tell him to
 come home. I miss him a lot.
-A.   Match the words on the left with the meanings on the right.
-| a.   | scared     |   i. ran after somebody or something |     |     |
-| ---- | ---------- | ------------------------------------ | --- | --- |
-| b.   | wiggled    | ii. a tool that makes things sharp   |     |     |
-| c.   | sharpener  | iii. afraid                          |     |     |
-| d.   | scarf      |   iv. moved from side to side        |     |     |
-e.   chased    v. a piece of cloth that is worn around the
-|         |     |       neck |     |                          |
-| ------- | --- | ---------- | --- | ------------------------ |
-| 130     |     |            |     |          English Grade 4 |
-
+A. Match the words on the left with the meanings on the right.
+| a. | scared | i. ran after somebody or something | | |
+| b. | wiggled | ii. a tool that makes things sharp | | |
+| c. | sharpener  | iii. afraid | | |
+| d. | scarf | iv. moved from side to side | | |
+e. chased v. a piece of cloth that is worn around the
+| | | neck | | |
+| 130 | | | | English Grade 4 |
 B. Link the phrases on the left to the phrases on the right to
 make meaningful sentences.
 a. The shark i. became nervous.
@@ -3652,39 +1869,34 @@ Read this text and write a similar paragraph about your
 favourite pet.
 Goldfish are my favourite pet. There are five goldfish in an aquarium.
 English Grade 4 131
-
 Among  them,  three  are  orange  and  two  are  white.  I  like  them
 because they are cute and beautiful. I feed them every day. I keep
 the aquarium clean and fresh. I always look at the aquarium when I
 return home after school. They swim and dance to show their love.
 Grammar I
-A.   Study the following example sentences.
-|     | Present simple |     | Past simple |     |
-| --- | -------------- | --- | ----------- | --- |
+A. Study the following example sentences.
+| | Present simple | | Past simple | |
 a. He went to bed early
 a. He generally goes to bed early.
 yesterday.
-| b. We always play video games. |     |     | b. We played video games. |     |
-| ------------------------------ | --- | --- | ------------------------- | --- |
-| c. They swim 100 metres.       |     |     | c. They swam 100 metres.  |     |
-| d. She has a car.              |     |     | d. She had a car.         |     |
-e. I enjoy watching cartoons.   e. I enjoyed watching cartoons.
-B.   Change the following present simple sentences into past
+| b. We always play video games. | | | b. We played video games. | |
+| c. They swim 100 metres. | | | c. They swam 100 metres.  | |
+| d. She has a car. | | | d. She had a car. | |
+e. I enjoy watching cartoons. e. I enjoyed watching cartoons.
+B. Change the following present simple sentences into past
 simple sentences.
-| Example:   | I write a very interesting story.            |     |     |                          |
-| ---------- | -------------------------------------------- | --- | --- | ------------------------ |
-|            |     I wrote a very interesting story.        |     |     |                          |
-| a.         | They complete their classwork.               |     |     |                          |
-| b.         | They wash their hands before lunch.          |     |     |                          |
-| c.         | The boys perform on the stage.               |     |     |                          |
-| d.         | Raju takes a bath after dinner.              |     |     |                          |
-| e.         | An ambulance takes the patients to hospital. |     |     |                          |
-| f.         | The girls go to the beach on holiday.        |     |     |                          |
-| g.         | Geeta drops litter into the dustbin.         |     |     |                          |
-| h.         | The driver drives the bus to the station.    |     |     |                          |
-| i.         | Paul gives a gift to Durga.                  |     |     |                          |
-| 132        |                                              |     |     |          English Grade 4 |
-
+| Example: | I write a very interesting story. | | | |
+| | I wrote a very interesting story. | | | |
+| a. | They complete their classwork. | | | |
+| b. | They wash their hands before lunch. | | | |
+| c. | The boys perform on the stage. | | | |
+| d. | Raju takes a bath after dinner. | | | |
+| e. | An ambulance takes the patients to hospital. | | | |
+| f. | The girls go to the beach on holiday. | | | |
+| g. | Geeta drops litter into the dustbin. | | | |
+| h. | The driver drives the bus to the station. | | | |
+| i. | Paul gives a gift to Durga. | | | |
+| 132 | | | | English Grade 4 |
 C. Change the following into negative sentences.
 Example:
 I met Gokul in 2015.
@@ -3708,21 +1920,16 @@ e. The speaker gets sad when he knows about the …………
 being attacked by a dog.
 C. Do you know anything else about dogs? Tell your friends.
 English Grade 4 133
-
 Reading II
 Look at the following messages answer these question.
-| a.   | Have you ever seen these types of cards? |     |     |     |
-| ---- | ---------------------------------------- | --- | --- | --- |
-| b.   | Do you like them? Why?                   |     |     |     |
+| a. | Have you ever seen these types of cards? | | | |
+| b. | Do you like them? Why? | | | |
 Message Notes
-| Dear Roma, |     |     |     | Welcome! |
-| ---------- | --- | --- | --- | -------- |
+| Dear Roma, | | | | Welcome! |
 You were always there with me when  A colourful year has begun.
-| no one was. |     |     | I know we will have a lot of fun. |     |
-| ----------- | --- | --- | --------------------------------- | --- |
+| no one was. | | | I know we will have a lot of fun. | |
 Accept my sincere thank you because
-| you deserve it. |     |     | I am so glad because you are here. |     |
-| --------------- | --- | --- | ---------------------------------- | --- |
+| you deserve it. | | | I am so glad because you are here. | |
 Thanks for being there.
 We’ll have FUN so don’t fear!
 With love
@@ -3734,45 +1941,37 @@ Your friend Rosy from music class called in your absence. She called to inform
 that today’s music class has been suspended because the teacher is not well.
 Instead, it will be held on Sunday. So she wants to remember it.
 Rachana
-A.   Read  the  messages  above  and  match  each  half  of  the
+A. Read  the  messages  above  and  match  each  half  of  the
 sentences.
-| a.      | Bonu       |   i. is Sapana’s friend.      |     |                          |
-| ------- | ---------- | ----------------------------- | --- | ------------------------ |
-| b.      | Principal  |   ii. leaves a message.       |     |                          |
-| c.      | Rachana    |   iii. welcomes the students. |     |                          |
-| d.      | Rosy       |   iv. thanks her friend.      |     |                          |
-| 134     |            |                               |     |          English Grade 4 |
-
-B.   Answer these questions.
-| a.   Is Bonu grateful to Roma? Why?                       |     |     |     |     |     |
-| --------------------------------------------------------- | --- | --- | --- | --- | --- |
-| b.   Why is the principal feeling happy?                  |     |     |     |     |     |
-| c.   What does the principal tell the students not to do? |     |     |     |     |     |
-| d.  Why was the music class cancelled?                    |     |     |     |     |     |
-| e.   When is the next music class?                        |     |     |     |     |     |
+| a. | Bonu | i. is Sapana’s friend. | | |
+| b. | Principal  | ii. leaves a message. | | |
+| c. | Rachana | iii. welcomes the students. | | |
+| d. | Rosy | iv. thanks her friend. | | |
+| 134 | | | | English Grade 4 |
+B. Answer these questions.
+| a. Is Bonu grateful to Roma? Why? | | | | | |
+| b. Why is the principal feeling happy? | | | | | |
+| c. What does the principal tell the students not to do? | | | | | |
+| d.  Why was the music class cancelled? | | | | | |
+| e. When is the next music class? | | | | | |
 Speaking
-A.   Read and act.
-| The  school   | was  closed  |     |                  |           |        |
-| ------------- | ------------ | --- | ---------------- | --------- | ------ |
-|               |              |     | I  spend         | most  of  | the    |
-| last  Sunday  | because      | it  | time  listening  | to        | music  |
+A. Read and act.
+| The  school | was  closed  | | | | |
+| | | | I  spend | most  of  | the |
+| last  Sunday  | because | it  | time  listening  | to | music  |
 was a public holiday.
 because it is my holiday.
 I was at my uncle’s
 wedding. So, I was
 absent yesterday,
-I bought a T-shirt,   I
+I bought a T-shirt, I
 took it back to the
 shop because there
-| was a whole on it. |     |     | The  | movie  was  | boring.  |
-| ------------------ | --- | --- | ---- | ----------- | -------- |
+| was a whole on it. | | | The  | movie  was  | boring.  |
 So, we left the movie at
 the interval.
-b
-135
 English Grade 4
-
-B.   Work in groups. Use the speaking cards and take turns to
+B. Work in groups. Use the speaking cards and take turns to
 give reasons.
 Example:
 I couldn’t sleep last night because the neighbours played the
@@ -3780,8 +1979,7 @@ music until 1:00 a.m.
 I got up late today. I missed you a lot. I love spring season.
 I enjoy a folk dance. Norbu and Sonam are  I wore new clothes.
 always together.
-| I couldn’t sleep last  |     | My brother and I went to a  |     |     |
-| ---------------------- | --- | --------------------------- | --- | --- |
+| I couldn’t sleep last  | | My brother and I went to a  | | |
 I love Sarangi.
 river last Saturday.
 night.
@@ -3790,17 +1988,14 @@ What is your favourite festival? Why do you like it? Write a
 paragraph giving your reasons.
 Grammar II
 A.  Study the following examples.
-| a.   | Fruit tastes good and is healthy for our body.        |     |     |     |
-| ---- | ----------------------------------------------------- | --- | --- | --- |
-| b.   | Kathmandu is a big city and is the capital of Nepal.  |     |     |     |
-| c.   | Karina can buy a car because she earns a lot.         |     |     |     |
-| d.   | I carried an umbrella because it was raining outside. |     |     |     |
-e.   People think Mathematics is a difficult subject, but I like
+| a. | Fruit tastes good and is healthy for our body. | | | |
+| b. | Kathmandu is a big city and is the capital of Nepal.  | | | |
+| c. | Karina can buy a car because she earns a lot. | | | |
+| d. | I carried an umbrella because it was raining outside. | | | |
+e. People think Mathematics is a difficult subject, but I like
 it.
-| f.      | He is a good actor, but he isn’t famous. |     |     |                          |
-| ------- | ---------------------------------------- | --- | --- | ------------------------ |
-| 136     |                                          |     |     |          English Grade 4 |
-
+| f. | He is a good actor, but he isn’t famous. | | | |
+| 136 | | | | English Grade 4 |
 B. Choose the correct words from the brackets to make
 meaningful sentences.
 a. A cat entered the room (and/but/because) ate the fish.
@@ -3823,9 +2018,7 @@ Do it by yourself.
 Design a thank-you note for your friend. Be creative. Give it to
 her/him and say why you would like to thank them.
 English Grade 4 137
-
 Unit
-1122
 Popular Places and People
 Getting started
 A. Look at the pictures and talk about these popular places.
@@ -3840,39 +2033,33 @@ When he can just fit through a door.
 One mince pie would never do
 He'd only ask for more.
 138 English Grade 4
-
 My dad would like to be Santa
 And fill the world with glee,
 So until they advertise the job,
 He'll give all his love to me.
-|     |     |     |     |           - Graham Craven |
-| --- | --- | --- | --- | ------------------------- |
+| | | | | - Graham Craven |
 What festivals do you celebrate in a year? Talk about one of
 them. Describe what you do at that festival.
 Reading I
 Answer the following questions.
-a.   Have you heard about Namche Bazaar? What is it?
-b.   Which province does it lie in?
+a. Have you heard about Namche Bazaar? What is it?
+b. Which province does it lie in?
 Namche Bazaar
-| Namche   | Bazaar     | is  a  |     |     |
-| -------- | ---------- | ------ | --- | --- |
-| gateway  | to  Mount  |        |     |     |
+| Namche | Bazaar | is  a  | | |
+| gateway  | to  Mount  | | | |
 Everest. It is the heart
 of the Khumbu valley.
 It is situated on the
 slope of a mountain.
 The mountain offers
-| the  beautiful  | views         |     |     |     |
-| --------------- | ------------- | --- | --- | --- |
-| of  the         | Himalayan     |     |     |     |
-| range.          | This  little  |     |     |     |
+| the  beautiful  | views | | | |
+| of  the | Himalayan | | | |
+| range. | This  little  | | | |
 town is full of shops,
 cafes, restaurants, guest houses, and many more.
-Namche  is  located  in  the  Khumbu  Pasang  Lhamu    Rural
+Namche  is  located  in  the  Khumbu  Pasang  Lhamu Rural
 Municipality of Solukhumbu district. It is 3440 metres high.
-139
 English Grade 4
-
 It lies in the north of eastern Nepal. The town is encircled by
 great mountain tops. A quiet and silent environment is a new
 experience for the visitors. They enjoy the amazing  view of
@@ -3881,156 +2068,125 @@ mountain peaks. Anyone who passes through Namche, falls in
 love with the place. Many Everest Base Camp goers stay here
 for at least two days before continuing their journey. They do
 the last minute shopping for essentials.
-|     |     |     |     |     |     | The  Sherpa  | culture  |     |
-| --- | --- | --- | --- | --- | --- | ------------ | -------- | --- |
+| | | | | | | The  Sherpa  | culture  | |
 museum is one of the
 attractions of Namche
-|     |     |     |     |     |     | Bazaar.     | Here,  | you  |
-| --- | --- | --- | --- | --- | --- | ----------- | ------ | ---- |
-|     |     |     |     |     |     | can  learn  | about  | the  |
+| | | | | | | Bazaar. | Here,  | you  |
+| | | | | | | can  learn  | about  | the  |
 historical background
-|     |     |     |     |     |     | of  the    | Sherpa  | ethnic  |
-| --- | --- | --- | --- | --- | --- | ---------- | ------- | ------- |
-|     |     |     |     |     |     | group.The  | museum  |         |
+| | | | | | | of  the | Sherpa  | ethnic  |
+| | | | | | | group.The  | museum  | |
 contains  all  sorts  of  past  physical  memories  of  the  Sherpa
 community.  There,  you  can  observe  how  they  were  in  old
 times. There you can see photographs that display the life of the
 Sherpas before tourism took over the Khumbu region. Besides
-| photographs,  |                        | you         | can     | also  |     |     |     |     |
-| ------------- | ---------------------- | ----------- | ------- | ----- | --- | --- | --- | --- |
-| see  the      | old                    | artifacts,  | items   |       |     |     |     |     |
-| used          | by  the                | Sherpas,    |         | and   |     |     |     |     |
-| many          | more.                  | The         | museum  |       |     |     |     |     |
-| itself        | is  a  representation  |             |         | of    |     |     |     |     |
+| photographs,  | | you | can | also  | | | | |
+| see  the | old | artifacts,  | items | | | | | |
+| used | by  the | Sherpas, | | and | | | | |
+| many | more. | The | museum  | | | | | |
+| itself | is  a  representation  | | | of | | | | |
 Sherpa culture. The building
-| of  the      | museum  |         | showcases  |     |     |     |     |     |
-| ------------ | ------- | ------- | ---------- | --- | --- | --- | --- | --- |
-| traditional  |         | Sherpa  | designs    |     |     |     |     |     |
+| of  the | museum  | | showcases  | | | | | |
+| traditional  | | Sherpa  | designs | | | | | |
 and architecture.
-| 140   |     |     |     |     |     |            English Grade 4 |     |     |
-| ----- | --- | --- | --- | --- | --- | -------------------------- | --- | --- |
-
-A.   Match the words on the left with their meanings on the right.
-|   a.  gateway  | i.   an object that was made in the past |     |     |     |
-| -------------- | ---------------------------------------- | --- | --- | --- |
-  b.  encircled  ii.   to present  the good quality of something
-|   c.  essential  | iii.  a place where you can go through |             |             |     |
-| ---------------- | -------------------------------------- | ----------- | ----------- | --- |
-|   d.  ethnic     | iv.  surrounded by something           |             |             |     |
-|   e.  showcase   | v.   a basic but important thing       |             |             |     |
-|   f.   artifact  | vi.  belonging                         | to  people  | that  have  | a   |
+| 140 | | | | | | English Grade 4 | | |
+A. Match the words on the left with their meanings on the right.
+| a.  gateway  | i. an object that was made in the past | | | |
+b.  encircled  ii. to present  the good quality of something
+| c.  essential  | iii.  a place where you can go through | | | |
+| d.  ethnic | iv.  surrounded by something | | | |
+| e.  showcase | v. a basic but important thing | | | |
+| f. artifact  | vi.  belonging | to  people  | that  have  | a |
 common culture
-B.   Match the information in column A with their matching
+B. Match the information in column A with their matching
 information from column B.
-|   Column A           |     | Column B                   |     |     |
-| -------------------- | --- | -------------------------- | --- | --- |
-|   a.  Namche Bazaar  |     | i.  past physical memories |     |     |
-  b.  The height of Namche Bazaar  ii.  the life of Sherpa’s
+| Column A | | Column B | | |
+| a.  Namche Bazaar  | | i.  past physical memories | | |
+b.  The height of Namche Bazaar  ii.  the life of Sherpa’s
 before tourism
-|   c.  The Sherpa museum  |     | iii. a gateway to Mount  |     |     |
-| ------------------------ | --- | ------------------------ | --- | --- |
+| c.  The Sherpa museum  | | iii. a gateway to Mount  | | |
 Everest
-|   d.  Photographs   |     | iv. 3440 metres |     |     |
-| ------------------- | --- | --------------- | --- | --- |
-C.   Answer these questions about Namche Bazaar.
-  a.   What can a person see from Namche Bazaar?
-  b.   Where is it situated?
-  c.   What new experience does it give to the visitors?
-  d.   Who stays there for two days?
-  e.   Why is the Sherpa culture museum one of the attractions
+| d.  Photographs | | iv. 3440 metres | | |
+C. Answer these questions about Namche Bazaar.
+a. What can a person see from Namche Bazaar?
+b. Where is it situated?
+c. What new experience does it give to the visitors?
+d. Who stays there for two days?
+e. Why is the Sherpa culture museum one of the attractions
 for visitors?
-141
 English Grade 4
-
 Pronunciation
 Pronounce these words. Notice the sound letters in red make.
-here            beard              clear                  ear                   fear
-gear            near                tear                    year                 career
+here beard clear ear fear
+gear near tear year career
 Writing I
 Use some of the words to help you write a description of your
 town or village.
-| small,   | big,      | beautiful,                   | interesting, temple/monastery,  |            |       |
-| -------- | --------- | ---------------------------- | ------------------------------- | ---------- | ----- |
-| mosque,  | church,   | school,                      | library,                        | hospital,  | park, |
-| pond,    | next to,  | to the south/north/east/west |                                 |            |       |
+| small, | big, | beautiful, | interesting, temple/monastery,  | | |
+| mosque,  | church, | school, | library, | hospital,  | park, |
+| pond, | next to,  | to the south/north/east/west | | | |
 My  town/village is a small/big town/village, but it is …………….
 It has.................
 Grammar I
-A.   Study these sentences.
-|   a.   | My friend told me a funny story.          |     |     |     |     |
-| ------ | ----------------------------------------- | --- | --- | --- | --- |
-|   b.   | The purple handkerchief has a hole in it. |     |     |     |     |
-|   c.   | Loud music can hurt the ears.             |     |     |     |     |
-|   d.   | I have a beautiful house.                 |     |     |     |     |
-|   e.   | You gave me a difficult task.             |     |     |     |     |
-B.   Choose appropriate adjectives from below and fill in the
+A. Study these sentences.
+| a. | My friend told me a funny story. | | | | |
+| b. | The purple handkerchief has a hole in it. | | | | |
+| c. | Loud music can hurt the ears. | | | | |
+| d. | I have a beautiful house. | | | | |
+| e. | You gave me a difficult task. | | | | |
+B. Choose appropriate adjectives from below and fill in the
 gaps.
-|   fancy   | terrible   |     | successful      | soft                     | curly |
-| --------- | ---------- | --- | --------------- | ------------------------ | ----- |
-|   hungry  | colourful  |     | sad             | beautiful                |       |
-| 142       |            |     |                 |          English Grade 4 |       |
-
-|   a.   | A hungry boy is crying.                         |         |         |           |          |
-| ------ | ----------------------------------------------- | ------- | ------- | --------- | -------- |
-|   b.   | My sister wore a …………….. dress on her birthday. |         |         |           |          |
-|   c.   | There                                           | was  a  | …………….  | accident  | on  the  |
+| fancy | terrible | | successful | soft | curly |
+| hungry  | colourful  | | sad | beautiful | |
+| 142 | | | | English Grade 4 | |
+| a. | A hungry boy is crying. | | | | |
+| b. | My sister wore a …………….. dress on her birthday. | | | | |
+| c. | There | was  a  | …………….  | accident  | on  the  |
 road.
-|   d.   | Priya looks so ………… in that red sari.     |     |     |     |     |
-| ------ | ----------------------------------------- | --- | --- | --- | --- |
-|   e.   | Binod is a ………….. businessman.            |     |     |     |     |
-|   f.   | I love ……..pillow.                        |     |     |     |     |
-|   g.   | You look so ……… today. What happened?     |     |     |     |     |
-|   h.   | We decorated our room with ………….balloons. |     |     |     |     |
-  i.   She  has  gone  to  a  salon  to  make  her  ……….  hair
+| d. | Priya looks so ………… in that red sari. | | | | |
+| e. | Binod is a ………….. businessman. | | | | |
+| f. | I love ……..pillow. | | | | |
+| g. | You look so ……… today. What happened? | | | | |
+| h. | We decorated our room with ………….balloons. | | | | |
+i. She  has  gone  to  a  salon  to  make  her  ……….  hair
 straight.
-C.   Study these sentences.
-|   a.   | This doll is so expensive.                         |     |     |     |     |
-| ------ | -------------------------------------------------- | --- | --- | --- | --- |
-|   b.   | That lake is very beautiful.                       |     |     |     |     |
-|   c.   | These mangoes are ripe.                            |     |     |     |     |
-|   d.   | Those apartments were built after the earthquake.  |     |     |     |     |
-D.   Fill in the blanks with this/that/these/those.
-  a.  Can you help me to carry ……..suitcase?
-  b.  Look at ………… earrings. I bought them yesterday.
-  c.   ……. house over there is old, but it is very attractive.
-  d.  I like ………..shoes, please pack them.
-  e.  …….. people are talking loudly there. I don’t know the
+C. Study these sentences.
+| a. | This doll is so expensive. | | | | |
+| b. | That lake is very beautiful. | | | | |
+| c. | These mangoes are ripe. | | | | |
+| d. | Those apartments were built after the earthquake.  | | | | |
+D. Fill in the blanks with this/that/these/those.
+a.  Can you help me to carry ……..suitcase?
+b.  Look at ………… earrings. I bought them yesterday.
+c. ……. house over there is old, but it is very attractive.
+d.  I like ………..shoes, please pack them.
+e.  …….. people are talking loudly there. I don’t know the
 reason.
-|   f.   | Wear …………helmet not that one. It is so strong. |     |     |     |     |
-| ------ | ---------------------------------------------- | --- | --- | --- | --- |
-|   g.   | Look at…………mountains, they are so beautiful.   |     |     |     |     |
-|   h.   | ……….cloud looks like a bird.                   |     |     |     |     |
-143
+| f. | Wear …………helmet not that one. It is so strong. | | | | |
+| g. | Look at…………mountains, they are so beautiful. | | | | |
+| h. | ……….cloud looks like a bird. | | | | |
 English Grade 4
-
 Listening
-A.   Look at the picture and answer these questions.
-|   a.   | What do you see in the picture?  |     |     |     |     |
-| ------ | -------------------------------- | --- | --- | --- | --- |
-|   b.   | Do you know this place?          |     |     |     |     |
-B.   Listen to the audio and fill in the blanks with correct
+A. Look at the picture and answer these questions.
+| a. | What do you see in the picture?  | | | | |
+| b. | Do you know this place? | | | | |
+B. Listen to the audio and fill in the blanks with correct
 information.
-|   a.   | Sagarmatha National Park is situated in the ……………  |     |     |     |     |
-| ------ | -------------------------------------------------- | --- | --- | --- | --- |
+| a. | Sagarmatha National Park is situated in the ……………  | | | | |
 of Nepal.
-|   b.   | Sagarmatha National Park is  ……………to series of  |     |     |     |     |
-| ------ | ----------------------------------------------- | --- | --- | --- | --- |
+| b. | Sagarmatha National Park is  ……………to series of  | | | | |
 high peaks.
-  c.   The travellers show their ………... permit at the entrance.
-|   d.   | The length of the Everest Path is …………………..     |     |     |     |     |
-| ------ | ----------------------------------------------- | --- | --- | --- | --- |
-|   e.   | The Sherpa people use this path as a ………….road. |     |     |     |     |
-C.   What other information different from the above, have
+c. The travellers show their ………... permit at the entrance.
+| d. | The length of the Everest Path is ………………….. | | | | |
+| e. | The Sherpa people use this path as a ………….road. | | | | |
+C. What other information different from the above, have
 | you  | heard  about  | Sagarmatha  | National  | Park?  Write  | as  |
-| ---- | ------------- | ----------- | --------- | ------------- | --- |
 much as you can.
 Reading II
 Look at the picture and answer these questions.
 a. Who do you think the man is in the picture?
 b. Why do you think he is famous?
-| 144     |     |     |     |          English Grade 4 |     |
-| ------- | --- | --- | --- | ------------------------ | --- |
-
+| 144 | | | | English Grade 4 | |
 Charlie Chaplin
 Charlie Chaplin was born on April 16, 1889 in London. He is
 known throughout the world as one of the great comic actors,
@@ -4063,7 +2219,6 @@ d. pferossialon............... e. catreive ....................
 f. pdrouce .................................
 Now, use each of the words above in six of your own sentences.
 English Grade 4 145
-
 B. Read the text again and complete the fact file with
 information about Charlie Chaplin.
 Name: .........................
@@ -4089,7 +2244,6 @@ about what they look like and what they are wearing.
 Describe height, body build, age, hair colour, hair length
 and facial features like eyes, eyebrows, nose, mouth etc.
 146 English Grade 4
-
 Grammar II
 A. Study these example sentences.
 a. Look! Dawa is sitting on the chair.
@@ -4099,53 +2253,47 @@ d. Shhhh! The baby is sleeping in the cot.
 e. They are eating lunch right now.
 B. Rewrite the sentences below using the verbs in the
 brackets. Use the present continuous tense.
-a. My father ……………….on the phone right now. (talk)
-b. Mohan ………….. on a project nowadays. (work)
-c. The children ………….in the playground now. (play)
-d. Some people …………….outside to meet you. (wait)
-e. Karma and Sipora ………….on the stage. (sing)
-f. The kids ………….the cartoon now. (watch)
-g. Don’t cross the road. A bus ……… . (come)
-h. Look! The old man ………….a heavy bag. (carry)
+a. My father ……………….on the phone right now. (talk
+b. Mohan ………….. on a project nowadays. (work
+c. The children ………….in the playground now. (play
+d. Some people …………….outside to meet you. (wait
+e. Karma and Sipora ………….on the stage. (sing
+f. The kids ………….the cartoon now. (watch
+g. Don’t cross the road. A bus ……… . (come
+h. Look! The old man ………….a heavy bag. (carry
 i. Pratik ………… a bath. He can’t receive your call.
-(have)
-j. It’s a lovely day, the Sun ……………… (shine)
+have
+j. It’s a lovely day, the Sun ……………… (shine
 k. Please come here, I ……………in front of the pond.
-(stand)
-l. Look! The dog ……………a cat. (chase)
+stand
+l. Look! The dog ……………a cat. (chase
 English Grade 4 147
-
-C.   Study the examples below. Write negative sentences and
+C. Study the examples below. Write negative sentences and
 yes/no questions for the following statements.
 Example:
 They are swimming in the pool at the moment.
-Negative  :   They are not swimming in the pool at the moment.
-| Question :  |  Are they swimming in the pool at the moment? |     |     |     |
-| ----------- | --------------------------------------------- | --- | --- | --- |
-| a.          | Jasita is listening to music now.             |     |     |     |
-| b.          | You are spending a lot of money nowadays.     |     |     |     |
-| c.          | Anupama is flying a kite now.                 |     |     |     |
-| d.          | Biraj is drawing a picture.                   |     |     |     |
-| e.          | The kids are hiding behind the tree now.      |     |     |     |
+Negative  : They are not swimming in the pool at the moment.
+| Question :  |  Are they swimming in the pool at the moment? | | | |
+| a. | Jasita is listening to music now. | | | |
+| b. | You are spending a lot of money nowadays. | | | |
+| c. | Anupama is flying a kite now. | | | |
+| d. | Biraj is drawing a picture. | | | |
+| e. | The kids are hiding behind the tree now. | | | |
 Writing II
-A.   Read the following text.
+A. Read the following text.
 This is a beautiful childrens’
 park in my town. The children
-| are  there  | with  their  | family    |     |     |
-| ----------- | ------------ | --------- | --- | --- |
-| today.      | They  are    | enjoying  |     |     |
+| are  there  | with  their  | family | | |
+| today. | They  are | enjoying  | | |
 the weekend.  The weather
-| is  fine.  | The  butterflies  | are  |     |     |
-| ---------- | ----------------- | ---- | --- | --- |
-| flying     | and  the  birds   | are  |     |     |
+| is  fine.  | The  butterflies  | are  | | |
+| flying | and  the  birds | are  | | |
 singing in the garden. The
 father and mother are sitting
 on the bench. The girls are
 playing hide and seek. The boy is swinging. They are having a
 good time.
-| 148   |       |     |     |          English Grade 4 |
-| ----- | ----- | --- | --- | ------------------------ |
-
+| 148 | | | | English Grade 4 |
 B. Look at the picture. Describe what different people are
 doing there.
 C. Draw a picture of a friend or a family member. Then, write
@@ -4155,9 +2303,7 @@ What is the most famous place either in your district or in a
 different country? Draw it and write a short description about
 it. Display it to the class.
 English Grade 4 149
-
 Unit
-1133
 Hobbies and Interests
 Getting started
 A. Look at the pictures and suggest what these people might
@@ -4172,7 +2318,6 @@ Others watch stars at night.
 You can make jewellery or sew your clothes,
 Or, even make your own kite.
 150 English Grade 4
-
 It’s such a fun to have a hobby,
 There’s a perfect one for you.
 Try some interesting new ones,
@@ -4198,81 +2343,69 @@ near her home. She sometimes goes
 after work, but she usually goes
 horseback riding on Sundays. She loves music. She always
 English Grade 4 151
-
 goes to the temple on Wednesday
 evenings. She doesn’t have much
 extra money, so she rarely goes to
 concerts in the city.
-|     |     |     | She  | seldom  watches  | TV  |
-| --- | --- | --- | ---- | ---------------- | --- |
+| | | | She  | seldom  watches  | TV  |
 because she likes doing things
-|     |     |     | outside.  | She  usually  | goes  to  |
-| --- | --- | --- | --------- | ------------- | --------- |
+| | | | outside.  | She  usually  | goes  to  |
 the gym if it’s raining outside.
-|     |     |     | She  isn’t  | often  alone  | because  |
-| --- | --- | --- | ----------- | ------------- | -------- |
+| | | | She  isn’t  | often  alone  | because  |
 she has a lot of friends. She occasionally does something alone,
 but she usually does her activities with one of her friends. She’s
 a happy woman!
 A.  Choose and write the correct answer.
-|   a.   Why does Mary usually get up early?        |                                       |     |     |                             |     |
-| ------------------------------------------------- | ------------------------------------- | --- | --- | --------------------------- | --- |
-|     i.                                            | She gets up early to run before work. |     |     |                             |     |
-|     ii.  She gets up early to go to work.         |                                       |     |     |                             |     |
-|     iii.  She gets up early to have breakfast.    |                                       |     |     |                             |     |
-|     iv. She gets up early to work before running. |                                       |     |     |                             |     |
-|   b.   How often does she ski?                    |                                       |     |     |                             |     |
-|     i.                                            | She skis everyday.                    |     |     |                             |     |
-|     ii.  She occasionally skis in winter.         |                                       |     |     |                             |     |
-|     iii.  She rarely skis in winter.              |                                       |     |     |                             |     |
-|     iv.  She skis once a week.                    |                                       |     |     |                             |     |
-| 152                                               |                                       |     |     |             English Grade 4 |     |
-
-|   c.   When does she usually go horseback riding?         |                                                |     |     |     |
-| --------------------------------------------------------- | ---------------------------------------------- | --- | --- | --- |
-|     i.                                                    | She usually goes horseback riding after work.  |     |     |     |
-|     ii.  She usually goes horseback riding on Saturdays.  |                                                |     |     |     |
-|     iii.  She usually goes horseback riding on Sundays.   |                                                |     |     |     |
-|     iv.  She usually goes horseback riding every day.     |                                                |     |     |     |
-|   d.   How often does she go to concerts in the city?     |                                                |     |     |     |
-|     i.                                                    | Every Sunday                                   |     |     |     |
-|     ii.  Rarely                                           |                                                |     |     |     |
-|     iii.  Never                                           |                                                |     |     |     |
-|     iv.  Always                                           |                                                |     |     |     |
-|   e.   How often does she watch TV?                       |                                                |     |     |     |
-|      i.                                                   | She usually watches TV every night.            |     |     |     |
-|      ii.  She seldom watches TV.                          |                                                |     |     |     |
-|      iii.  She never watches TV.                          |                                                |     |     |     |
-|      iv.  She often watches TV.                           |                                                |     |     |     |
-|   f.  What does she usually do if it’s raining?           |                                                |     |     |     |
-|      i.                                                   | She goes outside.                              |     |     |     |
-|      ii.  She goes to the gym.                            |                                                |     |     |     |
-|      iii.  She calls friends.                             |                                                |     |     |     |
-|      iv.  She stays home.                                 |                                                |     |     |     |
-B.   List at least five activities you do in your free time.
+| a. Why does Mary usually get up early? | | | | | |
+| i. | She gets up early to run before work. | | | | |
+| ii.  She gets up early to go to work. | | | | | |
+| iii.  She gets up early to have breakfast. | | | | | |
+| iv. She gets up early to work before running. | | | | | |
+| b. How often does she ski? | | | | | |
+| i. | She skis everyday. | | | | |
+| ii.  She occasionally skis in winter. | | | | | |
+| iii.  She rarely skis in winter. | | | | | |
+| iv.  She skis once a week. | | | | | |
+| 152 | | | | English Grade 4 | |
+| c. When does she usually go horseback riding? | | | | |
+| i. | She usually goes horseback riding after work.  | | | |
+| ii.  She usually goes horseback riding on Saturdays.  | | | | |
+| iii.  She usually goes horseback riding on Sundays. | | | | |
+| iv.  She usually goes horseback riding every day. | | | | |
+| d. How often does she go to concerts in the city? | | | | |
+| i. | Every Sunday | | | |
+| ii.  Rarely | | | | |
+| iii.  Never | | | | |
+| iv.  Always | | | | |
+| e. How often does she watch TV? | | | | |
+| i. | She usually watches TV every night. | | | |
+| ii.  She seldom watches TV. | | | | |
+| iii.  She never watches TV. | | | | |
+| iv.  She often watches TV. | | | | |
+| f.  What does she usually do if it’s raining? | | | | |
+| i. | She goes outside. | | | |
+| ii.  She goes to the gym. | | | | |
+| iii.  She calls friends. | | | | |
+| iv.  She stays home. | | | | |
+B. List at least five activities you do in your free time.
 Pronunciation
 Pronounce these words. Notice the sounds  the letters in red make.
-| ski     | she    | achieve  | see    | dream    |
-| ------- | ------ | -------- | ------ | -------- |
-| winter  | least  | think    | still  | seashore |
-153
+| ski | she | achieve  | see | dream |
+| winter  | least  | think | still  | seashore |
 English Grade 4
-
 Grammar I
 A.  Complete these sentences. Use the words from the reading
 text above.
-|   a.  | She ……… often ……. time to ski. |     |     |     |
-| ----- | ------------------------------ | --- | --- | --- |
-|   b.  | She ………. ………. extra money.     |     |     |     |
-|   c.  | She …….. often alone.          |     |     |     |
+| a.  | She ……… often ……. time to ski. | | | |
+| b.  | She ………. ………. extra money. | | | |
+| c.  | She …….. often alone. | | | |
 B.  Answer honestly about yourself. Choose from the brackets.
-|   a.  | I (like/don’t like) coffee.                          |     |     |     |
-| ----- | ---------------------------------------------------- | --- | --- | --- |
-|   b.  | My sister (watches/doesn’t watch) television.        |     |     |     |
-|   c.  | My parents (live/don’t live) together.               |     |     |     |
-|   d.  | We (work/don’t work) in the field.                   |     |     |     |
-|   e.  | Our teachers (give/don’t give) us a lot of homework. |     |     |     |
-|   f.  | I (went/didn’t go) to school yesterday.              |     |     |     |
+| a.  | I (like/don’t like) coffee. | | | |
+| b.  | My sister (watches/doesn’t watch) television. | | | |
+| c.  | My parents (live/don’t live) together. | | | |
+| d.  | We (work/don’t work) in the field. | | | |
+| e.  | Our teachers (give/don’t give) us a lot of homework. | | | |
+| f.  | I (went/didn’t go) to school yesterday. | | | |
 C.  Change the following sentences into negative sentences.
 Example:
 They talk a lot.
@@ -4284,60 +2417,50 @@ d.  She earned a lot of money last month.
 e.  Sunita has two brothers.
 f.  Nitesh did his homework.
 g.  Suvan watches TV in the evening.
-| 154     |     |     |     |           English Grade 4 |
-| ------- | --- | --- | --- | ------------------------- |
-
+| 154 | | | | English Grade 4 |
 h.  My mother gets up early.
 i.  Niru gave me a beautiful notebook.
 Listening
-A.   Look at the picture and guess the answers.
-| a.   | Who are these people? |     |     |     |
-| ---- | --------------------- | --- | --- | --- |
-| b.   | Where are they?       |     |     |     |
-| c.   | What are they doing?  |     |     |     |
+A. Look at the picture and guess the answers.
+| a. | Who are these people? | | | |
+| b. | Where are they? | | | |
+| c. | What are they doing?  | | | |
 Listen to the audio and tick (ü) the correct answers.
 B.
-|   a.   | By gardening, we can get back to……………………….     |                         |           |                 |
-| ------ | ---------------------------------------------- | ----------------------- | --------- | --------------- |
-|        | i. the earth                                   |   ii. nature            |           |   iii. field    |
-|   b.   | …………………. is one of the most relaxing hobbies.  |                         |           |                 |
-|        | i. Gardening                                   |   ii. Playing football  |           | iii. Fishing    |
-|   c.   | The speaker gets very…………………. about gardening. |                         |           |                 |
-|        | i. happy                                       |                         | ii. sad   |   iii. excited  |
-|   d.   | Gardening is also very………………………..              |                         |           |                 |
-|        | i. stressful                                   |   ii. practical         |           |   iii. boring   |
-  e.   Vegetables  from  your  garden  taste  better  than  ones
+| a. | By gardening, we can get back to………………………. | | | |
+| | i. the earth | ii. nature | | iii. field |
+| b. | …………………. is one of the most relaxing hobbies.  | | | |
+| | i. Gardening | ii. Playing football  | | iii. Fishing |
+| c. | The speaker gets very…………………. about gardening. | | | |
+| | i. happy | | ii. sad | iii. excited  |
+| d. | Gardening is also very……………………….. | | | |
+| | i. stressful | ii. practical | | iii. boring |
+e. Vegetables  from  your  garden  taste  better  than  ones
 from the ………
-|       | i. shops                                       |   ii. market   |     |   iii. fridge  |
-| ----- | ---------------------------------------------- | -------------- | --- | -------------- |
-|   f.  | Gardening makes you feel part of the ……………………. |                |     |                |
-|       | i. Moon                                        |   ii. Sun      |     |   iii. Earth   |
-C.   Do you love planting vegetables and flowers in the garden?
+| | i. shops | ii. market | | iii. fridge  |
+| f.  | Gardening makes you feel part of the ……………………. | | | |
+| | i. Moon | ii. Sun | | iii. Earth |
+C. Do you love planting vegetables and flowers in the garden?
 Talk about positive and negative things about gardening.
-155
 English Grade 4
-
 Reading II
 Look at the picture and answer these questions.
 a.  What does the bird like doing?
-b.   What does the boy like doing?
+b. What does the boy like doing?
 c.  What do you like doing?
 A Creative Hobby
 Megan Yates is a typical British
 teenager. She goes to school from
-| Monday  | to  | Friday.  |     | She  | usually  |     |     |
-| ------- | --- | -------- | --- | ---- | -------- | --- | --- |
+| Monday  | to  | Friday.  | | She  | usually  | | |
 does her homework before dinner
 and she often goes out with her
-| friends  | at    | the        | weekend.  |     | Her    |     |     |
-| -------- | ----- | ---------- | --------- | --- | ------ | --- | --- |
-| friends  | like  | listening  |           | to  | music  |     |     |
+| friends  | at | the | weekend.  | | Her | | |
+| friends  | like  | listening  | | to  | music  | | |
 and playing computer games but
 Megan has got a creative hobby.
 She loves cooking.
-| Megan       | would  |     | like  | to    | enter     |     |     |
-| ----------- | ------ | --- | ----- | ----- | --------- | --- | --- |
-| the  Young  |        |     | Chef  | of    | Britain   |     |     |
+| Megan | would  | | like  | to | enter | | |
+| the  Young  | | | Chef  | of | Britain | | |
 Competition. The competition is
 for young people who are between 11 and 17 years old. They
 need to cook a complete meal for two people. The menu needs
@@ -4348,9 +2471,7 @@ At  the  moment,  Megan  is  practising  for  the  competition  in
 the kitchen. She is cooking for her family. The main course is
 paella, which is a Spanish rice dish. She’s also making carrot
 cake with ice cream.
-| 156   |     |     |     |     |     |     |           English Grade 4 |
-| ----- | --- | --- | --- | --- | --- | --- | ------------------------- |
-
+| 156 | | | | | | | English Grade 4 |
 A. Learn these words and complete the sentences with them.
 typical weekend competition pound trip
 a. Reena was born to a ……… Nepali family.
@@ -4376,36 +2497,31 @@ d. What main meal is Megan preparing?
 D. What do you like doing in your free time? Talk to your
 friends. Find out whose hobby is the most creative.
 English Grade 4 157
-
 Grammar II
-A.   Study the following example sentences.
+A. Study the following example sentences.
 I like playing online games.
 My sister doesn’t like swimming in the swimming pool.
 My cousins love eating chocolates.
 My brother hates working in the field.
 B.  Complete the following sentences with the verbs given in
 the brackets. Use like/ hate/love + present participle.
-|   Example:  | I (dance).                                  |     |     |     |
-| ----------- | ------------------------------------------- | --- | --- | --- |
-|             |   I love dancing.                           |     |     |     |
-| a.          | The old lady ………………. (walk) long distances. |     |     |     |
-| b.          | The baby ………………………. (watch) cartoons.       |     |     |     |
-| c.          | Students ………………………. (read) English.         |     |     |     |
-| d.          | The workmen ………………………. (work) a lot.        |     |     |     |
-| e.          | Ali………………………. (like/ ask) others for their  |     |     |     |
+| Example:  | I (dance). | | | |
+| | I love dancing. | | | |
+| a. | The old lady ………………. (walk) long distances. | | | |
+| b. | The baby ………………………. (watch) cartoons. | | | |
+| c. | Students ………………………. (read) English. | | | |
+| d. | The workmen ………………………. (work) a lot. | | | |
+| e. | Ali………………………. (like/ ask) others for their  | | | |
 money.
-| f.  | She ………………. (go) swimming every Saturday.         |     |     |     |
-| --- | ------------------------------------------------- | --- | --- | --- |
-| g.  | Manu ………………………. (visit) doctors.                  |     |     |     |
-| h.  | Christina ……………..… (care) flowers in the garden.  |     |     |     |
+| f.  | She ………………. (go) swimming every Saturday. | | | |
+| g.  | Manu ………………………. (visit) doctors. | | | |
+| h.  | Christina ……………..… (care) flowers in the garden.  | | | |
 C.  Write sentences about yourself. Use the following clues.
-|   Example:  | fly in an aeroplane                     |       |     |                           |
-| ----------- | --------------------------------------- | ----- | --- | ------------------------- |
-|             |   I like flying in an aeroplane.        |       |     |                           |
-|             |                                         |   Or  |     |                           |
-|             |   I don’t like flying in an aeroplane.  |       |     |                           |
-| 158         |                                         |       |     |           English Grade 4 |
-
+| Example:  | fly in an aeroplane | | | |
+| | I like flying in an aeroplane. | | | |
+| | | Or  | | |
+| | I don’t like flying in an aeroplane.  | | | |
+| 158 | | | | English Grade 4 |
 a. play marbles b. wash clothes
 c. get up early d. sing English songs
 e. be alone f. do a lot of homework
@@ -4414,20 +2530,19 @@ Speaking
 A. Look at the pictures below. Say what they like doing.
 B. In pairs, take turns to talk about the following situations.
 Example:
-talk on the phone/like (she)
+talk on the phone/like (she
 She likes talking on the phone.
-a. dance/not like (my sister)
-b. read comics/love (I)
-c. tell lies/hate (Ellen)
-d. play football/like (my friend)
-e. paint/not like (Pasang)
-f. go shopping/hate (Khusi)
-g. graze cattle/like (Anjali)
-i. listen to old songs/love (Mingma)
+a. dance/not like (my sister
+b. read comics/love (I
+c. tell lies/hate (Ellen
+d. play football/like (my friend
+e. paint/not like (Pasang
+f. go shopping/hate (Khusi
+g. graze cattle/like (Anjali
+i. listen to old songs/love (Mingma
 English Grade 4 159
-
-j. prepare tea/hate (Sanket)
-k. go shopping/love (Batuk)
+j. prepare tea/hate (Sanket
+k. go shopping/love (Batuk
 C. Choose any four of your friends and write about what they
 like, don't like, hate or love doing as mindmap below.
 Nitesh
@@ -4448,7 +2563,6 @@ pictures. When it’s my family and friend’s birthdays, sister and
 friends, I give my best drawings to them. I spend my free time
 drawing pictures. I got first prize in my school for the drawing
 160 English Grade 4
-
 competition. I love drawing girls and boys with different hair
 styles. The hair styles I know are plaits, ponytail and bobs. I like
 to draw the sunset the most. I love drawing but I don’t know
@@ -4463,14 +2577,8 @@ S. N. Who? Likes Loves Hates
 visiting new
 1. Grandmother reading books watching TV
 places
-2.
-3.
-4.
-5.
 English Grade 4 161
-
 Unit
-1144
 Expressing Ability
 Getting started
 A. Look at the pictures below. What do you think each of
@@ -4485,7 +2593,6 @@ Don’t go as planned.
 And I can ask for help,
 When I don’t understand.
 162 English Grade 4
-
 I can do most anything,
 If I think I can.
 And if at first, I don’t succeed,
@@ -4516,38 +2623,33 @@ In the 1980s, Nepal’s first woman captain was Rama Singh.
 In 2010 Anu Lama scored three hat-tricks in the South Asian
 Games. She was named the best player of the tournament.
 English Grade 4 163
-
 A.  Match the words in column A with their meanings in
 column B.
-|   Column A         |     |     |       |   Column B                      |     |
-| ------------------ | --- | --- | ----- | ------------------------------- | --- |
-|   a.  popular      |     |     | i.    | girl or boy                     |     |
-|   b.  competition  |     |     | ii.   | three goals scored by the same  |     |
+| Column A | | | | Column B | |
+| a.  popular | | | i. | girl or boy | |
+| b.  competition  | | | ii. | three goals scored by the same  | |
 player in a particular match
-|   c.  hat-tricks  |                |     | iii.                           | between different countries |     |
-| ----------------- | -------------- | --- | ------------------------------ | --------------------------- | --- |
-|   d.              | international  |     | iv.                            | liked by many               |     |
-|   e.  equal       |                |     | v.                             | a contest between teams     |     |
-|   f.  captain     |                |     | vi.                            | leader of a team            |     |
-|   g.  gender      |                |     | vii. the same level or ability |                             |     |
+| c.  hat-tricks  | | | iii. | between different countries | |
+| d. | international  | | iv. | liked by many | |
+| e.  equal | | | v. | a contest between teams | |
+| f.  captain | | | vi. | leader of a team | |
+| g.  gender | | | vii. the same level or ability | | |
 B. Read the text and answer the following questions.
-  a. What is the Nepali women’s football team also called?
-  b. Why are they practising a lot?
-  c. Why is their motto important for women?
-  d. Which countries did they beat in the South Asian Games?
-  e. Which player scored three hat-tricks?
-  f. What is the name of the first captain of the female team?
-C.   What are your thoughts about Nepal having a women’s
+a. What is the Nepali women’s football team also called?
+b. Why are they practising a lot?
+c. Why is their motto important for women?
+d. Which countries did they beat in the South Asian Games?
+e. Which player scored three hat-tricks?
+f. What is the name of the first captain of the female team?
+C. What are your thoughts about Nepal having a women’s
 football  team?  Why  is  it  important,  do  you  think,  for
 women to have their own team? Share your ideas with
 your friends.
 Pronunciation
 What sound do the letters in red make? Pronounce these words.
-| world   | earth  | work  | occur   | perfect  | murder                   |
-| ------- | ------ | ----- | ------- | -------- | ------------------------ |
-| bird    | earl   | herb  | superb  | nursery  | girl                     |
-| 164     |        |       |         |          |          English Grade 4 |
-
+| world | earth  | work  | occur | perfect  | murder |
+| bird | earl | herb  | superb  | nursery  | girl |
+| 164 | | | | | English Grade 4 |
 Writing
 A. Write the following passage correctly. Add punctuation
 marks where necessary.
@@ -4576,36 +2678,30 @@ Janet can play tennis.
 They cannot lift the box.
 Hemanta can't climb up the tree.
 English Grade 4 165
-
 B.  Fill in the blanks with 'can' and 'can't' .
-| a.   | We ………………………  see the moon in the day.      |     |     |     |     |
-| ---- | ------------------------------------------- | --- | --- | --- | --- |
-| b.   | A goat ……………………… climb a mountain.          |     |     |     |     |
-| c.   | I ……………………… go anywhere I like.             |     |     |     |     |
-| d.   | ……………………… I help you?                       |     |     |     |     |
-| e.   | A parrot ………… speak but it ………………… swim.    |     |     |     |     |
-| f.   | Babies ……………………… read and write.            |     |     |     |     |
-| g.   | Ujjan is very large. He ……………………… run fast. |     |     |     |     |
-| h.   | …………… dogs speak? No, they…………………           |     |     |     |     |
-| i    | …………… a cat climb a tree? Yes, it…………………….  |     |     |     |     |
-| j.   | We ………………… fight in the class.              |     |     |     |     |
+| a. | We ………………………  see the moon in the day. | | | | |
+| b. | A goat ……………………… climb a mountain. | | | | |
+| c. | I ……………………… go anywhere I like. | | | | |
+| d. | ……………………… I help you? | | | | |
+| e. | A parrot ………… speak but it ………………… swim. | | | | |
+| f. | Babies ……………………… read and write. | | | | |
+| g. | Ujjan is very large. He ……………………… run fast. | | | | |
+| h. | …………… dogs speak? No, they………………… | | | | |
+| i | …………… a cat climb a tree? Yes, it…………………….  | | | | |
+| j. | We ………………… fight in the class. | | | | |
 C.  Go round the class. Ask and find out what your friends
 can and cannot do. Then, share with your friends.
 Listening
-A.   Look at the picture and answer these questions.
-| a.   | What do you see in the picture? |     |     |     |     |
-| ---- | ------------------------------- | --- | --- | --- | --- |
-| b.   | Which game is it?               |     |     |     |     |
-| c.   | Have you ever played it?        |     |     |     |     |
-B.   Now, listen to the audio and fill in the blanks with one of
+A. Look at the picture and answer these questions.
+| a. | What do you see in the picture? | | | | |
+| b. | Which game is it? | | | | |
+| c. | Have you ever played it? | | | | |
+B. Now, listen to the audio and fill in the blanks with one of
 the words given below.
-|   tournaments  |                                                   | good  | playing  | countries  | racket |
-| -------------- | ------------------------------------------------- | ----- | -------- | ---------- | ------ |
-|   a.           | You can see people …………. tennis in every country  |       |          |            |        |
+| tournaments  | | good  | playing  | countries  | racket |
+| a. | You can see people …………. tennis in every country  | | | | |
 on earth.
-| 166     |     |     |     |            English Grade 4 |     |
-| ------- | --- | --- | --- | -------------------------- | --- |
-
+| 166 | | | | English Grade 4 | |
 b. To play it, you need a tennis ………………… and a ball.
 c. The speaker was never ………..……. at playing tennis.
 d. A good thing about tennis is that many ………. are good
@@ -4630,35 +2726,27 @@ form. You can take up to six books maximum a
 day.
 Student : OK. Six books.
 English Grade 4 167
-
 Librarian  :  Yes. You  have  two  weeks  to  read  the  books.
 Then you need to bring them back.
-| Student  | :  And, if I'm late? |     |     |     |
-| -------- | -------------------- | --- | --- | --- |
+| Student  | :  And, if I'm late? | | | |
 Librarian  :  If you are late, then there's a five rupee fine a day.
-| Student  | :   Okay, five rupees a day. Er… anything else? |     |     |     |
-| -------- | ----------------------------------------------- | --- | --- | --- |
+| Student  | : Okay, five rupees a day. Er… anything else? | | | |
 Librarian  :  Mobile  phones  must  be  switched  off  in  the
 library. You can bring your laptop, but please use
 headphones to watch videos or listen to music.
-| Student    | :   OK, great.                         |     |     |     |
-| ---------- | -------------------------------------- | --- | --- | --- |
-| Librarian  | :  And you can't bring food or drink.  |     |     |     |
-| Student    | :  Okay, thank you.                    |     |     |     |
-| Librarian  | :  You're welcome.                     |     |     |     |
+| Student | : OK, great. | | | |
+| Librarian  | :  And you can't bring food or drink.  | | | |
+| Student | :  Okay, thank you. | | | |
+| Librarian  | :  You're welcome. | | | |
 A.  Read the conversation and complete these sentences.
-| a.  | The boy wants to ………………… some books.  |     |     |     |
-| --- | ------------------------------------- | --- | --- | --- |
-b.   He has to fill in an ………… form to get the library card.
-| c.   | He can keep books for …………………………….  |     |     |     |
-| ---- | ----------------------------------- | --- | --- | --- |
-d.   If he fails to bring the books back, he has to pay a fine
+| a.  | The boy wants to ………………… some books.  | | | |
+b. He has to fill in an ………… form to get the library card.
+| c. | He can keep books for …………………………….  | | | |
+d. If he fails to bring the books back, he has to pay a fine
 of Rs. …………………… a day.
-| e.      | They should ………….....……… their mobile phones. |     |     |                          |
-| ------- | --------------------------------------------- | --- | --- | ------------------------ |
-| f.      | They can't bring ………………… in the library.      |     |     |                          |
-| 168     |                                               |     |     |          English Grade 4 |
-
+| e. | They should ………….....……… their mobile phones. | | | |
+| f. | They can't bring ………………… in the library. | | | |
+| 168 | | | | English Grade 4 |
 B. Write 'True'or 'False' for these statements.
 a. The boy went to the library.
 b. He needs to have a library card to borrow books.
@@ -4679,32 +2767,27 @@ backwards from
 100?
 Yes, I can.
 English Grade 4 169
-
 Yes,  I  can  but
 Mum, can you
-| dance? |     |     |     | not very well. |
-| ------ | --- | --- | --- | -------------- |
+| dance? | | | | not very well. |
 Can you speak
 Chinese?
 No, I can’t.
 B.  Work in pairs.Take turns to ask and answer questions.
 Answer using Yes, I can or No, I can't.
-| a.   | make furniture   |     | b.  drive a bus               |     |
-| ---- | ---------------- | --- | ----------------------------- | --- |
-| c.   | do Karate        |     | d.   read English             |     |
-| e.   | fly a kite       |     | f.  climb a mountain          |     |
-| g.   | play the piano   |     | h.   jump like a frog         |     |
-| i.   | tell a joke      |     | j.  make a beautiful picture  |     |
-| k.   | go shopping      |     | i.  swim in a river           |     |
+| a. | make furniture | | b.  drive a bus | |
+| c. | do Karate | | d. read English | |
+| e. | fly a kite | | f.  climb a mountain | |
+| g. | play the piano | | h. jump like a frog | |
+| i. | tell a joke | | j.  make a beautiful picture  | |
+| k. | go shopping | | i.  swim in a river | |
 C.  Talk about the following animals. Try making as many
 sentences as you can. Use can or can't every time.
 Example:
- a horse
+a horse
 - It can eat grass.
 -It can't fly.
-| 170     |     |     |     |          English Grade 4 |
-| ------- | --- | --- | --- | ------------------------ |
-
+| 170 | | | | English Grade 4 |
 a. bat b. bee c. dog
 d. cow e. butterfly f. fish
 Grammar II
@@ -4721,37 +2804,32 @@ music at a young age?
 Yes, I could.
 But I still can.
 English Grade 4 171
-
-B.   Complete the sentences with could and couldn't and one
+B. Complete the sentences with could and couldn't and one
 of the verbs given.
-|   climb    |     | eat       |     | win       |     | get down      |     |         | go     |
-| ---------- | --- | --------- | --- | --------- | --- | ------------- | --- | ------- | ------ |
-| use        |     | read      |     | catch     |     | sleep         |     | lift    | ride   |
+| climb | | eat | | win | | get down | | | go |
+| use | | read | | catch | | sleep | | lift | ride |
 Example:
 It was a pity. We couldn't win the football match.
-a.   I didn't have a school uniform. I …………………… to school.
-b.   Henry went fishing. But he …………………… a fish.
-c.   The girl climbed up the tree but ……………………
-d.   Jack was very strong. He …………………… a heavy suitcase.
-e.   My sister was sad because she ………………….....… her
+a. I didn't have a school uniform. I …………………… to school.
+b. Henry went fishing. But he …………………… a fish.
+c. The girl climbed up the tree but ……………………
+d. Jack was very strong. He …………………… a heavy suitcase.
+e. My sister was sad because she ………………….....… her
 ice-cream.
-f.   My little sister …………………letters when she was three.
+f. My little sister …………………letters when she was three.
 g.  David …………………… well last night because of the noise.
-h.   When Indu was a small kid, she ……………… a computer.
-i.   My grandfather said he ………………… mountains.
-| j.   Pasang  | ……………………his  |     |     |     | motorcycle.  |     | So  | he  | used  to  |
-| ------------ | ------------ | --- | --- | --- | ------------ | --- | --- | --- | --------- |
+h. When Indu was a small kid, she ……………… a computer.
+i. My grandfather said he ………………… mountains.
+| j. Pasang  | ……………………his  | | | | motorcycle.  | | So  | he  | used  to  |
 walk to school.
 C.  Go round the class with the following form. Ask questions
 to five of your friends to find out at least two things they
 could do or couldn't do in the past.
 Name of your friend  What s/he could do what s/he couldn't do
-| Nita Chaudhary |     |     | catch fish |     |     | climb trees |                          |     |     |
-| -------------- | --- | --- | ---------- | --- | --- | ----------- | ------------------------ | --- | --- |
-| ………………         |     |     | ………………     |     |     | ………………      |                          |     |     |
-| ………………         |     |     | ………………     |     |     | ………………      |                          |     |     |
-| 172            |     |     |            |     |     |             |          English Grade 4 |     |     |
-
+| Nita Chaudhary | | | catch fish | | | climb trees | | | |
+| ……………… | | | ……………… | | | ……………… | | | |
+| ……………… | | | ……………… | | | ……………… | | | |
+| 172 | | | | | | | English Grade 4 | | |
 Now, write the sentences about your friends.
 Example:
 Nita could catch fish. She couldn't climb trees.
@@ -4762,9 +2840,7 @@ table like the one below and explain it to your friends.
 Family members Can do Can't do Could do Couldn't do
 Grandmother tell a story dance work hard stay idle
 English Grade 4 173
-
 Unit
-1155
 Agreeing or Disagreeing
 Getting started
 A. Look at the pictures and read the statements. Tick (√) if
@@ -4782,7 +2858,6 @@ And soon we'll all have cars that fly.
 What does the speaker think about: a bus, milk, bees, seas,
 cars? Do you agree or not. Talk to your friends.
 174 English Grade 4
-
 Reading I
 Look at the picture in the text below and guess the answers to
 these questions.
@@ -4811,7 +2886,6 @@ The next day, the man went to look at his gold, but it wasn’t
 there! The man cried and cried! He cried so loudly that a wise
 woman heard him.
 English Grade 4 175
-
 The wise woman said, “Don’t worry. Get a big stone and put it
 on the table.”
 “Why?” said the old man.
@@ -4823,49 +2897,39 @@ The old man thought for a moment and said, “Yes, you’re right.
 I’ve been very silly. I don’t need a lump of gold to be happy!”
 A.  Learn  these  words/phrases  and  complete  the  sentences
 with them.
-|   lump                                                       | broke into  | wise  | moment  | loudly |
-| ------------------------------------------------------------ | ----------- | ----- | ------- | ------ |
-|   a.  Wait for a ……… . I’ll be back.                         |             |       |         |        |
-|   b.  A lump of clay is beside the ……. of silver.            |             |       |         |        |
-|   c.  Don’t shout ……… ! The baby is sleeping.                |             |       |         |        |
-|   d.  Last night, a thief ……… our house and stole the money  |             |       |         |        |
+| lump | broke into  | wise  | moment  | loudly |
+| a.  Wait for a ……… . I’ll be back. | | | | |
+| b.  A lump of clay is beside the ……. of silver. | | | | |
+| c.  Don’t shout ……… ! The baby is sleeping. | | | | |
+| d.  Last night, a thief ……… our house and stole the money  | | | | |
 and the gold.
-  e.  My  father  has  stopped  smoking.  It  was  his  ………..
+e.  My  father  has  stopped  smoking.  It  was  his  ………..
 decision.
 B.	 What	lesson	did	you	learn	from	the	story?
-|   a.  A rock is worth a lot of money.     |     |     |     |     |
-| ----------------------------------------- | --- | --- | --- | --- |
-|   b.  Money doesn’t make you happy.       |     |     |     |     |
-|   c.  It’s important to count your money. |     |     |     |     |
+| a.  A rock is worth a lot of money. | | | | |
+| b.  Money doesn’t make you happy. | | | | |
+| c.  It’s important to count your money. | | | | |
 C.	 Answer	the	following	questions.
-|   a.  How many characters are there in the story? Who are  |     |     |     |     |
-| ---------------------------------------------------------- | --- | --- | --- | --- |
+| a.  How many characters are there in the story? Who are  | | | | |
 they?
-| 176     |     |     |     |           English Grade 4 |
-| ------- | --- | --- | --- | ------------------------- |
-
-|   b.  What did the man sell?                           |     |     |     |     |
-| ------------------------------------------------------ | --- | --- | --- | --- |
-|   c.  What did the man do with the lump of gold?       |     |     |     |     |
-|   d.  Where did the thief put the lump of gold?        |     |     |     |     |
-|   e.  What did the wise woman tell the old man to get? |     |     |     |     |
-|   f.  What did the old man think of himself?           |     |     |     |     |
+| 176 | | | | English Grade 4 |
+| b.  What did the man sell? | | | | |
+| c.  What did the man do with the lump of gold? | | | | |
+| d.  Where did the thief put the lump of gold? | | | | |
+| e.  What did the wise woman tell the old man to get? | | | | |
+| f.  What did the old man think of himself? | | | | |
 D.	 Do	you	agree	or	disagree	that	the	wise	woman	was	correct
 with her advice? Why?
 Pronunciation
 Practise	saying	these	words.	Notice	what	sound	the	letters	in
 red make.
-|   over  |   oh    |   echo  |   although  | home |
-| ------- | ------- | ------- | ----------- | ---- |
-|   so    |   only  |   open  |   show      | low  |
+| over  | oh | echo  | although  | home |
+| so | only  | open  | show | low  |
 Grammar I
 A.		 Act	out	the	following	conversations.
 Is a giraffe the
-| tallest animal? |     |     | Yes, it is.  |     |
-| --------------- | --- | --- | ------------ | --- |
-177
+| tallest animal? | | | Yes, it is.  | |
 English Grade 4
-
 Have you ever
 visited Lumbini?
 No, I haven’t. I’ll
@@ -4877,7 +2941,6 @@ Do you want to
 Yes, we do.
 listen to a story?
 178 English Grade 4
-
 B. Match the statements with their questions.
 a. The bus leaves in an hour. ii. Will we leave early?
 b. It snowed a lot yesterday. ii. Do they look happy?
@@ -4903,7 +2966,6 @@ j. Sanjari has given me a pencil.
 D. Copy at least five short statements from the story above
 and change them into yes/no questions.
 English Grade 4 179
-
 Listening
 A. Look at the picture below. Guess the answers to these
 questions.
@@ -4925,7 +2987,6 @@ a. Who do you think these people are?
 b. What do you think they are doing?
 c. Have you ever been on a picnic?
 180 English Grade 4
-
 Picnic
 What will we pack for picnic?
 Let's have some fruit and sweets
@@ -4953,41 +3014,32 @@ b. They will go to the park or to the …………… .
 c. Grandmother and …………… will go with them.
 d. The ants ate all their …………… .
 English Grade 4 181
-
 C.	 Read	the	poem	again	and	write	True or False.
-| a.   | Children are planning for a school visit. |     |     |     |
-| ---- | ----------------------------------------- | --- | --- | --- |
-| b.   | They aren't taking meat with them.        |     |     |     |
-| c.   | They want to go with their parents.       |     |     |     |
-| d.   | Everyone will go with them.               |     |     |     |
-| e.   | They packed everything upside down.       |     |     |     |
+| a. | Children are planning for a school visit. | | | |
+| b. | They aren't taking meat with them. | | | |
+| c. | They want to go with their parents. | | | |
+| d. | Everyone will go with them. | | | |
+| e. | They packed everything upside down. | | | |
 Writing I
 Suppose	you	are	planning	to	go	on	a	picnic.	What	things	would
 you	like	to	take?	Who	would	you	like	to	go	with?	Where	would
 you	like	to	go?	Discuss	and	write	a	paragraph.
 Speaking
-A.   Act out this conversation.
-| Emma    | :   Mum, I'd like to go out tonight. Can I go?  |     |     |     |
-| ------- | ----------------------------------------------- | --- | --- | --- |
-| Mother  | :   What for?                                   |     |     |     |
-| Emma    | :  It's Harry's birthday and he                 |     |     |     |
+A. Act out this conversation.
+| Emma | : Mum, I'd like to go out tonight. Can I go?  | | | |
+| Mother  | : What for? | | | |
+| Emma | :  It's Harry's birthday and he | | | |
 is organising a party.
-| Mother  | :   That's  | OK.  But  | you  must  |     |
-| ------- | ----------- | --------- | ---------- | --- |
+| Mother  | : That's  | OK.  But  | you  must  | |
 return by 7 p.m.
-| Emma  | :  I don't agree with that. We  |     |     |     |
-| ----- | ------------------------------- | --- | --- | --- |
+| Emma  | :  I don't agree with that. We  | | | |
 may be late.
-| Mother  | :  You're too young to stay out  |     |     |     |
-| ------- | -------------------------------- | --- | --- | --- |
+| Mother  | :  You're too young to stay out  | | | |
 late. Don't you think so?
-| Emma  | :  You're right mum. But we've planned to stay at his  |     |     |     |
-| ----- | ------------------------------------------------------ | --- | --- | --- |
+| Emma  | :  You're right mum. But we've planned to stay at his  | | | |
 home.
-| Mother  | :  No way! |     |       |                           |
-| ------- | ---------- | --- | ----- | ------------------------- |
-| 182     |            |     |       |           English Grade 4 |
-
+| Mother  | :  No way! | | | |
+| 182 | | | | English Grade 4 |
 B. Look at some of the ways to agree and disagree.
 Ways to agree Ways to disagree
 I agree. I don't agree.
@@ -5011,35 +3063,26 @@ f. make a cup of tea
 g. help me in the kitchen
 h. carry a load
 English Grade 4 183
-
 Grammar II
 A.		 Match	the	statements	with	their	wh-questions.
-| Column A  |     |     | Column B |     |
-| --------- | --- | --- | -------- | --- |
-
-a.  He is living in Dhangadhi.   i.   What will Phurba play?
-| b.  Monika speaks good English.  |     |     | ii.  Where is he living?  |     |
-| -------------------------------- | --- | --- | ------------------------- | --- |
+| Column A  | | | Column B | |
+a.  He is living in Dhangadhi. i. What will Phurba play?
+| b.  Monika speaks good English.  | | | ii.  Where is he living?  | |
 c.  Paru went to Bara yesterday.  iii.  Why did he go to the market?
-d.  Phurba will play badminton.   iv.  Who speaks good English?
-| e.  She was dancing on the stage.  |     |     | v.  When did Paru go?  |     |
-| ---------------------------------- | --- | --- | ---------------------- | --- |
- h.  He went to the market to buy      vi. Where was she dancing?
-|   apples.  |     |     |     |     |
-| ---------- | --- | --- | --- | --- |
+d.  Phurba will play badminton. iv.  Who speaks good English?
+| e.  She was dancing on the stage.  | | | v.  When did Paru go?  | |
+h.  He went to the market to buy vi. Where was she dancing?
+| apples.  | | | | |
 B.	 Make	wh-questions	for	these	statements.
-| a.   | My name is Tom.                     |     |     |     |
-| ---- | ----------------------------------- | --- | --- | --- |
-| b.   | I study in grade four.              |     |     |     |
-| c.   | I have five members in my family.   |     |     |     |
-| d.   | We live in a town.                  |     |     |     |
-| e.   | I am writing a letter to my friend. |     |     |     |
-| f.   | Hemlata has painted a picture.      |     |     |     |
+| a. | My name is Tom. | | | |
+| b. | I study in grade four. | | | |
+| c. | I have five members in my family. | | | |
+| d. | We live in a town. | | | |
+| e. | I am writing a letter to my friend. | | | |
+| f. | Hemlata has painted a picture. | | | |
 C.		 Work	 in	 pairs.You	 make	 a	 statement	 and	 your	 friend
 makes	a	Wh-question.
-| 184     |     |     |     |           English Grade 4 |
-| ------- | --- | --- | --- | ------------------------- |
-
+| 184 | | | | English Grade 4 |
 Writing II
 A. Read the following paragraph and look at the good things
 and bad things about home made food.
@@ -5059,7 +3102,6 @@ Children should help their parents with household chores. Go
 to your community and meet at least five parents. Ask them and
 find out whether they agree or disagree with this statement.
 English Grade 4 185
-
 Glossary
 Achieve /əˈtʃiːv/ (v.): to be able to get something desired.
 Afford /əˈfɔːd/ (v.): to have enough money to be able to buy or do something.
@@ -5084,7 +3126,6 @@ Cafe /ˈkæfeɪ/ (n.): a place where you can buy drinks and simple meals.
 Call /kɔːl/ (v.): to make a short visit to a person or place.
 Carelessly /ˈkeələsli/ (adv.): without giving enough attention or care.
 196 English Grade 4
-
 Carpet /ˈkɑːpɪt/ (n.): a piece of thick woven material made of wool, etc., used to
 cover the floor of a room or stairs; the material used for carpets.
 Chase /tʃeɪs/ (v.): to run, drive, etc. after somebody/something in order to catch
@@ -5111,7 +3152,6 @@ etc.
 Creature /ˈkriːtʃə(r)/ (n.): a living thing, real or imaginary, that can move around,
 such as an animal.
 English Grade 4 197
-
 Crisp /krɪsp/ (adj.): hard enough to be broken.
 Cross /krɒs/ (v.): to go across; to pass or stretch from one side to the other.
 Crowd /kraʊd/ (n.): a large number of people who have come together.
@@ -5136,7 +3176,6 @@ Easy /ˈiːzi/ (adj.): not difficult; done or obtained without a lot of effort o
 problems.
 Enchanting /ɪnˈtʃɑːntɪŋ/ (adj.): attractive, very pleasant.
 198 English Grade 4
-
 Encircle /ɪnˈsɜːkl/ (v.): to surround somebody/something completely in a circle.
 Enjoy /ɪnˈdʒɔɪ/(v.): to get pleasure from something.
 Enough /ɪˈnʌf/ (det.): as many or as much as somebody needs or wants.
@@ -5162,7 +3201,6 @@ Fridge /frɪdʒ/ (n.): a piece of electrical equipment in which food is kept col
 that it stays fresh.
 Frighten /ˈfraɪtn/ (v.): to make somebody suddenly feel afraid.
 English Grade 4 199
-
 Fun /fʌn/ (adj.): the feeling of enjoying yourself; activities that you enjoy.
 Funny /ˈfʌni/ (adj.): making you laugh.
 Gallery /ˈɡæləri/ (n.): a room or building for showing works of art to the public.
@@ -5189,7 +3227,6 @@ Housewife /ˈhaʊswaɪf/ (n): a woman who stays at home to cook, clean and take
 care of children.
 Hungry /ˈhʌŋɡri/(adj.): feeling that you want to eat something.
 200 English Grade 4
-
 Important /ɪmˈpɔːtnt/ (adj.): of great value.
 Inform /ɪnˈfɔːm/(v.): to tell somebody about something.
 Introduce /ˌɪntrəˈdjuːs/ (v): to tell somebody about you like your name and
@@ -5215,7 +3252,6 @@ Massive /ˈmæsɪv/ (adj.): very large, heavy and solid.
 Maximum /ˈmæksɪməm/ (adv.): the largest amount allowed/given.
 Meet /miːt/ (v): to be in the same place.
 English Grade 4 201
-
 Mention /ˈmenʃn/ (v.): to speak or write about someone.
 Metal /ˈmetl/ (n.): a type of solid mineral substance that is usually hard and shiny
 and that heat and electricity can travel through, for example tin, iron and gold.
@@ -5241,7 +3277,6 @@ as the sun) and receives light from it.
 Plastic /ˈplæstɪk/ (n.): a light strong material that is produced by chemical
 processes and can be formed into shapes when heated.
 202 English Grade 4
-
 Pleasure /ˈpleʒə(r)/(n.): a state of feeling or being happy.
 Pollution /pəˈluːʃn/ (n.): the process of making air, water, soil, etc. dirty; the state
 of being dirty.
@@ -5267,7 +3302,6 @@ Relieve /rɪˈliːv/(v): to remove or reduce unpleasant feeling or pain.
 Representation /ˌreprɪzenˈteɪʃn/ (n.): the act of presenting somebody/something in
 a particular way.
 English Grade 4 203
-
 Return /rɪˈtɜːn/(v.): to give or put something back to a place or person
 Rotate /rəʊˈteɪt/ (v.): to move or turn around a central fixed point.
 Round table /raʊnd ˈteɪbl/ (n.): a table having a shape like a circle or a ball.
@@ -5292,7 +3326,6 @@ Sincere /sɪnˈsɪə(r)/ (adj.): showing what you really think or feel.
 Sketch /sketʃ/ (n.): a quickly drawn simple picture.
 Slope /sləʊp/ (n.): an area of land that is part of a mountain or hill.
 204 English Grade 4
-
 Soft /sɒft/ (adj.): changing shape easily when pressed; not stiff or hard.
 Spare /speə(r)/ (v.): to use something, you have enough in quantity.
 Sparkle /ˈspɑːkl/ (v.): to shine brightly with small flashes of light.
@@ -5318,7 +3351,6 @@ Train /treɪn/(v.): to teach a person or an animal the skills for a particular j
 activity.
 Triangular /traɪˈæŋɡjələ(r)/ (adj.): like a triangle in shape.
 English Grade 4 205
-
 Trumpet /ˈtrʌmpɪt/ (n): a musical instrument made of a curved metal.
 Unique /juˈniːk/ (adj.): being the only one of its kind.
 Vacation /veɪˈkeɪʃn/, /vəˈkeɪʃn/ (n.): holiday, a period of time spent travelling or

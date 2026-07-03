@@ -1,527 +1,46 @@
-ENGLISH
-Grade 7
-Government of Nepal
-Ministry of Education, Science and Technology
-Curriculum Development Centre
+---
+title: "English"
+grade: 7
+language: english
+subject: "English"
+publisher: "Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre"
+location: "Sanothimi, Bhaktapur"
+edition: "2022
+"
+---
 
-Publisher: Government of Nepal
-Ministry of Education, Science and Technology
-Curriculum Development Centre
-Sanothimi, Bhaktapur
-© Curriculum Development Centre
-All rights reserved, no part of this publication may be reproduced,
-transmitted in any other form or by any means without the written
-permission of the publisher. However, this does not prohibit
-making photocopies of its pages for teacher training or other
-non-profit making purposes.
-First Edition: 2022
-Send your comments and suggestions to:
-Curriculum Development Centre
-Phone: 01-6630-588, Fax: 01-6630-797
-Email: info@moecdc.gov.np
-Website: moecdc.gov.np
+# English — Grade 7
 
-Preface
-The curriculum is the central guide of education and details what is essential for teaching
-and learning. A textbook is a main tool to deliver the curriculum. The revision of the
-curriculum and textbook is a regular process so as to make it relevant, practical, qualitative
-and useful for the overall development of an individual. This 'English Grade 7' textbook
-is developed to address the main aims of Basic Education; developing the fundamental
-skills of basic literacy and life skills in addition to arousing interest in arts and aesthetic
-values. It aligns with the intent pursued by the National Curriculum Framework for School
-Education, 2076 and is developed fully in accordance with the new Basic Level English
-Curriculum, 2077. All components of each lesson in the textbook are equally important
-and they have the specific aim of presentation so as to fulfill the learning outcomes stated
-in the curriculum.
-This textbook, initially prepared by a team that includes Mr. Shankar Adhikari, Mr. Matrika
-Subedi, Ms. Shikha Gurung and Mr. Narad Rijal, has been revised by a team comprising
-of Ms. Ramita Prajapati, Mr. Devraj Karki, Dr. Neil David Rose, Mr. Nim Prakash Singh
-Ratthour and Mr. Nabin Khadka. Several people notably; the Director General, Mr.
-Ana Prasad Neupane, the subject committee chairperson, Prof. Dr. Jib Lal Sapkota and
-the subject committee members; Prof. Dr. Rishi Ram Rijal, Dr. Gopal Prasad Pandey,
-Mr. Madhav Prasad Ghimire, Ms. Maiya Niraula Pokharel and Mr. Tuka Raj Adhikari
-have contributed significantly on the development of this book. The contribution made
-by other experts and the school teachers; Dr. Tika Ram Bhatta, Ms. Mallika Joshi, Ms.
-Anita Paudel, Ms. Sumita Lama, Ms. Yashoda Khadka, Ms. Bhawana Limbu, Mr. Parshu
-Ram Tiwari, Ms. Chandramaya Adhikari and Mr. Birat Chaulagain is also appreciated. The
-illustrations in the book are designed by Ms. Shaili Malla and Kushal Adhikari; and the
-layout by Mr. Shreehari Shrestha and Mr. Khados Sunuwar. The Curriculum Development
-Centre extends sincere gratitude to all of them. With the view that the learning of English
-should be based on authentic materials, we have retrieved and adapted the texts and tasks
-including the audios from various authentic sources. Therefore, the Centre would like to
-extend its acknowledgements to all of them.
-This textbook may be used to deliver the foundation for the content of the curriculum, the
-balance of skills to be taught and the types of language practice the students are to take
-part in. However, teachers can adapt the contents and tasks as per the need and context of
-their individual students. This textbook can be used as the primary resource for classroom
-teaching but teachers are encouraged to make use of their own resources to supplement the
-language learning of their students.
-The Curriculum Development Centre always welcomes constructive feedback for the
-betterment of its publications.
-2022 Curriculum Development Centre
-Sanothimi, Bhaktapur
+> **Publisher:** Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre
+> **Location:** Sanothimi, Bhaktapur
 
-egaP
-|     |     | 01  | 22  | 53  | 64  |     | 65  | 66  | 77  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-1
-|     |             | senohpomoH |            |            |            |            |     |  noitautcnuP |     |
-| --- | ----------- | ---------- | ---------- | ---------- | ---------- | ---------- | --- | ------------ | --- |
-|     |  yranoitciD |            |  a gnidaeR |  a gnidaeR |  a gnidaeR |  a gnidaeR |     |              |     |
- notelekS
-| tib artxE |       |     | eugolaid |       |      |     |       |       |       |
-| --------- | ----- | --- | -------- | ----- | ---- | --- | ----- | ----- | ----- |
-|           |       |     |          |       | meop |     |       | skram |       |
-|           | yrtne |     |          | yrots |      |     | yrots |       | yrots |
-krow tcejorP
-|     |            |          |            |           | snoitseggus |            |       | noititepmoc |            |
-| --- | ---------- | -------- | ---------- | --------- | ----------- | ---------- | ----- | ----------- | ---------- |
-|     |  gniraperP |          |            |           |             |  dna sdeeN |       |             |            |
-|     |            |          |            |  gniteerG |             |            |       |             | tibah tsaP |
-|     |            |  tseuqeR |  fo tsil A |           |  fo tsil A  |            |       |             |            |
-|     |            |          | stseuqer   |           |             |            |       |  hceepS     |            |
-|     | eciton     | rettel   |            | sdrac     |             |            | stnaw |             |            |
- fo noitpircseD
-|     | mrof ni kcehC | rettel lanosreP |     |     |     |     |     |     | yrots notelekS |
-| --- | ------------- | --------------- | --- | --- | --- | --- | --- | --- | -------------- |
- eht ot retteL
-noitautcnuP
-eugolaid A
-|     |     |     |     |            | hpargaraP hpargaraP |     |     | hpargaraP | hpargaraP |
-| --- | --- | --- | --- | ---------- | ------------------- | --- | --- | --------- | --------- |
-|     |     |     |     | lavitsef a | egasseM             |     |     |           |           |
-gnitirW
-liam-E
-|     |     |     | rotide |     |     | yassE | yrotS |     |     |
-| --- | --- | --- | ------ | --- | --- | ----- | ----- | --- | --- |
-stnetnoC fo elbaT
-|     |     |             |  ,dluow ,lliW        |             | lanoitidnoc II |     |               |               |             |
-| --- | --- | ----------- | -------------------- | ----------- | -------------- | --- | ------------- | ------------- | ----------- |
-|     |     | elbatnuocnu |                      |             |                |     | lanoitidnoc I | evitinifni oT | sevitcennoC |
-|     |     | /elbatnuoC  |                      | tsap elpmiS |                |     |               |               | suounitnoc  |
-|     |     |             | emos/na/a dluoc ,nac |             |                |     |               |               |             |
-rammarG brev 'eB'
-|     | eht/na/a     |              |              | .. hsiw I |              |  tneserP    |        |  tneserP    | ot desU      |
-| --- | ------------ | ------------ | ------------ | --------- | ------------ | ----------- | ------ | ----------- | ------------ |
-|     |              |              |              |           | dluohS       |             | elpmis |             |              |
-|     | noitasrevnoC | noitasrevnoC |              |           |              |             |        |             | noitasrevnoC |
-|     |              |              | noitasrevnoc |           | noitasrevnoc | noitanalpxE |        | noitanalpxE |              |
-noitpircseD
-| gninetsiL |     |     |  fo seceiP |     |  fo seceiP |     |     |     |     |
-| --------- | --- | --- | ---------- | --- | ---------- | --- | --- | --- | --- |
- dna snoinipO
- gnicudortnI
-snoitsegguS
-|     |     | noissimreP |     |     |     |  dna stnaW |     |     |     |
-| --- | --- | ---------- | --- | --- | --- | ---------- | --- | --- | --- |
-gnikaepS
-stseuqeR
-|     |     |     |     | sehsiW |     |     |     | sgnileef |     |
-| --- | --- | --- | --- | ------ | --- | --- | --- | -------- | --- |
- srehto
-sdeen
-tsaP
-tnemecnuonnA
-yhpargoibotuA
-weivretni boJ
-|     |     |     |  eht ot retteL |  fo slavitseF | stibaH dooF | nalp yadiloH |     | elcitra sweN |     |
-| --- | --- | --- | -------------- | ------------- | ----------- | ------------ | --- | ------------ | --- |
-gnidaeR
-hceepS
-|     |     |            |       | rotide lapeN | liamE |     |      |     |       |
-| --- | --- | ---------- | ----- | ------------ | ----- | --- | ---- | --- | ----- |
-|     |     | yrotS meoP | yrotS |              | yrotS |     | meoP |     | yrotS |
-tinU
-|     | 1   | 2   | 3   | 4   | 5   | 6   |     | 7   | 8   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+## Table of Contents
 
-|     |     |     |     | 701 | 811 |     | 821 | 241 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     | 88  | 79  |     |     |     |     |     |     |
- ,hcum ,elttil a
-|     |  evitarapmoc |     |     |     |     |     |     |  ,wef )a( ,lare |
-| --- | ------------ | --- | --- | --- | --- | --- | --- | --------------- |
-sbrevda dna
-|     |     |            |  sevitcejdA |     |            |            | swen strops |  ,yna ,emoS |
-| --- | --- | ---------- | ----------- | --- | ---------- | ---------- | ----------- | ----------- |
-|     |     |  a gnidaeR |             |     |  a gnidaeR |  a gnidaeR |             | -ves ,ynam  |
-secnetnes
- gnitirW
-fo tib a
-|     |     | yrots |     |     | yrots |     |     |     |
-| --- | --- | ----- | --- | --- | ----- | --- | --- | --- |
- tuoba retsoP
-sesutcepsorp
-|     |     | snoitaluger |     |           |     |     |     |  gnitcelloC |
-| --- | --- | ----------- | --- | --------- | --- | --- | --- | ----------- |
-|     |     |  dna seluR  |     |  suomaf a |     |     |     |             |
-trahc raB
-serutciP
-nosrep
-trahC
- fo noitpircseD
- evitarapmoC
-|  gniterpretnI |             | selur loohcS             |           |              |            |           |            |              |
-| ------------- | ----------- | ------------------------ | --------- | ------------ | ---------- | --------- | ---------- | ------------ |
-|               |             |                          |           |              |            |           | gniredroeR | noitpircseD  |
-|               | hpargarap   |                          | yhpargoiB |              | hpargaraP  |           | hpargaraP  | sutcepsorP   |
-|               |             | telfaeL                  |           | ecalp a      |            |           |            |              |
-|               | trahc       |                          |           |              |            | yrotS     |            |              |
-|  evitarapmoC  |             |                          |           | snoitseuq hW |            |           |            | snoitseuq hW |
-|               |             |  ,dluoc ,naC  dewolla eb |           |              |            |           |            |              |
-|               | evitalrepus |                          |           |              |  kool/kooL |           | fo esuaceb |              |
-|               |             |  ,tsum ,ot               |           |              |            |  ,esuaceB |            |              |
-|               |             |                          |  evitaleR |              |            |           |            | drocnoC      |
-|               |             |                          | ot evah   |              |  tneserP   |           |            |              |
-|               |             |                          |           | esualc       |            | elpmis    |            |              |
- dna
-ekil
-|     |     |             |             |     | noitasrevnoC | noitasrevnoC |     |             |
-| --- | --- | ----------- | ----------- | --- | ------------ | ------------ | --- | ----------- |
-|     |     | noitanalpxE | noitpircseD |     |              |              |     | noitpircseD |
-noinipO
-|  nosirapmoC |  tsartnoc dna |                           |     |     | secnaraeppA |              |     |     |
-| ----------- | ------------- | ------------------------- | --- | --- | ----------- | ------------ | --- | --- |
-|             |               |  snoitagilbO snoitibihorp |     |     |             |  dna ytilibA |     |     |
-gnibircseD
-ytitnauQ
-snosaer
- dna
-|     |     |     |     |  fo noitpircseD |     |     |     |  fo noitpircseD |
-| --- | --- | --- | --- | --------------- | --- | --- | --- | --------------- |
- noitpircseD
-|        |      |  dna seluR snoitaluger | yhpargoiB |         |      |       |      | sutcepsorP |
-| ------ | ---- | ---------------------- | --------- | ------- | ---- | ----- | ---- | ---------- |
-| strahC |      | telfaeL                |           | ecalp a |      |       |      | 2K .tM     |
-|        | meoP |                        |           |         | meoP | yrotS | meoP |            |
-|        |      | 01                     | 11        |         | 21   | 31    |      | 41         |
-9
+| S.No. | Title |
+|-------|-------|
+| 2 | [Getting started](#ch-2) |
+| 3 | [Getting started](#ch-3) |
+| 4 | [Getting started](#ch-4) |
+| 5 | [Getting started](#ch-5) |
+| 6 | [Getting started](#ch-6) |
+| 7 | [Getting started](#ch-7) |
+| 8 | [Getting started](#ch-8) |
+| 9 | [Getting started](#ch-9) |
+| 10 | [Getting started](#ch-10) |
+| 11 | [Getting started](#ch-11) |
+| 12 | [Getting started](#ch-12) |
+| 13 | [Getting started](#ch-13) |
+| 14 | [Getting started](#ch-14) |
+| 15 | [Getting started](#ch-15) |
+| 16 | [Getting started](#ch-16) |
+| 17 | [Getting started](#ch-17) |
+| 18 | [Getting started](#ch-18) |
+| 19 | [Getting started](#ch-19) |
 
-|              | 451            |     | 661         |     | 971          | 981           |              | 991        | 212 |
-| ------------ | -------------- | --- | ----------- | --- | ------------ | ------------- | ------------ | ---------- | --- |
-|              |  ,tsum ,dluohs |     |             |     |              | sgat noitseuQ |              |            |     |
-|  ,thgim ,yaM |                |     |             |     |  snoisserpxE |               |              |            |     |
-|              |  ,lliw ,dluoc  |     |  gniredroeR |     |              |               |  tuoba stcaF | ydob namuh |     |
-esirprus rof
-t'nac ,nac
-serutcip
- fo noitcelloC
-yrots erutciP
- a gnihctaW
- fo sesuac
- fo tsil A
-serutciP
-|     | egnahc |     |     |     |     |     | sunem |     |     |
-| --- | ------ | --- | --- | --- | --- | --- | ----- | --- | --- |
-eivom
-|     |     |     |     |     | noitautcnuP |     |     | snoitcurtsnI |     |
-| --- | --- | --- | --- | --- | ----------- | --- | --- | ------------ | --- |
-hpargaraP
-|     |     |     | noitarraN |     | eugolaiD |     |     | segassem |     |
-| --- | --- | --- | --------- | --- | -------- | --- | --- | -------- | --- |
-liam-E
-uneM  trohS
-yrotS
-|         |                 |  ,thgim ,yaM |             |                         |                        | gat noitseuQ |            |             |          |
-| ------- | --------------- | ------------ | ----------- | ----------------------- | ---------------------- | ------------ | ---------- | ----------- | -------- |
-|         |                 |              | elpmis tsaP | suounitnoc tcefrep tsaP | elpmis tsaP suounitnoc | tcefrep tsaP |            | lanoitidnoc |          |
-|         |                 |              |             |                         |                        |              |  gnitropeR | stnemetats  |          |
-|  elpmiS |  erutuF tcefrep |              |             |                         |                        |              |            |             | yrassolG |
-erutuf
-|     |     | tsum |  tsaP |     |  tsaP |     |     |  oreZ |     |
-| --- | --- | ---- | ----- | --- | ----- | --- | --- | ----- | --- |
-noitasrevnoC
-eugolonoM
-|     |     |     | noitarraN |     | noitarraN |     |     |     |     |
-| --- | --- | --- | --------- | --- | --------- | --- | --- | --- | --- |
- rehtaeW
-troper
-noitamrifnoC
- dna esirpruS
-| ytilibaborP |     |     | stneve tsap |     |     |     |            |     |     |
-| ----------- | --- | --- | ----------- | --- | --- | --- | ---------- | --- | --- |
-|             |     |     |  gnitarraN  |     |     |     |  dna stcaF |     |     |
-yamsid
-shturt
-|     |     |     |  a fo noitarraN |     |     |     |  fo noitpircseD |     |     |
-| --- | --- | --- | --------------- | --- | --- | --- | --------------- | --- | --- |
-noitasrevnoC
-ecalp tekraM
-snoitcurtsni
- gnitarepO
-stnahpele
- etamilC
-egnahc
-|     | meoP |     | yrotS | ytrap | yrotS | uneM |     |     |     |
-| --- | ---- | --- | ----- | ----- | ----- | ---- | --- | --- | --- |
-| 51  |      |     | 61    |       | 71    | 81   | 91  |     |     |
+---
 
-Getting started Unit 1
-A. Look at the pictures below and talk about them.
-a. Are they Nepali?
-b. Which communities do you think they belong to?
-c. What are they doing?
-d. How do the people of your community greet each other?
-B. Listen and sing.
-I've got a friend whose name is Sam.
-He goes with me wherever I am.
-If you need fast, Sam can fly a plane.
-If you need water, Sam can make it rain.
-If you need some sugar, Sam gets sugarcane.
-Everybody knows Sam's name.
-Introduce Sam to your friends.
-English Grade 7 1
+## 2: Getting started  {#ch-2}
 
-Reading I
-Look at the picture below and answer the questions.
-a. Who do you think these people are?
-b. What do you think they are doing?
-c. Who do you think the interviewee is? Why?
-A Job Interview
-Mike : Good morning, John. I am Mike.
-John : Good morning.
-Mike : How are you doing?
-John : I am doing fine. Thank you.
-Mike : How was the traffic coming over
-here?
-John : I am so glad that the traffic was
-light this morning. No traffic jam and no accidents.
-Mike : That is good. John, let’s start the interview. Are you ready?
-John : Yes, I am.
-Mike : First of all, let me introduce myself. I am the Finance Department
-Manager. As you know, there is an open position in my department,
-and I need to fill it as soon as possible.
-John : What kind of experience are you looking for?
-Mike : Doing office work is good.
-John : That is great!
-Mike : John, tell me a little bit about yourself.
-John : I am studying at a college. I have been working part-time as a clerk
-for the last two years.
-Mike : Good! I think, you'll work well here.
-John : I will try my best sir.
-2 English Grade 7
-
-Mike  :  John, nice meeting you. Thank you for coming.
-John  :  Nice meeting you too. Thank you for seeing me.
-(Adapted from: Conversations for all occasions)
-A.  Match the words in column 'A' with their meanings in column 'B'.
-|   Column A     |     | Column B                               |     |     |     |
-| -------------- | --- | -------------------------------------- | --- | --- | --- |
-| a.  traffic    |     | i.  post                               |     |     |     |
-| b.  interview  |     | ii.  a section of a large organisation |     |     |     |
-c.  position  iii. a  formal  meeting  in  which  somebody  is
-asked questions
-| d.  department  |     | iv.  for part of the day or week    |     |     |     |
-| --------------- | --- | ----------------------------------- | --- | --- | --- |
-| e.  part-time   |     | v.  the vehicles that are on a road |     |     |     |
-B.  Write True or False for the following statements.
-a.  John and Mike are talking in the afternoon.
-b.  The traffic was lighter in the morning.
-c.  Mike works as the manager.
-d.  John is still studying at a college.
-e.  John is doing a part-time job.
- Pronunciation
-What sounds do these words start with? Put them in the correct column.
-than, thank, first, phone, closely, payroll, theory, check, ply, chat, there, quick.
-| /p/              | /f/ | /θ/ | /ð/ | /k/ | /tʃ/ |
-| ---------------- | --- | --- | --- | --- | ---- |
-| English Grade 7  |     |     |     |     | 3    |
-
-Speaking
-A. Act out the conversation in which Jim is introducing Carol to
-Peter.
-Jim : Carol, let me introduce you to Peter Brien.
-Peter, this is Ms. Carol Smith.
-She is from Argentina.
-Carol : Pleasure to meet you.
-Peter : Good to meet you too.
-Jim : Peter works for our New York branch.
-Has Carol met Peter before? How do you know? Talk to each other in pairs.
-B. Now practise this dialogue using the prompts below in groups of
-three. Use your real names.
-A: Good afternoon!
-B: Good afternoon! My name is ………………. .
-A: Hello! My name is ……………………. .
-B: Have we met before?
-A: No, we haven’t. Pleased to meet you!
-B: Pleased to meet you too. Have you met……………… ?
-A: I’m not sure.
-C: Yes, we have met before. Good to see you again!
-A: Oh yes, I remember now. Good to see you again too!
-C. Learn these expressions below showing how to introduce others.
-Hello! Meet my friend Reena.
-She is from Kathmandu.
-Reena, This is Nitesh Karki.
-She is an English teacher. She is good at teaching pronunciation.
-4 English Grade 7
-
-Grammar I
-A. The sentences below are from the Reading I. Read the text again
-and complete the sentences with missing words.
-a. I am............................... Finance Department Manager.
-b. There is ..................... open position in my department.
-c. Please, tell me ………. little bit about the position.
-d. I am studying at .......................... college.
-e. I've been working part-time as................. clerk for ................. last
-two years.
-B. Complete the conversation below with ‘a/an or the.’
-Nancy : Thank you for calling the Sports Center. May I help you?
-Lisa : I bought ………. exercise bike from your store last year, and
-I am having problems with it. I need to have it repaired.
-Nancy : Let me connect you to ………. service department. One
-moment please.
-Karen : Service department, this is Karen. How can I help you?
-Lisa : I bought ……. exercise bike from the Sports Center last
-year and it needs to be repaired.
-Karen : What seems to be …….. problem?
-Lisa : I am not very sure, but I think there is …….. problem with
-the bike’s computer console because the LCD screen does
-not display ……… different features.
-Karen : Nothing was on when you pushed ……. start button?
-Lisa : No, nothing.
-Karen : Someone will come to take ……… look at your bike.
-English Grade 7 5
-
-Listening
-A. Look at the picture and answer these questions.
-a. Do you think the two men know each other?
-b. What do you think they are doing?
-c. What is the woman doing?
-B. Listen to the audio and complete the sentences
-with the given words/phrases below.
-boss, new staff, Mr. Peterson
-a. Mr. Thomas is a ………….
-b. The lady introduces Thomas to ……………..
-c. Mr. Peterson seems to be the …………..
-C. Make a group of three. Role play as different people in different
-situations to introduce one another.
-Reading II
-Look at the text in the box and answer the questions.
-a. What kind of text is it?
-b. What is it about?
-c. Who has issued this notice?
-Jyoti Girls Hostel
-Interview for Accommodation
-Interviews for Girls Hostel applicants have been scheduled as below.
-March 5th to March 7th 2021
-Interview time of individual candidates will be on a first come first served
-basis between 10:30 am to 5:00 pm. Please bring the following original
-documents at the time of interview:
-a. Birth registration certificate.
-b. Mark sheets and certificates of the previous class.
-c. Proof of admission at Jyoti Secondary School.
-If you need any further help, please contact the school administration team.
-Warden
-6 English Grade 7
-
-A. Use these words to complete the following sentences.
-accommodation, applicants, original, registration, proof, further
-a. The room still has many of its ………… features.
-b. Can you give me any ………… information?
-c. Hotel ………… is included in the price of your holiday package.
-d. The police suspected him of dealing drugs, but they didn't have any
-………… .
-e. There were over 500 ……………… for the job.
-f. What is your school ……………… number? Mine is 453125.
-B. Answer the following questions.
-a. What is the name of the hostel?
-b. Will there be interviews on more than one day?
-c. What time are the interviews?
-d. Who will attend the interview first?
-e. What documents should the students bring to the interview?
-f. If they want to know more about the interview, who should they
-contact?
-Grammar II
-A. Study the following sentences and notice the use of ‘am, is, and are’.
-a. Everybody is equal. Is everybody equal?
-b. I am a strong girl. I am not weak.
-c. You are a hard working student. You are not/aren't lazy.
-d. He is an honest guy. He is not/isn't a cheat.
-e. Nature is beautiful. Is nature beautiful?
-f. Trees are important for us. Are trees useful for us?
-g. Social workers are the real heroes.
-English Grade 7 7
-
-B. Complete the following sentences with am, is or are. Use negative
-forms where necessary.
-a. A: Have you two met each other?
-B: No, we haven't.
-A: Ben, this ………… Carol. Carol this ………… Ben.
-B: Nice to meet you Carol.
-C: Nice to meet you too, Ben.
-b. A: Where ………… you from, Nitesh?
-B: I…….. from Bara. How about you, Ranjita?
-A: Kailali.
-B: How do you know Pemba?
-A: He ………… my friend from college.
-c. A: ………… Brad Pitt French?
-B. No, he …………. He………… American.
-A: What about Angelina Joli? ………… she American, too?
-B: Yes, she …………. .
-A: ………… Brad Pitt and Angelina Joli French?
-B: No, they …………. They ………… both American.
-d. A: ………… you a new student?
-B: Yes, I ………… .
-e. My sister and I ………… students.
-f. The Dharahara ………… in Kathmandu.
-g. A: ………. Mt. Everest in Bhojpur?
-B: No, it …………. It'………… in Solukhumbu?
-Writing
-A. Suppose you are introducing two of your friends to each other.
-Compose a dialogue that takes place during the introduction.
-B. Below is a hotel check-in form. Complete the form with your
-own personal information.
-8 English Grade 7
-
-ABC Hotel
-Sundhara, Kathmandu
-Guest Registration Card
-Family Name/Surname: ………………….
-Given Name: ………………….
-Address: …………………., ………………….
-Mobile number: .................................
-Date of birth: ………………….
-| Arrived from:   …………...  | Travelling to: …………… |                |
-| ------------------------ | -------------------- | -------------- |
-| Arrival date: ……………      |                      | Time: ……………    |
-| Departure date: …………     |                      | Time: ……………    |
-| Purpose of visit:        |  Tourist/Holiday     |  Conference    |
-|                          |  Business            |  Personal work |
-| Mode of payment:         |  Cash                |  Credit card   |
-…………………
-Guest's signature
- Project work
-Get into groups of four. Choose either: an eco club, a dance club,  a social
-club or a sports club. Work together to prepare a short notice for the club.
-Extra bit
-Study the following dictionary entry.
-Independent
-Head Word.
-Pronunciation Audio.
-This is the word you
-When you click this, you can
-| searched for. | ADJECTIVE |     |
-| ------------- | --------- | --- |
-hear an example of how the
-Pronunciation
-word is pronounced.
-/ˌɪndɪˈpendənt/
-Part of Speech.
-1  not governed or ruled by another country
-| This shows you what type  |     | Phonemic Transcript. |
-| ------------------------- | --- | -------------------- |
-of word this is e.g. Noun,  The country recently became independent This shows you how the word is
-| verb, adjective etc. independent from: Croatia became  |     |     |
-| ------------------------------------------------------ | --- | --- |
-said and helps you understand
-independent from Yugoslavia in 1991.
-every sound in the word.
-The Definition.
-This tells you the meaning
-of the head word.
-English Grade 7  9
-
-Unit 2
 Getting started
 A. Act out the dialogue.
 Please mum, can I use
@@ -550,7 +69,6 @@ Answer these questions.
 a. What things in the song can you count?
 b. What things in the song can't you count?
 10 English Grade 7
-
 Reading I
 Look at the picture below and answer the questions.
 a. What do you think the man is doing in the picture?
@@ -583,7 +101,6 @@ stopped beating. He could hardly catch his breath.
 Finally, he said: ‘Small bird, come back to me. Now it is springtime and all is
 well, soon summer will come and go, but then winter will come and it will be
 English Grade 7 11
-
 cold. You will be hungry. The snow will be deep, and you will have nothing to
 eat. You will starve to death in the cold. Come back to me and I will look after
 you. I will keep you warm and feed you through the long winter.’
@@ -595,7 +112,7 @@ love more than my freedom. Do not try to change what has already happened – yo
 have already set me free, and you cannot change this. Do not believe in what is
 impossible – how would it be possible for a small bird like me to have a diamond the
 size of a chicken’s egg inside?’ And, laughing, the small bird flew away.
-(Source: Storytelling with our students)
+Source: Storytelling with our students
 A. Write the words from the text which have the following meaning.
 The first letter of each word has been given.
 a. That cannot be done. I ………….
@@ -613,7 +130,6 @@ d. Gold is less expensive than ................ .
 e. I have been running for one hour. My heart is …………. faster.
 f. Everyone has the right to …………. of education.
 12 English Grade 7
-
 C. Read the story again and write True or False for the following
 statements.
 a. The man held the bird in his hand.
@@ -638,35 +154,29 @@ scented springtime garden and I found a small bird caught in a net ….
 As the bird: One unfortunate day, a rich man found me caught in a net in
 his garden ….
 English Grade 7 13
-
- Pronunciation
+Pronunciation
 Listen to your teacher and pronounce these words. What difference
 do you find?
-| sing   | you   | starve  | just   | breath  | laugh |
-| ------ | ----- | ------- | ------ | ------- | ----- |
-| reach  | soon  | warm    | first  | cream   | haunt |
- Grammar I
+| sing | you | starve  | just | breath  | laugh |
+| reach  | soon  | warm | first  | cream | haunt |
+Grammar I
 A.  Read the story,  ‘A Small Bird’s Wisdom’ again and write down
 all the nouns in the correct columns below.
-| Things that you can count |     |     | Things that you cannot count |     |     |
-| ------------------------- | --- | --- | ---------------------------- | --- | --- |
+| Things that you can count | | | Things that you cannot count | | |
 B.  Countable or Uncountable? Look at the sentences below. Are
 the nouns highlighted in the following sentences countable or
 uncountable?
-| a.  | I made a cake this morning.           |     |     |     |     |
-| --- | ------------------------------------- | --- | --- | --- | --- |
-| b.  | She has bought a box of chocolates.   |     |     |     |     |
-| c.  | I love coffee with hot milk.          |     |     |     |     |
-| d.  | Can you get some coffee please?       |     |     |     |     |
-| e.  | I'll have a coffee, please.           |     |     |     |     |
-| f.  | I've got some garlic and some butter. |     |     |     |     |
-| g.  | I haven't got enough paper.           |     |     |     |     |
-| h.  | I'm frightened of dogs.               |     |     |     |     |
-| i.  | Strawberries have a lot of vitamin C. |     |     |     |     |
+| a.  | I made a cake this morning. | | | | |
+| b.  | She has bought a box of chocolates. | | | | |
+| c.  | I love coffee with hot milk. | | | | |
+| d.  | Can you get some coffee please? | | | | |
+| e.  | I'll have a coffee, please. | | | | |
+| f.  | I've got some garlic and some butter. | | | | |
+| g.  | I haven't got enough paper. | | | | |
+| h.  | I'm frightened of dogs. | | | | |
+| i.  | Strawberries have a lot of vitamin C. | | | | |
 j.  Some students have run away after seeing the headteacher.
-| 14  |     |     |     | English Grade 7 |     |
-| --- | --- | --- | --- | --------------- | --- |
-
+| 14  | | | | English Grade 7 | |
 C. Complete the sentences with a, an or some.
 a. He'll need …………… umbrella if he goes out.
 b. Daisy needs …………… new phone.
@@ -694,7 +204,6 @@ wear casual clothes.
 f. The workers can take all their vacation days at once with one month
 prior …..............……. .
 English Grade 7 15
-
 C. Write as many questions as you remember from the audio.
 Speaking
 A. What might you say in the following situations? Choose one
@@ -719,7 +228,6 @@ No, no I don’t mind. I'm afraid you can't. Yes, you can. Sure. I'm sorry.
 Sure, go ahead. No problem. Yes, you may. Yes, certainly.
 Giving permission Refusing permission
 16 English Grade 7
-
 C. Work in pairs. Take turns to talk to each other in the following
 situations. Give or refuse permission.
 leave class early take this chair
@@ -731,7 +239,6 @@ Answer the following questions.
 a. How do you feel if you are tired of something?
 b. How does a very old man/woman feel in the last stages of his/her life?
 English Grade 7 17
-
 May I go now?
 Do you think the time is right?
 May I say goodbye to pain filled days
@@ -761,45 +268,38 @@ You know I love you too,
 that's why it's hard to say goodbye
 and end this life with you.
 18 English Grade 7
-
 So hold me now just one more time
 And let me hear you say,
 because you care so much for me,
 You'll let me go today.
 -Susan A. Jackson
 A.  Find words from the poem that rhyme with these words.
-|   a. be  | b. might  | c. stay   | d. know  | e. say |
-| -------- | --------- | --------- | -------- | ------ |
+| a. be  | b. might  | c. stay | d. know  | e. say |
 B.  Find the words from the above poem and match to the meanings
 below.
-|   a.  a situation when you have no one to talk to |     |     |     |     |
-| ------------------------------------------------- | --- | --- | --- | --- |
-|   b.  strength                                    |     |     |     |     |
-  c.  the part of a person that includes their mind, feelings and character
-|   d.  pull                                                |     |     |     |     |
-| --------------------------------------------------------- | --- | --- | --- | --- |
-|   e.  to have something/somebody in your hand, arms, etc. |     |     |     |     |
+| a.  a situation when you have no one to talk to | | | | |
+| b.  strength | | | | |
+c.  the part of a person that includes their mind, feelings and character
+| d.  pull | | | | |
+| e.  to have something/somebody in your hand, arms, etc. | | | | |
 C.  Read the poem again and write True or False for the following
 statements.
-|   a.  The speaker wants to escape the lonely nights.  |     |     |     |     |
-| ----------------------------------------------------- | --- | --- | --- | --- |
-|   b.  The speaker isn't satisfied with his past life. |     |     |     |     |
-|   c.  The speaker wants to live his best forever.     |     |     |     |     |
-|   d.  The speaker has tears in his eyes.              |     |     |     |     |
-|   e.  The speaker thinks that it's easy to go.        |     |     |     |     |
- Grammar II
+| a.  The speaker wants to escape the lonely nights.  | | | | |
+| b.  The speaker isn't satisfied with his past life. | | | | |
+| c.  The speaker wants to live his best forever. | | | | |
+| d.  The speaker has tears in his eyes. | | | | |
+| e.  The speaker thinks that it's easy to go. | | | | |
+Grammar II
 A.  Study the following sentences.
-|   a.  I don't have a dog.                   |     |     |     |     |
-| ------------------------------------------- | --- | --- | --- | --- |
-|   b.  There are some pens.                  |     |     |     |     |
-|   c.  Would you like to have some more tea? |     |     |     |     |
-|   d.  There's some milk in the fridge.      |     |     |     |     |
-|   e.  I don't have any pens.                |     |     |     |     |
-|   f.  There isn't any salt.                 |     |     |     |     |
-|   g.  How many chairs do we need?           |     |     |     |     |
-|   h.  How much milk have we got?            |     |     |     |     |
+| a.  I don't have a dog. | | | | |
+| b.  There are some pens. | | | | |
+| c.  Would you like to have some more tea? | | | | |
+| d.  There's some milk in the fridge. | | | | |
+| e.  I don't have any pens. | | | | |
+| f.  There isn't any salt. | | | | |
+| g.  How many chairs do we need? | | | | |
+| h.  How much milk have we got? | | | | |
 English Grade 7  19
-
 B. Complete the sentences with a/an, some or any.
 a. It is …………… dog.
 b. Have you got …………… friends?
@@ -815,32 +315,30 @@ Sanskriti, good health, 15th, 21st April, 2021, your positive reply, attend
 my sister’s wedding in my village, seven days’ leave, your permission,
 cover all my missed lessons, Sanskriti Rai
 20 English Grade 7
-
 B.  A friendly, personal or an informal letter is written to our friends,
 family or relatives. Try singing the friendly/personal letter song
 together in your class.
-  Friendly Letter Song
-  I am a friendly letter.
-  My heading’s at the top.
-  Slide over to the right to
-  Write the date & then I stop.
-  And then I put “Dear
-  Someone” a comma (,) at the end.
-  Next I go write the body,
-|   My message to my friend.  |     |   I choose a closing like “Your |     |     |
-| --------------------------- | --- | ------------------------------- | --- | --- |
-|                             |     | Friend” or “Love” forever more. |     |     |
-|                             |     | I end it with a comma (,) of    |     |     |
-|                             |     | That I’m very sure.             |     |     |
-|                             |     | I sign my first & last name     |     |     |
-|                             |     | And now I’m at the end.         |     |     |
-|                             |     | And my perfect friendly letter, |     |     |
-|                             |     | I’m ready now to send!          |     |     |
+Friendly Letter Song
+I am a friendly letter.
+My heading’s at the top.
+Slide over to the right to
+Write the date & then I stop.
+And then I put “Dear
+Someone” a comma (,) at the end.
+Next I go write the body,
+| My message to my friend.  | | I choose a closing like “Your | | |
+| | | Friend” or “Love” forever more. | | |
+| | | I end it with a comma (,) of | | |
+| | | That I’m very sure. | | |
+| | | I sign my first & last name | | |
+| | | And now I’m at the end. | | |
+| | | And my perfect friendly letter, | | |
+| | | I’m ready now to send! | | |
 - Lindsey Shepley
 C.  Your school is going to organise an educational tour to Lumbini. You
 also want to go with your school friends. Write a letter asking your
 sister, who lives away from home, for permission to go on the trip.
-  Project work
+Project work
 You and your friends are organising a science exhibition in your
 school. You would like to use the football ground for that exhibition.
 Work in groups of four and write a request letter to the headteacher
@@ -850,13 +348,13 @@ Read the following pairs of words. They have the same pronunciation.
 Do they mean the same or different? Use a dictionary to learn their
 meanings.
 | air - heir | eye - I | be - bee | buy - by | cell - sell |
-| ---------- | ------- | -------- | -------- | ----------- |
 cent - scent dear - deer die - dye fair - fare flour - flower
 hair - hare heal - heel hole - whole hour - our night - knight
 know - no mail - male principal - principle right - write sight - site
 English Grade 7  21
 
-Unit 3
+## 3: Getting started  {#ch-3}
+
 Getting started
 A. Look at the pictures. Guess what the people in the pictures are
 doing or saying.
@@ -873,10 +371,9 @@ Look
 deep in the ocean
 up in the sky
 right and left
-and let them rest (Source: I Love Poems)
+and let them rest (Source: I Love Poems
 What does the poem tell you not to do? Talk to each other in pairs.
 22 English Grade 7
-
 Reading I
 Answer the following questions.
 a. How do people feel when their relatives pass away?
@@ -908,7 +405,6 @@ definitely help you.’
 Kisa was very happy
 to hear that. She
 English Grade 7 23
-
 said, ‘Really? Could Gautam Buddha do that?’ When the old man confirmed the
 possibility, she immediately took her son in her arms and ran towards Gautam
 Buddha, who was meditating under a Peepal Tree.
@@ -940,9 +436,8 @@ Kisa realised an important thing. She understood what Buddha was trying to
 teach her: death takes away everybody one day; it is inevitable. It was not that
 only she had lost her dear one; but it was in everybody’s house where people
 die. When you are born, you are destined to die one day.’
-(Adapted from www.buddhiststories.wordpress.com)
+Adapted from www.buddhiststories.wordpress.com
 24 English Grade 7
-
 A. Find the words from the text above and match to the meanings
 below.
 a. gave sympathy to somebody
@@ -971,7 +466,6 @@ A peck of pickled peppers Peter Piper picked.
 If Peter Piper picked a peck of pickled peppers,
 Where’s a peck of pickled peppers Peter Piper picked?
 English Grade 7 25
-
 b. Betty Botter bought some butter.
 But she said the butter’s bitter.
 If I put it in my batter, it will make my batter bitter.
@@ -1000,7 +494,6 @@ B: Yes, ………… . Will they have smartphones? I need a new one.
 4. A: Hey Jim, we're going to see a concert tonight at the stadium. I was
 wondering if …………………………?
 26 English Grade 7
-
 B: …………. But I have to work tonight.
 5. A: Tony, there's a big sale at Central. ……………………. ? We could
 get some cheap brand name clothes.
@@ -1028,50 +521,42 @@ d. Sure, here you are.
 e. Could you show me the way to the post office please?
 f. I'm afraid I can't.
 English Grade 7 27
-
-| g.  Would you help me with this exercise please? |     |     |     |     |
-| ------------------------------------------------ | --- | --- | --- | --- |
-| h.  I'd love to but I'm busy today.              |     |     |     |     |
-| i.  Of course.                                   |     |     |     |     |
+| g.  Would you help me with this exercise please? | | | | |
+| h.  I'd love to but I'm busy today. | | | | |
+| i.  Of course. | | | | |
 Requests Responses
 C.  Work in pairs. Roll a dice and where you land, try and make the
 request in the given situations. The clues are given.
 Finish It's really hot  I'm starving. I'm really thirsty. I'm going to sleep.
-|     | here.      | (give me some  | (make lemonade) | (wake me up at 6) |
-| --- | ---------- | -------------- | --------------- | ----------------- |
-|     | (open the  | bread)         |                 |                   |
-window)
+| | here. | (give me some  | (make lemonade) | (wake me up at 6) |
+| | (open the  | bread) | | |
+window
 The luggage is
 heavy.
-(carry it)
+carry it
 I'm organising a  The cat must be  The bag is very  It's freezing out  I don't understand
-| party. | very hungry. | heavy.        | there.      | my homework.      |
-| ------ | ------------ | ------------- | ----------- | ----------------- |
-| (come) | (feed it)    | (hold this    | (close the  | (help me with it) |
-|        |              | for me for a  | window)     |                   |
-second)
+| party. | very hungry. | heavy. | there. | my homework. |
+| (come) | (feed it) | (hold this | (close the  | (help me with it) |
+| | | for me for a  | window) | |
+second
 The matches are
 on the table.
-(light the fire)
+light the fire
 My bag is in my  I don't  I've got  I'm reading a  The music is
-| room.            | understand the   | a terrible  | book.      | terrible and too  |
-| ---------------- | ---------------- | ----------- | ---------- | ----------------- |
-| (bring it to me) | instructions.    | headache.   | (be quiet) | loud.             |
-|                  | (translate them) | (leave me   |            | (turn it off)     |
-alone)
+| room. | understand the | a terrible  | book. | terrible and too  |
+| (bring it to me) | instructions. | headache. | (be quiet) | loud. |
+| | (translate them) | (leave me | | (turn it off) |
+alone
 I have to clean
 the house before
 my parents come
 home.
-(help me)
+help me
 Start  I've never been  I'm talking to  Dad came in and  I'm leaving for 2
-|     | to the city. | you.  | left the door open | days. |
-| --- | ------------ | ----- | ------------------ | ----- |
-(be my guide) (listen to me) (close the door) (look after my
-cow)
-| 28  |     |     |     | English Grade 7 |
-| --- | --- | --- | --- | --------------- |
-
+| | to the city. | you.  | left the door open | days. |
+be my guide) (listen to me) (close the door) (look after my
+cow
+| 28  | | | | English Grade 7 |
 D. Work in pairs. Take turns to make requests and respond in the
 following situations.
 a. You want to find out where the nearest bus stop is.
@@ -1094,7 +579,6 @@ b. Could you to help me please?
 Could you help me please?
 c. I would liking a drink.
 English Grade 7 29
-
 I would like a drink.
 d. She would likes a coffee.
 She would like a coffee.
@@ -1117,7 +601,6 @@ Answer the following questions.
 a. Have you ever written a letter to an editor of a magazine or newspaper?
 b. Why would you write to an editor?
 30 English Grade 7
-
 Kathmandu
 19th Sep, 2021
 The Editor
@@ -1145,7 +628,6 @@ Name of the newspaper
 Subject of the letter
 Sender's name
 English Grade 7 31
-
 B. Answer the following questions.
 a. What type of problem is air pollution?
 b. What are the major sources of air pollution?
@@ -1174,7 +656,6 @@ negative forms where necessary.
 a. My grandmother is eighty-five, but she ……… still read and write
 without glasses.
 32 English Grade 7
-
 b. ……… I come with you?
 c. ……… you help me with the housework please?
 d. There was a time when I ……… stay up very late.
@@ -1201,7 +682,6 @@ Tailor : All right. May I take your measurements, sir?
 Customer : Yes. I'd like a tight-fitting suit.
 Tailor : Right, sir.
 English Grade 7 33
-
 Customer : Now, how long will it take you to get the suit ready?
 Tailor : About three weeks, I think. It takes longer at this time of the
 year because of the holiday rush, you know.
@@ -1220,7 +700,7 @@ price list, sir.
 Customer : Seven hundred and seventy-seven rupees for making a suit!
 I think I'll go elsewhere.
 Tailor : I recommend FITWELL across the street, sir. Goodbye, sir!
-(Source: Spoken English)
+Source: Spoken English
 Questions for discussion.
 a. Where is the dialogue taking place?
 b. Who is taking part in the dialogue?
@@ -1229,7 +709,8 @@ d. When will the suit be ready?
 e. At the end of the dialogue, what does the customer decide to do? Why?
 34 English Grade 7
 
-Unit 4
+## 4: Getting started  {#ch-4}
+
 Getting started
 A. Look at these pictures. What do you think people do during their
 festivals? Talk to your friends.
@@ -1243,7 +724,6 @@ Wanna wish you sunlight through the clouds.
 And I hope you laugh out loud.
 Why do people make wishes? Talk in pairs.
 English Grade 7 35
-
 Reading I
 Answer the following questions.
 a. What festivals are celebrated in your community?
@@ -1277,41 +757,33 @@ during Gai Jatra.
 Buddha Jayanti is a national festival of Nepal.
 Lord Buddha was born in Lumbini on this day.
 36 English Grade 7
-
 Hence, Buddhists from all over the world visit Nepal during this ceremony.
 Places  like  Boudhanath,  Swayambhunath  and  Lumbini  are  decorated  with
 prayer flags. Monks gather to offer prayers and chant Buddhist mantras. People
 visit Stupas and observe the day. Kheer (sweet porridge) in cooked in every
 household during Buddha Jayanti.
 A.  Match the meanings with their corresponding words.
-| a.  two or more things joined together     |     |     | i.  monk         |
-| ------------------------------------------ | --- | --- | ---------------- |
-| b.  celebrated festival or birthdays, etc. |     |     | ii.  decorated   |
-| c.  give and receive something             |     |     | iii. commemorate |
-| d.  recall and show respect for someone    |     |     | iv. deceased     |
+| a.  two or more things joined together | | | i.  monk |
+| b.  celebrated festival or birthdays, etc. | | | ii.  decorated |
+| c.  give and receive something | | | iii. commemorate |
+| d.  recall and show respect for someone | | | iv. deceased |
 or something
 | e.  made  | something  | look  more  | v.  procession |
-| --------- | ---------- | ----------- | -------------- |
 attractive by putting things on it
-| f.  dead                              |     |     | vi. exchange   |
-| ------------------------------------- | --- | --- | -------------- |
-| g.  a line of people that move along  |     |     | vii.  observed |
+| f.  dead | | | vi. exchange |
+| g.  a line of people that move along  | | | vii.  observed |
 slowly
-| h.  a member of a religious group of  |     |     | viii. combination |
-| ------------------------------------- | --- | --- | ----------------- |
+| h.  a member of a religious group of  | | | viii. combination |
 men who live apart in a monastery
 and who do not marry
 B.  Complete the following sentences with the correct forms of the
 words in A above.
-| a.  | Look! They are Buddhist …………….. .       |     |     |
-| --- | --------------------------------------- | --- | --- |
-| b.  | The …………….. made its way down the hill. |     |     |
+| a.  | Look! They are Buddhist …………….. . | | |
+| b.  | The …………….. made its way down the hill. | | |
 c.  I buy you lunch and you fix my computer. Is that a fair ………….. ?
 d.  His treatment was a …………….. of surgery, radiation and drugs.
-| e.  | Do they …………….. Dashain? |     |     |
-| --- | ------------------------ | --- | --- |
+| e.  | Do they …………….. Dashain? | | |
 English Grade 7  37
-
 f. The family of the …………….. are crying.
 g. He is …………….. the car with flowers.
 C. Answer the following questions.
@@ -1335,7 +807,6 @@ A. Study the following pictures and read the sentences. What do
 they mean?
 I wish I had more money. I wish I had more friends.
 38 English Grade 7
-
 I wish I had a smartphone. I wish I had curly hair.
 B. Complete the following sentences with the given beginnings as
 given in the example.
@@ -1361,43 +832,37 @@ c. I wish we ………….. (live) near the beach.
 d. Do you ever wish you ………….. (can travel) more?
 e. I wish I ………….. (be) better at maths.
 English Grade 7 39
-
-| f.  | I wish we …………..  (not have to) wear a school uniform. |     |     |
-| --- | ------------------------------------------------------ | --- | --- |
-| g.  | Sometimes, I wish I ………….. (can fly).                  |     |     |
-| h.  | I wish we ………….. (can go) to Disney World.             |     |     |
- Listening
+| f.  | I wish we …………..  (not have to) wear a school uniform. | | |
+| g.  | Sometimes, I wish I ………….. (can fly). | | |
+| h.  | I wish we ………….. (can go) to Disney World. | | |
+Listening
 A.  Answer the following questions.
-| a.  | When is your birthday?                    |     |     |
-| --- | ----------------------------------------- | --- | --- |
-| b.  | How do you celebrate your birthday?       |     |     |
-| c.  | What do people give you on your birthday? |     |     |
+| a.  | When is your birthday? | | |
+| b.  | How do you celebrate your birthday? | | |
+| c.  | What do people give you on your birthday? | | |
 B.  Listen to the audio and complete the table with the information
 you heard. Use no more than two words.
-|                   | Name          |            | Martha        |
-| ----------------- | ------------- | ---------- | ------------- |
-| She's from        |               |            | …………………..     |
-| What does she do? |               |            | …………………..     |
-| Who  does         | she  usually  | celebrate  | her ………………….. |
+| | Name | | Martha |
+| She's from | | | ………………….. |
+| What does she do? | | | ………………….. |
+| Who  does | she  usually  | celebrate  | her ………………….. |
 birthday with?
-| Who gives her money?                       |      |     | Her parents and …………….. |
-| ------------------------------------------ | ---- | --- | ----------------------- |
-|                                            | Name |     | Kenji                   |
-| He lives in                                |      |     | …………………..               |
-| When is his birthday?                      |      |     | …………………..               |
-| Where does he go for a picnic?             |      |     | …………………..               |
-| What does his family buy for him?          |      |     |  …………………..              |
-| What are his parents giving him this year? |      |     | …………………..               |
-|                                            | Name |     | Sun-Hyi                 |
-| She's from                                 |      |     | Busan, …………………..        |
-| When is her birthday?                      |      |     | …………………..               |
-| Very special age in her country            |      |     | …………………..               |
-| Who cooks a special meal?                  |      |     |  …………………..              |
+| Who gives her money? | | | Her parents and …………….. |
+| | Name | | Kenji |
+| He lives in | | | ………………….. |
+| When is his birthday? | | | ………………….. |
+| Where does he go for a picnic? | | | ………………….. |
+| What does his family buy for him? | | |  ………………….. |
+| What are his parents giving him this year? | | | ………………….. |
+| | Name | | Sun-Hyi |
+| She's from | | | Busan, ………………….. |
+| When is her birthday? | | | ………………….. |
+| Very special age in her country | | | ………………….. |
+| Who cooks a special meal? | | |  ………………….. |
 C.  What do the people speaking in the audio do on their birthdays?
 Do you do the same? If not, how would you like to celebrate?
 Talk to your friends.
 40  English Grade 7
-
 Reading II
 Answer the following questions.
 a. Do you write emails/letters to your friends?
@@ -1429,7 +894,6 @@ time to come to my home soon.
 See you soon!
 Niru
 English Grade 7 41
-
 A. Complete the following sentences with the words from the box.
 memorable, presence, occasions, surprise, chorus, hugged
 a. I know him well. I've met him on several …………………….
@@ -1457,14 +921,11 @@ Find and write them.
 celebrate gift want shout
 is have tell hug
 42 English Grade 7
-
-|   reach    | buy    | ask     | give    |
-| ---------- | ------ | ------- | ------- |
-|   wake up  | cut    | come    | dance   |
-|   sing     | start  | open    | receive |
-|   enter    | enjoy  | arrive  | say     |
-|   see      | miss   | make    | know    |
-  are
+| reach | buy | ask | give |
+| wake up  | cut | come | dance |
+| sing | start  | open | receive |
+| enter | enjoy  | arrive  | say |
+| see | miss | make | know |
 B.  Study the following sentences.
 a.  I met him in 2015 AD.
 b.  We went to Pokhara for our last holiday.
@@ -1478,13 +939,12 @@ C.  Complete the sentences with the past simple forms of the verbs
 in the brackets. Use negative forms where needed.
 a.  The old man ……. (take) out his purse and …………. (pay) the bill.
 b.  The nurse …………. (put) the little boy on the bed and ………….
-(speak) to him softly.
+speak) to him softly.
 c.  They ……. (hear) the fire alarm and ……. (run) out of the building.
 d.  …………. (do) you remember to buy the salt?
 e.  …………. (do) I say anything wrong?
 f.  I …………. (call) the waiter but she …………. (hear) me.
 English Grade 7  43
-
 g. I …………. (see) Sani in the supermarket but we …………. (talk).
 h. She …………. (spend) all the morning in the bookshop, but in the
 end she …………. (buy) anything.
@@ -1512,7 +972,6 @@ Which events do you celebrate at your school: Children's Day,
 Democracy Day, School Day, etc? Choose one and recall how it was
 celebrated last year. Write a paragraph about it. Use past tense.
 44 English Grade 7
-
 Project work
 Work in small groups (maximum five). Make colourful greeting cards
 to express wishes to your friends and relatives on any of the occasions
@@ -1546,7 +1005,8 @@ banana immediately flew out of the window and they were happy. They made
 no more wishes and were satisfied the rest of their lives.
 English Grade 7 45
 
-Unit 5
+## 5: Getting started  {#ch-5}
+
 Getting started
 A. What do you think these people should or shouldn't do? Talk to
 your friend.
@@ -1565,7 +1025,6 @@ Answer these questions.
 a. Where would the bird fly to search for someone?
 b. What would the bird do with the person?
 46 English Grade 7
-
 Reading I
 Look at the picture and answer the following questions.
 a. Who do you think they are?
@@ -1596,7 +1055,6 @@ me to do," he said. "I shall give the money back only when you are all present."
 that the others are with me."
 The old man did so and was satisfied. He handed the money over to the man.
 English Grade 7 47
-
 The dishonest man put the bag of money into his pocket and went back to his
 friends. He told them that he had received news that his grandfather was ill, and
 so he would have to leave them for some time. The other two men agreed and
@@ -1630,28 +1088,23 @@ B. Write True or False for the following statements.
 a. The three merchants used to live in three different towns.
 b. They earned a good amount of money.
 48 English Grade 7
-
-| c.  The old man was their banker. |     |     |     |     |
-| --------------------------------- | --- | --- | --- | --- |
+| c.  The old man was their banker. | | | | |
 d.  The old man refused to give the money back to one merchant at first.
-| e.  The dishonest merchant's grandfather was really ill. |     |     |     |     |
-| -------------------------------------------------------- | --- | --- | --- | --- |
+| e.  The dishonest merchant's grandfather was really ill. | | | | |
 f.  The old man gave back the money to the two merchants too.
 C.  Answer the following questions.
-| a.  What agreement did the merchants make with each other? |     |     |     |     |
-| ---------------------------------------------------------- | --- | --- | --- | --- |
-| b.  What did they start to do in the town?                 |     |     |     |     |
-| c.  How did they earn a good amount of money?              |     |     |     |     |
-| d.  Why did they give the bag of money to the old man?     |     |     |     |     |
+| a.  What agreement did the merchants make with each other? | | | | |
+| b.  What did they start to do in the town? | | | | |
+| c.  How did they earn a good amount of money? | | | | |
+| d.  Why did they give the bag of money to the old man? | | | | |
 e.  Did the first merchant really want to buy a bath ticket? Why?
 f.  Why did the old man give the money to the first merchant?
 D.  What would you suggest to the old man and the two merchants?
- Pronunciation
+Pronunciation
 Pronounce the following words with the help of your teacher.
-| 'merchant   | dis'honest  | a'ppear     | 'distant  | 'promise |
-| ----------- | ----------- | ----------- | --------- | -------- |
-| hand 'over  | 'bathhouse  | a'greement  | a'mount   | judge    |
- Writing I
+| 'merchant | dis'honest  | a'ppear | 'distant  | 'promise |
+| hand 'over  | 'bathhouse  | a'greement  | a'mount | judge |
+Writing I
 A.  One of the old man's friends in the village gave him advice in the
 story. His advice was this: Since you have agreed to give their
 money back when they are all present, you should tell them that
@@ -1659,12 +1112,10 @@ you will pay back their money only when all three come together.
 Did this advice work? How? Discuss.
 B.  Imagine that you are the old man. Write a message thanking your
 friend for the advice.
- Grammar I
+Grammar I
 A.  Read the list of suggestions given to someone who has a toothache.
-| a.  You should go to a dentist. |     |     |     |     |
-| ------------------------------- | --- | --- | --- | --- |
+| a.  You should go to a dentist. | | | | |
 English Grade 7  49
-
 b. You shouldn't have a cold drink.
 c. How about taking a painkiller?
 d. If I were you, I would go to a dentist.
@@ -1697,7 +1148,6 @@ How about ……………..?
 If I were you, ………………
 a. It's a lovely Saturday afternoon. Your brother is bored at home.
 50 English Grade 7
-
 b. Your mother goes outside and it starts raining. She comes back.
 c. It has stopped raining outside.
 d. Your sister has been playing for a while. Now, she is hungry.
@@ -1731,7 +1181,6 @@ B: Why don’t we………………… pizza?
 A: That’s a good …………………!
 3. A: ………………… do something tonight.
 English Grade 7 51
-
 B: How about seeing a …………………?
 A: …………………. What movie do you want to see?
 4: A: I’ve got a ………………….
@@ -1761,12 +1210,11 @@ Your body is a complicated piece of machinery. Many of the organs in the
 human body work together to take energy from food to keep you going all day.
 In some ways, this is just like putting fuel in a car. However, if you did put the
 52 English Grade 7
-
 wrong fuel in a car, the engine would soon start to splutter and things would go
 wrong. Your body is just like this – it needs the right fuel. Because of this, you
 need to think carefully about what you eat.
 No one is saying that you cannot have treats like sweets and crisps. Your diet
-(which is a way of saying everything you eat) needs to be varied, interesting
+which is a way of saying everything you eat) needs to be varied, interesting
 and enjoyable. Many people plan their meals so that they include a variety of
 vegetables, protein, fruits and grains. Some people must be extra careful about
 what they eat. A vegetarian (someone who chooses not to eat meat) may have
@@ -1794,15 +1242,14 @@ Use the structures you learnt earlier.
 Grammar II
 A. Study the following sentences with their meanings.
 a. If I won the lottery, I would buy a big house. (I probably won't win
-the lottery)
+the lottery
 English Grade 7 53
-
 b. She would pass the exam if she ever studied. (She never studies, so
-this won't happen)
+this won't happen
 c. If I had his number, I would call him. (I don't have his number now,
 so it's impossible for me to call him).
 d. If we had a garden, we could have a gardener. (We don't have a
-garden.)
+garden.
 B. Choose the correct option to complete the sentences.
 a. What would you do differently if you ……………. to do this again?
 i. had ii. have iii. would have
@@ -1827,7 +1274,6 @@ habits? Write a paragraph about your eating habits.
 B. Why should we eat a balanced diet? Prepare a short message in
 the form of a poster.
 54 English Grade 7
-
 Project work
 Give suggestions to your friends at school regarding their food habits.
 Work in groups of five. Prepare a list of suggestions. Write on chart
@@ -1857,7 +1303,8 @@ I know I could fly mighty high!
 - Annette R. Hershey
 English Grade 7 55
 
-Unit 6
+## 6: Getting started  {#ch-6}
+
 Getting started
 A. Look at the pictures and guess what these people might want.
 B. Listen and sing.
@@ -1874,7 +1321,6 @@ Answer these questions.
 a. Can we get all the things we want? Why?
 b. What's the difference between needs and wants?
 56 English Grade 7
-
 Reading I
 Look at the pictures and answer the questions.
 a. What are the girls doing in the pictures?
@@ -1910,7 +1356,6 @@ I didn't manage to complete either of the tasks so, I am not happy with my
 achievements. So no matter what, I have planned to prioritise these two things
 and be a better person when I move to the next class.
 English Grade 7 57
-
 A. Choose the correct words from the box to complete the sentences.
 preserve, productive, concentration, enroll, gardening, fence,
 achievements, rare
@@ -1942,7 +1387,6 @@ f. What does she plan to do when she goes to the next grade?
 D. What are the two most interesting things you really want to do in
 your coming holiday? Talk to your friends.
 58 English Grade 7
-
 Pronunciation
 Listen to your teacher pronouncing the word rare. Does he/she
 pronounce it as a single unit or more than one unit?
@@ -1974,7 +1418,6 @@ doctor. doctor? be a doctor.
 They need some Do they need any water? They do not/don't need any
 water. water.
 English Grade 7 59
-
 C. Complete these sentences about yourself with correct verb forms.
 a. My friend ………… also in grade 7. We both ………… in grade 7.
 b. My father ………………. in an office and my mother ………………..
@@ -2003,7 +1446,6 @@ c. People have the same needs to stay safe and healthy.
 d. Games and computers are necessary for us to live.
 e. We don't need any of the things if we want to survive.
 60 English Grade 7
-
 C. Listen to the audio again and complete the sentences. Use ONLY
 ONE word.
 a. We need food to …………
@@ -2037,7 +1479,6 @@ Is keeping them captive right?
 A. Find the rhyming words for these from the poem.
 a. fight b. pill c. play
 English Grade 7 61
-
 B. Are the following statements true or false? Write True or False.
 a. The circus elephant walks round the ring each night.
 b. They want to stay in the forest.
@@ -2071,42 +1512,38 @@ i. will you ii. do you
 h. If he …………. you, will you answer the phone?
 i. will call ii. calls
 62 English Grade 7
-
- Speaking
+Speaking
 A.  Look at the pictures and say what they want to be.
-|     | Pemba   | Nitu    | Dinesh  |
-| --- | ------- | ------- | ------- |
-|     | Nabina  | Himesh  | Jay     |
+| | Pemba | Nitu | Dinesh  |
+| | Nabina  | Himesh  | Jay |
 B.  Work in pairs. Take turns to complete the sentences.
 Example:
 A:  If you want to be a doctor, …………………………
 B:  You need to study hard.
-| a.  | If you want to be an engineer, …………………… |     |     |
-| --- | --------------------------------------- | --- | --- |
-| b.  | If you want to be a pilot, ……………        |     |     |
-| c.  | If you want to be a driver, ……………..     |     |     |
-| d.  | If you want to be a teacher, ………….      |     |     |
-| e.  | If you work hard, ……………                 |     |     |
-| f.  | If you don't sleep well, ………………         |     |     |
+| a.  | If you want to be an engineer, …………………… | | |
+| b.  | If you want to be a pilot, …………… | | |
+| c.  | If you want to be a driver, …………….. | | |
+| d.  | If you want to be a teacher, …………. | | |
+| e.  | If you work hard, …………… | | |
+| f.  | If you don't sleep well, ……………… | | |
 English Grade 7  63
-
 Writing II
 A farmer wanted his sons to be hard working. Read how he made his
 lazy sons hard working. Put the verbs from the brackets in the past
 forms to complete the story.
-Once there (live) a farmer in a village. He (be) very hardworking. He (have)
+Once there (live) a farmer in a village. He (be) very hardworking. He (have
 three sons. They (be) very lazy. This worried the farmer. He (want) his sons to
 take care of his fields as he (do). So, one day, he (call) his sons to his side and
-(say), “Dear sons, there is a great treasure hidden in one of my fields to make
+say), “Dear sons, there is a great treasure hidden in one of my fields to make
 sure that you three never go hungry”. After a few days, the farmer (die). After
 that, the sons (decide) to search for the treasure their father (be) talking about.
 They (take) the farmer’s spades and mattocks and (dig) every portion of their
 field hunting the treasure. But they (find) nothing.
 A friend of their father (see) this and (suggest) that they should sow some seeds.
 They (accept) the suggestion and (do) the same. It (rain) well that season. Days
-(pass). The fields (reward) their labour with good crops that season. The sons
-(realise) what their father's hidden treasure (be). From that day on, the sons
-(start) working hard.
+pass). The fields (reward) their labour with good crops that season. The sons
+realise) what their father's hidden treasure (be). From that day on, the sons
+start) working hard.
 Project work
 Talk to five different people from your locality. Ask them what five
 things they would like to have. Create a table and write 'need' or 'want'
@@ -2119,7 +1556,6 @@ a. What was the problem with the boy?
 b. What did his father give him?
 c. What do the holes in the wall mean in the boy's life?
 64 English Grade 7
-
 Controlling Anger
 Once, there was a young boy. This boy had problems controlling his
 anger. When he got angry, he would say the first thing that came to
@@ -2136,7 +1572,8 @@ fence is never going to be the same. Likewise, when you say mean
 things in anger, you’ll leave a scar.”
 English Grade 7 65
 
-Unit 7
+## 7: Getting started  {#ch-7}
+
 Getting started
 A. What is your opinion about the pictures below? Why do you have
 those opinions? Talk to your friends.
@@ -2156,7 +1593,6 @@ a. Is the earth flat or round? What does the boy say?
 b. Does the girl believe that the earth is flat? How do you know?
 c. Who do you think is right? Why?
 66 English Grade 7
-
 Reading I
 Answer the questions below.
 a. Name all the food items in the picture.
@@ -2188,36 +1624,28 @@ Here, we are lucky. Real food is still available but so is junk food. Your body 
 the most valuable thing you will ever have in your life, so you should treat your
 body like a temple – not a garbage bin. I think, you shouldn't eat junk food.
 English Grade 7 67
-
 A.  Match the words in column A with their meanings in column B.
-|   Column A  |     |     |     | Column B |
-| ----------- | --- | --- | --- | -------- |
-  a.  nutrients  i.   made pure by having other substances taken
-out
-| 	 b.	 | refined	 | ii.		 | very	useful	or	important	 |     |
-| ----- | -------- | ----- | ------------------------- | --- |
-  c.  obese  iii.   substances needed to keep a living thing alive
+| Column A  | | | | Column B |
+a.  nutrients  i. made pure by having other substances taken
+| 	 b.	 | refined	 | ii.		 | very	useful	or	important	 | |
+c.  obese  iii. substances needed to keep a living thing alive
 and grow
-  d.  valuable  iv.   waste food, paper, etc. that you throw away
-|   e.  | garbage  | v.   | very fat, in a way that is not healthy |     |
-| ----- | -------- | ---- | -------------------------------------- | --- |
+d.  valuable  iv. waste food, paper, etc. that you throw away
+| e.  | garbage  | v. | very fat, in a way that is not healthy | |
 B.  Answer the following questions.
-|   a.  | Why are people in the world getting fat? |     |     |     |
-| ----- | ---------------------------------------- | --- | --- | --- |
-|   b.  | Give some examples of nutrients.         |     |     |     |
-	 c.	 Why	do	you	think	refined	sugar	is	added	into	fast	food?
-|   d.  | Which is not a real food? Why?                |           |                    |                  |
-| ----- | --------------------------------------------- | --------- | ------------------ | ---------------- |
-|       | i. apple                                      | ii. bean  | iii. chicken wing  | iv. potato chips |
-|   e.  | Which country has the most fat people?        |           |                    |                  |
-|   f.  | How should we treat our body? Why?            |           |                    |                  |
-|   g.  | What is the writer's opinion about junk food? |           |                    |                  |
+| a.  | Why are people in the world getting fat? | | | |
+| b.  | Give some examples of nutrients. | | | |
+c.	 Why	do	you	think	refined	sugar	is	added	into	fast	food?
+| d.  | Which is not a real food? Why? | | | |
+| | i. apple | ii. bean  | iii. chicken wing  | iv. potato chips |
+| e.  | Which country has the most fat people? | | | |
+| f.  | How should we treat our body? Why? | | | |
+| g.  | What is the writer's opinion about junk food? | | | |
 C.  Do your parents encourage you to eat real food or junk food?
 Talk to your friends.
- Pronunciation
-	 /ˈnjuːtriənt/	 /rɪˈfaɪnd/	 /əʊˈbiːs/	 /ˈvæljuəbl/	 /ˈɡɑːbɪdʒ/
+Pronunciation
+/ˈnjuːtriənt/	 /rɪˈfaɪnd/	 /əʊˈbiːs/	 /ˈvæljuəbl/	 /ˈɡɑːbɪdʒ/
 68  English Grade 7
-
 Grammar I
 A. Read the above text again and underline all the verb forms with 'to
 +verb'.
@@ -2241,7 +1669,6 @@ d. They were at the cinema iv. to buy a new computer game.
 e. He called his friend v. to get extra pocket money.
 f. He washes the car every Sunday vi. to watch a film.
 English Grade 7 69
-
 Listening
 A. Answer these questions.
 a. A habit is a routine behaviour. What are your habits? Make a list of
@@ -2268,7 +1695,6 @@ You don't know me well, do you
 You don't know me well do you?
 You don't know me well, do you?
 70 English Grade 7
-
 c He said, I am a student.
 He said I am a student.
 He said "I am a student."
@@ -2295,7 +1721,6 @@ stand in front of you and deliver a speech today. The topic of my
 speech is The Pen is Mightier than the Sword. It’s a very popular
 proverb. We all know that a sword is a very powerful weapon and
 English Grade 7 71
-
 can give enormous power to the person holding it. It is so powerful that with
 this you can even make people bow down to you and establish your supremacy.
 However, you can enslave a person physically, but cannot enslave his mind and
@@ -2326,7 +1751,6 @@ d. exemplary iv. a position in which you have more power or status
 e. violence v. to make somebody a slave
 f. adopt vi. physical force so as to damage
 72 English Grade 7
-
 B. Complete the sentences with the words from column A above.
 a. Is there too much …………….. on TV?
 b. The company has established total ………………. over its rivals.
@@ -2353,7 +1777,6 @@ c. In my opinion, …………….
 d. I strongly believe that ……………….
 e. I'm sure that …………………
 English Grade 7 73
-
 B. Look at the pictures. What is happening in each of them? Is it
 right or wrong? Give your opinions. Think broadly. Use the
 expressions from A above to start your statements.
@@ -2370,7 +1793,6 @@ f. Are they coming to the party?
 g. I'm tired. I'm not doing that.
 h. She isn't going home until Tuesday.
 74 English Grade 7
-
 B. In your opinion, what is happening in the picture below? Write as
 many sentences as you can.
 C. Use present simple or present continuous form of the verbs to
@@ -2386,7 +1808,6 @@ e. They ………………… (go) to a restaurant every Saturday.
 f. She ………………… (not/go) to the cinema very often.
 g. I ………………… (not/drink) coffee very often.
 English Grade 7 75
-
 h. Keep quiet! Julie ………………… (sleep) now.
 i. I am ………………… (read) a story these days.
 Writing II
@@ -2410,7 +1831,8 @@ Apostrophe (') He's done the work on time.
 Quotation marks (" ") "Don't go outside," she said.
 76 English Grade 7
 
-Unit 8
+## 8: Getting started  {#ch-8}
+
 Getting started
 A. Look at the pictures. Take turns to ask and answer questions as
 in the example.
@@ -2427,7 +1849,6 @@ Return to sender, address unknown.
 No such number, no such zone.
 Write the past forms of all the verbs used in the above song.
 English Grade 7 77
-
 Reading I
 Answer the questions.
 a. Describe the road in the picture below.
@@ -2458,9 +1879,8 @@ of the hill. They tied their car to his car and he pulled them to the top of the
 After that their car ran all the way downhill to the village. They found a hotel
 and had a good breakfast. Of course, if they had walked up the hill the night
 before, they would not have had to spend an uncomfortable night in the car.
-(Source: Basic Comprehension Passages, Longman)
+Source: Basic Comprehension Passages, Longman
 78 English Grade 7
-
 A. What are the words/phrases for these meanings below? Find
 them from the text above and write them down.
 a. to use up or finish a supply of something
@@ -2495,7 +1915,6 @@ f. What was the first thing they did when they reached the village?
 E. Write all the past forms of verbs from the above story 'The First
 day of Holiday'. Choose at least five of them to talk about yourself.
 English Grade 7 79
-
 Pronunciation
 Listen to your teacher. Notice what sounds the '-ed' in the words make
 and put them in the correct column.
@@ -2503,7 +1922,6 @@ decided, reached, stopped, asked, pulled, walked, pumped, cheered, wanted,
 practised, jumped, finished, enjoyed, demanded, played, nodded, planted,
 hatched, briefed, turned
 /t/ /d/ /d/
-I
 Grammar I
 A. Study these sentences.
 a. They went on for another five miles and then the car suddenly
@@ -2525,7 +1943,6 @@ talking about?
 d. My neighbours are friendly iv. they are not very healthy.
 e. I feel extremely tired, v. but they’re noisy.
 80 English Grade 7
-
 C. Complete these sentences with and, but, although or however.
 a. I passed the exam, …………. , I didn't get a better score.
 b. ……….. it was raining, we still went to the park.
@@ -2554,7 +1971,6 @@ a. Mary ............. a new dress from the shopping store.
 b. She went home and .................. a shower.
 c. Tom and Mary ...........at the Green Stake.
 English Grade 7 81
-
 d. They ............. the dinner very much.
 e. Peter ................. a cough and fever.
 Writing I
@@ -2585,7 +2001,6 @@ calling to fulfill. Children, girls and women were being trafficked within
 and from Nepal for sexual exploitation. Therefore, in 1993, I founded
 Maiti Nepal with the aim of providing services for both children and
 82 English Grade 7
-
 women who have endured untold pain and suffering, often in silence.
 After establishing Maiti Nepal, I got involved in the service of humanity.
 My first work was setting up of a home. Now, Maiti Nepal has three
@@ -2607,7 +2022,7 @@ Due to my continuous struggle, Government of Nepal now recognises
 5th September as an anti-trafficking day. In 2010, I was declared as CNN
 Hero. It was the result of my struggle to fight the social evil of human
 trafficking. My victory as CNN hero is a pride and honour to the nation
-itself. (Retrieved and adapted from www.maitinepal.org)
+itself. (Retrieved and adapted from www.maitinepal.org
 A. What do these numbers, date and years refer to? Read and write.
 Example: 1949: Anuradha Koirala was born.
 a. 20
@@ -2619,31 +2034,27 @@ f. 2006
 g. 2010
 h. 5th Sep.
 English Grade 7 83
-
 B.  Match the words on the left with their meanings on the right.
-| a.  devotion  | i.   something  | that  makes  | you  continue  |
-| ------------- | --------------- | ------------ | -------------- |
+| a.  devotion  | i. something  | that  makes  | you  continue  |
 do something
-| b.  inspiration  | ii.   hospitals                          |     |     |
-| ---------------- | ---------------------------------------- | --- | --- |
-| c.  endure       | iii.   morally bad and cruel             |     |     |
-| d.  hospices     | iv.  great care and support to somebody/ |     |     |
+| b.  inspiration  | ii. hospitals | | |
+| c.  endure | iii. morally bad and cruel | | |
+| d.  hospices | iv.  great care and support to somebody/ | | |
 something
-e.  determination  v.   to deal with something that is painful
-f.  apprehending  vi.   the act of giving somebody more power
-| g.  empowerment  | vii.  given the awards                      |     |     |
-| ---------------- | ------------------------------------------- | --- | --- |
-| h.  awarded      | viii.  the source of desire to do something |     |     |
-| i.  evil         | ix.   catching somebody and arresting them  |     |     |
-C.   Answer the following questions.
-  a.  Where did Anuradha Koirala receive her school education?
-  b.   Was she fully satisfied with her teaching job? How do you
+e.  determination  v. to deal with something that is painful
+f.  apprehending  vi. the act of giving somebody more power
+| g.  empowerment  | vii.  given the awards | | |
+| h.  awarded | viii.  the source of desire to do something | | |
+| i.  evil | ix. catching somebody and arresting them  | | |
+C. Answer the following questions.
+a.  Where did Anuradha Koirala receive her school education?
+b. Was she fully satisfied with her teaching job? How do you
 know?
-  c.   Why did she establish Maiti Nepal?
-  d.   Why was she awarded with different prizes?
-  e.   Why do you think she was declared a CNN hero?
-  f.   Is her victory as CNN hero just a proud moment for her? Why?
- Grammar II
+c. Why did she establish Maiti Nepal?
+d. Why was she awarded with different prizes?
+e. Why do you think she was declared a CNN hero?
+f. Is her victory as CNN hero just a proud moment for her? Why?
+Grammar II
 A.  Study the following sentences.
 a.  Anuradha Koirala used to teach school children, but now she doesn't.
 b.  She established Maiti Nepal in 1993.
@@ -2652,9 +2063,7 @@ c.  I played football yesterday.
 d.  People used to travel on foot 300 years ago, but now they can travel
 by bus.
 e.  People did not use to work in factories 500 years ago.
-| 84  |     |     | English Grade 7 |
-| --- | --- | --- | --------------- |
-
+| 84  | | | English Grade 7 |
 B. Rewrite these sentences using used to as in the example. Use
 negatives too.
 Example: My family/go to Pokhara for the weekend.
@@ -2672,14 +2081,14 @@ C. Complete the story. Use past simple forms of the verbs from the
 brackets.
 One autumn evening, Charles and Beth ……….. (go) to the theatre. They
 ………… (attend) a play. The play ……….. (start) at 7:00 p.m. Charles
-and Beth ……….. (enjoy) the play. After the play, they ………… (walk)
+and Beth ……….. (enjoy) the play. After the play, they ………… (walk
 together in the park. They ………… (walk) beside the lake. The moon
 ……….. (be) bright. They ………… (talk) about their future. When Charles
 and Beth ………. (go) home, their children ……….. (not be) asleep. They
 ……….. (wait) for Charles and Beth to return. They ………… (be) excited
 to hear about the play. Charles ……… (tell) the children about the play.
 Then, Beth ………… (put) the children to bed. Charles and Beth ………
-(be) very tired. It ……. (be) a good night!
+be) very tired. It ……. (be) a good night!
 Speaking
 A. Work in pairs. Take turns to talk about your past habits. Talk
 about at least five things you used to/didn't use to do.
@@ -2689,7 +2098,6 @@ the past tense.
 Day What did you do?
 Sunday went to the market and bought some books.
 English Grade 7 85
-
 Example:
 Last Sunday, I went to
 I went to the
@@ -2706,7 +2114,6 @@ the fish?
 I ate
 them all.
 86 English Grade 7
-
 Writing II
 Write the story from C above. Use these points to help you. Use past
 tense.
@@ -2725,14 +2132,15 @@ Suggest a title for the story and retell it to your friends. You can draw
 a suitable picture for the story.
 There (be) a dog that was very hungry. He (search) for food everywhere and
 at last he (find) a bone. He (pick up) the bone with his mouth and (start) going
-back to his home. There (be) a bridge on the way to his home. When he (start)
-crossing it he (see) his reflection in the water. The dog (think) that there (be)
+back to his home. There (be) a bridge on the way to his home. When he (start
+crossing it he (see) his reflection in the water. The dog (think) that there (be
 another dog with a bone in the water. He (want) to get the other bone too. So, he
-(start) barking at his own reflection. His bone (fall) in to the water as soon as he
-(open) his mouth. The greedy dog (lose) his bone.
+start) barking at his own reflection. His bone (fall) in to the water as soon as he
+open) his mouth. The greedy dog (lose) his bone.
 English Grade 7 87
 
-Unit 9
+## 9: Getting started  {#ch-9}
+
 Getting started
 A. Look at the pictures. Take turns to ask and answer questions as
 in the example.
@@ -2759,20 +2167,10 @@ Doesn't mean I'm lonely when I'm alone.
 What are the '…er' words of these words?
 strong tall light
 88 English Grade 7
-
 Reading I
 Answer the questions.
 a. Why do you think the charts are different?
 b. What do the charts show?
-100
-80 77
-65
-60 60
-50
-40 40 35
-20
-0
-2011 2012 2013 2014 2015 2016
 The first chart illustrates the percentage of the population who owned a
 smartphone from 2011 to 2016. The second breaks the percentages down by
 age for 2011 and 2016.
@@ -2786,42 +2184,22 @@ the greatest percentage of smartphone ownership in both 2011 and 2016.
 Although almost nobody in the 75+ age category owned a smartphone in 2011,
 English Grade 7 89
 noitalupop
-fo
+of
 egatnecreP
 Smartphone Ownership
 Years
-58
-57 27
-64
-9
-5
-0
-09 88 68 48
-95
-05
-51
-100
-80
-60
-40
-20
-0
 egatnecreP
-42-61 43-52 44-53 45-54 46-55 47-56 +57 42-61 43-52 44-53 45-54 46-55 47-56 +57
 Chart I
 Smartphone ownership by age group: 2011 and 2016
-2011 2016
 Chart II
-
 15% of this group owned smartphones in 2016. It seems they have developed
 more interest in modern technology.
 A.  Match the words with their meanings.
-| a.  illustrates  | i.  important                                |     |     |
-| ---------------- | -------------------------------------------- | --- | --- |
-| b.  ownership    | ii.  be a symbol of something                |     |     |
-| c.  significant  | iii.  the fact of owning something           |     |     |
-| d.  steadily     | iv.  shows                                   |     |     |
-| e.  represent    | v.  gradually and in an even and regular way |     |     |
+| a.  illustrates  | i.  important | | |
+| b.  ownership | ii.  be a symbol of something | | |
+| c.  significant  | iii.  the fact of owning something | | |
+| d.  steadily | iv.  shows | | |
+| e.  represent | v.  gradually and in an even and regular way | | |
 B.  Answer the following questions.
 a.  What does the second chart show?
 b.  By what percentage have the smartphone owners increased in the
@@ -2830,12 +2208,11 @@ c.  In which age group are smartphones the most popular in 2016?
 d.  What is interesting about the 75+ age group?
 C.  Look at the charts and the descriptions again and ask and answer
 comparative questions in pairs.
- Pronunciation
+Pronunciation
 Learn the pronunciation of '…er' words.
 | higher  | younger  | heavier  | bigger  |
-| ------- | -------- | -------- | ------- |
-| wiser   | taller   | smarter  | clearer |
- Grammar I
+| wiser | taller | smarter  | clearer |
+Grammar I
 A.  Study the following sentences.
 a.  My sister thinks she's more intelligent than me, but I don't agree.
 b.  Avatar is probably the worst film I've ever seen.
@@ -2845,9 +2222,7 @@ e.  Who is the most powerful person in your village?
 f.  I think Ritesh is funnier than Nitesh.
 g.  Is Nitu older than Nima?
 h.  John is the nicest person that I know.
-| 90  |     |     | English Grade 7 |
-| --- | --- | --- | --------------- |
-
+| 90  | | | English Grade 7 |
 B. Fill in the missing forms of the given adjectives.
 Positive Comparative Superlative
 intelligent more intelligent most intelligent
@@ -2876,7 +2251,6 @@ A. Look at the picture and answer the questions.
 a. Who do you think they are?
 b. Who is taller: the man or the woman?
 English Grade 7 91
-
 B. Listen to the first part of the audio and complete the table.
 Place a tick in the correct box.
 Descriptions Mother Father
@@ -2899,7 +2273,6 @@ tall intelligent heavy fast strong dangerous slow
 Example: A lion is more dangerous than a snail.
 An elephant is the largest animal.
 92 English Grade 7
-
 B. Look at the following clues (a-f) and make a comparison as in the
 example.
 Example: English/interesting/Nepali.
@@ -2927,7 +2300,6 @@ He did not know I saw
 He bit an Angle Worm in halves
 And ate the fellow, raw.
 English Grade 7 93
-
 And then, he drank a Dew
 From a convenient Grass
 And then hopped sidewise to the Wall
@@ -2956,7 +2328,6 @@ b. Please give me your recipe. That is the ………. cake I’ve ever eaten.
 c. Aaradhya is the………. student in our class. She gets the top grades
 in every course.
 94 English Grade 7
-
 d. Samjhana told the …………. story last night. I couldn’t stop laughing.
 e. The Nile is the ……………………. river in the world.
 f. Ramila is the ……………………. person I know. She has won the
@@ -2965,7 +2336,7 @@ g. He is the ……………………. speaker I have ever heard. Half the
 audience fell asleep during his speech.
 h. Mount Everest is the ……………………. mountain in the world.
 B. Complete the following sentences with the correct form
-(comparative or superlative) of the adverb provided.
+comparative or superlative) of the adverb provided.
 a. I drive ……………………. (carefully) than my husband.
 b. Anu works ……………. (hard) than I do, but our secretary works
 ……………………. (hard) of us all.
@@ -2983,7 +2354,6 @@ c. running shoes/bedroom slippers/high heeled shoes
 d. bicycle/motorcycle/car
 e. teacher/doctor/lawyer
 English Grade 7 95
-
 Writing II
 Write your answers to the questions below. Ask one of your friends
 the same questions and make notes. Then, write a paragraph about
@@ -3005,7 +2375,8 @@ Look at the two pictures. Write any five sentences to make comparisons
 between them.
 96 English Grade 7
 
-Unit 10
+## 10: Getting started  {#ch-10}
+
 Getting started
 A. Look at the signs below. What do you think they mean? Talk to
 your friends.
@@ -3028,7 +2399,6 @@ able to and can
 have to and must, mustn't and can't.
 Underline all the auxiliary verbs (e. g. could) in the above song.
 English Grade 7 97
-
 Reading I
 Answer the following questions.
 a. What is the text below about?
@@ -3070,7 +2440,6 @@ remember, it’s always safer to
 KNOW YOUR RISK.
 LOWER YOUR RISK.
 98 English Grade 7
-
 A. Match the words with their corresponding meanings.
 a. isolated i. to clean something using a substance that kills bacteria
 b. ventilated ii. changes in your body or mind that show that you are
@@ -3099,7 +2468,6 @@ Writing I
 Prepare a one-page leaflet similar to the above poster on ‘How to stay
 safe from Covid-19?' for the juniors.
 English Grade 7 99
-
 Listening
 A. Look at the picture and answer the questions.
 a. Who do you think the people are in the
@@ -3127,7 +2495,6 @@ b. What do you find in a zoo?
 c. What are the dangers in a zoo?
 d. Do you think there are rules for visitors in a zoo?
 100 English Grade 7
-
 Central Zoo
 Jawalakhel, Lalitpur
 Rules
@@ -3160,7 +2527,6 @@ b. a remark made in order to anger, wound, or provoke someone
 c. dangers or risks
 d. being forbidden
 English Grade 7 101
-
 B. Complete the sentences below with the words from the box.
 yell veterinarian prohibited accompanied
 a. You shouldn’t smoke here. Smoking is ……………. in this building.
@@ -3191,7 +2557,6 @@ d. I must call an electrician to get the light fixed.
 e. You mustn’t worry about me. I’ll be fine.
 f. You have to have a driving license to drive a tractor.
 102 English Grade 7
-
 g. You are not allowed to drive a tractor without a driving licence.
 h. You don’t have to have a licence to ride a bicycle.
 B. Complete the sentences with the correct word/phrases. You can
@@ -3214,22 +2579,20 @@ verbs from the brackets as given in the example. In some
 sentences, you need to use the negative too.
 Example
 A : I’m hungry.
-B : But you’ve just had lunch. You can’t be hungry already. (be)
+B : But you’ve just had lunch. You can’t be hungry already. (be
 a. A : I haven’t seen our neighbours for ages.
-B : No. They ………….. in their house. I saw them in the morning. (be)
+B : No. They ………….. in their house. I saw them in the morning. (be
 b. A : What’s the weather like? Is it raining?
-B : Not at the moment but it ………….. later. (rain)
+B : Not at the moment but it ………….. later. (rain
 c. A : Where has Manshu gone?
-B : I’m not sure. She ………….. have gone to the bank. (go)
+B : I’m not sure. She ………….. have gone to the bank. (go
 d. A : I didn’t see you at John’s party last week.
-B : No, I had to work that evening, so I …………… (go)
+B : No, I had to work that evening, so I …………… (go
 English Grade 7 103
-
 Speaking
 A. Look at the signs below. Tell your friends what they mean. Use
 must or mustn’t.
 104 English Grade 7
-
 B. Dinesh has to do many things today. Look at the 'To-Do-List' and
 say what he has to do today.
 a. pay the electricity bill
@@ -3262,7 +2625,6 @@ You ………….. come early and do your homework before the class.
 You ………….. bring all your textbooks.
 You ………….. worry about making mistakes when you are speaking.
 English Grade 7 105
-
 B. You might have a library or a computer lab at your school.
 Prepare a set of rules (at least six) to be followed by students
 when they visit that area.
@@ -3289,12 +2651,13 @@ On the third day, they appeared before the Dean. The Dean said that as this was
 a Special Condition Test, all four were required to sit in separate classrooms for
 the test. They all agreed as they had prepared well in the last 3 days.
 The test consisted of only 2 questions with the total of 100 points.
-1. Your Name ...................... (1 point)
-2. Which tyre burst? ....................... (99 points)
+1. Your Name ...................... (1 point
+2. Which tyre burst? ....................... (99 points
 Options – (a) front left (b) front right (c) back left (d) back right
 106 English Grade 7
 
-Unit 11
+## 11: Getting started  {#ch-11}
+
 Getting started
 A. What do you think you see in the pictures? Describe them to your
 friends. Say five things for each picture.
@@ -3305,7 +2668,6 @@ Clap along if you know what happiness is to you.
 Clap along if you feel like that's what you wanna do.
 Look for five other words that rhyme with space and you.
 English Grade 7 107
-
 Reading I
 Answer the questions.
 a. Who do you think the person in the picture is?
@@ -3337,7 +2699,6 @@ has the same success rate as western techniques.
 In 1994, Ruit and The Fred Hollows Foundation founded the Tilganga Eye
 Centre. The Centre is now called the Tilganga Institute of Ophthalmology.
 108 English Grade 7
-
 Tilganga has performed over 90,000 operations and trained over 500 medical
 personnel from around the world.
 As a tribute to his remarkable achievements, Dr. Ruit has received a number
@@ -3362,14 +2723,7 @@ i. a doctor who performs operations: S....
 B. Complete the table with the information from the text above.
 Year Event
 1954 Born
-1972-1976
-1980
-1995
-2006
-2018
-2021
 English Grade 7 109
-
 C. Write True or False for the following statements.
 a. Dr. Ruit was born in the early 50's.
 b. He is the eldest child of his parents.
@@ -3402,7 +2756,6 @@ d. His/her contribution to the society
 e. Why he/she is famous
 f. Awards and achievements
 110 English Grade 7
-
 Grammar I
 A. Study the following sentences.
 a. Dr. Sanduk Ruit is an ophthalmologist. He cures people's eyes.
@@ -3435,7 +2788,6 @@ That's the neighbour ……………
 c. What's the name of the film? You watched the film yesterday.
 What's the name of the film …………… ?
 English Grade 7 111
-
 d. He drives a car. The car is very expensive.
 He drives a car ……………
 e. The octopus is the only animal. It has three hearts.
@@ -3463,7 +2815,6 @@ It gives us .............
 C. Talk to your friends about the objects above. Say: what they are,
 what they are made of and what they are used for.
 112 English Grade 7
-
 Speaking
 A. Look at the pictures. Work in pairs and take turns to describe
 and identify each person.
@@ -3473,11 +2824,10 @@ Look at the images again. Do you think there are any problems
 with them? Talk to your friends.
 B. Look at the picture. Describe the scene in five sentences.
 English Grade 7 113
-
 C.  Look at the objects. Describe them. Talk about: what they are
 made of, what they look like and what they are used for.
-  Example:   The pencil is made of wood. It is long. It is used for drawing.
-  Reading II
+Example: The pencil is made of wood. It is long. It is used for drawing.
+Reading II
 Answer the questions.
 a.  Which city is shown in the pictures?
 b.  What things is it famous for?
@@ -3485,19 +2835,15 @@ Kathmandu
 Kathmandu is the capital of Nepal. It lies in a hilly region at 4,344 feet (1,324
 metres) above sea level. It was founded in 723 by Raja Gunakamadeva. The
 present name comes from
-| Kasthamandap  |     | which  |
-| ------------- | --- | ------ |
+| Kasthamandap  | | which  |
 refers to a wooden temple
 | said  to  | have  been  | built  |
-| --------- | ----------- | ------ |
 from the wood of a single
 tree in 1596.
-| In  the       | 1970s,          | the  |
-| ------------- | --------------- | ---- |
-| construction  | of              | new  |
-| roads  and    | the  expansion  |      |
+| In  the | 1970s, | the  |
+| construction  | of | new  |
+| roads  and | the  expansion  | |
 114  English Grade 7
-
 of air travel were centred upon Kathmandu, making it the hub of the national
 transportation system.
 Kathmandu’s present day streets contrast strongly to the older sectors of narrow
@@ -3531,7 +2877,6 @@ main quake and numerous aftershocks. Kathmandu was also severely damaged,
 especially the buildings in its historic centre, and tens of thousands were made
 homeless.
 English Grade 7 115
-
 A. Match the words with their meanings.
 a. hub i. next to or joined to something
 b. carved ii. the parts of a city that are furthest from the centre
@@ -3562,7 +2907,6 @@ g. What was the impact of 2015 earthquake on Kathmandu?
 D. Suppose you are talking to a foreigner who doesn't know anything
 about the place where you live. Describe it to him/her.
 116 English Grade 7
-
 Grammar II
 A. Study the following sentences.
 a. My name is Ram Karki. What is your name?
@@ -3588,15 +2932,16 @@ such as; name, date of birth, place of birth, major contributions, name
 of the awards he/she has received.
 Extra bit
 Choose the correct words from the brackets to complete the sentences.
-a. Mary pronounces every word …………………. . (clear/clearly)
-b. We like to go sailing in …………………. weather. (clear/clearly)
-c. The teacher asked us an …………………. question. (easy/easily)
-d. I answered the teacher's question …………………. . (easy/easily)
-e. You speak English very …………………. (good/well)
-f. Your English is very …………………. (good/well)
+a. Mary pronounces every word …………………. . (clear/clearly
+b. We like to go sailing in …………………. weather. (clear/clearly
+c. The teacher asked us an …………………. question. (easy/easily
+d. I answered the teacher's question …………………. . (easy/easily
+e. You speak English very …………………. (good/well
+f. Your English is very …………………. (good/well
 English Grade 7 117
 
-Unit 12
+## 12: Getting started  {#ch-12}
+
 Getting started
 A. What do the people in the picture look like? Describe each
 person.
@@ -3614,7 +2959,6 @@ Answer these questions.
 a. What is the boy like in the song?
 b. What is the girl like in the song?
 118 English Grade 7
-
 Reading I
 Answer the questions.
 a. Who do you think the person in the picture is?
@@ -3645,7 +2989,6 @@ The way the body develops is not just a result of physical changes, as our menta
 processes have a large part to play in what we want to achieve. A desire to
 become a skillful footballer, a long distance runner or a strong swimmer requires
 English Grade 7 119
-
 stamina and years of practice to try and attain the top level.
 The food we eat will, to a certain extent, determine how we grow and gives us
 strong bones. A lack of activity and eating too much sugary food can result in
@@ -3678,7 +3021,6 @@ i. We feel happy.
 ii. We get fat and overweight.
 iii. Our muscles become weak.
 120 English Grade 7
-
 C. What words are used to describe eyes, skin and hair in the text
 above? Talk to your friends.
 Pronunciation
@@ -3687,7 +3029,6 @@ box.
 falls, others, turns, differences, girls, results, amounts, bones, changes, boys,
 girls, processes.
 /s/ /z/ /z/
-I
 Grammar I
 A. Study the following sentences. Notice the use of look and look
 like. Also notice what words are used after them.
@@ -3706,7 +3047,6 @@ e. She's older but she …………….. healthy.
 f. That house …………….. a palace!
 g. You don't ……………… cheerful. Are you okay?
 English Grade 7 121
-
 C. Match the questions with the possible answers. Sometimes,
 answers can repeat or more than one answer can be correct.
 a. What's Naresh like? i. She's very pretty and tall.
@@ -3736,30 +3076,23 @@ words.
 a. My brother and I both play sports. He's like me.
 b. A: What does Sam look like? B: He's tall and wears glasses.
 122 English Grade 7
-
 B.  Listen to the audio in which Tom and his father are talking about
 Tom's friends. Answer the questions below.
 a.  Patrick has short, brown, straight hair.
-|  i. TRUE  | ii. FALSE |     |
-| --------- | --------- | --- |
+|  i. TRUE  | ii. FALSE | |
 b.  Who is a talkative person?
 | i. Tom's teacher  | ii. Patrick  | iii. Marcel |
-| ----------------- | ------------ | ----------- |
 c.  Tom says Marcel  . . . .
 | i. is short  | ii. likes him  | iii. is tall |
-| ------------ | -------------- | ------------ |
 d.  Who looks like Harry Potter?
 | i. Marcel  | ii. Tom  | iii. Patrick |
-| ---------- | -------- | ------------ |
 e.  Tom and . . . like to talk about video games at lunch.
 | i. Dad  | ii. Patrick  | iii. Marcel |
-| ------- | ------------ | ----------- |
 f.  What are Tom and Dad going to do?
 | i. play a game  | ii. go shopping  | iii. go out  |
-| --------------- | ---------------- | ------------ |
 C.  What words did Tom use to describe his friends? Write as many
 words as you can remember.
- Speaking
+Speaking
 A.  Look at the words to describe people's appearances. Discuss
 what they mean.
 General appearance beautiful, pretty, funny, cute, handsome, attractive
@@ -3772,7 +3105,6 @@ Nose straight, hooked, long, small
 Mouth large, small
 Ears large, small
 English Grade 7  123
-
 B. Look at the pictures. Talk about their general appearance, age,
 build, height, eyes, face, nose, mouth or ears. Use the words from
 the above table. Use other words if you can.
@@ -3780,7 +3112,6 @@ C. Work in pairs. Take turns to identify and describe one of your
 friends in your class. Talk about his/her height, ears, nose, eyes,
 face, build, etc.
 124 English Grade 7
-
 Writing I
 Write a paragraph about a friend. Describe that person. Remember
 to include information such as height, hair (colour; long or short;
@@ -3809,7 +3140,6 @@ I tremble to think of you, World, at all;
 And yet, when I said my prayers today,
 A whisper inside me seemed to say,
 English Grade 7 125
-
 "You are more than the Earth, though you are such a dot:
 You can love and think, and the Earth cannot!"
 - W.B. Rands
@@ -3834,13 +3164,12 @@ d. She earns a handsome salary every month.
 e. Momila wants to be a singer.
 B. Complete the sentences with correct forms of verbs from the
 brackets.
-a. The plane ………………….. at 6.30 p.m. every day. (arrive)
-b. I will phone you when he …………………… . back. (come)
-c. Unless we …………………. now, we can’t be there on time. (start)
+a. The plane ………………….. at 6.30 p.m. every day. (arrive
+b. I will phone you when he …………………… . back. (come
+c. Unless we …………………. now, we can’t be there on time. (start
 126 English Grade 7
-
-d. The sun ……………………… in the east. (rise)
-e. The next term …………………… this Monday. (begin)
+d. The sun ……………………… in the east. (rise
+e. The next term …………………… this Monday. (begin
 C. Turn a-g into questions as in the example.
 Example: Where/you/live? Where do you live?
 a. How many children / you / have? b. How often / you / study English?
@@ -3873,7 +3202,8 @@ horns and condemning his legs. But it was too late. The lion came there, caught
 him and tore him into pieces.
 English Grade 7 127
 
-Unit 13
+## 13: Getting started  {#ch-13}
+
 Getting started
 A. Look at the pictures. What do you think they can/can't do and
 why?
@@ -3893,7 +3223,6 @@ Anyone can stop, few can wait.
 What can any woman/man/girl/brain/kid/gang/soul/dog do? Talk to your
 friends.
 128 English Grade 7
-
 Reading I
 Answer these questions.
 a. What do you think the people are doing in the picture?
@@ -3925,7 +3254,6 @@ had collapsed, falling right on to the pillow of my bed. I was glad that I had
 stayed up late to listen to my uncle's stories, otherwise I should certainly have
 been seriously injured, perhaps killed.
 English Grade 7 129
-
 That night we all slept on the floor of the sitting-room downstairs, not wishing
 to risk our lives by sleeping under a roof which might at any moment collapse
 on our heads. We left for London the very next morning and my uncle gave up
@@ -3954,16 +3282,13 @@ c. The word 'leaked' in the passage means
 i. was beginning to fall down.
 ii. let the rain in.
 130 English Grade 7
-
-| iii.  | needed to be repaired. |     |     |     |     |
-| ----- | ---------------------- | --- | --- | --- | --- |
-| iv.   | was in bad condition.  |     |     |     |     |
+| iii.  | needed to be repaired. | | | | |
+| iv. | was in bad condition.  | | | | |
 d.  The word 'injured' means
-| i.    | killed.   |     |     |     |     |
-| ----- | --------- | --- | --- | --- | --- |
-| ii.   | not hurt. |     |     |     |     |
-| iii.  | wounded.  |     |     |     |     |
-| iv.   | trapped.  |     |     |     |     |
+| i. | killed. | | | | |
+| ii. | not hurt. | | | | |
+| iii.  | wounded.  | | | | |
+| iv. | trapped.  | | | | |
 C.  Answer the following questions.
 a.  Had the writer's uncle bought or rented the cottage?
 b.  Why didn't the writer's uncle spend much time in his cottage?
@@ -3975,20 +3300,18 @@ f.  Why were they afraid to sleep upstairs that night?
 g.  Did the writer's uncle continue living in his cottage?
 D.  Imagine that you were the writer's uncle. Tell your friends about
 the incident.
- Writing I
+Writing I
 Have either you, your family members or friends ever experienced
 a similar incident to the one in the story? What happened? Write a
 paragraph.
- Pronunciation
+Pronunciation
 Listen to your teacher and learn how to pronounce these words.
 Notice the letter 'r'.
-| war    | brother  | for   | our        | were  | other |
-| ------ | -------- | ----- | ---------- | ----- | ----- |
-| train  | story    | roof  | otherwise  | very  | wear  |
- Grammar I
+| war | brother  | for | our | were  | other |
+| train  | story | roof  | otherwise  | very  | wear  |
+Grammar I
 A.  Study the following sentences. They are based on the previous story.
 English Grade 7  131
-
 a. The writer couldn't bear to miss any of his uncle's exciting stories.
 b. The writer could see nothing because of the thick cloud of dust.
 c. They couldn't sleep upstairs because the roof might fall in at any time.
@@ -4011,25 +3334,24 @@ i. You could ii. Could you to iii. Could you
 e. She ………… two kilometres.
 i. can to swim ii. can swim iii. can swims
 D. Complete these sentences with the words from the brackets.
-a. We stayed inside ……………….. the storm. (because/because of)
+a. We stayed inside ……………….. the storm. (because/because of
 b. I wanted to stay longer ………….. I was really enjoying the party.
-(since/because of)
+since/because of
 c. ……......… she hated cats, she wasn't happy when her husband
-bought three. (As/Because of)
-d. John didn't go to work ………….. his illness. (because of/as)
+bought three. (As/Because of
+d. John didn't go to work ………….. his illness. (because of/as
 132 English Grade 7
-
 e. I didn't want to leave …..............…. I was having a great time.
-(because of/as)
-f. Luca bought the shoes ……… they were perfect. (because of/since)
+because of/as
+f. Luca bought the shoes ……… they were perfect. (because of/since
 g. ………….. it was really cold, I put on my gloves and my hat. (As/
-Because of)
-h. We stopped playing tennis ............. the rain. (because of/because)
-i. It was all .............. her that we got into trouble. (because/because of)
-j. We had to hurry indoors ........... it was raining. (because of/because)
-k. I am late .............. the traffic. (because/because of)
+Because of
+h. We stopped playing tennis ............. the rain. (because of/because
+i. It was all .............. her that we got into trouble. (because/because of
+j. We had to hurry indoors ........... it was raining. (because of/because
+k. I am late .............. the traffic. (because/because of
 l. We didn't arrive until seven o'clock ............ the traffic was terrible.
-(because/because of)
+because/because of
 Listening
 A. Make a list of things that you can and can't do. Share it with your
 friends.
@@ -4048,7 +3370,6 @@ Boy cook basic things
 cook an omelette
 bake cookies
 English Grade 7 133
-
 C. Can you recall the names of any sports and any food from the audio?
 Make a list and say who in your class can play/cook those things.
 Speaking
@@ -4079,7 +3400,6 @@ dance
 say the English alphabet backwards
 hold their breath for ten seconds
 134 English Grade 7
-
 C. What do the people on the left typically do? Match the
 descriptions and tell your partner.
 Example: A farmer can grow vegetables and fruits on his/her farm.
@@ -4107,7 +3427,6 @@ f. The teacher can help you with this task.
 g. She can give you the book.
 h. Birendra can attend the show.
 English Grade 7 135
-
 Writing II
 A. Have you heard the story 'The Hare and the Tortoise'? Put these
 sentences in order to make the story.
@@ -4135,7 +3454,6 @@ A thirsty crow ………… searches water ………… finds a pitcher
 ………… picks up pebbles in its beak ………… drops them into the
 pitcher ………… water level rises ………… can drink.
 136 English Grade 7
-
 Reading II
 Answer the questions.
 a. Do you think the scene in the picture is beautiful? Why?
@@ -4167,7 +3485,6 @@ The sun does descend,
 And our sports have an end:
 Round the laps of their mothers,
 English Grade 7 137
-
 Many sisters and brothers,
 Like birds in their nest,
 Are ready for rest;
@@ -4175,14 +3492,13 @@ And sport no more seen,
 On the darkening Green.
 - William Blake
 A.  Match the words in column A with their meanings from column B.
-|   Column A  |     |   Column B             |
-| ----------- | --- | ---------------------- |
-| a. oak      |     | i. happy               |
-| b. merry    |     | ii. to rise            |
-| c. folk     |     | iv. a kind of tree     |
-| d. arise    |     | v. to go down          |
-| e. descend  |     | vi. very tired         |
-| f. weary    |     | vii. people in general |
+| Column A  | | Column B |
+| a. oak | | i. happy |
+| b. merry | | ii. to rise |
+| c. folk | | iv. a kind of tree |
+| d. arise | | v. to go down |
+| e. descend  | | vi. very tired |
+| f. weary | | vii. people in general |
 B.  Choose the correct answer.
 a.  The sun makes the sky
 i. happy.
@@ -4197,7 +3513,6 @@ i. brown hair.
 ii. black hair.
 iii. white hair.
 138  English Grade 7
-
 d. The old men are sitting under
 i. a tree.
 ii. a canopy.
@@ -4216,11 +3531,11 @@ the songs of the birds (mix) into a beautiful melody worthy of the season of
 spring. The old people of the village (sit) under the trees on the green and young
 innocent children (play) their favourite games there.
 During the day the green grass (be) filled with the noises of the children playing
-different games. The children (be) happy and excited. The old people (watch)
+different games. The children (be) happy and excited. The old people (watch
 their children play happily on the green and (think) of the happy days of their
 childhood. They, too, had played on the same green. They even had the same
 excitement and joy which only young children can experience. When the sun
-sets, it (become) dark and lonely. Then, the evening (come). Children (grow)
+sets, it (become) dark and lonely. Then, the evening (come). Children (grow
 tired. They (return) home to rest in the laps of their sisters and mothers.
 Grammar II
 Complete the sentences with because or because of.
@@ -4228,7 +3543,6 @@ a. We cancelled the trip ……………….. the rain.
 b. He sat down ……………….. he was feeling dizzy.
 c. It is ……………….. your mother that we got into this mess.
 English Grade 7 139
-
 d. We hurried indoors ……………….. it was raining.
 e. I was late ……………….. the traffic.
 f. We could not arrive on time ……………….. the traffic was terrible.
@@ -4253,7 +3567,6 @@ f. How much was the prize for the winner?
 g. Was it the first time Nepal and Bangladesh played football together?
 h. Who organised the game?
 140 English Grade 7
-
 Nepal Wins Three Nations Football Tournament
 KATHMANDU, Nepal, March 29 (Xinhua) -- Nepal claimed the Three
 Nations Football Cup, defeating Bangladesh 2-1 at Dasharath Stadium in
@@ -4278,15 +3591,14 @@ Organised by the All Nepal Football Association (ANFA), the Three Nations
 Football Cup is not recognized by football's world governing body FIFA.
 English Grade 7 141
 
-Unit 14
-  Getting started
+## 14: Getting started  {#ch-14}
+
+Getting started
 A.  Look at the pictures. Ask and answer the questions in pairs. Use the given
 clues.
-|                             | How tall?/8848.86 metres  | How much?/5 kg |
-| --------------------------- | ------------------------- | -------------- |
-|   How far?/five kilometres  | How tall?/about 20 metres |                |
+| | How tall?/8848.86 metres  | How much?/5 kg |
+| How far?/five kilometres  | How tall?/about 20 metres | |
 142  English Grade 7
-
 B. Listen and sing.
 Tall Trees
 With their feet in the earth
@@ -4319,17 +3631,14 @@ mountain in the world after Mt. Everest (8848.86 metres). K2 is located in the
 Karakoram Range and lies in the Gilgit-Balistan portion of Kashmir under the
 rule of Pakistan.
 English Grade 7 143
-
-| The       | glacier  and  | snow-covered  |           |
-| --------- | ------------- | ------------- | --------- |
-| mountain  | rises  from   | the           | base  at  |
+| The | glacier  and  | snow-covered  | |
+| mountain  | rises  from | the | base  at  |
 about 4,570 meters on the Godwin
 Austen Glacier. The mountain was
 discovered in 1856 by Colonel T. G.
 Montgomerie of the Survey of India,
 and it was named K2 because it was
 | the  second  | peak  | measured  | in  the  |
-| ------------ | ----- | --------- | -------- |
 Karakoram Range. The name Mount
 Godwin Austen is for the peak's first surveyor, Colonel H. H. Godwin Austen, a
 19th century English geographer.
@@ -4346,19 +3655,16 @@ managed to conquer the Abruzzi Ridge despite the severe weather conditions.
 They reached the summit at 6 p.m. on July 31. In the course of ascent, Mario
 Puchoz, one of the guides,
 died of pneumonia.
-| Because  | K2  is  prone  | to  |     |
-| -------- | -------------- | --- | --- |
+| Because  | K2  is  prone  | to  | |
 frequent and severe storms
-| that         | make  the          | already  |     |
-| ------------ | ------------------ | -------- | --- |
-| dangerous    | climbing           |          |     |
-| conditions   | on  its            | slopes   |     |
-| even         | more  challenging  |          |     |
-| -  and       | humans             | find     |     |
-| functioning  | at  such           | high     |     |
+| that | make  the | already  | |
+| dangerous | climbing | | |
+| conditions | on  its | slopes | |
+| even | more  challenging  | | |
+| -  and | humans | find | |
+| functioning  | at  such | high | |
 elevations difficult - it is
 144  English Grade 7
-
 one of the world's most difficult mountains to climb. The number of people to
 have reached the top constitutes only a small fraction compared with the number
 of people who have successfully climbed Mt. Everest. In addition, although
@@ -4370,7 +3676,6 @@ A. Solve the crossword puzzle. Use the clues below.
 2 L 3 C
 4 E
 5 D i v 6 E
-x
 7 A 8 S e
 9 R o
 Down
@@ -4384,7 +3689,6 @@ a. What is the local name of K2?
 b. When was the mountain discovered?
 c. Who is H. H. Godwin Austen?
 English Grade 7 145
-
 d. When did people start to climb K2?
 e. When did people successfully reach the top of K2?
 f. What makes the climbing of K2 more difficult?
@@ -4416,7 +3720,6 @@ national park, Rara
 National Park
 B. Using the idea map, write a short description of Rara Lake.
 146 English Grade 7
-
 Grammar I
 A. Study the sentences. Notice the subjects and the verb forms.
 a. One of my friends is very rich. He offers us parties on special days.
@@ -4427,16 +3730,16 @@ e. Either you or Hari is top of the class.
 f. Look! The goats are grazing there.
 g. This furniture costs a lot these days.
 B. Choose a verb from the brackets to complete the sentences.
-a. Every generation ……………….. its own characteristics. (has/have)
+a. Every generation ……………….. its own characteristics. (has/have
 b. A generation gap ………………….. of differences in different
-aspects. (consists/consist)
-c. A lot of changes …… occurred in the village since I left it. (have/has)
-d. The beautiful scenery of the place ….. more tourists. (attract/attracts)
-e. Ten kilos of sugar……………. sufficient for us now. (are/is)
-f. Police ……………….. investigating the case carefully. (were/was)
-g. One of the students …… been selected for the school award. (has/have)
+aspects. (consists/consist
+c. A lot of changes …… occurred in the village since I left it. (have/has
+d. The beautiful scenery of the place ….. more tourists. (attract/attracts
+e. Ten kilos of sugar……………. sufficient for us now. (are/is
+f. Police ……………….. investigating the case carefully. (were/was
+g. One of the students …… been selected for the school award. (has/have
 h. The man with roses in his hands …………………………. like your
-brother. (look/looks)
+brother. (look/looks
 Listening
 A. Look at the picture and answer the questions.
 a. What do you see in the picture?
@@ -4450,10 +3753,9 @@ c. Almost …………. people died while building the canal.
 d. The USA handed the canal to Panama in ………….. .
 e. Every year, almost 40,000 …………. come through the canal.
 English Grade 7 147
-
 C.  Surf the Internet or visit the library and find out more statistics
 about the Panama Canal and share them with your friends.
-  Reading II
+Reading II
 Look at the text below and answer these questions.
 a.  Have you ever seen this type of document? Where?
 b.  What is it called?
@@ -4461,68 +3763,51 @@ c.  Does your school have one?
 Saraswati Secondary School
 Ilam
 Prospectus
-| Introduction  |     | Vision | Salient Features |     |     |
-| ------------- | --- | ------ | ---------------- | --- | --- |
+| Introduction  | | Vision | Salient Features | | |
 Saraswati  Secondary Our motto is to  Highly qualified and trained
-| School  was  | established develop our academic  |     | teachers. |     |     |
-| ------------ | --------------------------------- | --- | --------- | --- | --- |
+| School  was  | established develop our academic  | | teachers. | | |
 in 2018 BS. It has been institution as a
-|     |     |     | Regular  | meetings  | with  |
-| --- | --- | --- | -------- | --------- | ----- |
+| | | | Regular  | meetings  | with  |
 running classes for grade centre for academic
 students and guardians.
 1 to 12 since 2070 BS. excellence.
-|     |     |     | Weekly  | tests  and  | support  |
-| --- | --- | --- | ------- | ----------- | -------- |
+| | | | Weekly  | tests  and  | support  |
 The school is completely
-|              |              |     | classes  | for  those  needing  | a   |
-| ------------ | ------------ | --- | -------- | -------------------- | --- |
-| devoted  to  | maintaining  |     |          |                      |     |
+| | | | classes  | for  those  needing  | a |
+| devoted  to  | maintaining  | | | | |
 little extra help.
-| quality  education  | and     |     |                    |     |     |
-| ------------------- | ------- | --- | ------------------ | --- | --- |
-| aims  to  produce   | highly  |     | Practical classes. |     |     |
+| quality  education  | and | | | | |
+| aims  to  produce | highly  | | Practical classes. | | |
 skilled human resources,
 academically excellent,
-| 148  |     |     |     | English Grade 7 |     |
-| ---- | --- | --- | --- | --------------- | --- |
-
-| well-motivated  |     | and Mission  |     | Well-equipped  | computer  |     |
-| --------------- | --- | ------------ | --- | -------------- | --------- | --- |
+| 148  | | | | English Grade 7 | |
+| well-motivated  | | and Mission  | | Well-equipped  | computer  | |
 creative  individuals  in To provide an  lab, library and science lab.
-| the  national  | and  | global opportunity of  |     |     |     |     |
-| -------------- | ---- | ---------------------- | --- | --- | --- | --- |
+| the  national  | and  | global opportunity of  | | | | |
 Free WiFi.
-| context. The  | school   | has quality education     |     |             |           |     |
-| ------------- | -------- | ------------------------- | --- | ----------- | --------- | --- |
-|               |          |                           |     | Additional  | classes,  | if  |
-| a  very       | dynamic  | team for the students of  |     |             |           |     |
+| context. The  | school | has quality education | | | | |
+| | | | | Additional  | classes,  | if  |
+| a  very | dynamic  | team for the students of  | | | | |
 required.
-| consisting  | of  | highly underprivileged  |     |     |     |     |
-| ----------- | --- | ----------------------- | --- | --- | --- | --- |
+| consisting  | of  | highly underprivileged  | | | | |
 acclaimed  staff  from and marginalised  Audio-visual classes.
 various sectors to ensure communities.
 Well-managed cafeteria.
 the proper functioning of
-| academic activities in the To create an  |     |                     |     | Scholarships               |     |     |
-| ---------------------------------------- | --- | ------------------- | --- | -------------------------- | --- | --- |
-| school.                                  |     | excellent academic  |     | The school offers various  |     |     |
+| academic activities in the To create an  | | | | Scholarships | | |
+| school. | | excellent academic  | | The school offers various  | | |
 environment.
-| Programmes  |        |      |     | types of scholarships to  |     |     |
-| ----------- | ------ | ---- | --- | ------------------------- | --- | --- |
-| Montessori  | based  | pre- |     | the deserving students    |     |     |
+| Programmes  | | | | types of scholarships to  | | |
+| Montessori  | based  | pre- | | the deserving students | | |
 To create an inclusive
-| primary classes  |     |     |     | and the students from  |     |     |
-| ---------------- | --- | --- | --- | ---------------------- | --- | --- |
+| primary classes  | | | | and the students from  | | |
 environment
-| Basic level classes (1-8) |        |           |                | underprivileged and  |     |     |
-| ------------------------- | ------ | --------- | -------------- | -------------------- | --- | --- |
-|                           |        | for  all  | students  and  |                      |     |     |
-| Secondary                 | level  | classes   |                | marginalised groups. |     |     |
+| Basic level classes (1-8) | | | | underprivileged and  | | |
+| | | for  all  | students  and  | | | |
+| Secondary | level  | classes | | marginalised groups. | | |
 staff.
-(9-12)
 Admission Process
-Fee Structure (for grade 11 & 12)
+Fee Structure (for grade 11 & 12
 Any student fulfilling the basic criteria
 We charge nominal fees for bus fare.
 set by the school can apply for the
@@ -4531,26 +3816,21 @@ entrance test to grade 6, 9 and 11.
 education to all so that they can get an
 Uniform
 opportunity for higher education. We
-| Students  | have  | to  wear  uniform  | as  |     |     |     |
-| --------- | ----- | ------------------ | --- | --- | --- | --- |
+| Students  | have  | to  wear  uniform  | as  | | | |
 believe that no one should be deprived
 specified by the school administration.
 of education.
 Saraswati Secondary School
 Ilam Municipality -9, Ilam
 Email: ssschool2018@gmail.com
-| English Grade 7  |     |     |     |     |     | 149 |
-| ---------------- | --- | --- | --- | --- | --- | --- |
-
+| English Grade 7  | | | | | | 149 |
 A.  Choose the words from the box to complete the sentences.
-| nominal  | underprivileged  | devoted           human resources |
-| -------- | ---------------- | --------------------------------- |
-| support  | cafeteria        | ensure             deprived of    |
+| nominal  | underprivileged  | devoted human resources |
+| support  | cafeteria | ensure deprived of |
 a.  The baby is still not well. He was ………………… oxygen during
 birth.
 b.  She takes a bath regularly. She wants to ………… personal hygiene.
-| c.  These children are from an ………………… community. We've  |     |     |
-| -------------------------------------------------------- | --- | --- |
+| c.  These children are from an ………………… community. We've  | | |
 provided them with necessary things at school.
 d.  Thirty  percent  of  the  students  need  …………………  classes  in
 Mathematics.
@@ -4559,31 +3839,25 @@ resources.
 f.  Our school canteen is cheap. It provides its services at ……………
 prices.
 g.  No one brings homemade food. Everyone eats at the …………………
-| h.  After finishing her higher education, Ms. Tharu …………………  |     |     |
-| ------------------------------------------------------------ | --- | --- |
+| h.  After finishing her higher education, Ms. Tharu …………………  | | |
 herself to social work.
 B.  Write True or False for the following statements.
-| a.  The school was established more than 50 years ago.  |     |     |
-| ------------------------------------------------------- | --- | --- |
-| b.  The school is located in a remote village.          |     |     |
+| a.  The school was established more than 50 years ago.  | | |
+| b.  The school is located in a remote village. | | |
 c.  Students and guardians get a chance to interact with the school
 family.
-| d.  The students can eat at the school cafeteria.  |     |     |
-| -------------------------------------------------- | --- | --- |
+| d.  The students can eat at the school cafeteria.  | | |
 e.  The school is one of the most expensive schools in Nepal.
 C.  Answer the questions.
-| a.  When was the school established?                      |     |     |
-| --------------------------------------------------------- | --- | --- |
-| b.  Make a list of the programmes offered by the school.  |     |     |
+| a.  When was the school established? | | |
+| b.  Make a list of the programmes offered by the school.  | | |
 c.  Is the school suitable for underprivileged students? How do you
 know?
-| d.  Has the school got computers? How do you know?  |     |     |
-| --------------------------------------------------- | --- | --- |
-| e.  What is the email address of the school?        |     |     |
+| d.  Has the school got computers? How do you know?  | | |
+| e.  What is the email address of the school? | | |
 D.  Visit  different  sections  of  your  school  and  list  the  facilities
 available there.
 150  English Grade 7
-
 Speaking
 A. Act out the following conversations.
 How tall is this
@@ -4609,7 +3883,6 @@ e. your weight/35 kg
 f. your classroom window/3 feet
 g. how long/Koshi River/720 km
 English Grade 7 151
-
 C. Work in groups. Take turns to ask and answer questions. Think
 about different questions you could ask about height, weight and
 distance. Be honest with your answers.
@@ -4619,9 +3892,9 @@ school with the help of the given outline. Get help from your teacher. Use a
 photo if possible.
 Introduction: the name, when it was established
 Vision: to develop school as a centre of excellence
-Mission: to provide quality education to all (inclusive school)
+Mission: to provide quality education to all (inclusive school
 Major programmes
-Main features (science lab/library/canteen/classroom equipment, etc.)
+Main features (science lab/library/canteen/classroom equipment, etc.
 Admission process
 Fee structure
 Scholarships
@@ -4640,7 +3913,6 @@ e. How tall is your younger brother? v. It's about 200 kilometres.
 f. How much does your bag weigh? vi. I drink 2 litres of water every
 day.
 152 English Grade 7
-
 B. Rearrange the words to make sensible questions.
 Example:
 How much can Shiva carry?
@@ -4671,7 +3943,8 @@ e. Would you like a little water?
 f. I don't have much money.
 English Grade 7 153
 
-Unit 15
+## 15: Getting started  {#ch-15}
+
 Getting started
 A. Look at the pictures. Give examples of may/might or must.
 Example: The bulls may/might/must fight.
@@ -4691,7 +3964,6 @@ a. Is the speaker a student?
 b. When can the speaker touch the stars?
 c. What can change the world?
 154 English Grade 7
-
 Reading I
 Look at the picture below and answer these questions.
 a. What do you think is happening in the picture?
@@ -4723,7 +3995,6 @@ Many people, including scientists, are concerned about this warming. As the
 earth's climate continues to warm, the intensity and amount of rainfall during
 storms such as hurricanes are expected to increase. Shortage of water for a long
 English Grade 7 155
-
 period of time and heat waves are also expected to become more intense as the
 climate warms.
 When the earth's temperature changes by one or two degrees, the change can
@@ -4755,7 +4026,6 @@ snow on mountains
 b. all the time; repeatedly C ………………
 c. a scale of measuring temperature F ………………
 156 English Grade 7
-
 d. a period of hundred years C………………
 e. the quality of being great; very strong I ………………
 f. a violent storm with very strong winds H ………………
@@ -4784,7 +4054,6 @@ D. Has Nepal been affected by the global climate change? How?
 Discuss in groups and draw a few pictures to demonstrate your
 points.
 English Grade 7 157
-
 Pronunciation
 Match the words with their pronunciation. Practise saying them with
 the help of your teacher.
@@ -4801,25 +4070,23 @@ tomorrow.
 We shall buy a house next year. By next year, we will have moved to
 our new house.
 Jonathan will complete his studies in Jonathan will have got a job by 2026.
-2025.
 Fukipa will climb Mt. Everest next By the end of next week, Fukipa will
 week. have climbed Mt. Everest.
 B. Choose the correct alternatives from the brackets to complete
 the sentences.
-a. I think our team …… the match this year. (will win/will have won)
+a. I think our team …… the match this year. (will win/will have won
 b. By 11 p.m. tonight, she ………… writing the report. (will have
-finished/will finish)
-c. If I finish this task early, I …… TV. (will have watched/will watch)
-d. They say it ………… heavily tomorrow. (will rain/will have rained)
+finished/will finish
+c. If I finish this task early, I …… TV. (will have watched/will watch
+d. They say it ………… heavily tomorrow. (will rain/will have rained
 e. ………… fine tomorrow? (Will the weather have been/Will the
-weather be)
-f. They …… here by 10 a.m. tomorrow. (will arrive/will have arrived)
+weather be
+f. They …… here by 10 a.m. tomorrow. (will arrive/will have arrived
 g. I ………… Paris by the end of July next year. (will have visited/will
-visit)
+visit
 158 English Grade 7
-
 h. I'm sorry. I ………… you this time. I'm busy. (will not have helped /
-won't help)
+won't help
 C. Make two sentences using the clues given below.
 Example: complete home work
 I will complete my homework soon.
@@ -4836,34 +4103,29 @@ Look at the pictures below. What are the people doing? What may
 happen in the future there? What might be the results? Make notes
 and write a paragraph for each.
 English Grade 7 159
-
-  Listening
+Listening
 A.  Say the weather words that represent the weather pictures below.
 B.  Listen to the audio and complete the table below.
 Direction  Temperatures
 North
 around 130
 West
-150
 C.  Listen to the audio again and write True or False.
-| a.  | It will rain for the whole day in the north.  |     |     |
-| --- | --------------------------------------------- | --- | --- |
-| b.  | There may be thunderstorms in the east.       |     |     |
-| c.  | The west will have quite windy weather.       |     |     |
-| d.  | The best weather will be found in the south.  |     |     |
+| a.  | It will rain for the whole day in the north.  | | |
+| b.  | There may be thunderstorms in the east. | | |
+| c.  | The west will have quite windy weather. | | |
+| d.  | The best weather will be found in the south.  | | |
 D.  What is the weather like in your locality now? Talk to your
 partner about it.
-  Reading II
+Reading II
 Look at the picture and talk to your friends about the answers to
 these questions.
 | a.  What  | do  you  think  | these  people  | are  |
-| --------- | --------------- | -------------- | ---- |
 doing?
 b.  Are they happy?
 c.  Do you feel grateful because you are one
 of the best creations on the earth? Why?
 160  English Grade 7
-
 Gratefulness
 I am grateful for the eyes that I can see
 the activities that can be done by me.
@@ -4894,7 +4156,6 @@ b. She only performs difficult tasks.
 c. The ability to pray rarely gives her strength and guidance.
 d. Having a heart is the most important thing for the speaker.
 English Grade 7 161
-
 Speaking
 A. Act out the following pieces of conversation.
 I will call you tonight
@@ -4923,7 +4184,6 @@ B. Work in pairs. Take turns to ask and answer the questions as
 given in the example.
 For example: tomorrow morning
 162 English Grade 7
-
 A: What will you do tomorrow morning?
 B: I will cook food.
 A: Will you have prepared food by 9 a.m.?
@@ -4941,8 +4201,6 @@ Name of your friend What they will do in What they will have done
 future by a certain time in future
 1. Lakpa Tamang ride a horse/tomorrow learn Nepali by typing on
 computer by next month
-2.
-3.
 Now, write about your friends as given in the example below.
 My friend Lakpa Tamang will ride a horse tomorrow. He will have learnt Nepali
 by typing on a computer by next month. ………………………………………
@@ -4956,7 +4214,6 @@ reduction of fuel production
 Now, based on the ideas you have collected, write a paragraph on
 'The Future of the Earth'.
 English Grade 7 163
-
 Grammar II
 A. Review the pictures and read what each of these people are saying.
 Don’t go there.
@@ -4976,7 +4233,6 @@ be hungry.
 We might meet
 one day.
 164 English Grade 7
-
 B. Make at least two sentences in the given situations. Use may/
 might or must.
 For example: Romeo is at the riverside.
@@ -5009,7 +4265,8 @@ the office at 9 a.m.
 i. He can't be in the park. He doesn't go to the park at this time.
 English Grade 7 165
 
-Unit 16
+## 16: Getting started  {#ch-16}
+
 Getting started
 A. The following pictures suggest a story. Put them in order and
 narrate the story.
@@ -5029,7 +4286,6 @@ She takes it every day.
 What happened in the song? Discuss in pairs and put the following
 sentences in the correct order.
 166 English Grade 7
-
 a. The teacher allowed the student to bring her iPod to the class.
 b. She started using the iPod every day.
 c. The teacher took the iPod.
@@ -5062,7 +4318,6 @@ Mithu saw this. He did not like his father. His father was ill-treating his
 grandfather. Although he had pity about his grandfather, he was afraid to speak
 against his father. Thus, he could do nothing in support of his grandfather.
 English Grade 7 167
-
 The next day, Mithu took some of his father’s carpentry tools and a piece of
 wood. He worked with the tools to make a wooden plate. His father saw him
 working.
@@ -5092,7 +4347,6 @@ a. Velan did not have good relationships with other people because he
 was a drunkard.
 b. There lived a carpenter with his old father and a son.
 168 English Grade 7
-
 c. Velan realised his mistake and treated his father well.
 d. Velan gave a broken plate to his father.
 e. While eating, Kuppan dropped his plate and his son scolded him
@@ -5119,7 +4373,6 @@ d. /ˈbrəʊkən/ : ………………………………...
 e. /ˈwʊdn/ : ……………………………...…
 f. /rɪˈspekt/ : ……………………………..…
 English Grade 7 169
-
 Writing I
 A. We use past forms of verbs when we tell a story. Write all the
 past forms of the verbs from the story.
@@ -5148,7 +4401,6 @@ A farmer with several sons ….… sons always quarrel ….….. the farmer sad
 break …..… the father gives the sticks separately……... they break the sticks
 easily ….….. moral
 170 English Grade 7
-
 Grammar I
 A. Study the following sentences.
 a. My friends were cooking food last night.
@@ -5180,8 +4432,7 @@ g. She ………………. (swim) in the pool when I saw her.
 D. Write at least 10 sentences about what was going on when you
 arrived at your school this morning.
 English Grade 7 171
-
- Listening
+Listening
 A.  Look at the picture and guess the answers to these questions.
 a.  Where are these people?
 b.  What are they doing?
@@ -5189,28 +4440,22 @@ c.  What games do you play at school?
 B.  Listen to the audio and tick the right answers.
 a.  Besides paper books, the little girl also made …………… at school.
 | i. a person  | ii. a building  | iii. an animal  |
-| ------------ | --------------- | --------------- |
 b.  The girl used crayons, paper and ……………………………..
 | i. a pencil.  | ii. glue.  | iii. a tape.  |
-| ------------- | ---------- | ------------- |
 c.  In addition to playing games, she …………………………
 i. watched television.  ii. rode her bicycle.  iii. went to the store.
 d.  The girl played with her ……………………. at the school.
 | i. teacher  | ii. father  | iii. cousin  |
-| ----------- | ----------- | ------------ |
 e.  The conversation most probably took place at …………………….
 | i. a house.  | ii. a school.  | iii. a park. |
-| ------------ | -------------- | ------------ |
 C.  Make a list of the activities that you did at school and after school
 yesterday.
-| At school | After school |     |
-| --------- | ------------ | --- |
-  Reading II
+| At school | After school | |
+Reading II
 Answer the questions.
 a.  Do you or anyone you know celebrate birthdays?
 b.  What do they do on their birthdays?
 172  English Grade 7
-
 A Party in a Restaurant
 It was my birthday last Thursday and I
 decided to celebrate it by inviting a few
@@ -5241,7 +4486,6 @@ A few moments later, he came back to our table. We could understand from his
 face that he had bad news for us. Full of apologies, he informed us that there
 was no meat or fish left. "All we can offer you," he said, "is an omelette!"
 English Grade 7 173
-
 A. Find and write the words from the text which mean the following.
 a. make it a happy occasion
 b. knew
@@ -5266,7 +4510,6 @@ e. The waiter didn't come to their table for nearly an hour.
 f. The writer was able to advise his friends about the food.
 g. The waiter who took their order came back and apologised.
 174 English Grade 7
-
 Speaking
 A. Act out the following conversations with your friends.
 What were you
@@ -5294,7 +4537,6 @@ B. Look at the clues below. Say what they were doing at the given times.
 a. Rupal/play chess/last night.
 b. Bunu/cut grass/an hour ago.
 English Grade 7 175
-
 c. Sukrit/ride a bicycle/when I see him.
 d. Mingma/wash dishes/at nine in the morning.
 e. Funurbu and his friend/talk on the phone/Saturday evening.
@@ -5316,7 +4558,6 @@ Now, write a story based on the pictures above. Use past tense. You
 may start like this:
 Yesterday, my friend Anjali was going to school. On the way she saw …..…
 176 English Grade 7
-
 Grammar II
 A. Read the following passage carefully. Notice the highlighted
 words.
@@ -5347,14 +4588,14 @@ Work in groups of four. Find or create a short story with the help
 of your teacher. Draw a storyboard that tells the story. Vote which
 group has the best story.
 English Grade 7 177
-
 Extra bit
 Put the pictures in order and tell the sequence of events to your
 friends. Use past tense. When you are listening to the story, assess
 whether your friend is using the past tense.
 178 English Grade 7
 
-Unit 17
+## 17: Getting started  {#ch-17}
+
 Getting started
 A. Look at the girl's expressions. Practise saying them.
 How amazing!
@@ -5387,7 +4628,6 @@ a. Where did the clever pig live?
 b. Could the pig in the song read? How do you know?
 c. What puzzled the pig?
 English Grade 7 179
-
 Reading I
 Look at the picture below and answer these questions.
 a. What do you think the men are doing in the picture?
@@ -5420,7 +4660,6 @@ the cow?"
 “The front portion of the cow is mine. I can do anything. That is our agreement,"
 replied the younger brother.
 180 English Grade 7
-
 Ali could hardly utter a single word and instantly agreed to share the money.
 Abraham said, “Not just money. You must also share the work of feeding and
 taking care of the cow too." Ali agreed.
@@ -5454,7 +4693,6 @@ e. The tree was given to the younger brother.
 f. When Ali was up in the tree, his brother started cutting it.
 g. Finally, both brothers lived happily.
 English Grade 7 181
-
 C. Answer these questions.
 a. Which part of the cow was given to the younger brother?
 b. How many things did the brother divide between them?
@@ -5480,7 +4718,6 @@ When I saw him, he was dancing.
 He was dancing. I saw him.
 He had slept before I reached home.
 182 English Grade 7
-
 He had slept. I reached home.
 C. Choose the correct answer.
 a. He was hit by a car when he …….... to school.
@@ -5503,14 +4740,13 @@ c. I was delighted when I found my keys. I ………… (lose) them for
 two days.
 d. She was exhausted because she ………….. (work) hard.
 e. Everything was white because it ……………… (snow).
-f. The passengers were angry because the airline …………… (lose)
+f. The passengers were angry because the airline …………… (lose
 everyone's bags.
 g. I ……………… (not/see) Jacob for several years, but I recognised
 him immediately.
 h. When I saw her, she …………………. (sing).
 i. The phone rang while I …………….. (wash) dishes.
 English Grade 7 183
-
 Listening
 A. Answer these questions.
 a. Have you or your friends ever won a prize? When?
@@ -5538,7 +4774,6 @@ first floor.
 Receptionist : Let me see if I can…. I'm sorry. There's no double room vacant
 at the moment, either on the ground or on the first floor. But
 184 English Grade 7
-
 I wonder if you could wait till the check-out time. I'll have
 two vacancies then. Could I book one of the rooms for you in
 advance, sir?
@@ -5571,7 +4806,6 @@ d. According to the receptionist, the time was exactly …………….
 when they were talking.
 e. The information about the hotel can be found in the …………….
 English Grade 7 185
-
 B. Answer these questions.
 a. Where has the conversation taken place?
 b. According to the receptionist, how many vacancies might be there
@@ -5603,7 +4837,6 @@ f. Oh my goodness!
 g. I find that very surprising.
 h. You must be kidding.
 186 English Grade 7
-
 C. Look at the situations below. Work in pairs and take turns to talk
 as in the example. Use any appropriate expressions of surprise
 or dismay. Use different expressions for each situtation.
@@ -5627,7 +4860,7 @@ When the little girl ………….. (open) the door of her grandmother's house, 
 ……….. (see) that there was somebody in bed with a nightcap and a nightgown
 on. She ……….. (approach) no nearer than twenty-five feet from the bed when
 she ……….. (see) that it was not her grandmother. So, the little girl ….......…
-(run) away.
+run) away.
 Writing
 A. The following extract from the earlier story contains some
 mistakes. Rewrite the text correcting the mistakes.
@@ -5636,7 +4869,6 @@ holes in the upper part of the tree and a kind of sweet-smelling juice came out
 of those holes small pots were attached to the holes where the juice could seep
 Ali sold the juice and earned a huge sum of money
 English Grade 7 187
-
 B. Read and complete the following conversation using any correct
 expressions of your own.
 Joe : What did you do yesterday?
@@ -5667,7 +4899,8 @@ Wow! We use it when the surprise seems unreal.
 Wow! You are great.
 188 English Grade 7
 
-Unit 18
+## 18: Getting started  {#ch-18}
+
 Getting started
 A. Work with your partner. Take turns to ask and answer different
 questions.
@@ -5689,8 +4922,7 @@ And keep me going when I'm blue?
 Answer the following questions.
 What comes to promise a new day?
 English Grade 7 189
-
- Reading I
+Reading I
 Answer the questions.
 a.  Have you or someone you know ever been to a restaurant/teashop?
 b.  Have you seen the following type of text? What is it called? Where would
@@ -5700,15 +4932,13 @@ THE BOAT RESTAURANT
 London, England
 Ph. - 044-2345678
 It's the place where people want to come time and again.
-|                       |     |       | SNACKS |     | Cheese Burger |
-| --------------------- | --- | ----- | ------ | --- | ------------- |
-| SRETRATS Tomato Soup  |     | ₤2.00 |        |     |               |
+| | | | SNACKS | | Cheese Burger |
+| SRETRATS Tomato Soup  | | ₤2.00 | | | |
 ₤3.20
-| French Onion Soup  |     | ₤2.50 |  Lunchtime only    |       |                |
-| ------------------ | --- | ----- | ------------------ | ----- | -------------- |
-| Tomato Salad       |     | ₤2.90 |                    |       |                |
-|                    |     |       | Vegetable omelette |       | Chocolate cake |
-| Chicken Salad      |     | ₤3.30 |                    | ₤3.25 |                |
+| French Onion Soup  | | ₤2.50 |  Lunchtime only | | |
+| Tomato Salad | | ₤2.90 | | | |
+| | | | Vegetable omelette | | Chocolate cake |
+| Chicken Salad | | ₤3.30 | | ₤3.25 | |
 ₤2.25
 All starters are served with bread and butter.
 Cheese & tomato
@@ -5716,39 +4946,29 @@ Burger
 sandwich
 ₤2.90
 ₤3.25
-|                           | MAIN COURSES |       | Chicken sandwich |       | Cheese omelette |
-| ------------------------- | ------------ | ----- | ---------------- | ----- | --------------- |
-| German sausage and chips  |              | ₤6.50 |                  | ₤3.50 | ₤3.50           |
+| | MAIN COURSES | | Chicken sandwich | | Cheese omelette |
+| German sausage and chips  | | ₤6.50 | | ₤3.50 | ₤3.50 |
 Grilled fish and potatoes  ₤6.25 All snacks are served with salad and chips.
-| Italian cheese & tomato pizza  |     | ₤4.85 |     |     |     |
-| ------------------------------ | --- | ----- | --- | --- | --- |
+| Italian cheese & tomato pizza  | | ₤4.85 | | | |
 Special
-| Thai chicken and rice  |     | ₤5.95 |     |     |     |
-| ---------------------- | --- | ----- | --- | --- | --- |
+| Thai chicken and rice  | | ₤5.95 | | | |
 discount on
-| Vegetable pasta             |     | ₤4.85 |     |     |     |
-| --------------------------- | --- | ----- | --- | --- | --- |
-| Roast chicken and potatoes  |     | ₤5.95 |     |     |     |
+| Vegetable pasta | | ₤4.85 | | | |
+| Roast chicken and potatoes  | | ₤5.95 | | | |
 Saturdays
 DESSERTS
-| Mineral water       |     | ₤1.00 | Fruit salad and cream  |     | ₤2.25 |
-| ------------------- | --- | ----- | ---------------------- | --- | ----- |
-| SKNIRD              |     |       | Ice-cream              |     | ₤2.00 |
-| Fresh orange juice  |     | ₤1.25 |                        |     |       |
-(choose from chocolate, coffee or lemon)
-| Soft drinks  |     | ₤1.30 |     |     |     |
-| ------------ | --- | ----- | --- | --- | --- |
+| Mineral water | | ₤1.00 | Fruit salad and cream  | | ₤2.25 |
+| SKNIRD | | | Ice-cream | | ₤2.00 |
+| Fresh orange juice  | | ₤1.25 | | | |
+choose from chocolate, coffee or lemon
+| Soft drinks  | | ₤1.30 | | | |
 Lemon cake  ₤2.25
-| English tea  |     | ₤0.90 |     |     |     |
-| ------------ | --- | ----- | --- | --- | --- |
+| English tea  | | ₤0.90 | | | |
 Chocolate cake  ₤2.25
-| Irish cream coffee  |     | ₤0.90 |     |     |     |
-| ------------------- | --- | ----- | --- | --- | --- |
+| Irish cream coffee  | | ₤0.90 | | | |
 Cheese and biscuits  ₤2.50
 Lunch served 12:30 - 2:30 pm/ Dinner served 6:00 - 9:00 pm
-| 190  |     |     |     |     | English Grade 7 |
-| ---- | --- | --- | --- | --- | --------------- |
-
+| 190  | | | | | English Grade 7 |
 A. Write whether these statements are True or False.
 a. The Boat restaurant serves five major categories of food.
 b. Chocolate cake is the cheapest dessert.
@@ -5781,7 +5001,6 @@ d. You can’t make noise in the class, can you?
 e. At this time yesterday, we were writing a story,
 weren’t we?
 English Grade 7 191
-
 B. Match the sentences in column A with their question tags from
 column B.
 Column A Column B
@@ -5805,8 +5024,7 @@ h. Hamid will dance in the cultural programme, ……..…?
 i. He doesn't understand Urdu, ……..…?
 j. She is living in a hamlet now, ……..…?
 192 English Grade 7
-
- Listening
+Listening
 A.  Look at the picture and answer these questions.
 a.  Who do you think these people are?
 b.  Where do you think they are?
@@ -5814,28 +5032,22 @@ c.  What might they be talking about?
 B.  Listen to the audio and tick the correct answer.
 a.  Who does Hana cook with?
 | i. her roommate  | ii. her mother  | iii. her sister |
-| ---------------- | --------------- | --------------- |
 b.  How does Daniel get food during the week?
-| i. He cooks himself.           |     |     |
-| ------------------------------ | --- | --- |
-| ii. He buys it from the shop.  |     |     |
+| i. He cooks himself. | | |
+| ii. He buys it from the shop.  | | |
 iii. His mother provides for him.
 c.  How often does Daniel eat out?
 | i. sometimes  | ii. never  | iii. occasionally  |
-| ------------- | ---------- | ------------------ |
 d.  How often does Hana normally eat out?
 | i. never  | ii. sometimes  | iii. during the weekend |
-| --------- | -------------- | ----------------------- |
 e.  Who seems to be busier?
 | i. Hana  | ii. Daniel  | iii. both of them  |
-| -------- | ----------- | ------------------ |
 C.  How often do you cook at your home? What would you like to
 cook more? What you would cook? Talk to your friends.
-  Reading II
+Reading II
 Look at the pictures and answer these questions.
 a.  What place do you think it is?
 English Grade 7  193
-
 b. What do you think these people are doing?
 c. Have you ever been to a market? Who do you go with?
 A Visit to a Market
@@ -5867,7 +5079,6 @@ Almost half an hour later, my mother emerged in front of the car. She looked
 exhausted. We put the groceries in the boot and returned home. That day, I
 decided I would never go to the market during festive seasons.
 194 English Grade 7
-
 A. Rewrite the given sentences below replacing the underlined
 words with one of the words or the expressions given in the box.
 breathed a sigh of relief emerged stuff unbearable pleasant
@@ -5894,7 +5105,6 @@ your peers.
 You are a seventh
 grader, aren’t you? Yes, I am.
 English Grade 7 195
-
 This place is quite far from No, it’s not. Actually, it’s
 here, isn’t it? only a kilometre away.
 Sandhya, you can speak
@@ -5917,7 +5127,6 @@ f. called your parents/no/call now
 g. obey rules in school/yes/you must
 h. must do exercises/yes/to be healthy
 196 English Grade 7
-
 C. Work in pairs. Take turns to say any statement and supply the
 correct question tag.
 Writing II
@@ -5944,7 +5153,6 @@ Niraj : Yes, I am.
 Nira : You've just moved here from Kavre, ……………………….?
 Niraj : That's right. It's nice here, ……………………………?
 English Grade 7 197
-
 Nira : Yes, it's great. Have you got any brothers or sisters?
 Niraj : No I haven't. But, you've a sister, ……………………..?
 Nira : Yes, I have. How do you know that?
@@ -5972,7 +5180,8 @@ if your statements are right or wrong. Award yourself one point for
 each correct answer.
 198 English Grade 7
 
-Unit 19
+## 19: Getting started  {#ch-19}
+
 Getting started
 A. Read what Raju is saying. Tell your friends what he is saying.
 Two plus two is four. The Sun is a star.
@@ -5995,7 +5204,6 @@ It eats small fish,
 And it has strong fins.
 What three animals are described in the song?
 English Grade 7 199
-
 Reading I
 Guess the answers to these questions.
 a. What are the largest animals on Earth? Make a list of five animals.
@@ -6027,7 +5235,6 @@ same way that human beings are left and right-handed, elephants are also either
 right-tusked or left-tusked. Their dominant tusk is easy to identify because it
 will be more worn down than the less dominant one.
 200 English Grade 7
-
 Both the species eat all types of vegetation, including
 a variety of grasses, fruits, leaves, bark and roots.
 They spend around 18 hours consuming about 75 to
@@ -6066,7 +5273,6 @@ bird
 7. a period when a baby grows in
 the womb
 English Grade 7 201
-
 B. Write whether the following statements are True or False.
 a. There are other land animals larger than elephants.
 b. The Asian and the African are the two major species of elephants
@@ -6096,7 +5302,6 @@ Elephants are the You can identify the Their trunks
 world's largest land two species apart by are flexible.
 animals. their ears.
 202 English Grade 7
-
 They
 Their tusks Calves can stand
 They’ve got
@@ -6130,7 +5335,6 @@ b. The Sun sets in the west. ii. Chitra said that man is mortal.
 c. The Earth is round. iii. She said that honesty is the best policy.
 d. All humans are born equal. iv. He said that knowledge is power.
 English Grade 7 203
-
 e. Man is mortal. v. The teacher told us that the Sun sets in the west.
 f. Honesty is the best policy. vi. My father said that the Earth is round.
 g. Truth always wins. vii. She said that all humans are born equal.
@@ -6157,7 +5361,6 @@ A. Answer these questions.
 a. What is a voice message?
 b. When do you leave a voice message?
 204 English Grade 7
-
 B. Listen to the audio and answer using no more than two words.
 Example: Who is the speaker?
 Ellen
@@ -6183,7 +5386,6 @@ Dear Manoj,
 May the New Year bring you peace, progress and prosperity.
 Pooja
 English Grade 7 205
-
 Dear Karina,
 I am pleased to hear that you passed grade 7 with good grades. Please accept
 my heartiest congratulations.
@@ -6209,7 +5411,6 @@ a. What do you see in the picture?
 b. Can you name any of the items?
 c. Do you have any of these device? If yes, what do you use it/them for?
 206 English Grade 7
-
 Use of a Personal Computer
 Hi, I'm Isabella. Today I'm going to talk about how to
 use a personal computer.
@@ -6242,7 +5443,6 @@ based on your purpose.
 If you are using a laptop or a notebook computer, there is usually a mouse pad
 instead of a mouse. But the mouse and the keyboard can be used externally too.
 English Grade 7 207
-
 When you have finished using a computer, you should turn it off properly. Here's
 how you can turn your computer off.
 Move the mouse to the START button. It may vary based on the programme you
@@ -6271,7 +5471,6 @@ d. How many function keys are there on a keyboard?
 e. Write any one feature of the mouse.
 f. What should a user do after s/he uses a computer?
 208 English Grade 7
-
 D. Do you, your family or your friends have a computer at school or
 at home? What do you or they use it for? Discuss its advantages
 in student life.
@@ -6303,7 +5502,6 @@ g. If they work too much, they ………………… (get) tired.
 h. The baby ………………….. (wake up) if you make too much noise.
 i. Does oil float if you ………………….. (pour) it into water?
 English Grade 7 209
-
 Writing II
 A. Read the instructions for washing hands properly. Match the
 instructions with the correct pictures.
@@ -6321,7 +5519,6 @@ water.
 7. Dry thoroughly with a clean
 towel.
 210 English Grade 7
-
 B. Write a set of instructions for brushing your teeth. Use the given
 clues.
 soak the brush ………….… put toothpaste ……………… brush teeth gently
@@ -6344,9 +5541,8 @@ h. Human teeth are just as strong as shark teeth.
 i. Scientists estimate that the nose can recognise a trillion different scents!
 j. Humans are the only species known to blush.
 k. Your blood makes up about eight percent of your body weight.
-(Source: www.natgeokids.com)
+Source: www.natgeokids.com
 English Grade 7 211
-
 GLOSSARY
 Abode /əˈbəʊd/ (n.): the place where somebody lives.
 Abroad /əˈbrɔːd/ (n.): in or to a foreign country.
@@ -6384,7 +5580,6 @@ Carpenter /ˈkɑːpəntə(r)/ (n.): a person who prepares objects of wood.
 Carve /kɑːv/ (v.): to make objects, patterns, etc. by cutting away material from a piece of wood
 or stone, or another hard material.
 212 English Grade 7
-
 Celebrate /ˈselɪbreɪt/ (v.): to observe a day/event.
 Check-out /tʃekaʊt/ (v.): to pay bill and leave a hotel.
 Cheerful /ˈtʃɪəfl/ (adj.): happy, and showing it by the way that you behave.
@@ -6421,7 +5616,6 @@ Cursor /ˈkɜːsə(r)/ (n.): a line on a computer screen that moves to show wher
 done.
 Damp /dæmp/ (adj.): slightly wet, often in a way that is unpleasant.
 English Grade 7 213
-
 Darken /ˈdɑːkən/ (v.): to become dark.
 Deceased /dɪˈsiːst/ (adj.): dead.
 Decorate /ˈdekəreɪt/ (v.): to make something look more attractive by putting things on it.
@@ -6460,7 +5654,6 @@ or the situation they are in.
 Enclosure /ɪnˈkləʊʒə(r)/ (n.) a piece of land that is surrounded by a fence or wall and is used
 for a particular purpose.
 214 English Grade 7
-
 Endure /ɪnˈdjʊə(r)/ (v): to experience and deal with something that is painful or unpleasant
 without giving up.
 Enormous /ɪˈnɔːməs/ (adj.): extremely large.
@@ -6499,7 +5692,6 @@ Humanity /hjuːˈmænəti/ (n.): people in general.
 Hurricane /ˈhʌrɪkən/ (n): a very strong and violent wind.
 Hurry /ˈhʌri/ (v.): to move or act quickly because there is not much time.
 English Grade 7 215
-
 Illustrates /ˈɪləstreɪt/ (v.): to make the meaning of something clearer by using examples,
 pictures, diagrams etc.
 Impose /ɪmˈpəʊz/ (v.): to introduce a new law, rule etc.
@@ -6538,7 +5730,6 @@ Nutrition /njuˈtrɪʃn/ (n.): the process by which living things receive the fo
 to grow and be healthy.
 Oak /əʊk/ (n.): a large tree that produces small nuts called acorns.
 216 English Grade 7
-
 Obesity /əʊˈbiːsəti/ (n.): the quality or fact of being very fat, in a way that is not healthy.
 Observe /əbˈzɜːv/ (v.): to celebrate festivals, birthdays, etc.
 Obstructions /əbˈstrʌkʃnz/ (n.): the factors that block the progress.
@@ -6576,7 +5767,6 @@ and they become capable of having children.
 Qualification /ˌkwɒlɪfɪˈkeɪʃn/ (n.): an exam that you have passed or a course of study that you
 have successfully completed.
 English Grade 7 217
-
 Rainforest /ˈreɪnfɒrɪst/ (n.): a thick forest in some parts of the world that have a lot of rain.
 Rare /reə(r)/ (adj.): not done, seen, happening, etc. very often.
 Raw /rɔː/ (adj.): not cooked.
@@ -6615,7 +5805,6 @@ Significant /sɪɡˈnɪfɪkənt/ (adj.): large or important enough to have an ef
 Sobbing /sɒbɪŋ/ (n.): noisy cry.
 Spirit /ˈspɪrɪt/ (n.): the part of a person that includes their mind, feelings and characters.
 218 English Grade 7
-
 Splutter /ˈsplʌtə(r)/ (v.): to speak quickly and with difficulty.
 Sprawl /sprɔːl/ (v.): to spread in an untidy way.
 Stamina /ˈstæmɪnə/ (n.): the physical or mental strength that enables you to do something
@@ -6654,7 +5843,6 @@ Tremble /ˈtrembl/ (v.): to shake in a way that you cannot control, especially b
 very nervous, excited, frightened, etc.
 Tribute /ˈtrɪbjuːt/ (n.): an act, a statement or a gift that is intended to show your love or respect.
 English Grade 7 219
-
 Trick /trɪk/ (n.): something that you do to make somebody believe something is not true.
 Trouble /ˈtrʌbl/ (n.): a problem, worry, difficulty, etc. or a situation causing this.
 Unbearable /ʌnˈbeərəbl/ (adj.): too painful to accept / bear.

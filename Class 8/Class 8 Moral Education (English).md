@@ -1,103 +1,29 @@
-Moral Education
-Class - 8
-Government of Nepal
-Ministry of Education
-Curriculum Development Center
+---
+title: "Moral Education"
+grade: 8
+language: english
+subject: "Moral Education"
+publisher: "Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre"
+location: "Sanothimi, Bhaktapur"
+---
 
-| Publisher:  | Government of Nepal           |     |     |
-| ----------- | ----------------------------- | --- | --- |
-|             | Ministry of Education         |     |     |
-|             | Curriculum Development Centre |     |     |
-|             | Sanothimi, Bhaktapur          |     |     |
-© Publisher
-| First Edition       |   :   | 2016 |     |
-| ------------------- | ----- | ---- | --- |
-| Revised Edition :   |       | 2018 |     |
-| Price               |   :   | 32/- |     |
-All rights reserved. No part of this publication may be reproduced, stored
-in a retrieval system or transmitted, in any other form or by any means
-for commercial purpose without the prior permission in writing of the
-Curriculum Development  Centre.
-|     |     |     |     |
-| --- | --- | --- | --- |
+# Moral Education — Grade 8
 
-Preface
-The curriculum and curricular materials have been developed and revised on a
-regular basis with the aim of making education purposeful, practical, relevant and
-job-oriented. It is necessary to instill the feeling of nationalism, national integrity
-and democratic spirit in students and equip them with morality, discipline and self-
-reliance so as to develop in them social and personal skills as well as the basic
-competencies of language, science, occupation, information and communication
-technology, environment and health, and life skills. It is also necessary to enable
-them to appreciate, preserve and promote arts and aesthetics, social norms and val-
-ues and ideals. Moreover, in order to develop an equitable society, it is necessary
-to inculcate students with respect for ethnicity, gender, disabilities, languages, re-
-ligions, cultures and regional diversity. Likewise, education should also help them
-to be well-informed of human rights and social norms and values so as to make
-them capable of playing the role of responsible citizens. This textbook has been
-developed in this form based on the Basic Education Curriculum, 2069 (Grade 8),
-incorporating the feedback obtained from various schools, workshops and
-seminars and interaction programmes attained by the teachers, students
-and parents.
-This textbook was translated and edited by Janardan Ghimire, Romkanta Pokharel,
-Bhogerdra Lamichhane, Phanindra Prasad Niraula and Hemraj Khatiwada. In
-bringing out this text book in this form, the contribution of the Executive Director
-of CDC Mr. Diwakar Dhungel, Deputy Director Baburam Gautam, Usha Dikshit,
-Chintamani Yogi, Keshav Prasad Neupane, Sanu Amatya, Ekaratna Sharma Acha-
-rya, is highly commendable.
-Language of this book was edited by Nabin Kumar Khadka. Typing was done by
-Abhaya Shrestha. The layout design of the book was done by Jayaram Kuikel and
-Bhawana Sharma. The illustration of the book was done by Sunil Ranjit and Gau-
-tam Manandhar. CDC extends sincere thanks to all those who have contributed in
-the development and revision of this text book.
-Textbook is considered as an important tool of learning. Experienced teachers and
-curios students can use various learning resources and tools to achieve the com-
-petencies targeted by the curriculum. An attempt is made to make this textbook
-activity oriented and interested as far as possible. The teachers, students and other
-stakeholders are expected to make constructive comments and suggestions to make
-this book a more useful learning material.
-Government of Nepal
-Ministry of Education
-Curriculum Development Centre
+> **Publisher:** Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre
+> **Location:** Sanothimi, Bhaktapur
 
-Table of Contents
-| Unit      | Contents                                  |       |     | Page number |     |
-| --------- | ----------------------------------------- | ----- | --- | ----------- | --- |
-| Unit One  | Character Development                     |       |     |             | 1   |
-| Lesson 1  | Aaitaman: Pride of the Village            |       |     |             | 2   |
-| Lesson 2  | Let’s be a Good Example                   |       |     |             | 7   |
-| Lesson 3  | Think positively, Learn and Do            |       |     |             | 13  |
-| Unit Two  | H                                         |  V    |     |             | 19  |
-uman alues
-| Lesson 1    | True Soul Mates                     |     |     |     | 20  |
-| ----------- | ----------------------------------- | --- | --- | --- | --- |
-| Lesson 2    | My Real Identity                    |     |     |     | 25  |
-| Lesson 3    | Universal Relationship              |     |     |     | 31  |
-| Unit Three  | Civil Rights and Duties             |     |     |     | 37  |
-| Lesson 1    | The Duty of Citizens                |     |     |     | 38  |
-| Lesson 2    | My Duty                             |     |     |     | 43  |
-| Lesson 3    | Misrilal: A True Social Worker      |     |     |     | 48  |
-| Unit Four   | Community Life Style and Diversity  |     |     |     | 53  |
-| Lesson 1    | Peace and Friendship                |     |     |     | 54  |
-| Lesson 2    | Ganga's Effort                      |     |     |     | 60  |
-| Lesson 3    | A Story of Five Brothers            |     |     |     | 66  |
-| Unit Five   | Discipline and Positive Thinking    |     |     |     | 71  |
-| Lesson 1    | Regret                              |     |     |     | 72  |
-| Lesson 2    | Inner Eyes                          |     |     |     | 77  |
-| Lesson 3    | Excess of Anything is Destructive   |     |     |     | 83  |
-|             |                                     |     |     |     |     |
+## Table of Contents
 
-UNIT
-ONE Character Development
-Learning Outcomes
-Demonstrate good characteristic behavior.
-Internalize the impact of good character in human life and behave accordingly.
-Implement the human values and assumptions like truth, virtue,
-Peace, love and non-violence for the development of good character.
-Moral Education, Class -8 1
+| S.No. | Title |
+|-------|-------|
+| 1 | [Aaitaman: Pride of the Village](#ch-1) |
+| 2 | [Expected Behavior](#ch-2) |
+| 3 | [Expected behavior](#ch-3) |
 
-Lesson
-1
+---
+
+## 1: Aaitaman: Pride of the Village  {#ch-1}
+
 Aaitaman: Pride of the Village
 Expected Behaviors
 To be inspired for well behavior from everyone.
@@ -124,7 +50,6 @@ character and encourage implementing them.
 • Ask them to prepare and present the list of characteristics of role model in family and
 society.
 2 Moral Education, Class -8
-
 up. It was again about to reach the top, it again fell down as the first time. It
 was still not discouraged So it tried for third attempt and was able to reach
 the top carrying the food and it took into the hole where it used to live.
@@ -144,7 +69,6 @@ for the initiation of new task. In rainy season, Salpokhari village would
 be muddy. It would be very difficult to move from one house to another.
 Aaitaman thought of picking the pebbles from field and pave the way.
 Moral Education, Class -8 3
-
 As a result, the field became fertile and it was possible to grow lots of
 corns. At the same time, the road became easier to walk on . Aaitaman also
 encouraged his friends for doing the job on holidays. His friends agreed to
@@ -181,7 +105,6 @@ village. His parents are also very happy on his success. There is a vast
 difference between previous and present Aaitaman. Now villagers say,
 “Pride of Salpokhari is Aaitaman.”
 4 Moral Education, Class -8
-
 Summary
 Character development is not the matter of speaking but it is the matter
 of demonstration in behavior. Good character can be developed through
@@ -211,7 +134,6 @@ e) What was discussed after Aaitaman shared his reading on biography
 to his friends?
 f) What should we do to be a role model?
 Moral Education, Class -8 5
-
 3. In your community, there might be some people who have been
 congratulated due to their praiseworthy tasks. What are these tasks?
 Explain the tasks asking some of the community people.
@@ -231,10 +153,11 @@ your parents.
 being?
 9. How can a person be a pride of a nation? Write your opinion.
 6 Moral Education, Class -8
-
 Lesson
 Let’s be a Good Example
-2
+
+## 2: Expected Behavior  {#ch-2}
+
 Expected Behavior
 To do good works being inspired by good character.
 To be inspired by local people and nature for good works.
@@ -263,7 +186,6 @@ character.
 • Ask your students what they want to be and also ask them to present making a list
 of desired duties of such person for the development of good character.
 Moral Education, Class -8 7
-
 They could feel a plesant smellout of the sprouts. They were very glad to
 see such beautiful scenery. The fragrance spread all round delight them.
 In the mean time, they saw a man walking near by the garden. He was a
@@ -286,7 +208,6 @@ appears in society and good society also affects an individual. Then there
 will not be any evil in society and even if there are, they will be keeping
 on changing into good”.
 8 Moral Education, Class -8
-
 Jyotiraj added. “You might have read in science or listened somewhere.
 There is an aromatic plant called sandalwood.
 Due to the influence of sandalwood, other non-aromatic plants also become
@@ -325,7 +246,6 @@ would do the same in their family and society. Though the students had
 gone to know about the plants and have fun, they returned to their home
 receiving essential knowledge and motivation for driving their life too.
 Moral Education, Class -8 9
-
 Summary
 Even an individual’s good action influences positively. Other people
 and society get inspired with such actions. An individual influences the
@@ -334,12 +254,12 @@ term importance. So, each individual’s action should be motivational,
 effective and exemplary.
 Exercise
 1. Fill in the blanks with appropriate words.
-a. We learn……….. from a good person. ( good work/ bad work)
-b. A good person’s impact is…….(positive/ negative)
+a. We learn……….. from a good person. ( good work/ bad work
+b. A good person’s impact is…….(positive/ negative
 c. We can learn positive things…………..(only by going very far/ around
-ourselves)
-d. Nature also provides us …………………...( knowledge/ respect)
-e. Good examples should be set by………….( ourselves/ somebody else)
+ourselves
+d. Nature also provides us …………………...( knowledge/ respect
+e. Good examples should be set by………….( ourselves/ somebody else
 2. Answer the questions briefly.
 a. Why was the garden beautiful?
 b. Who was the person walking near to the garden?
@@ -353,7 +273,6 @@ person and society? Tick (√) of the true option.
 a. From cooperation, we learn to be………..
 i) selfish ii) lazy iii) helpful
 10 Moral Education, Class -8
-
 b. We learn…….from civilized society.
 i) culture of society ii) civilization iii) entertainment
 c. Saints teach us to……
@@ -387,7 +306,6 @@ their own effort.
 5. What are the benefits that human beings and animals get from plants?
 Prepare a list and paste it in your classroom.
 Moral Education, Class -8 11
-
 6. Do the following:
 a. Read the following paragraph and write an article on ‘ways of making
 a country beautiful’.
@@ -404,10 +322,11 @@ is in our country? Write your opinion in one paragraph.
 7. What sorts of students does the former teacher Jyotiraj wish to see? Write
 a paragraph analyzing his notion.
 12 Moral Education, Class -8
-
 Lesson:
 Think positively , Learn and Do
-3
+
+## 3: Expected behavior  {#ch-3}
+
 Expected behavior
 To receive desired impact from various areas of national lives
 To be the role model in society through positive work
@@ -433,7 +352,6 @@ Get your students to discuss on the topic like development of moral character an
 trust on labor and self-reliance, honesty, creative conduct and feeling of welfare in the class.
 Make your students interact on ‘impact of individual’s character on society and nation.
 Moral Education, Class -8 13
-
 Namita: Everybody in this world has their own nation. While living in
 nation, obviously there is an impact of nation to citizens. An
 individual affects society and society also affects an individual.
@@ -452,7 +370,6 @@ people also influence nation. am I right?
 Namita : Yes, people are influenced by the nation and nation is influenced
 by people. These two are inseparable to each others.
 14 Moral Education, Class -8
-
 Raju : Will you please give some examples to clarify impacts of nation
 over its people, sister?
 Namita : If a nation adopts path of peace, people also follow the same. If
@@ -487,7 +404,6 @@ selection. We should not copy the same thing from whatever is
 available.
 Raju : We have to be careful while copying from other, don’t we?
 Moral Education, Class -8 15
-
 Namita : Yes, Only now you understood. We need to be careful while
 distinguishing which one is right and which one is wrong, which
 one to take and which one to leave.
@@ -519,7 +435,6 @@ life prosperous should be copied. There might be many things which
 are seen but learnable thing might be very few. It gives good result if we
 learn good thing from an individual, nation and the world.
 16 Moral Education, Class -8
-
 Exercise
 1. Fill in the blanks.
 a. I……………………to the nation by doing good work.
@@ -548,7 +463,6 @@ in the blank space.
 Guardian……………………….
 Teacher…………………………
 Moral Education, Class -8 17
-
 Friend………………………….
 Neighbor………………………
 Leader………………………….
@@ -568,18 +482,14 @@ wrong, we human being should distinguish right and wrong using our
 intuition. We should not accept all the global impacts but try to copy
 good, useful and suitable to our national culture.
 18 Moral Education, Class -8
-
 Unit
 Human Values
-Two
 General Objective
 1. Identify the human value and have a positive view to contribute the nation.
 2. State the global human value and act accordingly.
 Moral Education, Class -8 19
-
 Lesson
 True Soul Mates
-1
 Expected behaviour
 To develop and preserve spiritual value.
 To speak truth and inspire others to do the same.
@@ -609,7 +519,6 @@ them in a group discussion on anyone they like most.
 them whether they are taking their help. Reinforce them with the spiritual values they
 will be undergoing.
 20 Moral Education, Class -8
-
 he looked into the flowing water- The water had turned crystal clear, the
 pollutants were set on the bed. It looked drinkable. Happy Ananda came
 back with water and stood before Buddha.
@@ -648,7 +557,6 @@ peace is not only important for an individual but for a nation as well as
 for the world. Love without peace is impossible and it’s love again without
 which there comes no sense of non-violence. Love facilitates friendship
 Moral Education, Class -8 21
-
 and the world goes round. Friendship with ill motive paves a wrong path.
 Let’s tie a friendship that is made out of truth.
 Our soul too requires a friend and he or she should be good. Good friends
@@ -681,14 +589,13 @@ the best creation of God. One can be free from mental tension and health
 hazards if he/she puts these virtues into practice regularly. Everything
 remains peaceful thereafter and human life feels significant.
 22 Moral Education, Class -8
-
 Exercise
 1. Fill in the gaps with a correct word chosen from the brackets:
-a) Virtuous souls are the human.................. (values/objects)
-b) Human soul needs a …………………… (profit/friend)
-c) …………………. abodes spiritual values. (human soul/human body)
-d) We require………………….. to solve a problem. (power/patience)
-e) ………………….. is a selfless service. (yoga/co-operation)
+a) Virtuous souls are the human.................. (values/objects
+b) Human soul needs a …………………… (profit/friend
+c) …………………. abodes spiritual values. (human soul/human body
+d) We require………………….. to solve a problem. (power/patience
+e) ………………….. is a selfless service. (yoga/co-operation
 2. Answer the following questions in brief:
 a) What is the determinant of human value?
 b) What are the spiritual values?
@@ -709,7 +616,6 @@ Once there lived a farmer in a village. He was hard working. He had five
 grown up sons but they did not work hard as their father would do and
 neither did they study properly.
 Moral Education, Class -8 23
-
 The farmer had an orchard where he had planted many guava seedlings.
 Some of them had survived while others were still struggling to survive.
 The farmer used to go to the garden to tend them regularly.
@@ -744,10 +650,8 @@ do you want to develop in you? Explain.
 7. Jot down some points how you inspire a bad friend to be a good one.
 8. Define patience and write a paragraph on it.
 24 Moral Education, Class -8
-
 Lesson
 My Real Identity
-2
 General objectives
 To enhance patriotism
 To learn to preserve national heritage
@@ -778,7 +682,6 @@ Teaching strategies
 from the visit and involve them in a group discussion.
 - Have them discuss on nation, nationality and national unity.
 Moral Education, Class -8 25
-
 Our annual exam for the session got over and we all boarded bus to take a trip
 to Lumbini. One of our teachers accompanied us to guide. He was supposed
 to be all as our guardian a guide and patron. We felt secured. Moreover,
@@ -800,7 +703,6 @@ like a wide-stretched sacred garden- I came to know it instantly. It was far
 more than what I had heard, and read before. I became so happy that I
 began to flutter like a butterfly.
 26 Moral Education, Class -8
-
 Our first and foremost visit was of the Ashoka Pillar which the Indian
 emperor Ashoka had put up. The pillar, therefore, named after him, our
 teacher briefed it to us. I found it was a national emblem of our country.
@@ -840,7 +742,6 @@ like his idea.
 As we were planning to return, we caught a sight of construction; we
 stormed to the site and soon came to know that a grand assembly house
 Moral Education, Class -8 27
-
 was being constructed there. It would then specify the place for Buddhists
 over the world so that they could floor their opinions on the importance of
 Buddhism and its extension. Hundreds of people were working voluntarily.
@@ -874,7 +775,6 @@ nation. They should, therefore, be preserved for the sake of one’s own
 identity. Patriotism, preservation of national heritages and teamwork are
 the essence of development.
 28 Moral Education, Class -8
-
 EXERCISE
 1. Tick the one that you like and cross that you dislike:
 a. Listening to others good deeds
@@ -889,12 +789,12 @@ i. Participating in teamwork
 j. Staying mute
 2. Fill in the blanks with the correct words given in the brackets:
 a. ……….increases by travling. (Intelligence and wisdom/Greed and
-laziness)
-b. The one who loves his or her country.…… others too. (hates/loves)
-c. Lumbini gives ………….identity of Nepal. (rural/international)
-d. It is our ……… to preserve the historical assets. (duty/identity)
+laziness
+b. The one who loves his or her country.…… others too. (hates/loves
+c. Lumbini gives ………….identity of Nepal. (rural/international
+d. It is our ……… to preserve the historical assets. (duty/identity
 e. A teamwork contributes to the……….. (development of the country/
-destruction of the country)
+destruction of the country
 3. Answer the following questions in brief:
 a. Write any four clues to make us both clever and intelligent.
 b. What kind of place is Lumbini?
@@ -903,7 +803,6 @@ d. What makes learning permanent?
 e. What inspires us to have patriotic feeling?
 f. What are the advantages of teamwork?
 Moral Education, Class -8 29
-
 g. What is our common responsibility?
 h. What did the teacher suggest us to do?
 i. What sort of values do you think it to preserve historical places?
@@ -937,10 +836,8 @@ e. Describe a place, which you think is in dire need of preservation.
 of the children’s club of the school.
 7. What sort of citizen do you want to be? Write in a paragraph.
 30 Moral Education, Class -8
-
 Lesson
 Universal Relationship
-3
 General objectives
 To keep a good faith on individual, society and nation
 To keep friendly relationship with others
@@ -969,7 +866,6 @@ board. Then have the students discuss on them.
 Ask your students how they treat stranger, jot down their response and add more if
 necessary so that you can inculcate in them the concept of universal brotherhood.
 Moral Education, Class -8 31
-
 proved more beneficial to the world since its establishment. The prime
 motto of the UNO is to restore peace in the world.
 Organizations are the rule-governing bodies that govern people with
@@ -990,7 +886,6 @@ there will be the dominance of power and the rule of law will be over. So,
 the international organizations like the UNO have shown their keen interest
 in the existence and security of all the nations in the word.
 32 Moral Education, Class -8
-
 Every country in the world is different in respect of their governance that
 may vary due to their own account. They, however should acknowledge
 other’s existence, They should not harm others’ territory, governing system,
@@ -1022,19 +917,18 @@ to establishing a cooperative environment. So, everyone in the world
 should do the duty and bear the responsibility to meet the common goals
 of the nations.
 Moral Education, Class -8 33
-
 EXERCISE
 1. Tick the correct answer:
 a. I consider everyone………..
-(i) as a friend (ii) as an enemy
+i) as a friend (ii) as an enemy
 b. I extend universal brotherhood through……..
-(i) polite behavior (ii) rude behavior
+i) polite behavior (ii) rude behavior
 c. I…….in mutual help.
-(i) believe (ii) disbelieve
+i) believe (ii) disbelieve
 d. I ……… rules.
-(i) prefer (ii) do not prefer
+i) prefer (ii) do not prefer
 e. I also……….. a role to establish peace in the world.
-(i) play (ii) do not play
+i) play (ii) do not play
 2. Answer the following questions briefly:
 a. How can we keep a good friendship?
 b. How can we win the heart of others?
@@ -1050,7 +944,6 @@ a. Humans are created to keep enmity with each other.
 b. Human being can get defeated with nature.
 c. Our behavior only ties up friendship.
 34 Moral Education, Class -8
-
 d. An organization strengthens only an individual.
 e. Many international organizations have been established in the world.
 f. All the nations in the world are not equally recognized.
@@ -1068,7 +961,7 @@ coexistence, mutual help/cooperation, non- aggression
 a. Divide yourselves into two groups and collect the points on each
 topic given below. Then discuss between the groups:
 - Universal brotherhood
-- Five-points principles (Panchshil)
+- Five-points principles (Panchshil
 b. Which one among the works done in your community has helped
 in facilitating universal brotherhood? Mention them with the help of
 your guardians and present in your class.
@@ -1083,7 +976,6 @@ the same school and stands first in academics as well as co scholastic
 activities. He has got love, cooperation and inspiration from his
 friends, teachers and his guardians.
 Moral Education, Class -8 35
-
 b. One day when it was holiday at school, Abhu’s auntie prepared going
 out, he came to know it and told her that he also wanted to go with
 her. she gave in and took him to a grand building. An international
@@ -1115,7 +1007,6 @@ display board in the class.
 9. Explain the following:
 The earth is our common home.
 36 Moral Education, Class -8
-
 Unit
 Three The Civic Duties and Responsibility
 General objectives:
@@ -1123,10 +1014,8 @@ To learn and abide by the state rules
 To learn to become economical in consuming the resources
 To help in social and cultural transformation
 Moral Education, Class -8 37
-
 Lesson
 The Civic Duties and
-1
 Responsibility
 General Objectives:
 To state the need and importance of law
@@ -1138,7 +1027,6 @@ To take care of public property
 To contribute to the nation in restoring peace and good governance
 Salleri,
 Solukhumbu
-2070/09/09
 Dear Anjana,
 I am fine here and hope you are also fine over there. It is very cold here,
 so cold that we don’t feel like going out unless we have an urgent work. It
@@ -1155,7 +1043,6 @@ to obey law.
 - Ask your students how far they are aware of law. If not, explain the importance of the
 knowledge of fundamental laws.
 38 Moral Education, Class -8
-
 Your dedication, your teachers’ guidance and the inspiring environment of
 the school are what made it possible.
 I know you grumble why you did not get the amount that was mentioned
@@ -1195,7 +1082,6 @@ his or her rights. Law is considered as an organ of the state. The state goes
 lame if it has a deficient organ or has no organ at all. That is why, a country
 must have law. Fellow citizens must be aware of it and should implement it.
 Moral Education, Class -8 39
-
 A country undergoes periodical elections that nominate candidates. It is
 our vote that determines their victory or their defeat- if we vote for the right
 candidate, we will do good to everyone but our wrong choice will cost to
@@ -1229,7 +1115,6 @@ Hoping to get a reply.
 Your loving father,
 Vishal
 40 Moral Education, Class -8
-
 SUMMARY
 A state needs various laws for its good governance and thus formulates
 a code of laws and enforces them. It is the citizens’ duty to respect them
@@ -1240,14 +1125,14 @@ social security and peace. If we perform our duty sincerely, we can have
 a strong nation that equally means to have strong citizens.
 EXERCISE
 1. Fill in the blanks:
-a. A country needs………….to govern its citizens. (law, conflict)
-b. The tax we have paid…………us. (benefits, costs)
-c. The law grants us………..if we obey it. (security, punishment)
-d. Law is………of a country. (organ, duty)
-e. We wish to have a right……….. (result, representative)
-f. We should……..our nation. (empower, weaken)
+a. A country needs………….to govern its citizens. (law, conflict
+b. The tax we have paid…………us. (benefits, costs
+c. The law grants us………..if we obey it. (security, punishment
+d. Law is………of a country. (organ, duty
+e. We wish to have a right……….. (result, representative
+f. We should……..our nation. (empower, weaken
 g. It is our sobriety to get serviced by………… (waiting for our turn,
-overtaking others)
+overtaking others
 2. Answer the following questions briefly:
 a. Why do you think was the sum from the prize deducted?
 b. Who is indirectly benefitted by the tax we have paid?
@@ -1258,7 +1143,6 @@ f. What kinds of places deserve preservation?
 g. What should we do to empower the nation?
 h. What kind of things should be informed to the concerned authority?
 Moral Education, Class -8 41
-
 3. Read the followings and tick the one that help the nation and cross
 the one that harm it:
 a. To obey the law
@@ -1276,10 +1160,10 @@ k. To participate in sanitary campaign
 a. Which of the following strategies will be more appropriate if you
 have to select a representative from your class to participate in inter-
 school co-curricular activities?
-(i) Through common consent (ii) Through voting
-(iii) Through internal competition (iv) Through teachers; opinion
+i) Through common consent (ii) Through voting
+iii) Through internal competition (iv) Through teachers; opinion
 and support
-(v) Through random selection
+v) Through random selection
 b. Suppose that your locality is unaware of a proper management of
 sewage and garbage. What step will you suggest to keep it clean?
 Prepare a list and present in the class.
@@ -1291,10 +1175,8 @@ e. Prepare a list of benefits you get from the tax you have paid.
 5. Pretend that you are Anjana and you have gone through your father’s
 letter. Now write a reply to your father stating what you have understood.
 42 Moral Education, Class -8
-
 Lesson
 My Duty
-2
 General objectives
 To be ready to do and carry out team work
 To learn to be economical for well being of the family
@@ -1322,7 +1204,6 @@ responsibilities.
 How do your students bear the familial responsibilities? Ask them to prepare a list of
 the ways and reinforce them if required.
 Moral Education, Class -8 43
-
 Binita: An early rise makes us mentally fresh and physically healthy
 that makes us enthusiastic to work. It makes us prepared to work
 and we become successful ultimately.
@@ -1347,7 +1228,6 @@ have to do something for them.
 Bibek: If so, we should help them as much as we can let alone our
 studies, shouldn’t we, didi?
 44 Moral Education, Class -8
-
 Binita: Yes, we should. It’s why, I insist on you to rise early, you know.
 We owe our parents who have invested the money they have
 earned. We should repay what they have done for us.
@@ -1385,7 +1265,6 @@ when each member does his or her duty and shoulders the responsibility
 happily. It means its members should remain active for its prosperity. A
 family life turns out to be happy when there go coordination, economical
 Moral Education, Class -8 45
-
 activities and equal participation side by side.
 EXERCISE
 1. Write T for true and F for the false statements given below:
@@ -1415,7 +1294,6 @@ that you can bear for the well being of your family:
 - Identification and proper utilization of opportunities for well being
 of the family.
 46 Moral Education, Class -8
-
 4. Two of you participate in role play and listen to how others react.
 5. Do the following.
 a. List some duties and responsibilities you can do for your family and
@@ -1450,10 +1328,8 @@ Note them down and present in the class.
 e. What similarities and differences do you find in Binita’s, Bibek’s and
 your behavior? Write how you correct your bad behaviors if any.
 Moral Education, Class -8 47
-
 Lesson
 Misrilal: A True Social Worker
-3
 General objectives
 To be aware of social responsiblity.
 To be involved in team work.
@@ -1484,7 +1360,6 @@ Teaching strategies
 Narrate a biography of a social worker to motivate the students towards the given lesson.
 Prepare a list of social works and read it out to them so that they can get involved in them.
 48 Moral Education, Class -8
-
 It looked filthy. Some people used to squat on its dam defecating. All these
 inhuman acts had resulted a negative impact on the aquatic animals like
 fish, turtle, frog etc., they were dying one after another.
@@ -1522,7 +1397,6 @@ The denizens of Kisanpur give a full
 support to what Misrilal had proposed
 to do. To them, he has become a source
 Moral Education, Class -8 49
-
 of inspiration that has promoted awareness in the village.
 One day, Misrilal asked the villagers why they were helping him without
 understanding. They would believe that all the work that Misrilal used to
@@ -1559,7 +1433,6 @@ who was uneducated could easily win the heart of a well-educated person.
 Child marriage, witchcraft, dowry system, etc. considered the burning issues
 in present Nepal have become as old as a myth at Kyashapur.
 50 Moral Education, Class -8
-
 All the villagers are proud of Misrilal, a multi dimensional personality who
 is going to be honoured today. The entire village seems to be in a festive
 mood. Children are exposed to a belief that a noble work deserves thanks.
@@ -1575,15 +1448,15 @@ involvement in the social work.
 EXERCISE
 1. Evaluate yourselves
 a. I………aware of my social responsibility.
-(i) am (ii) am not
+i) am (ii) am not
 b. I………… in sanitary campaign.
-(i) participate (ii) do not participate
+i) participate (ii) do not participate
 c. I ……….initiative to do good to others by myself.
-(i) take (ii) do not take
+i) take (ii) do not take
 d. I………a social worker.
-(i) follow (ii) do not follow
+i) follow (ii) do not follow
 e. I……… evil practices in the society.
-(i) go for (ii) go against
+i) go for (ii) go against
 2. Match the following:
 Column A Column B
 a. Misrilal’s effort - realized their mistake
@@ -1593,7 +1466,6 @@ d. The children of Kisanpur - made the pond clean
 e. A noble work - regarded a true leader
 f. For Kisanpur people Misrilal was - like a green lake of the Himalayas
 Moral Education, Class -8 51
-
 3. From the list given below, find the work that Misrilal had executed and
 write them in your copy:
 Uniting the villagers Cleaning the pond
@@ -1626,7 +1498,6 @@ do the work with the help of your teachers.
 9. In your community too, there must be a person who deserves honor.
 Say something about him or her.
 52 Moral Education, Class -8
-
 Unit
 Community Life Style and Diversity
 Four
@@ -1636,10 +1507,8 @@ To support in continuation of community activities that are aimed at promoting m
 development.
 To work in group taking leadership.
 Moral Education, Class -8 53
-
 Lesson
 Peace and Friendship
-1
 Expected Behavior:
 internalize and practice peace
 maintain peace and harmony in family
@@ -1669,7 +1538,6 @@ What could be the role of students to maintain mutual friendship and harmony? Ma
 them tell and come up with possible solutions.
 Ask them to make a list about how can we maintain peace in classroom.
 54 Moral Education, Class -8
-
 Respected Chairperson,
 Teachers and my dear friends!
 I am going to speak on the topic, "Peace and Friendship," with an aim of
@@ -1683,7 +1551,7 @@ directing peace within us. Peace is not something that we can get by saying
 or demanding from others. Peace is the special state of bliss that we get
 by concentrating our mind and body. Every living being needs this type of
 bliss. The peace in mind (internal peace) and the peace in the surrounding
-(external peace) are the real state of peace. Our values, thoughts, and actions
+external peace) are the real state of peace. Our values, thoughts, and actions
 contribute to internalize peace.We have to put a great effort for eternal
 peace-peace for all and peace forever.
 Peace in mind of a person (individual peace) is primarily important to
@@ -1708,7 +1576,6 @@ those sayings and verses, it was highlighted that peace is important from
 individual to the universe.We have seen or experienced different examples
 of suffering in our life when nature is not in peace (every living creature has
 Moral Education, Class -8 55
-
 to suffer when natural disasters occur). I think we have to put our entire
 efforts for maintaining peace.We should not do anything that hinders peace
 and brings violence. We have already experienced the result of violence in
@@ -1734,12 +1601,11 @@ whole world can be changed into a peaceful garden if everyone maintains
 peace and mutual understanding. As a result, peace and friendship act
 like our two hands and help in developing peace as the invisible hands of
 56 Moral Education, Class -8
-
 our heart. In this context, we need an active role of these two hands of our
 heart. Finally, I would like to conclude myself by saying that 'peace and
 friendship' is the only way for the permanent protection of an individual,
 family, society, and the whole world.
-Thank you. (the bell goes)
+Thank you. (the bell goes
 Summary:
 Peace is an important trait of human being. It is essential for the overall
 development of a person. Peace is needed to every individual, animal,
@@ -1752,22 +1618,21 @@ friendship.
 Exercise:
 1. Fill up the gaps and write a paragraph about yourself based on the points.
 a) I................................ the subject matter and also....................how to speak.
-(know/don't know)
+know/don't know
 b) I.................................. at home to improve my competence. (practise/don't
-practise)
+practise
 c) I ............................... my weaknesses as indicated by others.
-(correct/don't correct)
-d) There is ........................... in my family. (peace /violence)
-e) There is no.................................... because of me. ( violence/protest)
-f) I always ................. the good ideas even if they are old. (follow/object)
-g) I wish everybody would be......................... of mine. (friends/enemies)
+correct/don't correct
+d) There is ........................... in my family. (peace /violence
+e) There is no.................................... because of me. ( violence/protest
+f) I always ................. the good ideas even if they are old. (follow/object
+g) I wish everybody would be......................... of mine. (friends/enemies
 h) I want to defeat enemies with ............................................... .
-(friendship/weapons)
+friendship/weapons
 i) Peace and friendship are the two ...................................... of my heart.
-( hands/weapons)
-j) I think if there is no peace there is no .................. . (comfort/hardship)
+hands/weapons
+j) I think if there is no peace there is no .................. . (comfort/hardship
 Moral Education, Class -8 57
-
 2. Write short answers:
 a) How can elocution (art of speaking) be refined?
 b) What is peace?
@@ -1804,7 +1669,6 @@ It was almost evening. A guest came in the village. He asked the cause
 of their quarrel. He was surprised to hear the villagers. He said that it
 was good if they had divided the fish into two halves or they might have
 58 Moral Education, Class -8
-
 prepared in a same place and eaten together. The guest told them about
 the pointlessness of arguing about the fish as the fish was already taken
 away by an eagle. After hearing the guest, Kalu and Jokhu realized their
@@ -1840,10 +1704,8 @@ weapons but if we light a candle it goes away automatically. This is
 why, friendship is a light of our heart to defeat the enmities. So, it is
 up to us whether to use great weapons or the light to end enmities.
 Moral Education, Class -8 59
-
 Lesson
 Ganga's Effort
-2
 Expected Behaviors:
 to be proactive in the local activities that help in the moral development
 to help others with positive attitude for their well-being.
@@ -1874,7 +1736,6 @@ lesson.
 and social service after reading this story or not and inspire them about their
 contribution in such works.
 60 Moral Education, Class -8
-
 Ganga was just sitting at home. There was a trail (road) in front of her house
 that linked the other villages. There came two pedestrians and asked Ganga
 for a little water to drink. Ganga went inside to bring water but there was
@@ -1913,7 +1774,6 @@ were planted all around and a Chautaro was made nearby.
 From the day, the tank was filled with water, the villagers were in rest. There
 is peace everywhere now. The major problem of water has been solved now.
 Moral Education, Class -8 61
-
 Their time saved. Animals are not being killed by the leopards. They have
 quenched their thirst properly. The villagers have utilized the extra water
 in vegetable farming. They have made a routine to use water in their farm.
@@ -1932,48 +1792,42 @@ a positive outcome.
 Exercise:
 1. Put a () for the statement that you think are right and a () for
 these you think are wrong.
-a) We have to participate in collective good works to develop ethics . ( )
-(b) It is better to migrate from birth place (village) rather than solving problems
-of the village. ( )
+a) We have to participate in collective good works to develop ethics .
+b) It is better to migrate from birth place (village) rather than solving problems
+of the village.
 62 Moral Education, Class -8
-
-  (c)  It is not good to provide drinking water to the guest at our home. (       )
-  (d)  We need to spend certain portion of our earning in the social
-|     work.    |     |     |     | (  ) |
-| ------------ | --- | --- | --- | ---- |
-  (e) There must be our name in the work that we have done our
-|     personal expense.   | (   | )   |     |     |
-| ----------------------- | --- | --- | --- | --- |
-  (f) One must make his/her community/neighborhood exemplary. (  )
-  (g) We must be proactive by ourselves for positive work. (  )
+c)  It is not good to provide drinking water to the guest at our home.
+d)  We need to spend certain portion of our earning in the social
+| work. | | | | (  ) |
+e) There must be our name in the work that we have done our
+| personal expense. | ( | ) | | |
+f) One must make his/her community/neighborhood exemplary.
+g) We must be proactive by ourselves for positive work.
 2.  Fill in the blanks:
-  (a) There was a  ........... in Suntale village about water.  ( problem/dispute)
-  (b) The villagers thought of ........................... (migrating/settling down).
-  (c) Ganga ................................ provide water to the pedestrians for drink.
-    (could/could not)
-  (d)  A family that provides good hospitality to the guest is a ...........................
-family. (rich/good)
-  (e) Ganga had saved some ................................. (money/water)
-  (f) The VDC ................................. Ganga's project. (rejected/helped)
-  (g) There is ......................... in Ganga's heart after construction of the water
-    tank. (peace/restless)
-  (h) We have ........................ for moral practice from Suntale village.
-    (inspiration/delay)
+a) There was a  ........... in Suntale village about water.  ( problem/dispute
+b) The villagers thought of ........................... (migrating/settling down).
+c) Ganga ................................ provide water to the pedestrians for drink.
+could/could not
+d)  A family that provides good hospitality to the guest is a ...........................
+family. (rich/good
+e) Ganga had saved some ................................. (money/water
+f) The VDC ................................. Ganga's project. (rejected/helped
+g) There is ......................... in Ganga's heart after construction of the water
+tank. (peace/restless
+h) We have ........................ for moral practice from Suntale village.
+inspiration/delay
 3.  Match the followings:
-|      Group A                  |     |   Group B                    |     |     |
-| ----------------------------- | --- | ---------------------------- | --- | --- |
-| a)   Children                 |     | a)   did not like to migrate |     |     |
-| b)   The villagers            |     | b)   Ganga became sad        |     |     |
-| c)   For not being able to    |     | c)   for drinking water      |     |     |
-  give water to guest
-| d)   The true earning  |     | d)   for her name                   |     |     |
-| ---------------------- | --- | ----------------------------------- | --- | --- |
-| e)   Ganga's effort    |     | e)   could not reach school on time |     |     |
-f)   Ganga requested to the VDC   f)   helps like mother in need
-g)   Ganga had not worked  g)   made drinking water available
+| Group A | | Group B | | |
+| a) Children | | a) did not like to migrate | | |
+| b) The villagers | | b) Ganga became sad | | |
+| c) For not being able to | | c) for drinking water | | |
+give water to guest
+| d) The true earning  | | d) for her name | | |
+| e) Ganga's effort | | e) could not reach school on time | | |
+f) Ganga requested to the VDC f) helps like mother in need
+g) Ganga had not worked  g) made drinking water available
 in Suntale village
 Moral Education, Class -8 63
-
 4. Write short answers:
 a) Why can't children reach school on time?
 b) Why didn't the villagers like to migrate?
@@ -1991,7 +1845,7 @@ two groups. One of the groups tells the problems of the village and
 the next group gives their solutions.
 There is a beautiful village. The village is surrounded by a paddy field.
 Since the village is in the middle of the field, people call it Majhgaun
-(village in the middle). The villagers have made an irrigation channel
+village in the middle). The villagers have made an irrigation channel
 from a nearby river to irrigate their field. There is good provision
 of water in the channel. A group of people claim that they had put
 more effort while making the channel. So, they are supposed to get
@@ -2007,29 +1861,24 @@ c) Visit any three hardworking and dedicated members of three different
 families. Ask them what they are planning to do with the money they
 have saved. Prepare a table as given below and present in the class:
 64 Moral Education, Class -8
-
-    Name of the neighbour: ____________________________________
-    Plans made to do with the saved money: _____________________
-     _________________________________________________________
-    In your opinion that plan is:
-|     a)  | Excellent   (     )           c) Very good   (     ) |                             |
-| ------- | ---------------------------------------------------- | --------------------------- |
-|     b)  | Good      (     )              d) Average (     )    |                             |
-|     c)  | General  (    )                                      |     f) Wrong/Bad  (       ) |
-    Reason: _____________________________________________
-|        | _____________________________________________________ |     |
-| ------ | ----------------------------------------------------- | --- |
+Name of the neighbour: ____________________________________
+Plans made to do with the saved money: _____________________
+_________________________________________________________
+In your opinion that plan is:
+| a)  | Excellent ( ) c) Very good ( ) | |
+| b)  | Good ( ) d) Average ( ) | |
+| c)  | General  ( ) | f) Wrong/Bad  ( ) |
+Reason: _____________________________________________
+| | _____________________________________________________ | |
 6.  Is there any problem of drinking water in your village, community or
-  neighborhood? If yes, what can be done to solve that problem? Give your
-  ideas.
+neighborhood? If yes, what can be done to solve that problem? Give your
+ideas.
 7.  In the future, how will you spend your saved money? Write with
-  reasons.
+reasons.
 8.  Write a dialogue on "Proper Use of Water".
 Moral Education, Class -8 65
-
 Lesson
 A Story of Five Brothers
-3
 Expected Behavior:
 to work in a group (collectively) for success.
 to work with collective feelings.
@@ -2059,7 +1908,6 @@ titude and behaviors the students have developed in them after listening to the 
 Ask them to tell any work that they had done in the group and also ask them to clarify
 what they learned from such works
 66 Moral Education, Class -8
-
 decided to ask about the reason behind their father's complaint. First of
 all, the thumb (budhi) finger asked for the reason why he was not good.
 Father answered"you are old, you can't do anything".The thumb finger was
@@ -2100,7 +1948,6 @@ short and I am groundless, how can I do all this? I will remain isolated".
 Hearing the youngest son, father horridly replied."Don't say so, my dear
 son! If you remain isolated the bird will fly away from that corner of the
 Moral Education, Class -8 67
-
 fist. How can we get such bird back again?" As per the request of the palm
 all the fingers tightly kept the bird trapped with them. Father could sell the
 bird in good money because of their support.
@@ -2131,7 +1978,6 @@ in a society and female should not make a group. We can get
 inspiration from the story and even we girls can work collectively
 and get success in our work.
 68 Moral Education, Class -8
-
 Jayanti: I think there should be equal role and leadership in a family,
 group, and society. The story is beautiful and it has given us a
 deep thought.One who is taking leadership should not take the
@@ -2163,7 +2009,6 @@ i) give ii) don't give
 e) I .............................................. leadership to take the group ahead.
 i) take ii) don't take
 Moral Education, Class -8 69
-
 2. Correct the following wrong statements and read the corrected ones a loud.
 a) It is easy to work in a group.
 b) We don't get success in a group work.
@@ -2195,7 +2040,6 @@ vii) Religious Club viii) Youth Club ix) Village Development Club
 c) Write an article on "Benefits of Group Work" and show it to your
 teacher.
 70 Moral Education, Class -8
-
 Unit
 Five Discipline and Positive Thinking
 Learning Achievement:
@@ -2203,10 +2047,8 @@ to develop an attitude of positive thinking
 to implement the aspects of positive thinking in practice
 to apply the self- reliant skills through positive thinking.
 Moral Education, Class -8 71
-
 Lesson
 Regret
-1
 Expected Behavior:
 to identify the potential of one's self.
 to work selflessly with full devotion.
@@ -2216,7 +2058,7 @@ to control anger and be patient.
 to transfer positive thinking and behavior.
 Two hours have already elapsed, I could not sleep. In other days by this
 time, I used to be in a deep sleep. I would have already fallen asleep, if the
-incident had not taken place during the day. (Nabindra changes his side)
+incident had not taken place during the day. (Nabindra changes his side
 Actually, I was partly wrong in that case. It is quite common that there
 can be some faults and disputes while playing with friends. I should have
 tolerated even if others quarrelled. Everyone used to tell me I was tolerant.
@@ -2234,7 +2076,6 @@ incidents.
 At the end of the story, evaluate the students whether they could achieve as mentioned in
 expected outcomes, learning achievements of the lesson and give them feedback.
 72 Moral Education, Class -8
-
 I should not have gone to fight just because our opponent friends cheated
 to get higher score. I should have pointed out their faults and started to
 play again. I should not have kicked them that way. I was also beaten up by
@@ -2257,7 +2098,7 @@ devotion to the work in our opponent
 team who tried to win the game by
 cheating nor in ours. Yes, it is true.
 If we are not devoted to any work it
-is better not to begin that. (he changes his side again)
+is better not to begin that. (he changes his side again
 Our referee, Amrit brother tried to stop us from fighting. I was impulsive
 at that time and said something bad to him. Of course, I had heard that
 educated people must be polite. I have seen such examples but I forgot all
@@ -2276,7 +2117,6 @@ have been quiet. Those who are envious to others' success, they can never
 do any progress. It's over now. I would not be envious. I would rather take
 inspiration and do something good. Some of the friends of opponent team
 Moral Education, Class -8 73
-
 beat me. I can take revenge of that. Oh! That is very bad habit. If I start
 working with the sense of revenge, everyone will be my enemy. I will never
 do such things. I would follow the path of forgiveness and eventually they
@@ -2310,7 +2150,6 @@ a) Among the friends a) better not begin the work.
 b) People b) tell everyone
 c) Those who have no devotion c) there was a football match
 74 Moral Education, Class -8
-
 d) Good things d) have to suffer
 e) Those who do not improve themselves e) should not be selfish
 f) should be selfish
@@ -2341,7 +2180,6 @@ members of that family used to go to work. The youngest son used
 to go to school. He used to argue with the parents for not giving him
 to eat in the plate he liked most. He used to push his friends while
 Moral Education, Class -8 75
-
 coming out of the class after the bell. He used to arrive school late
 and fight with other students for not getting chance to sit on the place
 he preferred. He used to play during the tiffin time and whenever
@@ -2362,10 +2200,8 @@ to control anger and present to your teacher.
 foundation of any game". Also manage some encouragement awards/
 prizes for those who stand the first, second, and the third students.
 76 Moral Education, Class -8
-
 Lesson
 Inner Eyes
-2
 Expected Behavior:
 to identity one's potential ability and capacity.
 to develop positive thinking.
@@ -2392,7 +2228,6 @@ Make a list of qualities needed for the development of positive thinking (eg. im
 no greed etc.) and paste in classroom, then inspire your students to follow this.
 Inspire your students to make a list of personalities having positive thinking.
 Moral Education, Class -8 77
-
 throw the good things away with bad. But, we have to
 separate good from bad. There is good and bad everywhere.
 It depends on our perception.
@@ -2417,7 +2252,6 @@ impartiality in us. We have to recognize the value of others'
 labors. We should not be indulged in greed. We have to think
 that I have some weaknesses too, I may make mistakes. We
 78 Moral Education, Class -8
-
 must know the details about the things before we take it
 negatively. If anyone has done something wrong we must
 identify the cause behind it at first. If it is done, we can
@@ -2456,7 +2290,6 @@ community, and the nation. In such situation, our way of
 seeing becomes one-sided. We think whatever we say is right.
 This is the result of our negative thought.
 Moral Education, Class -8 79
-
 Kailash: I don't like some of my classmates. Is it the result of my
 negative thinking, grandmother?
 Grandmother: Yes. You only thought negative about them and you saw them
@@ -2486,80 +2319,65 @@ events, we can bring positive change in our thought and action. Positive
 thought and action is needed everywhere.
 Exercise:
 1. Put () mark for the right statement and () for the wrong ones.
-a) We have to throw good with bad. ( )
-b) Our thoughts are guided by our ways of seeing ( )
-c) We have to think that we may have some weaknesses, too. ( )
-d) Inner eyes help us to identify our inner potential. ( )
+a) We have to throw good with bad.
+b) Our thoughts are guided by our ways of seeing
+c) We have to think that we may have some weaknesses, too.
+d) Inner eyes help us to identify our inner potential.
 80 Moral Education, Class -8
-
-  (e)   If we are unable to understand ourselves, we will be weak. (       )
-|   (f) Everyone should say, 'I am right'.               |     |     |     | (  ) |
-| ------------------------------------------------------ | --- | --- | --- | ---- |
-|   (g)  Everyone should see everyone else positively.   |     |     |     | (  ) |
+e) If we are unable to understand ourselves, we will be weak.
+| (f) Everyone should say, 'I am right'. | | | | (  ) |
+| (g)  Everyone should see everyone else positively. | | | | (  ) |
 2.  Evaluate Yourself:
-  a)  I ____ every individual, work and event positively.
-|      i) see    |     | ii) don't see |     |     |
-| -------------- | --- | ------------- | --- | --- |
-  b)  I _____ others' good and bad with my inner eyes.
-|     i) see  |     | ii)don't see |     |     |
-| ----------- | --- | ------------ | --- | --- |
-  c)  I _________ the habit of discriminating others.
-|     i) have   |     | ii) don't have |     |     |
-| ------------- | --- | -------------- | --- | --- |
-  d) I _________ to work making my inner potential active.
-|     i) want  |     | ii) don't want |     |     |
-| ------------ | --- | -------------- | --- | --- |
-  e)  I ______ importance to others' good work.
-|     i) give    |     | ii) don't give |     |     |
-| -------------- | --- | -------------- | --- | --- |
-  f)  I ________ my way of seeing and doing one-sided.
-|     i) make     |     | ii) don't make |     |     |
-| --------------- | --- | -------------- | --- | --- |
-  g)  I ______ updated about the positive things that are going on in a
-    family, society and nation.
-|     i) remain  |     | ii) don't remain |     |     |
-| -------------- | --- | ---------------- | --- | --- |
-  h) I ________ criticize others by showing their weaknesses.
-|     i) always   |     | ii) don't |     |     |
-| --------------- | --- | --------- | --- | --- |
+a)  I ____ every individual, work and event positively.
+| i) see | | ii) don't see | | |
+b)  I _____ others' good and bad with my inner eyes.
+| i) see  | | ii)don't see | | |
+c)  I _________ the habit of discriminating others.
+| i) have | | ii) don't have | | |
+d) I _________ to work making my inner potential active.
+| i) want  | | ii) don't want | | |
+e)  I ______ importance to others' good work.
+| i) give | | ii) don't give | | |
+f)  I ________ my way of seeing and doing one-sided.
+| i) make | | ii) don't make | | |
+g)  I ______ updated about the positive things that are going on in a
+family, society and nation.
+| i) remain  | | ii) don't remain | | |
+h) I ________ criticize others by showing their weaknesses.
+| i) always | | ii) don't | | |
 3.  Write Short Answers:
-  a)  How do you define negative thinking?
-  b)  What is positive thinking?
-  c)  What type of thought is generated from discriminating nature?
-  d) How can the inner eyes be identified?
+a)  How do you define negative thinking?
+b)  What is positive thinking?
+c)  What type of thought is generated from discriminating nature?
+d) How can the inner eyes be identified?
 Moral Education, Class -8 81
-
-  e)  What is the reason behind a man being cheated?
-  f)  What type of person is hard to find?
-  g)  In what case do our ways of seeing and speaking become one-sided?
-  h) What should be done to eradicate pessimistic idea?
-  i)  What did you learn from Kailash's grandmother?
+e)  What is the reason behind a man being cheated?
+f)  What type of person is hard to find?
+g)  In what case do our ways of seeing and speaking become one-sided?
+h) What should be done to eradicate pessimistic idea?
+i)  What did you learn from Kailash's grandmother?
 4.  Summarize the lesson in your own words.
 5.  What is the essence of grandmother's teachings to her grandson?
 6.  Do the followings:
-  a.  Take a role play to read the lesson (one- grandmother and next:
- Kailash) and others listen carefully.
-  b.  Divide your class into two groups. One of the  groups make a list of
+a.  Take a role play to read the lesson (one- grandmother and next:
+Kailash) and others listen carefully.
+b.  Divide your class into two groups. One of the  groups make a list of
 positive points and another negative points from the lesson  present
 them in classroom.
-  c.  Write about any positive work done by a person of you family, locality
- or neighborhood.  Write about good works that you can do by yourself.
-  d.  Give two suggestions for each of the following cases:
-    i)   One who doesn't go to school and plays throughout the day.
-|             | i) _____________                        |   2) ______________ |
-| ----------- | --------------------------------------- | ------------------- |
-|      ii)    | One who gives interest in others' work. |                     |
-|             | 1) _____________                        |   2) ______________ |
-     iii)   One who shares a family's internal matter to others.
-|        | 1) _____________  |   2) ______________ |
-| ------ | ----------------- | ------------------- |
-     iv)   One who always complains for not being able to do any work.
-|           | 1) _____________                  |   2) ______________ |
-| --------- | --------------------------------- | ------------------- |
-|      v)   | One who interrupts a busy person. |                     |
-|           | 1) _____________                  |   2) ______________ |
+c.  Write about any positive work done by a person of you family, locality
+or neighborhood.  Write about good works that you can do by yourself.
+d.  Give two suggestions for each of the following cases:
+i) One who doesn't go to school and plays throughout the day.
+| | i) _____________ | 2) ______________ |
+| ii) | One who gives interest in others' work. | |
+| | 1) _____________ | 2) ______________ |
+iii) One who shares a family's internal matter to others.
+| | 1) _____________  | 2) ______________ |
+iv) One who always complains for not being able to do any work.
+| | 1) _____________ | 2) ______________ |
+| v) | One who interrupts a busy person. | |
+| | 1) _____________ | 2) ______________ |
 82 Moral Education, Class -8
-
 Lesson
 3 Excess of Anything is Destructive
 Expected Behavior:
@@ -2587,7 +2405,6 @@ not desire the unnecessary things.
 Ask them to tell short stories about an incident where they were held back by their
 arrogance and inspire them to be polite and humble.
 Moral Education, Class -8 83
-
 hard and eventually entered the orchard. He was very happy to find all the
 ripe fruits in the orchard. It was night time, so there was complete stillness.
 The fox moved around the orchard and ate sweet fruits of his choice. He
@@ -2627,7 +2444,6 @@ keep on moving here and there. As our mind keeps on flying or moving at
 a high speed like a rath (chariot) we can use the term Manorath (chariot of
 our mind). We can control our desires by controlling that manorath so that
 84 Moral Education, Class -8
-
 our mind can concentrate only on those needs that can be and need to be
 fulfilled. This is the only way to get pleasure happiness and satisfaction.
 Uncontrolled desires and the greed for unattainable desires make people
@@ -2668,7 +2484,6 @@ is also like a poison. Like
 desires, there are impulses
 that are generated in our mind.
 Moral Education, Class -8 85
-
 They remain active all the time. They try to come out in different forms.
 If they are notchanneled, they will harm us. Anger is one such impulse. If
 we make cool down our anger we can prevent the harm it causes. One who
@@ -2700,7 +2515,6 @@ e) I __________ vanity is a cause of destruction.
 i) think ii) don't think
 f) I ______ jealous by seeing others' success.
 86 Moral Education, Class -8
-
 i) become ii) don't become
 g) Other people __________ me angry.
 i) tell ii) never tell
@@ -2724,32 +2538,29 @@ e) One's progress or degeneration is determined by his/her deeds.
 f) Jealousy and anger are as bad as poison.
 g) We have to be a real human.
 4. Fill in the blanks:
-a) The fox ____ due to over greed. ( could run away/ could not run away)
-b) People have _______desires. ( two/unlimited)
-c) There are _____ types of needs. ( two/three)
+a) The fox ____ due to over greed. ( could run away/ could not run away
+b) People have _______desires. ( two/unlimited
+c) There are _____ types of needs. ( two/three
 Moral Education, Class -8 87
-
-  d) Overambitious people are .................................... (happy/unhappy)
-  e)  It is difficult the arrogant to get  ........................ . (success/failure)
+d) Overambitious people are .................................... (happy/unhappy
+e)  It is difficult the arrogant to get  ........................ . (success/failure
 5.  Do the followings.
-  a)  Discuss the moral of the story and tell the conclusion to your teacher.
-  b) Put a () mark for the people you like and a () mark to
-    for those you don't like.
-|     i.     | Those who are too greedy.                    |          |   [  | ]   |
-| ---------- | -------------------------------------------- | -------- | ---- | --- |
-|     ii.    | Having desires that can be fulfilled. [      |          | ]    |     |
-|     iii.   | Try to meet the unlimited wants. [    ]      |          |      |     |
-|     iv.    | Try to go ahead by dominating others. [    ] |          |      |     |
-|     v.     | Do not show arrogance. [                     | ]        |      |     |
-|     vi.    | Celebrate in others' success. [   ]          |          |      |     |
-|     vii.   | Short tempered.                              |    [   ] |      |     |
-|     viii.  | Laugh at others' weakness. [   ]             |          |      |     |
-|     ix.    | Work as per their capacity. [    ]           |          |      |     |
-|     x.     | Talk positive things.                        | [    ]   |      |     |
-  c)  Write about a person who has got success or downfall himself/herself
-    due to his/her own deeds and present in your classroom.
-  d) What do you do to score as expected in your examinations?
-  e)  What does the proverb: "Anger kills you whereas wisdom kills others"
-    teach us? Discuss among your friends.
-| 88  |     |     | Moral Education, Class -8 |     |
-| --- | --- | --- | ------------------------- | --- |
+a)  Discuss the moral of the story and tell the conclusion to your teacher.
+b) Put a () mark for the people you like and a () mark to
+for those you don't like.
+| i. | Those who are too greedy. | | [  | ] |
+| ii. | Having desires that can be fulfilled. [ | | ] | |
+| iii. | Try to meet the unlimited wants. [ ] | | | |
+| iv. | Try to go ahead by dominating others. [ ] | | | |
+| v. | Do not show arrogance. [ | ] | | |
+| vi. | Celebrate in others' success. [ ] | | | |
+| vii. | Short tempered. | [ ] | | |
+| viii.  | Laugh at others' weakness. [ ] | | | |
+| ix. | Work as per their capacity. [ ] | | | |
+| x. | Talk positive things. | [ ] | | |
+c)  Write about a person who has got success or downfall himself/herself
+due to his/her own deeds and present in your classroom.
+d) What do you do to score as expected in your examinations?
+e)  What does the proverb: "Anger kills you whereas wisdom kills others"
+teach us? Discuss among your friends.
+| 88  | | | Moral Education, Class -8 | |

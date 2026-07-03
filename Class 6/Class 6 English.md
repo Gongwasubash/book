@@ -1,1806 +1,43 @@
-English
-Grade 6
-Government of Nepal
-Ministry of Education, Science and Technology
-Curriculum Development Centre
-Sanothimi, Bhaktapur
+---
+title: "English"
+grade: 6
+language: english
+subject: "English"
+publisher: "Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre"
+location: "Sanothimi, Bhaktapur"
+edition: "2021 AD"
+---
 
-Publisher: Government of Nepal
-Ministry of Education, Science and Technology
-Curriculum Development Centre
-Sanothimi, Bhaktapur
-© Curriculum Development Centre
-All rights reserved. No part of this publication may be reproduced or transmitted in any
-other form or by any means without the written permission of the pubisher. However, this
-does not prohibit making copies of its pages for teacher training or other not-profit making
-purposes.
-First Edition: 2021 AD
-Send your comments and suggestions to:
-Curriculum Development Centre
-Phone: 01-6630588
-Fax: 01-6630797
-Email: cdc@ntc.net.np
-Website: moecdc.gov.np
+# English — Grade 6
 
-Preface
-The amendment of the curriculum and textbook is a regular process. The curriculum
-and the textbook of English have been amended several times to incorporate the latest
-developments in the field of English Language Teaching. Catching up with the same
-trend, this textbook has been developed based on the Basic Level Education (Grade
-6-8) Curriculum, 2077 that is developed as per the guidelines of National Curriculum
-Framework 2076.
-This textbook, initially written by Prof. Dr. Arun Gupto, Mr. Khagendra Prasad Nepal,
-Mr. Sedunath Dhakal and Mr. Shankar Paudel, has been revised by a team of experts -
-Dr. Gopal Prasad Pandey, Mr. Shankar Adhikari, Mr. Nabin Kumar Khadka, Mr. Nim
-Prakash Singh Rathaur, Mr. Parshu Ram Tiwari, Mr. Raju Shrestha, Mr. Pashupati
-Pandey and Mr. Ananda Dhungana. The textbook was piloted for the whole year in 2077
-BS and the revision has been made on the basis of feedback and comments received
-from school teachers. Comments from other stakeholders have also been included in
-the textbook. Several people notably – Mr. Ana Prasad Neupane, Mr. Keshab Prasad
-Dahal, Prof. Dr. Bal Mukunda Bhandari, Dr. Ganga Ram Gautam, Ms. Rani Jha,
-Mr. Purna Bahadur Lamichhane, Mr. Mahendra Kumar Shrestha, Mr. Tuka Raj Adhikari
-and Mr. Madhav Prasad Ghimire have contributed a lot in bringing out the book in this
-form. The illustrations are done by Mr. Dev Koimee and the layout design by Mr.
-Khados Sunuwar and Mr. Santosh Kumar Dahal. The Curriculum Development Centre
-extends sincere gratitude to all of them. The Centre would also like to acknowledge all
-the sources where the texts and tasks are retrieved from and adapted.
-Considerable efforts have been made to make the book activity-oriented, useful and
-interesting for all the learners, however, teachers can adapt the tasks as per the need
-and context of their students. This textbook can be used as the primary resource for
-classroom teaching but teachers are encouraged to make use of their own resources to
-supplement the language learning of students. If used in the right way and as intended,
-this learning tool should help students achieve the competencies and the learning
-outcomes outlined in the curriculum.
-Curriculum Development Centre always welcomes constructive feedback for the
-betterment of its publications.
-2021 AD Curriculum Development Centre
-Sanothimi, Bhaktapur
+> **Publisher:** Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre
+> **Location:** Sanothimi, Bhaktapur
 
-egaP
-| 1   |     | 11  | 12  |     | 23  | 04  | 25  |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-kram noitseuQ
-| noitasilatipaC |     |     |  ,lliw :sladoM |     |     |     |     |     |
-| -------------- | --- | --- | -------------- | --- | --- | --- | --- | --- |
-tsap ralugerrI
- ,nac ,dluow
- evitcelloC
-tib artxE
-|     |     | pots lluF |     |        | ammoC |     |     |       |
-| --- | --- | --------- | --- | ------ | ----- | --- | --- | ----- |
-|     |     |           |     | .dluoc |       |     |     | snuon |
- eht tuo gnitcA
-| krow tcejorP |     |     |     |     |  tes a gniwarD |  tsil a gnikaM snoitseggus fo |     |     |
-| ------------ | --- | --- | --- | --- | -------------- | ----------------------------- | --- | --- |
- noitartsiger  a gniraperP
-|     |     |     |  gniraperP |     | serutcip fo |     |     |     |
-| --- | --- | --- | ---------- | --- | ----------- | --- | --- | --- |
- ni gnilliF  tneduts a
- fo tsil a sdnamed
-eliforp
-mrof
-yalp
- a rof noitacilppA
-|     |                 |                 |     |                 |  tuoba hpargaraP |               |  selur eht gnitsiL |     |
-| --- | --------------- | --------------- | --- | --------------- | ---------------- | ------------- | ------------------ | --- |
-|     | snoitalutargnoc | selur moorssalC |     | eugolaid nekorb |                  |               |                    |     |
-|     |                 | rettel lanosreP |     |  a gnitelpmoC   |                  |  a gnitelpmoC | yrots noteleks     |     |
- gnisarhparaP
-|     |  fo egasseM |     |     |     |     |     |     | llabyellov fo |
-| --- | ----------- | --- | --- | --- | --- | --- | --- | ------------- |
-yhpargoiB
-|     |     |     |     | evael kcis |     | secnetnes |     | hpargaraP |
-| --- | --- | --- | --- | ---------- | --- | --------- | --- | --------- |
-lavitsef a
-gnitirW
-stnetnoC fo elbaT
- elpmis tneserP
- ,lliw :sladoM
-|     |     |     |     |     |     |     |  :sevitcennoC |  dna esuaceb |
-| --- | --- | --- | --- | --- | --- | --- | ------------- | ------------ |
- ,nac ,dluow
-|     |     |     |     |     | evitarepmI | lanoitidnoc |     | fo esuaceb |
-| --- | --- | --- | --- | --- | ---------- | ----------- | --- | ---------- |
-rammarG
-noitseuq
-|     |     |  on/seY |     |     |     |  2 epyT |     |     |
-| --- | --- | ------- | --- | --- | --- | ------- | --- | --- |
-dluoc
-'eb'
- a fo noitpircseD
-tnemecnuonnA
-| noitasrevnoC |     |     | noitasrevnoC |     |     | noitasrevnoC |     |     |
-| ------------ | --- | --- | ------------ | --- | --- | ------------ | --- | --- |
-noitanalpxE
-gninetsiL
-lavitsef
-|  gnicudortnI |     |                          |                        |            | sehsiw doog |             |             | snosaer htiw |
-| ------------ | --- | ------------------------ | ---------------------- | ---------- | ----------- | ----------- | ----------- | ------------ |
-|              |     |  ,rof gniksA  dna gnivig | noissimrep  gnitseuqeR | gnidnopser |  gnisserpxE | snoitseggus |  gnisserpxE |              |
-gnikaepS
-|     |     |  gniyned |     |     |     |     |     |  noitnetni |
-| --- | --- | -------- | --- | --- | --- | --- | --- | ---------- |
- gnikaM
-srehto
- dna
- ruO :llabyelloV(
- .S.T( yhpargoiB )emaG lanoitaN
-|     |     | snoitalutargnoc            |  ytuaeB( yrotS |                |     |             |             |     |
-| --- | --- | -------------------------- | -------------- | -------------- | --- | ----------- | ----------- | --- |
-|     |     | )seluR elpmiS  erehW( meoP | )staoB eht oG  | )tsaeB eht dna |     |  oG syeknoM |  moT( amarD |     |
- eerhT( yrotS  noitacilppA  txet lautcaF  fo slavitseF(  txet lautcaF  txet lautcaF
-|     |  fo egasseM |     |     |     |     |  ehT( yrotS |  fo yrotsiH( )sretupmoc |     |
-| --- | ----------- | --- | --- | --- | --- | ----------- | ----------------------- | --- |
- eht stniaP
-| gnidaeR |     |     |     |     |        | )gnitsaF |     |        |
-| ------- | --- | --- | --- | --- | ------ | -------- | --- | ------ |
-|         |     |     |     |     | )lapeN |          |     | )ecneF |
-)toilE
-rettel
-tinU
-| 1   |     | 2   | 3   |     | 4   | 5   | 6   |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+## Table of Contents
 
-|     |     |     |     |     |     |     |     |     | 501 | 711 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 36  |     | 27  |     |     | 38  | 49  |     |     |     |     |
- ,tsum ,ot evaH
-|     |     |  lacitebahplA |     |     |     |     |     |     | I ssalc droW | II ssalc droW |
-| --- | --- | ------------- | --- | --- | --- | --- | --- | --- | ------------ | ------------- |
-sevitcejdA
- fo sdniK secnetnes
-dluohs
-redro
- no snoitaluger
- fo noitcelloC
-|              |            |     |          |     |                           |            | repap trahc a |     |  dna serutcip |             |
-| ------------ | ---------- | --- | -------- | --- | ------------------------- | ---------- | ------------- | --- | ------------- | ----------- |
-|  a gniraperP |            |     |          |     |  a gniraperP  ro eruhcorb |            |               |     |               |  na gnitirW |
-|              | koob parcs |     |          |     |                           |  gniraperP |               |     | gnibircsed    |             |
-|              |            |     |          |     |                           |            |  dna selur    |     |  gniwarD      |             |
-|              |            |     | serutcip |     |                           |            |  fo tsil a    |     |               |             |
-|              |            |     |          |     |                           | telfael    |               |     |               | liame       |
- na fo noitpircseD
-|     |     |     |     |     |     |     | snoitaluger dna |     |     | /rettel ygolopA |
-| --- | --- | --- | --- | --- | --- | --- | --------------- | --- | --- | --------------- |
- fo tnuocca nA
- selur fo tes A
-|           |     |     | stibah tsap |     | noitpircseD |     |     |     | noitpircsed |     |
-| --------- | --- | --- | ----------- | --- | ----------- | --- | --- | --- | ----------- | --- |
-| hpargaraP |     |     | hpargaraP   |     | hpargaraP   |     |     |     |             |     |
- erutciP
-tcejbo
-liame
-|     | erutuf ot gnioG |     |     |     | evitalrepus dna |     |     |     |     |     |
-| --- | --------------- | --- | --- | --- | --------------- | --- | --- | --- | --- | --- |
- tsum ,ot evah
-| erutuf elpmiS |     |     |     |     |  evitarapmoC |     |     |     |     |     |
-| ------------- | --- | --- | --- | --- | ------------ | --- | --- | --- | --- | --- |
- ,ot dewolla
-|     |     |         | elpmis tsaP |     |     |  eb ,dluohs |     |     | suounitnoC |          |
-| --- | --- | ------- | ----------- | --- | --- | ----------- | --- | --- | ---------- | -------- |
-|     |     |         |             |     |     |             |     |     | eht ,na/A  | noitageN |
-|     |     | ot desU |             |     |     |             |     |     |  tneserP   |          |
-troper rehtaeW
-|     |     |             |     |     | noitasrevnoC | noitasrevnoC |     |     |             |     |
-| --- | --- | ----------- | --- | --- | ------------ | ------------ | --- | --- | ----------- | --- |
-|     |     | noitpircseD |     |     |              |              |     |     | noitpircseD |     |
- dedroceR
-egassem
-|            |     |             |             |     | snosirapmoc |             | snoitibihorp |     |                         | gnisigolopA |
-| ---------- | --- | ----------- | ----------- | --- | ----------- | ----------- | ------------ | --- | ----------------------- | ----------- |
-|            |     |  gnibircseD |             |     |             |  gnisserpxE |  snoitagilbo |     |  gnibircseD  dna secalp |             |
-| gnitciderP |     |             | stibah tsap |     |             |             |              |     |                         |             |
-|            |     |             |             |     |  gnikaM     |             |              |     |  ,elpoep                |             |
-stcejbo
- dna
- seluR( eruhcorB )ygolopA( retteL
-tsacerof rehtaeW  ,woN dna nehT  txet evitpircseD  tuoba stcaf nuF  fo ssenevigroF(
-|  namuH( yassE |              |            |              |  A :knarF ennA |             |           |                              |          |  eliboM( yassE | senohp elibom |
-| ------------- | ------------ | ---------- | ------------ | -------------- | ----------- | --------- | ---------------------------- | -------- | -------------- | ------------- |
-|               | )tnemnorivnE |            |              |                |             |           |  ta senilediuG  noitasrevnoC |          |  sesU :senohP  |               |
-|               |              |            |              |                |             |           | )ooZ lartneC                 |          | )sesubA dna    |               |
-|               |              |            |  :nuagiriaG( |                | )ekaL araR( | uneM dooF |  ytefaS dna                  |          |                |               |
-|               |              |  evitarraN |              | )efiL trohS    |             |           |                              |  )muesuM |                |               |
- ta seluR( )gniK eht
- eht dna
- yrotS
-| 7   |     | 8   |     |     | 9   | 01  |     |     | 11  | 21  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| S.No. | Title |
+|-------|-------|
+| 3 | [It acts like a barrier.  1.  enjoyable](#ch-3) |
+| 10 | [The family went into hiding in “The Secret Annex” — a part of Mr.](#ch-10) |
+| 1 | [Not common 2. Give permission](#ch-1) |
+| 6 | [To keep in good condition 5. Very old](#ch-6) |
+| 8 | [The place where historic items are kept 7. Destroy](#ch-8) |
+| 2 | [Heating I agree the flat can be cold in winter. I lived there myself](#ch-2) |
 
-| 821 | 831 | 741 | 651 |     | 661 | 771 |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-681
-sesnet tnereffid
- ni smrof breV
- ,thgim ,yaM
-|     |  drowitluM |     | stnanosnoC |     |     |     |     |
-| --- | ---------- | --- | ---------- | --- | --- | --- | --- |
- evixelfeR
-|     |  nommoC |     |     |     |     | snuonorp |     |
-| --- | ------- | --- | --- | --- | --- | -------- | --- |
-slewoV
-sbrev tsum
-gnitirw tropeR
-|               |              |  krow erutciP |  a rof serutcip |     |     |              |     |
-| ------------- | ------------ | ------------- | --------------- | --- | --- | ------------ | --- |
-| yrots erutcip |              | )stnemurtsni  |                 |     |     |              |     |
-|  a gniraperP  |  a gniraperP |               |                 |     |     |  a gniraperP |     |
-|               |              |  lacisum(     |  gniwarD        |     |     | hparg rab    |     |
-tsil ecirp
-yrots
- rab a gnibircseD
- a gnitelpmoC yrots noteleks
-|  gniredroeR  ot secnetnes | yrots a ekam |           |                      |     |  gnitelpmoC |     |     |
-| ------------------------- | ------------ | --------- | -------------------- | --- | ----------- | --- | --- |
-|                           | noitpircseD  |           |                      |     |  noteleks a |     |     |
-|                           | hpargaraP    | hpargaraP |  evitarraN hpargarap |     |             |     |     |
-eugolaid eugolaiD
-hparg meoP
-|  ,ecnis ,esuaceb |               |               | suounitnoc tsaP |     | suounitnoc tsaP |             |     |
-| ---------------- | ------------- | ------------- | --------------- | --- | --------------- | ----------- | --- |
-|                  | nuon nommoC   |  :sbrev ladoM |                 |     |                 |             |     |
-|  :sevitcennoC    | fo esuaceb sa |               | erutuf elpmiS   |     |                 |             |     |
-|                  |               |  ,thgim yam   |                 |     | tcefreP tsaP    | noitseuq hW |     |
-|                  |               |               | elpmis tsaP     |     | elpmis tsaP     |             |     |
-tsum
-weivretni oidaR
-| noitasrevnoC |     |     |     |     | noitasrevnoC | noitasrevnoC |     |
-| ------------ | --- | --- | --- | --- | ------------ | ------------ | --- |
-snoitcurtsnI
-tsil ecirP
-|     |     |     |  fo ecneuqes |     |  dna esirprus |  noitamrofni |     |
-| --- | --- | --- | ------------ | --- | ------------- | ------------ | --- |
- gnisserpxE  gnisserpxE snaicisuM( yrotS  fo seerged ytilibaborp  a gnitarraN  gnisserpxE  rof gniksA snosaer dna
- dna stinu seititnauq
- gnitatS
-| ytiliba |     |     |     |     | yamsid |     |     |
-| ------- | --- | --- | --- | --- | ------ | --- | --- |
-stneve
- ybaB ehT( yrotS
-|     |     |     |  ni ramU( yrotS |     |     |  no erutidnepxE(  dna sretupmoC |     |
-| --- | --- | --- | --------------- | --- | --- | ------------------------------- | --- |
-tnemesitrevdA  eht dna worrA  alekaS( yassE  mlaP A( yrotS  sgaB akiruaG(  htruoF droceR
-)senohptramS
-noitasrevnoC
- ehT( meoP  yrots sweN
-|        |  nO( meoP  s'rehtonA |          |           | )lehkidnuT |         |        |       |
-| ------ | -------------------- | -------- | --------- | ---------- | ------- | ------ | ----- |
-|        | tsiL ecirP           |          | )esiugsiD |            |         |        |       |
-|        | )worroS              | )malI fo |           |            | )redaeR |        |       |
-| )liauQ |                      |          | )gnoS     |  ta iliS   |         |  trahC | )dloG |
-yrassolG
-| 31  | 41  | 51  | 61  |     | 71  | 81  |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+---
 
-Unit
-1
-Getting started
-A. Look at the pictures and say who they are and what they do.
-B. Listen and sing.
-The writer writes and the poet sings
-The painter paints some beautiful things.
-The doctor heals and the lawyer appeals
-The pilot flies planes over the hills.
-1
-English Grade 6
+## 3: It acts like a barrier.  1.  enjoyable  {#ch-3}
 
-Teachers teach well, the drivers drive
-The actor makes some characters alive.
-The player plays and the dancers dance
-The merchant sells goods with good chance.
-All are busy throughout the days
-Or they wander through pleasant ways.
-Whatever they do, whatever befall
-The farmer must have fed them all.
-C. Who do you like most? Introduce him/her to your class.
-Reading I
-a. What does a poet do?
-b. Can you name some Nepali poets?
-c. Who is the man in the picture?
-T.S. Eliot
-T.S. Eliot is a great American-born English poet,
-playwright and literary critic. His full name was
-Thomas Stearns Eliot. He was born on September
-26, 1888 in Missouri to Henry Ware Eliot and
-Charlotte Champe Stearns.
-Eliot took his higher education at Smith
-Academy, the boys’ college preparatory division
-of Washington University from 1898 to 1905. He
-studied Latin, ancient Greek, French and German. He began to write
-2
-English Grade 6
-
-poetry when he was fourteen. His first published poem was “A Fable
-for Feasters”. It was written as a school exercise and was published in
-the Smith Academy Record in February 1905. He studied philosophy
-at Harvard College from 1906 to 1909. He completed B.A. in 1909 and
-M.A. the following year. He had also worked as a philosophy assistant
-at Harvard from 1909 to 1910. By 1916, he completed his PhD from
-Harvard.
-He suffered from hernia in his childhood. His parents hired an Irish
-nurse to look after him. His nurse was a catholic; this could have been a
-reason for his attachment and inclination towards Catholicism from his
-childhood. His writings are also deeply influenced by the Biblical stories,
-myths, and its teachings from the very time he adopted Catholicism.
-Eliot was one of the most influential poets of the 20th century. His
-writings brought a new wave in writing poetry. His first publication,
-The Love Song of J. Alfred Prufrock, is regarded as a masterpiece of
-the modernist movement. His other best-known poems in English
-language are: Gerontion (1920), The Waste Land (1922), The Hollow
-Men (1925), Ash Wednesday (1930), Old Possum’s Book of Practical
-Cats (1939), and Four Quartets (1945). He is also remembered as a
-great source of enlightenment in the light of religion for his seven
-plays, particularly Murder in the Cathedral (1935), The Cocktail
-Party (1949), and The Rock-a pageant play (1934). He became
-successful to give new height to the English poetry and other forms
-of writing. Eliot was awarded both the Order of Merit and the Nobel
-Prize for Literature in 1948.
-Leaving a strong landmark in English poetry and stirring influence on
-modern English literature, T.S. Eliot passed away on January 4, 1965
-in London.
-3
-English Grade 6
-
-A. Find the words in the text which mean the following.
-a. a person who writes drama or plays
-b. an outstanding piece of work
-c. followed
-d. an event marking a unique or important historical change
-e. died
-B. Read the text again and complete the table about Eliot’s life
-with correct information.
-Year Incident
-1888 AD
-1905 AD
-1909 AD
-1916 AD
-1948 AD
-1965 AD
-C. Answer the following questions.
-a. Where was T.S. Eliot born?
-b. Where did he take his higher education?
-c. What problem did he face in his childhood?
-d. What made him inclined towards Catholicism?
-e. What was Eliot’s first publication?
-f. List out the awards he got.
-D. Read the text again and make a list of Eliot's literary works.
-4
-English Grade 6
-
-Speaking
-A. Act out the following conversation.
-Tilak, she is Sonam.
-She lives in Helambu.
-She is an actor.
-Hello Sonam! He Hi, Tilak! Nice Hi, Sonam. Nice
-is Tilak. He lives to meet you. to meet you too.
-in Achham. He is a
-volleyball player.
-B. Make a group of three and introduce each other. Use the
-expressions like the following.
-a. Ritesh, please meet Sarita.
-b. Ritesh, have you met Sarita before?
-c. I’d like you to meet Nitesh.
-d. I’d like to introduce you to Lakpa.
-e. Sabir, this is Karina. Karina, this is Sabir.
-f. Nice to meet you.
-g. Pleased to meet you.
-h. How do you do?
-i. Happy to meet you.
-Listening
-A. Look at the picture and answer these questions.
-a. What are the children doing in the picture?
-5
-English Grade 6
-
-b.  Do you do the same? When?
-c.  How do you introduce yourself  to others?
- B.  Listen to the recording and tick the correct answer.
-| a.  Ranjan lives near the  | .                |             |
-| -------------------------- | ---------------- | ----------- |
-|   i. post office           | ii. bus station  | iii. school |
-b.  Both Ranjan and Manju read in grade .
-|   i. five                        | ii. six         | iii. seven        |
-| -------------------------------- | --------------- | ----------------- |
-| c.  Manju’s father teaches in a  |                 |  near their home. |
-|   i. campus                      | ii. university  | iii. school       |
-C.  Listen to the recording again and write True or False.
-a.  Manju and Ranjan were already good friends.
-b.  They introduced each other.
-c.  Ranjan's father is a businessman.
-d.  Both Manju and Ranjan were happy at the end.
-D.  Now, write about either Manju or Ranjan. Write as much
-information as you remember.
- Grammar
-A.  Complete these sentences from the text T.S. Eliot.
-| a.  T.S. Eliot  |  a great American-born Enslish poet. |     |
-| --------------- | ------------------------------------ | --- |
-b.  His other best known poems in English language
-Gerontion, The West Land and others.
-6
-English Grade 6
-
-B.  Look at the pictures and read.
-| She is a singer.  |     |     | They are children.      |     |     |
-| ----------------- | --- | --- | ----------------------- | --- | --- |
-| She is a student. |     |     | Mr. Sharma is a driver. |     |     |
-C.   Complete the sentences with is, am or are.
-| a.  Shikha and Tanuja  |            |                                  |  good friends.   |      |       |
-| ---------------------- | ---------- | -------------------------------- | ---------------- | ---- | ----- |
-| b.  Sandeep            |            |  a player. He plays cricket.     |                  |      |       |
-| c.  I                  |            |  the only child of my parents.   |                  |      |       |
-| d.  Ms. Singh          |            |  a teacher. She teaches English. |                  |      |       |
-| e.  Ms.                | Chaudhary  | works                            | in  an  office.  | She  |   an  |
-officer.
-| f.  The cows                       |     |  grazing in the field.     |        |                  |     |
-| ---------------------------------- | --- | -------------------------- | ------ | ---------------- | --- |
-| g.  I                              |     |  doing my homework.        |        |                  |     |
-| h.  These notebooks                |     |                            |  mine. |                  |     |
-| i.  This girl acts in movies. She  |     |                            |        |  a good actress. |     |
-| j.  Kaji                           |     |  a farmer. He grows crops. |        |                  |     |
-7
-English Grade 6
-
-Reading II
-a. Is the text a letter?
-b. When do you congratulate people?
-Congratulations!!!
-We would like to congratulate Ms. Shijan Tharu of Grade Six of
-our school for winning the Gandaki Province Level Essay Writing
-Competition on the title, My Parents: My Role Model. She has received
-a cash prize of NRs. 20,000 with a gold medal. She is a role model for
-all of us.
-Congratulations Shijan for your great achievement!
-Head Teacher
-&
-Saraswoti Secondary School Family
-A. Write the words from the text that have the following meanings.
-The first letter has been given.
-a. an expression of pleasure at the success or good fortune of a
-person C ...
-b. an occasion on which a winner is selected from among two
-or more contestants C ...
-c. taken something that has been offered R ...
-d. something that is obtained successfully A ...
-B. Ask questions to your friend. S/he must answer in short.
-a. Who is the winner of the Essay Writing Competition?
-b. In which class does Shijan study?
-c. What is the cash prize for the winner?
-C. Collect any two messages of congratulations from a newspaper/
-magazine and present them to your class.
-8
-English Grade 6
-
-Writing
-A. Write a short biography of Bal Krishna Sama using the given
-clues.
-Name : Bal Krishna Sama
-Real Name : Bal Krishna Shamsher Janga Bahadur Rana
-Date of Birth : Magh 24, 1959 BS (February 08, 1903)
-Birthplace : Gyaneshwor, Kathmandu
-Parents : Samar Shamsher Janga Bahadur Rana / Kirti Rajya
-Lakshmi Rana
-Early Life : Studied in Durbar High School, Rani Pokhari and I.
-Sc. from Tri-Chandra College, Ghantaghar
-Contribution : Wrote many stories, poems, essays, compositions and
-biographies
-: Known as one of Nepal’s greatest dramatists
-Literary works : Mutuko Byatha, Mukunda Indira, Pralhad, Andhabeg,
-Bhakta Bhanubhakta, Prempinda, Amar Singh,
-Swasni Manchhe, etc.
-Death : Saun 06, 2038 BS (June 20, 1981)
-B. Read the message in Reading II again and write a similar
-message of congratulations. Use the following clues.
-- name of your friend
-- his/her achievements
-- prize won
-- congratulations
-- name of your school
-9
-English Grade 6
-
-Project work
-Collect necessary information from your parents and fill in the
-school registration form.
-SHREE LAXMI SECONDARY SCHOOL
-P.O. Box: 4546, Kathmandu, Nepal
-E-mail:laxmiss@gmail.com
-PHOTO
-STUDENT REGISTRATION FORM
-Grade : ...........
-This form should be filled in BLACK.
-Please use BLOCK Letters.
-Student's Information (to be filled in by the student)
-Name:
-Date of Birth: Sex: (Circle) M F O
-Father's Name:
-Occupation: Tel:
-Mother's Name:
-Occupation: Tel:
-Guardian's Name:
-Occupation: Tel:
-Current Address:
-Permanent Address (if different):
-Extra bit: Capitalisation
-- We capitalise the names of people and places, including streets,
-planets, continents and countries. For example; The Earth is the
-third planet from the Sun. I met Ramhari on the way to school.
-- We capitalise days of the week, months and festivals, but not
-seasons. For example; His birthday party is on Sunday.
-- We capitalise titles and names of institutions. For example; I am
-reading War and Peace this week.
-- We capitalise the first letter of a sentence. For example; She has
-given me a book.
-10
-English Grade 6
-
-Unit
-2
-Getting started
-A. Look at the following pictures and say what is right and what
-is wrong in them.
-B. Listen and sing.
-Would it be alright if I took your pen?
-May I write and recite a poem then?
-Of course, you can but rather do it soon.
-I am so restless to wait till noon.
-Can I take a photo with you somehow?
-Is it alright if I click it now?
-Oh, I am afraid, I can’t say ‘yes’ now.
-Sorry, but I’d rather you not allow.
-C. Now, talk about an incident in which you were refused to do
-something.
-11
-English Grade 6
-
-Reading I
-a. Where do you think the man is?
-b. What is he holding in his hand?
-c. What is his name?
-Three Simple Rules
-Once, there was a rich man in a
-village. His name was Chulong.
-Despite being rich he still wanted
-more riches, more money.
-One day, he was walking in his
-garden. He saw a strange bird in
-a bush. It was very small. But it
-had very beautiful and colourful
-feathers. Its voice was also very sweet. Chulong had never seen such
-a bird in his life. He slowly went near the bush unseen. He caught the
-bird. The bird spoke: “Why have you caught me?”
-“I want to make money. I can sell you for a big amount,” replied Chulong.
-“But you are already rich. Why do you want more?” asked the bird.
-“Because I want to become richer and richer,” replied Chulong.
-“But do not dream of making money through me!” said the bird.
-It further added, “You can not sell me. Nobody will buy me because in
-imprisonment, I will lose my beauty and my sweet voice.”
-The bird slowly turned into a black bird. The beautiful feathers now
-looked like the feathers of a crow. Chulong's hopes of making money
-were shattered.
-12
-English Grade 6
-
-He said angrily, “I will kill you, and I will eat your meat.”
-“Eat me! I am so small. You will not get enough meat to kill your
-hunger,” replied the bird.
-Chulong could not answer.
-The bird then
-suggested, “Well set
-me free. In return, I
-shall teach you three
-simple but useful
-rules.”
-“What is the use of
-the rules? I want
-only money,” said
-Chulong. He was
-irritated. “But these rules can profit you greatly,” added the bird.
-“Profit me! Really? Then I shall set you free. But how can I trust you?
-You may fly away,” said Chulong.
-“I give you my word. And I always keep my word,” said the bird.
-Chulong wanted to take a chance. He released the bird. It flew up at
-once. Then it sat on the branch of a tree. Its colour started changing. It
-became beautiful again.
-Chulong asked, “Now teach me the rules.” “Certainly,” said the bird.
-Then it added, “The first rule is: Never believe everything others say.
-The second rule is: Never be sad about something you do not have. The
-third rule is: Never throw away what you have in your hand.”
-“You silly bird,” shouted Chulong, “These three rules are known to
-everyone. You have cheated me.”
-13
-English Grade 6
-
-But the bird said, “Chulong, just sit down for a while. Think about all
-your actions of today. You had me in your hands, but you released me.
-You believed all that I said. And you are sad about not having me. The
-rules are simple. But you never followed them. Now do you see the
-value of the rules?” Then the bird flew away and disappeared from his
-sight.
-(Adapted from the fables of Thailand)
-A. Notice the use of the following words in the story and make
-sensible sentences of your own.
-riches feathers amount dream believe follow
-B. Read the text again and write True or False.
-a. Chulong was satisfied with his riches.
-b. He bought a bird to keep at home.
-c. His greed set the bird free.
-d. The bird cheated Chulong.
-e. The bird changed its colour twice.
-C. Answer the following questions.
-a. What was the main aim of Chulong?
-b. Why could Chulong not make money from the bird?
-c. What were the three simple rules the bird told Chulong?
-d. What type of person is Chulong?
-e. What lesson did you learn from the story?
-D. Imagine that you were Chulong. What would you do when the
-colourful bird turned into a black crow? Write in a few lines.
-14
-English Grade 6
-
-Speaking
-A. The pictures show the library and the classroom rules of a
-school.
-Classroom rules
-B. Work in pairs. Read the library rules and classroom rules and
-talk to each other. Try asking for permission and give or refuse
-permission. Use the expressions below.
-15
-English Grade 6
-
-May I .......................?
-Asking for permission Can I ........................?
-Is it okay if I ............?
-Yes, you may.
-Giving permission Of course.
-Yes, you can.
-I'm sorry. You can't.
-Refusing permission I'm afraid. You can't.
-I'm sorry.
-C. What ideas did you get from the above rules? Discuss your
-ideas in pairs and write the rules that you must follow in your
-school library. You are free to set your own rules. Write them
-on a cardboard paper. Present it to the class.
-Listening
-A. Look at the picture and answer the questions.
-a. Who do you think the person
-speaking is?
-b. Who is the person talking to?
-c. Have you ever heard any
-announcements in your
-school?
-d. What types of announcements
-are made in the assembly?
-B. Listen to the recording and fill in the blanks.
-a. The name of school is Secondary School.
-b. The school starts at a.m.
-16
-English Grade 6
-
-c. The students are not allowed to eat at school.
-d. The students should wash their frequently.
-C. Listen to the recording again and write True or False.
-a. The students are allowed to wear bangles.
-b. School uniform is compulsory only for students.
-c. Different types of dustbins must be used for different waste.
-d. The students are allowed to visit the library in snack time.
-D. Work in pairs. Tell each other the school rules announced by
-the head teacher.
-Grammar
-A. Read the following pairs of sentences.
-She is an honest girl. Is she an honest girl?
-They are playing now. Are they playing now?
-She dances well. Does she dance well?
-The second sentence in each pair is a Yes/No question.
-B. Match the statements in column A with their questions in
-column B.
-Column A Column B
-a. He loves this town. i. Do they like soccer?
-b. They like soccer. ii. Can she drive a lorry?
-c. She can drive a lorry. iii. Does he love this town?
-d. They are nice. iv. Does she wake up early?
-e. She wakes up early. v. Are they nice?
-17
-English Grade 6
-
-C. Now, change the following statements into Yes/No questions.
-a. Sarita is a helpful girl.
-b. You are coming to school.
-c. They are happy.
-d. The students are looking smart in their school uniforms.
-e. I may come inside.
-f. It is all right.
-g. He eats an apple everyday.
-h. She gave me a book yesterday.
-i. They have a car.
-Writing
-A. Work in groups. Discuss and write your own set of rules for
-your class; and paste on the classroom wall/bulletin board.
-B. Write a letter to your friend explaining the rules that you have
-in your school.
-Reading II
-a. What do you see in the picture?
-b. Where is it?
-c. Have you ever travelled in a boat?
-Where Go the Boats
-Dark brown is the river,
-Golden is the sand.
-It flows along for ever,
-With trees on either hand.
-18
-English Grade 6
-
-Green leaves a-floating,
-Castles of the foam,
-Boats of mine a-boating—
-Where will all come home?
-On goes the river
-And out past the mill,
-Away down the valley,
-Away down the hill.
-Away down the river,
-A hundred miles or more,
-Other little children
-Shall bring my boats ashore.
--Robert Louis Stevenson
-A. Find the rhyming words from the poem for these words.
-band drill fever dome bore
-B. Find the words from the poem which have the following
-meanings.
-a. a large old-fashioned building
-b. a lightweight form of rubber, plastic or wood used for
-travelling on water
-c. a low area of land between hills or mountains
-C. Answer the following questions.
-a. What is the colour of the river and the sand?
-b. Where are the trees?
-19
-English Grade 6
-
-c. Where is the boat floating?
-d. Who shall bring the boat to shore?
-Project work
-Visit the library in your school or take help from your English
-teacher and note down the details about Nelson Mandela. Include
-important dates (birth and death), place of birth, works etc.
-Extra bit: Full stop
-The full stop (also known as a period) is the simplest of the punctuation
-marks to use. You use it like a knife to cut the sentences to the required
-lengths.
-Use full stop to mark the end of a statement.
-Examples: Rome is the capital of Italy.
-I was born in Sarlahi and now live in Kathmandu.
-Use full stop to indicate an abbreviation.
-Examples: I will arrive between 6 a.m. and 7 a.m.
-Dr. Karki is a physician.
-Use full stop in numbers to separate the whole number from the decimal.
-Examples: $ 10.43 (ten dollars and 43 cents)
-14.17 (fourteen point one seven)
-After a single word which can form a sentence.
-Examples: Goodbye.
-Stop.
-20
-English Grade 6
-
-Unit
-3
-Getting started
-A. Look at the pictures and discuss what these people are doing.
-B. Listen and sing.
-Will you give me the colour, please?
-I want to paint all hills and seas.
-I want to travel the world too.
-Can I take your lovely shoe?
-Could you now give me a cup of tea?
-I want to be all fresh and free.
-How shall it look my world to be?
-Could you please explain it to me?
-21
-English Grade 6
-
-C. Work in pairs. Make two requests about anything and respond
-to them.
-Reading I
-a. Who are these people?
-b. What is the name of the animal in the second picture?
-c. What does the man do?
-Beauty and the Beast
-Once upon a time, there
-lived a merchant with
-his three daughters at the
-edge of a dense forest.
-One day, as he was about
-to leave home for work
-in the town, he asked all
-three daughters if they
-wanted any presents on his return.
-The eldest daughter was excited and said, “Oh, yes! Will you bring
-me dresses made of silk? “Very well, those are expensive, I’ll try,”
-replied the merchant. The second daughter also had a similar demand.
-She said, “Oh father, could you please bring me pearl earrings?” The
-merchant then asked his youngest daughter, Beauty who was the most
-beautiful and thoughtful of them all. She said, “You may just bring me
-some roses, father.” The merchant was pleased by the simple demand of
-Beauty. Promising to try his best to bring them all what they had asked
-for, he left for the town.
-On his way back to the village through the dark and dense forest, he lost
-22
-English Grade 6
-
-his way. He suddenly
-reached the gates of an
-old and ruined castle.
-As he passed through
-the gate inside, he saw
-a huge bush full of
-white roses. He happily
-decided to pluck a few
-for his Beauty.
-Just when he was about to pluck the first rose, he heard a roar behind
-him, “How dare you walk inside my castle without my permission?”
-The merchant was very scared when he saw a dangerous beast with the
-head of a lion, the body of a bear and the legs of a wild dog standing in
-front of him.
-“I…I am…s-sorry…I saw these…roses and wanted to take for my
-Beauty,” he said terrified.
-“You thief! I won’t let you get away with this!” snarled the beast.
-“Sorry. P-please let me go back to my daughters. I d-don’t want the
-flowers,” the merchant replied shivering with fear.
-The beast spoke after a while, “Go home. But send your daughter
-who wanted the roses. “Don’t lie! If you don’t send your daughter by
-tomorrow evening, I will come to take you all,” he shouted.
-Reaching home that night, he told what had happened in the forest to his
-daughters. Although Beauty’s sisters told the merchant to send Beauty
-to the beast so that they would be safe, the loving father did not agree.
-However, Beauty decided to go to the beast to save her family. The
-following night, she left home without telling anyone.
-23
-English Grade 6
-
-As Beauty reached the castle of the beast, it warmly welcomed her and
-took her inside. She was given a proper room to live and well cooked
-food to eat. The beast treated her well as a friend.
-After living there for a few months, Beauty and the beast became best
-friends and lived together. Beauty missed her father and sisters as well.
-So one night, she asked the beast to give her a day to go to meet her
-father and sisters. The beast agreed to let her go back for only a day.
-After she returned home, all became happy to see her back. So they lived
-happily for weeks. Slowly, Beauty forgot that the beast was waiting for
-her in the castle.
-One night, she had a dream that the beast was very sick and he was
-calling her name. Worried that the beast was really sick and guilty and
-she had broken his trust, she ran back to the castle the next day. Reaching
-the castle, she found out that the beast was really ill. “Oh I am so sorry
-I left you alone,” she said to him, with tears in her eyes. “I am so happy
-to see you after all these days, Beauty. I feared you would never come
-back,” said the beast. After that, Beauty started crying and her tears fell
-upon the beast’s face.
-Magically the beast turned into a handsome young man. “Who you are!”
-Beauty was surprised. “It’s me. The beast!” the young man said. He spoke
-again, “I was a prince. I used to kill the wild animals a lot. So, the god
-had given me a punishment and turned me into a beast. When I pleaded
-the God to turn me back to a human, the God said that only a true friend’s
-teardrops would help. Now, you helped me turn into a human.”
-Beauty was overjoyed to hear this.
-Later they invited Beauty’s father and sisters to live with them in the
-castle. They all came to live happily together forever.
-24
-English Grade 6
-
-A. Match the words in column A with their meanings in column B.
-Column A Column B
-a. dense i. bad treatment
-b. castle ii. thick
-c. scare iii. make a loud noise, as of an animal
-d. roar iv. to make a person/animal feel frightened
-e. punishment v. a large building where the king or
-other great person resides
-B. Read the text again and write True or False.
-a. The youngest daughter’s name was Beauty.
-b. The second daughter asked her father to bring her a dress
-made of silk.
-c. The merchant reached the castle of a beast in the forest.
-d. The beast turned into a beautiful young lady.
-e. Beauty and the young prince lived happily with her
-family.
-C. Put the following sentences in the correct order.
-a. The merchant reached a dangerous beast in the castle.
-b. The beast turned into a handsome young prince.
-c. Beauty went to the beast to save her other family members.
-d. Beauty and the prince lived happily thereafter.
-e. The merchant was about to go to town.
-f. Three daughters demanded different things.
-g. The merchant reached home with a sad story.
-25
-English Grade 6
-
-D.   Answer the following questions.
-a.  What did the eldest daughter ask her father to bring?
-b.  What did Beauty ask her father to bring?
-c.   Why was the beast angry at the merchant?
-d.  On what condition did the beast let the merchant go home?
-e.   Why did the sisters want to send Beauty to the beast?
-f.  What did Beauty see in her dream?
-g.  Why was the prince punished to be the beast?
-E.  Try retelling the story in your own words.
- Speaking
-A.  What did the merchant’s daughters say when he asked if they
-wanted anything from the town? Write the sentences they said
-from the story ‘Beauty and the Beast’.
-B.  Act out the given conversation in pairs.
-| Mahesh  | : Good morning Anu!   |          |
-| ------- | --------------------- | -------- |
-| Anu     | : Good                | morning  |
-|         | Mahesh.               |   What   |
-|         | are  you              | doing    |
-here?
-| Mahesh  | : I am reading.     |     |
-| ------- | ------------------- | --- |
-| Anu     | : Will you pass me  |     |
-that book please?
-| Mahesh  | : Sure, here you are. |     |
-| ------- | --------------------- | --- |
-C.   Work in pairs and talk to each other in the following situations.
-Use the structures from the box below.
-a.  Give me your pen please/Sure, here you are.
-26
-English Grade 6
-
-b.  Pass me my notebook please/Sorry, I am writing in it.
-c.  Lend me a pencil please/Of course, take this.
-d.  Help me carry this bag please/I’m afraid. I am feeling weak.
-| Will you   |     | , please? |
-| ---------- | --- | --------- |
-| Please,    |     | .         |
-| Can you    |     |  ?        |
-| Could you  |     |  ?        |
- Listening
-A.  Look at the picture and guess the answers to the questions.
-| a.  What  | do  you  | think  |
-| --------- | -------- | ------ |
-they are talking about?
-b.  Have you ever worked
-on the computer?
-| c.  Explain  | any   | three  |
-| ------------ | ----- | ------ |
-| functions    | that  | a      |
-computer can do.
-B.  Listen to the recording and fill in the blanks.
-a.  The  participants  of  the  conversation  are  Dipak  and
-.
-b.  Dipak’s plan is to start   class.
-c.  Dipak wants to learn using  .
-d.  Dipak’s uncle lives in  .
-e.  Dipak thinks that he doesn’t want to   his time on
-social site.
-27
-English Grade 6
-
-C. Talk to your friends how a computer is helpful for students.
-Take help from the clues below.
-watch
-type
-videos
-Use of computer
-play listen to
-games music
-Reading II
-a. What is the text below called?
-b. Do you write a letter to your head teacher? Why?
-April 5, 2020
-The Principal,
-Shree Padmodaya Secondary School
-Kathmandu
-Subject: Application for sick leave
-Dear Madam,
-With due respect, I would like to inform you that I will not be able to
-come to school tomorrow as I am suffering from fever. The doctor has
-suggested that I take medicine and rest for some days. I’m visiting the
-doctor tomorrow. Therefore, I request you to grant me a leave for a
-day. I shall be very grateful to you.
-Your obedient student,
-Mukesh Sharma
-Grade: 6
-28
-English Grade 6
-
-A. Find the words from the ‘application’ which mean the following.
-The first letter has been given.
-a. a written request asking for something A...
-b. feeling of deep admiration R...
-c. advised S ...
-d. to give or to allow G ...
-e. dutiful and disciplined O ...
-B. Fill in the blanks using the words and phrases given in the box.
-fever April 5, 2020 principal
-six a day take medicine and rest
-Mukesh is a student of Padmodaya Secondary School. He is
-studying in Grade This is a letter of application for
-sick leave written by Mukesh to his It is written on
-Mukesh is suffering from The doctor
-has advised him to Mukesh asks his Principal to grant
-him a leave for .
-Grammar
-A. Underline and study all the sentences in the previous letter
-with will or would.
-B. Study these sentences.
-I will be there tomorrow.
-I would meet my aunt if I went to my village.
-Could you bring me a notebook?
-Can I use your pencil?
-29
-English Grade 6
-
-C.   Complete the sentences with will, would, can and could.
-a.  Don’t worry. I   do it myself.
-| b.  I am sure it  |     |  happen.                   |     |
-| ----------------- | --- | -------------------------- | --- |
-| c.  I hope they   |     |  come to meet me tomorrow. |     |
-d.  If I were you, I   tell the teacher about it.
-| e.  I  |  go to hospital if I were sick. |     |     |
-| ------ | ------------------------------- | --- | --- |
-f.   you please bring me a chart paper?
-g.   you take a message, please?
-| h.  You  |     |  go home now. |     |
-| -------- | --- | ------------- | --- |
- I ask you a question?
-i.
-| j.   It  |  be very cold this winter. |     |     |
-| -------- | -------------------------- | --- | --- |
- Writing
-A.  Suppose you are suffering from diarrhoea. Write an application
-to your Head Teacher asking him/her to grant you a two-day
-sick leave.
-B.  Complete  the  following  conversation  with  appropriate
-expressions from the box.
-| I am fine.   | Can you bring it back tomorrow?          |                     |                        |
-| ------------ | ---------------------------------------- | ------------------- | ---------------------- |
-| I did well.  | How are you?                             |                     | Let’s go to the class. |
-| Ronish       | :  Hi, Ramila.                           |                     |                        |
-| Ramila       | :                                        | . Thank you.        |                        |
-| Ronish       | :  How was your exam yesterday?          |                     |                        |
-| Ramila       | :                                        | . What about yours? |                        |
-Ronish  :  I also did well. Will you please give me your notebook
-today?
-| Ramila  | :  Of course. But, I need to read it tomorrow.  |     |     |
-| ------- | ----------------------------------------------- | --- | --- |
-30
-English Grade 6
-
-Ronish : Sure. Don’t worry.
-Ramila : Thank you Ronish. It’s time for our class.
-Ronish : Yes, let’s go.
-Project work
-Do you ask your parents to bring you presents when they go out of
-your village or town? Ask your friends about what they demand from
-their parents. Write individually and collect everyones’ answers.
-Then, make a final list of the common items on a chart paper and
-present it to the class with the title “A List of our Demands”.
-Extra bit: will, would, can, could
-a. A: Could I borrow your ruler, please?
-B: Certainly! Here you are.
-b. A: Can I help you?
-B: No, thanks. I’m just waiting for my friend.
-c. A: Would you like another coffee?
-B: No, thanks.
-d. A: Will you pass me the salt, please?
-B: Okay.
-e. John will be in his office.
-f. We’ll be late.
-g. I thought we would be late.
-h. Would you please be quiet?
-i. They could come by car.
-j. It can be very cold here in winter.
-k. You can easily get lost in this town.
-l. Nishu is tall. She can reach the ceiling.
-31
-English Grade 6
-
-Unit
-4
-Getting started
-A. Look at the pictures and say what festivals these people are
-celebrating. Talk to your friends what people do during these
-festivals.
-B. Listen and sing.
-Smile on face and laugh on lips
-Wish you the joy and cheer it gives
-May your birthday bring all these
-Have a good life and tensions cease.
-You really did hard work, all day and night
-Good luck for exams, you surely make bright
-It might be hard and tough might be this
-But surely you can do, how tough it is.
-32
-English Grade 6
-
-C.  Now, make a wish in each of the following situations.
-| a.  | Your friend has a birthday today, wish him/her. |     |     |
-| --- | ----------------------------------------------- | --- | --- |
-| b.  | A festival is coming, wish your teacher.        |     |     |
- Reading
-a.  What are the people doing in the pictures below?
-b.  What festivals do you celebrate?
-c.  What festival do you like most? Why?
-Festivals of Nepal
-Buddha Jayanti
-| Buddha  | Jayanti  | is  a  festival  |     |
-| ------- | -------- | ---------------- | --- |
-celebrated by Buddhists on the
-day of Baisakh Purnima. It is the
-day when Siddhartha Gautam
-| was  | born,  enlightened,  |     | and  |
-| ---- | -------------------- | --- | ---- |
-died. It is also called Buddha
-Purnima. Buddha was born in
-| 623  BC        | in  Lumbini,    | Nepal.  |      |
-| -------------- | --------------- | ------- | ---- |
-| The  festival  | is  celebrated  |         | all  |
-over Nepal and abroad too to
-commemorate his birthday.
-People go to the monasteries and stupas to pray to Lord Buddha for
-peace and prosperity. Special chanting and prayers are performed there
-on the day. The monuments are decorated with beautiful flowers and
-colours.  People go to Lumbini and other places like Swoyambhu,
-Bouddha, and other stupas and monasteries where  they meditate and
-chant prayers to Lord Buddha.
-33
-English Grade 6
-
-Eid
-| This  is  | the  biggest  | festival  | of  the  |
-| --------- | ------------- | --------- | -------- |
-Muslim community. It is celebrated
-| world-wide  | on  the  | last  | day  of  |
-| ----------- | -------- | ----- | -------- |
-Ramadan. Ramadan is a month-long
-fast. It generally falls in the month
-of Saun, but the date of the festival
-is confirmed every year according to
-the Islamic calendar. Muslim people
-exchange greetings, go to mosques,
-recite Namaj, and pray to the Allah for the unity and prosperity of all
-human kind. They greet and embrace each other with the greeting “Eid
-Mubarak”, which means best wishes on the occasion of Eid.
-Tihar
-Tihar is one of the biggest
-| festivals    | of                    | Hindus      |     |
-| ------------ | --------------------- | ----------- | --- |
-| celebrated   | in  Nepal.            | It  is      |     |
-| also         | known  as  Dipawali.  |             |     |
-| It  falls    | in  the  month        | of          |     |
-| Kattik.      | It  is  celebrated    | for         |     |
-| five  days,  | which                 | is  called  |     |
-| Yama         | Panchak.  The         | first       |     |
-day is Kag Tihar, the second is Kukur Tihar, the third day is Laxmi
-Puja, the fourth day is Goru Tihar, and the last day is Bhai Tika. Laxmi
-Puja and Bhai Tika are the most popular days at Tihar. People worship
-goddess Laxmi by lighting candles and offering Prasad. The cow is
-also worshipped on that day.  On the day of Bhaitika, sisters offer Tika
-to their brothers and wish for their longevity and prosperity. They make
-good wishes with each other. People enjoy the festival a lot.
-34
-English Grade 6
-
-Chhath
-| Chhath  | is  celebrated  |     | on           | the  | day    | of  Kattik  |     |
-| ------- | --------------- | --- | ------------ | ---- | ------ | ----------- | --- |
-| Shukla  | Shasthi,        |     | immediately  |      | after  | Tihar.      |     |
-People worship goddess Chhathi Maiya and
-pray to the sun (both the rising and the setting
-| sun).  It  | is  | originated  | from Terai  |     |     | region  of  |     |
-| ---------- | --- | ----------- | ----------- | --- | --- | ----------- | --- |
-Nepal, but nowadays it is celebrated in other
-parts of the country too. People go to the
-banks of rivers, ponds, or lakes and pray to the setting and the rising
-sun by offering Prasad in the name of Chhathi Maiya, the goddess.
-Christmas
-| Christmas   |          | is  celebrated   |                     | on      | the     | 25th     |     |
-| ----------- | -------- | ---------------- | ------------------- | ------- | ------- | -------- | --- |
-| December    |          | to  commemorate  |                     |         | the     | birth    |     |
-| of  Jesus   | Christ.  |                  | It  is  celebrated  |         |         | by  the  |     |
-| Christians  |          | in  Nepal        | too.                | People  |         | go  to   |     |
-| Church      | and      | pray             | to  Jesus           |         | Christ  | and      |     |
-exchange greetings and good wishes with
-| each  other.   |     | They  | decorate  | their  |         | homes,  |     |
-| -------------- | --- | ----- | --------- | ------ | ------- | ------- | --- |
-| surroundings,  |     | and   | market    |        | places  | with    |     |
-Christmas Trees and lighten the areas. They exchange gifts and have
-delicious food and enjoy the festival.
-A.  Complete the following table.
-| Festivals |     |                | Who is it  |     |     | When is it  | What do    |
-| --------- | --- | -------------- | ---------- | --- | --- | ----------- | ---------- |
-|           |     | celebrated by? |            |     |     | celebrated? | people do? |
-35
-English Grade 6
-
-B.  Find the words from the text for the following meanings.
-a.  full moon day
-b.  a structure erected to commemorate persons or events
-c.  repeat aloud from memory
-d.  name of Goddess prayed during Chhath
-e.  marked by some ceremony or observation
-C.  Talk  about  a  local  festival  celebrated  in  your  community.
-Try talking about: what it is, when it is celebrated and what
-activities people do.
- Speaking
-A.  Work in pairs and act out the given conversations.
-| Sonali  | :  As-Salaam Alaikum!  |     |     |
-| ------- | ---------------------- | --- | --- |
-| Gazi    | :  Wa-Alaikum-Salaam,  |     |     |
-Sonali.  Eid Mubarak!
-| Sonali  | :  Thank  | you,  Gazi.  | Eid  |
-| ------- | --------- | ------------ | ---- |
-Mubarak to you too!
-| Manish  | :  Phyaphulla!  |        |     |
-| ------- | --------------- | ------ | --- |
-| Menuka  | :  Phyaphulla!  | Happy  |     |
-Lhosar, Manish!
-| Manish  | :  Thank  | you.  Happy  |     |
-| ------- | --------- | ------------ | --- |
-Lhosar to you too.
-B.   Now, work in pairs. Talk to your friends and express good
-wishes on the occasion of the given festivals.
-| a.   Dashain        |     | b.   Udhauli  | c.  Chhath    |
-| ------------------- | --- | ------------- | ------------- |
-| d.  Holi            |     | e.  Eid       | f.  Teej      |
-| g.  Buddha Jayanti  |     | h.  Maaghi    | i.  Christmas |
-36
-English Grade 6
-
- Listening
-A.  Look at the picture and guess the answers.
-| a.  What  | do  you  | think  these  |
-| --------- | -------- | ------------- |
-people are doing?
-b.  Have you ever participated
-in such an activity?
-| c.  Can  | you  name  | any  three  |
-| -------- | ---------- | ----------- |
-cultural performances of your locality?
-B.  Listen to the recording and circle the correct word.
-a.  Gaura is a very popular festival in the Eastern/Western Nepal.
-b.  It falls in the month of  Bhadau/Asoj.
-c.  Women worship Gauri/Shiva at the festival.
-C.  Listen to the recording again and write Yes or No.
-a.  Men fast at Gaura festival.
-b.  Deuda is performed on the occasion of Gaura.
-c.   Deuda is played with traditional music.
-D.  Now, with a partner, ask and answer questions about Gaura festival.
- Grammar
-A.  Read the class rules on the whiteboard below. Tick (√) the rules
-you have in your class.
-| a.  | Try your hardest in class.           |     |
-| --- | ------------------------------------ | --- |
-| b.  | Don’t eat food.                      |     |
-| c.  | Close the window if you’re cold.     |     |
-| d.  | Put your hand up to ask a question.  |     |
-| e.  | Don’t shout out!                     |     |
-| f.  | Don’t hit other children.            |     |
-| g.  | Don’t chew gum.                      |     |
-37
-English Grade 6
-
-The  above  are  imperative  sentences.    Remember! You  can  use
-‘please’ to be more polite.
-| Examples:  | Please put the plates on the table. |     |     |     |     |
-| ---------- | ----------------------------------- | --- | --- | --- | --- |
-|            | Don’t make so much noise please.    |     |     |     |     |
-Be careful!
-Don’t say ‘you’ and use the verb without to.
-B.  Put the words in the correct order to make sentences.
-| Example:     | salt                     | Pass    | me      | please  | the    |
-| ------------ | ------------------------ | ------- | ------- | ------- | ------ |
-|              | Pass me the salt please. |         |         |         |        |
-| a.  door     |                          | please  | Answer  |         | the    |
-| b.  lunch    |                          | Don’t   | your    |         | forget |
-| c.  English  |                          | Speak   | please  |         | in     |
-| d.  Wait     |                          | please  | for     |         | me     |
- Writing
-A.  Rewrite the following paragraph with necessary correction.
-mahashivaratri is a festival of hindu people. they go to pashupatinath
-temple of Kathmandu to worship shiva? other temples of shiva are
-also crowded with devotees. this festival falls In the month Of
-Phagun
-B.  What things do you do in the festival you like most? Write a
-short paragraph about the festival. Write about these:
-a.  Who is it celebrated by?
-b.  When is it celebrated?
-c.  What do people do on the festival?
-d.  Why do you like the festival?
-38
-English Grade 6
-
- Project work
-Work in groups of five. Collect information about a festival of
-your locality. Draw pictures and paste them on chart paper. Then,
-present it to the class.
- Extra bit: Question mark and comma
-(Question mark (?)
-Use a question mark (?) at the end of a sentence that asks a question.
-| Examples:  | Where is the bathroom?  |     | Are you home? |
-| ---------- | ----------------------- | --- | ------------- |
-Use a question mark at the end of a tag question.
-Examples:  You speak English, don’t you?   Lisa is not here, is she?
-Use a question mark after a type of question to which no answer is required.
-| Examples:  | Who cares?  |   Are you kidding me? |     |
-| ---------- | ----------- | --------------------- | --- |
-Comma (,)
-Use a comma to separate words or phrases of three or more.
-Examples:  The colours in my bedroom are blue, green and yellow.
-|     | My best friends are Nita, Nisha, Nimesh and Lisa. |     |     |
-| --- | ------------------------------------------------- | --- | --- |
-Use a comma to write a date in a sentence. Do not use a comma if the
-day or year is left out.
-| Examples:  | He was born on March 17th, 1981.   |     |     |
-| ---------- | ---------------------------------- | --- | --- |
-|            | School will begin on August 25th.  |     |     |
-Use a comma to separate the city from the state while writing a location
-in a sentence.
-| Example:  | She was born in Dhading, Bagmati. |     |     |
-| --------- | --------------------------------- | --- | --- |
-Use a comma around degrees or titles with names.
-| Examples:  | Ram Karki, M.D.  |     | Karima Begam, Ph.D. |
-| ---------- | ---------------- | --- | ------------------- |
-Use a comma to separate introductory words such as yes, no, well, finally
-etc.
-| Examples:  | Yes, I would love to go to the park today. |     |     |
-| ---------- | ------------------------------------------ | --- | --- |
-|            | Now, it’s time to start the movie.         |     |     |
-39
-English Grade 6
-
-Unit
-5
-Getting started
-A. Look at the pictures and say what you would do to these people.
-B. Listen and sing.
-I would fly happily and go so high
-If I had the time and wings to fly
-High from the sky, I would see down
-And would go to the world round and round.
-I would surely dive deep down the sea
-If I were a dolphin dancing happily
-I would travel for food miles and miles
-If I were the hungry little crocodiles.
-40
-English Grade 6
-
-I would be free roaming in a jungle
-If I were a monkey jumping on a tree
-I had the only wish what could I be
-To remain happy, active and free.
-C.  How would you live your life if you were a bird? Tell your
-friends.
- Reading I
-a.  What do you think the monkeys are doing in the picture?
-b.  Do you have meetings with your family? Why?
-The Monkeys Go Fasting
-| One  day,  | a  group  | of      |
-| ---------- | --------- | ------- |
-| monkeys    | decided   | to  go  |
-on a fast. The old monkey
-| chief  thought  | that         | they     |
-| --------------- | ------------ | -------- |
-| would           | be  starved  | soon     |
-| if  no  food    |   was        | stored.  |
-So he called the younger
-| monkeys  | and  suggested,  |     |
-| -------- | ---------------- | --- |
-“Before we begin fasting,
-I think you should collect some food. We can take it immediately after
-our fasting is over.” The monkeys nodded their heads in agreement. The
-youngsters were sent in search of food. They returned with huge hands
-of delicious-looking bananas.
-Looking at those bananas, the wife of the chief monkey counselled,
-“Why don’t you keep your share of bananas with you before we begin
-41
-English Grade 6
-
-our fast. We won’t get time distributing the bananas after we break our
-fast. You can imagine how hungry we all will be by then!”
-The monkeys liked the idea and they collected their share of the bananas.
-“Why don’t we peel one banana and keep it ready to eat?” said one of
-the youngsters.
-“Yes, let’s do that,” shouted a fat monkey in agreement. Just looking at
-the bananas was making him hungry.
-“All right,” said the monkey chief. “We shall peel the bananas but we
-should not eat them until the fasting is over.”
-So the monkeys peeled their bananas and carefully kept them ready for
-eating in the evening.
-“Can I keep the banana in my mouth? I promise not to eat it till evening.
-Please!” a little monkey asked his father.
-“Why don’t we all put a banana in our mouth? That way we can chew
-it immediately when we break the fast,” said his father. “If we don’t eat
-it, it won’t harm our agreement,” he added.
-So, the monkeys put the bananas in their mouths. One by one they
-looked at each other uncomfortably as they began their fasting. Within
-no time at all, the bananas disappeared down their gullets. And that was
-the end of their fast!
-(Adapted from Indian Folklores)
-42
-English Grade 6
-
-A. Read the story and match the following words with their
-meanings.
-a. fasting i. showed agreement by lowering head
-b. nodded ii. staying without food for longer time
-c. delicious iii. having a strong desire to eat food
-d. hungry iv. make commitment to do something
-e. promise v. very tasty
-B. Rearrange the following sentences in the correct order.
-a. Young monkeys brought delicious-looking bananas.
-b. All the monkeys ate the bananas and their fasting was over.
-c. The monkeys peeled bananas and put them in their mouths.
-d. The monkeys decided to go on a fast.
-e. The monkeys felt very hungry after they saw bananas.
-C. Write short answers to the following questions.
-a. What did the monkeys agree on?
-b. Why did the old monkey suggest for the young monkeys to
-collect food?
-c. What made the fat monkey hungry?
-d. Why did the monkeys divide the bananas?
-e. Why did they decide to put the peeled bananas in their mouth?
-D. Do you fast? Why do you do that? Is it good or bad for health.
-Discuss with your friends.
-43
-English Grade 6
-
- Speaking
-A.  Act out the following conversation.
-| Deepak  | :  Hey  | Ansila,      | you   |
-| ------- | ------- | ------------ | ----- |
-|         | look    | sad  today.  | What  |
-happened?
-| Ansila  | :  Nothing.  | Please,  |     |
-| ------- | ------------ | -------- | --- |
-leave me alone.
-| Deepak  | :  Tell me, dear. What’s  |     |     |
-| ------- | ------------------------- | --- | --- |
-wrong?
-| Ansila  | :  Well, I lost my English book. What do I do?  |     |     |
-| ------- | ----------------------------------------------- | --- | --- |
-| Deepak  | :  Oh! Why don’t you tell your teacher?         |     |     |
-| Ansila  | :  Oh my gosh! I can’t do that.                 |     |     |
-| Deepak  | :  If I were you, I would tell him for sure.    |     |     |
-| Ansila  | :  Are you sure?                                |     |     |
-| Deepak  | :  Yes. Don’t worry. I’m sure he’ll understand. |     |     |
-| Ansila  | :  Ok, then. I will ask to be excused first.    |     |     |
-Deepak  :  Yes, you’re right. You should buy a new one if it is
-not found.
-| Ansila  | :  Sure! Thank you, Deepak. |     |     |
-| ------- | --------------------------- | --- | --- |
-B.   Make as many sentences as possible from the following table.
-tell it to your class teacher.
-speak politely.
-You should
-inform your parents.
-Why don’t you...?
-go and meet her.
-If I were you, I would
-follow the teacher’s advice.
-search myself.
-44
-English Grade 6
-
-C. Work in pairs. Take turns to give suggestions in the following
-situations. Use the structures as in the example.
-You should………
-Why don’t you………...?
-If I were you, I would…………….
-A: I have lost my pencil.
-B: You should tell your class teacher.
-a. You have lost your notebook.
-b. You are feeling thirsty.
-c. You have a stomach ache.
-d. You are not so good at English.
-e. You have made some mistakes in the story.
-Listening
-A. Look at the picture and guess the answers to these questions.
-a. What do you see in the picture?
-b. Do you remember when you were sad last
-time?
-B. Listen to the recording and fill in the blanks with suitable
-words.
-a. Ivan has lost his .
-b. First, Suvam advised Ivan to tell about it to his .
-c. Ivan told it to the teacher but it was not .
-d. Ivan finally told that it was a good to tell all his
-friends.
-45
-English Grade 6
-
-C.  Listen to the recording again and tick the best answer.
-| a.  Ivan and Suvam are  |     | .   |
-| ----------------------- | --- | --- |
-  i. brother and sister  ii. friends  iii. teacher and students
-| b.  Ivan was  |  of telling it to other friends. |             |
-| ------------- | -------------------------------- | ----------- |
-|   i.  happy   | ii. excited                      | iii. afraid |
-c.  Ivan advised Suvam to go in front of the class and say it .
-|   i.  slowly  | ii. softly  | iii. loudly |
-| ------------- | ----------- | ----------- |
-D.  What  did  Suvam  suggest  to  Ivan?  Try  to  remember  the
-sentences and write them down.
- Grammar
-A.  Complete the following sentences with appropriate endings
-from the box.
-| I would go to meet him.       |     | you could win the race. |
-| ----------------------------- | --- | ----------------------- |
-| I would tell her the answer.  |     | I would fly in the sky. |
-we could secure good marks.
-a.  If I were a bird,
-b.  If you ran fast,
-c.  If he called me,
-d.  If we studied carefully,
-e.  If she asked me,
-  Now underline the verb forms in the above sentences.
-B.  Study the following sentences and their meanings.
-a.  If the weather improved, we could go for a walk. (It is not
-likely that the weather will improve.)
-46
-English Grade 6
-
-b.  If people complained, things would change. (People don’t
-complain at the moment.)
-c.  If there were more buses, we would leave the car at home. (It
-is unlikely that there will be more buses.)
-d.  I would buy a house if I had enough money. (It is unlikely
-that I will have enough money.)
-C.  Choose the five words which complete each sentence.
-| a.  How would we keep in touch  |            |           |           |           |           | ?                        |             |
-| ------------------------------- | ---------- | --------- | --------- | --------- | --------- | ------------------------ | ----------- |
-|   to                            | didn’t     | we        | have      |           | if        | did                      | computers   |
-| b.  If she                      |            |           | ,         |           |           |  going out with her.     |             |
-|   he                            | beautiful  |           | wouldn’t  |           | isn’t     | weren’t                  | being  be   |
-| c.  If people                   |            |           |           | ,         |           |  be fewer wars.          |             |
-|   more                          | would      |           | there     |           | wouldn’t  | were                     | tolerant    |
-| d.  If you                      |            |           | ,         |           |           |  be able to communicate. |             |
-|   speak                         | spoke      | speaking  |           | couldn’t  |           | wouldn’t                 | we  English |
-D.  Rewrite the suggestions using the given beginnings.
-a.   If I were you, I would go to a dentist.
-  You should....
-b.  You should report it to the police.
-  Why don't you....?
-c.   You should take hot water.
-  If I were you....
-d.  Why don't you ask your sister for help?
-  You should....
-47
-English Grade 6
-
-Writing
-A. Rewrite the given sentences as in the example.
-Example: I don’t live with my parents, so I don’t see them every day.
-If I lived with my parents, I would see them every day.
-a. They don’t live far from work, so they don’t use public
-transport.
-b. It isn’t sunny outside, so children will not go for a walk.
-c. My mother doesn’t have time, so she will not cook dinner.
-d. I don’t have a toothache, so I will not go to the dentist.
-e. He doesn’t have free time, so he will not visit me.
-f. I don’t have a special skill for this job, so I will not get it.
-B. Write a short story on the basis of the following outline.
-The mice very unhappy the cat killed many of them
-held a meeting to discuss how to get rid of the cat
-various suggestions no plan practicable. Then a young mouse
-suggested that a bell should be tied round the cat's neck all
-welcomed the proposal with joy an old mouse stood up
-asked who was going to tie the bell round the cat’s neck.
-Reading II
-a. Can you name all the objects in the pictures?
-b. Would life be difficult if there were no mobile phones? Why?
-History of Computers
-The first computers were very big. They were the size of a
-room! They were so big that people didn’t have them at home.
-48
-English Grade 6
-
-Every computer could also only do simple math, like a calculator. In the
-1930s, Alan Turing had the idea for a computer you could programme
-to do different things.
-In 1958, Jack Kilby invented the microchip.
-Microchips are tiny but can store lots of
-information. They helped make computers
-smaller. In the 1970s, computers were smaller
-and cheaper so people started to use them at
-home. In the 1980s, computer games were
-very popular. Lots of people bought computers just to play games.
-In 1989, Tim Berners Lee invented the
-World Wide Web (WWW) which is a way
-to organise information on the internet. Now,
-people all over the world can look for and
-share information on websites.
-Today, people can use smartphones to play games, email and
-go on the internet. In the past, a simple computer was the size
-of a room. Now, it can go in your pocket!
-What would happen if there were no mobile phones?
-It’s completely hard to imagine the world without smartphones. A large
-number of people reported that smartphones have made their lives better.
-Nearly half of smartphone users say it is very difficult for them to imagine
-life without smartphones, which is not very surprising. Smartphone’s
-have become our favorite companion. We trust on them to wake us up
-every morning, prepare us where we want to go, reply to emails and
-hundreds of other things.
-As we have been dependent on mobile apps, our lives are going to
-become easier day by day.
-49
-English Grade 6
-
-A.  Complete the following sentences. Use one of the words from
-the box.
-| calculator   | invented  | microchips  | internet  |
-| ------------ | --------- | ----------- | --------- |
-| smartphones  | reported  | imagine     | dependent |
-a.  Can you   your life without computers?
-| b.  If you have access to the  |                                         | , you can use it to google. |     |
-| ------------------------------ | --------------------------------------- | --------------------------- | --- |
-| c.                             |  can store lots of information in them. |                             |     |
-d.  He has been using an old   to do calculations.
-| e.  Do you know who  |                                       |  the computer? |     |
-| -------------------- | ------------------------------------- | -------------- | --- |
-| f.  The theft was    |  in all the newspapers.               |                |     |
-| g.  She has three    |  children. She cares for all of them. |                |     |
-| h.                   |  can also be used as small computers. |                |     |
-B.  Read the text again and complete the following table.
-| 1958  | Jack Kilby invented the microchip. |     |     |
-| ----- | ---------------------------------- | --- | --- |
-1970s
-1980s
-1989
-C.  Answer the following questions.
-a.  Did people have the first computers at home? Why/why not?
-b.  What is strange about microchips?
-c.  What did people use computers for in the 1980s?
-d.  Where do people share information nowadays?
-e.  How has the use of smartphones affected human life?
-50
-English Grade 6
-
-D.  Have you got a computer or smartphone? What do you use
-it for? How often do you use it? Is it helpful? Talk to your
-friends.
- Project work
-Make a list of suggestions for your younger brother/sister to better
-prepare for his/her examination. Include as many suggestions as
-possible. Present it to the class.
- Extra bit: Irregular past
-| Infinitive | Simple past | Past participle |
-| ---------- | ----------- | --------------- |
-| be         | was         | been            |
-| beat       | beat        | beaten          |
-| begin      | began       | begun           |
-| break      | broke       | broken          |
-| blow       | blew        | blown           |
-| bring      | brought     | brought         |
-| build      | built       | built           |
-| buy        | bought      | bought          |
-| choose     | chose       | chosen          |
-| draw       | drew        | drawn           |
-| drink      | drank       | drunk           |
-| drive      | drove       | driven          |
-| fall       | fell        | fallen          |
-| feel       | felt        | felt            |
-| fight      | fought      | fought          |
-| find       | found       | found           |
-| fly        | flew        | flown           |
-| forget     | forgot      | forgotten       |
-| get        | got         | got             |
-| give       | gave        | given           |
-| grow       | grew        | grown           |
-51
-English Grade 6
-
-Unit
-6
-Getting started
-A. Look at the pictures. Say why they might be doing these things.
-B. Listen and sing.
-I often see flowers from a passing car
-That are gone before I can tell what they are.
-I want to get out of the train and go back
-To see what they were beside the track.
-Was something brushed across my mind
-That no one on earth will ever find?
-Heaven gives its glimpses only to those
-Not in position to look too close.
--Robert Frost
-C. If you have a week-long vacation, what do you like to do and
-why? Tell your friends.
-52
-English Grade 6
-
-Reading I
-a. Who do you think these people are?
-b. What are the boys doing in the second picture?
-Tom Paints the Fence
-Characters : Tom Sawyer, Aunt Polly, Ben and Billy.
-Scene I
-Aunt Polly : Tom!... Tom!.. (No answer.) Where is the boy? Tom!
-Tom : (appearing) Here I am.
-Aunt Polly : Oh, you’ve been to that closet. What were you doing
-there?
-Tom : Nothing.
-Aunt Polly : Nothing! Look at your hands. (Tom looks at his
-hands.) And look at your mouth. What is that?
-Tom : I don’t know, Aunt.
-Aunt Polly : Well, I know. It’s jam, that’s what it is. (Pointing to a
-switch on the floor.) Hand me that switch!
-53
-English Grade 6
-
-Tom : Oh, look behind you, Aunt!
-(Aunt Polly looks behind her. Tom runs away. Aunt Polly stands surprised
-for a moment, then she breaks into a laugh.)
-Scene II
-Aunt Polly : Tom, go and whitewash the fence.
-Tom : Oh, Auntie, I can’t do it now….. tomorrow.
-Aunt Polly : Whitewash the fence, I say! (Goes away.)
-(Tom begins to whitewash the fence, Ben appears. He
-has an apple in his hand).
-Ben : What are you doing?
-Tom : I am whitewashing the fence.
-Ben : Do you want to say you like it?
-Tom : Of course, I do. Does a boy whitewash a fence every
-day?
-(Tom goes on whitewashing. He does not look at Ben.)
-Ben : Tom, let me whitewash a little!
-Tom : No, I can’t. Jim also wanted to do it, but Aunt Polly
-did not let him.
-54
-English Grade 6
-
-Ben : Tom, do let me. I’ll give you my apple.
-Tom : All right.
-(He takes the apple, sits down and begins to eat it.
-Ben is whitewashing the fence. Billy appears.)
-Billy : Hello! What are you doing here?
-Ben : Tom and I are whitewashing the fence.
-Billy : You don’t think it is interesting, do you?
-Ben : We do. Jim wanted to do it, but Aunt Polly didn’t let
-him.
-Billy : Let me whitewash a little!
-Ben : No. I won’t!
-(They begin fighting.)
-Tom : Stop that! Now it’s your turn to whitewash, Billy.
-(Now, Billy is working).
-Tom : Now, it’s your turn to whitewash, Ben.
-(Now, Ben is working).
-Aunt Polly : (Appearing) Oh, it’s all done! You are a good boy,
-Tom. You can work when you want to. Now, you may
-go and play.
-Tom : Hurrah! Let’s run to the river!
-(They run away.)
-All the boys : Hurray!
-(Adapted from the Adventures of Tom Sawyer by Mark Twain)
-55
-English Grade 6
-
-A.  Complete the crossword puzzle with the words from the play.
-The clues are given.
-1I
-| 2C  | 3   | E   |     |
-| --- | --- | --- | --- |
-4 U
-5
-6 A
-  Across    Down
-3.  It acts like a barrier.  1.  enjoyable
 4.  amazed  2.  Tom was in the ....
 6.  whiten  5.  jelly made of fruits
 B.	 Read	the	play	once	again	and	tick	(√	)	the	correct	answer.
-| a.  | Aunt Polly told                 |  to whitewash. |              |
-| --- | ------------------------------- | -------------- | ------------ |
-|     | i. Tom                          | ii. Ben        | iii. Billy   |
-| b.  | When Tom started whitewashing,  |                |  came first. |
-|     | i. Ben                          | ii. Billy      | iii. Jim     |
+| a.  | Aunt Polly told |  to whitewash. | |
+| | i. Tom | ii. Ben | iii. Billy |
+| b.  | When Tom started whitewashing,  | |  came first. |
+| | i. Ben | ii. Billy | iii. Jim |
 c.  ………………. started fighting.
-|     | i. Tom and Ben  | ii. Ben and Billy  | iii. Tom and Billy |
-| --- | --------------- | ------------------ | ------------------ |
-56
+| | i. Tom and Ben  | ii. Ben and Billy  | iii. Tom and Billy |
 English Grade 6
-
 C. Answer the following questions.
 a. Where was Tom hiding?
 b. Why did Aunt Polly laugh?
@@ -1825,9 +62,7 @@ not come to school tomorrow/go to hospital
 A : Why will you not come to school tomorrow?
 B: I won't come to school tomorrow because I have to go to
 hospital.
-57
 English Grade 6
-
 a. not going to watch movie/prepare for exam
 b. going to Kathmandu/see my brother
 c. go to dance class/want to be a dancer
@@ -1840,17 +75,13 @@ b. Do you know anything about the Gorkha Earthquake?
 c. How does an earthquake occur?
 B. Listen to the recording and complete the sentences.
 a. Earthquakes are caused by the breaking of underground
-.
 b. The seismic make the ground shake.
 c. The rocks break due to the built up .
 d. The rocks continously until they get stuck again.
 e. The underground point where the rock breaks is called the
 of the earthquake.
 f. Epicentre of the earthquake is right above the focus on the
-.
-58
 English Grade 6
-
 C. Work in pairs. Talk to your partner about earthquakes.
 Grammar
 A. Study the following examples.
@@ -1867,16 +98,14 @@ d. They are tired……….the heavy work.
 e. I am upset ……….you did not help me.
 f. Sunil is successful………his hard labour.
 C. Now join the pairs of sentences with because or because of.
-a. I went to the bank. I had to cash a cheque. (because)
-b. She is happy. She has got the prize. (because of)
-c. I am thin. I don't eat much. (because)
-d. She has got good marks. She works hard. (because)
-e. I do not eat meat. I am a vegetarian. (because of)
-f. I don’t like to walk. The road is muddy. (because of)
-g. The teacher likes Lakpa. He is intelligent. (because of)
-59
+a. I went to the bank. I had to cash a cheque. (because
+b. She is happy. She has got the prize. (because of
+c. I am thin. I don't eat much. (because
+d. She has got good marks. She works hard. (because
+e. I do not eat meat. I am a vegetarian. (because of
+f. I don’t like to walk. The road is muddy. (because of
+g. The teacher likes Lakpa. He is intelligent. (because of
 English Grade 6
-
 Reading II
 a. What are the boys playing?
 b. What is interesting about this game?
@@ -1896,20 +125,18 @@ before they pass it over the net. Most volleyball games today are rally
 scoring and played to 25 points. To win the game, a team must score 25
 points. If both teams score 25 points, the winner must lead by two more
 points to the opponent’s team.
-60
 English Grade 6
-
 A. Choose the correct words from the brackets to complete the
 sentences.
 a. Volleyball is played even in hills it does not
-need big space to play. (so/because/but)
+need big space to play. (so/because/but
 b. of the height difference, the height of the net
 in men’s and women’s categories is different. (Therefore/In
-order to/Because)
+order to/Because
 c. Each team tries to score more points win the
-match. (in spite of/in order to/so that)
+match. (in spite of/in order to/so that
 d. The major target of the teams is try getting
-highest score. (because/so/to)
+highest score. (because/so/to
 B. Answer the following questions.
 a. Why is volleyball widely played in Nepal?
 b. How many players are there in a volleyball match?
@@ -1923,33 +150,27 @@ A. How do you play volleyball? Make a list of rules you should
 follow while playing it.
 B. What game do you like most? Why do you like that game?
 Write about it in a paragraph.
-61
 English Grade 6
-
- Project work
+Project work
 Work in groups and act out the play given in Reading I.
- Extra bit: Collective nouns
-| Collective nouns     | Collective nouns    | Collective nouns     |
-| -------------------- | ------------------- | -------------------- |
-| used for people      | used for animals    | used for things      |
-| A band of musicians  | An army of ants     | A bouquet of flowers |
-| A board of directors | A flock of birds    | A bunch of flowers   |
-| A choir of singers   | A flock of sheep    | A fleet of ships     |
-| A class of students  | A herd of deer      | A forest of trees    |
-| A crowd of people    | A hive of bees      | A galaxy of stars    |
-| A gang of thieves    | A litter of puppies | A pack of cards      |
-| A pack of thieves    | A murder of crows   | A pack of lies       |
-| A panel of experts   | A pack of hounds    | A pair of shoes      |
-| A team of players    | A pack of wolves    | A range of mountains |
-| A troupe of dancers  | A school of fish    |                      |
+Extra bit: Collective nouns
+| Collective nouns | Collective nouns | Collective nouns |
+| used for people | used for animals | used for things |
+| A band of musicians  | An army of ants | A bouquet of flowers |
+| A board of directors | A flock of birds | A bunch of flowers |
+| A choir of singers | A flock of sheep | A fleet of ships |
+| A class of students  | A herd of deer | A forest of trees |
+| A crowd of people | A hive of bees | A galaxy of stars |
+| A gang of thieves | A litter of puppies | A pack of cards |
+| A pack of thieves | A murder of crows | A pack of lies |
+| A panel of experts | A pack of hounds | A pair of shoes |
+| A team of players | A pack of wolves | A range of mountains |
+| A troupe of dancers  | A school of fish | |
 A swarm of locusts
 A team of horses
 A pride of lions
-62
 English Grade 6
-
 Unit
-7
 Getting started
 A. Look at the pictures and say what will happen next.
 B. Listen and sing.
@@ -1965,24 +186,19 @@ as our fathers we have betrayed.
 - Rudyard Kipling
 C. Tell your friend what your village/city will look like after ten
 years.
-63
 English Grade 6
-
- Reading I
+Reading I
 a.  What do you see in the pictures?
 b.  What are the results of such activities?
 Human and the Environment
-| No  part      | of  the  environment  |          |     |
-| ------------- | --------------------- | -------- | --- |
-| has  escaped  | the                   | effects  | of  |
+| No  part | of  the  environment  | | |
+| has  escaped  | the | effects  | of  |
 pollution. All over the world,
 the land, the air and the water
 have been contaminated by an
-| increasing  | amount  | of  waste  |     |
-| ----------- | ------- | ---------- | --- |
+| increasing  | amount  | of  waste  | |
 materials and substances.  The
-| waste  | comes  from  | factories,  |     |
-| ------ | ------------ | ----------- | --- |
+| waste  | comes  from  | factories,  | |
 homes and vehicles. In some cases, the waste is only an eyesore which
 spoils the beauty of our surroundings. In other cases, it is a serious
 threat to our health and can result in death.
@@ -1992,27 +208,21 @@ that can kill plant and animal life. When there is no proper government
 control,  factories  allow  these  substances  to  pour  into  rivers.  Their
 chimneys fill the atmosphere with poisonous fumes.
 In towns and cities, the use of
-fossil fuels (oil, coal and gas)
-| for  heating  | results           | in       | large  |
-| ------------- | ----------------- | -------- | ------ |
-| amounts       | of  carbon        | dioxide  |        |
-| filling       | the  atmosphere.  |          |        |
-| Although      | some  cities      |          | have   |
-| been  made    | smokeless         | zones,   |        |
-64
+fossil fuels (oil, coal and gas
+| for  heating  | results | in | large  |
+| amounts | of  carbon | dioxide  | |
+| filling | the  atmosphere.  | | |
+| Although | some  cities | | have |
+| been  made | smokeless | zones, | |
 English Grade 6
-
-| the  exhaust   | fumes             | from  |
-| -------------- | ----------------- | ----- |
-| the  vehicles  | on                | the   |
-| roads          | has  meant  that  | air   |
+| the  exhaust | fumes | from  |
+| the  vehicles  | on | the |
+| roads | has  meant  that  | air |
 pollution continues to be
 a major problem.
 | Each  | of  us  is  guilty  | of  |
-| ----- | ------------------- | --- |
 polluting our environment
-| to  some  | extent.  Almost  |     |
-| --------- | ---------------- | --- |
+| to  some  | extent.  Almost  | |
 everything we buy today
 comes in some sort of container or packaging, made of plastic, glass or
 aluminium which we usually throw away. Attempts have been made to
@@ -2025,16 +235,13 @@ the level of the oceans will rise by four to six metres and vast populated
 areas of planet will be covered by water. Can we afford to make such
 risks by continuing to pollute our environment?
 A.  Write the words from the text for these meanings.
-| a.  | been made impure                       |     |
-| --- | -------------------------------------- | --- |
-| b.  | danger                                 |     |
-| c.  | poisonous                              |     |
-| d.  | smoke                                  |     |
-| e.  | responsible for a specific wrong doing |     |
-| g.  | causing great damage                   |     |
-65
+| a.  | been made impure | |
+| b.  | danger | |
+| c.  | poisonous | |
+| d.  | smoke | |
+| e.  | responsible for a specific wrong doing | |
+| g.  | causing great damage | |
 English Grade 6
-
 B.  Answer the following questions.
 a.  What are the sources of waste?
 b.  What causes death to plants and animals?
@@ -2045,27 +252,23 @@ f.  What causes the rise in temperature?
 g.  What will be the result of melting ice?
 C.  Suppose you are the school captain. How will you keep your
 school clean and tidy?
- Reading II
+Reading II
 a.  What is the text below about?
 b.  Where do you find this type of text?
 Weather Forecast
-| Sunday   | Monday  | Tuesday  | Wednesday  |
-| -------- | ------- | -------- | ---------- |
-| June 20  | June 21 | June 22  | June 23    |
-| Thursday | Friday  | Saturday |            |
-| June 24  | June 25 | June 26  |            |
-66
+| Sunday | Monday  | Tuesday  | Wednesday  |
+| June 20  | June 21 | June 22  | June 23 |
+| Thursday | Friday  | Saturday | |
+| June 24  | June 25 | June 26  | |
 English Grade 6
-
 A.  What’s the weather like?
 a.  On Wednesday, it is snowy.
-b.  On Saturday, it is   .
-| c.  On Sunday, it is  |               |  .  |
-| --------------------- | ------------- | --- |
-| d.  On Friday,        |               |  .  |
-| e.  It is             |  on Thursday. |     |
-| f.  It is             |  on Monday.   |     |
-| g.  It is             |  on Tuesday.  |     |
+b.  On Saturday, it is .
+| c.  On Sunday, it is  | |  .  |
+| d.  On Friday, | |  .  |
+| e.  It is |  on Thursday. | |
+| f.  It is |  on Monday. | |
+| g.  It is |  on Tuesday.  | |
 B.  Look at the days and weather pictures and write Yes or No.
 a.  It is Sunny on June 23.
 b.  It is cloudy on June 21.
@@ -2078,35 +281,28 @@ h.  It is snowy on June 23.
 i.  It is rainy on June 21.
 j.  It is windy on June 24.
 C.  Write WEATHER or SEASON.
-| a.  Hot    | : weather. |     |
-| ---------- | ---------- | --- |
-| b.  Rainy  | :          | .   |
-| c.  Fall   | :          | .   |
-| d.  Snowy  | :          | .   |
-67
+| a.  Hot | : weather. | |
+| b.  Rainy  | : | . |
+| c.  Fall | : | . |
+| d.  Snowy  | : | . |
 English Grade 6
-
-| e.  Winter    | :   | .   |
-| ------------- | --- | --- |
-| f.  Windy     | :   | .   |
-| g.  Summer :  |     | .   |
-| h.  Sunny     | :   | .   |
-| i.  Cold      | :   | .   |
-| j.  Spring    | :   | .   |
+| e.  Winter | : | . |
+| f.  Windy | : | . |
+| g.  Summer :  | | . |
+| h.  Sunny | : | . |
+| i.  Cold | : | . |
+| j.  Spring | : | . |
 D.  Listen to the English news on Radio Nepal this evening. What
 will the weather be like tomorrow? Write in your notebook
 and tell your class.
- Speaking
+Speaking
 A.  Act out the following conversation.
-| Ramesh  :  Hi, Ramila. It’s cold  |     |     |
-| --------------------------------- | --- | --- |
+| Ramesh  :  Hi, Ramila. It’s cold  | | |
 today, isn’t it?
-| Ramila  :  Yeah, I also feel cold  |     |     |
-| ---------------------------------- | --- | --- |
+| Ramila  :  Yeah, I also feel cold  | | |
 today. I think it will
 rain.
-| Ramesh  :  There is no sunshine  |     |     |
-| -------------------------------- | --- | --- |
+| Ramesh  :  There is no sunshine  | | |
 since this morning.
 Ramila  :  You are right. I guess, it’s going to be a cloudy day.
 B.  Talk to each other in pairs based on the given situations.
@@ -2115,10 +311,8 @@ b.  Gita studies very well.
 c.  It’s very windy.
 d.  He looks tired.
 e.  She looks happy.
-68
 English Grade 6
-
- Listening
+Listening
 A.  Look at the picture and answer the questions.
 a.  What is the woman doing?
 b.  Have you ever watched a weather report
@@ -2126,26 +320,21 @@ on television?
 c.  In which unit is rainfall measured?
 B.  Listen to the recording and complete the following table.
 | Cities | Maximum  | Minimum | Rainfall |
-| ------ | -------- | ------- | -------- |
-(Celsius)
-|               |     | (Celsius) | (Millimeter) |
-| ------------- | --- | --------- | ------------ |
-| Biratnagar    | 32  |           | No rainfall  |
-| Janakpur      |     | 23        | No rainfall  |
-| Kathmandu     | 26  | 13        |              |
-| Pokhara       |     | 12        | 20           |
-| Butwal        | 33  |           | No rainfall  |
-| Birendranagar |     | 13        | 10           |
+Celsius
+| | | (Celsius) | (Millimeter) |
+| Biratnagar | 32  | | No rainfall  |
+| Janakpur | | 23 | No rainfall  |
+| Kathmandu | 26  | 13 | |
+| Pokhara | | 12 | 20 |
+| Butwal | 33  | | No rainfall  |
+| Birendranagar | | 13 | 10 |
 C.  Listen to the weather report on the radio/television this evening.
 Note down the places that marked the maximum temperature
 and minimum temperature that day.
- Grammar
+Grammar
 A.  Look at the pictures and read the sentences.
-|   The van is going to hit the boys.    |     |  She will go abroad. |     |
-| -------------------------------------- | --- | -------------------- | --- |
-69
+| The van is going to hit the boys. | |  She will go abroad. | |
 English Grade 6
-
 B.  Study the following examples.
 a.  Oliver will be back soon. a.  We are going to watch a film –
 want to join us?
@@ -2155,30 +344,23 @@ c.  Do you think it’ll rain this
 afternoon?
 c.  Look! The bus is going to leave!
 C.  Choose the correct option to complete the sentences.
-a.  Don’t worry about your test! I’m sure   .
-|   i.  | you’ll pass  | ii.  you’re going to pass |
-| ----- | ------------ | ------------------------- |
-b.  I   on Sunday. I have a doctor’s appointment.
-|   i.                  | won’t come    | ii.  ’m not coming |
-| --------------------- | ------------- | ------------------ |
-| c.  Are you hot? OK,  |               |  open the window.  |
-|   i.                  | I’m going to  | ii.  I’ll          |
+a.  Don’t worry about your test! I’m sure .
+| i.  | you’ll pass  | ii.  you’re going to pass |
+b.  I on Sunday. I have a doctor’s appointment.
+| i. | won’t come | ii.  ’m not coming |
+| c.  Are you hot? OK,  | |  open the window.  |
+| i. | I’m going to  | ii.  I’ll |
 d.  Don’t leave your bag there! Someone  .
-|   i.                    | ’s stealing it     | ii.  ’ll steal it |
-| ----------------------- | ------------------ | ----------------- |
-| e.  It’s already 9:50!  |                    |  late for school. |
-|   i.                    | We’re going to be  | ii.  We’ll be     |
-f.  I forgot your drink!   go and get it now.
-|   i.                   | I’m going to  | ii.  I’ll                      |
-| ---------------------- | ------------- | ------------------------------ |
-| g.  Do you think they  |               |  the presents we got for them? |
-|   i.                   | ’ll like      | ii.  ’re going to like         |
-h.  ‘I haven’t got my phone.’ ‘That’s OK.   you mine.’
-|   i.  | I’ll lend  | ii.  I’m going to lend |
-| ----- | ---------- | ---------------------- |
-70
+| i. | ’s stealing it | ii.  ’ll steal it |
+| e.  It’s already 9:50!  | |  late for school. |
+| i. | We’re going to be  | ii.  We’ll be |
+f.  I forgot your drink! go and get it now.
+| i. | I’m going to  | ii.  I’ll |
+| g.  Do you think they  | |  the presents we got for them? |
+| i. | ’ll like | ii.  ’re going to like |
+h.  ‘I haven’t got my phone.’ ‘That’s OK. you mine.’
+| i.  | I’ll lend  | ii.  I’m going to lend |
 English Grade 6
-
 Writing
 A. What changes will occur in your school next year? Write in a
 paragraph.
@@ -2191,16 +373,13 @@ Extra bit: Kinds of sentences
 Imperative (gives a command) Drink enough water.
 Declarative (makes a statement) He is the leader of our group.
 What’s your name?
-Interrogative (asks a question)
+Interrogative (asks a question
 Do you like apples?
 Wow! What a beautiful garden
-Exclamatory (expresses strong feeling)
+Exclamatory (expresses strong feeling
 it is!
-71
 English Grade 6
-
 Unit
-8
 Getting started
 A. Study these two sets of pictures and state the differences.
 B. Listen and sing.
@@ -2212,9 +391,7 @@ We cracked jokes and we laughed loud
 We used to ignore rain and cloud.
 Did not feel hungry did not feel tired
 Even though whole day played in mire.
-72
 English Grade 6
-
 Where has gone those happy scenes
 I used to play at least in dreams.
 Remembering that I get pain
@@ -2241,9 +418,7 @@ This is what his grandfather said: There had been a peaceful travellers’
 rest in the middle of the village. People used to call it ‘Bar Pipal
 Chautaro’. Many travellers used to take rest at the Chautaro. Pipal was
 bigger than Bar, I think. I used to spend a lot at the Chautaro and meet
-73
 English Grade 6
-
 many people. People used to come there for rest and recreation. We could
 hear melodious songs by the birds while sitting at the Chautaro. There were
 large, plain, smooth stones where people used to sit and talk about different
@@ -2254,65 +429,51 @@ children became very happy when they got some time to have rest at the
 Chautaro. While returning home late, they used to spend a long time at the
 Chautaro. That was a public property of the villagers.
 But now, Mukesh finds
-| the  Chautaro  | is         | gone.    |
-| -------------- | ---------- | -------- |
-| Both           | Bar  and   | Pipal    |
-| have           | been  cut  | down     |
-| and  the       | beauty     | of  the  |
-| old  place     | has        | gone     |
+| the  Chautaro  | is | gone. |
+| Both | Bar  and | Pipal |
+| have | been  cut  | down |
+| and  the | beauty | of  the  |
+| old  place | has | gone |
 away. A road has been
 | constructed  | by  | the  |
-| ------------ | --- | ---- |
 Chautaro. People have
 lost the place to rest.
 A.  Match the words in column A with their meanings in column B.
-|     | Column A   |   Column B                          |
-| --- | ---------- | ----------------------------------- |
-| a.  | Chautaro   | i.  belongings                      |
-| b.  | melodious  | ii.  of all, not of an individual   |
-| c.  | public     | iii.  a rest stop along foot trails |
-| d.  | property   | iv.  sweet and pleasant tune        |
+| | Column A | Column B |
+| a.  | Chautaro | i.  belongings |
+| b.  | melodious  | ii.  of all, not of an individual |
+| c.  | public | iii.  a rest stop along foot trails |
+| d.  | property | iv.  sweet and pleasant tune |
 B.  Write whether the following statements are True or False.
-| a.  | There has been no changes in the village.       |     |
-| --- | ----------------------------------------------- | --- |
-| b.  | Mukesh asked his grandmother about the village. |     |
-74
+| a.  | There has been no changes in the village. | |
+| b.  | Mukesh asked his grandmother about the village. | |
 English Grade 6
-
-| c.  | There was a tap near the Chautaro.         |     |     |
-| --- | ------------------------------------------ | --- | --- |
-| d.  | Bar Pipal Chautaro has been destroyed now. |     |     |
+| c.  | There was a tap near the Chautaro. | | |
+| d.  | Bar Pipal Chautaro has been destroyed now. | | |
 C.  Write short answers to the following questions.
-| a.  | Where does Mukesh live?                       |     |     |
-| --- | --------------------------------------------- | --- | --- |
-| b.  | Why did people use to come to the Chautaro?   |     |     |
-| c.  | Who used to play at the Chautaro?             |     |     |
-| d.  | Does the Chautaro still exist in the village? |     |     |
- Speaking
+| a.  | Where does Mukesh live? | | |
+| b.  | Why did people use to come to the Chautaro? | | |
+| c.  | Who used to play at the Chautaro? | | |
+| d.  | Does the Chautaro still exist in the village? | | |
+Speaking
 A.  Underline all the sentences with ‘used to’ in the text ‘Gairigaun:
 Then and Now’. What do they mean?
 B.  Act out the following conversation.
 Ronish  :  Rina, do you remember the game you used to play when
 you were in class three?
-| Rina  | :  Yes,   | I  remember.  | I  used  |
-| ----- | --------- | ------------- | -------- |
-|       | to  play  | hide  and     | seek.    |
+| Rina  | :  Yes, | I  remember.  | I  used  |
+| | to  play  | hide  and | seek. |
 What did you use to play,
 Ronish?
-| Ronish  | :  I used to play Dandibiyo. |     |     |
-| ------- | ---------------------------- | --- | --- |
-| Rina    | :  Who did you use to play   |     |     |
+| Ronish  | :  I used to play Dandibiyo. | | |
+| Rina | :  Who did you use to play | | |
 with?
-| Ronish  | :  I used to play with my classmates. And, you? |     |     |
-| ------- | ----------------------------------------------- | --- | --- |
-| Rina    | :  I used to play with my sister.               |     |     |
+| Ronish  | :  I used to play with my classmates. And, you? | | |
+| Rina | :  I used to play with my sister. | | |
 Answer these questions.
-| a.  | Does Rina still play hide and seek? |     |     |
-| --- | ----------------------------------- | --- | --- |
-| b.  | Does Ronish still play Dandibiyo?   |     |     |
-75
+| a.  | Does Rina still play hide and seek? | | |
+| b.  | Does Ronish still play Dandibiyo? | | |
 English Grade 6
-
 C. What do you say in the following situations? Use ‘used to’.
 a. John doesn’t like apples now.
 b. You don’t wear shorts now.
@@ -2332,9 +493,7 @@ i. thatched ii. zinc iii. concrete
 b. People used to carry the patients in the to
 hospital.
 i. car ii. ambulance iii. stretcher
-76
 English Grade 6
-
 c. Children now use school bus and to go to school.
 i. motorbike ii. taxi iii. van
 C. Listen to the recording and write True or False.
@@ -2360,39 +519,31 @@ c. ..... people used to / didn’t use to read books.
 d. ..... people used to / didn’t use to watch TV.
 e. ..... people used to / didn’t use to drive cars.
 f. ..... people used to / didn’t use to walk everywhere.
-77
 English Grade 6
-
 C.  Choose the correct words to complete each sentence.
-| a.  Why did people                             |                                   |  mend their clothes?  |          |             |
-| ---------------------------------------------- | --------------------------------- | --------------------- | -------- | ----------- |
-|   i. used to                                   | ii. use to                        | iii. didn’t use to    |          |             |
-| b.  I   like watching football, but now I do.  |                                   |                       |          |             |
-|   i.  used to                                  | ii. use to                        | iii. didn’t use to    |          |             |
-| c.  What did you                               |  like doing  when you were young? |                       |          |             |
-|   i. used to                                   | ii. use to                        | iii. didn’t use to    |          |             |
-| d.  John                                       |  like Mary, but he doesn’t now.   |                       |          |             |
-|   i.  used to                                  | ii. use to                        | iii. didn’t use to    |          |             |
-| e.  People                                     |   produce                         | as  much              | rubbish  | as  we  do  |
+| a.  Why did people | |  mend their clothes?  | | |
+| i. used to | ii. use to | iii. didn’t use to | | |
+| b.  I like watching football, but now I do.  | | | | |
+| i.  used to | ii. use to | iii. didn’t use to | | |
+| c.  What did you |  like doing  when you were young? | | | |
+| i. used to | ii. use to | iii. didn’t use to | | |
+| d.  John |  like Mary, but he doesn’t now. | | | |
+| i.  used to | ii. use to | iii. didn’t use to | | |
+| e.  People | produce | as  much | rubbish  | as  we  do  |
 nowadays.
-|   i.  used to  | ii. use to                             | iii. didn’t use to  |     |     |
-| -------------- | -------------------------------------- | ------------------- | --- | --- |
-| f.  Did you    |  collect anything when you were young? |                     |     |     |
-|   i.  used to  | ii.  use to                            | iii. didn’t use to  |     |     |
+| i.  used to  | ii. use to | iii. didn’t use to  | | |
+| f.  Did you |  collect anything when you were young? | | | |
+| i.  used to  | ii.  use to | iii. didn’t use to  | | |
 D.  Complete these sentences with used to or didn’t use to.
-| a.  I   play the guitar, but I do now.         |                                              |     |     |     |
-| ---------------------------------------------- | -------------------------------------------- | --- | --- | --- |
-| b.  I   ride a bike, but I don’t any more.     |                                              |     |     |     |
-| c.  I   collect stamps, but I don’t any more.  |                                              |     |     |     |
-| d.  I   enjoy getting up early, but I do now.  |                                              |     |     |     |
-| e.  I                                          |  be worried about the environment, but I am  |     |     |     |
+| a.  I play the guitar, but I do now. | | | | |
+| b.  I ride a bike, but I don’t any more. | | | | |
+| c.  I collect stamps, but I don’t any more.  | | | | |
+| d.  I enjoy getting up early, but I do now.  | | | | |
+| e.  I |  be worried about the environment, but I am  | | | |
 now.
-| f.  I   be afraid of flying, but I’m not anymore.  |     |     |     |     |
-| -------------------------------------------------- | --- | --- | --- | --- |
-| g.  I   know how to use a computer, but I do now.  |     |     |     |     |
-78
+| f.  I be afraid of flying, but I’m not anymore.  | | | | |
+| g.  I know how to use a computer, but I do now.  | | | | |
 English Grade 6
-
 Reading II
 a. What is the name of the girl in the picture?
 b. Why is she popular?
@@ -2420,15 +571,15 @@ as other people.
 Jewish children could not go to school with other children. They could
 only go to school with other Jewish children and teachers. More and
 more laws were passed separating the Jews from other Dutch people.
-79
 English Grade 6
-
 1942: Anne’s parents gave her a diary as a present for her 13th birthday
 on 12 June. She wrote in it: “I hope I shall be able to confide in you
 completely and I hope that you will be a great support and comfort to
 me.”
 Anne’s older sister, Margot, was told to report to a transit camp on July
-10. The family went into hiding in “The Secret Annex” — a part of Mr.
+
+## 10: The family went into hiding in “The Secret Annex” — a part of Mr.  {#ch-10}
+
 Frank’s office. Another family, the Van Pels, joined them on 13 July,
 and an eighth person came in November. They received food. They
 were helped and visited by people who worked for Anne’s father.
@@ -2440,18 +591,10 @@ the floor. One of the family’s helpers picked it up and kept it.
 A. Complete the table.
 Year The events
 1929 Anne Frank was born.
-1933
-1934
-1939
-1940
-1941
-1944
 B. Write down the questions corresponding to these dates in the
 life of Anne Frank.
 1929: When: ?
-80
 English Grade 6
-
 1933: Why: ?
 1939: What: ?
 1944: Who: ?
@@ -2461,16 +604,6 @@ b. How old was Anne in 1942?
 c. Where did her family hide?
 D. Prepare a timeline of your life till now. Write the years and
 events.
-s
-t
-n
-e
-v
-E
-s
-r
-a
-e
 Birth Y
 E. Write all the past forms of verbs from the text and use them
 in your own sentences. Write honestly aboout which are
@@ -2479,9 +612,7 @@ Example: was I was born in ……… .
 Writing
 A. With the help of your parents recall some of your past habits.
 Write what you used to do and what you did not use to do.
-81
 English Grade 6
-
 B. Observe the pictures and write the differences you find. Use
 the given clues.
 greenery less population pollution big buildings
@@ -2492,7 +623,7 @@ changes that have occurred. Write a couple of paragraphs about
 the changes and present it to the class.
 Extra bit: Alphabetical order
 You know that in the English alphabet, A (a) is the first letter and Z
-(z) the last. The words in the dictionary are in the same order as the
+z) the last. The words in the dictionary are in the same order as the
 letters of the alphabet. Words starting with ‘a’ are at the beginning
 and those starting with ‘z’ are at the end. This means that the words
 in the dictionary are in alphabetical order. The following words are in
@@ -2502,11 +633,8 @@ water, wealth.
 b. deaf, dear, debate, decide, decorate, demand, develop, device, dig,
 dry.
 c. key, keyword, kill, king, knife, knit, know, knowledge.
-82
 English Grade 6
-
 Unit
-9
 Getting started
 A. Compare these pairs of pictures.
 B. Listen and sing.
@@ -2514,28 +642,25 @@ Can I compare moon to the earth
 Or can compare death to the birth
 I know what means big, bigger, biggest
 But still confused earth or moon, the best
-83
 English Grade 6
-
 Earning is good but learning is the best
 Everyone says discipline defeats all the rest
 Here in school I find everything tough and tall
 What is the way of living life easiest of all?
-C.   Which of the subjects you study is easier/more difficult for you?
+C. Which of the subjects you study is easier/more difficult for you?
 Talk to your friends.
- Reading I
+Reading I
 a.  What are some popular lakes in Nepal?
 b.  Where is Rara lake located?
 c.  Why do people go there?
 Rara Lake
-| Rara             | Lake  is          | the   |
-| ---------------- | ----------------- | ----- |
-| biggest          | lake  in  Nepal.  |       |
-| It  is  located  | in  Mugu          |       |
-| district         | of  Karnali       |       |
-| Province.        | It  covers        | a     |
-| water  surface   | of                | 10.8  |
-| square           | kilometres        | and   |
+| Rara | Lake  is | the |
+| biggest | lake  in  Nepal.  | |
+| It  is  located  | in  Mugu | |
+| district | of  Karnali | |
+| Province. | It  covers | a |
+| water  surface | of | 10.8  |
+| square | kilometres | and |
 it is 167 metres deep. It
 is situated at an altitude of 2990 metres with the beautiful surroundings
 around. It is an important tourist site of Rara National Park.
@@ -2544,19 +669,14 @@ and feel. One of the interesting things about Rara Lake is that it is a
 colourful lake. It exhibits three different colours in a day. The reason is
 still unknown. Similarly, the background of the lake keeps on changing
 time and again. It is also another mystery about Rara.
-84
 English Grade 6
-
 | The  next  | amazing  | feature  of  |
-| ---------- | -------- | ------------ |
 Rara Lake is its mirror effect.
 The water of the lake is crystal
 clear. People do not even feel
 | that  they  | are  on  | water  while  |
-| ----------- | -------- | ------------- |
 boating. While boating on the
 | lake,  the  | visitors  | are  amazed  |
-| ----------- | --------- | ------------ |
 by the view of the hills and green forests at their front, and exactly the
 same inside the water with their own images.
 Rara Lake is full of magnificent beauty. It is one of the best destinations
@@ -2573,15 +693,12 @@ Such a splendid and beautiful Rara Lake can be visited either by the air
 route by taking the flight to Talcha airport of Mugu from Nepalgunj or
 through the Karnali Highway by bus or jeep.
 A.  Match the words in column A with their meanings in column B.
-|     | Column A     |   Column B                    |
-| --- | ------------ | ----------------------------- |
-| a.  | mystery      | i.  silence                   |
-| b.  | magnificent  | ii.  going to die out         |
-| c.  | endangered   | iii.  difficult to understand |
-| d.  | solitude     | iv.  grand in appearance      |
-85
+| | Column A | Column B |
+| a.  | mystery | i.  silence |
+| b.  | magnificent  | ii.  going to die out |
+| c.  | endangered | iii.  difficult to understand |
+| d.  | solitude | iv.  grand in appearance |
 English Grade 6
-
 B. Read the text again and write True for true and False for false
 statements.
 a. Rara Lake is the second largest lake in Nepal.
@@ -2600,104 +717,82 @@ D. Have you ever visited a lake? Share your experience.
 Speaking
 A. Look at the pictures and words under them. What do they
 mean?
-thin (50 pages) thinner (30 pages) thinnest (10 pages)
-fast (50 km/h) faster (70 km/h) fastest (100 km/h)
-86
+thin (50 pages) thinner (30 pages) thinnest (10 pages
+fast (50 km/h) faster (70 km/h) fastest (100 km/h
 English Grade 6
-
 | heavy (5 kg) | heavier (15 kg) | heaviest (30 kg) |
-| ------------ | --------------- | ---------------- |
 B.  Study these words.
-| good          | better             | best              |
-| ------------- | ------------------ | ----------------- |
-| scary         | scarier            | scariest          |
-| hot           | hotter             | hottest           |
-| bad           | worse              | worst             |
-| dangerous     | more dangerous     | most dangerous    |
-| interesting   | more interesting   | most interesting  |
+| good | better | best |
+| scary | scarier | scariest |
+| hot | hotter | hottest |
+| bad | worse | worst |
+| dangerous | more dangerous | most dangerous |
+| interesting | more interesting | most interesting  |
 | embarrassing  | more embarrassing  | most embarrassing |
-| old           | older              | oldest            |
-| young         | younger            | youngest          |
-| important     | more important     | most important    |
-| disgusting    | more disgusting    | most disgusting   |
+| old | older | oldest |
+| young | younger | youngest |
+| important | more important | most important |
+| disgusting | more disgusting | most disgusting |
 The words in the second column are comparative adjectives and
 the words in the third column are superlative adjectives.
 C.  Work in pairs. Insert a comparative or superlative into the
 questions below. When finished ask and answer the questions.
 Student A
-a.  What country is   (good) to live in? Why?
-| b.  What is  |  (scary) movie you have watched? |     |
-| ------------ | -------------------------------- | --- |
-87
+a.  What country is (good) to live in? Why?
+| b.  What is  |  (scary) movie you have watched? | |
 English Grade 6
-
-| c.  Is a sports car  |     |  (fast) than a bicycle?                |     |     |
-| -------------------- | --- | -------------------------------------- | --- | --- |
-| d.  What is          |     |  (hot) place you have ever been to?    |     |     |
-| e.  What is          |     |  (bad) present you have ever received? |     |     |
-| f.  What is          |     |  (dangerous) job? Driving or farming?  |     |     |
+| c.  Is a sports car  | |  (fast) than a bicycle? | | |
+| d.  What is | |  (hot) place you have ever been to? | | |
+| e.  What is | |  (bad) present you have ever received? | | |
+| f.  What is | |  (dangerous) job? Driving or farming?  | | |
 Student B
-| a.  Who is    |     |  (interesting) person you know?               |             |             |
-| ------------- | --- | --------------------------------------------- | ----------- | ----------- |
-| b.  Which is  |     |  (bad) for your health: alcohol or marijuana? |             |             |
-| c.  What      | is  |   (embarrassing)                              | thing  you  | have  done  |
+| a.  Who is | |  (interesting) person you know? | | |
+| b.  Which is  | |  (bad) for your health: alcohol or marijuana? | | |
+| c.  What | is  | (embarrassing) | thing  you  | have  done  |
 recently?
 d.  Which is better? To make friends with someone who is
-| (old) or      |     |  (young) than you?                            |     |     |
-| ------------- | --- | --------------------------------------------- | --- | --- |
-| e.  What was  |     |  (important) invention in history?            |     |     |
-| f.  What is   |     |  (disgusting) dish you have ever eaten?       |     |     |
-| g.  Which is  |     |  (bad): having your toe cut off, or having a  |     |     |
+| (old) or | |  (young) than you? | | |
+| e.  What was  | |  (important) invention in history? | | |
+| f.  What is | |  (disgusting) dish you have ever eaten? | | |
+| g.  Which is  | |  (bad): having your toe cut off, or having a  | | |
 leg cut off?
- Listening
- A.   Look at the picture and answer these questions.
-| a.  | Do you know which place it is?                  |     |     |     |
-| --- | ----------------------------------------------- | --- | --- | --- |
-| b.  | Why do we go to this place?                     |     |     |     |
-| c.  | Can you guess what the person is talking about? |     |     |     |
-B.   Listen to the recording and tick the best answer.
-| a.  | Rahul is from      | .                                            |                 |     |
-| --- | ------------------ | -------------------------------------------- | --------------- | --- |
-|     | i. Paanch Pokhari  | ii. Shanti Chowk                             | iii. Paanchkhal |     |
-| b.  | It takes           |  to reach the restaurant from Rahul’s place  |                 |     |
+Listening
+A. Look at the picture and answer these questions.
+| a.  | Do you know which place it is? | | | |
+| b.  | Why do we go to this place? | | | |
+| c.  | Can you guess what the person is talking about? | | | |
+B. Listen to the recording and tick the best answer.
+| a.  | Rahul is from | . | | |
+| | i. Paanch Pokhari  | ii. Shanti Chowk | iii. Paanchkhal | |
+| b.  | It takes |  to reach the restaurant from Rahul’s place  | | |
 on foot.
-|     | i. 15 minutes  | ii. 30 minutes  | iii. 10 minutes  |     |
-| --- | -------------- | --------------- | ---------------- | --- |
-88
+| | i. 15 minutes  | ii. 30 minutes  | iii. 10 minutes  | |
 English Grade 6
-
-c.  The caller ordered   of vegetable momo.
-|   i. one plate  |     | ii. two plates  | iii. three plates |
-| --------------- | --- | --------------- | ----------------- |
+c.  The caller ordered of vegetable momo.
+| i. one plate  | | ii. two plates  | iii. three plates |
 d.  The total amount for the food and delivery is  :
-|   i. Rs. 516  |     | ii. Rs. 560  | iii. Rs. 550 |
-| ------------- | --- | ------------ | ------------ |
-C.   Have you ever visited a hotel or a restaurant for your meals or
+| i. Rs. 516  | | ii. Rs. 560  | iii. Rs. 550 |
+C. Have you ever visited a hotel or a restaurant for your meals or
 breakfast? What do you like to eat there? Talk to your friends.
- Grammar
+Grammar
 A.  Look at the pictures and read the sentences.
 My dog is bigger
 than his dog.
 The horse is running faster
 than the cow.
-|     |     | Rs. 20 | Rs.10 |
-| --- | --- | ------ | ----- |
+| | | Rs. 20 | Rs.10 |
 Rs.30
 Mt. Everest is the tallest  All three biscuits are cheap, but the
-| mountain in the world.  |     | second one is the cheapest of all.  |     |
-| ----------------------- | --- | ----------------------------------- | --- |
+| mountain in the world.  | | second one is the cheapest of all.  | |
 B.  Write  the  comparative  and  superlative  forms  of  these
 adjectives.
-| Example:   | young        | younger  | youngest  |
-| ---------- | ------------ | -------- | --------- |
-| small      | big          | tall     | heavy     |
-| clean      | happy        | loud     | large     |
-| noisy      | fast         | fat      | thin      |
-| great      | hot          | cold     | close     |
+| Example: | young | younger  | youngest  |
+| small | big | tall | heavy |
+| clean | happy | loud | large |
+| noisy | fast | fat | thin |
+| great | hot | cold | close |
 | beautiful  | interesting  | popular  | difficult |
-89
 English Grade 6
-
 C. Complete the following sentences using suitable forms of
 adjectives given in brackets.
 a. It is (hot) in summer in Kathmandu. But, Biratnagar
@@ -2705,8 +800,8 @@ is (hot) than Kathmandu.
 b. My notebook is very (clean).
 c. Which is the (long) river in Nepal?
 d. All the classrooms of our school are large. But our class is the
-(large) of all.
-e. Why are you debating with me? My jacket is (warm)
+large) of all.
+e. Why are you debating with me? My jacket is (warm
 than yours.
 f. We wear (thin) clothes in the summer season.
 g. Let’s see whose pencil is the (long) of all.
@@ -2715,48 +810,34 @@ Writing
 A. Look at the following picture and describe it using appropriate
 forms of adjectives given in the box.
 tall short long big small high low thick thin
-90
 English Grade 6
-
 Begin like this:
 This is a beautiful village. There are houses, towers, trees, flowers, and
 many other things in the village. The pine tree is taller than the mango
 tree.  .
 B.  Write  a  description  about  how  your  classroom  is  different
 from others. Use comparative adjectives.
- Reading II
+Reading II
 a.  What do the following tables show?
 b.  Have you ever seen simiar menus? Where?
 Food Menu
 Besisahar Chamena Griha Deurali Restaurant
 Lamjung Lamjung
-| Items     |     | Price (Rs.) | Items     | Price (Rs.) |
-| --------- | --- | ----------- | --------- | ----------- |
-| Black Tea |     | 10          | Black Tea | 15          |
-| Milk Tea  |     |             | Milk Tea  |             |
-20 25
-| Cold Drinks |     |     | Cold Drinks |     |
-| ----------- | --- | --- | ----------- | --- |
-45 45
-| French Fries |     |     | French Fries |     |
-| ------------ | --- | --- | ------------ | --- |
-85 80
-| Momo (Veg/Chicken) |         |         | Momo (Veg/Chicken) |         |
-| ------------------ | ------- | ------- | ------------------ | ------- |
-|                    |         | 80/120  |                    | 75/115  |
-| Chow Mein          |         |         | Chow Mein          |         |
-|                    |         | 80/120  |                    | 85/125  |
-| (Veg/Chicken)      |         |         | (Veg/Chicken)      |         |
-| Thakali            | Khana   | 120/150 | Thakali Khana      | 130/180 |
-| (Veg/Chicken)      |         |         | (Veg/Chicken)      |         |
+| Items | | Price (Rs.) | Items | Price (Rs.) |
+| Black Tea | | 10 | Black Tea | 15 |
+| Milk Tea  | | | Milk Tea  | |
+| Cold Drinks | | | Cold Drinks | |
+| French Fries | | | French Fries | |
+| Momo (Veg/Chicken) | | | Momo (Veg/Chicken) | |
+| Chow Mein | | | Chow Mein | |
+| (Veg/Chicken) | | | (Veg/Chicken) | |
+| Thakali | Khana | 120/150 | Thakali Khana | 130/180 |
+| (Veg/Chicken) | | | (Veg/Chicken) | |
 A.  Fill in the blanks with the correct information.
-| a.  The price of milk tea is  |     |                                             |  in Besisahar Chamena Griha. |     |
-| ----------------------------- | --- | ------------------------------------------- | ---------------------------- | --- |
-| b.   Momo and                 |     |  are cheaper in Deurali Restaurant than in  |                              |     |
+| a.  The price of milk tea is  | | |  in Besisahar Chamena Griha. | |
+| b. Momo and | |  are cheaper in Deurali Restaurant than in  | | |
 Besisahar Chamena Griha.
-91
 English Grade 6
-
 c. The price of is same in both places.
 d. The price of veg chow mein between the two places differs
 by .
@@ -2784,9 +865,7 @@ He is a better player than Ronaldo.
 Superlative adjectives are used to describe an object which is at the
 upper or lower limit of a quality (the tallest, the smallest, the fastest, the
 highest).
-92
 English Grade 6
-
 Examples:
 It was the happiest day of my life.
 Everest is the highest mountain in the world.
@@ -2795,32 +874,24 @@ I have three sisters: Jan is the oldest and Angela is the youngest.
 Forming comparatives and superlatives.
 We usually add –er and –est to one-syllable words to make comparatives
 and superlatives:
-| old  | older  | oldest |     |
-| ---- | ------ | ------ | --- |
+| old  | older  | oldest | |
 If an adjective ends in –e, we add –r or –st:
-| large   | larger  | largest |     |
-| ------- | ------- | ------- | --- |
+| large | larger  | largest | |
 If an adjective ends in a vowel and a consonant, we double the consonant:
-| big  | bigger  | biggest |     |
-| ---- | ------- | ------- | --- |
+| big  | bigger  | biggest | |
 If an adjective ends in a consonant and –y, we change –y to –i and add
 –er or –est:
-| happy  | happier  | happiest |     |
-| ------ | -------- | -------- | --- |
+| happy  | happier  | happiest | |
 We use more and most to make comparatives and superlatives for
 most two syllable adjectives and for all adjectives with three or more
 syllables:
 The  adjectives  good,  bad  and  far  have  irregular  comparatives  and
 superlatives:
-| good  | better           |     | best              |
-| ----- | ---------------- | --- | ----------------- |
-| bad   | worse            |     | worst             |
-| far   | farther/further  |     | farthest/furthest |
-93
+| good  | better | | best |
+| bad | worse | | worst |
+| far | farther/further  | | farthest/furthest |
 English Grade 6
-
 Unit
-10
 Getting started
 A. Look at the following pictures and say what they are about.
 B. Listen and sing.
@@ -2832,9 +903,7 @@ Man came to tell it what was wrong
 It hadn’t found the place to blow;
 It blew too hard—the aim was song.
 And listen—how it ought to go! - Robert Frost
-94
 English Grade 6
-
 C. Imagine you are visiting a library. You have to follow various
 rules there. Can you think of some rules at a library? Talk to
 your friends.
@@ -2854,9 +923,7 @@ other visitors.
 anyone is found doing so they will be punished.
 • No one is allowed to tease, poke or feed animals.
 • Plucking of buds, flowers and tearing the leaves are punishable.
-95
 English Grade 6
-
 • The litter should be kept in the bins.
 • Selling of goods of any type by the visitors in the zoo premises is
 prohibited.
@@ -2866,8 +933,8 @@ Central Zoo
 Jawalakhel, Lalitpur
 Nepal
 A. Find the words from the text as indicated in brackets.
-a. sound (synonym) b. rewardable (antonym)
-c. dirt (synonym) d. allowed (antonym)
+a. sound (synonym) b. rewardable (antonym
+c. dirt (synonym) d. allowed (antonym
 B. Write True or False against the following statements.
 a. Zoo officials can check tickets.
 b. The visitors can bring polythene bags into the zoo.
@@ -2880,11 +947,9 @@ other sources about Central Zoo. Then, write a paragraph
 about it.
 D. Which rules of the zoo do you like most? Why? Explain with
 reasons.
-96
 English Grade 6
-
- Speaking
-A.   Read and act out the conversation in pairs.
+Speaking
+A. Read and act out the conversation in pairs.
 Wow! So  Yes, I think there
 many books! are hundreds of
 books.
@@ -2896,20 +961,16 @@ allowed to read,
 Let’s be silent and  but not allowed
 to talk.
 read the books.
-B.   Work in pairs. Talk to each other in the following situations (a
+B. Work in pairs. Talk to each other in the following situations (a
 to f) using the structures given below.
-| a.  In a garden         |     | b.  In a park    |     |
-| ----------------------- | --- | ---------------- | --- |
-| c.  In a school hostel  |     | d.  In a zoo     |     |
-| e.  In a museum         |     | f.  In a library |     |
+| a.  In a garden | | b.  In a park | |
+| c.  In a school hostel  | | d.  In a zoo | |
+| e.  In a museum | | f.  In a library | |
 Structures:
-| You should          |     | You shouldn’t            |     |
-| ------------------- | --- | ------------------------ | --- |
-| You are allowed to  |     |   You aren’t allowed to  |     |
-| You can             |     | You can’t                |     |
-97
+| You should | | You shouldn’t | |
+| You are allowed to  | | You aren’t allowed to  | |
+| You can | | You can’t | |
 English Grade 6
-
 Listening
 A. Look at the picture and answer the questions.
 a. What is the boy doing?
@@ -2930,9 +991,7 @@ Grammar
 A. Look at the pictures and read these sentences.
 Let’s run. We should help him
 immediately.
-98
 English Grade 6
-
 Dear students, you have to be
 disciplined at all times. Is it okay?
 You are not allowed to go out of the
@@ -2961,9 +1020,7 @@ a. You apologise; it isn’t necessary.
 b. You tell the boss what happened, or he’ll fire you.
 c. I leave early because I am not feeling well.
 d. I wear a tie; I do it because I like wearing ties.
-99
 English Grade 6
-
 e. You smoke in here; smoking is not allowed.
 f. I don’t like these clothes, but I wear them at work.
 g. I be late. It’s the most important meeting of the year.
@@ -2984,48 +1041,40 @@ I didn’t come to school yesterday because I was ill.
 E. Choose the correct word from the brackets to complete the
 sentences.
 a. She was absent yesterday she was not feeling well.
-(and/because/but)
+and/because/but
 b. She went to the coffee shop had a black coffee.
-(and/because/but)
-c. He was poor generous. (and/because/but)
+and/because/but
+c. He was poor generous. (and/because/but
 d. Many of us were out of the classroom it was tiffin
-time. (and/because/but)
-100
+time. (and/because/but
 English Grade 6
-
-| e.  | The  teacher  | came  into  the  | classroom  |   started  |
-| --- | ------------- | ---------------- | ---------- | ---------- |
-teaching. (and/because/but)
- Reading II
+| e.  | The  teacher  | came  into  the  | classroom  | started  |
+teaching. (and/because/but
+Reading II
 a.  What do you think these children are doing?
 b.  Should we follow rules in public places? Why?
 Rules at Museum
-| Amit  | :   Hi  Eshika,  | let’s  visit  |     |     |
-| ----- | ---------------- | ------------- | --- | --- |
-|       | the  museum      | this          |     |     |
-|       | Saturday         | if  you  are  |     |     |
+| Amit  | : Hi  Eshika,  | let’s  visit  | | |
+| | the  museum | this | | |
+| | Saturday | if  you  are  | | |
 free.
-| Eshika  | :   Wow! good idea. But  |     |     |     |
-| ------- | ------------------------ | --- | --- | --- |
+| Eshika  | : Wow! good idea. But  | | | |
 does the museum open
 on Saturdays?
-Amit  :   Yes, it opens on holidays and remains closed on Tuesday
+Amit  : Yes, it opens on holidays and remains closed on Tuesday
 instead.
 Eshika  :  Then, I am ready to go. I am excited to take photos with the
 antiques in my hand.
 Amit  :  No, no.  You are not allowed to touch any items in the museum.
 You should keep a distance and just observe them.
-| Eshika  | :  Oh! So sad. Why is that? |     |     |     |
-| ------- | --------------------------- | --- | --- | --- |
+| Eshika  | :  Oh! So sad. Why is that? | | | |
 Amit  :  Those antique items are really rare ones. If we touch them,
 they may be ruined.
 Eshika  :  Oh, I see. In order to save those items from being ruined,
 we must keep a distance from them, right?
 Amit  :  Yes! We have to follow certain rules while visiting there.
 Eshika  :  Could you please tell me what we should do and what we
-101
 English Grade 6
-
 should not do there?
 Amit : Sure. We have to maintain silence while visiting. We can
 take photos of some items that we are allowed to. We
@@ -3041,13 +1090,17 @@ A. Look at the clues given below and solve the puzzle.
 7.R
 8.M
 Across Down
-1. Not common 2. Give permission
-3. No office day 4. Length of space between two points
-6. To keep in good condition 5. Very old
-8. The place where historic items are kept 7. Destroy
-102
-English Grade 6
 
+## 1: Not common 2. Give permission  {#ch-1}
+
+3. No office day 4. Length of space between two points
+
+## 6: To keep in good condition 5. Very old  {#ch-6}
+
+
+## 8: The place where historic items are kept 7. Destroy  {#ch-8}
+
+English Grade 6
 B. Answer the following questions.
 a. When are Eshika and Amit going to visit the museum?
 b. How can you say that the museum remains open for six days
@@ -3071,16 +1124,14 @@ I must go now.
 I have to finish my homework by this evening.
 You should go to a doctor.
 B. Study the examples and learn their meanings.
-I must remember to buy a gift for my son. (my opinion)
-103
+I must remember to buy a gift for my son. (my opinion
 English Grade 6
-
-You have to look after your wounds regularly. (doctors says so)
-Do you have to wear a tie for school? (asking about school rules)
+You have to look after your wounds regularly. (doctors says so
+Do you have to wear a tie for school? (asking about school rules
 You mustn’t forget to bring your book. (don’t forget - you have no
-choice)
+choice
 If you don’t like him, you don’t have to see him again. (there is no
-obligation to see him again, but you have a choice)
+obligation to see him again, but you have a choice
 In a non-smoking area you mustn’t smoke, but in a smoking area
 you don’t have to smoke but you can if you want to.
 C.  Have changes in the third person singular (he/she/it has); but
@@ -3092,18 +1143,14 @@ D.  Study these pairs of sentences.
 You can smoke here. You are allowed to smoke here.
 You mustn’t speak loudly. You are not allowed to speak loudly.
 E.  Put the words in the correct order to make sentences.
-| a.  anyone  | You  !        | tell  mustn’t  |                |
-| ----------- | ------------- | -------------- | -------------- |
-| b.  have    | early  there  | to  be         | we  .          |
-| c.  Dad     | must  to      | .  I           | call  remember |
-| d.  You     | .  don’t      | have  pay      | to             |
-| e.  fruit   | this  You     | try  salad     | should !       |
-| f.  class   | You  .        | late  mustn’t  | for  be        |
-104
+| a.  anyone  | You  ! | tell  mustn’t  | |
+| b.  have | early  there  | to  be | we  . |
+| c.  Dad | must  to | .  I | call  remember |
+| d.  You | .  don’t | have  pay | to |
+| e.  fruit | this  You | try  salad | should ! |
+| f.  class | You  . | late  mustn’t  | for  be |
 English Grade 6
-
 Unit
-11
 Getting started
 A. Look at the pictures and discuss the answers to these questions
 in groups.
@@ -3118,9 +1165,7 @@ I saw the lawn with people and steps around.
 Only few were at center with a cheering sound.
 A huge display was blinking time and again.
 Either to show the point or the result then.
-105
 English Grade 6
-
 C. What electronic gadget do you like most? What features of the
 gadget attract you? Tell your friends.
 Reading I
@@ -3149,9 +1194,7 @@ Communication between people has become quite easy and very fast.
 We can keep in contact with others from any place on the bus, in a
 street or in a meeting by sending a message for less than the price of a
 call. The Internet can be accessed through it and it is also used to click
-106
 English Grade 6
-
 photos and shoot videos.
 At the same time, parents can control their children and it is essential
 during emergencies. Business deals can be done on a single call through
@@ -3178,9 +1221,7 @@ c. Using mobile phones during driving can cause
 d. The price of a call is more expensive than sending a
 e. The invention of mobile phones has brought us
 to a single point.
-107
 English Grade 6
-
 C. Complete the following table.
 Benefits of mobile phones Negative effects of mobile phones
 Speaking
@@ -3195,13 +1236,11 @@ Sujan : Yes, They are digging in the
 field.
 B. Present continuous or present simple. Study these sentences.
 I get up every morning at 7:00. (NOT I am getting up every
-morning at 7:00.)
-She is reading a book now. (NOT She reads a book now.)
+morning at 7:00.
+She is reading a book now. (NOT She reads a book now.
 They aren’t reading a book now. (NOT They don’t read a book
-now.)
-108
+now.
 English Grade 6
-
 Now, use present simple or present continuous to complete the
 sentences. Work in pairs and take turns to ask and answer.
 a. (you/come) tonight?
@@ -3214,9 +1253,7 @@ g. He (not/play) golf now.
 h. They (go) to a restaurant every Saturday.
 C. Work in pairs. Take turns to ask and answer questions about
 the pictures.
-109
 English Grade 6
-
 D. Look out of the classroom. See what is happening. Say at least
 five things to your friends.
 Listening
@@ -3239,9 +1276,7 @@ d. Before his death, Plato passed the responsibility of the
 Academy to his sister’s .
 D. Do you know a famous person in your locality? Talk about his/
 her life and contributions.
-110
 English Grade 6
-
 Grammar
 A. Look at the sentences below and study the use of ‘is, am, are’
 and ‘-ing’.
@@ -3263,9 +1298,7 @@ I am eating I am eating
 I have a
 an apple. a mango.
 mobile phone.
-111
 English Grade 6
-
 Manish is the tallest
 The sun rises in the east.
 student in our class.
@@ -3282,92 +1315,72 @@ i. How far is Sun from the Earth?
 j. Look! There is cat on top of your house.
 k. I saw accident on the way to my school yesterday.
 l. I only drank cup of tea this morning.
-112
 English Grade 6
-
- Reading II
+Reading II
 a.  What facts do you know about mobile phones?
 b.  Do you know what the fear of being without a phone is called?
 The  first  “smartphone”  Mobile phone  The first camera phone
 was  called  SIMON.  It  throwing is an  was released in Japan
-| supported                 | the          | calendar  | official    | sport  | in 2000.                |                |          |
-| ------------------------- | ------------ | --------- | ----------- | ------ | ----------------------- | -------------- | -------- |
-| app,                      | address      | book,     | in Finland. |        |                         |                |          |
-| world  clock,             | calculator,  |           |             |        | Modern smartphones are  |                |          |
-| notepad, e-mail, fax and  |              |           |             |        | more powerful than the  |                |          |
-| games.                    | It  came     | with  a   |             |        | equipment               | used           | in  the  |
-| touchscreen               | keyboard     |           |             |        | Apollo 11 moon landing  |                |          |
-| and cost around $1000.    |              |           |             |        | and  they               | are  nowadays  |          |
+| supported | the | calendar  | official | sport  | in 2000. | | |
+| app, | address | book, | in Finland. | | | | |
+| world  clock, | calculator,  | | | | Modern smartphones are  | | |
+| notepad, e-mail, fax and  | | | | | more powerful than the  | | |
+| games. | It  came | with  a | | | equipment | used | in  the  |
+| touchscreen | keyboard | | | | Apollo 11 moon landing  | | |
+| and cost around $1000. | | | | | and  they | are  nowadays  | |
 used as cheap satellites.
 The average person
-| unlocks  |     | their  |     |     |             |             |     |
-| -------- | --- | ------ | --- | --- | ----------- | ----------- | --- |
-|          |     |        |     |     | The  first  | commercial  |     |
+| unlocks  | | their  | | | | | |
+| | | | | | The  first  | commercial  | |
 smartphone at least
 phone weighed around 2.5
 110 times every day.
 pounds; the average weight
-|     |     |     |     |     | of  smartphones  | today  | is  |
-| --- | --- | --- | --- | --- | ---------------- | ------ | --- |
+| | | | | | of  smartphones  | today  | is  |
 The first phone call
 around 250 gram.
-| was  made    | in April,  |      |     |     |              |         |       |
-| ------------ | ---------- | ---- | --- | --- | ------------ | ------- | ----- |
-| 1973,        | while      | the  |     |     |              |         |       |
-|              |            |      |     |     | People  can  | suffer  | from  |
-| first  text  | message    |      |     |     |              |         |       |
+| was  made | in April,  | | | | | | |
+| 1973, | while | the  | | | | | |
+| | | | | | People  can  | suffer  | from  |
+| first  text  | message | | | | | | |
 “ringxiety” when they hear
-| was  sent  | out  | in  |     |     |     |     |     |
-| ---------- | ---- | --- | --- | --- | --- | --- | --- |
-(or feel) their mobile phone
+| was  sent  | out  | in  | | | | | |
+or feel) their mobile phone
 December, 1992.
 ringing when it’s not.
-| The fear of being  |     | Scientists  |     | have  |     |     |     |
-| ------------------ | --- | ----------- | --- | ----- | --- | --- | --- |
+| The fear of being  | | Scientists  | | have  | | | |
 One ton of mobile phone
 without a mobile
-|        |             | developed   |     | a  way  |                  |     |        |
-| ------ | ----------- | ----------- | --- | ------- | ---------------- | --- | ------ |
-|        |             |             |     |         | waste  contains  | 60  | times  |
-| phone  | or  losing  |             |     |         |                  |     |        |
-|        |             | to  charge  |     | mobile  |                  |     |        |
+| | | developed | | a  way  | | | |
+| | | | | | waste  contains  | 60  | times  |
+| phone  | or  losing  | | | | | | |
+| | | to  charge  | | mobile  | | | |
 more gold than one ton of
-| signal  | is  called  | phones  |     | using  |     |     |     |
-| ------- | ----------- | ------- | --- | ------ | --- | --- | --- |
+| signal  | is  called  | phones  | | using  | | | |
 gold ore.
-| “nomophobia.” |     | urine. |     |     |     |     |     |
-| ------------- | --- | ------ | --- | --- | --- | --- | --- |
-113
+| “nomophobia.” | | urine. | | | | | |
 English Grade 6
-
 A.  Complete the sentences with correct words from the box.
-| official                   | keyboard  | signal  | powerful                   | suffer |
-| -------------------------- | --------- | ------- | -------------------------- | ------ |
-| a.  Public opinion is a    |           |  force. |                            |        |
-| b.  Her cell phone had no  |           |         |  so she couldn’t call you  |        |
+| official | keyboard  | signal  | powerful | suffer |
+| a.  Public opinion is a | |  force. | | |
+| b.  Her cell phone had no  | | |  so she couldn’t call you  | |
 yesterday.
-| c.  Farmers  |     |  when they do not have reliable markets for  |     |     |
-| ------------ | --- | -------------------------------------------- | --- | --- |
+| c.  Farmers  | |  when they do not have reliable markets for  | | |
 their goods.
-| d.  My   |  is not working. I can’t type on the computer. |             |              |           |
-| -------- | ---------------------------------------------- | ----------- | ------------ | --------- |
-| e.  The  | Nepali  prime                                  | minister’s  |   residence  | lies  in  |
+| d.  My |  is not working. I can’t type on the computer. | | | |
+| e.  The  | Nepali  prime | minister’s  | residence  | lies  in  |
 Baluwatar, Kathmandu.
 B.  Answer the following questions.
-| a.  What was the price of the first smartphone ‘SIMON’? |     |     |     |     |
-| ------------------------------------------------------- | --- | --- | --- | --- |
-| b.  When was the first phone call made?                 |     |     |     |     |
-| c.  Which are lighter: smartphones or old phones?       |     |     |     |     |
+| a.  What was the price of the first smartphone ‘SIMON’? | | | | |
+| b.  When was the first phone call made? | | | | |
+| c.  Which are lighter: smartphones or old phones? | | | | |
 d.  What interesting technology have the scientists developed to
 charge mobile phones?
-| e.  When was the first camera phone released in Japan? |     |     |     |     |
-| ------------------------------------------------------ | --- | --- | --- | --- |
-| f.  What is the average weight of smartphones?         |     |     |     |     |
+| e.  When was the first camera phone released in Japan? | | | | |
+| f.  What is the average weight of smartphones? | | | | |
 C.  Work  in  two  groups.  Make  questions  based  on  the  above
 infographics and organise a quiz.
-114
 English Grade 6
-
 Writing
 A. Rewrite the given paragraph correcting the errors.
 in 1862 he built a small factory to manufacture Nitroglycerin in 1863 he
@@ -3381,9 +1394,7 @@ Example: People are walking around the park.
 C. Write a short description of your mobile phone/radio/television.
 Project work
 Draw a picture of your village/town. Describe it to your friends.
-115
 English Grade 6
-
 Extra bit: Word class I
 A determiner is a word that comes before a noun or noun phrase and
 determines whether it is general or specific, its quantity, who it belongs
@@ -3408,11 +1419,8 @@ An interjection is a word or expression that conveys a strong emotion,
 such as surprise, grief or joy. It usually appears in dialogues. Interjections
 are usually used with an exclamation point (!) or set off with comma.
 Example: Wow! What a game!
-116
 English Grade 6
-
 Unit
-12
 Getting started
 A. Look at the pictures and discuss what they might be saying.
 B. Listen and sing.
@@ -3426,9 +1434,7 @@ I promise not to hurt you any more
 And stand here to thank you therefore.
 C. How do you say sorry when you make mistakes? Do you remember
 an event when you said sorry recently? Talk to your friends.
-117
 English Grade 6
-
 Reading I
 a. Where are the people in the first picture going to?
 b. Who is different in the first picture? Who is he?
@@ -3454,19 +1460,15 @@ woman didn't answer but turned
 pale. The woman was arrested
 and presented before the king.
 She trembled with immense fear and prayed that they would not kill
-118
 English Grade 6
-
 her. She saw the blood flowing down the king’s face. After seeing this,
 she became more upset and felt hopeless. “What will happen to me?”
 she thought.
-| The  king,  | very  | calmly  asked  |     |
-| ----------- | ----- | -------------- | --- |
+| The  king,  | very  | calmly  asked  | |
 her, “Did you throw the stone at
 me?”
-| She  replied,  | “Your  | Majesty,        | I   |
-| -------------- | ------ | --------------- | --- |
-| threw  the     | stone  | at  the  mango  |     |
+| She  replied,  | “Your  | Majesty, | I |
+| threw  the | stone  | at  the  mango  | |
 tree.”
 “Why?” the king asked.
 She explained in fear, “Your Majesty, my child has been starving for
@@ -3478,18 +1480,14 @@ mistake. The king was kind-hearted, so he understood the situation very
 well. He forgave her mistake and ordered his security personnel not to
 punish her. Instead, he ordered them to give her some money and food.
 A.  Rewrite the following sentences in the correct order.
-| a.  | The security went to find the person throwing the stone. |     |     |
-| --- | -------------------------------------------------------- | --- | --- |
-| b.  | The king took a rest under the shade of a mango tree.    |     |     |
-| c.  | The woman bowed down before the king begging pardon for  |     |     |
+| a.  | The security went to find the person throwing the stone. | | |
+| b.  | The king took a rest under the shade of a mango tree. | | |
+| c.  | The woman bowed down before the king begging pardon for  | | |
 her mistake.
-| d.  | They found an old lady nearby.                         |     |     |
-| --- | ------------------------------------------------------ | --- | --- |
-| e.  | The king ordered his staff to give her money and food. |     |     |
-| f.  | Suddenly, the king got hit on his forehead.            |     |     |
-119
+| d.  | They found an old lady nearby. | | |
+| e.  | The king ordered his staff to give her money and food. | | |
+| f.  | Suddenly, the king got hit on his forehead. | | |
 English Grade 6
-
 B. Read the story again and write True or False.
 a. The king was out for hunting with his security personnel.
 b. The old woman was working in the field.
@@ -3512,45 +1510,33 @@ Nurse : This is the silent zone. Will
 you please be quiet?
 Boy : Oh, I am sorry. I didn’t see
 any sign here.
-120
 English Grade 6
-
-| Srijana :  | Excuse me!            |     |     |     |     |     |     |
-| ---------- | --------------------- | --- | --- | --- | --- | --- | --- |
-| Bikas  :   | Yes, please!          |     |     |     |     |     |     |
-| Srijana :  | Will you please read  |     |     |     |     |     |     |
+| Srijana :  | Excuse me! | | | | | | |
+| Bikas  : | Yes, please! | | | | | | |
+| Srijana :  | Will you please read  | | | | | | |
 silently? I am doing
 my classwork.
-| Bikas  :  | I am extremely sorry.  |     |     |     |     |     |     |
-| --------- | ---------------------- | --- | --- | --- | --- | --- | --- |
+| Bikas  :  | I am extremely sorry.  | | | | | | |
 I didn’t realise that.
 B.  How do you say sorry in the following situations?
-| You kept someone You are phoning You  |     |     |     |     | have You  |     | need  |
-| ------------------------------------- | --- | --- | --- | --- | --------- | --- | ----- |
+| You kept someone You are phoning You  | | | | | have You  | | need  |
 who  is  phoning someone  again arrived late at a someone  to
 you on hold for a to  ask  another restaurant.  move  so  you
-| long time.  |     | question.  |     |     |     | can  get  | off  the  |
-| ----------- | --- | ---------- | --- | --- | --- | --------- | --------- |
+| long time.  | | question.  | | | | can  get  | off  the  |
 bus.
-| You  have  | spilt You spilled your A customer has A  |     |     |     |     |     | waiter  |
-| ---------- | ---------------------------------------- | --- | --- | --- | --- | --- | ------- |
+| You  have  | spilt You spilled your A customer has A  | | | | | | waiter  |
 someone’s drink. drink  on  your just shown you brought you the
-|     |     | own clothes. |     | a dirty spoon. |     | wrong food.  |     |
-| --- | --- | ------------ | --- | -------------- | --- | ------------ | --- |
+| | | own clothes. | | a dirty spoon. | | wrong food.  | |
 Now, look at the apologies. Match them with the situations above.
-| I’m sorry. Let  |      | I’m  sorry,        | but  | Whoops.  |     | I’m              | terribly  |
-| --------------- | ---- | ------------------ | ---- | -------- | --- | ---------------- | --------- |
-| me  bring       | you  | this isn’t what I  |      |          |     | sorry.           | Let  me   |
-| another spoon.  |      | ordered.           |      |          |     | buy you another  |           |
+| I’m sorry. Let  | | I’m  sorry, | but  | Whoops.  | | I’m | terribly  |
+| me  bring | you  | this isn’t what I  | | | | sorry. | Let  me |
+| another spoon.  | | ordered. | | | | buy you another  | |
 one.
 Excuse  me,  Sorry I’m late.  Sorry to bother you  Sorry  to  keep
 can I just...  Have you been  again,  but  there’s  you waiting.
-|     |     | waiting long?  |     | one  more  | thing  | I   |     |
-| --- | --- | -------------- | --- | ---------- | ------ | --- | --- |
+| | | waiting long?  | | one  more  | thing  | I | |
 don’t understand.
-121
 English Grade 6
-
 C. Work in pairs. Take turns to talk to each other in the following
 situations.
 Listening
@@ -3561,9 +1547,7 @@ b. Do you say sorry when you
 make any mistakes?
 c. What phrases do you use when
 you say sorry?
-122
 English Grade 6
-
 B. Listen to the recording and answer the questions.
 a. What was the party for?
 b. What had happened to the speaker’s dad?
@@ -3588,9 +1572,7 @@ a. He seems very happy.
 b. She was present at the party.
 c. We have talked about it.
 d. They are playing cricket.
-123
 English Grade 6
-
 e. My mother helped me in the kitchen yesterday.
 f. The teacher is teaching grammar.
 g. I can finish the work in time.
@@ -3609,7 +1591,9 @@ with the flat. I can’t solve them all. But I’ll try to be helpful.
 1. Furniture You liked it when you moved in! You told me so! But
 now you’ve changed your mind. Well, I’m sorry I can’t help you
 there.
-2. Heating I agree the flat can be cold in winter. I lived there myself
+
+## 2: Heating I agree the flat can be cold in winter. I lived there myself  {#ch-2}
+
 for twenty years, so I know! But I always used electric fires and
 I’m afraid you must do the same. But get someone to look at the
 windows, by all means.
@@ -3617,9 +1601,7 @@ windows, by all means.
 one. Please buy the paint and send me the bill. But make sure you
 choose a suitable colour (nothing too ‘modern’ please). And why
 not do the bathroom at the same time!
-124
 English Grade 6
-
 I’m sorry I can’t come to inspect the flat personally, but I do live rather
 a long way off, you know.
 Yours sincerely,
@@ -3636,23 +1618,16 @@ warm?
 d.  Who is going to pay for the painting?
 e.  Is Mrs. MacDonald coming to London to see the flat?
 C.  Complete these sentences, using the words in the box.
-| central heating  | electric  | modern    |               | problems     | suitable |     |
-| ---------------- | --------- | --------- | ------------- | ------------ | -------- | --- |
-| condition        | mind      | prepared  |               | replacing    | work     |     |
-| a.  That         |           |   fire    | is  no  use.  | It  doesn’t  |          |     |
+| central heating  | electric  | modern | | problems | suitable | |
+| condition | mind | prepared  | | replacing | work | |
+| a.  That | | fire | is  no  use.  | It  doesn’t  | | |
 properly.
-| b.  That  |     |  furniture isn’t really  |     |     |  for this  |     |
-| --------- | --- | ------------------------ | --- | --- | ---------- | --- |
+| b.  That  | |  furniture isn’t really  | | |  for this  | |
 old flat.
-| c.  The  |     |   is  a  | bit  of  a  | problem.  It’s  | in  such  | bad  |
-| -------- | --- | -------- | ----------- | --------------- | --------- | ---- |
-.
-| d.  You offered to help me solve some of these  |     |     |     |     |     | .   |
-| ----------------------------------------------- | --- | --- | --- | --- | --- | --- |
-Why did you change your   ?
-125
+| c.  The  | | is  a  | bit  of  a  | problem.  It’s  | in  such  | bad  |
+| d.  You offered to help me solve some of these  | | | | | | . |
+Why did you change your ?
 English Grade 6
-
 e. The whole house needs painting and most of the furniture
 needs . Are you to pay for it?
 Writing
@@ -3664,7 +1639,7 @@ email to your teacher expressing your apology for not being able to
 attend his class the previous day.
 Extra bit: Word class II
 A noun is a word that names a person (teacher), thing (pencil), animal
-(cat), place (Kathmandu) or abstract idea (love). Anything in the
+cat), place (Kathmandu) or abstract idea (love). Anything in the
 universe has a name, and as there are many things in the universe,
 nouns comprise the largest group of words in English.
 Example: Mohan has a pen.
@@ -3674,9 +1649,7 @@ group of words in English and appear in any sentence as a major
 part. Verbs also indicate time (past, present, future) and are used with
 many verb tenses.
 Example: She wrote a letter.
-126
 English Grade 6
-
 An adjective is a word that modifies (describes) a noun or pronoun.
 Adjectives comprise the second largest group of words in English.
 Adjectives inform about the qualities and features of people, things or
@@ -3686,11 +1659,8 @@ An adverb is a type of word that has many uses in English. It can
 modify (describe) a verb, an adjective, another adverb, or a whole
 sentence.
 Example: He was badly hurt in the accident.
-127
 English Grade 6
-
 Unit
-13
 Getting started
 A. Look at the pictures and answer the questions.
 a. What are they doing?
@@ -3704,10 +1674,8 @@ A hen can say, “Bawk, bawk, bawk”.
 But do you know what a hen can’t do?
 A hen can’t read and write like you.
 C. Tell your friends what you can and cannot do.
-128
 English Grade 6
-
- Reading I
+Reading I
 a.  What is happening in the second picture?
 b.  How does it affect the bird?
 The Baby Quail
@@ -3716,7 +1684,6 @@ Although he had little feet and wings, he could not yet walk or fly. His
 parents worked hard for feeding him.
 One day, there occurred a big forest fire. All
 | the  birds  | who  were  | able,  flew  | away  | at  the  |
-| ----------- | ---------- | ------------ | ----- | -------- |
 first sign of smoke. As the fire spread, and got
 closer and closer to the nest of the baby quail,
 his parents remained with him. Finally, the fire
@@ -3727,19 +1694,15 @@ noise. The little quail saw that everything was being destroyed by the
 fire. He could do nothing to save himself. At that moment, it seemed
 that he was helpless.
 Then, the thoughts came to his
-| mind,        | “My  parents  | loved  | me  |     |
-| ------------ | ------------- | ------ | --- | --- |
-| very  much.  | Unselfishly,  | they   |     |     |
+| mind, | “My  parents  | loved  | me  | |
+| very  much.  | Unselfishly,  | they | | |
 built a nest for me, and then fed
 me without greed. When the fire
-| came,         | they  remained  | with            | me   |     |
-| ------------- | --------------- | --------------- | ---- | --- |
-| until  the    | last  moment.   | All             | the  |     |
-| other  birds  | had             | already  flown  |      |     |
+| came, | they  remained  | with | me | |
+| until  the | last  moment. | All | the  | |
+| other  birds  | had | already  flown  | | |
 away a long time before.”
-129
 English Grade 6
-
 “My parents’ kindness was so great. They
 stayed and risked their lives but still they
 were helpless to save me. Since they could
@@ -3767,13 +1730,11 @@ which have similar meanings to the words in brackets.
 a. The fire got so (nearer) that the parent birds had to
 fly away too.
 b. All the trees were burning and crackling with a loud (sound).
-130
 English Grade 6
-
 c. The quail's parents risked their lives to save him, but they
-were (powerless)
+were (powerless
 d. The quail felt (surprising) change in his body.
-e. The tiny quail wished for the spot to be (out of danger)
+e. The tiny quail wished for the spot to be (out of danger
 from fire for a million years.
 B. Answer the following questions.
 a. Who was born as a tiny quail?
@@ -3797,28 +1758,23 @@ Can you cross
 the river?
 Yes, I can.
 Can you run?
-131
 English Grade 6
-
 B.  What can they do? Ask and answer in pairs.
 Now, work in pairs. Take turns to ask and answer as in the example.
 A:  Can you play football?
 B:  Yes, I can./No, I can’t.
 C.  Observe the table below. Say what they can and can’t do.
-|                   | Madan | Ashim | Aarim | Nima |
-| ----------------- | ----- | ----- | ----- | ---- |
-| play table tennis | √     | √     | ×     | √    |
-|                   |       | ×     |       | ×    |
-| ride a bike       | √     |       | √     |      |
-| type fast         | √     | √     | √     | ×    |
-|                   | ×     | ×     | ×     |      |
-| speak Newari      |       |       |       | √    |
+| | Madan | Ashim | Aarim | Nima |
+| play table tennis | √ | √ | × | √ |
+| | | × | | × |
+| ride a bike | √ | | √ | |
+| type fast | √ | √ | √ | × |
+| | × | × | × | |
+| speak Newari | | | | √ |
 D.  Work in pairs. Think of four questions to ask your friends to
 find out what he/she can do. Ask them what they can do. Then,
 tell the class.
-132
 English Grade 6
-
 Listening
 A. Look at the picture and answer these questions.
 a. What do you see
@@ -3839,16 +1795,14 @@ b. The best time for Phurba is .
 c. Pemba wants to Phurba’s name.
 D. Have you ever been to a hospital? Share your experience with
 your friends.
-133
 English Grade 6
-
 Grammar
 A. Study the following sentences.
 He was absent yesterday in the class because he was sick. (The
-reason is not known to the listener and is to be emphasised.)
+reason is not known to the listener and is to be emphasised.
 As we lost the quarter-final game, we could not qualify for the
 semi-final. (The reason is not new to the listener and focus is more
-on result than the reason.)
+on result than the reason.
 Amar is awarded because of his honesty.
 Since I was hungry, I wanted to eat something first.
 As he wasn’t ready, we went without him.
@@ -3868,14 +1822,12 @@ need for introductions.
 C. Join and rewrite the following pairs of sentences using the
 words from the brackets.
 a. You don’t see the vehicles on the road. There is a strike.
-(because of)
-134
+because of
 English Grade 6
-
-b. All the staff respect him. He is honest. (because)
-c. She behaves well. Everyone wants to meet her. (since)
-d. It was a beautiful day. We decided to have a picnic. (as)
-e. All the seats on the train were taken. We had to stand. (since)
+b. All the staff respect him. He is honest. (because
+c. She behaves well. Everyone wants to meet her. (since
+d. It was a beautiful day. We decided to have a picnic. (as
+e. All the seats on the train were taken. We had to stand. (since
 Writing
 A. Rewrite the following sentences in the correct order to make
 an interesting story. Give it a suitable title too.
@@ -3893,9 +1845,7 @@ i. Once upon a time, there was a dense forest.
 j. The lion ordered the animals to come in front of it turn by
 turn so that it would eat them.
 B. Write a paragraph about an interesting event of your life.
-135
 English Grade 6
-
 Reading II
 When and why do you feel sorrow?
 On Another’s Sorrow
@@ -3924,14 +1874,11 @@ Wiping all our tears away?
 O no! Never can it be!
 Never, never can it be!
 -William Blake
-136
 English Grade 6
-
 A. Complete the table with the rhyming words from the poem.
 Words Rhyming words from the poem
 hear
 rest
-hay
 tall
 leaf
 B. Answer the following questions.
@@ -3957,11 +1904,8 @@ tomorrow.
 I will have been working on this book for
 Future perfect continuous
 three months by tomorrow.
-137
 English Grade 6
-
 Unit
-14
 Getting started
 A. Look at the pictures and say what units of measurements they indicate.
 B. Listen and sing.
@@ -3974,39 +1918,32 @@ Down they came fluttering one and all;
 Over the meadows they danced and flew,
 All singing the soft little songs they knew.
 -George Cooper
-138
 English Grade 6
-
 C.  Look around your class for a minute. What objects do you see?
 Talk about each of their uses.
- Reading I
+Reading I
 a.  Have you ever seen a price list like the one below?
 b.  Where would you see this?
 All in One Store
 Price List
 | S.N. | Items | Price/kg. NRs. |
-| ---- | ----- | -------------- |
 Rice Items
-| 1 Pokhreli Rice       |     | 80  |
-| --------------------- | --- | --- |
-| 2 Jira Masino Rice    |     | 80  |
-| 3 Indian Basmati Rice |     | 100 |
-| 4 Mansuli Rice        |     | 65  |
-| 5 Sona Mansuli Rice   |     | 60  |
-| 6 Taichin Beaten Rice |     | 120 |
-| 7 Normal Beaten Rice  |     | 70  |
+| 1 Pokhreli Rice | | 80  |
+| 2 Jira Masino Rice | | 80  |
+| 3 Indian Basmati Rice | | 100 |
+| 4 Mansuli Rice | | 65  |
+| 5 Sona Mansuli Rice | | 60  |
+| 6 Taichin Beaten Rice | | 120 |
+| 7 Normal Beaten Rice  | | 70  |
 Daal Items
-| 8 Big Black Gram (Big Mas)        |     | 160 |
-| --------------------------------- | --- | --- |
-| 9 Small Black Gram (Small Mas)    |     | 150 |
-| 10 Big Green Gram (Big Moong)     |     | 160 |
-| 11 Red Lentil (Musuro) No. 1      |     | 130 |
-| 12 Red Lentil (Musuro) No. 2      |     | 120 |
-| 13 Split Red Gram (Rahar)         |     | 180 |
-| 14 Split Bengal Gram (Chana Daal) |     | 160 |
-139
+| 8 Big Black Gram (Big Mas) | | 160 |
+| 9 Small Black Gram (Small Mas) | | 150 |
+| 10 Big Green Gram (Big Moong) | | 160 |
+| 11 Red Lentil (Musuro) No. 1 | | 130 |
+| 12 Red Lentil (Musuro) No. 2 | | 120 |
+| 13 Split Red Gram (Rahar) | | 180 |
+| 14 Split Bengal Gram (Chana Daal) | | 160 |
 English Grade 6
-
 A. Write True or False.
 a. Pokhreli Rice is the most expensive rice item.
 b. Mansuli Rice is cheaper than Sona Mansuli Rice.
@@ -4027,9 +1964,7 @@ with honest information about yourself.
 Example: How many pens do you have?
 a. can you eat?
 b. are there in your pocket?
-140
 English Grade 6
-
 c. do you listen to?
 d. did it fall in the morning?
 e. are you wearing?
@@ -4043,30 +1978,23 @@ A: How many computers do you have?
 B: I have only one computer.
 B. Work in pairs. Ask and answer questions about different things
 you have. Use ‘How many...?’ or ‘How much...?’
-141
 English Grade 6
-
 Listening
 A. Look at the picture and answer the questions.
 a. What are the people doing there?
 b. Is there any place like this in your locality?
 c. What do you do there?
 B. Listen to the recording and complete the table.
-Vegetable item Price (Rs./kg)
+Vegetable item Price (Rs./kg
 Cabbage
-30
 Broccoli
-50
 Cauliflower
 Lady's finger
-65
 C. What stationery items do you have? Prepare a price list of the
 items.
-142
 English Grade 6
-
- Grammar
-A.   Study the following sentences.
+Grammar
+A. Study the following sentences.
 I saw many wild animals when I visited Chitwan National Park.
 There is not much water in the bucket.
 Is there any delicious food? I am feeling hungry.
@@ -4074,47 +2002,38 @@ I have no time to cook.
 Last night, I read a few pages.
 B.  Choose the correct options from the brackets to complete the
 paragraph.
-| I’m not a very good cook because I don’t have  |                        |  (much/many)            |        |
-| ---------------------------------------------- | ---------------------- | ----------------------- | ------ |
-| time. During the week, I don’t make            |                        |  (any/no) meals except  |        |
-| breakfast. I usually have                      |  (a/some) toast and a  |                         |  (few/ |
+| I’m not a very good cook because I don’t have  | |  (much/many) | |
+| time. During the week, I don’t make | |  (any/no) meals except  | |
+| breakfast. I usually have |  (a/some) toast and a  | |  (few/ |
 little) orange juice. At the weekend, I sometimes help to make lunch;
-but I don’t know   (much/many) good recipes. So, I just follow
-my sister’s instructions. She is a great cook and makes   (many/a
+but I don’t know (much/many) good recipes. So, I just follow
+my sister’s instructions. She is a great cook and makes (many/a
 lot of) really nice food.
 C.  Complete the sentences using appropriate phrases from the
 box to indicate the quantity.
-|  few people  | many good friends  | three big rivers           |     |
-| ------------ | ------------------ | -------------------------- | --- |
- many metropolitan cities  any outdoor games  three birds
-|  many colourful butterflies  | many countries |     |     |
-| ---------------------------- | -------------- | --- | --- |
-a.  Do you know how   there are in Nepal?
-| b.  I often visit the garden to see          |     | .   |        |
-| -------------------------------------------- | --- | --- | ------ |
-| c.  Don’t you want to play                   |     | ?   |        |
-| d.  Although the song was beautiful, only a  |     |     |  were  |
+|  few people  | many good friends  | three big rivers | |
+many metropolitan cities  any outdoor games  three birds
+|  many colourful butterflies  | many countries | | |
+a.  Do you know how there are in Nepal?
+| b.  I often visit the garden to see | | . | |
+| c.  Don’t you want to play | | ? | |
+| d.  Although the song was beautiful, only a  | | |  were  |
 listening to it.
-| e.  How  |  are there in South Asia? |     |     |
-| -------- | ------------------------- | --- | --- |
-f.  Can you name any   of Nepal?
-143
+| e.  How  |  are there in South Asia? | | |
+f.  Can you name any of Nepal?
 English Grade 6
-
-| g.  There are  |  flying in the sky. |     |
-| -------------- | ------------------- | --- |
+| g.  There are  |  flying in the sky. | |
 h.  I am proud of having  .
- Writing
-A.   Read the report which is based on the given information in the table.
-| S.N.                  | Items | Price/kg NRs. |
-| --------------------- | ----- | ------------- |
-| 1 Pokhreli Rice       |       | 80            |
-| 2 Jira Masino Rice    |       | 80            |
-| 3 Indian Basmati Rice |       | 100           |
-| 4 Mansuli Rice        |       | 65            |
-| 5 Sona Mansuli Rice   |       | 60            |
-| 6 Taichin Beaten Rice |       | 120           |
-| 7 Normal Beaten Rice  |       | 70            |
+Writing
+A. Read the report which is based on the given information in the table.
+| S.N. | Items | Price/kg NRs. |
+| 1 Pokhreli Rice | | 80 |
+| 2 Jira Masino Rice | | 80 |
+| 3 Indian Basmati Rice | | 100 |
+| 4 Mansuli Rice | | 65 |
+| 5 Sona Mansuli Rice | | 60 |
+| 6 Taichin Beaten Rice | | 120 |
+| 7 Normal Beaten Rice  | | 70 |
 The table gives information about the price of rice items. The price
 of Pokhreli Rice and Jira Masino Rice is equal. It’s NRs 80 per kg.
 Indian Basmati Rice costs NRs 100 per kg whereas Mansuli Rice costs
@@ -4126,9 +2045,7 @@ than Pokhreli and Jira Masino. Sona Mansuli is cheaper than Mansuli.
 Taichin Beaten Rice has higher price than that of Normal Beaten Rice.
 Taichin Beaten Rice is the most expensive item and Sona Mansuli is the
 cheapest one.
-144
 English Grade 6
-
 B. Now, write a similar paragraph based on the given information
 in the table below.
 S.N. Items Price NRs.
@@ -4142,46 +2059,35 @@ Reading II
 What is the name of this text?
 A. Answer the following questions.
 a. What is the special offer?
-145
 English Grade 6
-
 b.  How long does the discount offer remain?
 c.  Which is the cheapest item?
 d.  Which is the most expensive item?
 B.  What do you mean by discount? Talk to your friends.
- Project work
+Project work
 Make groups of five and go to a grocery store nearby. Ask the
 shopkeeper the price of any 10 items available there. Make a price
 list and compare your’s with others.
- Extra bit: Common multiword verbs with their meanings
-| clean up (make clean) | put on (dress)   | check out (leave) |
-| --------------------- | ---------------- | ----------------- |
-| fill in (supply       | set up (arrange) | get away (escape) |
-information)
+Extra bit: Common multiword verbs with their meanings
+| clean up (make clean) | put on (dress) | check out (leave) |
+| fill in (supply | set up (arrange) | get away (escape) |
+information
 | fill out (complete a  | try out (test) | get together (meet) |
-| --------------------- | -------------- | ------------------- |
-form)
+form
 | give back (return) | take off (undress) | get up (arise) |
-| ------------------ | ------------------ | -------------- |
-hand in (submit) turn off (deactivate) shut up (stop talking)
-| hand over (give sth to  | turn on (activate) | slip up (make a   |
-| ----------------------- | ------------------ | ----------------- |
-| sb)                     |                    | mistake)          |
-| hold up (delay)         | wrap up (finish)   | break down (stop  |
-functioning)
+hand in (submit) turn off (deactivate) shut up (stop talking
+| hand over (give sth to  | turn on (activate) | slip up (make a |
+| sb) | | mistake) |
+| hold up (delay) | wrap up (finish) | break down (stop  |
+functioning
 | line up (form in a  | bump into (encounter) | end up (finish) |
-| ------------------- | --------------------- | --------------- |
-line)
-| look over (examine)  | look after (care)   | grow up (increase) |
-| -------------------- | ------------------- | ------------------ |
-| look up (find        | bend over (incline  | pass away (die)    |
-| information)         | body forward)       |                    |
-| point out (indicate) | check in (register) | show up (appear)   |
-146
+line
+| look over (examine)  | look after (care) | grow up (increase) |
+| look up (find | bend over (incline  | pass away (die) |
+| information) | body forward) | |
+| point out (indicate) | check in (register) | show up (appear) |
 English Grade 6
-
 Unit
-15
 Getting started
 A. Look at the pictures and say what may happen next.
 B. Listen and sing.
@@ -4196,9 +2102,7 @@ Or some old Cronos from his throne is hurled.
 - George Santayana
 C. Go outside and look at the sky. What does it look like? Is it
 likely to rain or will there be sunshine? Share with the class.
-147
 English Grade 6
-
 Reading I
 a. What animals do you see in the pictures below?
 b. What happened to the men in the last two pictures?
@@ -4224,9 +2128,7 @@ Soon they saw a cock.
 “Tomorrow, my mistress is going to eat
 me,” he crowed sadly. “Don’t worry,” said the donkey, the dog and the
 cat. “ Come with us to Ilam.”
-148
 English Grade 6
-
 So, the four friends went along the
 road to Ilam. When it was dark, they
 were in a big forest. They could see a
@@ -4255,9 +2157,7 @@ lay on straw in the front yard.
 The thieves were in the forest. They saw the light go out. Everything
 was quiet. “Why were we so frightened? Why did we run away?” they
 said. “I’ll go and look at the house,” said one of them. He went quietly
-149
 English Grade 6
-
 to the house and opened the door.
 He saw the cat’s bright eyes. He thought
 it was a fire.  He poked his candle in the
@@ -4269,10 +2169,9 @@ the dark. The dog bit his leg. The thief
 stumbled across the yard. The donkey
 kicked him. And the cock flew down,
 screeching, ‘cock-a- doodle-dooo!’
-| The  poor       | thief  limped  | back  into   | the   |
-| --------------- | -------------- | ------------ | ----- |
-| forest.  “What  | happened       | to  you?”    | the   |
-| other  thieves  | asked.         | “Oh  dear!”  |   he  |
+| The  poor | thief  limped  | back  into | the |
+| forest.  “What  | happened | to  you?” | the |
+| other  thieves  | asked. | “Oh  dear!”  | he  |
 said.  “There is a witch in the house. She
 scratched my face. There is a man with a
 knife behind the door. He stabbed me in
@@ -4283,13 +2182,10 @@ After this, the thieves went far  away. They never came back. Then,
 what did  the four friends do? They never went to Ilam. The four good
 friends lived happily together in the same house in the forest forever.
 A.  Find the words from the story for these meanings.
-| a.   | a member of a music band                              |     |     |
-| ---- | ----------------------------------------------------- | --- | --- |
-| b.   | very scared                                           |     |     |
-| c.   | a big and long piece of wood for holding a roof up    |     |     |
-150
+| a. | a member of a music band | | |
+| b. | very scared | | |
+| c. | a big and long piece of wood for holding a roof up | | |
 English Grade 6
-
 d. pushed somebody with a stick or finger
 e. made marks with something sharp
 f. to nearly fell over
@@ -4306,9 +2202,7 @@ Speaking
 Look at the pictures and guess what may/might happen. There are
 two examples.
 I think it may rain today. The bus might hit the man.
-151
 English Grade 6
-
 Listening
 A. Look at the picture and guess the answers.
 a. Do you know the name of the piece of equipment?
@@ -4321,9 +2215,7 @@ d. There is a possibility of rainfall in the hills.
 e. The weather of the Terai will be at the weekend.
 C. Listen to the weather report in the evening. What might the weather
 in your province be like tomorrow? Note down the weather.
-152
 English Grade 6
-
 Grammar
 A. Study the following sentences.
 I am not sure, but I may come to meet you tomorrow.
@@ -4352,9 +2244,7 @@ d. Maybe I to your party.
 e. Perhaps I for a while.
 f. Don’t worry. I you.
 g. I hope you with me tomorrow.
-153
 English Grade 6
-
 Writing
 A. Rewrite the following paragraph correctly.
 saroj is an honest boy he reads in nepal secondary school in grade
@@ -4383,9 +2273,7 @@ I found the arrow, still unbroke;
 And the song, from beginning to end,
 - Henry W. Longfellow
 I found again in the heart of a friend.
-154
 English Grade 6
-
 A. Read the poem and write True or False.
 a. The poet knew where the arrow had gone.
 b. The arrow was found by others.
@@ -4411,11 +2299,8 @@ realistic possibility.
 This must be her house. I can see her car in the garage.
 He must live near here because he always walks to work.
 Come inside and get warm. You must be freezing out there.
-155
 English Grade 6
-
 Unit
-16
 Getting started
 A. Look at the pictures and say what happened there.
 B. Listen and sing.
@@ -4432,9 +2317,7 @@ And the seed of the fire gets feeble and cold.
 - W. B. Yeats
 C. Remember a memorable event of your life and tell it to your
 friends.
-156
 English Grade 6
-
 Reading I
 a. Who are the people in the second picture?
 b. Are they Hindus or Muslims?
@@ -4462,32 +2345,26 @@ children crying. Attracted by the sound, he went to the hut. He saw a
 woman sitting before a fire. It appeared that the woman was cooking
 something, while her small children sat crying. It was late for the
 children to have their meal.
-157
 English Grade 6
-
 Umar stepped up to the woman and enquired, “What is in the pot on
 the fire?”
 She explained that she had no food to give to her children. So, she had
 placed the pot full of water and stones on the fire in order to give them
 the impression that the food would be ready.
-| Umar      | was      | distressed     |     |
-| --------- | -------- | -------------- | --- |
-| to  hear  | this.    | He  hurried    |     |
-| back      | to  the  | State  Store,  |     |
+| Umar | was | distressed | |
+| to  hear  | this. | He  hurried | |
+| back | to  the  | State  Store,  | |
 picked up a bag of flour,
-| meat,         | cooking  | oil      | and   |
-| ------------- | -------- | -------- | ----- |
-| rushed        | back     | to  the  | hut.  |
-| His  servant  |          | begged   | him   |
+| meat, | cooking  | oil | and |
+| rushed | back | to  the  | hut.  |
+| His  servant  | | begged | him |
 to let him carry the load,
 but he refused saying, “It is my
-| responsibility.  |     | You  would  | not  |
-| ---------------- | --- | ----------- | ---- |
+| responsibility.  | | You  would  | not  |
 carry my burden.”
 Arriving at the hut, he gave the
 things to the woman and told
 | her  to  | prepare  | a  meal.  | In  the  |
-| -------- | -------- | --------- | -------- |
 meantime, the children had gone to sleep tired. Umar waited till the
 meal was ready and the children were awakened and fed. The woman
 thanked him for his kindness. She said, “It would be far better if you
@@ -4495,10 +2372,8 @@ were the Khalifah of the Muslims, rather than that wretched Umar who
 is not aware of the condition of his people.”
 Umar said, “Well mother, Umar may not be so bad after all,” and
 departed.
-(Adapted from Stories from Early Islam)
-158
+Adapted from Stories from Early Islam
 English Grade 6
-
 A. Complete the character map of Umar.
 tall, well-built
 Umar, the
@@ -4516,25 +2391,20 @@ c. Why were the children in the hut crying?
 d. Why was the woman cooking stones?
 e. Why did Umar return to the state store?
 D. Do you think Umar is a good ruler? Why? Give your reasons.
-159
 English Grade 6
-
- Speaking
+Speaking
 A.  Act out the following conversation.
-| Sumi   | :  Hi, Saroj! |                |       |
-| ------ | ------------- | -------------- | ----- |
-| Saroj  | :  Hello      | Sumi!          | What  |
-|        | did  you      | do  yesterday  |       |
+| Sumi | :  Hi, Saroj! | | |
+| Saroj  | :  Hello | Sumi! | What  |
+| | did  you | do  yesterday  | |
 evening?
-| Sumi   | :  I visited a park.    |     |     |
-| ------ | ----------------------- | --- | --- |
-| Saroj  | :  Wow! Who did you go  |     |     |
+| Sumi | :  I visited a park. | | |
+| Saroj  | :  Wow! Who did you go  | | |
 there with?
 Sumi  :  I  went  with  my  parents.  Didn’t  you  do  anything
 yesterday?
-| Saroj  | :  I just watched a movie. It was interesting. |     |     |
-| ------ | ---------------------------------------------- | --- | --- |
-B.   Work in pairs. Take turns to ask and answer questions about
+| Saroj  | :  I just watched a movie. It was interesting. | | |
+B. Work in pairs. Take turns to ask and answer questions about
 what you did the day before. You can use the following clues.
 a.  went to a stationery shop and bought some balloons and chart
 paper/with brother
@@ -4546,9 +2416,7 @@ f.  worked in the field/with father
 g.  did a painting/alone
 h.  drew a picture/alone
 i.  went to the cinema/with my sister
-160
 English Grade 6
-
 Listening
 A. Look at the picture and answer the questions.
 a. What are the women doing?
@@ -4566,27 +2434,23 @@ I bought a story book last week.
 She had gone home before I reached there.
 They played well and won the match yesterday.
 She was drawing a picture when I met her.
-161
 English Grade 6
-
 They were dancing beautifully when we arrived there.
 The children had gone to sleep tired before the meal.
-B.   Read the story ‘Umar in Disguise’ again and underline all the
+B. Read the story ‘Umar in Disguise’ again and underline all the
 verbs in simple past, past continuous and past perfect.
-C.   Complete the following sentences using simple past or past
+C. Complete the following sentences using simple past or past
 continuous form of the verbs in brackets.
-| a.  The teacher          |  (tell) us a story yesterday.                  |                            |             |           |
-| ------------------------ | ---------------------------------------------- | -------------------------- | ----------- | --------- |
-| b.  They saw me while I  |                                                |  (come) home from school.  |             |           |
-| c.  My sister            |  (give) me a colour box yesterday.             |                            |             |           |
-| d.  Manju                |  (watch) a movie when I reached her house.     |                            |             |           |
-| e.  Suman                |  (say) that he was not feeling well yesterday. |                            |             |           |
-| f.  Phurba               |  (start) studying in this school last year.    |                            |             |           |
-| g.  We                   |   (play)  table                                | tennis  when               | there  was  | a  heavy  |
+| a.  The teacher |  (tell) us a story yesterday. | | | |
+| b.  They saw me while I  | |  (come) home from school.  | | |
+| c.  My sister |  (give) me a colour box yesterday. | | | |
+| d.  Manju |  (watch) a movie when I reached her house. | | | |
+| e.  Suman |  (say) that he was not feeling well yesterday. | | | |
+| f.  Phurba |  (start) studying in this school last year. | | | |
+| g.  We | (play)  table | tennis  when | there  was  | a  heavy  |
 rainfall yesterday.
-| h.  Can you tell me how many of you  |     |     |  (be) there? |     |
-| ------------------------------------ | --- | --- | ------------ | --- |
- Reading II
+| h.  Can you tell me how many of you  | | |  (be) there? | |
+Reading II
 a.  What are the people in the picture doing?
 b.  Can you guess the name of the festival?
 Sakela Sili at Tundikhel
@@ -4596,9 +2460,7 @@ we will go together, ok?” “At nine,” I randomly replied. I was actually
 very excited, for I was attending the Sakela Sili festival at Tundikhel for
 the first time.
 Exactly  at  9:30,  we,  Binda  and  me,  reached Tundikhel. The  place
-162
 English Grade 6
-
 was beautifully decorated. Though Ubhauli is the festival of Kirant
 community, people from different communities were there to watch the
 celebration. At the centre, a shrine was constructed which was decorated
@@ -4622,75 +2484,64 @@ It was my first participation in the festival after I came to Kathmandu. I
 enjoyed it a lot. We danced almost the whole day there because Sakela is
 our cultural performance. It represents the history, culture and identity
 of Kirant people. I found myself happy to be a part of such culture.
-163
 English Grade 6
-
 A.  What do the words in Column A refer to? Match them with the
 definitions in Column B.
-|   Column A       |       | Column B                       |     |
-| ---------------- | ----- | ------------------------------ | --- |
-| a.  Ubhauli      | i.    | the main priest                |     |
-| b.  Nakso        | ii.   | a holy book                    |     |
-| c.  Silimangpa   | iii.  | a festival of Kirant community |     |
-| d.  Silimangma   | iv.   | a sacred place                 |     |
-| e.  Dhol         | v.    | the male leader                |     |
-| f.  Mundhum      | vi.   | the female leader              |     |
-| g.  Sakela Than  | vii.  | a musical instrument           |     |
-B.   Answer the following questions.
+| Column A | | Column B | |
+| a.  Ubhauli | i. | the main priest | |
+| b.  Nakso | ii. | a holy book | |
+| c.  Silimangpa | iii.  | a festival of Kirant community | |
+| d.  Silimangma | iv. | a sacred place | |
+| e.  Dhol | v. | the male leader | |
+| f.  Mundhum | vi. | the female leader | |
+| g.  Sakela Than  | vii.  | a musical instrument | |
+B. Answer the following questions.
 a.  What time did Binda and Shital reach Tundikhel?
-b.   What is the name of the sacred place?
+b. What is the name of the sacred place?
 c.  Which musical instruments are played during the dance?
-d.   Who controls the dance?
+d. Who controls the dance?
 C.  What do you think are the interesting features of Sakela Sili?
 Talk to your friends.
- Writing
+Writing
 A.  How did you celebrate your last birthday? Try to recall and
 write a short paragraph on what happened on the day.
 B.  Write  a  short  story  using  the  following  outline.  Suggest  a
 suitable title too.
-| An old man                     |  three sons  |  about to die          |     |
-| ------------------------------ | ------------ | ---------------------- | --- |
-| calls his sons to give advice  |              |  asks to bring sticks  |     |
-164
+| An old man |  three sons  |  about to die | |
+| calls his sons to give advice  | |  asks to bring sticks  | |
 English Grade 6
-
-| gives them sticks  |                  |  asks the eldest son to break           |                 |     |
-| ------------------ | ---------------- | --------------------------------------- | --------------- | --- |
-| unable             | to  break        |   asks  another                         | son  to  break  |     |
-| unable             | to  break        |   asks  another                         | son  to  break  |     |
-| unable to break    |                  |  old man asks to work together and try  |                 |     |
-| once               | easily break it  |                                         |                 |     |
+| gives them sticks  | |  asks the eldest son to break | | |
+| unable | to  break | asks  another | son  to  break  | |
+| unable | to  break | asks  another | son  to  break  | |
+| unable to break | |  old man asks to work together and try  | | |
+| once | easily break it  | | | |
 Moral: Unity is strength.
- Project work
+Project work
 Draw a set of pictures for the story ‘Umar in Disguise’. Retell the
 story with the help of the pictures.
- Extra bit: Consonants
+Extra bit: Consonants
 There are 24 consonant sounds in most English accents, conveyed by
 21 letters of the regular English alphabet (sometimes in combination,
 e.g., ch and th).
-| Sound                    | Examples | Sound | Examples                |     |
-| ------------------------ | -------- | ----- | ----------------------- | --- |
-| /p/ pair, appear, stop   |          | /ʃ/   | shoes, machine, cash    |     |
-| black, about, cab        |          |       | genre, pleasure, garage |     |
-| /b/                      |          | /ʒ/   |                         |     |
-| tea, stale, rent         |          |       | horse, behind, -        |     |
-| /t/                      |          | /h/   |                         |     |
-| /d/ drink, reading, need |          | /tʃ/  | church, teacher, speech |     |
-| /k/ car, ranks, pack     |          | /dʒ/  | job, wages, page        |     |
-| /g/ game, agree, bag     |          | /m/   | mat, camera, rum        |     |
-| /f/ phone, afford, stuff |          | /n/   | nose, honey, cone       |     |
-| /v/  van, fever, pave    |          | /ŋ/   | -, think, sing          |     |
-| throne, anything, moth   |          |       | lanky, selfish, school  |     |
-| /θ/                      |          | /l/   |                         |     |
-| this, mother, breath     |          |       | rat, carrot, -          |     |
-| /ð/                      |          | /r/   |                         |     |
-| /s/ state, mistake, yes  |          | /w/   | water, underwear, -     |     |
-| /z/ zoo, easy, choose    |          | /j/   | yellow, kayak, -        |     |
-165
+| Sound | Examples | Sound | Examples | |
+| /p/ pair, appear, stop | | /ʃ/ | shoes, machine, cash | |
+| black, about, cab | | | genre, pleasure, garage | |
+| /b/ | | /ʒ/ | | |
+| tea, stale, rent | | | horse, behind, - | |
+| /t/ | | /h/ | | |
+| /d/ drink, reading, need | | /tʃ/  | church, teacher, speech | |
+| /k/ car, ranks, pack | | /dʒ/  | job, wages, page | |
+| /g/ game, agree, bag | | /m/ | mat, camera, rum | |
+| /f/ phone, afford, stuff | | /n/ | nose, honey, cone | |
+| /v/  van, fever, pave | | /ŋ/ | -, think, sing | |
+| throne, anything, moth | | | lanky, selfish, school  | |
+| /θ/ | | /l/ | | |
+| this, mother, breath | | | rat, carrot, - | |
+| /ð/ | | /r/ | | |
+| /s/ state, mistake, yes  | | /w/ | water, underwear, - | |
+| /z/ zoo, easy, choose | | /j/ | yellow, kayak, - | |
 English Grade 6
-
 Unit
-17
 Getting started
 A. Look at the pictures and say why they could be so surprised.
 B. Listen and sing.
@@ -4704,9 +2555,7 @@ Even for the least division of an hour,
 Have I been so beguiled as to be blind
 -William Wordsworth
 C. Now tell your friend about any surprising event you have faced.
-166
 English Grade 6
-
 Reading I
 a. How does the old man look?
 b. What is he doing?
@@ -4724,9 +2573,7 @@ meals and there was a pleasant smell of wood smoke in the air.
 Then I noticed that I was no longer alone. Someone was sitting at the
 table beside me. It was an old man with a long white beard. His clothes
 were dirty and almost in rags.
-167
 English Grade 6
-
 “What do you want?” I asked. “Let me tell your fortune, sir”, he said. I
 laughed. “I don’t believe in that sort of thing,” I told him. All the same,
 the old man took hold of my hand. “I can tell you your future,” he said.
@@ -4754,9 +2601,7 @@ A. Find the words from the story for these meanings.
 a. good
 b. saw
 c. old and torn clothes
-168
 English Grade 6
-
 d. chance or luck
 e. caught
 f. waited
@@ -4782,28 +2627,21 @@ the traveller
 i. said yes. ii. could not speak. iii. could not decide.
 g. The owner of the restaurant thought that the old man was:
 i. clever ii. mad iii. unhappy
-169
 English Grade 6
-
 C.  Was the old man mentally ill? What do you think? Give your
 opinion.
- Speaking
-A.   Act out the following conversations.
-| Pasang  | :  Hello, Sabina! Have you heard  |     |     |
-| ------- | --------------------------------- | --- | --- |
+Speaking
+A. Act out the following conversations.
+| Pasang  | :  Hello, Sabina! Have you heard  | | |
 that tomorrow is a holiday?
-| Sabina  | :  Hurray!  | Thank  you  | for  such   |
-| ------- | ----------- | ----------- | ----------- |
+| Sabina  | :  Hurray!  | Thank  you  | for  such |
 good news!
-| Pasang  | :  You are welcome. |     |     |
-| ------- | ------------------- | --- | --- |
+| Pasang  | :  You are welcome. | | |
 Rina  :  Hello, Bipin! Have you heard that our team lost the match?
-| Bipin  | :  Oh, no ! It’s bad luck! |     |     |
-| ------ | -------------------------- | --- | --- |
-| Rina   | :  I am also shocked.      |     |     |
-B.   Work in pairs. Express surprise in the following situations.
-| a.  | Somebody told you that you have won a lottery. |     |     |
-| --- | ---------------------------------------------- | --- | --- |
+| Bipin  | :  Oh, no ! It’s bad luck! | | |
+| Rina | :  I am also shocked. | | |
+B. Work in pairs. Express surprise in the following situations.
+| a.  | Somebody told you that you have won a lottery. | | |
 b.  You heard that your name was announced as the winner in an
 art competition.
 c.  The head teacher announced that grade six students would be
@@ -4812,9 +2650,7 @@ d.  You heard that one of your relatives is taken to hospital after
 a road accident.
 e.  Somebody  told  you  that  there  was  a  plane  crash  and  15
 passengers were killed.
-170
 English Grade 6
-
 Listening
 A. Look at the pictures and answer these questions.
 a. What do you see in the pictures?
@@ -4829,9 +2665,7 @@ d. Shanta will talk to her to plan for a winter vacation.
 C. Listen to the recording again and answer the questions.
 a. When did Suman go to Chitwan?
 b. Which two places did they visit in Chitwan?
-171
 English Grade 6
-
 c. Has Shanta ever been to Chitwan?
 d. When will Shanta go to Chitwan?
 D. Can you recall some of the information about Chitwan National
@@ -4853,60 +2687,44 @@ e. We went to the cinema last night.
 f. My mother had written many books.
 g. Columbus discovered America on August 3, 1492.
 C. Choose the correct verb forms to complete the sentences.
-a. My father (published/was publishing/had published)
+a. My father (published/was publishing/had published
 this book last year.
 b. She (was washing/washed/had washed) her clothes
 when I called her.
-172
 English Grade 6
-
-c.  I   (had already finished/was already finishing/ already
+c.  I (had already finished/was already finishing/ already
 finished) my work when my friends came to meet me.
-| d.  | I saw her sister while I  |     |  (was going/went/had gone)  |
-| --- | ------------------------- | --- | --------------------------- |
+| d.  | I saw her sister while I  | |  (was going/went/had gone)  |
 to school.
-| e.  | We  |  (heard/were hearing/had heard) a strange noise,  |     |
-| --- | --- | ------------------------------------------------- | --- |
+| e.  | We  |  (heard/were hearing/had heard) a strange noise,  | |
 didn’t we?
-| f.  | He  |  (was doing/did/had done) homework when I  |     |
-| --- | --- | ------------------------------------------ | --- |
+| f.  | He  |  (was doing/did/had done) homework when I  | |
 went to meet him at his house.
-| g.  | Her husband  |     |  (came/was coming/had come) home  |
-| --- | ------------ | --- | --------------------------------- |
+| g.  | Her husband  | |  (came/was coming/had come) home  |
 last night.
-| h.  | I   (did not see/had not seen/was not seeing) you  |     |     |
-| --- | -------------------------------------------------- | --- | --- |
+| h.  | I (did not see/had not seen/was not seeing) you  | | |
 yesterday. Where were you?
-| i.  | They  |  (went/was going/had gone) home after they  |     |
-| --- | ----- | ------------------------------------------- | --- |
+| i.  | They  |  (went/was going/had gone) home after they  | |
 had finished their work.
-| j.  | The music suddenly stopped while he  |     |  (danced/ was  |
-| --- | ------------------------------------ | --- | -------------- |
+| j.  | The music suddenly stopped while he  | |  (danced/ was  |
 dancing/had danced).
- Reading II
+Reading II
 a.  Who are the people in the picture?
 b.  What is the man buying?
 At a Chemist
-| Customer  | :  Good afternoon. Can you  |     |     |
-| --------- | --------------------------- | --- | --- |
+| Customer  | :  Good afternoon. Can you  | | |
 make up this prescription?
 | Chemist  | :  I  wonder  | if  you  | could  |
-| -------- | ------------- | -------- | ------ |
 come back at 3 o’clock,
-|     | sir.  I’ll  | get  the  | whole  |
-| --- | ----------- | --------- | ------ |
+| | sir.  I’ll  | get  the  | whole  |
 thing ready.
-| Customer  | :  I’m afraid I can’t wait till  |     |     |
-| --------- | -------------------------------- | --- | --- |
-173
+| Customer  | :  I’m afraid I can’t wait till  | | |
 English Grade 6
-
 three. My wife has a stomach-ache. Why don’t you give
 me these drugs now?
 Chemist  :  All right, I will. It might still take me about half an hour
 to make it up. You could take a seat there and wait.
-| Customer  | :  I’d rather go home and come back later.  |     |
-| --------- | ------------------------------------------- | --- |
+| Customer  | :  I’d rather go home and come back later.  | |
 Chemist  :  As  you  wish.  But  let  me  first  look  at  the  whole
 prescription. I want to make sure that I have all the drugs.
 Oh, I’m sorry. This one at number three is not available.
@@ -4916,8 +2734,7 @@ Customer  :  Bother!  What  do  I  do  now?  What  about  giving  me
 another drug with the same formula?
 Chemist  :  Well, I do have another one. But I can’t sell any drug
 without a doctor’s prescription.
-| Customer  | :  Even in an emergency?  |     |
-| --------- | ------------------------- | --- |
+| Customer  | :  Even in an emergency?  | |
 Chemist  :  I’m sorry. Under no circumstances. But if I were you,
 I’d ring up the doctor and ask him about an alternative.
 You could use my telephone.
@@ -4925,18 +2742,14 @@ Customer  :  Yes, that’s a good idea! Thank you so much. I’ll call him
 right away.
 A.  Match the words/phrases in column A with their meanings in
 column B.
-| Column A  |     |   Column B |
-| --------- | --- | ---------- |
+| Column A  | | Column B |
 a.  make up  i.  serious situation needing immediate attention
-| b.  out of stock  |     | ii.  chemicals composing a medicine |
-| ----------------- | --- | ----------------------------------- |
-| c.  formula       |     | iii.  telephone                     |
-| d.  call          |     | iv.  prepare                        |
-| e.  emergency     |     | v.  not available                   |
+| b.  out of stock  | | ii.  chemicals composing a medicine |
+| c.  formula | | iii.  telephone |
+| d.  call | | iv.  prepare |
+| e.  emergency | | v.  not available |
 f.  alternative  vi.  available as another possibility or choice.
-174
 English Grade 6
-
 B. Answer the following questions.
 a. Is the customer a man or a woman?
 b. Who is the prescription for?
@@ -4964,54 +2777,38 @@ B : Oh, .
 A : Could I take your name please?
 B : Yes, it is Simran.
 A : Thank you Simran. See you at 3:00 p.m.
-175
 English Grade 6
-
 B.  Compose a dialogue between you and your friend talking about
 your plan to visit Lumbini.
- Project work
+Project work
 Find one of the discoveries of modern science. Prepare a short
 report and present it to the class.
- Extra bit: Vowels
+Extra bit: Vowels
 There are twenty vowels in English. When the symbol ‘ː’ follows a
 vowel symbol, it means that the vowel is pronounced longer.
 | Sound | Examples | Sound | Examples |
-| ----- | -------- | ----- | -------- |
 went, intend, send, letter curve, herd, bird, serve
-| /e/ |     | /ɜː/ |     |
-| --- | --- | ---- | --- |
+| /e/ | | /ɜː/ | |
 cat, hand, nap, flat, have he, see, keep, she
-| /æ/ |     | /iː/ |     |
-| --- | --- | ---- | --- |
+| /æ/ | | /iː/ | |
 fun, love, money, come cry, like, bright, lime
-| /ʌ/ |     | /aɪ/ |     |
-| --- | --- | ---- | --- |
+| /ʌ/ | | /aɪ/ | |
 put, look, cook, book bake, rain, eight, break
-| /ʊ/ |     | /eɪ/ |     |
-| --- | --- | ---- | --- |
+| /ʊ/ | | /eɪ/ | |
 top, watch, god, spot go, loan, slow, though
-| /ɒ/ |     | /əʊ/ |     |
-| --- | --- | ---- | --- |
+| /ɒ/ | | /əʊ/ | |
 alive, again, mother bound, brown, now, house
-| /ə/ |     | /aʊ/ |     |
-| --- | --- | ---- | --- |
+| /ə/ | | /aʊ/ | |
 calm, palm, start pair, stare, care, hair
-| /ɑː/ |     | /eə/ |     |
-| ---- | --- | ---- | --- |
+| /ɑː/ | | /eə/ | |
 pit, bin, fill, will career, here, near, year
-| /ɪ/ |     | /ɪə/ |     |
-| --- | --- | ---- | --- |
+| /ɪ/ | | /ɪə/ | |
 saw, fall, wall, dawn boy, toy, coin, foil
-| /ɔː/ |     | /ɔɪ/ |     |
-| ---- | --- | ---- | --- |
+| /ɔː/ | | /ɔɪ/ | |
 you, who, shoe, cool tourist, usual, jury, lure
-| /uː/ |     | /ʊə/ |     |
-| ---- | --- | ---- | --- |
-176
+| /uː/ | | /ʊə/ | |
 English Grade 6
-
 Unit
-18
 Getting started
 A. Look at the pictures, ask and answer one question about each.
 B. Listen and sing.
@@ -5025,26 +2822,16 @@ You always look lonely, always in tense.
 Are tigers, monkeys, ducks, hens, not your friends?
 C. Work in groups. Talk about your family. Try asking for and
 giving information and reasons.
-177
 English Grade 6
-
 a. What is the picture called?
 b. What do the bars represent?
 Expenditure on Computers and
 Smartphones
-60
-50
-40
 30 Computer
 Smartphone
-20
-10
-0
-2015 2016 2017 2018 2019
-178
 English Grade 6
-).sR
-noillim(
+.sR
+noillim
 selaS
 Reading I
 The chart shows the amount of money people from Kathmandu spent
@@ -5056,7 +2843,6 @@ increased dramatically, reaching 45 million rupees in 2019.
 People’s total expenditure on these electronic devices rose dramatically
 in this period. The total amount was 40 million rupees in 2015 and it
 went up to 95 million rupees in 2019.
-
 Overall, the sales of both of these items grew, but smartphone sales
 grew more quickly. If these trends continue, we can expect computer
 sales to overtake smartphone sales in 2020 or soon after.
@@ -5082,27 +2868,24 @@ d. What was popular among people in Kathmandu in the year
 2017?
 C. Do you think that smartphones are going to be popular in the
 coming years? Why? Talk to your friends.
-179
 English Grade 6
-
- Speaking
+Speaking
 A.  Complete the questions below with the question words in the
 box. Work in pairs, take turns to ask and answer the questions.
-| What  When  | Where                              | Why  Who  | Which      | What kind |
-| ----------- | ---------------------------------- | --------- | ---------- | --------- |
-| What time   | How much                           | How many  | How often  | What      |
-| a.          |  is your birthday?                 |           |            |           |
-| b.          |  do you exercise?                  |           |            |           |
-| c.          |  do you live?                      |           |            |           |
-| d.          |  of music do you like?             |           |            |           |
-| e.          |  brothers and sisters do you have? |           |            |           |
-| f.          |  are you going to do tomorrow?     |           |            |           |
-| g.          |  do you usually go to bed?         |           |            |           |
-| h.          |  do you live with?                 |           |            |           |
-| i.          |  are you learning English?         |           |            |           |
-| j.          |  did you do yesterday?             |           |            |           |
-| k.          |  do you prefer, ice-cream or cake? |           |            |           |
-| l.          |  coffee do you drink a day?        |           |            |           |
+| What  When  | Where | Why  Who  | Which | What kind |
+| What time | How much | How many  | How often  | What |
+| a. |  is your birthday? | | | |
+| b. |  do you exercise? | | | |
+| c. |  do you live? | | | |
+| d. |  of music do you like? | | | |
+| e. |  brothers and sisters do you have? | | | |
+| f. |  are you going to do tomorrow? | | | |
+| g. |  do you usually go to bed? | | | |
+| h. |  do you live with? | | | |
+| i. |  are you learning English? | | | |
+| j. |  did you do yesterday? | | | |
+| k. |  do you prefer, ice-cream or cake? | | | |
+| l. |  coffee do you drink a day? | | | |
 B.  Read the statements and ask questions to your friends.
 a.  Mt. Everest is the tallest mountain in the world.
 b.  WHO stands for World Health Organization.
@@ -5110,9 +2893,7 @@ c.  I went to Kathmandu to buy a book.
 d.  She didn’t speak to me because she was angry.
 e.  The Karnali is the longest river in Nepal.
 f.  They help each other because they are very close friends.
-180
 English Grade 6
-
 Listening
 A. Look at the pictures and answer these questions.
 a. Have you ever visited these places?
@@ -5128,9 +2909,7 @@ d. Where is the post office?
 It is next to the
 e. Where is the museum?
 It is opposite the , right on the corner.
-181
 English Grade 6
-
 C. Listen to the recording again and write True or False.
 a. The girl is visiting the place for the first time.
 b. There is an ATM in the bank.
@@ -5139,11 +2918,11 @@ D. Work in pairs. Take turns to give directions to get to your home
 from school.
 Grammar
 A. Study the following sentences.
-She lost her yellow pen. (which question)
+She lost her yellow pen. (which question
 Which pen did she lose?
-They play volleyball. (what question)
+They play volleyball. (what question
 What do they play?
-Supriya lives in Janakpur. (where question)
+Supriya lives in Janakpur. (where question
 Where does Supriya live?
 B. Rearrange the words to make correct questions.
 a. what doing are they?
@@ -5156,60 +2935,46 @@ g. what friend have for lunch your did?
 h. stay Kevin long in Paris did how?
 i. the like what weather was?
 j. maths easy is thinks who?
-182
 English Grade 6
-
 C. Make questions for the following statements as indicated in
 brackets.
-a. Mr. Thapa lives in Sarlahi. (where)
-b. My father went to the bank to get some money. (why)
-c. She has brought a history book. (what)
-d. Sheela works at Mangal Bazar, Patan. (who)
+a. Mr. Thapa lives in Sarlahi. (where
+b. My father went to the bank to get some money. (why
+c. She has brought a history book. (what
+d. Sheela works at Mangal Bazar, Patan. (who
 e. Subarna didn’t go to school yesterday because it was raining.
-(why)
-f. Shakespeare was born in 1564. (when)
-g. She likes pizza. (what)
-h. My sister has won the gold medal. (what)
-i. She used her brother’s mobile phone. (whose)
+why
+f. Shakespeare was born in 1564. (when
+g. She likes pizza. (what
+h. My sister has won the gold medal. (what
+i. She used her brother’s mobile phone. (whose
 Writing
 A. Study the given bar chart and write a description of it.
 13th South Asian Games: Nepal's Medal Tally
-60
-50
-40
-30
 Gold Medal
-20
-10
-0
-183
 English Grade 6
-
 B.  Fill in the blanks with your own words and compose a poem.
 My Good Friend
-| I have a friend  |     |           |  tall           |
-| ---------------- | --- | --------- | --------------- |
-| Who is           |     |           |  all            |
-| S/he loves       |     |           |  me             |
-| I also           |     |           |  free           |
-| We               |     |  and read |                 |
-| S/he             |     |           |  in need        |
-| I feel           |     |           |  member         |
-| I cannot         |     |           |  remember       |
-| I am lucky       |     |           |  friend with me |
-| I take           |     |           |  family.        |
+| I have a friend  | | |  tall |
+| Who is | | |  all |
+| S/he loves | | |  me |
+| I also | | |  free |
+| We | |  and read | |
+| S/he | | |  in need |
+| I feel | | |  member |
+| I cannot | | |  remember |
+| I am lucky | | |  friend with me |
+| I take | | |  family. |
 C.  Compose a simple poem about one of of your interests.
- Reading II
+Reading II
 a.  Do you recognise the girl in the picture?
 b.  What is she famous for?
 Gaurika Bags Record Fourth Gold
-| KATHMANDU,  |        | Dec  10:       | Gaurika   |
-| ----------- | ------ | -------------- | --------- |
-| Singh       | added  | another  gold  | to  take  |
-her 13th South Asian Games (SAG)
+| KATHMANDU,  | | Dec  10: | Gaurika |
+| Singh | added  | another  gold  | to  take  |
+her 13th South Asian Games (SAG
 gold tally to four on the last day of
-| the  swimming  |     | competition  | at  the  |
-| -------------- | --- | ------------ | -------- |
+| the  swimming  | | competition  | at  the  |
 13th South Asian Games (SAG) in
 Lalitpur on Monday.
 With this, she has become the only
@@ -5218,10 +2983,7 @@ golds, but no athlete had achieved
 a single Games. Only Taekwondo’s
 the feat in a single tournament.
 | Deepak  | Bista  | had  won  | four  SAG  |
-| ------- | ------ | --------- | ---------- |
-184
 English Grade 6
-
 Singh won her fourth gold medal Gaurika had earlier won the gold
 in the women’s 100 metres medals in 200 meters freestyle,
 freestyle event with a brilliant 200 metres backstroke and 400
@@ -5245,13 +3007,11 @@ Extra bit: Reflexive pronouns
 a. I cut myself while I was cutting grass.
 b. My father cut himself while he was shaving.
 c. The old lady sat in a corner talking to herself.
-d. Don’t get angry. Control yourself! (said to one person)
+d. Don’t get angry. Control yourself! (said to one person
 e. If you want more to eat, help yourselves. (said to more than one
-person)
+person
 f. The picnic was great. We enjoyed ourselves very much.
-185
 English Grade 6
-
 Glossary
 Abide /əˈbaɪd/ (v.): to accept or act in accordance with.
 Abuse /əˈbjuːs/ (n.): the use of something in a way that is harmful or morally wrong.
@@ -5285,7 +3045,7 @@ Athlete /ˈæθliːt/ (n.): a person who is very good at sports or physical exer
 one who completes in organized events.
 ATM /ˌeɪ tiː ˈem/ (n.): a machine in or outside a bank, shop, etc., from which you can get
 money from your bank account using a special plastic card (the abbreviation
-for ‘automated teller machine’ or ‘automatic teller machine’)
+for ‘automated teller machine’ or ‘automatic teller machine’
 Atmosphere /ˈætməsfɪə(r)/ (n.): the mixture of gases around the earth.
 Attract /əˈtrækt/ (v.): to pull or draw someone or something towards them, by
 the qualities they have, especially good ones.
@@ -5295,9 +3055,7 @@ Beast /biːst/ (n.): a large and dangerous animal.
 Befall /bɪˈfɔːl/ (v.): happen.
 Beguiled /bɪˈɡaɪld/ (adj.): filled with wonder and delight.
 Benefit /ˈbenɪfɪt/ (n.): a helpful or good effect, or something intended to help.
-186
 English Grade 6
-
 Betray /bɪˈtreɪ/ (v.): to hurt somebody who trusts you.
 Blame /bleɪm/ (v.): to say or think that someone or something did something wrong or
 is responsible for something bad happening.
@@ -5340,9 +3098,7 @@ Crackling /ˈkræklɪŋ/ (v.): making a sharp sound of snapping noises.
 Cradle /ˈkreɪdl/ (n.): a baby bed with sides and rockers.
 Critic /ˈkrɪtɪk/ (n.): someone whose job is to give their opinion about something, especially
 films, books, music, etc.
-187
 English Grade 6
-
 Crow /krəʊ/ (v.): when a cock (=an adult male chicken) crows, it makes a very long and
 loud sharp cry.
 Crystal /ˈkrɪstl/ (adj.): transparent.
@@ -5386,9 +3142,7 @@ Equality /iˈkwɒləti/ (n.): quality of being the same in quantity, measure, va
 Equipment /ɪˈkwɪpmənt/ (n): a tool for a particular purpose.
 Escape /ɪˈskeɪp/ (v.): to get free from something or place.
 Essential /ɪˈsenʃl/ (adj): necessary or needed.
-188
 English Grade 6
-
 Establish /ɪˈstæblɪʃ/ (v.): to start a company or organization that will continue for a long
 time.
 Exchange /ɪksˈtʃeɪndʒ/ (v.): the act of giving something to someone and them giving you
@@ -5431,9 +3185,7 @@ Grocery /ˈɡrəʊsəri/ (n.): a marketplace where groceries are sold.
 Guilty /ˈɡɪlti/ (adj.) feeling guilt.
 Gullet /ˈɡʌlɪt/ (n.): the tube that food travels down in the body from the mouth to the
 stomach.
-189
 English Grade 6
-
 Harm /hɑːm/ (v.): to hurt or damage something.
 Heating /ˈhiːtɪŋ/ (n.): the system that keeps a building warm.
 Held /held/ (v., past form of hold): had something e.g., meeting.
@@ -5476,9 +3228,7 @@ Magnificent /mæɡˈnɪfɪsnt/ (adj.): very good, beautiful, or deserving to be 
 Maintain /meɪnˈteɪn/ (v.): to continue to have.
 Manufacture /ˌmænjuˈfæktʃə(r)/ (v.): to make/produce.
 Masterpiece /ˈmɑːstəpiːs/ (n.): an outstanding piece of work.
-190
 English Grade 6
-
 Medal /ˈmedl/ (n.): a small metal disc, with words or a picture on it, given as a reward for
 winning a competition.
 Meditate /ˈmedɪteɪt/ (v.): to have deep concentration and thinking intently for spiritual
@@ -5521,9 +3271,7 @@ Pass away /pɑːs əˈweɪ/ (phr.): to die.
 Patent /ˈpætnt/, /ˈpeɪtnt/ (adj.): to have the ownership right of invention.
 Peaceful /ˈpiːsfl/ (adj.): quiet and calm.
 Perform /pəˈfɔːm/ (v.): to do an action or a piece of work.
-191
 English Grade 6
-
 Personnel /ˌpɜːsəˈnel/ (n.): people who work for an organization.
 Philosophy /fəˈlɒsəfi/ (n.): a particular system of beliefs, values and principles.
 Pity /ˈpɪti/ (n.): a feeling of sadness for someone else’s difficult situation.
@@ -5566,9 +3314,7 @@ Recite /rɪˈsaɪt/ (v.): to say a piece of writing aloud from memory.
 Recreation /ˌriːkriˈeɪʃn/ (n.): amusement, refreshment, fun.
 Recycle /ˌriːˈsaɪkl/ (v.): to treat rubbish in order to treat it and produce useful materials that
 can be used again.
-192
 English Grade 6
-
 Reduce /rɪˈdjuːs/ (v.): to decrease the quantity or amount.
 Release /rɪˈliːs/ (v.): to give freedom for someone or something.
 Relief /rɪˈliːf/ (n.): a feeling of happiness that something unpleasant has not happened or
@@ -5611,9 +3357,7 @@ Smash /smæʃ/ (n.): the act to hit something e.g., a ball in volleyball.
 Snarl /snɑːl/ (v.): to make a deep, rough sound while showing the teeth, usually in anger.
 Solitude /ˈsɒlətjuːd/ (n.): the state of being alone.
 Solve /sɒlv/ (v.): to find an answer to a problem.
-193
 English Grade 6
-
 Sorrow /ˈsɒrəʊ/ (n.): a feeling of great sadness.
 Stab /stæb/ (v.): to injure someone with a sharp pointed object such as a knife.
 Starve /stɑːv/ (v.): to go without food for longer time because of food crisis.
@@ -5655,5 +3399,4 @@ Wipe /waɪp/ (v.): to remove liquid from ears.
 Woe /wəʊ/ (n.): intense mournfulness.
 Worship /ˈwɜːʃɪp/ (v.): to show devotion to, and pray for.
 Wren /ren/ (n.): a very small brown bird.
-194
 English Grade 6

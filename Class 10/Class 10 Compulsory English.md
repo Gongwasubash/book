@@ -1,564 +1,38 @@
-https://importantedunotes.com/
-ENGLISH
-Grade 10
-Government of Nepal
-Ministry of Education, Science and Technology
-Curriculum Development Centre
-Sanothimi, Bhaktapur
-English 10 1
+---
+title: "Compulsory English"
+grade: 10
+language: english
+subject: "Compulsory English"
+publisher: "Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre"
+location: "Sanothimi, Bhaktapur"
+---
 
-https://importantedunotes.com/
-| Publisher:    | Government of Nepal                           |     |     |     |
-| ------------- | --------------------------------------------- | --- | --- | --- |
-|               | Ministry of Education, Science and Technology |     |     |     |
-|               | Curriculum Development Centre                 |     |     |     |
-|               | Sanothimi, Bhaktapur                          |     |     |     |
-© Curriculum Development Centre
-All rights reserved, no part of this publication may be reproduced,
-transmitted in any other form or by any means without the written
-permission of the publisher. However, this does not prohibit
-making photocopies of its pages for teacher training or other
-non-profit making purposes.
-| First Edition:    | 2023                             |     |     |     |
-| ----------------- | -------------------------------- | --- | --- | --- |
-| Updated Edition:  | 2025                             |     |     |     |
-| Printed at:       | Janak Education Materials Centre |     |     |     |
-|                   | Sanothimi, Bhaktapur             |     |     |     |
-Price Rs.:
-The audio files for the listening tasks provided in this book are available on the
-| website of the Curriculum  |     | Development Centre. |     |     |
-| -------------------------- | --- | ------------------- | --- | --- |
-Send your comments and suggestions to:
-Curriculum Development Centre
-Phone: 01-6630-588, Fax: 01-6630-797
-Email: info@moecdc.gov.np
-Website: moecdc.gov.np
-| 2     |     |     |     | English 10 |
-| ----- | --- | --- | --- | ---------- |
+# Compulsory English — Grade 10
 
-https://importantedunotes.com/
-Preface
-The curriculum is the central guide that decides what is essential for teaching and
-learning. A textbook is one of the main tools to deliver the intent and content of the
-curriculum. An amendment in the curriculum and textbook is a regular process to
-make them relevant, practical, and useful for the overall development of learners.
-This textbook has been developed to address the main aims of the Secondary English
-Curriculum: exposing the students to the vast treasure of knowledge available in
-both written and spoken English and enabling them to communicate their ideas in
-English. It is aligned with the intent of the National Curriculum Framework for School
-Education, 2076, and is developed based on the new Secondary Level (Grade 9-10)
-English Curriculum 2078.
-The contents in this book are arranged in such a way that learners get ample
-opportunities to practise listening, speaking, reading, and writing skills as well
-as grade-appropriate vocabulary, grammar, and language functions in each unit.
-Considerable effort has been made to make the book activity-oriented and interesting
-to the learners. All the contents and the tasks of each lesson in this textbook are equally
-important. With the view that the learning of English should be based on authentic
-materials, we have retrieved and adapted the texts including the audio files from various
-authentic sources. The teachers can also adapt the contents and the tasks according to
-the need of the learners and classroom contexts. This textbook can be used as a major
-resource for classroom teaching but it is not all-in-all. The teachers are also encouraged
-to explore additional resources to supplement this textbook keeping the curricular
-competencies and learning outcomes in mind.
-This textbook is prepared and updated by a team that includes Mr. Nim Prakash
-Singh Rathaur, Mr. Ananda Dhungana, Mr. Pashupati Pandya and Mr. Ramesh
-Dhakal. Director General Mr. Yubaraj Paudel and Mr. Baikuntha Prasad Aryal; Subject
-Committee Chairperson Prof. Dr. Bal Mukunda Bhandari, Subject Committee members:
-Dr. Bamdev Adhikari, Dr. Netra Prasad Sharma, Mr. Basanta Raj Dhakal and Mr.
-Nawaraj Sapkota; and the Director Mr. Tukaraj Adhikari and Mr. Raju Shrestha also
-contributed significantly on the development of this textbook. The content and language
-of the textbook are edited by Ms. Kunti Adhikari, Mr. Nabin Kumar Khadka, Mr. Binod
-Raj Bhatta and Mr. Bijaya Kumar Ranabhat. The illustrations in the book is done by Ms.
-Shaili Malla, Mr. Kushal Karki and layout is designed by Mr. Bhakta Bahadur Karki. Art
-editing of this textbook in its four-coloured version is done by Mr. Shreehari Shrestha.
-The Curriculum Development Centre (CDC) extends sincere gratitude to all of them.
-Finally, CDC always welcomes constructive feedback for the improvement of this book.
-Government of Nepal
-Curriculum Development Centre
-Ministry of Education, Science and Technology
-English 10 3
-2025 AD
+> **Publisher:** Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre
+> **Location:** Sanothimi, Bhaktapur
 
-https://importantedunotes.com/
-Table of Contents
+## Table of Contents
 
-| Unit | Title | Page |
-|------|-------|------|
-| 1 | Current Affairs and Issues | 1 |
-| 2 | Festivals and Celebrations | 17 |
-| 3 | Health and Wellness | 34 |
-| 4 | Work and Leisure | 51 |
-| 5 | Science and Experiment | 68 |
-| 6 | Food and Cuisine | 86 |
-| 7 | Cyber Security and Safety | 102 |
-| 8 | Hobbies and Interests | 119 |
-| 9 | Environment and Ecology | 136 |
-| 10 | Career and Entrepreneurship | 152 |
+| S.No. | Title |
+|-------|-------|
+| 1 | [Skimming](#ch-1) |
+| 2 | [Nouns and most adjectives and adverbs of two syllables have](#ch-2) |
+| 3 | [A verb of two syllables has stress on the second syllable, e.g.,](#ch-3) |
+| 4 | [Most three-syllable nouns and adjectives have stress on the first](#ch-4) |
+| 5 | [Three-syllable verbs have stress on the first syllable (except](#ch-5) |
+| 6 | [Words that end in -cy, -ty, -phy and –gy have stress on the third-](#ch-6) |
+| 7 | [Compound nouns have stress on the first part, e.g., HAIR-brush,](#ch-7) |
+| 8 | [Put your thumbs inside and open it out.](#ch-8) |
+| 13 | [But all she could see was an old man with a big stomach and a bald](#ch-13) |
+| 9 | [To cost an arm and  something is very  This house cost me an](#ch-9) |
+| 12 | [Beat around the  Avoiding the main  Don't beat around the](#ch-12) |
+| 15 | [Straight from the  To the information  Did you get the news](#ch-15) |
 
-https://importantedunotes.com/
-1
-Current Affairs and Issues
-Getting started
-Look at the pictures representing current issues and talk about
-them.
-Reading I
-Answer the following questions.
-a. What do you know about Artificial Intelligence (AI)?
-b. How do you think AI has changed the world?
-English 10 1
+---
 
-https://importantedunotes.com/
-How Driverless Cars will Change our World
-By Jenny Cusack 30th November 2021
-It's a late night in the Metro area of Phoenix, Arizona. Under the artificial
-glare of streetlamps, a car can be seen slowly approaching. Active sensors
-on the vehicle radiate a low hum. A green and blue 'W' glows from the
-windscreen, giving off just enough light to see inside – to a completely
-empty driver seat.
-The wheel navigates the curb, parking as an arrival notification pings on
-the phone of the person waiting for it. When they open the door to climb
-inside, a voice greets them over the vehicle's sound system. "Good evening,
-this car is all yours – with no one upfront," it says.
-This is a Waymo One robotaxi, hailed just 10 minutes ago using an app.
-The open use of this service to the public, slowly expanding across the
-US, is one of the many developments signaling that driverless technology
-is truly becoming a part of our lives.
-The promise of driverless technology has long been enticing. It has the
-potential to transform our experience of commuting and long journeys,
-take people out of high-risk working environments and streamline our
-industries. It's key to helping us build the cities of the future, where
-our reliance and relationship with cars are redefined lowering carbon
-emissions and paving the way for more sustainable ways of living. And
-it could make our travel safer. The World Health Organization estimates
-that more than 1.3 million people die each year as a result of road traffic
-crashes. "We want safer roads and fewer fatalities. Automation ultimately
-could provide that," says Camilla Fowler, head of automated transport for
-the UK's Transport Research Laboratory (TRL).
-But in order for driverless technology to become mainstream, much still
-needs to change. "Driverless vehicles should be a very calm and serene
-way of getting from A to B. But not every human driver around it will
-be behaving in that way," says David Hynd, chief scientist for safety and
-investigations at TRL.
-2 English 10
+## 1: Skimming  {#ch-1}
 
-https://importantedunotes.com/
-"It's got to be able to cope
-with human drivers speeding,
-for instance, or breaking
-the rules of the road. "And
-that's not the only challenge.
-There's regulation, rethinking
-the Highway Code, public
-perception, improving the
-infrastructure of our streets,
-towns, cities, and the big question of ultimate liability for road
-accidents. "The whole insurance industry is looking into how they're
-going to deal with that change from a person being responsible and
-in charge to the vehicle doing that," says Richard Jinks, vice president
-of commercial at Oxfordshire-based driverless vehicle software
-company Oxbotica, which has been testing its technology in cars
-and delivery vehicles at several locations across the UK and Europe.
-The ultimate vision experts are working towards is of completely driverless
-vehicles, both within industry, wider transport networks, and personal
-use cars, that can be deployed and used anywhere Self-driving
-and everywhere around the world. vehicles
-are steadily
-But with all these hurdles in place, what exactly
-becoming a
-does the next 10 years have in store for autonomous
-reality despite
-Tvewhoic lyees?ars from now
-the many
-hurdles still to
-be overcome –
-The biggest hurdle for those in the driverless and they could
-technology industry is how to get the cars to operate change our
-safely and effectively in complex and unpredictable world in some
-human environments. Cracking this part of the unexpected
-puzzle will be the major focus of the next two years. ways.
-At the Mcity Test Facility at the University of Michigan,
-experts are addressing this. The world's first purpose-
-built testing ground for autonomous vehicles, it is a
-mini-town of sorts, made up of 16 acres of road and traffic infrastructure.
-IEtn ignlicslhu d1e0s traffic signals and signs, underpasses, building facades, tre3e
-
-https://importantedunotes.com/
-cover, home and  garage  exterior  for  testing  delivery and  ride-
-hailing,  and different  terrains such  as road, pedestrian  walkways,
-railway  tracks, and road-markings  which the vehicles must navigate.
-It is here that experts test scenarios  that even the most experienced
-of drivers may be pressed  to handle, from children playing in  the
-(Source: BBC Future)
-street to two cars trying  to merge on a junction at the same time.
-A.  The following words have two different meanings. Match
-each word with the meaning used in the context of the
-text above.
-| a.  glare  | i.    |  an angry or fierce stare                      |     |
-| ---------- | ----- | ---------------------------------------------- | --- |
-|            | ii.   | an intense blinding light                      |     |
-| b.  curb   | i.    | a stone edging to a pavement or raised path    |     |
-|            | ii.   | something that checks or restrains             |     |
-| c.  hail   | i.    | to call to somebody in order to attract their  |     |
-attention
-|     | ii.    | to describe somebody/something as being very  |     |
-| --- | ------ | --------------------------------------------- | --- |
-good or special
-d.  commute  i.  to replace a punishment with a less severe one
-|             | ii.   | to travel regularly between workplace and home |     |
-| ----------- | ----- | ---------------------------------------------- | --- |
-| e.  serene  | i.    | calm and peaceful                              |     |
-|             | ii.   | an expanse of clear sky or calm sea            |     |
-f.  liability  i.  a person or thing that causes you a lot of
-problems
-|     | ii.   | the state of being legally responsible for  |     |
-| --- | ----- | ------------------------------------------- | --- |
-something
-g.  deploy   i.  to move soldiers or weapons into a position for
-an action
-|     | ii.   | to use something effectively |     |
-| --- | ----- | ---------------------------- | --- |
-h.  autonomous i.  a vehicle that has the technology to drive itself
-|       | ii.  | able to do things and make decisions without  |            |
-| ----- | ---- | --------------------------------------------- | ---------- |
-| 4     |      | h elp fro m any one els e                     | English 10 |
-
-https://importantedunotes.com/
-i. perception i. a belief or an image about how you see or
-understand something
-ii. the ability to understand the true nature of
-B. Choose the corrects oamlteetrhninagtives to complete the sentences.
-a. One of the features of automated cars is ............
-i. they wait for the passengers.
-ii. they approach slowly.
-iii. they have their own voice to welcome people into them.
-b. Driverless technology is being widely used particularly in .....
-i. the USA ii. the UK iii. the UAE
-c. The positive impact of such technology on the environment
-is ........
-i. it prevents road accidents.
-ii. it paves the way to sustainable life.
-iii. it reduces carbon production.
-d. One of the problems with driverless technology is...........
-i. it cannot deal with traffic system.
-ii. it cannot deal with human drivers.
-iii. it cannot cope with other cars.
-e. One of the biggest challenges of the automated cars is ........
-i. its safety from the human environment.
-ii. human safety from it.
-iii. its durability in the human environment.
-f. The automated technology developed so far is ........
-i. completely trustworthy
-English 10 5
-
-https://importantedunotes.com/
-ii.    partly trustworthy
-| C.   Answer the following questions. | iii.    not trustworthy at all                     |     |     |     |
-| ------------------------------------ | -------------------------------------------------- | --- | --- | --- |
-| a.                                   | Mention any three features of the driverless car.  |     |     |     |
-| b.                                   | Describe the benefits of driverless technology.    |     |     |     |
-c.   What, according to Camilla Fowler, is the special advantage of
-automated vehicles?
-d.   What are the problems with driverless vehicles in David Hynd’s
-views?
-e.   What are scientists doing to make driverless technology safer?
-f.   Do you think driverless technology is safer than human-
-D.	 Thincko	onftr	aonllye	dt hdrreivein	ogt?h Werh	ay?reas	where	artificial	intelligence
-(AI)	has	been	used.	What	are	the	benefits	of	using	AI	in	these
-areas? Share your ideas with the class.
-Pronunciation
-Consult a dictionary and transcribe the following words pho-
-nemically as in the example. Then, pronounce them  correctly.
-/gleə(r)/
-| Example :         | glare- |          |        |         |
-| ----------------- | ------ | -------- | ------ | ------- |
-| glare             | curb   | junction | carbon | car     |
-| Sppreesaidkeinntg | hurdle | exterior | driver | traffic |
-A.  The following statements are from the article of Reading
-I. Find who made these remarks and report them in your
-own words.
-| 6     |     |     |     | English 10 |
-| ----- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
-Good  evening,  this  car  is  all  It's got to be able to cope
-| yours – with no one upfront. |     | with human drivers speeding. |     |     |
-| ---------------------------- | --- | ---------------------------- | --- | --- |
-The whole insurance industry
-| Driverless  | vehicles  |     |     |     |
-| ----------- | --------- | --- | --- | --- |
-is looking into how they're
-should be a very calm
-|                      |          | going  to                    | deal  with  | the  |
-| -------------------- | -------- | ---------------------------- | ----------- | ---- |
-| and  serene          | way  of  | change from a person being   |             |      |
-| getting from A to B. |          | responsible and incharge to  |             |      |
-the vehicle doing that.
-B.   Here are some remarks people made to you this morning.
-Report them to your friends in the class.
-Example: Father–You have progressed in your studies to a great deal.
-My father told me that I had progressed in my studies to a
-great deal.
-| a.    Teacher – I am very busy now.    |     |     |     |     |
-| -------------------------------------- | --- | --- | --- | --- |
-| b.    Sister- The cows have been fed.  |     |     |     |     |
-| c.    Sohan- I know your address.      |     |     |     |     |
-| d.    Ramila – I don’t believe you.    |     |     |     |     |
-| e.    Alice- I am too late to go out.  |     |     |     |     |
-C.   Lf. e  t’sS polpahyi.e- My family is very supportive to me.
-Work in a group of three. Student 'A' whispers something to
-student 'B'. Then student 'B' reports it to student 'C' in a whisper.
-Use the given prompts.
-| English 10  |     |     |     | 7   |
-| ----------- | --- | --- | --- | --- |
-
-https://importantedunotes.com/
-Example:
-A to B : I went to the market after school yesterday.
-B to C : She/he said that she/he had gone to the market after school
-the previous day.
-go to the market, eat Chinese food, buy new mobile phone, play
-games in computer, watch a horror movie, paint a scene, visit a
-Gnreawm pmarkar I
-A. Match the following statements with the correct reported
-speech and notice how the statements are changed.
-a. Khushi said, “I go to school i. Karma apologised for coming
-every day by bus." late.
-b. Karma said to me, "I am sorry ii. Susan says that she will leave
-for coming late." for Bhanu the following week.
-c. Susan says, “I will leave for iii. Tshering promised me to
-Bhanu next week.” meet that Saturday.
-d. Tshering said, “I will surely meet iv. The agent informed us that
-you this Saturday.” the bus left at six.
-e. “The bus leaves at six,” said the v. Khusi said that she went to
-agent. school every day by bus.
-f. “I have already finished my vi. Yanjal said that he worked
-project work,” said she. from house those days.
-g. “I work from home these days,”, vii. She said that she had already
-B. sCaoidm Ypalnejtael. the following sentencesf iwniisthhe tdh hee cro prrroejcetc rt ewpoorrkt.ing
-verbs.
-advised admitted warned offered thanked
-informed agreed apologised promised
-8 English 10
-
-https://importantedunotes.com/
-a. “I broke the mirror.” He ............... that he had broken the mirror.
-b. "I'd go and see a doctor if I were you," Pemba said to me. Pemba
-................ me to see a doctor.
-c. “I will send you out if you make a noise again,” said the librarian.
-The librarian ................ me not to make a noise again.
-d. "I can come and help you plant rice," said Raman. Raman ................
-to help me plant rice.
-e. “The classes start from next week,” said the assistant. The
-assistant ................ us that the classes start from the following
-week.
-f. Sonam said to me, “Thank you so much for your help.”
-Sonam................ me for my help.
-g. “OK. I will return your money by Saturday,” said Prakriti.
-Prakriti................ to return my money by Saturday.
-h. “I will really work hard and score good grades,” said Anupam.
-Anupam................ to work hard and get good grades.
-i. “I am sorry for coming late,” said the speaker. The speaker
-Writing I
-................ for coming late.
-The use of AI in the technology is not only making people’s
-lives easier but bringing new challenges. Write a newspaper
-article about the challenges brought by the advancement of AI
-in technology.
-Reading II
-Look at the picture below and answer the following questions.
-a. Who do you think these people are?
-b. What are they doing?
-English 10 9
-
-https://importantedunotes.com/
-Open Letter to UN Secretary-General Antonio Guterres
-His Excellency Antonio Guterres
-United Nations Secretary General
-United Nations Secretariat
-nd
-42 Street,
-New York, NY 10017
-RE: Inclusion of Children in the Youth Advisory Group
-7 August 2020
-on Climate Change
-Congratulations on your recent announcement of seven young climate
-leaders- between the ages of 18 and 28 years old – to your Youth Advisory
-Group on climate change, who will advise you regularly on accelerating
-global action and the action to tackle the worsening climate crisis. We
-appreciate this important focus on bringing young leaders into decision-
-making and planning processes related to climate action. We also welcome
-the emphasis you place on receiving and giving frank and fearless advice,
-and the urgency of holding government and corporate leaders to account
-on climate action.
-We are disappointed, however, that you have not expanded this list of
-young climate leaders to children in all their diversity. Millions of children
-took part in school strikes for climate action in 2019 and early 2020 and
-demonstrated their outrage and constructive solutions in equal measure.
-They have been agents of change in the climate debate using their channels
-of influence-schools, social media, and street protest- to catalyse global
-activism on the climate crisis. We have seen children from the global North
-to the global South engaging with political and corporate leaders- in their
-home countries and also within the international system-most recently
-at the UN Human Rights Council-claiming their right to a safe, clean,
-healthy and sustainable environment as critical foundation to realizing
-their wellbeing and rights.
-It was, after all, a child, Greta Thunberg, who sparked this global
-movement through an inspiriting solo protest in 2018. By 2019,
-she was able to rightly assert: “We proved that it does not matter
-10 English 10
-
-https://importantedunotes.com/
-what you do and that no one is too small to make a difference.” In 2020,
-children are saying the same thing. Like Fabrizio, a 16 year old boy from
-Peru, who told us on a recent child-led online conversation, “The Future of
-Children is at stake now, tomorrow will be too late.” Children like Fabrizio
-are vocal in their anxiety that our dash to economic recovery will scupper
-climate change at net-zero commitments. They continue to pressure on
-us all for urgency, and to fight for a green recovery.
-Once again, Secretary-General, we congratulate you on the establishment
-of the Youth Advisory Group on climate change. We ask, however, that it
-be inclusive of children and adolescents younger than 18; respecting their
-right to be heard and to contribute their expertise directly. We also ask that
-as preparations for COP26 advance, you call for the UK and Italy to give
-children a safe space to influence these upcoming preparatory events. We
-would of course be happy to support a process that facilitates meaningful
-engagement with children across the globe on both your Group and COP26.
-If the last two years have taught us anything it is that children, armed
-with information and a sense of purpose, have a unique role to play by
-participating in decision-making processes and in combating crises with
-constructive solutions. Let us make sure that we learn and apply this
-lesson to the planning process related to climate action.
-Sincerely Yours,
-Save the Children
-Child Rights Connect
-A. Fill in the blanks with the correct words given below.
-tackle corporate outrage catalyse
-at stake net-zero expertise
-a. The ........headquarters of the company is in Dubai.
-b. According to Greta, the leaders are failing to.................... the key
-issues.
-c. Some viruses .......... the step in the production of other viruses.
-English 10 11
-
-https://importantedunotes.com/
-d. His .......... in business helped him greatly to run the company.
-e. Government of Nepal plans to reduce carbon dioxide emissions
-to ............ .
-f. He does not have good knowledge of business. So, he has put
-his investment ........ .
-B. Wg. r iteH iws choentthroevre trhsiea l froelmloawrkisn cga suesendt epnucbelisc .a...r..e... .T...r.. u. e or False.
-Write Not Given if the information is not found in the
-letter.
-a. Save the Children congratulates Antonio Guterres on his recent
-appointment as the General Secretary of the UN.
-b. The Youth Advisory Group on Climate Change was announced
-on the request of the children between 18-21 years of age.
-c. The dissatisfaction is that the representation of children is not
-inclusive.
-d. Greta Thunberg protested for the right to a safe, clean, healthy
-and sustainable environment.
-e. The children demand their physical safety in the UK and Italy.
-f. The children think that they can participate in decision making
-C. Answtoe rfi gthhte a fgoalilnoswt tihneg c qliumeasteti cornissi.s.
-a. Where is the office of the UN Secretary General?
-b. What is the purpose of writing this letter to Antonio Guterres?
-c. Why was the Youth Advisory Group announced?
-d. What roles have children played in the time of climate crisis?
-e. Describe Greta Thuberg and Fabrizio's contributions.
-f. What is the final demand of the children?
-12 English 10
-
-https://importantedunotes.com/
-D. As a student, what roles can you play to minimize climate
-change and its effects? Share your ideas in the class.
-Listening
-A. Look at the picture and answer the following questions.
-a. What does the picture depict?
-b. What are the effects of this
-situation?
-B. Listen to the audio and complete the sentences below with
-the correct words/phrases.
-a. Pollution and ..............are two of the human activities responsible
-for the rise in the temperature of the Earth.
-b. Some gases allow the sunlight enter the Earth but prevent the
-heat from ...............
-c. Burning of fossil fuels causes the rise of ................
-d. Our oceans, our weather, our food sources, and ................ have
-been affected by climate change.
-e. Storms, floods, ................., and longer and more frequent droughts
-are some extreme weather conditions.
-f. Ozone particles increase quickly at ...................
-g. Renewable energy sources such as ............... do not produce
-C. Listen to the audio again and answer the questions in not
-greenhouse gases.
-more than three words.
-a. What is the major cause behind the rise in the temperature of
-the Earth?
-b. Name any three gases that trap the heat on the surface of the
-Earth.
-English 10 13
-
-https://importantedunotes.com/
-| c.    | What causes weather extremes? |     |     |     |
-| ----- | ----------------------------- | --- | --- | --- |
-d.   What causes health problems such as asthma, heart disease
-and lung cancer?
-D.  He. o  wW chaant  ihsu thme aanlt ebrneaintivges  tmo fionsismil fiuseel st?he effects of climate
-change? Discuss.
-Grammar II
-A.   Choose the correct alternatives to complete the sentences.
-a.   Abhilasha said that she……………........ (witnessed, has witnessed,
-was witnessed) the accident.
-b.   The teacher explained that……………….(the earth revolves round
-the sun, the earth revolved round the sun, revolve round the
-sun).
-c.   Smarika says that ……………(she could not stay there anymore,
-I can’t stay here anymore, she can’t stay here anymore).
-d.   Sachita says that ………………(she loves to listen to music, she
-loved to listen to music, I love to listen to music).
-| e.   | My brother reported that………………(he had completed his  |     |     |     |
-| ---- | ---------------------------------------------------- | --- | --- | --- |
-homework, I have completed my homework, he has done his
-homework).
-f.    My father said that the sun ……........……(is, are, was) very hot.
-g.   Jenifer said that she …………….(want, wants, wanted) to be a
-B.   Rewrniuters teh. e following sentences in indirect speech.
-| a.     | Raima said, “We had to cross the river and go ahead.” |     |     |            |
-| ------ | ----------------------------------------------------- | --- | --- | ---------- |
-| b.     | Smarika said, “I will meet you tomorrow, friends.”    |     |     |            |
-| c.     | “I can’t come to school tomorrow,” Chandani said.     |     |     |            |
-| 14     |                                                       |     |     | English 10 |
-
-https://importantedunotes.com/
-d. Dorje said, “Sorry, I cannot lend you any money today.”
-e. The teacher said, “Now, you can solve the remaining problems
-yourselves.”
-f. The police said, “The incident probably took place yesterday.”
-g. I said to him, “I live in Changunarayan these days.”
-h. They said to us, “We would like to join you too.”
-i. The science teacher said, “The coal gives off thick smoke.”
-j. Resham said, “I have never seen such a strange animal anywhere
-else.”
-k. “I love my children more than wealth,” the father said.
-Writing II
-Write a letter to the Mayor of your municipality or the
-Chairperson of your rural municipality requesting him/her to
-involve the representatives of children in the decision making
-process related to children's issues in your municipality/rural
-municipality.
-Project work
-Collect at least five news items related to current affairs. Design
-the first page of a newspaper and write your news items on it.
-Stick it on the notice board of your classroom.
-Extra bit
-Reading comprehension techniques/strategies
-Reading a text with certain techniques helps us better comprehend
-it. Depending on the purpose of reading, we can adapt different
-techniques/strategies of reading.
-English 10 15
-
-https://importantedunotes.com/
-1. Skimming
 Skimming is a reading technique used to quickly gather the most
 important information, or gist from a text. While skimming, we quickly
 run our eyes over the text, noting important information. It's not
@@ -583,9 +57,6 @@ close accurate reading for details. We use intensive reading strategies
 to grasp the details of a specific situation. In this case, it is important
 that we understand each word, number or fact.
 16 English 10
-
-https://importantedunotes.com/
-2
 Festivals and Celebrations
 Getting started
 Look at the pictures and talk about them.
@@ -596,8 +67,6 @@ Answer the following questions.
 a. What is the man in the picture doing?
 b. Which is your favourite festival? Tell to the class about it.
 English 10 17
-
-https://importantedunotes.com/
 Battle of the Oranges
 All I can see is a flash of orange, then I
 am hit in the chest. It knocks my breath
@@ -632,8 +101,6 @@ Aranceri on foot rush back and forth, to the sides of the square stacked
 with orange crates, filling their shoulder bags and baggy tops. As
 soon as a cart approaches, they charge, bombarding it with oranges.
 18 English 10
-
-https://importantedunotes.com/
 Horses halt, for a few minutes;
 oranges explode, then the cart takes
 off again, the aranceri chase it for
@@ -667,46 +134,34 @@ red hat away and come with me”.
 - Margherita
 I am tempted, but I decline.
 English 10 19
-
-https://importantedunotes.com/
 A.  Match the words with their meanings.
-| a.  | mush | i. to throw something violently in a  |     |     |
-| --- | ---- | ------------------------------------- | --- | --- |
+| a.  | mush | i. to throw something violently in a  | | |
 particular direction
-| b.  | jerk       | ii. to hold something tightly                |     |     |
-| --- | ---------- | -------------------------------------------- | --- | --- |
-| c.  | concussion | iii. a soft thick mass or mixture            |     |     |
-| d.  | hurl       | iv. to drink something, taking a very small  |     |     |
+| b.  | jerk | ii. to hold something tightly | | |
+| c.  | concussion | iii. a soft thick mass or mixture | | |
+| d.  | hurl | iv. to drink something, taking a very small  | | |
 amount each time
-| e.  | pulp | v. to make something move with a sudden  |     |     |
-| --- | ---- | ---------------------------------------- | --- | --- |
+| e.  | pulp | v. to make something move with a sudden  | | |
 short sharp movement
-| f.  | clutch | vi. a temporary loss of consciousness     |     |     |
-| --- | ------ | ----------------------------------------- | --- | --- |
-| g.  | sip    | vii. the soft part inside the fruits and  |     |     |
+| f.  | clutch | vi. a temporary loss of consciousness | | |
+| g.  | sip | vii. the soft part inside the fruits and  | | |
 vegetables
 B.  Write True for true statements and False for false ones.
-a.   The tourists are informed to wear a red hat through public
+a. The tourists are informed to wear a red hat through public
 notices.
-| b.   | Aranceri seem dressed in Doctor Whoesque costumes. |     |     |     |
-| ---- | -------------------------------------------------- | --- | --- | --- |
-c.   When a cart approaches, aranceri run away from the square.
-| d.   | The narrator feels bored during the festival period. |     |     |     |
-| ---- | ---------------------------------------------------- | --- | --- | --- |
-e.   The volunteers encourage the visitors to join the battle.
-| C.   Af. n  swTehre  tnhaerr faotollro awccinepgt sq Mueasstsiio'sn osff.er. |                                                     |     |     |     |
-| ---------------------------------------------------------------------------- | --------------------------------------------------- | --- | --- | --- |
-| a.                                                                           | What does the red hat symbolize?                    |     |     |     |
-| b.                                                                           | How does the narrator feel when she wipes her face? |     |     |     |
-c.   What does the square look like after an hour- battle of the
+| b. | Aranceri seem dressed in Doctor Whoesque costumes. | | | |
+c. When a cart approaches, aranceri run away from the square.
+| d. | The narrator feels bored during the festival period. | | | |
+e. The volunteers encourage the visitors to join the battle.
+| C. Af. n  swTehre  tnhaerr faotollro awccinepgt sq Mueasstsiio'sn osff.er. | | | | |
+| a. | What does the red hat symbolize? | | | |
+| b. | How does the narrator feel when she wipes her face? | | | |
+c. What does the square look like after an hour- battle of the
 oranges?
-| d.     | How do aranceri members chase the cart? |     |     |            |
-| ------ | --------------------------------------- | --- | --- | ---------- |
-| e.     | Does Silvia enjoy this carnival? Why?   |     |     |            |
-| f.     | Why does Massi say, "Forget the nets"?  |     |     |            |
-| 20     |                                         |     |     | English 10 |
-
-https://importantedunotes.com/
+| d. | How do aranceri members chase the cart? | | | |
+| e. | Does Silvia enjoy this carnival? Why? | | | |
+| f. | Why does Massi say, "Forget the nets"?  | | | |
+| 20 | | | | English 10 |
 D. You might know about some unique festivals like 'Battle
 of the Oranges'. Strange festivals are celebrated in many
 parts of the world. Collect some information about anyone
@@ -730,8 +185,6 @@ of getting hurt? asked Massi if he
 was not afraid of
 getting hurt.
 English 10 21
-
-https://importantedunotes.com/
 Now, report the following questions in pairs.
 Grammar I
 A. Change the following remarks into indirect speech. The
@@ -748,8 +201,6 @@ e. “How long have you been working in this company?”
 Usha inquired of Anju…………………….
 f. “What flavour ice cream did you have at the party?”
 22 My mothe r aske d me … ………… ……… English 10
-
-https://importantedunotes.com/
 g. "Have you studied reported speech before?"
 The teacher wanted to know………………
 h. “Where will you stay tonight?”
@@ -775,8 +226,6 @@ your community. Include its brief history, people involved,
 major activities, religious or social importance, duration, and
 drawbacks, if any.
 English 10 23
-
-https://importantedunotes.com/
 Reading II
 Answer the following questions.
 a. What are the main festivals celebrated in your community?
@@ -807,13 +256,10 @@ small town affairs featuring the local marching band to Macy’s
 Thanksgiving parade through the streets of New York. Billed as the
 world’s largest parade, it features parade floats and huge balloons,
 24 English 10
-
-https://importantedunotes.com/
 usually based on cartoon characters, current Broadway shows and other
 tCohpuicsael othke, mSoesu.th Korea
 Chuseok, also called Hangnail, is a
 Korean festive holiday celebrated
-th
 on the 15 day of August, according
 to the lunar calendar. The festival
 is celebrated to commemorate the
@@ -841,8 +287,6 @@ new festival – but it's celebrated
 with great gusto. It is said that when
 the former Brazilian President,
 EGnasgpliasrh D 1u0t ra visited the USA, he was 25
-
-https://importantedunotes.com/
 fascinated with the holiday and established the festival in his home country
 in 1949.
 Dia de Acao de Gracas begins with the mass to offer thanks for an abundant
@@ -853,7 +297,6 @@ so a sauce made of Jaboticaba, known as the 'Brazilian grape', is whipped
 Tuph taon skpsrgeiavdi nong ,t Lheib beirrdia.
 Liberian Thanksgiving is a
 vibrant and spicy affair.
-th
 Founded in the 19 century
 by liberated American slaves,
 the festival gives thanks for
@@ -875,8 +318,6 @@ celebrated since the 1780s when Barbados was the world's largest produce
 of the sweet-stuff. Carnivals pervade the lengthy celebrations, and calypso
 bands and dancers compete in ever grander and more flamboyant displays.
 26 English 10
-
-https://importantedunotes.com/
 Homowo, Ghana
 The Homowo festival, meaning to jeer
 or hoot at hunger in Ghana historically
@@ -892,9 +333,7 @@ August and September after a ban on drumming and singing that is meant
 to encourage proper care of the crops. The festival culminates in a night
 of singing and dancing and frantic beating of drums in loud defiance of
 hMuenhgreer gaannd ,f aIrmainne.
-th
 A festival that dates back at least to the 4
-th
 century BC, Mehregan in Iran is held on the 196
 day of the Iranian year. The festival celebrates a
 successful harvest and the goddess Mehr.
@@ -909,97 +348,72 @@ Find the words and write against the correct meanings.
 a. in a way occurring at irregular intervals; not continuous or
 steady ..................
 English 10 27
-
-https://importantedunotes.com/
-b.   to remind people of an important event or person from the past
-...........................
-c.   in a way that shows the usual qualities or features of a particular
+b. to remind people of an important event or person from the past
+c. in a way that shows the usual qualities or features of a particular
 type of person or thing.........
-d.   a curved shape that is wide in the middle and pointed at each
+d. a curved shape that is wide in the middle and pointed at each
 end ...................
-| e.   | full of life and energy .............................. |     |     |     |
-| ---- | ------------------------------------------------------ | --- | --- | --- |
-f.   a person who is having fun in a noisy way, usually with a group
+| e. | full of life and energy .............................. | | | |
+f. a person who is having fun in a noisy way, usually with a group
 of other people ......................
 g.  from or in another country; seeming exciting and unusual
-...........................
-h.   to spread through and be easy to notice .......................
-i.   brightly coloured and likely to attract attention.................
-j.   done quickly and with a lot of activities, but not very well
+h. to spread through and be easy to notice .......................
+i. brightly coloured and likely to attract attention.................
+j. done quickly and with a lot of activities, but not very well
 organized ....................
 B.  The following events represent different activities
 observed during Thanksgiving around the world. Study
 them carefully and write the names of countries where
 they are celebrated.
-a.   Families gather for a feast in the evening accompanied by
+a. Families gather for a feast in the evening accompanied by
 dancing and singing.
-| b.   | People wear new clothes and get community blessings.   |     |     |     |
-| ---- | ------------------------------------------------------ | --- | --- | --- |
-| c.   | Palm nut soup, fish and traditional Kpokoi are served. |     |     |     |
-d.   People return to their hometowns to celebrate the festival.
-| e.     | Celebrants go to the beach in a noisy way.    |     |     |            |
-| ------ | --------------------------------------------- | --- | --- | ---------- |
-| f.     | Parades are taken out in the streets.         |     |     |            |
-| g.     | Food and wine are offered to the forefathers. |     |     |            |
-| 28     |                                               |     |     | English 10 |
-
-https://importantedunotes.com/
+| b. | People wear new clothes and get community blessings. | | | |
+| c. | Palm nut soup, fish and traditional Kpokoi are served. | | | |
+d. People return to their hometowns to celebrate the festival.
+| e. | Celebrants go to the beach in a noisy way. | | | |
+| f. | Parades are taken out in the streets. | | | |
+| g. | Food and wine are offered to the forefathers. | | | |
+| 28 | | | | English 10 |
 C.  Answer the following questions.
-| a.   What is the main feature of American Thanksgiving?  |     |     |     |
-| -------------------------------------------------------- | --- | --- | --- |
-| b.   What do parades include in Thanksgiving in America? |     |     |     |
-| c.   When and why is Chuseok celebrated in Korea?        |     |     |     |
-| d.   How did Thanksgiving begin in Brazil?               |     |     |     |
-e.   Who started Thanksgiving in Liberia? Why was it started?
-| f.   What is Thanksgiving celebrated in Barbados for? |     |     |     |
-| ----------------------------------------------------- | --- | --- | --- |
+| a. What is the main feature of American Thanksgiving?  | | | |
+| b. What do parades include in Thanksgiving in America? | | | |
+| c. When and why is Chuseok celebrated in Korea? | | | |
+| d. How did Thanksgiving begin in Brazil? | | | |
+e. Who started Thanksgiving in Liberia? Why was it started?
+| f. What is Thanksgiving celebrated in Barbados for? | | | |
 D.  Hg. o w Wdoh apt eiso Hploem eoxwteon mda trhkeedir i ng rGahtaintua?de for food and harvest
 in your community? Share with your friends.
 Listening
-A.   Look at the pictures below and answer these questions.
-| a.   What do you see in the  |     |     |     |
-| ---------------------------- | --- | --- | --- |
+A. Look at the pictures below and answer these questions.
+| a. What do you see in the  | | | |
 pictures?
-| b.   What special days do  |     |     |     |
-| -------------------------- | --- | --- | --- |
+| b. What special days do  | | | |
 they denote?
 B.  People are talking about special days. Do they like or dislike
 each	day?	Mark	(√)	the	correct	answer.
-| Speakers | Special Days     | Likes it | Dislikes it |
-| -------- | ---------------- | -------- | ----------- |
-| 1        | April Fool’s Day |          |             |
-| 2        | Earth Day        |          |             |
-| 3        | Mother’s Day     |          |             |
-| 4        | Father’s Day     |          |             |
-| 5        | New Year’s Eve   |          |             |
+| Speakers | Special Days | Likes it | Dislikes it |
+| 1 | April Fool’s Day | | |
+| 2 | Earth Day | | |
+| 3 | Mother’s Day | | |
+| 4 | Father’s Day | | |
+| 5 | New Year’s Eve | | |
 English 10  29
-
-https://importantedunotes.com/
 C.	 Listen	to	the	five	speakers	again	and	write	Truefor the true
-| and False | for the false statements. |     |     |     |
-| --------- | ------------------------- | --- | --- | --- |
-
-| Speaker- 1 |                                                   |     |     |     |
-| ---------- | ------------------------------------------------- | --- | --- | --- |
-| a.         | One of his co-workers played tricks on everyone.  |     |     |     |
+| and False | for the false statements. | | | |
+| Speaker- 1 | | | | |
+| a. | One of his co-workers played tricks on everyone.  | | | |
 Speabk.  er-H 2e had a wonderful time.
-| a.   | The book club planted flowers. |     |     |     |
-| ---- | ------------------------------ | --- | --- | --- |
+| a. | The book club planted flowers. | | | |
 Speabk.  er-H 3e didn’t go anywhere on Earth Day.
-a.   Her mother did not enjoy them making a mess in the kitchen.
+a. Her mother did not enjoy them making a mess in the kitchen.
 Speabk.  er-T 4he kids served the mother breakfast in bed.
-| a.   | He had a party with his friends.  |     |     |     |
-| ---- | --------------------------------- | --- | --- | --- |
+| a. | He had a party with his friends.  | | | |
 Speabk. er-H 5e went to a big family dinner.
-| a.   | She went to a great party. |     |     |     |
-| ---- | -------------------------- | --- | --- | --- |
+| a. | She went to a great party. | | | |
 Tb.e  ll tThhee c nleaisgsh abobuorust h aa ds pae ncoiiasly d paayrt wy.hich you celebrated this
 D.
 year.
-| 30     |     |     |     | English 10 |
-| ------ | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 30 | | | | English 10 |
 Grammar II
 A. Rewrite the following sentences choosing the correct
 alternatives from brackets.
@@ -1008,16 +422,16 @@ when will her father come home, when might her father come
 home).
 b. She replied that she had never had caviar when I said to her,
 “…………. caviar?” (Have you ever had, Will you have, Would you
-have)
+have
 c. The salesperson said to him, “What ……….. for you?” (I can do,
-can I do, I could do)
+can I do, I could do
 d. The tourist inquired from me …….. to Banepa. (whether I
-belonged, whether I would belong, whether I am belonging)
+belonged, whether I would belong, whether I am belonging
 e. The little girl asked us what time …... to come back. (were we
-supposed, we were supposed, we had been supposed)
+supposed, we were supposed, we had been supposed
 f. The head teacher asked her …….. the exam form the week before.
-(whether she had filled out, whether she fills out, whether had
-she filled out)
+whether she had filled out, whether she fills out, whether had
+she filled out
 g. Renuka asked me ………her. (if I have called, if I had called, if
 B. Nihahra Cdh I acualdlehda)ry interviewed her Social Studies teacher
 last week. Here is the report prepared by her after the
@@ -1031,8 +445,6 @@ girls are married to the Suvarna Kumar, a symbol of god Vishnu. I
 Sati
 asked him why it was done. He said that it is done to ensure that the
 Englisghir 1l 0b ecomes and remains fertile. It was started to escape the 31
-
-https://importantedunotes.com/
 tradition. According to the tradition, when a girl was married to
 Vishnu, she would not be a widow even after the death of her mortal
 Bel Bibaha
@@ -1060,8 +472,6 @@ various local festivals celebrated by your friends. Collect the
 information from your friends. Then make a brief report and
 present it to the class.
 32 English 10
-
-https://importantedunotes.com/
 Extra bit
 Word stress
 Stress is an extra force used when pronouncing a particular
@@ -1069,25 +479,34 @@ syllable in a word or to a word in a sentence.
 The rules of word stress
 1. A word of one syllable has stress on the first letter, e.g., 'Do, 'Pot,
 'Song, 'Read.
-2. Nouns and most adjectives and adverbs of two syllables have
+
+## 2: Nouns and most adjectives and adverbs of two syllables have  {#ch-2}
+
 stress on the first syllable, e.g., FA-ther, HAP-py, UN-der, PRES-
 ent.
-3. A verb of two syllables has stress on the second syllable, e.g.,
+
+## 3: A verb of two syllables has stress on the second syllable, e.g.,  {#ch-3}
+
 cor-RECT, pre-SENT, be-LIEVE.
-4. Most three-syllable nouns and adjectives have stress on the first
+
+## 4: Most three-syllable nouns and adjectives have stress on the first  {#ch-4}
+
 syllable (except words with long vowel sound: engiNEER), e.g.,
 POL-i-tics, GEN-er-al, DEL-i-cate, EX-cel-lent.
-5. Three-syllable verbs have stress on the first syllable (except
+
+## 5: Three-syllable verbs have stress on the first syllable (except  {#ch-5}
+
 words with prefixes: reMEMber, conTINue), e.g., OR-gan-ize,
 DEC –o-rate, SIG-ni-fy.
-6. Words that end in -cy, -ty, -phy and –gy have stress on the third-
+
+## 6: Words that end in -cy, -ty, -phy and –gy have stress on the third-  {#ch-6}
+
 from-last syllable. e.g., de-MOC- ra-cy, un-CER-tain-ty.
-7. Compound nouns have stress on the first part, e.g., HAIR-brush,
+
+## 7: Compound nouns have stress on the first part, e.g., HAIR-brush,  {#ch-7}
+
 SOME-thing, CLASS-room, BREAK-fast, FOOT-ball.
 English 10 33
-
-https://importantedunotes.com/
-3
 Health and Wellness
 Getting started
 Look at the figure below and talk about different dimensions
@@ -1100,8 +519,6 @@ c. Have you ever been to hospital for
 treatment? How did the hospital staff
 treat you?
 34 English 10
-
-https://importantedunotes.com/
 A Letter from a Patient
 Dear health care worker,
 I recently experienced a parent’s worst nightmare. One evening my
@@ -1138,8 +555,6 @@ Do not use patients or their families as your personal confidante. I was in
 that hospital room to care for my infant and see her condition improve, not
 to hear that staff were not equipped to see this goal through. Patients and
 English 10 35
-
-https://importantedunotes.com/
 their families need to know they are your priority and your job is to care for
 them in an effort to restore health. Please take time to tell them this, share
 positive news with them as if you are happy too, because I know you are.
@@ -1173,11 +588,9 @@ Fellow health care workers, choose to interact with your patients in a way
 that instills confidence in yourself and your fellow team members. You
 alone have the power to positively shape the patient’s experience.
 Yours truly,
-(Adapted from https://hospitalnews.com/a-letter-from-a-patient/)
+Adapted from https://hospitalnews.com/a-letter-from-a-patient/
 An appreciative mother
 36 English 10
-
-https://importantedunotes.com/
 A. Match the words in column A with their meanings in
 column B.
 Column A Column B
@@ -1208,38 +621,31 @@ f. The author took the mistakes of the health workers normally.
 g. The writer seems to be more sincere in her duty than the
 hospital staff.
 English 10 37
-
-https://importantedunotes.com/
-C.   Answer the following questions.
-| a.    | What was the nightmare for the author?                |     |     |     |     |
-| ----- | ----------------------------------------------------- | --- | --- | --- | --- |
-| b.    | What do you think the main purpose of this letter is? |     |     |     |     |
-c.   According to the author, what was the main weakness of the
+C. Answer the following questions.
+| a. | What was the nightmare for the author? | | | | |
+| b. | What do you think the main purpose of this letter is? | | | | |
+c. According to the author, what was the main weakness of the
 hospital staff?
-d.   Did the nurses really say “your daughter is not a priority”?
+d. Did the nurses really say “your daughter is not a priority”?
 Why did the author think so?
-e.   What do the patients and their families expect from the health
+e. What do the patients and their families expect from the health
 workers?
-f.    List the questions that the author was asked frequently in the
+f. List the questions that the author was asked frequently in the
 hospital.
-| g.   | Why did the health workers make gender error about the  |     |     |     |     |
-| ---- | ------------------------------------------------------- | --- | --- | --- | --- |
+| g. | Why did the health workers make gender error about the  | | | | |
 author's daughter?
-h.   According to the author, how do people perceive the career of
+h. According to the author, how do people perceive the career of
 D.  If youh ebaeltcho wmoer kae hrse?alth worker in the future, what would be
 your priority? How would you treat your patients and their
 families? Discuss with your friends.
 Pronunciation
 Pronounce the following words and then put them in the correct
 columns.
-| food                       | book | cook   | foot                   | moon | noon       |
-| -------------------------- | ---- | ------ | ---------------------- | ---- | ---------- |
-| roof                       | good | school | look                   | hook | stood      |
-| took                       | wood | too    | zoo                    | zoom | wool       |
-| mShooordt	/ʊ/	as	in	'book' |      |        | Long /u:/ as in 'food' |      |            |
-| 38                         |      |        |                        |      | English 10 |
-
-https://importantedunotes.com/
+| food | book | cook | foot | moon | noon |
+| roof | good | school | look | hook | stood |
+| took | wood | too | zoo | zoom | wool |
+| mShooordt	/ʊ/	as	in	'book' | | | Long /u:/ as in 'food' | | |
+| 38 | | | | | English 10 |
 Speaking
 A. Act out the following conversation.
 B. Work in a group of three and have conversation for the
@@ -1259,43 +665,37 @@ e. Teacher: Arrive at school on time.
 f. Air hostess: Fasten your seat belt.
 g. Brother: Wash your clothes yourself
 English 10 39
-
-https://importantedunotes.com/
 C.  One of your friends gives you the instructions to make a
 paper boat. Listen to him/her and report it to your friend.
 Instructions for making a paper boat
-1.    Fold the paper in half on the longest side.
-2.    Fold it in half again on the longest side and open it out once.
-3.    With the fold at the top, fold the top two corners to the middle line.
-4.    Fold the bottom strip up on each side.
-5.    Put your thumbs inside the triangle.
-6.    Open it out into a diamond shape.
-7.    Fold the bottom half up on each side, so you have a triangle shape.
-8.    Put your thumbs inside and open it out.
+1. Fold the paper in half on the longest side.
+2. Fold it in half again on the longest side and open it out once.
+3. With the fold at the top, fold the top two corners to the middle line.
+4. Fold the bottom strip up on each side.
+5. Put your thumbs inside the triangle.
+6. Open it out into a diamond shape.
+7. Fold the bottom half up on each side, so you have a triangle shape.
+
+## 8: Put your thumbs inside and open it out.  {#ch-8}
+
 9G. r  amPumll tahre  Iouter corners of the triangles out to make the boat.
 A.  Study the following table. Observe how the imperative
 sentences change from direct speech to indirect speech.
-| Direct speech           |     |     | Indirect speech                  |     |
-| ----------------------- | --- | --- | -------------------------------- | --- |
-| She said, "Keep quiet!" |     |     | She instructed me to keep quiet. |     |
+| Direct speech | | | Indirect speech | |
+| She said, "Keep quiet!" | | | She instructed me to keep quiet. | |
 "Please close the window," the  The teacher requested me to close
-| teacher said. |     |     | the window. |     |
-| ------------- | --- | --- | ----------- | --- |
+| teacher said. | | | the window. | |
 The doctor said, "Don't overeat." The doctor urged me not to overeat.
 She said, "Take the test next week." She advised them to take the test
 the following week.
 He said, "Take a taxi home." He insisted on us to take a taxi
 home.
 He said to me, 'Please wait here till  He requested me to wait there till
-| I return." |     |     | he returned. |     |
-| ---------- | --- | --- | ------------ | --- |
+| I return." | | | he returned. | |
 Pranik said, "Let's go out." Pranik suggested that we should
 go out.
-| I said to him, "Excuse me, sir." |     |     | I begged him to excuse me. |            |
-| -------------------------------- | --- | --- | -------------------------- | ---------- |
-| 40                               |     |     |                            | English 10 |
-
-https://importantedunotes.com/
+| I said to him, "Excuse me, sir." | | | I begged him to excuse me. | |
+| 40 | | | | English 10 |
 B. Change the following sentences into indirect speech. The
 beginning of each sentence is given.
 a. “Please help me fix this machine.”
@@ -1318,8 +718,6 @@ staff of the hospital. Now, write an email to the patient's mother
 apologising for your behaviour. Assure her that there will be
 improvement in the services your hospital provides.
 English 10 41
-
-https://importantedunotes.com/
 Reading II
 Look at the picture and guess.
 a. What do you think this picture
@@ -1346,8 +744,6 @@ overweight and obesity in the EU have risen dramatically, particularly
 among children, and that the trend of poor diet and low physical activity
 is getting even worse.
 42 English 10
-
-https://importantedunotes.com/
 Many chronic conditions such as cancer, neurological and mental disorders,
 cardiovascular diseases, obesity and type 2 diabetes can be prevented or
 modified through better lifestyles and healthier diets.
@@ -1380,8 +776,6 @@ choices.
 I'm convinced that Horizon 2020 can make excellent progress on research
 and innovation for healthy diets and healthy lives.
 English 10 43
-
-https://importantedunotes.com/
 There's no point in all this effort if the good intentions of the Research
 Agenda aren't turned into concrete action.
 So, implementation is important, and this will be achieved first by
@@ -1399,11 +793,11 @@ innovation policies.
 Ladies and gentlemen,
 I wish you an excellent conference, full of innovative ideas and interesting
 discussions. I look forward to hearing the results.
-(The text is an adapted version of the opening address to the conference
+The text is an adapted version of the opening address to the conference
 Thank you.
 on the Joint Programmaing Initiative (JPI) delivered by Maire Geoghegan-
 Quinn, European Commissioner for Research, Innovation and Science, in
-Brussels on 28 March 2014.)
+Brussels on 28 March 2014.
 A. Consult a dictionary or the internet and define the following
 words/phrases.
 a. wonderfood
@@ -1414,8 +808,6 @@ e. multidisciplinary approach
 f. economic inequalities
 g. neurological disorders
 44 h. bio marke rs English 10
-
-https://importantedunotes.com/
 B. Complete the sentences with the words in red from the text.
 a. The children were especially ……………… that there were enough
 cookies for each of them to have two.
@@ -1445,8 +837,6 @@ c. The health care innovation chain begins from ………………
 i. researchers ii. biomarkers
 iii. diagnostics iv. regulators
 English 10 45
-
-https://importantedunotes.com/
 d. The need behind multidisciplinary approach is ………...…
 i. the unchanged pattern of food purchase and consumption
 ii. the lack of effective treatments for patients
@@ -1474,8 +864,6 @@ h. Do you think that the people of the EU will be benefitted by this
 E. Draftc oan sfehroerntc es?p Iefe ycehs, ownh aat tboepniecf,i tIsm wpilol rthtaeny cgeet o?f Exercise for
 Healthy Life and deliver it in the class.
 46 English 10
-
-https://importantedunotes.com/
 Listening
 A. Look at the picture and answer these questions.
 a. What do you think lactose
@@ -1497,39 +885,30 @@ c. What percentage of the world population is lactose intolerant?
 d. Why did people begin to depend on milk?
 e. Write an alternative for the people who are lactose intolerant.
 English 10 47
-
-https://importantedunotes.com/
 D.  Do you know about any other digestive problems? Share it
 with the class.
 Grammar II
 A.  Circle the correct words to complete these sentences.
-| a.    | The doctor told me do /to do some exercise everyday.  |     |     |     |
-| ----- | ----------------------------------------------------- | --- | --- | --- |
-| b.    | She said, “Don’t shout /Not to shout.”                |     |     |     |
-| c.    | The doctor forbade me to eat/not to eat junk food.    |     |     |     |
-| d.    | I told her, "To speak/Speak slowly."                  |     |     |     |
-| e.    | Sumina promised to tell no one/not to tell anyone.    |     |     |     |
-| f.    | My mother said, "To get /Get out of bed early!"       |     |     |     |
-g.   The mountain guide warned him to take/not to take the oxygen
+| a. | The doctor told me do /to do some exercise everyday.  | | | |
+| b. | She said, “Don’t shout /Not to shout.” | | | |
+| c. | The doctor forbade me to eat/not to eat junk food. | | | |
+| d. | I told her, "To speak/Speak slowly." | | | |
+| e. | Sumina promised to tell no one/not to tell anyone. | | | |
+| f. | My mother said, "To get /Get out of bed early!" | | | |
+g. The mountain guide warned him to take/not to take the oxygen
 cylinder.
-| h.    | Sugam said to me, "Go/To go home and take a rest."  |     |     |     |
-| ----- | --------------------------------------------------- | --- | --- | --- |
-| i.    | He ordered us get out /to get out of his way.       |     |     |     |
+| h. | Sugam said to me, "Go/To go home and take a rest."  | | | |
+| i. | He ordered us get out /to get out of his way. | | | |
 B.  Cj. h  anTghee  tlihbera froialnlo rweqiunegs tseedn ttheenmc deos  ninott om ainked/inroetc tto s mpaekeec ah n. oUissee.
 the reporting verbs in brackets.
-| a.    | “Bring some sugar, Punita,” she said. (ask) |     |     |     |
-| ----- | ------------------------------------------- | --- | --- | --- |
-b.   “You must submit your assignment soon,” the teacher said. (tell)
-| c.    | “Remember to come early, Anu,” he said. (remind) |     |     |     |
-| ----- | ------------------------------------------------ | --- | --- | --- |
-d.   “You should see a doctor, Mrs Tamang,” he said. (advise)
-e.    “Keep all the windows open, Nona,” my father said. (warn)
-C.   Rf. e  po“rGto t hhoem foe,l lPorwasihnugn ,s” eFnutrebna cseaisd i. n(t einlld) irect speech.
-| a.     | The hermit said, "Don't idle away your time." |     |     |            |
-| ------ | --------------------------------------------- | --- | --- | ---------- |
-| 48     |                                               |     |     | English 10 |
-
-https://importantedunotes.com/
+| a. | “Bring some sugar, Punita,” she said. (ask) | | | |
+b. “You must submit your assignment soon,” the teacher said. (tell
+| c. | “Remember to come early, Anu,” he said. (remind) | | | |
+d. “You should see a doctor, Mrs Tamang,” he said. (advise
+e. “Keep all the windows open, Nona,” my father said. (warn
+C. Rf. e  po“rGto t hhoem foe,l lPorwasihnugn ,s” eFnutrebna cseaisd i. n(t einlld) irect speech.
+| a. | The hermit said, "Don't idle away your time." | | | |
+| 48 | | | | English 10 |
 b. Madan said to his friend, "Please help me with money."
 c. "Be not afraid, noble prince", said the Guru.
 d. He said to me, "Let me do my work."
@@ -1554,41 +933,32 @@ Design a wellness wheel chart of your own. Show the different
 activities you perform to stay healthy. Then, present it to the
 class.
 English 10 49
-
-https://importantedunotes.com/
 Extra bit
-1.   AVne irmbps eorfa ctiovme smenatnednceV einrdbisc aotfe rse cqoumemstand, rVeeqrubess ot of ra dadvvicicee.
-| tell,     order,     |     | ask, request, desire,   |     | advice,  exhort,  |     |
-| -------------------- | --- | ----------------------- | --- | ----------------- | --- |
-| command, change,     |     | beg, solicit, beseech,  |     | urge, persuade    |     |
-| bid, require, forbid |     | pray, entreat,          |     |                   |     |
+1. AVne irmbps eorfa ctiovme smenatnednceV einrdbisc aotfe rse cqoumemstand, rVeeqrubess to of ra dadvvicicee.
+| tell, order, | | ask, request, desire, | | advice,  exhort,  | |
+| command, change, | | beg, solicit, beseech,  | | urge, persuade | |
+| bid, require, forbid | | pray, entreat, | | | |
 implore
-2.   The verb of the reported speech in an imperative sentence is
+2. The verb of the reported speech in an imperative sentence is
 changed into the infinitive.
-  Direct: I said to my friend, "Please explain this lesson to me."
-  Indirect: I requested my friend to explain that lesson to me.
-3.    If the reported speech is negative, the word “not” is used in
+Direct: I said to my friend, "Please explain this lesson to me."
+Indirect: I requested my friend to explain that lesson to me.
+3. If the reported speech is negative, the word “not” is used in
 indirect speech before the infinitive.
-|   Direct: The teacher said to the boys, "Don't make noise."  |     |     |     |     |     |
-| ------------------------------------------------------------ | --- | --- | --- | --- | --- |
-|   Indirect: The teacher asked the boys not to make noise.    |     |     |     |     |     |
-4.   A nominative of address or a vocative is omitted in indirect
+| Direct: The teacher said to the boys, "Don't make noise."  | | | | | |
+| Indirect: The teacher asked the boys not to make noise. | | | | | |
+4. A nominative of address or a vocative is omitted in indirect
 speech. The verb is followed by the person addressed and the
 infinitive.
-|   Direct: The teacher said, "Muna, come to the office."  |     |     |     |     |     |
-| -------------------------------------------------------- | --- | --- | --- | --- | --- |
-|   Indirect: The teacher told Muna to go to the office    |     |     |     |     |     |
-5.   When "let's" in the direct speech expresses a proposal or
+| Direct: The teacher said, "Muna, come to the office."  | | | | | |
+| Indirect: The teacher told Muna to go to the office | | | | | |
+5. When "let's" in the direct speech expresses a proposal or
 suggestion we may use “should” and change the reporting verb
 into propose or suggest.
-|   Direct: He said, "Let's play outside."                 |     |     |     |     |            |
-| -------------------------------------------------------- | --- | --- | --- | --- | ---------- |
-|   Indirect: He suggested that they should play outside.  |     |     |     |     |            |
-|   or, He proposed that they play outside.                |     |     |     |     |            |
-| 50                                                       |     |     |     |     | English 10 |
-
-https://importantedunotes.com/
-4
+| Direct: He said, "Let's play outside." | | | | | |
+| Indirect: He suggested that they should play outside.  | | | | | |
+| or, He proposed that they play outside. | | | | | |
+| 50 | | | | | English 10 |
 Work and Leisure
 Getting started
 Look at the activities shown in the pictures below. Discuss why
@@ -1599,8 +969,6 @@ a. How do you often spend your leisure?
 b. Why do you think it is necessary to keep a balance between work
 and leisure?
 English 10 51
-
-https://importantedunotes.com/
 Cabbage White
 Sarah and Jamie stood on their tiptoe and gave the card from their school
 to the tall man behind the counter of a farm. The man frowned and made
@@ -1632,8 +1000,6 @@ the caterpillars,” replied the man.
 “Er...how?” wondered Jamie.
 “You pick them off and collect them.”
 5"I2s it al right if we co llect th em in one of these p ails?" English 10
-
-https://importantedunotes.com/
 "Alright."
 “How much will you pay us?” Sarah asked.
 “Let me see how you get on, first. If I am happy with your work, I'll not
@@ -1654,7 +1020,6 @@ don’t care if you kill our caterpillars. We can lay millions of eggs.”
 Sarah and Jamie were now very desperate.
 Sarah struck out at a butterfly. She missed, of course. She watched it fly
 gaily away. Then she had an idea, as brilliant in its way as Einstein coming
-2
 up with e=mc .
 “Jamie, caterpillars come from eggs, right?” He nodded at her remarks.
 “And where do eggs come from?" she inquired further.
@@ -1668,8 +1033,6 @@ poles. Two bean plants died. She handed one of the poles to Jamie, and
 then rushed into the cabbage patch, swinging her pole round and round
 trying to hit the butterflies. This seemed to Jamie like a good game, so he
 English 10 53
-
-https://importantedunotes.com/
 followed her. It is not easy to hit flying
 butterflies, but it is not difficult to hit
 them when they settle on cabbages.
@@ -1686,32 +1049,23 @@ other. Without a word, they put down the bamboo poles and tiptoed out
 of the garden.
 “He knows our names,” Jamie said.
 “But he does not know where we live,” Sarah said.
-(Adapted from Happy Days and Short Stories by Jake Allsop)
+Adapted from Happy Days and Short Stories by Jake Allsop
 “Thank goodness,” they both said.
 A.  Match the meanings in the left column with the correct
 words in the right.
-| a.  | to laugh at somebody in an unkind  |     | i. frown |     |
-| --- | ---------------------------------- | --- | -------- | --- |
-way
-| b.  | very unpleasant                       |     | ii. plead         |     |
-| --- | ------------------------------------- | --- | ----------------- | --- |
-| c.  | to twist and turn body or part of it  |     | iii. open-mouthed |     |
+| a.  | to laugh at somebody in an unkind  | | i. frown | |
+| b.  | very unpleasant | | ii. plead | |
+| c.  | to twist and turn body or part of it  | | iii. open-mouthed | |
 with quick, short movements
-| d.  | in a cheerful way                      |     | iv. dispute |     |
-| --- | -------------------------------------- | --- | ----------- | --- |
-| e.  | very surprised or shocked              |     | v. hideous  |     |
-| f.  | to ask for something in a serious and  |     | vi. gaily   |     |
+| d.  | in a cheerful way | | iv. dispute | |
+| e.  | very surprised or shocked | | v. hideous  | |
+| f.  | to ask for something in a serious and  | | vi. gaily | |
 emotional way
-| g.  | to make a facial expression indicating  |     | vii. mock |     |
-| --- | --------------------------------------- | --- | --------- | --- |
+| g.  | to make a facial expression indicating  | | vii. mock | |
 disapproval
-| h.  | to argue or disagree strongly with  |     | viii. wriggle |     |
-| --- | ----------------------------------- | --- | ------------- | --- |
+| h.  | to argue or disagree strongly with  | | viii. wriggle | |
 somebody
-| 54     |     |     |     | English 10 |
-| ------ | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 54 | | | | English 10 |
 B. The word tiptoe refers to the way of walking with one's heels
 off the ground, in order to make them taller or to move very
 quietly. Consult a dictionary and find the meanings of the
@@ -1744,73 +1098,56 @@ in the cabbage field.
 e. Sarah's idea finally worked to finish off their job.
 f. They were caught by the farm owner while running away.
 English 10 55
-
-https://importantedunotes.com/
-E.   Act out the story in the class.
+E. Act out the story in the class.
 Pronunciation
 Pronounce the words correctly with the help of your teacher
 and put them in the correct column below on the basis of the
 pronunciation of vowels in red.
-| stood         | their     | support    | plead             | beautiful |
-| ------------- | --------- | ---------- | ----------------- | --------- |
-| afraid        | hideous   | seemed     | lay               | gaily     |
-| ground        | exhausted | tiptoe     | bamboo            | pail      |
-| Short vowel   |           | Long vowel | Vowel combination |           |
-| Ssptoeoadking |           | plead      | hideous           |           |
-A.   Study the following conversations.
+| stood | their | support | plead | beautiful |
+| afraid | hideous | seemed | lay | gaily |
+| ground | exhausted | tiptoe | bamboo | pail |
+| Short vowel | | Long vowel | Vowel combination | |
+| Ssptoeoadking | | plead | hideous | |
+A. Study the following conversations.
 Conversation I
-| Customer                  | :   Would you mind if I sat near the window?  |     |     |     |
-| ------------------------- | --------------------------------------------- | --- | --- | --- |
-| WCoanitvreesrss a  t:i o  | n OIIh, well, alright.                        |     |     |     |
-| Visitor                   | :   Do you mind if I smoke here?              |     |     |     |
+| Customer | : Would you mind if I sat near the window?  | | | |
+| WCoanitvreesrss a  t:i o  | n OIIh, well, alright. | | | |
+| Visitor | : Do you mind if I smoke here? | | | |
 WCoanrdveenr sat:i on II'mII sorry but this is a 'No Smoking Zone.'
-| Dorje                | :   Is it alright if I go out with my friends, mum?  |     |     |     |
-| -------------------- | ---------------------------------------------------- | --- | --- | --- |
-| MCoonmv e  rsat:i o  | n OIVK, but don't make it late.                      |     |     |     |
-| Ved                  | :  I wonder if I could possibly sit                  |     |     |     |
+| Dorje | : Is it alright if I go out with my friends, mum?  | | | |
+| MCoonmv e  rsat:i o  | n OIVK, but don't make it late. | | | |
+| Ved | :  I wonder if I could possibly sit | | | |
 next to you.
-| Sachita   | :  I am sorry this seat has been  |     |     |     |
-| --------- | --------------------------------- | --- | --- | --- |
+| Sachita | :  I am sorry this seat has been  | | | |
 booked for my friend.
-| 56     |     |       |     | English 10 |
-| ------ | --- | ----- | --- | ---------- |
-
-https://importantedunotes.com/
+| 56 | | | | English 10 |
 B.  Work in pairs. Student A asks for permission and student
 B responds to it. Use the right clues from the table below.
-| Clues for asking  |     |     | Responses |
-| ----------------- | --- | --- | --------- |
+| Clues for asking  | | | Responses |
 permission
-a.   Close the window i.   I'm sorry but the battery has gone
+a. Close the window i. I'm sorry but the battery has gone
 down.
-b.   Use the computer ii.   I'd rather you didn't if you don't
+b. Use the computer ii. I'd rather you didn't if you don't
 mind.
-c.   Ask a question iii.   Yes, please. It's a little cold here.
-d.   Use the phone iv.   No, please don't. It's time to go to
+c. Ask a question iii. Yes, please. It's a little cold here.
+d. Use the phone iv. No, please don't. It's time to go to
 bed.
-| e.   Come late to work  |     | v.   Yes, please feel free. |     |
-| ----------------------- | --- | --------------------------- | --- |
+| e. Come late to work  | | v. Yes, please feel free. | |
 tomorrow
-| f.   Use the car |     | vi.   Yes, sure. Here is the key. |     |
-| ---------------- | --- | --------------------------------- | --- |
+| f. Use the car | | vi. Yes, sure. Here is the key. | |
 C.  Work in groups of three. Student A will ask for permission
 and student B will either grant or deny it. Then, student C
 will report it as in the example.
 Example: Use the computer
-| Saloni    | :    Would it be alright if I used your computer?  |     |     |
-| --------- | -------------------------------------------------- | --- | --- |
-| Nurgen    | :   Oh well, alright.                              |     |     |
-Sailesh   :  Saloni asked for Nurgen's permission to use his
+| Saloni | : Would it be alright if I used your computer?  | | |
+| Nurgen | : Oh well, alright. | | |
+Sailesh :  Saloni asked for Nurgen's permission to use his
 computer and he granted it.
-|     | Or Saloni asked Nurgen if she could use his computer  |     |     |
-| --- | ----------------------------------------------------- | --- | --- |
+| | Or Saloni asked Nurgen if she could use his computer  | | |
 and he said she could.
-| a. go out   |     | b. use the pen  |        c. close the door  |
-| ----------- | --- | --------------- | ------------------------- |
-d. borrow a book  e. go to park with friends       f. take the car
+| a. go out | | b. use the pen  | c. close the door  |
+d. borrow a book  e. go to park with friends f. take the car
 English 10  57
-
-https://importantedunotes.com/
 Grammar I
 A. Read the story below and tell what the underlined words
 are used for.
@@ -1838,9 +1175,7 @@ f. Sanam has been working in the field all day. She............. be tired.
 C. Cg.o mpThleet feil mth ies rseeanlltye wnocnedse brfeullo. Ywo uw ..i..t..h... . mseue sitt aot rle caastn o'tncien. the
 blank spaces.
 a. The man is looking around. He ........ be lost.
-58 b. He .......... b e a do ctor. He has n ot stud ied medicine. English 10
-
-https://importantedunotes.com/
+58 b. He .......... b e a do ctor. He has n to stud ied medicine. English 10
 c. Sushmita failed the test although she is a smart student. She.........
 have prepared well this time.
 d. The restaurant always serves really good food. They..... have
@@ -1870,8 +1205,6 @@ was recently advertised on The Tanahun Post.
 d. Moreover, I possess good skills of handling a wide range of
 finance related tasks.
 English 10 59
-
-https://importantedunotes.com/
 e. As an experienced finance staff, I have a proven record of
 successfully coordinating the administrative and financial
 duties.
@@ -1891,8 +1224,6 @@ B. RPaebaidtr at hNeep faolillowing advertisement carefully and write a
 letter of job application for the advertised post. Consider
 yourself to be eligible for the post you want to apply.
 60 English 10
-
-https://importantedunotes.com/
 Reading II
 A. Look at the pictures below and answer the following
 questions.
@@ -1918,37 +1249,29 @@ What harm is there if thy clothes become tattered and stained?
 -Rabindranath Tagore
 Meet him and stand by him in toil and in sweat of thy brow.
 English 10 61
-
-https://importantedunotes.com/
 A.  Find the words from the poem which have the following
 meanings.
-a.   a small piece of glass or stone threaded with others to make a
+a. a small piece of glass or stone threaded with others to make a
 necklace .....................
-b.    to prepare and use land for growing crops .... ..............
-| c.    | a piece of clothing ... ............ |     |     |     |
-| ----- | ------------------------------------ | --- | --- | --- |
-d.    a layer of something that covers a surface ..... .............
-e.    the state of being rescued from danger, evil or pain ...............
-f.   a substance that produces a pleasant smell when you burn
+b. to prepare and use land for growing crops .... ..............
+| c. | a piece of clothing ... ............ | | | |
+d. a layer of something that covers a surface ..... .............
+e. the state of being rescued from danger, evil or pain ...............
+f. a substance that produces a pleasant smell when you burn
 it ................
 g.  covered with marks. .... .................
 B.  Fh.i n hda rtdh eu nmpoledaesarnnt  ewqourikv tahlaetn mtsa okfe sth yeo ufo vleloryw tiinregd a. .r..c..h....a..i. c. words
 used in the poem.
-|  C.   aA. ndsowste  | r thb.e t hfooull owicn. tgh iqnuee  | stiond.s t.hy |     |     |
-| ------------------- | ------------------------------------ | ------------- | --- | --- |
-| a.                  | Who is the poem addressed to?        |               |     |     |
-| b.                  | What does the speaker advise people? |               |     |     |
-| c.                  | Where do people try to find the god? |               |     |     |
-d.   Where, according to the speaker, does the god actually reside?
-| e.    | How can people have a glimpse of the god? |     |     |     |
-| ----- | ----------------------------------------- | --- | --- | --- |
-| f.    | Why can't the god rescue people?          |     |     |     |
-D.  Dg. o   yoWuh abte dlioeevse t hine  stpheea keexri satsekn pceeo polfe  gtoo ddo?  iWn thhaet l adsot  sytoaunz da?o to
+|  C. aA. ndsowste  | r thb.e t hfooull owicn. tgh iqnuee  | stiond.s t.hy | | |
+| a. | Who is the poem addressed to? | | | |
+| b. | What does the speaker advise people? | | | |
+| c. | Where do people try to find the god? | | | |
+d. Where, according to the speaker, does the god actually reside?
+| e. | How can people have a glimpse of the god? | | | |
+| f. | Why can't the god rescue people? | | | |
+D.  Dg. o yoWuh abte dlioeevse t hine  stpheea keexri satsekn pceeo polfe  gtoo ddo?  iWn thhaet l adsot  sytoaunz da?o to
 please him? Share your opinion.
-| 62     |     |     |     | English 10 |
-| ------ | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 62 | | | | English 10 |
 Listening
 A. Answer the following questions.
 a. How long do Nepali people generally work in a day?
@@ -1973,42 +1296,30 @@ matches with the audio, F if it does not match and NG if the
 information is not given.
 a. A French employee generally spends more time at work than
 English 10a Japanese employee. 63
-
-https://importantedunotes.com/
-b.   Many companies in Japan do not pay the workers for their extra
+b. Many companies in Japan do not pay the workers for their extra
 time.
-c.    Many employees have lost their jobs for not working overtime.
-| d.   | English workers have longer vacations than they need. |     |     |     |
-| ---- | ----------------------------------------------------- | --- | --- | --- |
-D.   We.  hyA dccoo rydoiung t tho itnhke p eromvperlbo,y theeerse  nareee mda ntoy  dguoll  obony sa i nv tahcea wtioornld?.
+c. Many employees have lost their jobs for not working overtime.
+| d. | English workers have longer vacations than they need. | | | |
+D. We.  hyA dccoo rydoiung t tho itnhke p eromvperlbo,y theeerse  nareee mda ntoy  dguoll  obony sa i nv tahcea wtioornld?.
 Discuss.
 Grammar II
 A.  Match the following imperative sentences with their
 functions.
-| Sentences |     |     | Functions |     |
-| --------- | --- | --- | --------- | --- |
-
-| a.   | Kindly tell me where the  |     | i.   giving direction  |     |
-| ---- | ------------------------- | --- | ---------------------- | --- |
+| Sentences | | | Functions | |
+| a. | Kindly tell me where the  | | i. giving direction  | |
 bus park is.
-| b.   | Go straight and take the  |     | ii.   warning |     |
-| ---- | ------------------------- | --- | ------------- | --- |
+| b. | Go straight and take the  | | ii. warning | |
 first turn on your right.
-| c.   | Cook the rice in medium  |     | iii.    making a command |     |
-| ---- | ------------------------ | --- | ------------------------ | --- |
+| c. | Cook the rice in medium  | | iii. making a command | |
 heat until it turns tender.
-| d.   |  Please join us on the tour.     |     | iv.    giving advice  |     |
-| ---- | -------------------------------- | --- | --------------------- | --- |
-| e.   | Don't feed the animals in        |     | v.    making an order |     |
+| d. |  Please join us on the tour. | | iv. giving advice  | |
+| e. | Don't feed the animals in | | v. making an order | |
 the zoo!
-| f.     | Wear warm clothes.              |     | vi.    giving instruction   |            |
-| ------ | ------------------------------- | --- | --------------------------- | ---------- |
-| g.     | Put your hands up!              |     | vii.   making an invitation |            |
-| h.     | Get out of here at once.        |     | viii.  making a request     |            |
-| i.     | Let's go for a walk.            |     | ix.    suggesting           |            |
-| 64     |                                 |     |                             | English 10 |
-
-https://importantedunotes.com/
+| f. | Wear warm clothes. | | vi. giving instruction | |
+| g. | Put your hands up! | | vii. making an invitation | |
+| h. | Get out of here at once. | | viii.  making a request | |
+| i. | Let's go for a walk. | | ix. suggesting | |
+| 64 | | | | English 10 |
 B. Change the following imperative sentences into negative.
 a. Turn left at the junction.
 b. Please open the door.
@@ -2037,19 +1348,16 @@ all around the park.
 5. The visitors are required to place the trash in the rubbish bins and
 should care about the cleanliness.
 English 10 65
-
-https://importantedunotes.com/
 6.  The visitors are strictly prohibited to walk within the park between
 sunset and sunrise.
- B.  TWhranitke y aou s!et of rules and regulations for the visitors in
+B.  TWhranitke y aou s!et of rules and regulations for the visitors in
 the following places. You may use the expressions given
 below.
 …............ is/are …..............(not) allowed to ….…..........… , strictly
 prohibited/forbidden to …..........… .........…, can/cannot …........., is/are
 required/expected to….…. , must/must not …....
- Projae. cLti bwraoryr k
-|     |     |   b. Hospital |     |     |
-| --- | --- | ------------- | --- | --- |
+Projae. cLti bwraoryr k
+| | | b. Hospital | | |
 Organise a speech contest on a topic 'Work is Worship' in your
 class. Ask your teacher to judge your speech. You may invite
 students from other classes as the audience.
@@ -2058,45 +1366,33 @@ Vowel sounds
 There are two types of English vowel sounds–monophthong (short
 and long) and diphthong (combination of two vowels). We will learn
 hToywp eto o pfr soonuonudnceS eoaucnh dvowSeple sloliunngds here. Examples
-|     | /ə/  | a, e, o, u  | alive, the, today, supply |     |
-| --- | ---- | ----------- | ------------------------- | --- |
-|     | /i/  | i           | thin, sit, rich           |     |
-|     | /ʊ/  | u, oo, ou   | put, look, should         |     |
+| | /ə/  | a, e, o, u  | alive, the, today, supply | |
+| | /i/  | i | thin, sit, rich | |
+| | /ʊ/  | u, oo, ou | put, look, should | |
 Monophthong:
-|     | /e/ | e, ea, ie  | went, bread, friend |     |
-| --- | --- | ---------- | ------------------- | --- |
+| | /e/ | e, ea, ie  | went, bread, friend | |
 short
-|        | /ʌ/ | u, o | fun, love, money |            |
-| ------ | --- | ---- | ---------------- | ---------- |
-|        | /æ/ | a    | cat, hand, fan   |            |
-|        | /ɒ/ | o, a | rob, top, watch  |            |
-| 66     |     |      |                  | English 10 |
-
-https://importantedunotes.com/
-| /i:/  | ee, ea     | need, beat, team |
-| ----- | ---------- | ---------------- |
+| | /ʌ/ | u, o | fun, love, money | |
+| | /æ/ | a | cat, hand, fan | |
+| | /ɒ/ | o, a | rob, top, watch  | |
+| 66 | | | | English 10 |
+| /i:/  | ee, ea | need, beat, team |
 | /u:/  | ew, oo, oe | few, boot, lose  |
 Monophthong:
 | /ɜ:/ |  ir, ur, wor | third, turn, worse |
-| ---- | ------------ | ------------------ |
 long
-|  /ɔ:/  | al, aw, or, our | talk, law, port   |
-| ------ | --------------- | ----------------- |
-| /ɑ:/   | a, al, ar       | glass, half, car  |
-| /eɪ/   | ay, ea, ai      | pay, great, maid  |
-| /ɔɪ/   | oi, oy          | noise, toy, boy   |
-| /aɪ/   | i, y            | fine, like, my    |
-| /əʊ/   | o, oa           | no, stone, road   |
+|  /ɔ:/  | al, aw, or, our | talk, law, port |
+| /ɑ:/ | a, al, ar | glass, half, car  |
+| /eɪ/ | ay, ea, ai | pay, great, maid  |
+| /ɔɪ/ | oi, oy | noise, toy, boy |
+| /aɪ/ | i, y | fine, like, my |
+| /əʊ/ | o, oa | no, stone, road |
 Diphthong
-| /aʊ/  | ou, ow           | round, how, brown      |
-| ----- | ---------------- | ---------------------- |
-| /ɪə/  | eer, ear         | beer, hear, steer      |
+| /aʊ/  | ou, ow | round, how, brown |
+| /ɪə/  | eer, ear | beer, hear, steer |
 | /eə/  | are, ere, ea, ai | care, there, bear, air |
-| /ʊə/  | ur, ou           | plural, tourist, sure  |
+| /ʊə/  | ur, ou | plural, tourist, sure  |
 English 10  67
-
-https://importantedunotes.com/
-5
 Science and Experiment
 Getting started
 Look at the pictures. What do you think they are about?
@@ -2112,8 +1408,6 @@ Everest. Of course that's just a joke. No one cooks rice at the top of
 Everest. But why are the instructions even different? Why does it
 matter where you cook? The answer has to do with boiling water.
 68 English 10
-
-https://importantedunotes.com/
 You ask some people on the street about the boiling temperature of water.
 Some might say 212°F or even better 100°C—but that's not always true.
 As you increase your altitude above sea level, the boiling point of water
@@ -2146,8 +1440,6 @@ now a gas—water vapour. Boiling is not needed to get this water vapour.
 But wait! It works the other way too. Some of the water balls in the gas
 stage can interact with the liquid water and join the liquid water balls.
 English 10 69
-
-https://importantedunotes.com/
 Water in a closed container will
 eventually reach an equilibrium
 state between water vapour and
@@ -2181,8 +1473,6 @@ and outside is the water pressure. This means that for water to boil,
 the temperature must increase until the vapour pressure is equal to the
 outside pressure and a bubble can form.
 70 English 10
-
-https://importantedunotes.com/
 What about that external pressure? That depends on two things. First, the
 water itself. In order for the water not to collapse, the deeper water must
 have a higher pressure. So, the water pressure depends on the depth, the
@@ -2210,8 +1500,6 @@ hole. The syringe was then heated to about 42°C (a little over 100°F).
 Now I can pull the plunger out to decrease the pressure in the liquid and
 induce boiling.
 English 10 71
-
-https://importantedunotes.com/
 It is pretty tough to pull the plunger back to decrease the pressure— but
 you can do it. Oh, why heat the water up? Well, I can not get a perfect
 vacuum by pulling the plunger, so I need a little boiling help by starting
@@ -2240,74 +1528,57 @@ b. As the altitude goes up, the boiling point of water …….
 c. Random motion of molecules or particles is called ……….
 d. If the door does not open, try …………..the key in the lock.
 e. Certain chemicals can ……… undesirable changes in the nervous
-72
 sys tem.
 English 10
-
-https://importantedunotes.com/
-C.   Answer these questions.
-a.    What is the speed of the water particles compared with?
-b.    How are bubbles formed in the boiling water?
-c.    Mention two things on which external pressure depends.
-d.    How is the atmosphere related to the pressure of water?
-e.   What would happen if the atmospheric pressure on the liquid
+C. Answer these questions.
+a. What is the speed of the water particles compared with?
+b. How are bubbles formed in the boiling water?
+c. Mention two things on which external pressure depends.
+d. How is the atmosphere related to the pressure of water?
+e. What would happen if the atmospheric pressure on the liquid
 water was decreased?
-f.    What would the experimenter gain if s/he pulled the plunger
-D.   What would happen on the Earth if there were no gravity?
+f. What would the experimenter gain if s/he pulled the plunger
+D. What would happen on the Earth if there were no gravity?
 out?
 Discuss possibilites with your friends.
 Pronunciation
 Pronounce the following pairs of words after your teacher. Write
 Sfor the same and Dfor the different pronunciations.
-|                   |             |           |           |
-| ----------------- | ----------- | --------- | --------- |
-| so-sow            | sale-sell   | get-gate  | hair-heir |
-| just-jest         | sale-sail   | said-sad  | beer-bear |
-| maid-made         | mail-male   | tail-tale | tell-tail |
+| so-sow | sale-sell | get-gate  | hair-heir |
+| just-jest | sale-sail | said-sad  | beer-bear |
+| maid-made | mail-male | tail-tale | tell-tail |
 | Srpeaera-rkairneg | sheer-share | here-hare | met-mate  |
 A. Read and act out the following conversations.
 Conversation I
-| Deshika  :  Who do you think will  |     |     |     |
-| ---------------------------------- | --- | --- | --- |
+| Deshika  :  Who do you think will  | | | |
 win the race?
-| Saloni   :  I  think  Punam will.        |     |     |     |
-| ---------------------------------------- | --- | --- | --- |
-| Shristi   :   Yes, if she runs faster,   |     |     |     |
+| Saloni :  I  think  Punam will. | | | |
+| Shristi : Yes, if she runs faster, | | | |
 she will surpass them
 all.
 English 10  73
-
-https://importantedunotes.com/
 Conversation II
-| Sirjana  | :  Why do you think I have to study hard? |     |     |     |
-| -------- | ----------------------------------------- | --- | --- | --- |
-Kritika   :  Because if you study hard, you will get better results.
+| Sirjana  | :  Why do you think I have to study hard? | | | |
+Kritika :  Because if you study hard, you will get better results.
 MB.a noWj  ork: i n pYaeisr, sif.  yHoauv gee st igmooilda rre csounltvs,e yrosua ctiaonn gse itn a  tshcheo sliatrushaitpio. ns
 given below.
-| a.    | eat too much/gain weight/get lazy |     |     |     |
-| ----- | --------------------------------- | --- | --- | --- |
-b.    rain this evening/stay at home/keep in touch with parents
-| c.    | keep on heating/water changes into vapour/dries up |     |     |     |
-| ----- | -------------------------------------------------- | --- | --- | --- |
+| a. | eat too much/gain weight/get lazy | | | |
+b. rain this evening/stay at home/keep in touch with parents
+| c. | keep on heating/water changes into vapour/dries up | | | |
 C.  Wd. o  rkn oint  sptoapir ssm. Hoakvineg c/ogentv cearnscaetri/odnies  euasrilnyg the following clues
 as in the example.
 Example: If you were a food, what food would you be?
-| Nima  | :  If you were a food item, what item would you be?  |     |     |     |
-| ----- | ---------------------------------------------------- | --- | --- | --- |
-Prava   :  Well. If I were a food item, I would be an apple.
-Nima   :  Why’s that?
-Prava   :  Because if one ate an apple a day, he would keep doctors
+| Nima  | :  If you were a food item, what item would you be?  | | | |
+Prava :  Well. If I were a food item, I would be an apple.
+Nima :  Why’s that?
+Prava :  Because if one ate an apple a day, he would keep doctors
 away. And people in the world would be healthy.
-| a.    | What laws would you abolish if you could? |     |     |     |
-| ----- | ----------------------------------------- | --- | --- | --- |
-b.    Which planet would you like to go if you were given an offer?
-| c.     | Why wouldn’t you open windows? |     |     |            |
-| ------ | ------------------------------ | --- | --- | ---------- |
-| d.     | Why would you water plants?    |     |     |            |
-| e.     | Why would you study law?       |     |     |            |
-| 74     |                                |     |     | English 10 |
-
-https://importantedunotes.com/
+| a. | What laws would you abolish if you could? | | | |
+b. Which planet would you like to go if you were given an offer?
+| c. | Why wouldn’t you open windows? | | | |
+| d. | Why would you water plants? | | | |
+| e. | Why would you study law? | | | |
+| 74 | | | | English 10 |
 Grammar I
 A. Match the clauses in column A with their appropriate
 continuation in column B.
@@ -2327,7 +1598,7 @@ h. As long as they communi- viii. the problem might be solved.
 B. Ccaotme wpelellte the following sentences using the correct form of
 verbs in brackets.
 a. If it is cold, I ……… (wear) a coat.
-b. If Purna helps with the housework, his mother ……… (have)
+b. If Purna helps with the housework, his mother ……… (have
 more time for him.
 c. If I were a bird, I ……….. (make) a good observation of the land
 below.
@@ -2335,14 +1606,10 @@ d. If I ………… (go) to Mustang, I would visit Muktinath.
 e. If I ………… (be) a billionaire, I would buy a castle.
 f. You’d save petrol if you ……….. (drive) more carefully.
 English 10 75
-
-https://importantedunotes.com/
-| g.    | Say 'hello' if you …………. (see) her. |     |     |     |
-| ----- | ----------------------------------- | --- | --- | --- |
-h.   Provided that you ……… (consent), I will take a few days’ leave
+| g. | Say 'hello' if you …………. (see) her. | | | |
+h. Provided that you ……… (consent), I will take a few days’ leave
 next week.
-| i.   | Take care of the pence, the pounds ………… (take) care of  |     |     |     |
-| ---- | ------------------------------------------------------- | --- | --- | --- |
+| i. | Take care of the pence, the pounds ………… (take) care of  | | | |
 Writing I
 themselves.
 Write	stepwise	instructions	to	draw	a	jellyfish	as	given	below.
@@ -2350,12 +1617,9 @@ You may use the following words and phrases.
 circle, lines, semi-straight, creaky, on top of, above, below
 Reading II
 Answer the following questions.
-a.    What do you think the man in the picture is doing?
-b.    Do you like the sound of rain?
-| 76     |     |     |     | English 10 |
-| ------ | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+a. What do you think the man in the picture is doing?
+b. Do you like the sound of rain?
+| 76 | | | | English 10 |
 The Voice of the Rain
 And who art thou? said I to the soft-falling shower,
 Which, strange to tell, gave me an answer, as here translated:
@@ -2367,9 +1631,9 @@ I descend to lave the droughts, atomies, dust-layers of the globe,
 And all that in them without me were seeds only, latent, unborn;
 And forever, by day and night, I give back life to my own origin,
 and make pure and beautify it;
-(For song, issuing from its birth-place, after fulfilment, wandering,
+For song, issuing from its birth-place, after fulfilment, wandering,
 - Walt Whitman
-Reck'd or unreck'd, duly with love returns.)
+Reck'd or unreck'd, duly with love returns.
 A. Match the words in column A with their meanings in
 column B.
 Column A Column B
@@ -2377,29 +1641,23 @@ a. eternal i. come down
 b. impalpable ii. unclearly
 c. vaguely iii. indivisible particles
 English 10 77
-
-https://importantedunotes.com/
-| d.  | descend |     |     |     | iv.  | take care of          |     |     |
-| --- | ------- | --- | --- | --- | ---- | --------------------- | --- | --- |
-| e.  | lave    |     |     |     | v.   | not easily understood |     |     |
-| f.  | atomies |     |     |     | vi.  | to pour out as water  |     |     |
-| g.  | reck    |     |     |     | vii. | never-ending          |     |     |
+| d.  | descend | | | | iv.  | take care of | | |
+| e.  | lave | | | | v. | not easily understood | | |
+| f.  | atomies | | | | vi.  | to pour out as water  | | |
+| g.  | reck | | | | vii. | never-ending | | |
 B.  Fill in the blanks choosing the words given below.
-| impalpable |                                     | recks |     | globe | drought |     | beautify | latent |
-| ---------- | ----------------------------------- | ----- | --- | ----- | ------- | --- | -------- | ------ |
-| a.         | The river ran dry during the ………… . |       |     |       |         |     |          |        |
-b.    It is still ……….. to understand how the earth originated.
-c.   The company produces a wide variety of make up and skin care
+| impalpable | | recks | | globe | drought | | beautify | latent |
+| a. | The river ran dry during the ………… . | | | | | | | |
+b. It is still ……….. to understand how the earth originated.
+c. The company produces a wide variety of make up and skin care
 products designed to gently and effectively ……… human skin.
-| d.    | His greatest ambition is to sail around the ……… .     |     |     |     |     |     |     |     |
-| ----- | ----------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- |
-| e.    | Without training, his musical talent remained …….. .  |     |     |     |     |     |     |     |
-| f.    | What …….. it whether they win or lose?                |     |     |     |     |     |     |     |
+| d. | His greatest ambition is to sail around the ……… . | | | | | | | |
+| e. | Without training, his musical talent remained …….. .  | | | | | | | |
+| f. | What …….. it whether they win or lose? | | | | | | | |
 C.  Complete the summary of the poem using suitable words
 or phrases given below.
-| quenches         |     | rhythm  |             | mysterious  |              |     | heal        |   atomies  |
-| ---------------- | --- | ------- | ----------- | ----------- | ------------ | --- | ----------- | ---------- |
-| condensation     |     |         | ascends     |             | showers      |     | originality |            |
+| quenches | | rhythm  | | mysterious  | | | heal | atomies  |
+| condensation | | | ascends | | showers | | originality | |
 The poem is a conversation between the poet and the rain. When the poet
 asks the identity of the drizzle, she replies that she is the poem of the Earth.
 The rain expresses that it gives happiness to mother Earth.
@@ -2408,10 +1666,7 @@ times. It rises from the land as water vapour and ……… high up to the sky.
 It takes the form of clouds. Though it changes its form or shape, its ………..
 remains unchanged. It shows that nature is not fully understood. Some
 parts of it always remain ……… .
-| 78     |     |     |     |     |     |     |     | English 10 |
-| ------ | --- | --- | --- | --- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 78 | | | | | | | | English 10 |
 The raindrops pour down from above to wash away ……… and dust
 layers. It ………..the thirst of the dry Earth and heals everything that is
 becoming lifeless. In other words, the ……… make the Earth pure and
@@ -2420,63 +1675,47 @@ Finally, the poet observes that the life of rain is similar to that of a song. A
 song also has a power to calm,….., transform and thrill. In the same way,
 repeated evaporation and …………… purifies the rain. It beautifies the whole
 Dea.r  thA ans saw …e…r. .tdhoee sf otoll ao wpoienmg  qoru ae smtiuosnics..
-a.    What are the two voices in the poem? Who do they belong to?
-b.    How is the cyclic movement of the rain shown in the poem?
-| c.    | Why are the showers necessary for the Earth? |     |
-| ----- | -------------------------------------------- | --- |
-| d.    | How are the rain and music similar?          |     |
-| e.    | How are the clouds formed?                   |     |
-E.  Wf.   haLt imsta tyhe h paapirpse onf  oopnp tohseit eE awrotrhd sif i nit  tdhoe epso enmot. rain for a long
+a. What are the two voices in the poem? Who do they belong to?
+b. How is the cyclic movement of the rain shown in the poem?
+| c. | Why are the showers necessary for the Earth? | |
+| d. | How are the rain and music similar? | |
+| e. | How are the clouds formed? | |
+E.  Wf. haLt imsta tyhe h paapirpse onf  oopnp tohseit eE awrotrhd sif i nit  tdhoe epso enmot. rain for a long
 time? Discuss in a group.
 Listening
-A.   Look at the picture and answer these questions.
-
-|     | a. What objects do you see in the picture? |     |
-| --- | ------------------------------------------ | --- |
-
-|     | b. Why are there the layers of liquids in the  |     |
-| --- | ---------------------------------------------- | --- |
+A. Look at the picture and answer these questions.
+| | a. What objects do you see in the picture? | |
+| | b. Why are there the layers of liquids in the  | |
 glass?
-B.   Listen to the audio and answer these questions.
-| a.     | What is the narrator experimenting about?        |     |
-| ------ | ------------------------------------------------ | --- |
-| b      | .      W  hich liquid is the experimenter using? |     |
-| Englis | h   1 0                                          | 79  |
-
-https://importantedunotes.com/
-| c.    | In what order do the liquids fix in the glass? |     |     |     |
-| ----- | ---------------------------------------------- | --- | --- | --- |
-d.   What happens when we drop a plastic bottle top into the glass?
+B. Listen to the audio and answer these questions.
+| a. | What is the narrator experimenting about? | |
+| b | . W  hich liquid is the experimenter using? | |
+| Englis | h 1 0 | 79  |
+| c. | In what order do the liquids fix in the glass? | | | |
+d. What happens when we drop a plastic bottle top into the glass?
 C.  Le.i s  teWn htyo  dtoh teh ea uliqduioid sa nnodt  cmoimx?plete the sentences with the
 correct words.
-| a.    | The sponge sits on the ………… .                |     |     |     |
-| ----- | -------------------------------------------- | --- | --- | --- |
-| b.    | Objects with ………… density sit on the bottom. |     |     |     |
+| a. | The sponge sits on the ………… . | | | |
+| b. | Objects with ………… density sit on the bottom. | | | |
 c.  After filling the oil, the mixture is left to settle for about ………..
 minutes.
-d.   The density of …… is less than that of syrup and more than that
+d. The density of …… is less than that of syrup and more than that
 D.  Whyo df ooi lw. ater and vegetable oil not mix? Talk to your
 friends.
 Grammar II
 A.  Complete the following sentences using the correct form of
 verbs in brackets.
-| a.    | If Gaurab were the captain, the team ……(play) better.  |     |     |     |
-| ----- | ------------------------------------------------------ | --- | --- | --- |
-| b.    | I …..(call) you had I known you were in Nepal.         |     |     |     |
-c.    If he …….(not/come ) to Nepal, he would not have seen Mt.
+| a. | If Gaurab were the captain, the team ……(play) better.  | | | |
+| b. | I …..(call) you had I known you were in Nepal. | | | |
+c. If he …….(not/come ) to Nepal, he would not have seen Mt.
 Everest.
-| d.    | Had you arrived a bit earlier, you…….(see) Manashi. |     |     |     |
-| ----- | --------------------------------------------------- | --- | --- | --- |
-e.    We could slow down global warming if we…….(reduce) energy
+| d. | Had you arrived a bit earlier, you…….(see) Manashi. | | | |
+e. We could slow down global warming if we…….(reduce) energy
 consumption.
-| f.    | If he were to see me, he …….(know) me at once. |     |     |     |
-| ----- | ---------------------------------------------- | --- | --- | --- |
-g.    Were Rijisa in the USA, she……(be) working for a company.
-h.    How would you feel if someone …..(ask) you for an autograph?
-| 80     |     |     |     | English 10 |
-| ------ | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| f. | If he were to see me, he …….(know) me at once. | | | |
+g. Were Rijisa in the USA, she……(be) working for a company.
+h. How would you feel if someone …..(ask) you for an autograph?
+| 80 | | | | English 10 |
 i. What………(you/do) if Keshab had proposed you for marriage?
 j. If I ……(have) a life jacket, I could certainly swim across the
 B. Comprilveetre. the following sentences with appropriate clauses.
@@ -2502,8 +1741,6 @@ water.
 The water tank cannot hold enough water to cater for the needs of the
 residents. Despite this situation, the residents are not conserving water.
 English 10 81
-
-https://importantedunotes.com/
 Most of them are wasting water while bathing, washing clothes and
 utensils and gardening.
 In this context, I have some suggestions to offer to solve the problem
@@ -2531,8 +1768,6 @@ Project work
 Study a local technology used in your locality. Take notes of its
 working principles and present it to the class.
 82 English 10
-
-https://importantedunotes.com/
 Extra bit
 Words often confused
 1. accept /except/expect
@@ -2561,13 +1796,11 @@ breathe (verb) - to inhale and exhale
 5. cJuosmt cpallemm deonwt/nc oanmdp blirmeaetnhet.
 complement (noun) - that which completes or brings to perfection;
 English 10 83
-
-https://importantedunotes.com/
-(verb) - to make complete, to add something
+verb) - to make complete, to add something
 Red wine is a nice complement to a steak dinner.
 compliment (noun) - something said in admiration, praise, or
 flattery
-(verb) - to pay a compliment to; congratulate
+verb) - to pay a compliment to; congratulate
 6. lose/loose
 She gave me a nice compliment when she said I looked thin.
 lose (verb) - to become unable to find; to mislay; to fail to win
@@ -2578,7 +1811,7 @@ loose (adjective) - not tight; giving enough room
 I've lost twenty pounds, and now these jeans are really loose.
 principal (noun) - a governing or presiding officer, specifically
 of a school
-(adjective) - importance, primary, degree, etc.
+adjective) - importance, primary, degree, etc.
 The principal reason for the meeting is to discuss budget cut.
 principle (noun) - a fundamental truth, law, doctrine, or
 motivating force, upon which others are based
@@ -2592,9 +1825,6 @@ envelopes used for letters
 My grandmother has given me a lot of stationery over the years.
 I think she wants me to use it to write her.
 84 English 10
-
-https://importantedunotes.com/
-6
 Food and Cuisine
 Getting started
 Rank 1 to 4 to the following food items according to your
@@ -2606,8 +1836,6 @@ favourite?
 b. Have you ever eaten any dish that is quite uncommon in Nepal?
 If yes, what is it? How does it taste?
 English 10 85
-
-https://importantedunotes.com/
 Strange Food from Around the World
 There's nothing like the feeling of challenging
 yourself and winning, of taking a risk and having
@@ -2639,8 +1867,6 @@ However, I'm slowly coming around. Once you get
 used to it and you have it with good conversation,
 this food takes on a whole new beauty.
 86 English 10
-
-https://importantedunotes.com/
 Jellyfish, China
 This dish can appear challenging to those of
 us who only associate jellyfish with the scary
@@ -2671,8 +1897,6 @@ menu at most French restaurants, even in Australia.
 However, some people are still nervous about
 eating garden snails, even though they needn't be.
 EFrnigeldis uh p1 0w ith plenty of garlic and butter, snail is 87
-
-https://importantedunotes.com/
 yummy. Snails, in fact, are eaten in many countries, particularly Vietnam,
 wBuhenr er iferiue,d V sineatinlsa amre a very tasty staple dish.
 Everything about bun rieu, a traditional
@@ -2684,28 +1908,22 @@ lime juice, chilli, fresh herbs, banana flower
 and bean sprouts. Also, extremely good. Then,
 however, you drop in a large piece of congealed
 pig's blood, which is a serious challenge for the
-- Ben Groundwater (Adapted from https://www.traveller.com.au/)
+- Ben Groundwater (Adapted from https://www.traveller.com.au/
 unsuspecting diner. My advice: give it a try. You won't regret it.
-A.   Match the words in 'Column A' with their meanings in
+A. Match the words in 'Column A' with their meanings in
 'Column B'.
-| Column A   |     |                                            | Column B |     |
-| ---------- | --- | ------------------------------------------ | -------- | --- |
-| a. ferment |     | i. a large whitish wood-eating larva of a  |          |     |
+| Column A | | | Column B | |
+| a. ferment | | i. a large whitish wood-eating larva of a  | | |
 beetle or moth
-| b. squid     |     | ii. to go through a chemical change             |     |     |
-| ------------ | --- | ----------------------------------------------- | --- | --- |
-| c. witchetty |     | iii. a sea creature that has a long soft body,  |     |     |
+| b. squid | | ii. to go through a chemical change | | |
+| c. witchetty | | iii. a sea creature that has a long soft body,  | | |
 eight arms and two tentacles around its
 mouth
-| d. myrtle  |     | iv. to change from a fluid to a solid state  |     |     |
-| ---------- | --- | -------------------------------------------- | --- | --- |
-| e. congeal |     | v. having a flavor like that of nuts         |     |     |
-| f. nutty   |     | vi. a bush with shiny leaves, pink or white  |     |     |
+| d. myrtle  | | iv. to change from a fluid to a solid state  | | |
+| e. congeal | | v. having a flavor like that of nuts | | |
+| f. nutty | | vi. a bush with shiny leaves, pink or white  | | |
 flowers and blue-black berries
-| 88     |     |     |     | English 10 |
-| ------ | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 88 | | | | English 10 |
 B. The idiom 'a bridge too far' in the text means 'something
 that is too extreme'. Match the following idioms with their
 meanings.
@@ -2733,41 +1951,31 @@ into food.
 D. Af. nsw Senra tilhs eb efocollmoew vienrgy qtausetys twiohnens. they are fried with …………… .
 a. Why does food become a challenge for people when they travel?
 English 10 89
-
-https://importantedunotes.com/
-| b.    | How is haggis prepared?                  |     |     |     |
-| ----- | ---------------------------------------- | --- | --- | --- |
-| c.    | When do you feel that you like shiokara? |     |     |     |
-| d.    | Where can people enjoy the bush food?    |     |     |     |
-e.    Why does the writer find it difficult to eat larger insects?
-f.    Name the country where snails are served as the main dish.
-| g.    | What kind of food is bun rieu? |     |     |     |
-| ----- | ------------------------------ | --- | --- | --- |
-h.   If you have to choose one of the foods from the list above, which
+| b. | How is haggis prepared? | | | |
+| c. | When do you feel that you like shiokara? | | | |
+| d. | Where can people enjoy the bush food? | | | |
+e. Why does the writer find it difficult to eat larger insects?
+f. Name the country where snails are served as the main dish.
+| g. | What kind of food is bun rieu? | | | |
+h. If you have to choose one of the foods from the list above, which
 E.		 Whicohn	eo fd	oth yeo	ud icshhoeosse	m? Wenhtyi?oned	in	the	text	did	you	find	the
 strangest of all? Give reasons.
 Pronunciation
 Listen to your teacher and notice where the stress lies in these
 words.
-| amateur            | badminton |     | energy    | gardener  |
-| ------------------ | --------- | --- | --------- | --------- |
-| industry           | library   |     | mystery   | perfectly |
-| Sgpoevearknimnegnt | quietly   |     | character | terrible  |
+| amateur | badminton | | energy | gardener  |
+| industry | library | | mystery | perfectly |
+| Sgpoevearknimnegnt | quietly | | character | terrible  |
 A.  Practise the following conversations in pairs.
 Conversation I
-| Teacher   | :    Why are you late?         |     |     |     |
-| --------- | ------------------------------ | --- | --- | --- |
-| Student   | :   Because I missed the bus,  |     |     |     |
+| Teacher | : Why are you late? | | | |
+| Student | : Because I missed the bus,  | | | |
 ma'am.
-| Teacher   | :  It's okay. Be in time from  |     |     |     |
-| --------- | ------------------------------ | --- | --- | --- |
+| Teacher | :  It's okay. Be in time from  | | | |
 the next day so that you
 won't miss the class.
-| Student   | :  Okay, ma'am. |     |       |            |
-| --------- | --------------- | --- | ----- | ---------- |
-| 90        |                 |     |       | English 10 |
-
-https://importantedunotes.com/
+| Student | :  Okay, ma'am. | | | |
+| 90 | | | | English 10 |
 Conversation II
 Pramila : Why do you want to go to Kathmandu after SEE?
 Kiran : Well, the reason is that I want to study there.
@@ -2794,8 +2002,6 @@ b. Where do you go for shopping?
 c. How much water do you drink a day?
 d. When do you like to go on a holiday?
 English 10 91
-
-https://importantedunotes.com/
 e. What will you do after your SEE?
 Grammar I
 f. Who is your favourite actress?
@@ -2835,17 +2041,15 @@ B. Complete the text below choosing the correct connective
 from the brackets.
 The people at the fair were leaving (because/but) the lights were
 92 go ing ou t. The l ast two peop le in do dgem cars also left (as/Esnog)l iisth w 1a0s
-
-https://importantedunotes.com/
 getting dark. The big wheel stopped (as/and) the merry- go-round
 had already stopped. The stalls closed down and the stall-owners
 went home. At 2 a.m. four nightwatchmen walked round the funfair
-(to/so) see if there was anyone to be seen. "I'm fed up walking
+to/so) see if there was anyone to be seen. "I'm fed up walking
 around," one of them said, "What can we do (as/ so that) there is
 nothing we can do?" "We can sit and talk." They were bored (so/
 because) there was nothing to do on that quiet warm night. "We can
 have a ride on the merry-go-round!" one of them cried. "That'll be
-fun!" Three of them jumped on merry-go- round horses. (So/Since)
+fun!" Three of them jumped on merry-go- round horses. (So/Since
 the fourth started the motor. Then he jumped on too and round
 they went. They were having the time of their lives. Suddenly they
 realized there was no one to stop the machine (because/so) all of
@@ -2867,8 +2071,6 @@ Turn off the stove, is ready to serve.
 B. WAdhda stu igsa ry aonudr cfaarvdoaumroimte pfoowodde?r W afrteitre t hae rmeiclkip der iteos uppr.epare it.
 Mention the ingredients and the methods to cook it.
 English 10 93
-
-https://importantedunotes.com/
 Reading II
 Look at the picture and answer these questions.
 a. Who do you think the man in the picture is?
@@ -2899,8 +2101,6 @@ recipes and enjoying my job to the fullest. It also feels great to have the
 platform to introduce Nepali food to the world. I am glad to have made
 it this far. Even if I don’t win, I am glad I was able to put the spotlight on
 9N4e p ali cuisine . English 10
-
-https://importantedunotes.com/
 It is difficult to say what “Nepali” cuisine is, as it is so diverse.
 How do you answer that when your international audience ask
 you the question?
@@ -2937,8 +2137,6 @@ judges as, “The most beautiful plate of food I have ever been served in
 MWahsatetr aCdhevfi.”ce do you have for other Nepalis who are also going
 abroad to make a future for themselves?
 English 10 95
-
-https://importantedunotes.com/
 My advice to young Nepalis is to never stop learning, you are never too
 old to learn new things and to improve your craft. Asking what is next is
 important. Keep learning and be a positive force to others. You inspire
@@ -2948,21 +2146,17 @@ The tentative name is ‘Ayla’ by Santosh Shah. I am hopeful that this will
 help create a separate identity for Nepali cuisine.
 My ultimate goal is the Michelin Star for Ayla, which is the Oscar equivalent
 for Chefs. That would further help elevate the profile of Nepali cuisine
-(Adapted from Nepali Times)
+Adapted from Nepali Times
 globally.
 A. Complete the crossword puzzle with the help of the
 meanings given below.
-1
 ACROSS
 3. a method of cooking meat or other food
 in a cylindrical clay oven 2
 7. a person having administrative or
 supervisory power in an organization 3 4
-5
 DOWN
-6
 1. a long pin for holding meat or other
-7
 food while it is being roasted
 2. the whole of something
 4. a feeling of pleasure and sometimes
@@ -2973,8 +2167,6 @@ pressive level
 6. remove water from (food) in order to
 reserve and store it
 96 English 10
-
-https://importantedunotes.com/
 B. Write True for true and False for false statements. If the
 information is not given in the text, write NG.
 a. The interview was taken in Nepal.
@@ -3004,41 +2196,31 @@ D. Ch.h ef WShhaath h caoveo ykoeud l emarannty fr domis hthees liifne stthoer y
 were one of the judges in the competition, which food would
 you ask him to cook? Why?
 English 10 97
-
-https://importantedunotes.com/
 Listening
-A.   Look at the picture and answer these questions.
-| b.    | What do you see in the picture? |     |     |     |
-| ----- | ------------------------------- | --- | --- | --- |
-| a.    | What do you know about food     |     |     |     |
+A. Look at the picture and answer these questions.
+| b. | What do you see in the picture? | | | |
+| a. | What do you know about food | | | |
 science?
 B.	 Listen	to	the	audio	and	fill	in	the	missing	activities	that	the
 food science is involved in.
-| a.    | grow the food                         |     |     |     |
-| ----- | ------------------------------------- | --- | --- | --- |
-| b.    | …………………………..                          |     |     |     |
-| c.    | …………….. transport food                |     |     |     |
-| d.    | …………………………..                          |     |     |     |
-| e.    | take food to a factory                |     |     |     |
-| f.    | process food                          |     |     |     |
-| g.    | …………………………..                          |     |     |     |
-| h.    | turn raw material into food products  |     |     |     |
-| i.    | …………………………..                          |     |     |     |
+| a. | grow the food | | | |
+| b. | ………………………….. | | | |
+| c. | …………….. transport food | | | |
+| d. | ………………………….. | | | |
+| e. | take food to a factory | | | |
+| f. | process food | | | |
+| g. | ………………………….. | | | |
+| h. | turn raw material into food products  | | | |
+| i. | ………………………….. | | | |
 C.  Lj. i s  tesnu ptopl yth toe  tahue dgriooc aernyd s tworrei tsee lTversue for true and False for
 false statements.
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-a.    The speaker takes about 5 minutes to talk about food science.
-| b.    | Food science is tied up with other sciences. |     |     |     |
-| ----- | -------------------------------------------- | --- | --- | --- |
-| c.    | Food science exists around us every day.     |     |     |     |
-d.    Food scientists help to make the food supply sustainable.
-D.  Re.e   caTllh aen fidr smt parkioer ait yli sotf  ofofo sdc siecinecnetiss ttsh iast g yroowu ilnisgt feonoed.d to in the
+a. The speaker takes about 5 minutes to talk about food science.
+| b. | Food science is tied up with other sciences. | | | |
+| c. | Food science exists around us every day. | | | |
+d. Food scientists help to make the food supply sustainable.
+D.  Re.e caTllh aen fidr smt parkioer ait yli sotf  ofofo sdc siecinecnetiss ttsh iast g yroowu ilnisgt feonoed.d to in the
 audio.
-| 98     |     |     |     | English 10 |
-| ------ | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 98 | | | | English 10 |
 Grammar II
 A. Choose the correct time expressionsin the sentences below.
 a. The boys are playing cricket (already/now).
@@ -3049,7 +2231,7 @@ d. (Currently/Sometimes) the economists are working on the
 country's financial crisis.
 e. Susan is playing tennis with Tim (now/then).
 f. What are you doing (this/next) afternoon?
-g. My teacher is helping us with Maths problem (that/this)
+g. My teacher is helping us with Maths problem (that/this
 morning.
 h. The guard is ringing the bell (now/soon). It's time to go!
 B. Wi. ritSeh Ne Ois W(stiilfl /tyheet) smeonwteinngc teh eu lsaewsn p. resent continuous for
@@ -3064,12 +2246,10 @@ e. We're organizing a programme on Wednesday.
 f. They are coming home right now.
 g. Mom is making dinner for us tonight.
 English 10 99
-
-https://importantedunotes.com/
 h. I'm sorry I don't have time. I'm attending a meeting.
-C. Ri. e wrSihtee' st hloeo tkeinxgt bfoerl ao wne uws hinogm teh aes csohrer'se scotl dfo trhme osl od fo tnhee. verbs
+C. Ri. e wrSihtee' st hloeo tkeinxgt bfoerl ao wne uws hinogm teh aes csohrer'se scotl dfo trhme osl od of tnhee. verbs
 given in the brackets.
-Why is Neelam smiling? It sounds like an easy question: she (have)
+Why is Neelam smiling? It sounds like an easy question: she (have
 a good time with friends and she (feel) good after a good shot. But
 psychologists often (argue) about this question. Some believe that
 smiling is an individual act: we smile because we feel happy unless
@@ -3078,7 +2258,7 @@ social relationships. Some animals use a grin to show that they (not/
 will) fight, for example. Perhaps our smile serves the same function.
 So, who’s right? In one study, researchers filmed people bowling. If
 you watch people doing a very social activity like this, it looks as if
-they always (smile). They stop smiling only when they (concentrate)
+they always (smile). They stop smiling only when they (concentrate
 on their next shot. But when do they start smiling again? After each
 good shot, the researchers took photographs to identify when the
 smile starts – while the player (look/still) down the alley or a few
@@ -3095,29 +2275,23 @@ What dishes are most commonly prepared during festivals or
 celebrations in your locality? Draw pictures showing the steps of
 preparing one of such dishes. Make a presentation in the class.
 100 English 10
-
-https://importantedunotes.com/
 Extra bit
 Commonly misspelled words in English
-| Correct    | Common             | Correct     | Common       |
-| ---------- | ------------------ | ----------- | ------------ |
-| spelling   | misspelling        | spelling    | misspelling  |
-| absence    | absense            | leisure     | liesure      |
-| argument   | arguement          | license     | lisense      |
-| beginning  | begining           | maintenance | maintainance |
-| height     | hight              | modern      | morden       |
-| believe    | beleive            | noticeable  | noticable    |
-| calendar   | calender           | occasion    | occassion    |
-| changeable | changable          | pastime     | pasttime     |
-| colleague  | collegue           | playwright  | playwrite    |
-| deceive    | decieve            | receive     | recieve      |
-| existence  | existance          | separate    | seperate     |
-| experience | experiance         | sincerely   | sinserely    |
-| grateful   | gratefull/grateful | truly       | truely       |
+| Correct | Common | Correct | Common |
+| spelling | misspelling | spelling | misspelling  |
+| absence | absense | leisure | liesure |
+| argument | arguement | license | lisense |
+| beginning  | begining | maintenance | maintainance |
+| height | hight | modern | morden |
+| believe | beleive | noticeable  | noticable |
+| calendar | calender | occasion | occassion |
+| changeable | changable | pastime | pasttime |
+| colleague  | collegue | playwright  | playwrite |
+| deceive | decieve | receive | recieve |
+| existence  | existance | separate | seperate |
+| experience | experiance | sincerely | sinserely |
+| grateful | gratefull/grateful | truly | truely |
 English 10  101
-
-https://importantedunotes.com/
-7
 Cyber Security
 Getting started
 What do these pictures show? Talk about them.
@@ -3128,8 +2302,6 @@ class.
 b. What precautions do you take in order to avoid being faked
 or bullied?
 102 English 10
-
-https://importantedunotes.com/
 Parents
 Dad! I’m going to meet my facebook friend.”
 “When?” I asked.
@@ -3162,8 +2334,6 @@ with me?” I tried to joke.
 dress.
 “Dad! I think I must tell you something.”
 English 10 103
-
-https://importantedunotes.com/
 “I’m listening.”
 “I’m not a girl... I mean I’m not a girl for the girl... I mean the friend
 I am going to meet.”
@@ -3188,16 +2358,16 @@ He smiled.
 “Let me tell you why the girl friend of your daughter didn’t appear at the
 meeting place. It was because her mother came with her in a car before
 you reached there. The mother was watching if there was really a boy of
-13. But all she could see was an old man with a big stomach and a bald
+
+## 13: But all she could see was an old man with a big stomach and a bald  {#ch-13}
+
 head lurking around the meeting place. So she didn’t let her daughter get
 out of the car. She just drove the car back home.”
 “You mean… You mean she saw me and…” I stammered. “Yes, she saw you.
 Do you know what she said about you?” He laughed. “She said that she
-(Adapted from: Vishnu Singh Rai's Martyr and other Stories)
+Adapted from: Vishnu Singh Rai's Martyr and other Stories
 saw a lecherous old man with an evil leer on his face…"
 104 English 10
-
-https://importantedunotes.com/
 A. Choose the words/phrases given below and write against
 the correct definitions.
 munching ridiculous window shopping stammer
@@ -3224,39 +2394,31 @@ e. She told her father about her new e-friend.
 f. Anuja's father shared the incident with his friend.
 g. He observed that Anuja was looking like a boy in her new dress.
 Englishh. 1 0T hey waited for Anuja's friend for ten minutes. 105
-
-https://importantedunotes.com/
-C.   Read the story again and answer these questions.
-a.   Why do you think Anuja was unwilling to take her father along
+C. Read the story again and answer these questions.
+a. Why do you think Anuja was unwilling to take her father along
 with her to meet her new friend?
-| b.    | How does she criticise her father?                  |     |     |     |
-| ----- | --------------------------------------------------- | --- | --- | --- |
-| c.    | Describe Anuja's e-friend.                          |     |     |     |
-| d.    | What did Anuja's father propose to go with her?     |     |     |     |
-| e.    | What was the shocking news for her father?          |     |     |     |
-| f.    | Why did they return without meeting Anuja's friend? |     |     |     |
-g.   Why do you think Dhurva laughed at the story of Anuja's father?
-h.   How did the girl's mother see Anuja's father? Why didn't they
+| b. | How does she criticise her father? | | | |
+| c. | Describe Anuja's e-friend. | | | |
+| d. | What did Anuja's father propose to go with her? | | | |
+| e. | What was the shocking news for her father? | | | |
+| f. | Why did they return without meeting Anuja's friend? | | | |
+g. Why do you think Dhurva laughed at the story of Anuja's father?
+h. How did the girl's mother see Anuja's father? Why didn't they
 D.  Whatta clak nto b eea tchhe o cthoenrs?equences of faking your identities and
 bullying other people on the social media and the internet?
 Pronunciation
 Read the following sentences with the correct pronunciation
 and write their intonation patterns.
-| a.    | I’m going to meet my e-mail friend.          |     |     |     |
-| ----- | -------------------------------------------- | --- | --- | --- |
-| b.    | Why? Is it because I’m 60 years old?         |     |     |     |
-| c.    | God! I tried to digest this new information. |     |     |     |
-d.   Is it because I’m 60 years old? Or is it because I’ve a big belly?
-| e.    | She knows me as a boy, doesn’t she?  |     |     |     |
-| ----- | ------------------------------------ | --- | --- | --- |
-| f.    | Do you know what she said about you? |     |     |     |
-g.   They came out of the car, waited for the girl and finally returned
+| a. | I’m going to meet my e-mail friend. | | | |
+| b. | Why? Is it because I’m 60 years old? | | | |
+| c. | God! I tried to digest this new information. | | | |
+d. Is it because I’m 60 years old? Or is it because I’ve a big belly?
+| e. | She knows me as a boy, doesn’t she?  | | | |
+| f. | Do you know what she said about you? | | | |
+g. They came out of the car, waited for the girl and finally returned
 home.
-| h.      | You are obsessed dad. |     |     |            |
-| ------- | --------------------- | --- | --- | ---------- |
-| 106     |                       |     |     | English 10 |
-
-https://importantedunotes.com/
+| h. | You are obsessed dad. | | | |
+| 106 | | | | English 10 |
 Speaking
 A. Both Anuja and her father were embarrassed after Dhurva
 revealed they were spotted by the girl's mother while
@@ -3282,43 +2444,34 @@ TCeoancvheerr satio: n YIoIIu should have reached the station on time.
 Gagan : My friend is angry with me.
 Sajan : I think you shouldn't have spoken to her harshly.
 English 10 107
-
-https://importantedunotes.com/
 C.  Work in pairs. Criticise your partner in the following
 situations.
-| a.    | Your partner has lost his/her money.        |     |     |     |
-| ----- | ------------------------------------------- | --- | --- | --- |
-| b.    | S/he got low grades in English.             |     |     |     |
-| c.    | S/he has forgotten to do her/his homework.  |     |     |     |
-| d.    | Somebody has hacked his/her email.          |     |     |     |
-| e.    | S/he was lost while visiting the market.    |     |     |     |
-| f.    | S/he is feeling drowsy in the class.        |     |     |     |
+| a. | Your partner has lost his/her money. | | | |
+| b. | S/he got low grades in English. | | | |
+| c. | S/he has forgotten to do her/his homework.  | | | |
+| d. | Somebody has hacked his/her email. | | | |
+| e. | S/he was lost while visiting the market. | | | |
+| f. | S/he is feeling drowsy in the class. | | | |
 Grammar I
-| g.    | S/he cannot remember the password of her computer. |     |     |     |
-| ----- | -------------------------------------------------- | --- | --- | --- |
+| g. | S/he cannot remember the password of her computer. | | | |
 A.  Read the sentences below and say whether the words in red
 are used to express advice, moral obligation or compulsion.
-| a.    | You should raise your voice against discrimination.  |     |     |     |
-| ----- | ---------------------------------------------------- | --- | --- | --- |
-| b.    | You must abide by the traffic rules while driving.   |     |     |     |
+| a. | You should raise your voice against discrimination.  | | | |
+| b. | You must abide by the traffic rules while driving. | | | |
 B.  Cc.o  mpYoleut eou thghet s teon btee nfacire sin b yeoluorw j uwdigtmh esnhto.uld, ought to or must.
 Use the negative forms where necessary.
-a.   Every child .......... take good care of their aging parents.
-b.   If you want to lose weight, you ............. exercise regularly.
-| c.     | A: Someone picked my pocket.                            |     |     |     |
-| ------ | ------------------------------------------------------- | --- | --- | --- |
-|        | B : You............ inform the police about it.         |     |     |     |
-| d.     | A: How was the movie?                                   |     |     |     |
-|        | B : It was great. You ........ go and see it.           |     |     |     |
-| e.     | We ................ disrespect our nation at any cost.  |     |     |     |
-| f.     | You look ill. You ......... see a doctor.               |     |     |     |
-g.   In order to maintain healthy habits, we............ go to bed early
+a. Every child .......... take good care of their aging parents.
+b. If you want to lose weight, you ............. exercise regularly.
+| c. | A: Someone picked my pocket. | | | |
+| | B : You............ inform the police about it. | | | |
+| d. | A: How was the movie? | | | |
+| | B : It was great. You ........ go and see it. | | | |
+| e. | We ................ disrespect our nation at any cost.  | | | |
+| f. | You look ill. You ......... see a doctor. | | | |
+g. In order to maintain healthy habits, we............ go to bed early
 and get up early in the morning.
-| h.      | You .......... offend people with your harsh words. |     |     |            |
-| ------- | --------------------------------------------------- | --- | --- | ---------- |
-| 108     |                                                     |     |     | English 10 |
-
-https://importantedunotes.com/
+| h. | You .......... offend people with your harsh words. | | | |
+| 108 | | | | English 10 |
 i. We ............. learn to apologise with people to build trust and
 cooperation.
 j. If you find someone's goods, you ........... try to return them to the
@@ -3334,8 +2487,6 @@ Answer these questions.
 a. What do the following pictures show?
 b. What precautions should we take while using the internet?
 English 10 109
-
-https://importantedunotes.com/
 Cyber Security: Basic Internet Safety Tips
 When you want to make your home secure, you lock
 the door. When you want to prevent your bike from
@@ -3368,9 +2519,6 @@ Make sure passwords and password hints are stored securely. Record
 passwords in an encrypted file on your computer, or select another secure
 password storage method. Avoid writing them down. Prevent “auto-login”,
 1u1n0c h ec k “Kee p me s igned i n” and “Reme mber my password" oEpntgiolinssh. 10
-
-https://importantedunotes.com/
-B
 It’s important to protect your personal information offline too because once
 sensitive information is stolen, it can be proliferated online. Remember
 tips like shielding the personal identification number (PIN) pad when you
@@ -3400,9 +2548,6 @@ Enable two-factor authentication in order to prevent hackers from
 accessing your personal accounts and information. Add the extra layer of
 security to keep your accounts safe even if someone knows your password.
 English 10 111
-
-https://importantedunotes.com/
-G
 Do not reveal details about your online account. Be careful while
 communicating with people you have met online recently. Accept people's
 friend requests in social media only if you know them in person. Delete
@@ -3414,34 +2559,24 @@ new back-ups regularly.
 By educating yourself about cyber security, you will put yourself one step
 Aah. eadM oaf ttchhe  tchybee wr corridmsin gailvse.
 n below with their meanings.
-| a.  | possession | i. to prevent something bad from  |     |     |
-| --- | ---------- | --------------------------------- | --- | --- |
+| a.  | possession | i. to prevent something bad from  | | |
 happening
-| b.  | intertwined | ii. quick to detect or respond to slight  |     |     |
-| --- | ----------- | ----------------------------------------- | --- | --- |
+| b.  | intertwined | ii. quick to detect or respond to slight  | | |
 changes or signals
-| c.  | integration | iii. an act of buying or selling; deal   |     |     |
-| --- | ----------- | ---------------------------------------- | --- | --- |
-| d.  | avoid       | iv. protecting something from danger or  |     |     |
+| c.  | integration | iii. an act of buying or selling; deal | | |
+| d.  | avoid | iv. protecting something from danger or  | | |
 harm
-| e.  | sensitive | v. something that you own or have with  |     |     |
-| --- | --------- | --------------------------------------- | --- | --- |
+| e.  | sensitive | v. something that you own or have with  | | |
 you; belongingness
-| f.  | proliferated | vi. the act of proving that something is  |     |     |
-| --- | ------------ | ----------------------------------------- | --- | --- |
+| f.  | proliferated | vi. the act of proving that something is  | | |
 real or true
-| g.  | shielding | vii. the act of combining two or more  |     |     |
-| --- | --------- | -------------------------------------- | --- | --- |
+| g.  | shielding | vii. the act of combining two or more  | | |
 things together
-| h.  | promptly | viii. closely connected with somebody or  |     |     |
-| --- | -------- | ----------------------------------------- | --- | --- |
+| h.  | promptly | viii. closely connected with somebody or  | | |
 something
-| i.      | authentication | ix. increased rapidly in number or amount |     |            |
-| ------- | -------------- | ----------------------------------------- | --- | ---------- |
-| j.      | transaction    | x. without any delay                      |     |            |
-| 112     |                |                                           |     | English 10 |
-
-https://importantedunotes.com/
+| i. | authentication | ix. increased rapidly in number or amount | | |
+| j. | transaction | x. without any delay | | |
+| 112 | | | | English 10 |
 B. State whether the following statements are True or False.
 a. It is a good idea to use the same password in different accounts
 for safety purpose.
@@ -3469,43 +2604,31 @@ e. Why do you think we should make online friends only to
 familiar people?
 f. What can we do to keep our online data safe?
 English 10 113
-
-https://importantedunotes.com/
 E.  Have you ever lost your personal data and information while
 using the internet? Share your experiences in the class.
 Listening
-A.   Answer these questions.
-| a.   | How often do you use the  |     |     |     |
-| ---- | ------------------------- | --- | --- | --- |
+A. Answer these questions.
+| a. | How often do you use the  | | | |
 internet?
 B.	 Tb.i  ckW	(√ha)t	 tdhoe y	ionut uesren iet tf	osra?fety	measure	if	it	is	mentioned	in
-| the audio. If not, put a cross ( |     |     | ).  |     |
-| -------------------------------- | --- | --- | --- | --- |
-⨯
-| a.  | Make sure your internet connection is secure.             |     |     |     |
-| --- | --------------------------------------------------------- | --- | --- | --- |
-| b.  | Make sure that the computer has a Firewall and Antivirus  |     |     |     |
+| the audio. If not, put a cross ( | | | ).  | |
+| a.  | Make sure your internet connection is secure. | | | |
+| b.  | Make sure that the computer has a Firewall and Antivirus  | | | |
 working.
-| c.  | Always use a strong email password.                  |     |     |     |
-| --- | ---------------------------------------------------- | --- | --- | --- |
-| d.  | Do not share your password with anyone, except your  |     |     |     |
+| c.  | Always use a strong email password. | | | |
+| d.  | Do not share your password with anyone, except your  | | | |
 parents.
-| e.  | Do not save your password on any devices. |     |     |     |
-| --- | ----------------------------------------- | --- | --- | --- |
-| f.  | Close unused internet accounts.           |     |     |     |
+| e.  | Do not save your password on any devices. | | | |
+| f.  | Close unused internet accounts. | | | |
 g. Be careful about where you click while using the internet.
-| h.  | Be careful about what you post from cyber cafes.        |     |     |     |
-| --- | ------------------------------------------------------- | --- | --- | --- |
-| i.  | Inform your parents if you find violent content in the  |     |     |     |
+| h.  | Be careful about what you post from cyber cafes. | | | |
+| i.  | Inform your parents if you find violent content in the  | | | |
 webpage.
-C.   Answer these questions in not more than four words.
-| a.      | What does the internet allow us to do?      |     |     |            |
-| ------- | ------------------------------------------- | --- | --- | ---------- |
-| b.      | What protects a computer from virus attack? |     |     |            |
-| c.      | What should you do after using the email?   |     |     |            |
-| 114     |                                             |     |     | English 10 |
-
-https://importantedunotes.com/
+C. Answer these questions in not more than four words.
+| a. | What does the internet allow us to do? | | | |
+| b. | What protects a computer from virus attack? | | | |
+| c. | What should you do after using the email? | | | |
+| 114 | | | | English 10 |
 d. Why should we not click on ads or links?
 e. Whom should we consult for any internet-related problem in
 D. Sharteh ea c ypbreor bcalefém? that you have faced while using the
@@ -3532,27 +2655,20 @@ f. .......... president is elected every five years in Nepal.
 g. Do you think that the tourist is from Japan? No, she looks like
 .......... European.
 English 10 115
-
-https://importantedunotes.com/
-h.    This is ......... biggest fish I have ever caught in my life.
+h. This is ......... biggest fish I have ever caught in my life.
 C.  Fi. i l l iBnh tahretm balnain isk ksn wowitnh  ttoh bee  c..o...r..r mecant  aorf taicctlieons.. If no article is
-| used, put a cross ( |     | ).  |     |     |
-| ------------------- | --- | --- | --- | --- |
-⨯
-a.   Mrs. Paudel went to ........... school to meet her son's teacher.
-| b.   | What time did you get ........... home yesterday? |     |     |     |
-| ---- | ------------------------------------------------- | --- | --- | --- |
-c.    .............. Netherlands consists of twelve provinces.
-| d.    | ............... Mt. Everest is the pride of our country. |     |     |     |
-| ----- | -------------------------------------------------------- | --- | --- | --- |
-| e.    | ............ Nile is the longest river in Africa.        |     |     |     |
-| f.    | ............ New Road is a financial hub in Kathmandu.   |     |     |     |
-g.    ............. Aarohan Gurukul Theater was founded in 1982.
-h.    What did you have for .......... breakfast this morning?
-i.   Braille system was developed to help ...... blind for reading and
+| used, put a cross ( | | ).  | | |
+a. Mrs. Paudel went to ........... school to meet her son's teacher.
+| b. | What time did you get ........... home yesterday? | | | |
+c. .............. Netherlands consists of twelve provinces.
+| d. | ............... Mt. Everest is the pride of our country. | | | |
+| e. | ............ Nile is the longest river in Africa. | | | |
+| f. | ............ New Road is a financial hub in Kathmandu. | | | |
+g. ............. Aarohan Gurukul Theater was founded in 1982.
+h. What did you have for .......... breakfast this morning?
+i. Braille system was developed to help ...... blind for reading and
 writing.
-| j.    | Do you always play .......... badminton at school? |     |     |     |
-| ----- | -------------------------------------------------- | --- | --- | --- |
+| j. | Do you always play .......... badminton at school? | | | |
 Writing II
 Write a newspaper article on "Internet and Cyber Security".
 Use the following guidelines in your article.
@@ -3561,91 +2677,67 @@ Use of the internet in our daily lives
 The abuses of the internet
 Need and ways of data privacy
 Conclusion
-| 116     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 116 | | | | English 10 |
 Project work
 Prepare a pamphlet depicting cybercrime and awareness for it
 and display it in the class.
 Extra bit
 Patterns of Intonation
 Intonation is about how we say things, rather than what we say, the
-Falling Intonation (➘)
+Falling Intonation (➘
 way the voice rises and falls while speaking.
-(The pitch of the voice falls at the end of the sentence.)
+The pitch of the voice falls at the end of the sentence.
 Falling intonation is the most common intonation pattern in English.
 It is commonly found in statements, commands, wh-questions
 Statements
-(information questions), confirmatory question tags and exclamations.
-➘
+information questions), confirmatory question tags and exclamations.
 Commands
 I’ll be back in a minute.
-➘
 Wh- questions
 Write your name here.
-➘
-(requesting information)
+requesting information
 Question Tags
 Where do you come from?
-➘
 Exclamations
 He thinks he’s so clever, doesn’t he?
-➘
-Rising Intonation (➚)
+Rising Intonation (➚
 How nice of you!
 The pitch of the voice rises at the end of a sentence. It is normally used
 with yes/no questions, and question tags that are real questions.
 English 10 117
-
-https://importantedunotes.com/
 Yes/no Questions
-➚
 Question tags
-| Do you like your new  |     |  teacher? |     |     |     |
-| --------------------- | --- | --------- | --- | --- | --- |
-➚
+| Do you like your new  | |  teacher? | | | |
 ➚➘
 Rise-Fall Intonation
-| We've met already,  |     |  haven't we?  |     |     |     |
-| ------------------- | --- | ------------- | --- | --- | --- |
-|                     |     | (             | )   |     |     |
-Choices (alternative questions)
+| We've met already,  | |  haven't we?  | | | |
+Choices (alternative questions
 The intonation rises and then falls.
-|     |     | ➚   | ➘   |     |     |
-| --- | --- | --- | --- | --- | --- |
+| | | ➚ | ➘ | | |
 Lists
-| Are you having  |     | soup or  |  salad? |     |     |
-| --------------- | --- | -------- | ------- | --- | --- |
-|                 | ➚   |          |         | ➘   |     |
+| Are you having  | | soup or  |  salad? | | |
+| | ➚ | | | ➘ | |
 Intonation falls on the last item to show that the list is finished.
-Unfinished thoughts (partial statements)
-| We've got  |  apples, pears, bananas and  |     |     |  oranges. |     |
-| ---------- | ---------------------------- | --- | --- | --------- | --- |
-|            | ➚                            | ➘   |     |           |     |
+Unfinished thoughts (partial statements
+| We've got  |  apples, pears, bananas and  | | |  oranges. | |
+| | ➚ | ➘ | | | |
 Do you like my new handbag?
 Conditional sentences
-| Well the  |  leather is  |  nice... (but I don't like it.) |     |     |     |
-| --------- | ------------ | ------------------------------- | --- | --- | --- |
-| ➚         |              |                                 | ➘   |     |     |
+| Well the  |  leather is  |  nice... (but I don't like it.) | | | |
+| ➚ | | | ➘ | | |
 The tone rises in the first clause and falls gradually in the second clause.
-Fall-Rise Intonation (➘➚)
-| If he  | calls, ask him to leave a  |     |  message.  |     |     |
-| ------ | -------------------------- | --- | ---------- | --- | --- |
+Fall-Rise Intonation (➘➚
+| If he  | calls, ask him to leave a  | |  message.  | | |
 Hesitation/reluctance
 The  voice  falls  and  rises usually  within  one  word.
 ➘ ➚
 ➘ ➚
 So you'd be willing to confirm that? ...Well ... I  sup pose so ...
 Politeness-Doubt-Uncertainty
-| You didn't see him on Monday? I don't quite  |     |                   |     | re member ...  |            |
-| -------------------------------------------- | --- | ----------------- | --- | -------------- | ---------- |
-|                                              |     | ➘ ➚               |     |                |            |
-| Perhaps we could                             |     | vis it the place? |     |                |            |
-| 118                                          |     |                   |     |                | English 10 |
-
-https://importantedunotes.com/
-8
+| You didn't see him on Monday? I don't quite  | | | | re member ...  | |
+| | | ➘ ➚ | | | |
+| Perhaps we could | | vis it the place? | | | |
+| 118 | | | | | English 10 |
 Hobbies and Interests
 Getting started
 Look at the pictures and talk about the hobbies of the people.
@@ -3662,8 +2754,6 @@ Some people enjoy spending their free time outdoors fishing, camping,
 hunting, and hiking, while others prefer to be indoors reading a good book
 or browsing online courses to hone their skills.
 English 10 119
-
-https://importantedunotes.com/
 The popularity of these hobbies differs around the world based on
 individual preferences and cultural influences. For example, while fishing
 is the most prevalent hobby in England, hiking is the most in-demand
@@ -3698,8 +2788,6 @@ You can simply have fun dancing around your living room or take it up
 a notch by joining a dance studio. Or, you can take some online dancing
 courses.
 120 English 10
-
-https://importantedunotes.com/
 Collecting Antiques
 Collecting antiques has become a passionate
 hobby for lots of people. As a result, more
@@ -3731,8 +2819,6 @@ of basic photography skills like lighting,
 depth, and exposure. The best part of the photography hobby is that you
 can preserve memories and have beautiful pictures on your walls.
 English 10 121
-
-https://importantedunotes.com/
 Writing
 Writing is one of the most popular hobbies that
 people enjoy because of the freedom. People
@@ -3761,12 +2847,10 @@ and improve your coordination.
 The best part is that you can knit on the bus, while watching your favorite
 shows, listening to music, or even hanging out with friends.
 122 English 10
-
-https://importantedunotes.com/
 A. Write synonyms and antonyms for the following words from
 the text.
-a. unrevealed (synonym) b. sharpen (synonym)
-c. boring (antonym) d. unexcited (antonym)
+a. unrevealed (synonym) b. sharpen (synonym
+c. boring (antonym) d. unexcited (antonym
 B. Fe.i nheda tlihneg m(syenaonniynmgs) of the wof.r fdrasm/peh (rsaynseons yfmro)m a dictionary
 and use them in your own sentences.
 a. ignite b. in-demand
@@ -3785,24 +2869,20 @@ g. Keeping journals helps people become successful.
 D. Ah.n swFelerx tibhielistye iqnu tiemseti aonnds .place is the best part of knitting.
 a. What aspects of our life influence the hobbies we choose?
 Englisbh. 1 0W hat makes reading the most popular hobby? 123
-
-https://importantedunotes.com/
-| c.    | How can people practise dancing?                       |     |     |     |     |
-| ----- | ------------------------------------------------------ | --- | --- | --- | --- |
-| d.    | What things are necessary for one to go with painting? |     |     |     |     |
-| e.    | Write the benefits of doing photography.               |     |     |     |     |
-| f.    | Why has writing become a popular hobby?                |     |     |     |     |
-E.  Do you think a person's hobby really helps him/her in  g.   How can knitting be rewarding to a person?
+| c. | How can people practise dancing? | | | | |
+| d. | What things are necessary for one to go with painting? | | | | |
+| e. | Write the benefits of doing photography. | | | | |
+| f. | Why has writing become a popular hobby? | | | | |
+E.  Do you think a person's hobby really helps him/her in  g. How can knitting be rewarding to a person?
 professional career? Discuss.
 Pronunciation
 Pronounce the following words after your teacher and notice
 the consonant clusters in them.
 Example:
- string /str/      milk /lk/
-| scout       |     | instant | pulp    | help      | street   |
-| ----------- | --- | ------- | ------- | --------- | -------- |
-| frustrating |     | golf    | twelfth | scratch   | spurious |
-| spleen      |     | sprout  | blog    | sclerosis | trout    |
+string /str/ milk /lk/
+| scout | | instant | pulp | help | street |
+| frustrating | | golf | twelfth | scratch | spurious |
+| spleen | | sprout  | blog | sclerosis | trout |
 Speaking
 hundredth
 A.  Study the following examples of people expressing their
@@ -3812,10 +2892,7 @@ reading rather than going out. I love
 reading classics.
 I hate outdoor games. I would prefer to
 sleep.
-| 124     |     |     |     |     | English 10 |
-| ------- | --- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 124 | | | | | English 10 |
 I prefer lying on a beach to hang-gliding
 and canoeing. I’m really crazy about sandy
 beaches.
@@ -3842,37 +2919,32 @@ a teacher a scientist a sweeper
 a beautician a policeman a business woman
 a journalist a singer
 English 10 125
-
-https://importantedunotes.com/
 Grammar I
 A.  Complete the following sentences with the correct passive
 forms of the verbs.
-| a.      | Ganga feeds the dogs.                           |     |     |            |
-| ------- | ----------------------------------------------- | --- | --- | ---------- |
-|         | The dogs ………………..by Ganga.                      |     |     |            |
-| b.      | The police catch a lot of criminals in London.  |     |     |            |
-|         | A lot of criminals ……………. in London.            |     |     |            |
-| c.      | They often help us.                             |     |     |            |
-|         | We ..………………..                                   |     |     |            |
-| d.      | They don't rent cars there.                     |     |     |            |
-|         | Cars …………………….. there.                          |     |     |            |
-| e.      | Do you turn the laptop on first?                |     |     |            |
-|         | …… the laptop……………. first?                      |     |     |            |
-| f.      | Somebody follows me home every evening.         |     |     |            |
-|         | Every evening …………………… home.                    |     |     |            |
-| g.      | We usually leave a saucer of milk for the cat.  |     |     |            |
-|         | A saucer of milk …………………. for the cat.          |     |     |            |
-| h.      | I like journalists following me on the way.     |     |     |            |
-|         | I like ……………… on the way.                       |     |     |            |
-| i.      | I loathe people pulling my hair.                |     |     |            |
-|         | I loathe …………………………..                           |     |     |            |
-| j.      | Ashmina adores teachers checking her notebooks. |     |     |            |
-|         | Ashmina adores ……………………… .                      |     |     |            |
-| k.      | Deuniya does not mind anyone mocking at him.    |     |     |            |
-|         | Deuniya does not mind …………………….                 |     |     |            |
-| 126     |                                                 |     |     | English 10 |
-
-https://importantedunotes.com/
+| a. | Ganga feeds the dogs. | | | |
+| | The dogs ………………..by Ganga. | | | |
+| b. | The police catch a lot of criminals in London.  | | | |
+| | A lot of criminals ……………. in London. | | | |
+| c. | They often help us. | | | |
+| | We ..……………….. | | | |
+| d. | They don't rent cars there. | | | |
+| | Cars …………………….. there. | | | |
+| e. | Do you turn the laptop on first? | | | |
+| | …… the laptop……………. first? | | | |
+| f. | Somebody follows me home every evening. | | | |
+| | Every evening …………………… home. | | | |
+| g. | We usually leave a saucer of milk for the cat.  | | | |
+| | A saucer of milk …………………. for the cat. | | | |
+| h. | I like journalists following me on the way. | | | |
+| | I like ……………… on the way. | | | |
+| i. | I loathe people pulling my hair. | | | |
+| | I loathe ………………………….. | | | |
+| j. | Ashmina adores teachers checking her notebooks. | | | |
+| | Ashmina adores ……………………… . | | | |
+| k. | Deuniya does not mind anyone mocking at him. | | | |
+| | Deuniya does not mind ……………………. | | | |
+| 126 | | | | English 10 |
 B. Change the following sentences into passive voice.
 a. The gardener waters the flowers every day.
 b. People see foxes in their gardens at night.
@@ -3897,8 +2969,6 @@ in the picture?
 b. Do you like climbing trees?
 Why?
 English 10 127
-
-https://importantedunotes.com/
 Climbing
 High up in the apple tree climbing I go,
 With the sky above me, the earth below.
@@ -3925,8 +2995,6 @@ c. a little tower of a building or a castle
 d. a set of steps leading from one floor of a building to another
 e. causing great wonder; extraordinary
 128 English 10
-
-https://importantedunotes.com/
 B. Choose the correct answer.
 a. What does the speaker view from the branch of the tree?
 i. the sky ii. the earth iii. the town
@@ -3953,8 +3021,6 @@ b. What things are shining brightly when viewed from above?
 c. Is it the first time that the speaker has climbed up the tree?
 How do you know?
 English 10 129
-
-https://importantedunotes.com/
 d. Make a list of words from the poem which describe the light or
 brightness.
 D. “eT. heW mhoart ed od ethtee rsmkyi nanedd tyhoeu e aarrteh, styhme bboelitstee rin o tphpe oproteumn?ity you
@@ -3971,8 +3037,6 @@ e. Playing video games f. Travelling
 g. Fishing h. Watching television
 i. Listening to music j. Collecting
 130 English 10
-
-https://importantedunotes.com/
 C. Listen again and match the first halves of the sentence with
 their endings.
 First half Ending
@@ -3998,40 +3062,31 @@ Puja : How do you feel if a photo journalist takes your photograph?
 Rama : I don’t like having my photographs taken. How about you?
 Mina : But I adore having my photographs taken.
 English 10 131
-
-https://importantedunotes.com/
 Now, change the following sentences with passive voice using
 being or having.
-| a.    | Puja hates people shouting at her in the street.   |     |     |     |
-| ----- | -------------------------------------------------- | --- | --- | --- |
-| b.    | Jahagir can’t stand beggars wiping his feet.       |     |     |     |
-| c.    | Our class teacher detests students flattering her. |     |     |     |
-d.    The  headteacher  likes  teachers checking  students’ homework.
-| e.  | The actress does not mind journalists following her. |     |     |     |
-| --- | ---------------------------------------------------- | --- | --- | --- |
+| a. | Puja hates people shouting at her in the street. | | | |
+| b. | Jahagir can’t stand beggars wiping his feet. | | | |
+| c. | Our class teacher detests students flattering her. | | | |
+d. The  headteacher  likes  teachers checking  students’ homework.
+| e.  | The actress does not mind journalists following her. | | | |
 f.  Rebika prefers people writing to her better than talking to her
 B.  Chanogne t thhee li nfoelsl.owing sentences into active voice.
-| a.    | A lot of books are stored online by various sites.  |     |     |     |
-| ----- | --------------------------------------------------- | --- | --- | --- |
-| b.    | Computers are repaired with warranty here.          |     |     |     |
-| c.    | Chinese is rarely spoken in our community.          |     |     |     |
-d.    The criminal is thought to have fled to another country.
-| e.                                                    | It is believed that the film can spell the spectators. |     |     |     |
-| ----------------------------------------------------- | ------------------------------------------------------ | --- | --- | --- |
-| f.                                                    | It is expected that the war is going to end soon.      |     |     |     |
-| g.                                                    | She is supposed to be married.                         |     |     |     |
-| h.                                                    | I hate being kept waiting.                             |     |     |     |
-| i.                                                    | She loves having her clothes praised.                  |     |     |     |
-| j.                                                    | This road is not very often used.                      |     |     |     |
-| k.                                                    | Ajima is never punished by teachers.                   |     |     |     |
-| Writli. n  g MIIany accidents are caused by speeding. |                                                        |     |     |     |
+| a. | A lot of books are stored online by various sites.  | | | |
+| b. | Computers are repaired with warranty here. | | | |
+| c. | Chinese is rarely spoken in our community. | | | |
+d. The criminal is thought to have fled to another country.
+| e. | It is believed that the film can spell the spectators. | | | |
+| f. | It is expected that the war is going to end soon. | | | |
+| g. | She is supposed to be married. | | | |
+| h. | I hate being kept waiting. | | | |
+| i. | She loves having her clothes praised. | | | |
+| j. | This road is not very often used. | | | |
+| k. | Ajima is never punished by teachers. | | | |
+| Writli. n  g MIIany accidents are caused by speeding. | | | | |
 A.  Imagine you are the headteacher of a school and your
 school has a vacancy for the post of Secondary Level English
 teacher. Write an advertisement for the post mentioning
-| 132     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 132 | | | | English 10 |
 the required academic qualification, experience, deadline
 and other necessary information.
 B. Study the following example of paraphrasing.
@@ -4063,87 +3118,73 @@ hobbies. Note down what careers they might choose. Then
 prepare a chart including those bits of information, and display
 it in the class.
 English 10 133
-
-https://importantedunotes.com/
 Extra bit
-| S.N. Idioms        |     | Meanings          |     | Examples              |     |
-| ------------------ | --- | ----------------- | --- | --------------------- | --- |
-| 1. Spill the beans |     | Revealing the     |     | Promise me that you   |     |
-|                    |     | secret or hidden  |     | will never spill the  |     |
-|                    |     | facts             |     | beans about it.       |     |
+| S.N. Idioms | | Meanings | | Examples | |
+| 1. Spill the beans | | Revealing the | | Promise me that you | |
+| | | secret or hidden  | | will never spill the  | |
+| | | facts | | beans about it. | |
 2. Pull someone’s leg To make fun of  Don't take it seriously.
-|     |     | someone |     | I was just pulling your  |     |
-| --- | --- | ------- | --- | ------------------------ | --- |
+| | | someone | | I was just pulling your  | |
 leg.
-| 3. Sit on the fence |     | Not to make a     |     | You can't sit on the  |     |
-| ------------------- | --- | ----------------- | --- | --------------------- | --- |
-|                     |     | decision or take  |     | fence. Now you tell   |     |
-|                     |     | a side when       |     | whom you support.     |     |
+| 3. Sit on the fence | | Not to make a | | You can't sit on the  | |
+| | | decision or take  | | fence. Now you tell | |
+| | | a side when | | whom you support. | |
 given options or
 possibilities
 4. Through thick and  Being faithful and  A true friend supports
-| thin               |     | loyal in all the    |     | you through thick and  |     |
-| ------------------ | --- | ------------------- | --- | ---------------------- | --- |
-|                    |     | circumstances       |     | thin.                  |     |
-| 5. Once in a blue  |     | An act that rarely  |     | They take us on tour   |     |
-| moon               |     | happens             |     | only once in a blue    |     |
+| thin | | loyal in all the | | you through thick and  | |
+| | | circumstances | | thin. | |
+| 5. Once in a blue  | | An act that rarely  | | They take us on tour | |
+| moon | | happens | | only once in a blue | |
 moon.
-| 6. Take it with a  |     | Not being very  |     | Please don't take the    |     |
-| ------------------ | --- | --------------- | --- | ------------------------ | --- |
-| pinch of salt      |     | serious about   |     | matter seriously. Take   |     |
-|                    |     | something       |     | it with a pinch of salt. |     |
-| 7. When Pigs fly   |     | Something       |     | I will live in the moon  |     |
-|                    |     | impossible to   |     | when pigs fly.           |     |
+| 6. Take it with a  | | Not being very  | | Please don't take the | |
+| pinch of salt | | serious about | | matter seriously. Take | |
+| | | something | | it with a pinch of salt. | |
+| 7. When Pigs fly | | Something | | I will live in the moon  | |
+| | | impossible to | | when pigs fly. | |
 happen
-| 8. Go down in flames |     | To fail miserably |     | Without proper  |     |
-| -------------------- | --- | ----------------- | --- | --------------- | --- |
+| 8. Go down in flames | | To fail miserably | | Without proper  | |
 actions, your dream
 will go down in
 flames.
-9. To cost an arm and  something is very  This house cost me an
-| a leg   |     | expensive |     | arm and a leg. |            |
-| ------- | --- | --------- | --- | -------------- | ---------- |
-| 134     |     |           |     |                | English 10 |
 
-https://importantedunotes.com/
-| 10. See eye to eye  | To accept or agree  | We have decided to       |
-| ------------------- | ------------------- | ------------------------ |
-|                     | with each other’s   | see eye to eye in key    |
-|                     | opinion             | issues.                  |
-| 11. A piece of cake | Something very      | Working in the foreign   |
-|                     | easy and simple to  | land was not a piece of  |
-|                     | do or perform       | cake for me.             |
-12. Beat around the  Avoiding the main  Don't beat around the
+## 9: To cost an arm and  something is very  This house cost me an  {#ch-9}
+
+| a leg | | expensive | | arm and a leg. | |
+| 134 | | | | | English 10 |
+| 10. See eye to eye  | To accept or agree  | We have decided to |
+| | with each other’s | see eye to eye in key |
+| | opinion | issues. |
+| 11. A piece of cake | Something very | Working in the foreign |
+| | easy and simple to  | land was not a piece of  |
+| | do or perform | cake for me. |
+
+## 12: Beat around the  Avoiding the main  Don't beat around the  {#ch-12}
+
 | bush | matter | bush. Try to come to  |
-| ---- | ------ | --------------------- |
 your point.
 13. Hit the sack Go to bed for sleep I am really tired. Now,
 let me hit the sack.
-| 14. Fit as a fiddle | Being in good  | Eating healthy food    |
-| ------------------- | -------------- | ---------------------- |
-|                     | health         | makes fit as a fiddle. |
-15. Straight from the  To the information  Did you get the news
+| 14. Fit as a fiddle | Being in good  | Eating healthy food |
+| | health | makes fit as a fiddle. |
+
+## 15: Straight from the  To the information  Did you get the news  {#ch-15}
+
 | horse’s mouth | directly from the  | straight from the  |
-| ------------- | ------------------ | ------------------ |
-|               | person’s mouth     | horse's mouth?     |
+| | person’s mouth | horse's mouth? |
 rather than from
 anyone else's
 mouth
-| 16. Action speaks  | What you do have   | As action speaks       |
-| ------------------ | ------------------ | ---------------------- |
+| 16. Action speaks  | What you do have | As action speaks |
 | louder than words  | a stronger effect  | louder than words, we  |
-|                    | than just talking  | should not just talk   |
-|                    | about it           | about helping others   |
+| | than just talking  | should not just talk |
+| | about it | about helping others |
 rather we must act.
-| 17. Bite off more than  | Taking more       | To please the manager,  |
-| ----------------------- | ----------------- | ----------------------- |
-| you can chew            | responsibilities  | I accepted to work so,  |
-|                         | than one can      | I bite off more than I  |
-|                         | manage            | can chew.               |
+| 17. Bite off more than  | Taking more | To please the manager,  |
+| you can chew | responsibilities  | I accepted to work so,  |
+| | than one can | I bite off more than I  |
+| | manage | can chew. |
 English 10  135
-
-https://importantedunotes.com/
-9
 History and Culture
 Getting started
 Look at the pictures. Talk about the historical and cultural
@@ -4153,8 +3194,6 @@ Look at the picture below and answer these questions.
 a. Who is the man in this statue?
 b. What do you know about him?
 136 English 10
-
-https://importantedunotes.com/
 Pratap Malla
 Pratap Malla was one of the most famous kings of
 Malla Dynasty. He constructed some magnificent
@@ -4189,8 +3228,6 @@ on himself the title of 'Kabeendra', a king of poets. Himself learned, Pratap
 Malla had a galaxy of learned men in his palace as the Mughal Emperor
 Akbar had. Like Akbar, he also respected and patronised the scholars of
 Ehinsg tliimshe 1. 0 137
-
-https://importantedunotes.com/
 Lambakarna Bhatta, who hailed from Maharastra, Nri Simha Thakur,
 from Bihar and Jamana Gurubhaju of Kantipur were some of the jewels
 in the galaxy of scholars in his palace. He was also very fond of music. So,
@@ -4212,7 +3249,7 @@ prosperity at home and no threats from outside. Trade with India and
 China made Nepal prosperous. Art and literature flourished. Kings of
 Bhaktapur, Lalitpur and other neighbouring kingdoms did not dare to
 inva(dSeo uKracnet:i Tpuher. History of Ancient and Medieval Nepal in a Nutshell with
-some Comparative Traces; by D. B. Shrestha and C. B. Singh)
+some Comparative Traces; by D. B. Shrestha and C. B. Singh
 A. Complete the following sentences with the correct words
 from the text.
 a. Queen Rajendra Laxmi ruled the country as a………….. because
@@ -4221,12 +3258,9 @@ b. Many buildings were ..……… as they were destroyed by the
 earthquake.
 c. Many temples had their ……….. made of gold.
 138 English 10
-
-https://importantedunotes.com/
 d. As the original trophy was stolen, they made the exact ………….
 of it.
 e. Madhav Prasad Ghimire was ………… the title 'Rastrakavi' in
-2003.
 f. The government ………… Jhamak Kumari Ghimire for her
 contribution to Nepali literature.
 g. The British soldiers tried to ………… Nepal but the brave Nepali
@@ -4253,36 +3287,29 @@ ii. Promotion of art and culture
 iii. Invasion of Kantipur
 iv. Presence of learned men at the palace
 English 10 139
-
-https://importantedunotes.com/
-C.   Answer these questions.
-| a.   | Name two countries that had trade with Kantipur. |     |     |     |
-| ---- | ------------------------------------------------ | --- | --- | --- |
-b.   How did Pratap Malla keep his kingdom safe from Lalitpur and
+C. Answer these questions.
+| a. | Name two countries that had trade with Kantipur. | | | |
+b. How did Pratap Malla keep his kingdom safe from Lalitpur and
 Bhaktapur?
-c.   Where did Pratap Malla place the image of Lord Hanuman?
+c. Where did Pratap Malla place the image of Lord Hanuman?
 Why?
-d.   Pratap Malla conferred himself with the title 'Kabeendra'. Do
+d. Pratap Malla conferred himself with the title 'Kabeendra'. Do
 you think this title suits him? Give reasons.
-e.   Pratap Malla used to invite the intellectuals at his palace. What
+e. Pratap Malla used to invite the intellectuals at his palace. What
 D.  Pratadpoe Ms tahlilsa i cnodnictartieb aubtoeudt  ahi lso pte tros oNneaplitayl ia cs ual ktuinrge? during his
 reign. Can you name some of them which still exist?
 Pronunciation
 Pronounce the following phrases with an apostrophe. Consult
 a dictionary or your teacher. Then, put the words in the right
 columns.
-| Dick's h/osu/se       | Luna's pe/tz/ |                          | Ramesh's p/hizo/ne |                   |
-| --------------------- | ------------- | ------------------------ | ------------------ | ----------------- |
-| Lisa's essay          |               | Nepal's border           |                    | my brother's book |
-| children's shoes      |               | the aircraft's black box |                    | a week's work     |
-| Thomas's job          |               | the bus's arrival        |                    | James's office    |
-| the girls' excitement |               | my parents' wedding      |                    | the ladies' room  |
-| Socrates' philosophy  |               | Ulysses' friends         |                    | coach's decision  |
+| Dick's h/osu/se | Luna's pe/tz/ | | Ramesh's p/hizo/ne | |
+| Lisa's essay | | Nepal's border | | my brother's book |
+| children's shoes | | the aircraft's black box | | a week's work |
+| Thomas's job | | the bus's arrival | | James's office |
+| the girls' excitement | | my parents' wedding | | the ladies' room  |
+| Socrates' philosophy  | | Ulysses' friends | | coach's decision  |
 princess's necklace
-| 140     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 140 | | | | English 10 |
 Speaking
 A. Study how Aleena narrates the activities of her winter
 holidays.
@@ -4310,48 +3337,36 @@ Where you were invited
 Why the party was organised
 Anything you offered or received.
 English 10 141
-
-https://importantedunotes.com/
 Grammar I
 A.  Find the second part of each sentence. Then, change each
 verb into the correct form.
-| a. The alarm (go) |     |     | i. Brinda (reply) her. |     |
-| ----------------- | --- | --- | ---------------------- | --- |
+| a. The alarm (go) | | | i. Brinda (reply) her. | |
 b. As soon as the teacher (ask) the  ii. while Trishna (sleep).
 question
-| c. I (do) my homework |     |     | iii. we (see) the sun shining  |     |
-| --------------------- | --- | --- | ------------------------------ | --- |
+| c. I (do) my homework | | | iii. we (see) the sun shining  | |
 brightly.
-| d. When the doors (open) |     |     | iv. when the telephone (ring).   |     |
-| ------------------------ | --- | --- | -------------------------------- | --- |
-| e. When we (wake)        |     |     | v. the audience (rush) into the  |     |
+| d. When the doors (open) | | | iv. when the telephone (ring). | |
+| e. When we (wake) | | | v. the audience (rush) into the  | |
 B.  Complete the sentences. Write in tshtead cioumrr.ect forms of each
 verbs.
-| a.   | When I ……………….. (arrive) home, my dad ……………………….  |     |     |     |
-| ---- | ------------------------------------------------- | --- | --- | --- |
-(prepare) snacks for me.
-b.   That day, when we ………….. (leave) home, the sky ……………. (be)
+| a. | When I ……………….. (arrive) home, my dad ……………………….  | | | |
+prepare) snacks for me.
+b. That day, when we ………….. (leave) home, the sky ……………. (be
 overcast and it ………….. (drizzle).
-| c.   | Last week, we …………………….. (book) a hotel online.   |     |     |     |
-| ---- | ------------------------------------------------- | --- | --- | --- |
+| c. | Last week, we …………………….. (book) a hotel online. | | | |
 The hotel …………….. (be) really wonderful. The staff
 ……………………….. (stand) at the gate to welcome us when we
 ……………… (reach) there.
-| d.   | ……………… (the children/sleep) when you ………………. (reach)  |     |     |     |
-| ---- | ----------------------------------------------------- | --- | --- | --- |
+| d. | ……………… (the children/sleep) when you ………………. (reach)  | | | |
 home that night?
-| e.   | Something very strange …………………….. (happen) on my way  |     |     |     |
-| ---- | ----------------------------------------------------- | --- | --- | --- |
+| e. | Something very strange …………………….. (happen) on my way  | | | |
 home yesterday. I ……………….. (walk) along the way. Suddenly, I
 ………………. (see) my grandfather following me. But he had died
 a year ago.
-f.   We ………………….. (travel) to Chitwan when the police stopped
+f. We ………………….. (travel) to Chitwan when the police stopped
 us on the way. According to them, there ………….. (be) a bomb
 there. So, we ……………….. (have) to wait for an hour.
-| 142     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 142 | | | | English 10 |
 C. Make sentences using the words given in the brackets.
 Use the correct forms of the verbs: simple past or past
 continuous.
@@ -4372,25 +3387,16 @@ A. Study the events below. These are the major events that
 happened in the history of Nepal from 2017 B.S. to 2046
 B.S. Write a couple of paragraphs about Nepal's journey
 from Panchayat to Multiparty Democracy.
-st
 1 Poush, 2017 - King Mahendra dismissed the elected government,
 suspended parliament, imprisoned the Prime Minister, Ministers,
 banned political parties and activities, seized all power
-nd
 22 Poush, 2017 - King Mahendra announced the partyless autocratic
 Panchayat System
-th
 10 Jestha, 2036 - announcement of Referendum
-th
 20 Baishak, 2037 - the election of referendum took place
-th
 10 Jestha, 2042 - non-violent civil disobedience movement
-th
 7 Falgun, 2046 - the mass movement formally started
-th
 Englis2h6 1 0C haitra, 2046 - restoration of multiparty system 143
-
-https://importantedunotes.com/
 B. Some people think studying history is just a waste of time
 while others think that it is essential. What do you think of
 these ideas? Write your opinion in about 200 words.
@@ -4422,8 +3428,6 @@ These badges gained widespread
 popularity and became a symbol
 of resistance against the Russian Provisional Government.
 144 English 10
-
-https://importantedunotes.com/
 Contrasting to the victorious symbols of red
 carnations, white carnations represent bad
 omens. The washed-out petals are believed to
@@ -4459,26 +3463,8 @@ in treating fatal diseases from cancer to diabetes.
 A lesser-known belief suggests that the chamomile is a mosquito and
 fly repellent – another protective quality beyond that of fatal diseases.
 Throwing a bunch of these white and yellow flowers into a fire is believed
-t
-E
-o
 n g
-d
-l
-e
-i
-t
-s
-e
-h
-r
-1
-ir
-0
 r itating insects.
-145
-
-https://importantedunotes.com/
 Among women, chamomile holds
 a fortune-telling function. The self-
 murmured pattern of ‘he loves me,
@@ -4509,8 +3495,6 @@ special fragrant oils ………
 h. causing to be kept away ………
 i. to be a sign of something that will happen in the future …
 146 English 10
-
-https://importantedunotes.com/
 B. Words like gift-giving, heartwarming, cardboard, etc., are
 compund words. Make a list of such compound words from
 the text.
@@ -4540,43 +3524,34 @@ c. What determines the selection of flowers for gifting in Russia?
 d. Which event in Russian history is reflected by the red
 carnation?
 English 10 147
-
-https://importantedunotes.com/
-e.   Does a Russian like to keep a white carnation under his/her
+e. Does a Russian like to keep a white carnation under his/her
 pillow? Why?
-f.   What's the reason for connecting the red puppy with fragile
+f. What's the reason for connecting the red puppy with fragile
 love?
-g.   What makes the Russian people eat red puppy seeds in their
+g. What makes the Russian people eat red puppy seeds in their
 wedding?
-| h.   | Do you prefer to grow chamomile in your garden? Why? |     |     |     |
-| ---- | ---------------------------------------------------- | --- | --- | --- |
-| i.   | What colour is chamomile?                            |     |     |     |
-j.   Write the names of two flowers used for fortune telling.
+| h. | Do you prefer to grow chamomile in your garden? Why? | | | |
+| i. | What colour is chamomile? | | | |
+j. Write the names of two flowers used for fortune telling.
 E.	 Dk. o 	yWouh	ikchn foloww	oert hise mr	ofslotlwy uesresd	t ihna Rtu	assriea	nc womedmdionngsl?y	used	for
 gifting?	Write	the	names	of	those	flowers	and	the	occasions
 on which they are gifted.
 Listening
-A.   Look at the picture and answer these questions.
-| a.   | What do you see in the logo? |     |     |     |
-| ---- | ---------------------------- | --- | --- | --- |
-| b.   | What do you think this logo  |     |     |     |
+A. Look at the picture and answer these questions.
+| a. | What do you see in the logo? | | | |
+| b. | What do you think this logo  | | | |
 represents?
 B.  Listen to the audio and complete the following sentences.
-| a.   | The Queen's Windsor Castle is being protected by the  |     |     |     |
-| ---- | ----------------------------------------------------- | --- | --- | --- |
+| a. | The Queen's Windsor Castle is being protected by the  | | | |
 ……………….. soldiers.
-b.   The Gurkhas began to work in the British Crown…………. ago.
-c.   The soldiers have been preparing to take their duty in the month
+b. The Gurkhas began to work in the British Crown…………. ago.
+c. The soldiers have been preparing to take their duty in the month
 of ……………….
-| d.   | Drill is all about putting everyone into ………………….       |     |     |     |
-| ---- | ------------------------------------------------------- | --- | --- | --- |
-| e.   | The soldiers are in training for ………………. weeks.         |     |     |     |
-| f.   | This is the …………………… time the Gurkhas are guarding the  |     |     |     |
+| d. | Drill is all about putting everyone into …………………. | | | |
+| e. | The soldiers are in training for ………………. weeks. | | | |
+| f. | This is the …………………… time the Gurkhas are guarding the  | | | |
 Buckingham Palace.
-| 148     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 148 | | | | English 10 |
 C. Listen to the audio again and answer these questions.
 a. When did Gorkhas begin to guard the Queen?
 b. Name two places which are guarded by the Gurkhas.
@@ -4588,22 +3563,20 @@ serving in the army? Share in the class.
 Grammar II
 A. Complete the following sentences with the correct forms of
 the verbs in the brackets.
-a. The children ……….. five minutes ago. (arrive)
+a. The children ……….. five minutes ago. (arrive
 b. Ramchandra ……….. the ticket before he went to the cinema.
-(buy)
+buy
 c. Alexander ……….. one-fourth of the world before he was thirty.
-(conquer)
-d. When she came out of the airport, nobody …… ….. for her. (wait)
+conquer
+d. When she came out of the airport, nobody …… ….. for her. (wait
 e. I found a thousand rupee note in my pants pocket while I ………….
-it. (wash)
-f. Somebody ………… at my door while I was taking a rest. (knock)
+it. (wash
+f. Somebody ………… at my door while I was taking a rest. (knock
 g. Every year, he ………… some money which he spent to buy a new
-house. (save)
-h. I ……….. my breakfast before I went to work. (have)
-i. The train ……..… before we reached the station. (leave)
+house. (save
+h. I ……….. my breakfast before I went to work. (have
+i. The train ……..… before we reached the station. (leave
 English 10 149
-
-https://importantedunotes.com/
 B. Complete the story below with the correct form of the verbs
 given in the brackets.
 A young lady …….. (enter) a shop in Birendranagar, Surkhet. She
@@ -4612,8 +3585,8 @@ time when not many people ……… (be) there in the street. She
 ……… (wait) for the moment when no one else would see her
 running away. When the shopkeeper ………(check) the goods, she
 gave him a thousand-rupee note. As soon as the shopkeeper ………
-(open) the box, she………(snatch) all the money from it. Meanwhile,
-she……… (run) out of the shop before the shopkeeper ……… (realise)
+open) the box, she………(snatch) all the money from it. Meanwhile,
+she……… (run) out of the shop before the shopkeeper ……… (realise
 what ………(happen). When the shopkeeper ……… (check) the amount
 in the box, he……… (find) that the thief ……… (take) only Rs. 450. As
 the thief ……… (leave) a thousand-rupee note behind, the operation
@@ -4633,31 +3606,25 @@ Collect information about one of the famous kings of Nepal.
 Then, write the major events that took place during his reign.
 Display the events in a timeline on a chart paper.
 150 English 10
-
-https://importantedunotes.com/
 Extra bit
 Some loanwords used in the English language
-|           | Original  |              | Original   |
-| --------- | --------- | ------------ | ---------- |
-| Word      |           | Word         |            |
-|           | language  |              | language   |
-| anonymous | Greek     | cigar        | Spanish    |
-| loot      | Hindi     | cookie       | Dutch      |
-| safari    | Arabic    | metropolis   | Greek      |
-| lemon     | Arabic    | avatar       | Sanskrit   |
-| ketchup   | Chinese   | entrepreneur | French     |
-| utensil   | French    | catalogue    | French     |
-| justice   | French    | massage      | Portuguese |
-| vigilante | Spanish   | pizza        | Italian    |
-| language  | Latin     | noodle       | German     |
-| alcohol   | Japanese  | karma        | Sanskrit   |
-| amen      | Hebrew    | chess        | Persian    |
-| bungalow  | Urdu      | boycott      | Irish      |
-| husband   | Norwegian | zombie       | African    |
+| | Original  | | Original |
+| Word | | Word | |
+| | language  | | language |
+| anonymous | Greek | cigar | Spanish |
+| loot | Hindi | cookie | Dutch |
+| safari | Arabic | metropolis | Greek |
+| lemon | Arabic | avatar | Sanskrit |
+| ketchup | Chinese | entrepreneur | French |
+| utensil | French | catalogue | French |
+| justice | French | massage | Portuguese |
+| vigilante | Spanish | pizza | Italian |
+| language  | Latin | noodle | German |
+| alcohol | Japanese  | karma | Sanskrit |
+| amen | Hebrew | chess | Persian |
+| bungalow  | Urdu | boycott | Irish |
+| husband | Norwegian | zombie | African |
 English 10  151
-
-https://importantedunotes.com/
-10
 Games and Sports
 Getting started
 What activities are shown in the pictures below? Talk about
@@ -4667,8 +3634,6 @@ Look at the pictures below and answer the questions.
 a. What objects can you see in the pictures?
 b. What do they represent?
 152 English 10
-
-https://importantedunotes.com/
 The First Olympic Games
 In ancient Greece, there lived a man called
 Tantalus. He was half man and half god. His father
@@ -4704,8 +3669,6 @@ man. "If you want to marry the princess, you have to run a chariot race
 against the old king. If you win, you get the princess and the kingdom. If
 you lose, you get your head chopped off. So far, twelve people have lost."
 E"In wgloisnh't 1lo0s e," said Pelops. "My horses can run faster than the wind." "1B5u3t
-
-https://importantedunotes.com/
 the king's can run faster than lightning," warned the old man. "I am not
 afraid," said Pelops. He thanked the old man and started off.
 After many hours he reached the palace and wished to see the king.
@@ -4742,27 +3705,9 @@ marry Hippodamia and rule the kingdom. But Pelops and Hippodamia
 were very sad that the old king had died. He had not really been a mean
 king, you see. It's just that he had loved his daughter so much he didn't
 want to give her away in marriage. So, before their wedding, Pelops and
-H
-15
-ip
-4
 p od amia decide d to ha ve a g reat fu neral f east in honor o
-E
-f
-n
-th
-gl
-e
 i s
-k
-h
 i n
-1
-g
-0
-.
-
-https://importantedunotes.com/
 They invited heroes from all over Greece to take part in athletic games
 and races, in memory of the king's great chariot race. Pelops decreed that
 such games should be held every four years, till the end of time. And since
@@ -4785,61 +3730,49 @@ years athletes from all over the world come together to compete in a spirit
 of peace and friendship. The games are held in different countries, and
 an Olympic flame is always kept burning in the stadium until the games
 have ended. This flame is lit from the rays of the sun on the Olympic fields
-(Adapted from: The First Olympic Games: A Gruesome Greek Myth With
+Adapted from: The First Olympic Games: A Gruesome Greek Myth With
 in Greece.
-a Happy Ending by Richards, Jean and Thacker, Kat)
+a Happy Ending by Richards, Jean and Thacker, Kat
 English 10 155
-
-https://importantedunotes.com/
 A.  Complete the sentences with the words given below.
-| exquisite | inherited                                   | underworld |     | embroidered | stew |
-| --------- | ------------------------------------------- | ---------- | --- | ----------- | ---- |
-| decreed   | mounted                                     | rejoicing  |     | furious     | lush |
-| a.        | We are having .............for lunch today. |            |     |             |      |
-b.   The demon was sent to the ...........for his disobedience to the
+| exquisite | inherited | underworld | | embroidered | stew |
+| decreed | mounted | rejoicing  | | furious | lush |
+| a. | We are having .............for lunch today. | | | | |
+b. The demon was sent to the ...........for his disobedience to the
 gods.
-| c.   | The sleeves of his coat were ...........in gold. |     |     |     |     |
-| ---- | ------------------------------------------------ | --- | --- | --- | --- |
-d.   Smita was absolutely .......... at having been cheated.
-| e.   | Her wedding dress was absolutely ................... |     |     |     |     |
-| ---- | ---------------------------------------------------- | --- | --- | --- | --- |
-f.   The prince ............. the kingship after his father's death.
-g.   There was a great ...........when the Nepali Football Team won
+| c. | The sleeves of his coat were ...........in gold. | | | | |
+d. Smita was absolutely .......... at having been cheated.
+| e. | Her wedding dress was absolutely ................... | | | | |
+f. The prince ............. the kingship after his father's death.
+g. There was a great ...........when the Nepali Football Team won
 SAFF U-19 championship.
-h.   The king .............his horse and rode away from the palace.
-i.   The government ............that the following day would be a holiday
+h. The king .............his horse and rode away from the palace.
+i. The government ............that the following day would be a holiday
 on the occasion of Eid.
 B.  Wj.  riteIt  iwf aths ew foonldloerwfuiln tgo  ssptaetnedm a wenetesk  ainr eth ter..u...e...,. .f. aglrseeen o cro nuonttr gyisvideen.
 based on the information given in the text.
-
-| a.   | Tantalus's father Zeus was also half god and half man.  |     |     |     |     |
-| ---- | ------------------------------------------------------- | --- | --- | --- | --- |
-| b.   | Tantalus wanted to take revenge with the gods.          |     |     |     |     |
-| c.   | The gods revived Pelops to rule in Elis.                |     |     |     |     |
-d.   Princess Hippodamia was impressed with Pelops at the first
+| a. | Tantalus's father Zeus was also half god and half man.  | | | | |
+| b. | Tantalus wanted to take revenge with the gods. | | | | |
+| c. | The gods revived Pelops to rule in Elis. | | | | |
+d. Princess Hippodamia was impressed with Pelops at the first
 sight.
-e.   Hippodamia wanted to kill the king so that she could inherit
+e. Hippodamia wanted to kill the king so that she could inherit
 the kingdom.
-f.   The Olympic Games were not held for about 1,500 years due
+f. The Olympic Games were not held for about 1,500 years due
 to the fear of the earthquake.
-g.   In every Olympic Games the torch is carried from Greece.
-| 156     |     |     |     |     | English 10 |
-| ------- | --- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
-C.   Answer these questions.
-| a.   | Who was Tantalus?                       |     |     |     |
-| ---- | --------------------------------------- | --- | --- | --- |
-| b.   | Why were the gods angry with him?       |     |     |     |
-| c.   | What punishment did gods give Tantalus? |     |     |     |
-d.   What special qualities did the horses of the king and Pelops
+g. In every Olympic Games the torch is carried from Greece.
+| 156 | | | | | English 10 |
+C. Answer these questions.
+| a. | Who was Tantalus? | | | |
+| b. | Why were the gods angry with him? | | | |
+| c. | What punishment did gods give Tantalus? | | | |
+d. What special qualities did the horses of the king and Pelops
 have?
-| e.   | What was the risk of proposing princess Hippodamia? |     |     |     |
-| ---- | --------------------------------------------------- | --- | --- | --- |
-| f.   | How did the stable boy help Pelops win the race?    |     |     |     |
-| g.   | How did the king die?                               |     |     |     |
-| h.   | Why did Pelops and Hippodamia organise a feast?     |     |     |     |
-i.   How did the events of the feast become the origin of modern
+| e. | What was the risk of proposing princess Hippodamia? | | | |
+| f. | How did the stable boy help Pelops win the race? | | | |
+| g. | How did the king die? | | | |
+| h. | Why did Pelops and Hippodamia organise a feast? | | | |
+i. How did the events of the feast become the origin of modern
 Olympic Games?
 D.	 Wj.  haHt	iosw	t hise t	shieg Onliyfmicpainc cteo	rocfh	t lhite?	Olympic	Games	in	the	world
 today? Discuss.
@@ -4847,27 +3780,22 @@ Pronunciation
 Consult	a	dictionary	and	find	the	number	of	syllables	and	also
 the stressed syllables in the following words. Then pronounce
 them correctly.
-| invitation      | embroidered | exquisite      | furious  | inherit    |
-| --------------- | ----------- | -------------- | -------- | ---------- |
-| princess        | beautiful   | carefully      | marriage | earthquake |
-| Ssptaedaiukming | Olympic     | archaeologists |          |            |
+| invitation | embroidered | exquisite | furious  | inherit |
+| princess | beautiful | carefully | marriage | earthquake |
+| Ssptaedaiukming | Olympic | archaeologists | | |
 A.  Wok in pairs. Ask what activities people have done recently
 and answer using the given clues.
 Example:
-|     | A: Which place has Kathy recently visited? |     |     |     |
-| --- | ------------------------------------------ | --- | --- | --- |
-|     | B: She has visited London.                 |     |     |     |
+| | A: Which place has Kathy recently visited? | | | |
+| | B: She has visited London. | | | |
 English 10  157
-
-https://importantedunotes.com/
-| a.   | Shovan/ paint/ house         |     |     |     |
-| ---- | ---------------------------- | --- | --- | --- |
-| b.   | Sarmistha/ watch/ a movie    |     |     |     |
-| c.   | Lakpa/ scale/Mt. Annapurna   |     |     |     |
-| d.   | Srijana/ plant/ potato       |     |     |     |
-| e.   | Swikriti/release/new song    |     |     |     |
-| f.   | Nandita/ take/ driving test  |     |     |     |
-B.   Ag.s  k tAhsrheoek /o vfi syito/u grr afnrdiepnadresn twshat they have recently done.
+| a. | Shovan/ paint/ house | | | |
+| b. | Sarmistha/ watch/ a movie | | | |
+| c. | Lakpa/ scale/Mt. Annapurna | | | |
+| d. | Srijana/ plant/ potato | | | |
+| e. | Swikriti/release/new song | | | |
+| f. | Nandita/ take/ driving test  | | | |
+B. Ag.s  k tAhsrheoek /o vfi syito/u grr afnrdiepnadresn twshat they have recently done.
 Keep notes of their work and tell it to the class.
 Example:
 Krisha has recently visited a library in her community.
@@ -4890,10 +3818,7 @@ grandparents. Please have a great time. We will have a great fun back
 at school.
 With love,
 Nirjala
-| 158     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 158 | | | | English 10 |
 B. Complete the sentences below with present perfect or
 present perfect continuous tense of the verbs given in the
 brackets.
@@ -4901,16 +3826,16 @@ a. Siddhartha ......... (learn) to drive just in ten years!
 b. It ......... (rain) all the summer. There are floods and landslides
 in many places.
 c. Palden: You must have finished the book. I think you ...............
-(read) it since last week.
+read) it since last week.
 Ricky: No, I .......... (not/finish) it yet. Actually, I started it just
 yesterday.
 d. What ........... (you/cook) for so long?
 e. You ........ (promise) to help me many times. You really need to
 help me today.
-f. The children have their exams next week. So they.......... (prepare)
+f. The children have their exams next week. So they.......... (prepare
 a lot.
 g. The film is really wonderful. ......... (you/watch) it yet?
-h. Sitaram .............. (paint) his house all day. He .......... (not/finish)
+h. Sitaram .............. (paint) his house all day. He .......... (not/finish
 it yet.
 i. Finally they........... (fix) the leakage in their roof.
 j. I am so tired now. I ............. (work) hard lately.
@@ -4925,8 +3850,6 @@ Manchester United Club. Then he was recognised
 in Spain while playing for Real Madrid. He is
 considered a valuable player in the team because
 English 10 159
-
-https://importantedunotes.com/
 of his skills to take dangerous free kicks, range of passing to long
 distances and crossing ability. He is not only a skillful and talented
 player but an incredible leader as well. As a captain of the national
@@ -4957,11 +3880,8 @@ inspired by extraordinary human beings who
 are able to perform tremendous athletic feats. Here is a brief discussion
 of the most popular sports in the world.
 160 English 10
-
-https://importantedunotes.com/
 Football, better known as soccer in the US and Canada, is the most popular
 sport in the world, with an estimated four billion fans. The origins of
-th
 football as we know it are in England in the 19 century, though history
 points to people playing similar games as far back as two thousand years,
 beginning in China. One reason for football’s popularity is that unlike other
@@ -4995,15 +3915,11 @@ and Western Europe but also in Asia, Australia, and South America. One
 popular variant of the game, known as beach volleyball, is played on sand
 with two people on each team, as opposed to regular volleyball, where
 tEhnegrleis ahr 1e 0n ormally six players on each team. 161
-
-https://importantedunotes.com/
 Also known as Ping Pong, table tennis originated in England in the early
-th
 20 century, the game is now popular worldwide, with an estimated
 following of 875 million. It is especially popular in Asia, but is also followed
 in Europe, Africa, and the Americas.
 Invented by James Naismith, a Canadian teaching at a school in the US
-th
 in the late 19 century, basketball is now played worldwide, and has an
 estimated following of 825 million. In basketball, two teams attempt to
 dribble a ball up a court and shoot it into a raised, hoop- shaped net to
@@ -5026,16 +3942,13 @@ football. But American football players wear a lot of padding and hard
 helmets to protect themselves, rugby players wear very little protection.
 An estimated 450 million people are fans of the game that involves
 trying to put a small ball in a hole with the fewest strokes possible. Golf
-th
 originated in Scotland in the 15 century. Interestingly, however, the word
 golf originated in the Netherlands, from the word “kolf” or “kolve,” which
 translates to "club." Golf is particularly popular in Western Europe, East
-(https://www.worldatlas.com/articles/what-are-the-most-popular-
+https://www.worldatlas.com/articles/what-are-the-most-popular-
 Asia, and North America.
-sports-in-the-world.html)
+sports-in-the-world.html
 162 English 10
-
-https://importantedunotes.com/
 A. Fill in the crossword puzzle with the correct words from
 the text.
 ACROSS
@@ -5043,12 +3956,6 @@ ACROSS
 4. existing for longer than people can remember; very old
 6. possible to approach, enter, or use
 9. long and th1in, 2often in a way that is unusual
-3
-4 5
-6
-7
-8
-9
 DOWN
 2. a British game by two teams using a bat and ball
 3. connected with activities that people do for pleasure when they are
@@ -5057,11 +3964,7 @@ not working
 7. a large pile of earth or stones; a small hill
 8. showing or feeling respect and slight fear
 English 10 163
-
-https://importantedunotes.com/
 B. Write the names of the sports shown in the pictures below.
-......................... ......................... .........................
-......................... ......................... .........................
 C. Choose the correct alternatives and answer the questions.
 a. Which two games are popular in the world for their cheap
 equipment?
@@ -5073,8 +3976,6 @@ i. Canada, America and Africa
 ii. UK, American and Australia
 iii. India, Pakistan and Australia
 164 English 10
-
-https://importantedunotes.com/
 c. What is the significant difference between regular volleyball
 and beach volleyball?
 i. the number of teams
@@ -5100,8 +4001,6 @@ e. Who originated basketball and when?
 E. Rf. a nkW thhaet rgiaskm ies sin mvoelvnetdio inn erudg ibny ?the text above in the order
 of your preferences.
 English 10 165
-
-https://importantedunotes.com/
 Listening
 A. Answer the following questions.
 a. Name any two most popular
@@ -5132,8 +4031,6 @@ D. When did you last watch a football tournament? Share it
 e. Three countries had participated in the tournament.
 with the class.
 166 English 10
-
-https://importantedunotes.com/
 Grammar II
 A. Complete the text below with the correct alternatives from
 brackets.
@@ -5142,8 +4039,8 @@ is wanted, was wanted) to
 buy an ass went to market.
 Coming across a likely-
 looking beast, he .........
-(was arranged, arranged,
-had been arranged)
+was arranged, arranged,
+had been arranged
 with the owner that he
 should....... (allowed, be
 allowed, was allowing) to
@@ -5156,51 +4053,47 @@ master .....(saw, was seen, had been seen) this, he put a halter on him at
 once, and .........(led, was lead, was leading) him off and .............(handed, was
 handed, will be handed) him over to his owner. The latter.......(surprised,
 was surprising, was surprised) to see him back so soon. He inquired, "Why,
-do you mean to say you..........(have tested, have been tested, was tested)
+do you mean to say you..........(have tested, have been tested, was tested
 him already?" "I don't want to put him through any more tests," replied
 the other. "I .....(could see, could be seen, could have seen) what sort of
 bBe. astC, hoem isp flreotme t thhee sceonmtpeanncioens bhee lcohwos we ifothr hthime sceolfr."rect alternatives
 from brackets.
-a. People always ……….. (are admired, admire, are being admired)
+a. People always ……….. (are admired, admire, are being admired
 this picture.
 b. His leg was hurt in the accident. This is to say: He ……….. (hurts
 his leg, is hurt his leg, hurt his leg) in the accident.
 English 10 167
-
-https://importantedunotes.com/
 c. Some people dress their children very badly. The passive form
 of the sentence is: (Their children are very badly dressed, Their
-children dress very badly, There are very badly dressed)
+children dress very badly, There are very badly dressed
 d. Two of my dinner plates have been broken. That means ………..
-(someone broke two of my dinner plates, two of my dinner
+someone broke two of my dinner plates, two of my dinner
 plates have broken, someone has broken two of my dinner
-plates)
+plates
 e. They will forget this story in few years. This story ……….. (will
 forget, will be forgotten, will have been forgotten) in few years.
 f. You must answer all the questions. All the questions……….. (must
 be answered, must answer, must answered).
 g. The packet of biscuits has been eaten by the boys. This is to
 say……….. the packet of biscuits. (the boys ate, the boys have
-eaten, the boys had eaten)
+eaten, the boys had eaten
 h. The bridge was built last year. The active voice of the statement
 is ……………… (the bridge built last year, people built the bridge
-last year, the people have built the bridge last year)
+last year, the people have built the bridge last year
 i. The field is being ploughed by the farmers. The farmers……………..
-(plough the field, are ploughing the field, will plough the field)
+plough the field, are ploughing the field, will plough the field
 j. How is a tiger trapped? The active voice of the statement is:
 ……………..? (How does a tiger trap, How are people trap a tiger,
-How do people trap a tiger)
+How do people trap a tiger
 k. ‘The teacher will help us.’ This statement has a passive voice
 as …………….. (we will be helped, the teacher will be helped, we
-will help the teacher)
+will help the teacher
 l. ‘The tiger should be preserved’ is the passive voice of ……………..
-(the tiger should preserve, we should preserve the tiger, people
-should be preserved)
+the tiger should preserve, we should preserve the tiger, people
+should be preserved
 m. The bird has built a nest. It means …………….. (a nest has built,
 a nest has been build, a nest has been built) by the bird.
 168 English 10
-
-https://importantedunotes.com/
 C. Change the sentences below into passive voice.
 a. People could hear the noise of explosion from a distance.
 b. We ought to break down the building before it collapses.
@@ -5214,7 +4107,6 @@ h. I didn't notice that you were recording the class.
 i. Does he always sing songs in the party?
 j. She will draw the painting beautifully.
 k. Let the mechanic repair my bike.
-th
 l. People believe that the Mahabharata was fought in the 10
 century BCE.
 Writing II
@@ -5231,8 +4123,6 @@ Find information about a sport that you like the most. Then
 prepare a pamphlet about it. Include pictures, drawings and
 illustrations in the pamphlet. Present your project in the class.
 English 10 169
-
-https://importantedunotes.com/
 Extra bit
 Facts about the English Language
 The English language is widely spoken around the world. It is the primary
@@ -5241,11 +4131,8 @@ and various Caribbean and Pacific Island nations, also an official language
 of India, the Philippines, and many sub- Saharan African countries. It
 is one of the most widely spoken languages in the world, and the most
 widely taught foreign language. Its history began with the migration of
-th
 Jutes, Angles, and Saxons from Germany and Denmark to Britain in the 5
-th
 and 6 centuries. The Norman Conquest of 1066 brought many French
-th
 words into English. Greek and Latin words began to enter it in the 15
 century, and Modern English is usually dated from 1500.
 English easily borrows words from other languages and has coined
@@ -5271,9 +4158,6 @@ cookie, gin
 9 Japanese kimono, sushi, tsunami, kamikaze
 10 Arabic alcohol, algebra, zero, zenith, giraffe, sultan
 170 English 10
-
-https://importantedunotes.com/
-11
 Ethics and Morality
 Getting started
 Look at the poster and talk about the qualities required to
@@ -5281,10 +4165,8 @@ succeed.
 honesty
 integrity responsibility
 Ethics
-for
 Success
 trust
-and
 punctuality respect
 leadership
 Reading I
@@ -5293,8 +4175,6 @@ a. What do you think the
 people are doing?
 b. Is it good or bad? Why?
 English 10 171
-
-https://importantedunotes.com/
 Wisdom of Little Girls
 It was an early Easter. Sledging was
 only just over; snow still lay in the
@@ -5327,8 +4207,6 @@ were Akoulya's eyes and nose. When she saw the stains on her frock, she
 was angry and ran after Malasha to strike her. Malasha was frightened,
 and seeing that she had got herself into trouble, she scrambled out of the
 172 English 10
-
-https://importantedunotes.com/
 puddle, and prepared to run home. Just then Akoulya's mother happened
 to be passing, and seeing that her daughter's skirt was splashed, and her
 sleeves dirty, she said:
@@ -5362,8 +4240,6 @@ Highly delighted, and watching the chip float along on their stream, the
 little girls ran straight into the group of men; and the old woman, seeing
 them, said to the men:
 English 10 173
-
-https://importantedunotes.com/
 'Are you not ashamed of yourselves? To go fighting on account of these
 lassies, when they themselves have forgotten all about it, and are playing
 happily together. Dear little souls! They are wiser than you!'
@@ -5391,8 +4267,6 @@ a. The two little girls were dressed in new frocks probably
 because ..................
 i. they were twins.
 174 English 10
-
-https://importantedunotes.com/
 ii. they had to go to church.
 iii. they went to the same school.
 b. When Malasha was going to splash into the puddle, ............
@@ -5419,42 +4293,32 @@ C. Answiiei. r thweesree pqruoeusdt oiof nthse.ir deed
 a. How were the girls dressed?
 b. Where did the girls begin to play?
 English 10 175
-
-https://importantedunotes.com/
-| c.    | Why did Akoulya get angry with Malasha? |     |     |     |
-| ----- | --------------------------------------- | --- | --- | --- |
-| d.    | Why did the crowd gather in the street? |     |     |     |
-e.   How did Akoulya's grandmother try to calm down the crowd?
-| f.    | Why are the girls called wiser than men? |     |     |     |
-| ----- | ---------------------------------------- | --- | --- | --- |
-D.  Rg.e   meWmhabte lre sas soinm diol ayro uk ilneadr no ff rinomci dtheen stt tohrya?t happened during
+| c. | Why did Akoulya get angry with Malasha? | | | |
+| d. | Why did the crowd gather in the street? | | | |
+e. How did Akoulya's grandmother try to calm down the crowd?
+| f. | Why are the girls called wiser than men? | | | |
+D.  Rg.e meWmhabte lre sas soinm diol ayro uk ilneadr no ff rinomci dtheen stt tohrya?t happened during
 your childhood and share it in the class.
 Pronunciation
-A.   In English, all words in a sentence are not equally stressed.
+A. In English, all words in a sentence are not equally stressed.
 This creates a special rhythm in spoken English. Study
 how the important words are stressed in the following
 sentences.
-| a.    | The 'man was 'happy to re'ceive the 'gift.  |     |     |     |
-| ----- | ------------------------------------------- | --- | --- | --- |
-| b.    | I 'want you to 'start the 'party.           |     |     |     |
-| c.    | I 'didn’t 'mean 'that.                      |     |     |     |
-| d.    | 'Where did he be'gin his 'schooling?        |     |     |     |
+| a. | The 'man was 'happy to re'ceive the 'gift.  | | | |
+| b. | I 'want you to 'start the 'party. | | | |
+| c. | I 'didn’t 'mean 'that. | | | |
+| d. | 'Where did he be'gin his 'schooling? | | | |
 B.  Me.  a rk'W shtarte dsisde ydou s 'ydlol a'ybesletesr dwayi?th a stress mark (') in the
 following sentences to show sentence stress.
-| a.  | Have a seat, please. |     |     |     |
-| --- | -------------------- | --- | --- | --- |
-b.   The story was interesting, but it did not contain enough
+| a.  | Have a seat, please. | | | |
+b. The story was interesting, but it did not contain enough
 messages.
-| c.    | Would you like a cold drink?                        |     |     |     |
-| ----- | --------------------------------------------------- | --- | --- | --- |
-| d.    | What did you tell her this morning?                 |     |     |     |
-| e.    | Don’t take it so easy. He won’t give up so quickly. |     |     |     |
-f.    Most people are fully aware that motorcycles can be dangerous
+| c. | Would you like a cold drink? | | | |
+| d. | What did you tell her this morning? | | | |
+| e. | Don’t take it so easy. He won’t give up so quickly. | | | |
+f. Most people are fully aware that motorcycles can be dangerous
 to ride.
-| 176     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 176 | | | | English 10 |
 g. ‘Does she work with you?’ ‘Yes, she does.’
 h. He bought a red car for his daughter.
 i. I am Brazilian.
@@ -5483,8 +4347,6 @@ follow it.
 e. The English teacher wants all the students to make a good
 presentation in class at regular interval.
 English 10 177
-
-https://importantedunotes.com/
 Grammar I
 A.		 Study	the	following	sentences	and	notice	how	the	affirmative
 sentences change into negative.
@@ -5496,26 +4358,23 @@ daily.
 Have a cup of tea. Do not have a cup of tea.
 I have already met him. I have not met him yet.
 Only he can solve it. None but he can solve it.
-Only this medicine could save   Nothing but this medicine could
+Only this medicine could save Nothing but this medicine could
 him. save him.
 I want a little milk. I do not want much milk.
 Let’s listen to the music. Let’s not listen to the music.
 You must buy it. You need not buy it.
 I liked it, too. I did not like it, either.
 He had to do the job on time. He did not have to do the job on
-B.   Transform the following sentetinmcee.s into negative.
-| a.          | My sister lives with my parents.             |              |
-| ----------- | -------------------------------------------- | ------------ |
-| b.          | Maryam knows the answer well.                |              |
-| c.          | I want to leave now.                         |              |
-| d.          | Anusha agrees with me.                       |              |
-| e.          | The boy killed the cockroach with his shoe.  |              |
-| f.          | His father recognized me at once.            |              |
-| g.          | He apologized for his misconduct.            |              |
-| 178  h.     | He  ate a fe                                 | w ma ngoes.  |
-    English 10
-
-https://importantedunotes.com/
+B. Transform the following sentetinmcee.s into negative.
+| a. | My sister lives with my parents. | |
+| b. | Maryam knows the answer well. | |
+| c. | I want to leave now. | |
+| d. | Anusha agrees with me. | |
+| e. | The boy killed the cockroach with his shoe.  | |
+| f. | His father recognized me at once. | |
+| g. | He apologized for his misconduct. | |
+| 178  h. | He  ate a fe | w ma ngoes.  |
+English 10
 i. We sold a little honey.
 j. The rich are sometimes happy.
 k. Kanchan frequently visits me.
@@ -5542,19 +4401,16 @@ m. Each of the dancers……… (twirl, twirls, twirling) brilliantly.
 n. Neither she nor I ……… (were, am, are) getting the lunch
 special.
 English 10 179
-
-https://importantedunotes.com/
 Writing I
 You might have read or heard some moral stories. Write your
 favourite one in your own words.
 Reading II
 Answer the following questions.
-a.    Can you stand on your head?
-b.   Do you want to keep a world record?
-| What would it be? |                             | World Record |     |     |
-| ----------------- | --------------------------- | ------------ | --- | --- |
-| Scene             | :   It is a big TV studio.  |              |     |     |
-| Characters        | :  Albert Hargreaves,       |              |     |     |
+a. Can you stand on your head?
+b. Do you want to keep a world record?
+| What would it be? | | World Record | | |
+| Scene | : It is a big TV studio.  | | | |
+| Characters | :  Albert Hargreaves, | | | |
 Daisy Hargreaves, the wife of Albert
 Mabel Phillips,
 Michael Moonshine
@@ -5563,97 +4419,77 @@ program that gives you the chance to break a world record.
 We have here in the studio tonight two people who are
 trying to break world records. Let’s meet them and see
 what they’re doing. Tell me, sir, what is your name?
-| Albert  | :  Albert Hargreaves. |     |     |     |
-| ------- | --------------------- | --- | --- | --- |
-Michael    :  Albert Hargreaves. Well, Albert, what are you doing?
-| Albert  | :  I’m standing on one leg in a bucket of hot soup.  |     |     |     |
-| ------- | ---------------------------------------------------- | --- | --- | --- |
+| Albert  | :  Albert Hargreaves. | | | |
+Michael :  Albert Hargreaves. Well, Albert, what are you doing?
+| Albert  | :  I’m standing on one leg in a bucket of hot soup.  | | | |
 Michael  :  Ladies and gentlemen, he’s standing on one leg in a bucket
 of hot soup!
-|         |   (The audience gives a round of applause.) |     |     |            |
-| ------- | ------------------------------------------- | --- | --- | ---------- |
-| 180     |                                             |     |     | English 10 |
-
-https://importantedunotes.com/
+| | (The audience gives a round of applause.) | | | |
+| 180 | | | | English 10 |
 Michael  :  Albert, how long have you been standing on one leg in that
 bucket of hot soup?
-Albert   :  I’ve been standing here for six hours and fifty-eight
+Albert :  I’ve been standing here for six hours and fifty-eight
 minutes.
 Michael  :  And what is the world record for standing on one leg in a
 bucket of hot soup?
-| Albert  :  | It’s seven hours and three minutes, Michael. |     |
-| ---------- | -------------------------------------------- | --- |
+| Albert  :  | It’s seven hours and three minutes, Michael. | |
 Michael  :  Seven hours and three minutes! And you’ve been standing
 there for six hours and fifty-nine minutes now. Well, Albert,
 you’ve only got four minutes to go!
-|     | (The audience applauds.) |     |
-| --- | ------------------------ | --- |
+| | (The audience applauds.) | |
 Michael  :  Albert, you’ve been standing on one leg in that bucket of
 soup for almost seven hours now.
-| Albert  :   | That’s right, Michael.                     |     |
-| ----------- | ------------------------------------------ | --- |
-| Michael  :  | Would you tell me – is the soup still hot? |     |
-Albert   :  Yes. My wife’s been approaching every half-hour with more
+| Albert  : | That’s right, Michael. | |
+| Michael  :  | Would you tell me – is the soup still hot? | |
+Albert :  Yes. My wife’s been approaching every half-hour with more
 sizzling soup. Here she appears now.
-|            | (Mrs. Hargreaves comes in.)                     |     |
-| ---------- | ----------------------------------------------- | --- |
-| Daisy  :   | Here you are, Albert.                           |     |
-|            | (She pours some boiling soup into the bucket.)  |     |
-| Albert  :  | Aaargh!                                         |     |
+| | (Mrs. Hargreaves comes in.) | |
+| Daisy  : | Here you are, Albert. | |
+| | (She pours some boiling soup into the bucket.)  | |
+| Albert  :  | Aaargh! | |
 Michael  :  Well, I’m glad it’s your leg in the soup. Albert, and not mine.
-|     | (The audience laughs.) |     |
-| --- | ---------------------- | --- |
+| | (The audience laughs.) | |
 Michael  :  Now we have another contender in the studio, a very
 charming young lady. Can you tell the viewers your name?
-| Mabel  :             | Mabel Phillips.                                  |     |
-| -------------------- | ------------------------------------------------ | --- |
-| Michael  :           | Mabel Phillips. Well, Mabel, what are you doing? |     |
-| EMnagblieslh   10 :  | I’m leaning on this brush.                       | 181 |
-
-https://importantedunotes.com/
+| Mabel  : | Mabel Phillips. | |
+| Michael  : | Mabel Phillips. Well, Mabel, what are you doing? | |
+| EMnagblieslh 10 :  | I’m leaning on this brush. | 181 |
 Michael  :  She’s leaning on a brush, ladies and gentlemen! I can’t help
 thinking the same.
-|     |   (The audience applauds and laughs.) |     |     |     |
-| --- | ------------------------------------- | --- | --- | --- |
+| | (The audience applauds and laughs.) | | | |
 Michael  :  Well, Albert has been standing on one leg in his bucket of
 hot soup for seven hours and one minute, so he’s only got
 two more minutes to go! Poor Mabel’s got a long way to
 go… And here is another young man – and he hasn’t got
 any trousers on.
-|          |   (The audience giggles.)         |     |     |     |
-| -------- | --------------------------------- | --- | --- | --- |
-| Michael  | :  Now, sir, what are you doing?  |     |     |     |
-| Man      | :  I’m looking for my trousers.   |     |     |     |
+| | (The audience giggles.) | | | |
+| Michael  | :  Now, sir, what are you doing?  | | | |
+| Man | :  I’m looking for my trousers. | | | |
 Michael  :  I can see that. And how long have you been making an
 exploration for your trousers?
-| Man       | :    I’ve been looking for them for five minutes.  |     |     |     |
-| --------- | -------------------------------------------------- | --- | --- | --- |
-| Michael   | :  And what’s the world record?                    |     |     |     |
-| Man       | :  Pardon?                                         |     |     |     |
-Michael    :  What’s the world record for looking for trousers?
-Man   :  I’m not trying to break a world record. I took my trou-
+| Man | : I’ve been looking for them for five minutes.  | | | |
+| Michael | :  And what’s the world record? | | | |
+| Man | :  Pardon? | | | |
+Michael :  What’s the world record for looking for trousers?
+Man :  I’m not trying to break a world record. I took my trou-
 sers off to have a bath, and when I got out of the bath, my
 trousers were gone.
 Michael  :  I see. Get out of the way! We’re on television! .... I think
 that’s a nonsense.
-|     |   (The audience laughs.) |     |     |     |
-| --- | ------------------------ | --- | --- | --- |
+| | (The audience laughs.) | | | |
 Michael  :  Sorry about that, ladies and gentlemen. Now back to Albert
 Hargreaves. Albert, you’ve been standing in that bucket
 of hot soup for seven hours and two min- utes. Only one
 more minute to go, and you will break the world record.
 And here comes Mrs. Hargreaves with more blistering
 soup !
-| 182     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 182 | | | | English 10 |
 Daisy : Here you are, Albert.
-(She pours some more soup into the vessel.)
+She pours some more soup into the vessel.
 Albert : Aaargh!
 Michael : Tell me. Albert, how does it feel?
 Albert : Scorching!
-(The audience laughs.)
+The audience laughs.
 Michael : No, no! I mean how does it feel to be approaching the world
 record?
 Albert : Well, Michael, I’ve been dreaming about this moment, I’ve
@@ -5665,50 +4501,41 @@ Albert : Twice on Sundays!
 Michael : Yes – and here turns up Mrs. Hargreaves.
 Albert : Oh no, not again!
 Michael : It’s all right, Albert, she’s only looking at her watch! (The
-audience laughs.)
+audience laughs.
 Daisy : Albert! Albert! Only ten seconds to go! Ten, nine, eight,
-seven (Mabel pushes Albert.)
+seven (Mabel pushes Albert.
 Mabel : (Ironically) Congratulations, Albert!
 Albert : Aaargh!
 Albert falls over.
 Michael : Well, ladies and gentlemen, Albert Hargreaves hasn’t
 broken a world record, but he has broken…his leg!’
 English 10 183
-
-https://importantedunotes.com/
 A.  Complete the following table to extend the words to dif-
 ferent word classes.
-| S.N. Verb  | Noun   | Adjective        |     | Adverb      |     |
-| ---------- | ------ | ---------------- | --- | ----------- | --- |
-| 1 ironize  | irony  | ironic, ironical |     | ironically  |     |
-| 2 charm    |        | charming         |     |             |     |
-| 3 scorch   |        |                  |     | scorchingly |     |
-| 4          | sizzle |                  |     |             |     |
-| 5 beautify |        |                  |     |             |     |
-| 6          |        |                  |     | purely      |     |
-| 7          | taste  |                  |     |             |     |
+| S.N. Verb  | Noun | Adjective | | Adverb | |
+| 1 ironize  | irony  | ironic, ironical | | ironically  | |
+| 2 charm | | charming | | | |
+| 3 scorch | | | | scorchingly | |
+| 4 | sizzle | | | | |
+| 5 beautify | | | | | |
+| 6 | | | | purely | |
+| 7 | taste  | | | | |
 B.  8 Wrsiutrep Trirsueefor true and Falsefor false statements.
-|     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- |
-a.   Two people are going to cast their performance to break the
+a. Two people are going to cast their performance to break the
 world record today.
-| b.    | Michael is one of the contestants.                 |     |     |     |     |
-| ----- | -------------------------------------------------- | --- | --- | --- | --- |
-| c.    | Michael also tried dipping his foot on the bucket. |     |     |     |     |
-d.   Albert broke the world record for standing on a bucket of hot
+| b. | Michael is one of the contestants. | | | | |
+| c. | Michael also tried dipping his foot on the bucket. | | | | |
+d. Albert broke the world record for standing on a bucket of hot
 soup.
-e.    The word 'sizzling' is similar in meaning to 'scorching'.
-C.   Af. n  swTehre  tphreogsrea qmu ies sat icoonmse.dy show.
-| a.      | Who is Mabel Phillips?                       |     |     |     |            |
-| ------- | -------------------------------------------- | --- | --- | --- | ---------- |
-| b.      | What is she trying to do?                    |     |     |     |            |
-| c.      | How do they maintain the heat of the soup?   |     |     |     |            |
-| d.      | How far was Albert from breaking the record? |     |     |     |            |
-| e.      | How did the man lose his trousers?           |     |     |     |            |
-| f.      | Why do you think Mabel pushed Albert?        |     |     |     |            |
-| 184     |                                              |     |     |     | English 10 |
-
-https://importantedunotes.com/
+e. The word 'sizzling' is similar in meaning to 'scorching'.
+C. Af. n  swTehre  tphreogsrea qmu ies sat icoonmse.dy show.
+| a. | Who is Mabel Phillips? | | | | |
+| b. | What is she trying to do? | | | | |
+| c. | How do they maintain the heat of the soup? | | | | |
+| d. | How far was Albert from breaking the record? | | | | |
+| e. | How did the man lose his trousers? | | | | |
+| f. | Why do you think Mabel pushed Albert? | | | | |
+| 184 | | | | | English 10 |
 D. How do you feel if somebody interrupts you on the verge of
 winning point? Do you think it is ethical?
 Listening
@@ -5732,24 +4559,19 @@ v. Be fearless for your success.
 C. Why do you think eagle is the king of birds? Discuss in
 group.
 English 10 185
-
-https://importantedunotes.com/
 Grammar II
 A.		 Change	the	following	sentences	into	affirmative.
-| a.    | Dev Narayan does not perform well.        |     |     |     |
-| ----- | ----------------------------------------- | --- | --- | --- |
-| b.    | The dog did not bite Fatima.              |     |     |     |
-| c.    | A room in the flat did not need painting. |     |     |     |
-d.    All the students did not have to sit in the re-examination.
-| e.    | He never drinks wine.                |     |     |     |
-| ----- | ------------------------------------ | --- | --- | --- |
-| f.    | Don’t pour much water in the curry.  |     |     |     |
-| g.    | Nobody came to me.                   |     |     |     |
-h.    There is not any one in the locality living in luxury.
-| i.    | He does not have a bath every day.           |     |     |     |
-| ----- | -------------------------------------------- | --- | --- | --- |
-| j.    | Neither the boy nor the man goes to school.  |     |     |     |
-| k.    | She does not have anything in her bag.       |     |     |     |
+| a. | Dev Narayan does not perform well. | | | |
+| b. | The dog did not bite Fatima. | | | |
+| c. | A room in the flat did not need painting. | | | |
+d. All the students did not have to sit in the re-examination.
+| e. | He never drinks wine. | | | |
+| f. | Don’t pour much water in the curry.  | | | |
+| g. | Nobody came to me. | | | |
+h. There is not any one in the locality living in luxury.
+| i. | He does not have a bath every day. | | | |
+| j. | Neither the boy nor the man goes to school.  | | | |
+| k. | She does not have anything in her bag. | | | |
 B.  Rl. e  wrHitee d tohees  fnooltl owwoirnkg w leittht eurs .correcting the errors in subject-
 verb agreement.
 Dear Hiring Manager,
@@ -5767,15 +4589,12 @@ please contact me. Here are my resume. You can reach me by e-mail or
 phone. I looks forward to speaking with you in person.
 Sincerely Yours
 Adara Banu
-| 186     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 186 | | | | English 10 |
 Writing II
 A. Read the following message of condolence.
 HEARTFELT CONDOLENCES!
 Late Satya Mohan Joshi
-(May 12, 1920 - October 16, 2022)
+May 12, 1920 - October 16, 2022
 We are deeply saddened to share the sudden passing away of Satya
 Mohan Joshi, the centenarian, the legend and a prominent Nepali –
 Newah scholar. Writer, researcher, and historian honourable Joshi
@@ -5784,7 +4603,6 @@ the prestigious Madan Puraskar, Joshi is the author of more than 60
 publications on literature, culture and history of Nepal. He was an
 intelligent and iconic figure with unparalleled contributions.
 Our organization is honoured to have had late Joshi's graceful
-th
 presence as the Chief Guest and Keynote Speaker in the 11 National
 Convention held on May 2012 and Nepal Sambat 1141 celebration
 on November 2020. We are deeply grieved by the loss of one of our
@@ -5793,14 +4611,12 @@ We are with the whole nation in mourning. We extend our heartfelt
 condolences to the entire bereaved family members at his colossal
 loss. Our thoughts and prayers are with the family and the loved
 ones during this difficult time. Let us pray for the eternal peace of
-Newah Organization of America (NOA)
+Newah Organization of America (NOA
 the departed soul.
 English 10 187
-
-https://importantedunotes.com/
 B. Write a similar message of condolence using the given
 outlines.
-Jayananda Lama (1956-2022 A.D.)
+Jayananda Lama (1956-2022 A.D.
 ……… passed away at his residence,
 Kaushaltar Bhaktapur ………. senior
 folk singer and actor ………. incredible
@@ -5814,7 +4630,6 @@ factory. Unfortunately, he broke his hand while working
 with a machine. Write a letter of sympathy using the clues
 given below.
 Purna – 28 years old – working together for 3 years – regular and
-th
 dutiful –a sort of mechanical failure – gets hand broken on 20 Oct
 Project work
 2022 – in hospital under treatment – wish speedy recovery.
@@ -5828,39 +4643,32 @@ The one that is the most stressed is said to receive the sentence stress.
 This usually implies differences in meaning. In the following sentences,
 the sentence stress is indicated in boldface.
 188 English 10
-
-https://importantedunotes.com/
-|          | u               | form      | pub       | pla          |
-| -------- | --------------- | --------- | --------- | ------------ |
-| They  Ri | sually per spen |           | ho  at    | lic  En ces. |
-|          | ta is           | ding her  | liday in  | gland.       |
+| | u | form | pub | pla |
+| They  Ri | sually per spen | | ho  at | lic  En ces. |
+| | ta is | ding her  | liday in  | gland. |
 Content words are usually stressed. They are the words that still have
 some meaning if you put them out of context. Grammatical words are
 not stressed.
 The following tables can help you decide which words are content
 wCoorndtse annt dw worhdicsh words are grammEaxtaicmapl wleosrds.
-| Main verb                             |     |     |     | sell, give, constitute       |
-| ------------------------------------- | --- | --- | --- | ---------------------------- |
-| Noun                                  |     |     |     | car, music, Mary             |
-| Adjective                             |     |     |     | red, big, interesting        |
-| Adverb                                |     |     |     | quickly, why, never          |
-| NGreagmatimvea ctiocnatlr wacotirodns |     |     |     | Exampdloens't, aren't, can't |
-| Pronoun                               |     |     |     | he, we, they                 |
-| Preposition                           |     |     |     | on, at, into, behind         |
-| Article                               |     |     |     | a, an, the                   |
-| Conjunction                           |     |     |     | and, but, because            |
-| Auxiliary verb                        |     |     |     | do, be, have, can, must      |
+| Main verb | | | | sell, give, constitute |
+| Noun | | | | car, music, Mary |
+| Adjective | | | | red, big, interesting |
+| Adverb | | | | quickly, why, never |
+| NGreagmatimvea ctiocnatlr wacotirodns | | | | Exampdloens't, aren't, can't |
+| Pronoun | | | | he, we, they |
+| Preposition | | | | on, at, into, behind |
+| Article | | | | a, an, the |
+| Conjunction | | | | and, but, because |
+| Auxiliary verb | | | | do, be, have, can, must |
 But, even grammatical words can be stressed in some specific contexts.
 Look at the following dialogue:
 "They've been to Mongolia, haven't they?"
 "No, THEY haven't, but WE have." (Here the speaker wants to emphasize
-the doer.)
+the doer.
 Note also that when "be" is used as a main verb, it is usually unstressed;
 even though as a main verb it is also a content word.
 English 10  189
-
-https://importantedunotes.com/
-12
 Nature and Development
 Getting started
 Look at the pictures below. Discuss why the development
@@ -5870,13 +4678,11 @@ Look at the picture and answer these questions.
 a. Which development project is shown in the picture?
 b. Is this project a national pride? Why?
 190 English 10
-
-https://importantedunotes.com/
 Kathmandu-Terai/Madhesh Fast Track:
 A Project of National Pride
 An infrastructure of national
 pride, Kathmandu-Terai/
-Madhesh Fast Track (KTFT)
+Madhesh Fast Track (KTFT
 is a mega highway project of
 strategic importance in Nepal.
 The 72.5 km long fast track
@@ -5901,8 +4707,6 @@ that come to Nepal through the southern border. At the same time, many
 of the tourists beyond India will also have options to travel to Nepal via
 fast track.
 English 10 191
-
-https://importantedunotes.com/
 B. Development of high skill
 KTFT is the project with many complicated structures like high bridges
 and twin tunnels. The technology involved in those structures will be
@@ -5930,8 +4734,6 @@ of the Kathmandu Valley. Thus, an over increasing congestion of the
 Kathmandu Valley can be reduced with the realisation of the concept as
 a greater Kathmandu.
 192 English 10
-
-https://importantedunotes.com/
 Drawbacks
 The poor behaviour of road users, increment in road accidents, deficit on
 smooth link roads, deforestation and land degradation are some burdens
@@ -5956,20 +4758,10 @@ mCoanjocrl ucasuiosens for environmental degradation.
 KTFT has to promise to accelerate socio-economic revolution in Nepal. Such
 a noble mission can be accomplished only if we could implement innovative
 st(rAadtaepgtieeds farnomd athpepalryt aicdlev'aKnacthedm taencdhun-Toeloragii/eMs iand ohuesrh tFraasntsTproarctka(tEixopnr seyssswteamy).
-Road Project (KTFT): Blessing Or Curse?' by Arbind Shrestha)
+Road Project (KTFT): Blessing Or Curse?' by Arbind Shrestha
 English 10 193
-
-https://importantedunotes.com/
 A. Complete the crossword puzzle below with the words from
 the text.
-1 2
-3
-4
-5
-6
-7
-8 9
-10
 ACROSS
 3. weak and without protection
 5. the amount by which something is less than what is needed
@@ -5982,8 +4774,6 @@ ACROSS
 7. the physical movement of goods from one point to another
 9. to collect or increase something gradually
 194 English 10
-
-https://importantedunotes.com/
 B. Complete the following sentences choosing the best
 alternatives.
 a. The total length in KTFT from Khokana to Nijgadh is ………
@@ -6011,31 +4801,24 @@ d. How does this project contribute to the development of high-
 skill human resource in Nepal?
 D. He. o w Hiso wK TdoFeTs tlhikee plryo jteoc ta hffeelpc tth teh pee eonplvei lrivoinnmg ine nthte? EDaisstceruns Tse.rai?
 English 10 195
-
-https://importantedunotes.com/
 Pronunciation
 The following words are pronounced differently in the American
 English and the British English. With the help of a dictionary or
 your teacher, pronounce the words in both varieties.
-| vitamin       | privacy | schedule | advertisement | leisure |
-| ------------- | ------- | -------- | ------------- | ------- |
-| mobile        | vase    | dynasty  | herb          | produce |
-| bSapseilaking | garage  | hostile  | montage       | salon   |
-A.   Look at the pictures and talk what might happen next.
+| vitamin | privacy | schedule | advertisement | leisure |
+| mobile | vase | dynasty  | herb | produce |
+| bSapseilaking | garage  | hostile  | montage | salon |
+A. Look at the pictures and talk what might happen next.
 Discuss what is sure to happen and what might probably
 happen.
 Example : The river is sure to be polluted.
 B.  Practise the conversations below.
 Conversation I
-| Yugen    | :   Where is Karan?                      |     |     |     |
-| -------- | ---------------------------------------- | --- | --- | --- |
-| Ritik    | :   It’s two. He must be at his office.  |     |     |     |
-| Samyog   | :   He might be at the canteen.          |     |     |     |
-Binay   :   He can't have gone out. His car is there at the parking.
-| 196     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| Yugen | : Where is Karan? | | | |
+| Ritik | : It’s two. He must be at his office.  | | | |
+| Samyog | : He might be at the canteen. | | | |
+Binay : He can't have gone out. His car is there at the parking.
+| 196 | | | | English 10 |
 Conversation II
 Hema : Will the price of petrol go down?
 Dilasha : I'm pretty sure it will go down when people use more
@@ -6061,41 +4844,32 @@ f. Chhoisang is preparing for IELTS.
 g. The road is cleared by the police.
 h. The dog is barking.
 English 10 197
-
-https://importantedunotes.com/
 Grammar I
-A.   Match the sentence halves in A with B to complete
+A. Match the sentence halves in A with B to complete
 sentences.
-|   A                                 |     |     |   B                  |     |
-| ----------------------------------- | --- | --- | -------------------- | --- |
-| a.  Hurry up! We’re leaving …..     |     |     | i. one day.          |     |
-| b.  They’ll be watching a movie     |     |     | ii. in ten minutes.  |     |
-|   in a theatre …..                  |     |     |                      |     |
-| c.  We will have arrived home…..    |     |     | iii. next winter.    |     |
-d.  It’s definite. My friends and   iv. at this time next week.
-|   I are going to travel …..  |     |     |     |     |
-| ---------------------------- | --- | --- | --- | --- |
+| A | | | B | |
+| a.  Hurry up! We’re leaving ….. | | | i. one day. | |
+| b.  They’ll be watching a movie | | | ii. in ten minutes.  | |
+| in a theatre ….. | | | | |
+| c.  We will have arrived home….. | | | iii. next winter. | |
+d.  It’s definite. My friends and iv. at this time next week.
+| I are going to travel …..  | | | | |
 B.  Ce.o  mI pthleintke  hthe ew siell nbtee rnicche sa nwdi tfahm thoues c …or.. revc. tb fyo trhmis  toifm teh Seu vnedraby .i  n
 brackets. Use the future simple, be going to, future perfect
 or future continuous.
-a.   As per the schedule, the exam .............. (start) at exactly 11 o’clock.
-b.   See you at the airport! I .............. (carry) an orange suitcase.
-| c.   | Don’t worry! I .............. (not leave) without you. |     |     |     |
-| ---- | ------------------------------------------------------ | --- | --- | --- |
-d.   We certainly ................ (not finish) all the work by this week.
-e.   Sagun has decided that he .............. (invite) some of her friends
+a. As per the schedule, the exam .............. (start) at exactly 11 o’clock.
+b. See you at the airport! I .............. (carry) an orange suitcase.
+| c. | Don’t worry! I .............. (not leave) without you. | | | |
+d. We certainly ................ (not finish) all the work by this week.
+e. Sagun has decided that he .............. (invite) some of her friends
 for dinner after work.
-f.   .............. the receptionist ............... (remember) to call the students
+f. .............. the receptionist ............... (remember) to call the students
 this afternoon?
-| g.   | What .............. you .............. (do) at the weekend? |     |     |     |
-| ---- | ----------------------------------------------------------- | --- | --- | --- |
-h.   I .............. (not/work) tomorrow so we can go shopping.
-i.   If you touch the stove, you .............. (burn) yourself.
-j.   Next week at this time we .............. (fly) to Dubai for a trip.
-| 198     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| g. | What .............. you .............. (do) at the weekend? | | | |
+h. I .............. (not/work) tomorrow so we can go shopping.
+i. If you touch the stove, you .............. (burn) yourself.
+j. Next week at this time we .............. (fly) to Dubai for a trip.
+| 198 | | | | English 10 |
 Writing I
 There may be different development works ongoing in your
 community. Study one of them and write a report on it. Take the
@@ -6120,8 +4894,6 @@ Dear God! the very houses seem asleep;
 - William Wordsworth
 And all that mighty heart is lying still!
 English 10 199
-
-https://importantedunotes.com/
 A. Consult a dictionary and write the meanings of the following
 words.
 a. doth b. majesty c. domes d. glittering
@@ -6150,8 +4922,6 @@ b. According to the speaker, who is dull of soul?
 c. How does the poet describe the beauty of morning?
 d. What does the word 'garment' refer to? Who is wearing it?
 200 e. Ho w does the po et feel when he see s such a beautifuEln sgilgishht ?10
-
-https://importantedunotes.com/
 f. Why does the poet use the words like; valley, rock and hill?
 g. What impression of London does the speaker create? How does
 he do that?
@@ -6175,10 +4945,8 @@ border to the capital city of …………….
 D. Rd.e caTllh teh hei gnhawmaye sp aosfs eths eth croouugnht railel tsh me menajtoior n…e…d… i…n… the audio.
 Check who can remember the largest number of them.
 English 10 201
-
-https://importantedunotes.com/
 Grammar II
-A.   Choose the correct answers and complete the text.
+A. Choose the correct answers and complete the text.
 My uncle's family usually comes to stay with us for Dashain, but ……….. (by
 this Dashain/this Dashain) we are going to visit them instead. They live
 in a village in Kalikot. I can hardly wait. I ……………. (will have had/will be
@@ -6186,7 +4954,7 @@ having) a fantastic time there. School holidays ……………. (are going to s
 /will start) on Friday, and we are going to leave the following morning. At
 this time next week, I ………………… (will be trekking/ will have trekked) to
 Rara Lake with my cousin, Sunil. He’s an experienced trekker, and I ………..
-(am going to practise/ will have practised) rock climbing with him every
+am going to practise/ will have practised) rock climbing with him every
 day. ……….. (By /On) the last day of our visit, Sunil’s dad is going to take
 us to visit Manma, the district headquarters. I hope by then I ………… (will
 have explored/will be exploring) a lot about the life of people in Karnali.
@@ -6195,24 +4963,19 @@ tBh.e  tiCmoem wpe lgeette b aecakc tho  Kseanthtmenancdeu u asftienrg D tahshea
 verbs in brackets. Use the future simple, be going to, future
 continuous, future perfect or future perfect continuous
 tenses.
-a.   Tennis practice starts at 10, and we plan to play for two hours.
-(finish)
-|     | By 12 o’clock, .................... |     |     |     |
-| --- | ----------------------------------- | --- | --- | --- |
-b.   The phone is ringing! (answer) I.................... the phone.
-| c.   | Do you want to come to the disco with us? (come)            |     |     |     |
-| ---- | ----------------------------------------------------------- | --- | --- | --- |
-|      | ...........................you ...........................? |     |     |     |
-| d.   | Look at those clouds. (rain)                                |     |     |     |
-|      | Do you think .......................................?       |     |     |     |
-| e.   | Let's hurry up. The children are alone at home. (stay)      |     |     |     |
-  By the time we reach home, the children ………………….. alone at
+a. Tennis practice starts at 10, and we plan to play for two hours.
+finish
+| | By 12 o’clock, .................... | | | |
+b. The phone is ringing! (answer) I.................... the phone.
+| c. | Do you want to come to the disco with us? (come) | | | |
+| | ...........................you ...........................? | | | |
+| d. | Look at those clouds. (rain) | | | |
+| | Do you think .......................................? | | | |
+| e. | Let's hurry up. The children are alone at home. (stay) | | | |
+By the time we reach home, the children ………………….. alone at
 home for two hours.
-| 202     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
-f. Their plane lands at 7.30. Let’s get there earlier. (wait)
+| 202 | | | | English 10 |
+f. Their plane lands at 7.30. Let’s get there earlier. (wait
 Writing II
 At 7 o’clock, we...........................................................
 A. Study the following notice.
@@ -6235,45 +4998,39 @@ Consult the internet and make a list of the projects of national
 pride. Find out which of them will have direct benefits to you.
 Also discuss what benefits you will get from them.
 English 10 203
-
-https://importantedunotes.com/
 Extra bit
 American English and British English are not only different in accent
 but they are also different in pronunciation and spellings. The list
 below is intended to provide an overview of the most common spelling
 differences between American and BritishB rEintigslhis h. American
 Word endings
-|                                  |     |     | English    | English    |
-| -------------------------------- | --- | --- | ---------- | ---------- |
-| Words ending with -re            |     |     | centre     | center     |
-|                                  |     |     | metre      | meter      |
-|                                  |     |     | litre      | liter      |
-| Words ending with -our           |     |     | colour     | color      |
-|                                  |     |     | humour     | humor      |
-|                                  |     |     | neighbour  | neighbor   |
-| Words ending with –ise or -ize   |     |     | apologise  | apologize  |
-|                                  |     |     | organize   | organize   |
-|                                  |     |     | recognise  | recognize  |
-| Words ending with –yse           |     |     | analyse    | analyze    |
-|                                  |     |     | paralyse   | paralyze   |
-|                                  |     |     | catalyse   | catalyze   |
-| Words ending with ae or oe       |     |     | oestrogen  | estrogen   |
-|                                  |     |     | paediatric | pediatric  |
-| Words ending with -ence          |     |     | defence    | defense    |
-|                                  |     |     | offence    | offense    |
-|                                  |     |     | licence    | license    |
-| Words ending with -ogue          |     |     | analogue   | analog     |
-|                                  |     |     | dialogue   | dialog     |
-|                                  |     |     | catalogue  | catalog    |
-| Words ending with al/el/il/ol/ul |     |     | travelled  | traveled   |
-|                                  |     |     | travelling | traveling  |
-|                                  |     |     | traveller  | traveler   |
-|                                  |     |     | fuelled    | fueled     |
-|                                  |     |     | fuelling   | fueling    |
-| 204                              |     |     |            | English 10 |
-
-https://importantedunotes.com/
-13
+| | | | English | English |
+| Words ending with -re | | | centre | center |
+| | | | metre | meter |
+| | | | litre | liter |
+| Words ending with -our | | | colour | color |
+| | | | humour | humor |
+| | | | neighbour  | neighbor |
+| Words ending with –ise or -ize | | | apologise  | apologize  |
+| | | | organize | organize |
+| | | | recognise  | recognize  |
+| Words ending with –yse | | | analyse | analyze |
+| | | | paralyse | paralyze |
+| | | | catalyse | catalyze |
+| Words ending with ae or oe | | | oestrogen  | estrogen |
+| | | | paediatric | pediatric  |
+| Words ending with -ence | | | defence | defense |
+| | | | offence | offense |
+| | | | licence | license |
+| Words ending with -ogue | | | analogue | analog |
+| | | | dialogue | dialog |
+| | | | catalogue  | catalog |
+| Words ending with al/el/il/ol/ul | | | travelled  | traveled |
+| | | | travelling | traveling  |
+| | | | traveller  | traveler |
+| | | | fuelled | fueled |
+| | | | fuelling | fueling |
+| 204 | | | | English 10 |
 Population and Migration
 Getting started
 Look at the pictures and discuss what they represent.
@@ -6283,8 +5040,6 @@ a. Do you know the population of Nepal as per the population census,
 2078 B.S.? Present your idea.
 b. What are the factors that influence the population change in a
 Englischo u1n0t ry? 205
-
-https://importantedunotes.com/
 A Century of World Population Trends: 1950 to 2050
 Today, the world’s population
 is more than three times larger
@@ -6320,8 +5075,6 @@ stabilization or begun to decrease in population size.
 The world’s two most populous regions in 2022 were Eastern and South-
 Eastern Asia. 2.3 billion people, representing 29 percent of the global
 206 English 10
-
-https://importantedunotes.com/
 population lived in these regions. Central and Southern Asia had 2.1
 billion population representing 26 percent. China and India accounted
 for the largest populations in these regions, with more than 1.4 billion
@@ -6340,24 +5093,20 @@ Almost 44.8 million people lived in the two regions of Oceania in 2022.
 With 2.5 million inhabitants in 1950, the population of Oceania, excluding
 Australia and New Zealand reached close to 13.6 million in 2022.
 Population of the world, SDG regions and selected groups of countries,
-2022, 2030 and 2050 according to the medPiuompu slcaetnioanri o(in millions)
+2022, 2030 and 2050 according to the medPiuompu slcaetnioanri o(in millions
 Region
-|                                 | 2022 | 2030 | 2050 |
-| ------------------------------- | ---- | ---- | ---- |
-| World                           | 7942 | 8512 | 9687 |
-| Sub-Saharan Africa              | 1152 | 1401 | 2094 |
+| World | 7942 | 8512 | 9687 |
+| Sub-Saharan Africa | 1152 | 1401 | 2094 |
 | Northen Africa and Western Asia | 549  | 617  | 771  |
-| Central and Southern Asia       | 2342 | 2372 | 2317 |
+| Central and Southern Asia | 2342 | 2372 | 2317 |
 | Latin America and the Caribbean | 658  | 695  | 749  |
-| Australia/New Zeland            | 31   | 34   | 38   |
-| Oceania                         | 14   | 15   | 20   |
-| Europe and Nothern America      | 1120 | 1129 | 1125 |
-| Least Developed Countries       | 1112 | 1338 | 1914 |
+| Australia/New Zeland | 31 | 34 | 38 |
+| Oceania | 14 | 15 | 20 |
+| Europe and Nothern America | 1120 | 1129 | 1125 |
+| Least Developed Countries | 1112 | 1338 | 1914 |
 | Landlocked Developing Countries | 557  | 664  | 947  |
-| Small Island Developing States  | 74   | 79   | 87   |
-| English 10                      |      |      | 207  |
-
-https://importantedunotes.com/
+| Small Island Developing States  | 74 | 79 | 87 |
+| English 10 | | | 207  |
 In the next three decades, the regions of the world will experience different
 growth rates of their population. Consequently, the regional distribution
 of the population in 2050 will significantly differ from that of today.
@@ -6383,11 +5132,9 @@ Democratic Republic of the Congo and the United Republic of Tanzania are
 expected to grow rapidly, between two and three percent per year over the
 2022-2050 period. Disparate population growth rates among the world’s
 largest countries will change their ranking by size: For example, India is
-(Adapted from World Population Prospects 2022)
+Adapted from World Population Prospects 2022
 projected to surpass China as the world’s most populous country in 2023.
 208 English 10
-
-https://importantedunotes.com/
 A. Match the following words with their correct meanings.
 a. populous i. a path followed by something
 b. mortality ii. relating to the population and
@@ -6414,8 +5161,6 @@ first century.
 c. The factors that determine the growth rate of world population
 are ................ .
 English 10 209
-
-https://importantedunotes.com/
 d. In the early 2020s Eastern and South-Eastern Asia had .............
 population.
 e. The population of sub-Saharan region is likely to reach ..............
@@ -6440,52 +5185,40 @@ h. Which countries are most likely to contribute to the growth of
 D. Do yowuo trhldin pko pthuela wtioonr lbdy p 2o0p5u0?lation will increase as projected
 in the text? Discuss.
 210 English 10
-
-https://importantedunotes.com/
 Pronunciation
 The sound /r/ remains silent while pronouncing the word
 'world'. Pronounce the following words correctly and also write
 them in the right column below.
-| furthermore | fertility  | growth | uncertain    | future |
-| ----------- | ---------- | ------ | ------------ | ------ |
-| experience  | comparable | zero   | distribution | birth  |
+| furthermore | fertility  | growth | uncertain | future |
+| experience  | comparable | zero | distribution | birth  |
 cPornocnenoturnatceedd with /r/ sound
 Pronounced without /r/ sound
 Speaking
 What	do	the	following	figure	and	chart	illustrate?	Interpret
 them to your friends.
-a.   First aid for an unconscious person
-| English 10  |     |     |     | 211 |
-| ----------- | --- | --- | --- | --- |
-
-https://importantedunotes.com/
+a. First aid for an unconscious person
+| English 10  | | | | 211 |
 b.  HFoaucsielihtoields Facilities in %Ne HpaHls Facilities % HHs
-| Radio            |     | 50.8 | Mobile phone  | 64.6 |
-| ---------------- | --- | ---- | ------------- | ---- |
-| Television       |     | 36.5 | Motor         | 1.6  |
-| Cable Television |     | 19.3 | Motorcycle    | 9.6  |
-| Computer         |     | 7.3  | Cycle         | 32.4 |
-| Internet         |     | 3.3  | Other vehicle | 0.7  |
+| Radio | | 50.8 | Mobile phone  | 64.6 |
+| Television | | 36.5 | Motor | 1.6  |
+| Cable Television | | 19.3 | Motorcycle | 9.6  |
+| Computer | | 7.3  | Cycle | 32.4 |
+| Internet | | 3.3  | Other vehicle | 0.7  |
 Source: National Population and Housing Census 2011.CBS
-| Telephone |     | 7.4 | Refrigerator | 7.2 |
-| --------- | --- | --- | ------------ | --- |
+| Telephone | | 7.4 | Refrigerator | 7.2 |
 Grammar I
-A.   Match the sentence halves and make meaningful sentences.
-| a. We continued  the match |     |     | i. however,  I always  reach  |     |
-| -------------------------- | --- | --- | ----------------------------- | --- |
+A. Match the sentence halves and make meaningful sentences.
+| a. We continued  the match | | | i. however,  I always  reach  | |
 my office on time.
-| b. Dolma was  selected for the  |     |     | ii. yet it was not too cold. |     |
-| ------------------------------- | --- | --- | ---------------------------- | --- |
+| b. Dolma was  selected for the  | | | ii. yet it was not too cold. | |
 post
-| c. Christina attended the class |     |     | iii. despite looking very  |     |
-| ------------------------------- | --- | --- | -------------------------- | --- |
+| c. Christina attended the class | | | iii. despite looking very  | |
 sociable.
 d. I often leave  home  quite late, iv. though  it is not far from
 my home.
 e. Chintamani never participates  v. although it was  raining
-| in social functions        |     |     | heavily.                     |     |
-| -------------------------- | --- | --- | ---------------------------- | --- |
-| f It was snowing  heavily, |     |     | vi. although we had the map  |     |
+| in social functions | | | heavily. | |
+| f It was snowing  heavily, | | | vi. although we had the map  | |
 of the town with us.
 g. He did not give up smoking vii. even  though  she had  no
 prior experience for the
@@ -6494,10 +5227,7 @@ h. I have never been to Bandipur viii. despite  the fact  that she
 was not feeling well.
 i. We were lost in the town ix. in  spite  of  the  warnings
 of the doctor.
-| 212     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 212 | | | | English 10 |
 B. Complete the sentences below in a suitable way. Use the
 connectives of contradiction where necessary.
 a. Although I had not seen him before, ................
@@ -6514,10 +5244,8 @@ Study the graph and chart below and write an interpretation of
 each of them.
 a. Nepali Student Migration
 English 10 213
-
-https://importantedunotes.com/
 b. Distribution of Population of Kathmandu Metropolitan in Terms
-of Languages (Based on the population census of 2011)
+of Languages (Based on the population census of 2011
 Reading II
 Answer these questions.
 a. Have you ever noticed birds and animals migrating to new places?
@@ -6533,8 +5261,6 @@ dug in the ground. Others thought
 they hid in the mud on the bottoms of
 ponds—alive, but waiting for spring.
 214 English 10
-
-https://importantedunotes.com/
 Others claimed that familiar summer birds transformed into other types
 of birds in the winter. The truth is, in some ways, more incredible. What
 birds do during this time is migrate: They fly over land and oceans without
@@ -6569,22 +5295,10 @@ near ponds and lakes in Alaska
 and western Canada. In the fall,
 they fly to milder conditions on the Pacific and Atlantic coasts, where there
 is less snow. Other migrants do not travel very far for a big difference in
-E
-cl
-n
-im
-gl
-a
 is
-t
-h
 e.
-1
 In
-0
 s tead of going north or south, they travel up and down. Mount2a1in5
-
-https://importantedunotes.com/
 birds, such as brindled titmice and mountain chickadees, migrate about
 1,000 feet to lower elevations. They move from high-altitude evergreen
 forests to wooded valleys and streams.
@@ -6620,30 +5334,13 @@ insects while they travel. In contrast,
 most songbirds feed and rest during the
 day and travel at night. It is thought that
 2co1o6l e r and les s wind y cond itions at nigh t mak e for better flyin
-E
-g
-n
-.
-g
-H
-li
-i
-s
-d
-h
-d
-1
-en
-0
-
-https://importantedunotes.com/
 in the night sky, the birds are almost invisible-except for all the chattering.
 Only when songbirds pass in front of the moon they are visible. In fact,
 moon watching is a way of counting how many migrants travel at night.
 During migration season, a moon watcher may see as many as 200 birds
-(Adapted from Animal Behaviour by Gretel H Schueller
+Adapted from Animal Behaviour by Gretel H Schueller
 an hour.
-and Sheila K. Schueller)
+and Sheila K. Schueller
 A. Study the following list of words and write their synonyms
 and antonyms as shown in the example. Write NA if the word
 does not have a synonym or antonym in the list.
@@ -6662,41 +5359,31 @@ Word Synonym Antonym
 witness onlooker, viewer, bystander, spectator participant
 Word Synonym Antonym
 English 10 217
-
-https://importantedunotes.com/
-B.   Complete sentences (a-f) with their correct endings (i-vii).
-| a.    | In the past people had the misconception that  |     |     |     |
-| ----- | ---------------------------------------------- | --- | --- | --- |
-| b.    | To supply themselves with energy               |     |     |     |
-| c.    | When the weather is favourable in spring       |     |     |     |
-| d.    | As a sign of partial migration                 |     |     |     |
-| e.    | To wait for a favourable weather               |     |     |     |
-| f.    | For better flying conditions                   |     |     |     |
-i.    some birds travel to a different place while others do not.
-| ii.     | some birds stop to feed themselves with grains. |     |     |     |
-| ------- | ----------------------------------------------- | --- | --- | --- |
-| iii.    | birds fly back to their habitats.               |     |     |     |
-iv.   birds hid underground or changed into some other birds.
-| v.     | some birds choose to fly during the night.    |     |     |     |
-| ------ | --------------------------------------------- | --- | --- | --- |
-| vi.    | birds fly rapidly like the marathon players.  |     |     |     |
-| vii.   | birds fly in large groups.                    |     |     |     |
-C.   Answer these questions.
-| a.    | What is incredible about the migration of birds? |     |     |     |
-| ----- | ------------------------------------------------ | --- | --- | --- |
-b.   What things do birds consider while flying to their destinations?
-c.    Which animals other than the birds migrate to new places?
-| d.    | What do scoters dive underwater for? |     |     |     |
-| ----- | ------------------------------------ | --- | --- | --- |
-e.   Which birds travel up and down instead of going north to south?
-| f.      | What is partial migration of birds?                  |     |     |            |
-| ------- | ---------------------------------------------------- | --- | --- | ---------- |
-| g.      | Why can sea terns not stay long in water?            |     |     |            |
-| h.      | How do birds feed themselves during their journeys?  |     |     |            |
-| i.      | What are the signs of birds flying in the night sky? |     |     |            |
-| 218     |                                                      |     |     | English 10 |
-
-https://importantedunotes.com/
+B. Complete sentences (a-f) with their correct endings (i-vii).
+| a. | In the past people had the misconception that  | | | |
+| b. | To supply themselves with energy | | | |
+| c. | When the weather is favourable in spring | | | |
+| d. | As a sign of partial migration | | | |
+| e. | To wait for a favourable weather | | | |
+| f. | For better flying conditions | | | |
+i. some birds travel to a different place while others do not.
+| ii. | some birds stop to feed themselves with grains. | | | |
+| iii. | birds fly back to their habitats. | | | |
+iv. birds hid underground or changed into some other birds.
+| v. | some birds choose to fly during the night. | | | |
+| vi. | birds fly rapidly like the marathon players.  | | | |
+| vii. | birds fly in large groups. | | | |
+C. Answer these questions.
+| a. | What is incredible about the migration of birds? | | | |
+b. What things do birds consider while flying to their destinations?
+c. Which animals other than the birds migrate to new places?
+| d. | What do scoters dive underwater for? | | | |
+e. Which birds travel up and down instead of going north to south?
+| f. | What is partial migration of birds? | | | |
+| g. | Why can sea terns not stay long in water? | | | |
+| h. | How do birds feed themselves during their journeys?  | | | |
+| i. | What are the signs of birds flying in the night sky? | | | |
+| 218 | | | | English 10 |
 D. You might have seen or heard animals migrating to new
 places. What could be the reasons for animals to migrate?
 Discuss.
@@ -6715,15 +5402,13 @@ d. World Wildlife Fund monitored about .............. animal species in
 its study.
 e. Agriculture is responsible for ............... of deforestation in the
 world.
-C. Af. n swWeer ctahne ssaev qe uthees wtioildnlsif ein fo nro tht em fuotruer et hgaenne froautiro nw boyr .d...s.... .
+C. Af. n swWeer ctahne ssaev qe uthees wtioildnlsif ein of nro tht em fuotruer et hgaenne froautiro nw boyr .d...s.... .
 a. What does the decline in wildlife indicate?
 b. What is the biggest reason for the destruction of habitats of
 wild animals?
 c. Where do terrestrial species live?
 d. Where should we look to stop the trend of population decline?
 English 10 219
-
-https://importantedunotes.com/
 D. What efforts is Nepal making to save wildlife? Discuss.
 Grammar II
 A. Complete the sentences below with the correct alternatives
@@ -6734,7 +5419,7 @@ b. (Despite/Even though) .......... our hard efforts, we could not
 establish a hospital in the village.
 c. (Even though/In spite of) ............ the film was very popular, it
 was a commercial failure.
-d. I enjoyed all the luxuries of life........... (despite the fact/though)
+d. I enjoyed all the luxuries of life........... (despite the fact/though
 that I grew up in a remote village.
 e. I watched a late night movie. (However/In spite of ) I didn't feel
 sleepy in the morning class.
@@ -6749,29 +5434,27 @@ i. I called Siddhartha several times.............. (in spite of/but) he did
 not respond.
 j. Even though we had not invited them ............ (they came to the
 B. Join the following pairs of sentences with the connectives
-party/they did not come to the party)
+party/they did not come to the party
 given in the brackets.
-a. I was really exhausted. I could not sleep well. (Although)
+a. I was really exhausted. I could not sleep well. (Although
 b. She did not meet the requirements. She was shortlisted for the
-job. (In spite of )
+job. (In spite of
 c. I decided to work for the company. The pay was quite low.
 220 (Ev en tho ugh) English 10
-
-https://importantedunotes.com/
 d. We lost the match. We had prepared for the match really well.
-(Yet)
+Yet
 e. Dipisha completed her assignment. She had badly injured her
-hand. (Despite)
-f. Kripa exercises every day. She is gaining weight. (However)
+hand. (Despite
+f. Kripa exercises every day. She is gaining weight. (However
 g. Barcelona won the match. They were limited to ten players.
-(Nevertheless)
+Nevertheless
 h. I love to watch cricket on TV. My brother loves to watch football.
-(While)
+While
 i. He had not gone to bed until midnight. He woke up early in the
-morning. (In spite of)
+morning. (In spite of
 j. He was selected for the school team. He had not played well.
 Writing II
-(Although)
+Although
 A large number of youths and professionals leave Nepal and
 migrate abroad each year. Write an essay expressing your
 opinion about the impacts of such migration. Also include
@@ -6787,8 +5470,6 @@ Time/season of migration
 Activities during the migration
 Duration of migration
 English 10 221
-
-https://importantedunotes.com/
 Extra bit
 Types of Adjectives
 An adjective modifies a noun or pronoun by providing descriptive
@@ -6809,8 +5490,6 @@ An adjective of quality shows the kind or quality of noun or
 pronoun.
 Example: good student beautiful house
 222 English 10
-
-https://importantedunotes.com/
 f. Demonstrative adjective
 A demonstrative adjective is used to point out or show noun
 or pronoun.
@@ -6829,26 +5508,17 @@ collectively. These adjectives include each, every, either... or,
 neither... nor, both, etc.
 Example: both the man and his wife, each man
 English 10 223
-
-https://importantedunotes.com/
-14
-|     |     | Travel and Adventure |     |     |
-| --- | --- | -------------------- | --- | --- |
+| | | Travel and Adventure | | |
 Getting started
 Which of these places would you like to travel if you got an
 opportunity? Discuss in group.
-
-| Swargadwari Temple |     |     | Ugratara Temple |     |
-| ------------------ | --- | --- | --------------- | --- |
+| Swargadwari Temple | | | Ugratara Temple | |
 Mahabouddha Boudhanath
 Reading I
 Answer these questions.
-a.    Do you enjoy travelling? Why?
-b.    Which is your favourite tourist place? Why?
-| 224     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+a. Do you enjoy travelling? Why?
+b. Which is your favourite tourist place? Why?
+| 224 | | | | English 10 |
 Expect the Unexpected
 We did a classic Nepal triangle trip of Kathmandu, Chitwan and Pokhara. I
 must admit that all have their own charm that very few places can achieve
@@ -6870,7 +5540,6 @@ that street art is on the rise, as
 local and international artists
 are setting up projects in Nepal
 to send out messages of man-made beauty.
-th
 Nepal was never colonized. Before the unification in the 18 century it
 was ruled under several kings, who built three splendid Durbar Squares
 as royal palaces, which all are now monument zones of the UNESCO World
@@ -6882,8 +5551,6 @@ functions of the beautiful wood carving, symbols and ornaments. With his
 rich knowledge, the ancient site was brought to life. As we walked through,
 flocks of pigeons circled above the monuments, making a fascinating
 pEnicgtluisrhe b1e0f ore us. 225
-
-https://importantedunotes.com/
 Perhaps due to the off season, Durbar Squares are not so much touristy
 sites as where the local watch the time away. We had the chance to interact
 with a group of college students who were taking a break. What they firmly
@@ -6915,29 +5582,8 @@ Chitwan National Park covers a vast
 area. Today, it offers dozens of jungles
 activities, such as Jeep safari, canoeing, jungle walk and cycling around the
 village. We were the only group that did boat ride that afternoon – what a
-p
-22
-ri
-6
 v i leg e to en joy the whole tranqu il view of the lake and the surr
-E
-o
-n
-u
-g
-n
-li
-d
-s
-i
-h
 n g
-1
-s
-0
-!
-
-https://importantedunotes.com/
 In short, Chitwan is a perfect place for physically active travelers to
 discover the undisturbed vestiges of wild species. The other perfect one
 Pwoek khnaowra is probably in South Africa.
@@ -6971,8 +5617,6 @@ because of media hoaxes. And I am sure the western visitors we stumbled
 - Mathilda Wu
 into on the way will see eye to eye with us.
 English 10 227
-
-https://importantedunotes.com/
 A. Complete the sentences below with the correct words from
 the text.
 a. The village ....................... comfortably among the hills.
@@ -7001,70 +5645,55 @@ f. Walk up to the hill and view
 the Himalayan ranges.
 g. Watch the sunrise.
 228 English 10
-
-https://importantedunotes.com/
-C.   Answer these questions.
-a.    Mention the three things that amazed the writer in Kathmandu.
-| b.    | What indicates that street art is rising in Kathmandu? |     |     |     |
-| ----- | ------------------------------------------------------ | --- | --- | --- |
-| c.    | Name the two World Heritage Monuments located in       |     |     |     |
+C. Answer these questions.
+a. Mention the three things that amazed the writer in Kathmandu.
+| b. | What indicates that street art is rising in Kathmandu? | | | |
+| c. | Name the two World Heritage Monuments located in | | | |
 Kathmandu.
-d.    How do the Nepalis perceive death, according to the writer?
-e.    What two special things does the writer mention about the
+d. How do the Nepalis perceive death, according to the writer?
+e. What two special things does the writer mention about the
 Pashupatinath Temple?
-f.    What does Chitwan National Park offer to its visitors?
-| g.    | Whom does the writer recommend to visit Chitwan?      |     |     |     |
-| ----- | ----------------------------------------------------- | --- | --- | --- |
-| h.    | Write any two things that visitors can do in Pokhara. |     |     |     |
-| i.    | What is Sarangkot known for?                          |     |     |     |
-D.  Ij.f    youH owwe rdeid g tihvee wn rtihteer  ofepepl owrhteunn hitey w taos v leisaivti nogn Ne eopfa tlh?e places
+f. What does Chitwan National Park offer to its visitors?
+| g. | Whom does the writer recommend to visit Chitwan? | | | |
+| h. | Write any two things that visitors can do in Pokhara. | | | |
+| i. | What is Sarangkot known for? | | | |
+D.  Ij.f youH owwe rdeid g tihvee wn rtihteer  ofepepl owrhteunn hitey w taos v leisaivti nogn Ne eopfa tlh?e places
 mentioned in the text, which one would it be? Give reasons
 for your choice.
 Pronunciation
 You might have noticed different pronunciations of the same
 letter.
 Examples :
-|     | bench /tʃ/  | character /k/ | machine /ʃ/ | cell /s/ |
-| --- | ----------- | ------------- | ----------- | -------- |
+| | bench /tʃ/  | character /k/ | machine /ʃ/ | cell /s/ |
 Listen to yocoumr ftoerat /ckh/er and group the words according to the
 pronunciation of the letter(s) in red.
-| attach   | electrician | ache     | chaos    | much       |
-| -------- | ----------- | -------- | -------- | ---------- |
-| musician | architect   | mechanic | sandwich | beautician |
-| chemical | technology  | which    | decent   | chemist    |
+| attach | electrician | ache | chaos | much |
+| musician | architect | mechanic | sandwich | beautician |
+| chemical | technology  | which | decent | chemist |
 English 10  229
-
-https://importantedunotes.com/
-| scheme          | detach  | incident  | mechanical | cholera |
-| --------------- | ------- | --------- | ---------- | ------- |
-| ostrich         | cordial | chorus    | brochure   | spinach |
-| Stpraeffaicking | echo    | champagne | enrich     | club    |
+| scheme | detach  | incident  | mechanical | cholera |
+| ostrich | cordial | chorus | brochure | spinach |
+| Stpraeffaicking | echo | champagne | enrich | club |
 A.  Read and act out the following model conversation in a
 group of three.
 Conversation I
-| Abhi      | :   My father works in a factory. |     |     |     |
-| --------- | --------------------------------- | --- | --- | --- |
-| Reema     | :  So does mine.                  |     |     |     |
-| Bikalpa   | :   But mine works in a bakery.   |     |     |     |
+| Abhi | : My father works in a factory. | | | |
+| Reema | :  So does mine. | | | |
+| Bikalpa | : But mine works in a bakery. | | | |
 Conversation II
-| Namita    | :   I visit my parents regularly.                 |     |     |     |
-| --------- | ------------------------------------------------- | --- | --- | --- |
-| Angel     | :   So do I. I visit them at least once a month.  |     |     |     |
-Pratik    :   But I don’t. I just call them from time to time.
+| Namita | : I visit my parents regularly. | | | |
+| Angel | : So do I. I visit them at least once a month.  | | | |
+Pratik : But I don’t. I just call them from time to time.
 Conversation III
-| Lumanti   | :   Mr. Joshi looks so intelligent, doesn’t he? |     |     |     |
-| --------- | ----------------------------------------------- | --- | --- | --- |
-Nita   :  Yes, he does. He answers each question so perfectly. But
+| Lumanti | : Mr. Joshi looks so intelligent, doesn’t he? | | | |
+Nita :  Yes, he does. He answers each question so perfectly. But
 he is rather strict.
 Saru  :  So is Mrs. Karki. She hardly allows me to go out during her
 B.  Work in thclraeses.s. Have similar conversations in the situations
 below.
-a.   Ask a friend about his/her interests on sports and agree or
+a. Ask a friend about his/her interests on sports and agree or
 disagree with the views.
-| 230     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 230 | | | | English 10 |
 b. Imagine that you want to be a teacher. Talk to your friend if they
 agree with you.
 c. A friend has a keen interest in drawing maps and figures. Show
@@ -7087,37 +5716,30 @@ achievements in my studies. She hardly teaches me life
 skills.
 Puja : ……......... . She only tells me to read and write.
 English 10 231
-
-https://importantedunotes.com/
 Grammar I
 A.  Match the sentences in column A with their question tags
 in column B.
-| Column A |                                        |     | Column B      |     |
-| -------- | -------------------------------------- | --- | ------------- | --- |
-| a.       | They don't need to come this evening,  |     | can she?      |     |
-| b.       | James is working on that,              |     | did it?       |     |
-| c.       | Punam’s parents have been retired,     |     | will it?      |     |
-| d.       | It was raining that day,               |     | wasn't it?    |     |
-| e.       | You hadn't met me before,              |     | would you?    |     |
-| f.       | He never came again,                   |     | do I?         |     |
-| g.       | She can rarely come these days,        |     | don't you?    |     |
-| h.       | You hardly ever came late,             |     | haven't I?    |     |
-| i.       | I barely know you,                     |     | did he?       |     |
-| j.       | You would scarcely expect her to know  |     | haven't they? |     |
+| Column A | | | Column B | |
+| a. | They don't need to come this evening,  | | can she? | |
+| b. | James is working on that, | | did it? | |
+| c. | Punam’s parents have been retired, | | will it? | |
+| d. | It was raining that day, | | wasn't it? | |
+| e. | You hadn't met me before, | | would you? | |
+| f. | He never came again, | | do I? | |
+| g. | She can rarely come these days, | | don't you? | |
+| h. | You hardly ever came late, | | haven't I? | |
+| i. | I barely know you, | | did he? | |
+| j. | You would scarcely expect her to know  | | haven't they? | |
 that,
-| k.  | Nothing will happen,      |     | had you?  |     |
-| --- | ------------------------- | --- | --------- | --- |
-| l.  | I am right,               |     | do they?  |     |
-| m.  | You have to go,           |     | did you?  |     |
-| n.  | I have been answering,    |     | aren't I? |     |
-| o.  | Nothing came in the post, |     | isn’t he? |     |
-B.   Supply the correct question tags.
-| a.      | This'll work, ……..?             |     |     |            |
-| ------- | ------------------------------- | --- | --- | ---------- |
-| b.      | Well, I couldn't help it, ……..? |     |     |            |
-| 232     |                                 |     |     | English 10 |
-
-https://importantedunotes.com/
+| k.  | Nothing will happen, | | had you?  | |
+| l.  | I am right, | | do they?  | |
+| m.  | You have to go, | | did you?  | |
+| n.  | I have been answering, | | aren't I? | |
+| o.  | Nothing came in the post, | | isn’t he? | |
+B. Supply the correct question tags.
+| a. | This'll work, ……..? | | | |
+| b. | Well, I couldn't help it, ……..? | | | |
+| 232 | | | | English 10 |
 c. But you don't really love her, …...?
 d. We'd never have known, …….?
 e. The weather's bad, ……..?
@@ -7143,8 +5765,6 @@ Did you have any special purpose for this travel?
 What are some memorable activities and experiences?
 Have you learnt anything important?
 English 10 233
-
-https://importantedunotes.com/
 Reading II
 Look at the pictures and guess the answers to the questions.
 a. What seasons do these two pictures represent?
@@ -7168,8 +5788,6 @@ And drops on gate bars hang in a row,
 Thomas Hardy
 And rooks in families homeward go,
 2A3n4d so do I. English 10
-
-https://importantedunotes.com/
 A. Find the words from the poem that are similar in meaning
 to the following words/phrases.
 a. a brief and usually light fall of rain
@@ -7187,7 +5805,7 @@ c. How do the girls come out in spring?
 d. What plan do people make?
 e. What happens to beeches in winter?
 f. Where do rooks go? Why do they migrate?
-C. Cg.o mpDloeetse t hteh peo ient teenrjpoyr ethtae twioinnt eor fo rt hthee p sporeimng ?u Wsihnyg? suitable
+C. Cg.o mpDloeetse t hteh peo ient teenrjpoyr ethtae twioinnt eor of rt hthee p sporeimng ?u Wsihnyg? suitable
 words or phrases given below.
 chestnut young girls south and west
 Thomas Hardy severity sunny
@@ -7198,8 +5816,6 @@ In the first stanza, the pleasant spring season is described. Cuckoo and
 nightingale feel good in this season. The light rain flows over the pointed
 leaves of…….. tree. The poet is pleased as the nightingale sings at his
 English 10 235
-
-https://importantedunotes.com/
 best tune. People come out of their houses to enjoy the weather and the
 birds’ song. The…….. are seen in their fine clothes. The people plan to visit
 different places of …... To an English person, the south and the west are
@@ -7227,8 +5843,6 @@ Listen and number the pictures according to the order of
 the information in audio.
 A B 1 C
 236 English 10
-
-https://importantedunotes.com/
 C. Recount a memorable experience you had during your
 travel. And share it with the class.
 Grammar II
@@ -7250,8 +5864,6 @@ n. None met me last week, …………..?
 o. Everything is perishable, …………..?
 p. I think he’s busy, …………..?
 English 10 237
-
-https://importantedunotes.com/
 Writing II
 Prepare a brochure of a touristic place in your locality. Include
 the following points:
@@ -7274,41 +5886,31 @@ tWheh eapno sshtroouplhde y.ou use contractions?
 Contractions are considered informal, so they should not be used in
 formal writing like academic papers, letters of applications, etc.
 238 English 10
-
-https://importantedunotes.com/
 Common contractions
-| Contraction | Meaning    | Contraction | Meaning   |
-| ----------- | ---------- | ----------- | --------- |
-| could’ve    | could have | you’d       | you had,  |
+| Contraction | Meaning | Contraction | Meaning |
+| could’ve | could have | you’d | you had,  |
 you would,
-| he’d       | he had, he would   | you’ll   | you will  |
-| ---------- | ------------------ | -------- | --------- |
-| he’ll      | he will            | you’re   | you are   |
-| he’s       | he has, he is      | you’ve   | you have  |
-| here’s     | here is            | isn't    | is not    |
-| how’d      | how did, how would | aren’t   | are not   |
-| how’ll     | how will           | can’t    | cannot    |
-| how’re     | how are            | couldn’t | could not |
-| how’s      | how has, how is    | didn’t   | did not   |
-| I’d        | I had, I would     | doesn’t  | does not  |
-| I’ll       | I will             | don’t    | do not    |
-| I’m        | I am               | hadn’t   | had not   |
-| somebody’s | somebody has,      | hasn’t   | has not   |
+| he’d | he had, he would | you’ll | you will  |
+| he’ll | he will | you’re | you are |
+| he’s | he has, he is | you’ve | you have  |
+| here’s | here is | isn't | is not |
+| how’d | how did, how would | aren’t | are not |
+| how’ll | how will | can’t | cannot |
+| how’re | how are | couldn’t | could not |
+| how’s | how has, how is | didn’t | did not |
+| I’d | I had, I would | doesn’t  | does not  |
+| I’ll | I will | don’t | do not |
+| I’m | I am | hadn’t | had not |
+| somebody’s | somebody has, | hasn’t | has not |
 somebody is
 | someone’s | someone has, someone  | haven’t | have not |
-| --------- | --------------------- | ------- | -------- |
 is
 | something’s | something has,  | mustn’t | must not |
-| ----------- | --------------- | ------- | -------- |
 something is
-| that’s  | that has, that is   | shouldn’t | should not |
-| ------- | ------------------- | --------- | ---------- |
-| this’s  | this is, this has   | shan’t    | shall not  |
-| there’s | there has, there is | weren’t   | were not   |
+| that’s  | that has, that is | shouldn’t | should not |
+| this’s  | this is, this has | shan’t | shall not  |
+| there’s | there has, there is | weren’t | were not |
 English 10  239
-
-https://importantedunotes.com/
-15
 People and Places
 Getting started
 Look at the pictures and talk to your friends about them.
@@ -7319,8 +5921,6 @@ Look at the picture and answer these questions.
 a. Who is the person in the picture?
 b. What is she famous for?
 240 English 10
-
-https://importantedunotes.com/
 Me at the Beginning of Life
 I have understood now that life is a beautiful flower of creation. Whether
 my own life falls within my definition of life, well, I do not know. When my
@@ -7355,8 +5955,6 @@ from one birth to another. So, I was a thorn that pricked everyone’s
 eyes. When they saw me, those eyes did not fill with sympathy and
 that heart never melted with love. Who were very displeased with
 Emneg, liwshh o1 0w ere very angry. In the end, how right was it for them to2 b41e
-
-https://importantedunotes.com/
 like this to a tender, innocent child? I had no option but to endure all of
 those things in silence. Inside my child heart, the question continually
 arose, ‘How am I to blame for all of this?’ I had no medium through which
@@ -7392,23 +5990,7 @@ were ones that would never be fulfilled, they fell upon me, wounded.
 Yes, I was so robbed by fate that I was unable to even get up from my bed.
 My poor grandmother, white-haired like the moon over the hill, might
 2h4a2ve p icked m e up a nd tak en me on he r lap. H ow she must ha
-E
-v
-n
-e
-g
-l
-l
-o
 is
-n
-h
-g
-1
-ed
-0
-
-https://importantedunotes.com/
 that her son’s first offspring would call her ‘grandmother’ in its baby
 voice, that it would pull at the wrinkles on her face with its little hands.
 But grandmother, I could not fulfil your wishes. Your other grandchildren
@@ -7430,7 +6012,7 @@ colours of life and understood life from various angles and experienced
 the beauty of life myself. Grandmother, you are not with me now, that is
 - Jhamak Ghimire (The opening chapter of Jivan Kanda Ki Phul,
 your misfortune. But you are still living all through my heart and mind.
-translated by Michael Hutt)
+translated by Michael Hutt
 A. Find the words from the text that have the following
 meanings.
 a. …………………. lacking taste
@@ -7441,41 +6023,31 @@ e. …………………. a particular attitude towards something
 f. …………………. a person's child or children
 g. …………………. bad luck
 English 10 243
-
-https://importantedunotes.com/
 B.  Complete the sentences below choosing the correct words
 from the text.
-| a.    | The word 'calm' is opposite in meaning to …………..  |     |     |     |
-| ----- | ------------------------------------------------- | --- | --- | --- |
-| b.    | The phrase ………….. means 'died.'                   |     |     |     |
-| c.    | The word ………….. means incapable of being seen.    |     |     |     |
-| d.    | The word 'wish' and ………….. are synonyms.          |     |     |     |
-C.   Se.t  a teT wheh wetohrde r… t…h…e …fo..l mloewanins gm satkaitnegm dierntyt.s are True or False.
-a.   Jhamak Ghimire defines her life as a beautiful flower of creation.
-b.    According to her, our fortune decides how our life will be.
-c.    The author was happy with how she spent her childhood.
-d.    People blamed Jhamak herself for her physical disability.
-e.   According to the writer, Homer was incomplete because he was
+| a. | The word 'calm' is opposite in meaning to …………..  | | | |
+| b. | The phrase ………….. means 'died.' | | | |
+| c. | The word ………….. means incapable of being seen. | | | |
+| d. | The word 'wish' and ………….. are synonyms. | | | |
+C. Se.t  a teT wheh wetohrde r… t…h…e …of..l mloewanins gm satkaitnegm dierntyt.s are True or False.
+a. Jhamak Ghimire defines her life as a beautiful flower of creation.
+b. According to her, our fortune decides how our life will be.
+c. The author was happy with how she spent her childhood.
+d. People blamed Jhamak herself for her physical disability.
+e. According to the writer, Homer was incomplete because he was
 physically incapable.
-| f.    | Jhamak could make grandmother happy with her voice.  |     |     |     |
-| ----- | ---------------------------------------------------- | --- | --- | --- |
-D.   Ag.n  swJhearm thake'sse g rqaunedsmtioothnesr. still looks after her.
-| a.    | Why does Jhamak think her life as a burdensome life? |     |     |     |
-| ----- | ---------------------------------------------------- | --- | --- | --- |
-| b.    | When does the fortune draw a line of fate?           |     |     |     |
-c.   How did people respond to her life? Was she happy with their
+| f. | Jhamak could make grandmother happy with her voice.  | | | |
+D. Ag.n  swJhearm thake'sse g rqaunedsmtioothnesr. still looks after her.
+| a. | Why does Jhamak think her life as a burdensome life? | | | |
+| b. | When does the fortune draw a line of fate? | | | |
+c. How did people respond to her life? Was she happy with their
 behavior?
-| d.   | Who does Jhamak compare herself with? What made them  |     |     |     |
-| ---- | ----------------------------------------------------- | --- | --- | --- |
+| d. | Who does Jhamak compare herself with? What made them  | | | |
 different from Jhamak?
-| e.    | Did achieving awareness become a curse for her? Why? |     |     |     |
-| ----- | ---------------------------------------------------- | --- | --- | --- |
-f.    How does Jhamak picturise her family's economic condition
+| e. | Did achieving awareness become a curse for her? Why? | | | |
+f. How does Jhamak picturise her family's economic condition
 during her childhood?
-| 244     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 244 | | | | English 10 |
 E. Read the opening chapter of Jivan Kada Ki Phul in Nepali
 and narrate the story of Jhamak's life in your own words.
 Pronunciation
@@ -7501,8 +6073,6 @@ you?
 Woman : Someone snatched
 my handbag.
 English 10 245
-
-https://importantedunotes.com/
 Police Inspector : Can you describe the person?
 Woman : He is a young man, sir. He is of medium height. I saw
 only the side of his face. He is rather dark-skinned.
@@ -7528,8 +6098,6 @@ A. Read the conversation below and underline the relative
 clauses used in it.
 Swikriti : Abdul, look at this photo.
 246 English 10
-
-https://importantedunotes.com/
 Abdul : Is this Sahara, the girl who plays
 the piano?
 Swikriti : No, this is Reema, the girl who
@@ -7556,44 +6124,34 @@ sweetness nor the joy of life.
 Example 2 : The mother bore me. She also taught me values.
 The mother, who bore me, also taught me values.
 English 10 247
-
-https://importantedunotes.com/
-a.   The letter reached me this morning. My friend sent it from
+a. The letter reached me this morning. My friend sent it from
 abroad.
-| b.    | This is the palace. Bhimsen built it. |     |     |     |
-| ----- | ------------------------------------- | --- | --- | --- |
-c.    The boy committed cybercrime. The judge sent him to jail.
-| d.    | He is a liar. You should not believe him.              |     |     |     |
-| ----- | ------------------------------------------------------ | --- | --- | --- |
-| e.    | I know an artist. He moves with an artificial leg.     |     |     |     |
-| f.    | Bring me the file. The file is about our new project.  |     |     |     |
-| g.    | We met a girl. The girl had lost her way.              |     |     |     |
-| h.    | I saw a soldier. His bravery impressed everyone.       |     |     |     |
-i.   Once upon a time there lived a giant in a forest. Nobody dared
+| b. | This is the palace. Bhimsen built it. | | | |
+c. The boy committed cybercrime. The judge sent him to jail.
+| d. | He is a liar. You should not believe him. | | | |
+| e. | I know an artist. He moves with an artificial leg. | | | |
+| f. | Bring me the file. The file is about our new project.  | | | |
+| g. | We met a girl. The girl had lost her way. | | | |
+| h. | I saw a soldier. His bravery impressed everyone. | | | |
+i. Once upon a time there lived a giant in a forest. Nobody dared
 to go there.
 Writji. n  g TIhe dog took away the ball. The kids were playing it.
 Write	a	short	biography	of	Nepali	literary	figure	Til	Bikram
 Nembang Limbu also known as Bairagi Kainla. Use the outlines
 given below.
-| Birth       | :  August 9, 1939- Panchthar, Nepal     |     |     |     |
-| ----------- | --------------------------------------- | --- | --- | --- |
-| Education   | :  Bachelor's Arts – learnt letters at  |     |     |     |
+| Birth | :  August 9, 1939- Panchthar, Nepal | | | |
+| Education | :  Bachelor's Arts – learnt letters at  | | | |
 home- taught by local teachers
-| Publications   | :  Bairagi Kainlaka Kavitaharu,  |     |     |     |
-| -------------- | -------------------------------- | --- | --- | --- |
+| Publications | :  Bairagi Kainlaka Kavitaharu,  | | | |
 Sappok-Chomen: Limbu Jatima
 Kokh-Puja, Nawacoit Mundhum
 and others
 Tesro Aayam
 Contributions  :  Poet, former Chancellor of the Nepal Academy, pioneer
-|     | of  |  (Third Dimension) movement |     |     |
-| --- | --- | --------------------------- | --- | --- |
+| | of  |  (Third Dimension) movement | | |
 Awards  :  Jagdamba Shree Award, 2076 B.S. - Sajha Puraskar, 2031
 B.S., Vishist Shrasta Samman, B.S. 2066, etc.
-| 248     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 248 | | | | English 10 |
 Reading II
 Look at the pictures below and answer these questions.
 a. What do you see in the first picture?
@@ -7601,7 +6159,6 @@ b. DoS yuogu athrinlok arofc kM cloimubnintga isin ad: v5en Itnurtoeurs?e Wsthiy
 Sugarloaf Mountain is a striking natural landmark overlooking Rio de
 Janeiro that sits at the entrance to Guanabara Bay in southeastern Brazil.
 Known as Pao de Acucar in Portuguese, it is named for its unique shape
-th
 that resembles a traditional form of refined sugar used in the 19 century.
 A tall granite cone with a circular top, it reaches up some 1299 feet, or
 396 metres. Here are 5 interesting facts about this spectacular part of Rio
@@ -7624,8 +6181,6 @@ Babylon Mountain and Morro de
 Urca, or Urca's mountain are two
 neighboring natural wonders.
 English 10 249
-
-https://importantedunotes.com/
 These two mountains are also accessible to the public and open to rock
 climbers. Morro de Urca offers a play area for children and a restaurant
 tChat serves up delicious dishes.
@@ -7644,7 +6199,6 @@ in front of Sugar Loaf Mountain.
 Translated as "the bosom of the sea",
 it was home to several fortifications
 built by the colonial government
-th
 in the 16 century. Guanabara is
 made up of more than 130 islands
 and surrounded by beautiful natural
@@ -7657,8 +6211,6 @@ from a height of 1296 feet. The cars
 themselves are enclosed by glass
 panels. As you begin to ascend
 250 English 10
-
-https://importantedunotes.com/
 to the very top, you can enjoy
 the breathtaking views unfolding
 below you. Because Sugarloaf
@@ -7669,7 +6221,7 @@ of a bustling city, a tranquil bay,
 and a sparkling ocean. You will
 love reaching the summit, but
 the journey there will be just as
-(Source: Brazil Culture and Travel.com)
+Source: Brazil Culture and Travel.com
 enjoyable.
 A. Match these words with their meanings.
 a. landmark i. walls or other constructions built to
@@ -7685,39 +6237,33 @@ to see and recognize
 g. peninsula vii. covered with buildings across a large area
 h. bustling viii. calm, quiet, and peaceful
 English 10 251
-
-https://importantedunotes.com/
 B.  We can form adjectives by adding'-ing' or '-ed' at the end
 of the verbs as in sprawling, bustling and unfolded in the
 text. Complete the following sentences changing the verbs
 in the brackets into adjectives by adding '-ing' or '-ed'.
-a.   The children were ………… when they missed the beginning of
-the movie. (annoy)
-b.   Have you read 'Agni' by Nabaraj Lamsal? It's a great book if you
-are ………… in reading poems. (interest)
-c.   The result of the game was ………… The best team didn't win!
-(surprise)
-d.    I don't enjoy going out with Sumi. She's the most ………… person
-I've ever met. (bore)
-e.   The students were so ………… when their school decided to take
-them on a trip. (excite)
-f.    Angeela was quite ………… when she was flying for the first time.
-(terrify)
-g.    I love to go to the fairs because they perform very ………… magic.
-(interest)
+a. The children were ………… when they missed the beginning of
+the movie. (annoy
+b. Have you read 'Agni' by Nabaraj Lamsal? It's a great book if you
+are ………… in reading poems. (interest
+c. The result of the game was ………… The best team didn't win!
+surprise
+d. I don't enjoy going out with Sumi. She's the most ………… person
+I've ever met. (bore
+e. The students were so ………… when their school decided to take
+them on a trip. (excite
+f. Angeela was quite ………… when she was flying for the first time.
+terrify
+g. I love to go to the fairs because they perform very ………… magic.
+interest
 C.  Match the paragraphs of Reading II with their correct
 headings.
-
-| Paragraphs        |     | Headings                     |     |            |
-| ----------------- | --- | ---------------------------- | --- | ---------- |
-| A                 |     | i.   Neighboring Mountains   |     |            |
-| B                 |     | ii.   Awesome Cable Car Ride |     |            |
-| C                 |     | iii.  Guanabara Bay          |     |            |
-| D                 |     | iv.  Rock Climbing           |     |            |
-| E                 |     | v.  Hollywood Star           |     |            |
-| 252               |     |                              |     | English 10 |
-
-https://importantedunotes.com/
+| Paragraphs | | Headings | | |
+| A | | i. Neighboring Mountains | | |
+| B | | ii. Awesome Cable Car Ride | | |
+| C | | iii.  Guanabara Bay | | |
+| D | | iv.  Rock Climbing | | |
+| E | | v.  Hollywood Star | | |
+| 252 | | | | English 10 |
 D. Answer these questions.
 a. Where is Sugarloaf Mountain located?
 b. How did the mountain get the name 'Sugarloaf Mountain'?
@@ -7745,8 +6291,6 @@ d. The boy's friend is wearing ..................... and sporty shoes.
 e. The girl is friendly with a nice ……………...
 f. Emma sees the girl ….whom the boy has been looking for.
 English 10 253
-
-https://importantedunotes.com/
 C. Describe the physical appearance of one of your friends in
 five sentences.
 Grammar II
@@ -7756,13 +6300,13 @@ a. I love to travelling. Therefore, I went to Delhi …………. (on, by,
 at) plane last week.
 b. Namrata visited Lumbini ……………. (in, since, from) 2002.
 c. My best friend lives ………. (in, at, on) a beautiful house ……….
-(across, at, on) the street.
+across, at, on) the street.
 d. We had to walk …………. (until, as far as, up to) the edge of the
 desert to find water.
 e. The Prime Minister died ………. (from, with, of) a head injury a
 few days ………. (after, on, at) his accident.
 f. My family has been living …………. (on, in, at) Dharan……….
-(since, for, in) two years.
+since, for, in) two years.
 g. I am very pleased …………. (in, with, to) meet you.
 h. He is a tall boy …………. (in, with, on) long brown hair.
 i. Guman Singh is a student …………. (in, on, at) Tribhuvan
@@ -7772,14 +6316,12 @@ semester.
 k. I love your house …………. (by, with, at) the river.
 l. She misses her grandfather because she has not met him ……….
 B. Complete the text below with the correct prepositions.
-(in, for, on) ages.
+in, for, on) ages.
 I live ………… Bhairahawa, but every summer I like to travel ……………
 Pokhara. I am afraid ………….. travelling by plane. Last summer
 I decided I would travel ………….. bus. According to the ticket I
 received .……. the travel agency, the bus would leave Pokhara …………
 254 9: 15 pm ………… . Frid ay and arriv e ……… … Pokhara theE fnogllloiswhi n10g
-
-https://importantedunotes.com/
 day at 5:30 ………….. the morning. The travel would include boating
 ………… Phewa Lake ……….. one end of the lake ………… another end.
 We would also drive ……….. different beautiful places. It would be
@@ -7810,51 +6352,40 @@ against, balanced against, vis a vis, but,
 although, conversely, meanwhile, after all,
 in contrast, although, etc.
 English 10 255
-
-https://importantedunotes.com/
 To show similarity similarly, in the same way, by the same token, in
 like manner, equally, likewise, etc.
 To prove the  because, for, since, for the same reason, obviously,
-| argument |     | evidently, furthermore, moreover, besides,  |     |     |     |
-| -------- | --- | ------------------------------------------- | --- | --- | --- |
+| argument | | evidently, furthermore, moreover, besides,  | | | |
 indeed, in fact, in addition, in any case, that is
-(i.e.), etc.
+i.e.), etc.
 To show exception yet, still, however, nevertheless, in spite of,
 despite, of course, once in a while, sometimes,
 etc.
 To show time immediately, thereafter, soon, after a few hours,
 finally, then, later, previously, formerly, first
-(second, etc.), next, and then, etc.
+second, etc.), next, and then, etc.
 To repeat the idea in brief, as mentioned earlier, as I noted before,
 etc.
-| To make       |     | that is (to say), namely, specifically, more  |     |     |     |
-| ------------- | --- | --------------------------------------------- | --- | --- | --- |
-| clarification |     | precisely, in other words, etc.               |     |     |     |
+| To make | | that is (to say), namely, specifically, more  | | | |
+| clarification | | precisely, in other words, etc. | | | |
 To emphasize the  definitely, obviously, in fact, indeed, in any case,
-| point |     | absolutely, naturally, forever, emphatically,  |     |     |     |
-| ----- | --- | ---------------------------------------------- | --- | --- | --- |
+| point | | absolutely, naturally, forever, emphatically,  | | | |
 unquestionably, without a doubt, certainly,
 undeniably, etc.
 To show sequence first, second, third, and so forth, next, then,
 following this, at this time, now, at this point, after,
 afterward, subsequently, finally, consequently,
-|     |     | previously,  | before  this,  | simultaneously,  |     |
-| --- | --- | ------------ | -------------- | ---------------- | --- |
+| | | previously,  | before  this,  | simultaneously,  | |
 concurrently, thus, therefore, hence, next, and
 then, soon, etc.
 To give an example for example, for instance, in this case, in another
 case, on this occasion, in this situation, take the
 case of, to demonstrate, to illustrate, etc.
-| To summarize or  |     | to sum up, in brief, on the whole, summing       |     |     |     |
-| ---------------- | --- | ------------------------------------------------ | --- | --- | --- |
-| conclude         |     | up, to conclude, in conclusion, as I have said,  |     |     |     |
+| To summarize or  | | to sum up, in brief, on the whole, summing | | | |
+| conclude | | up, to conclude, in conclusion, as I have said,  | | | |
 hence, therefore, accordingly, thus, as a result,
 consequently, etc.
-| 256     |     |       |     |     | English 10 |
-| ------- | --- | ----- | --- | --- | ---------- |
-
-https://importantedunotes.com/
-16
+| 256 | | | | | English 10 |
 Success and Celebration
 Getting started
 Look at the pictures below and discuss what it takes to achieve
@@ -7869,8 +6400,6 @@ Whenever you think about great personalities who started from very
 humble beginnings and achieved extraordinary success, who comes
 to your mind? Walt Disney’s name springs to many people’s minds.
 English 10 257
-
-https://importantedunotes.com/
 Walt Disney is known as an
 extraordinarily successful
 and creative person whose
@@ -7878,7 +6407,6 @@ visions as an animator,
 filmmaker, and theme park
 developer changed the
 entertainment world in the
-th
 20 century and beyond.
 Yet, dig a little deeper into
 Disney’s background, and you will discover that his road to success was
@@ -7906,8 +6434,6 @@ convinced Roy to join him out West so they could set up
 a shop. Not so long after, Disney found his first major
 success with the creation of Oswald the Lucky Rabbit.
 258 English 10
-
-https://importantedunotes.com/
 Disney’s character Oswald was lucky, becoming a huge star in one- reel
 animation, but Disney himself would find his luck had run out. Travelling
 to New York to renegotiate his contract, he discovered that his producer
@@ -7928,7 +6454,7 @@ from him, led to Disney having a nervous breakdown. After taking some
 time off with his wife to recover, Disney returned with a bold new idea: He
 would develop a full-length animation feature, which he would call Snow
 White and the Seven Dwarfs (1937). It would become a huge success at
-the box office, yet the films that followed, inocchio (1940), Fantasia (1940)
+the box office, yet the films that followed, inocchio (1940), Fantasia (1940
 and Bambi (1942), would end up being duds.
 If Disney didn’t already have enough burdens to shoulder, more were on
 the way. His animators went on strike at the start of World War II and
@@ -7941,8 +6467,6 @@ and Davy Crockett, Disney was able to harness enough capital to launch
 his biggest venture yet: Disneyland.
 Disneyland was opened on July 17, 1955, in Anaheim, California.
 English 10 259
-
-https://importantedunotes.com/
 Like most of Disney’s enterprises, it got off to a rocky start. Forged tickets
 were bringing more visitors than anticipated, adding to a line that trailed
 seven miles long. With temperature soaring up to 100 degrees, the
@@ -7957,77 +6481,63 @@ I’ve had in my life, all the troubles and obstacles have strengthened me.
 You may not realise it when it happens, but a kick in the teeth may be the
 best thing in the world for you.”
 260 English 10
-
-https://importantedunotes.com/
 A.  Use the correct words/phrases given below to complete
 the sentences.
-| domineering  | solace   | apprentice | bankrupt |
-| ------------ | -------- | ---------- | -------- |
-| plotting     | afloat   | mounting   | harness  |
-| perseverance | colossal |            |          |
-a.   Kisan had to sell his house to keep his business ....................
-b.   He was accused of .................... the robbery of the bank.
-c.   Scientists are trying to .................... the sun’s rays as a new source
+| domineering  | solace | apprentice | bankrupt |
+| plotting | afloat | mounting | harness  |
+| perseverance | colossal | | |
+a. Kisan had to sell his house to keep his business ....................
+b. He was accused of .................... the robbery of the bank.
+c. Scientists are trying to .................... the sun’s rays as a new source
 of energy.
-d.   Many companies went .................... during the economic
+d. Many companies went .................... during the economic
 depression.
-e.    Courage and .................... are the keys to success in life.
+e. Courage and .................... are the keys to success in life.
 f.  The government had .................... pressure from the public to
 withdraw the bill.
-g.   After his graduation, he worked as a/an .................... electrician
+g. After his graduation, he worked as a/an .................... electrician
 in a company.
-h.   The government spent a .................... amount of money on the
+h. The government spent a .................... amount of money on the
 renovation of the historical buildings.
-i.    Kathy was brought up by an unkind .................... stepmother.
+i. Kathy was brought up by an unkind .................... stepmother.
 B.  Fj. i n  d Ptahteri mcke taoonkin ..g...s... .o...f. .t..h...e. i nfo tlhleo wcoimngp apnhyr oafs heiss /midaiteosm. s from a
 dictionary and use them in your sentences.
-| a.  make ends meet     |     | b.   silver lining      |     |
-| ---------------------- | --- | ----------------------- | --- |
-| c.  nervous breakdown  |     | d.   kick in the teeth  |     |
-| e.  drop out           |     | f.  set off             |     |
+| a.  make ends meet | | b. silver lining | |
+| c.  nervous breakdown  | | d. kick in the teeth  | |
+| e.  drop out | | f.  set off | |
 English 10  261
-
-https://importantedunotes.com/
 C.  The following sentences represent some events in Disney’s
 life. Study and rewrite them in the chronological order.
 a.  He shifted his focus from big screens to television shows.
-| b.  | He successfully founded the famous Disneyland. |     |     |     |
-| --- | ---------------------------------------------- | --- | --- | --- |
-c.   He returned to Chicago and worked as a trainee at an art studio.
-d.    He created the characters, Oswald the Lucky Rabbit and Mickey
+| b.  | He successfully founded the famous Disneyland. | | | |
+c. He returned to Chicago and worked as a trainee at an art studio.
+d. He created the characters, Oswald the Lucky Rabbit and Mickey
 Mouse.
-| e.    | The cartoon company collapsed.                       |     |     |     |
-| ----- | ---------------------------------------------------- | --- | --- | --- |
-| f.    | Disney suffered severe mental and emotional illness. |     |     |     |
-g.   Disney left home and went to France to work as an ambulance
-D.   Answderirv ethr.ese questions.
-| a.    | How was Walt Disney’s childhood?     |     |     |     |
-| ----- | ------------------------------------ | --- | --- | --- |
-| b.    | Describe Disney’s family background. |     |     |     |
-c.    What did Disney do after his failure in the first business?
-| d.    | How was the character of Mickey Mouse created?    |     |     |     |
-| ----- | ------------------------------------------------- | --- | --- | --- |
-| e.    | Why did Disney have a mental breakdown?           |     |     |     |
-| f.    | Which of his films were commercially useless?     |     |     |     |
-| g.    | Which films produced him great financial returns? |     |     |     |
-h.    Why do you think the opening of Disneyland was called ‘Black
+| e. | The cartoon company collapsed. | | | |
+| f. | Disney suffered severe mental and emotional illness. | | | |
+g. Disney left home and went to France to work as an ambulance
+D. Answderirv ethr.ese questions.
+| a. | How was Walt Disney’s childhood? | | | |
+| b. | Describe Disney’s family background. | | | |
+c. What did Disney do after his failure in the first business?
+| d. | How was the character of Mickey Mouse created? | | | |
+| e. | Why did Disney have a mental breakdown? | | | |
+| f. | Which of his films were commercially useless? | | | |
+| g. | Which films produced him great financial returns? | | | |
+h. Why do you think the opening of Disneyland was called ‘Black
 Sunday’?
-i.   What special quality of Disney made him finally a successful
+i. What special quality of Disney made him finally a successful
 entrepreneur?
-E.	 Wj.   hoW	hahast	i lnesspsoirne ddo	 yyoouu 	lseiagrnni ffricoamn Dtliysn	ieny	y’so luifre	?life?	Share	her/
+E.	 Wj. hoW	hahast	i lnesspsoirne ddo	 yyoouu 	lseiagrnni ffricoamn Dtliysn	ieny	y’so luifre	?life?	Share	her/
 his life story to the class.
-| 262     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 262 | | | | English 10 |
 Pronunciation
 Look up the following words in a dictionary. Pronounce them
 correctly and complete the table below with the information
 related to the word. One has been done for you.
-| Word            | Pronunciation      | Parts of  | Number of  | Stressed    |
-| --------------- | ------------------ | --------- | ---------- | ----------- |
-|                 |                    | speech    | syllables  | syllable(s) |
-| extraordinarily | /ik' str' dnr' li/ | adverb    | six        | second      |
+| Word | Pronunciation | Parts of  | Number of  | Stressed |
+| | | speech | syllables  | syllable(s) |
+| extraordinarily | /ik' str' dnr' li/ | adverb | six | second |
 sibling
 adversity
 renegotiate
@@ -8035,15 +6545,13 @@ venture
 enterprise
 Speaking
 animation
-A.   Study the conversation.
-| Asha    :  Let me share you my good news.  |     |     |     |     |
-| ------------------------------------------ | --- | --- | --- | --- |
-| Bhanu  :  OK. What is it?                  |     |     |     |     |
-| Asha   :  I got a scholarship for my       |     |     |     |     |
+A. Study the conversation.
+| Asha :  Let me share you my good news.  | | | | |
+| Bhanu  :  OK. What is it? | | | | |
+| Asha :  I got a scholarship for my | | | | |
 further studies.
-| Bhanu  :  Many congratulations to you! |     |     |     |     |
-| -------------------------------------- | --- | --- | --- | --- |
-B.  WAsohar k   : inT hpaankir yso.u C voernyg mrautcuh.late people in the following
+| Bhanu  :  Many congratulations to you! | | | | |
+B.  WAsohar k : inT hpaankir yso.u C voernyg mrautcuh.late people in the following
 situations. Use the given expressions.
 Congratulations! You deserve this success.
 Congratulations on your hard work.
@@ -8053,41 +6561,31 @@ Well done!
 That’s wonderful news!
 You did it! So proud of you.
 English 10  263
-
-https://importantedunotes.com/
-a.    Your friend got a GPA of 4.0 in the first terminal examination.
-b.    Your uncle and aunt have got a new baby girl.
-c.    Your cousin got a new job in a bank.
-d.    Your sister got promoted from Sales Assistant to Account
+a. Your friend got a GPA of 4.0 in the first terminal examination.
+b. Your uncle and aunt have got a new baby girl.
+c. Your cousin got a new job in a bank.
+d. Your sister got promoted from Sales Assistant to Account
 Manager.
-e.    Your brother has graduated from a university.
-Grammar I f.    Your neighbour has won a trophy in a tennis tournament.
+e. Your brother has graduated from a university.
+Grammar I f. Your neighbour has won a trophy in a tennis tournament.
 A.  Choose the correct prepositions and complete the sentences.
-a.    A:   When did you reach school?
-  B:   I reached .......... 9:00 to 9:15 am.
-  i. at        ii. between            iii. on    iv. next to
-b.    I usually stay in my office ............ 10 am to 4 pm.
-| i. at        |   ii. on      |        iii. in  |   iv. from |
-| ------------ | ------------- | --------------- | ---------- |
-c.   You should finish your test ............ next 30 minutes.
-| i. at        |   ii. by      | iii. in      | iv. of |
-| ------------ | ------------- | ------------ | ------ |
+a. A: When did you reach school?
+B: I reached .......... 9:00 to 9:15 am.
+i. at ii. between iii. on iv. next to
+b. I usually stay in my office ............ 10 am to 4 pm.
+| i. at | ii. on | iii. in  | iv. from |
+c. You should finish your test ............ next 30 minutes.
+| i. at | ii. by | iii. in | iv. of |
 d.  Noor worked in the hotel ................ 2010.
-| i. for      |   ii. in       | iii. until  | iv. by |
-| ----------- | -------------- | ----------- | ------ |
-e.   I have been looking ........... my spectacles. I don’t remember
+| i. for | ii. in | iii. until  | iv. by |
+e. I have been looking ........... my spectacles. I don’t remember
 where I kept them.
-| i. of    |   ii. to  |   iii. at  |   iv. for |
-| -------- | --------- | ---------- | --------- |
-f.    Mr. Shahi has ten members working ............. him.
+| i. of | ii. to  | iii. at  | iv. for |
+f. Mr. Shahi has ten members working ............. him.
 | i. under  | ii. above  | iii. beside  | iv. on |
-| --------- | ---------- | ------------ | ------ |
-g.   There is a knock …. ……….. the door. Who can be calling us now?
-| i. o n   |     ii. at  |    i ii. in  |    iv. for  |
-| -------- | ----------- | ------------ | ----------- |
-264     English 10
-
-https://importantedunotes.com/
+g. There is a knock …. ……….. the door. Who can be calling us now?
+| i. o n | ii. at  | i ii. in  | iv. for  |
+264 English 10
 h. Kritika is ............... her twenties.
 i. on ii. in iii. at iv. during
 i. There is a great deal ..............violence in some countries.
@@ -8115,8 +6613,6 @@ hard work and dedication of the team
 trophy and cash prizes
 congratulations and best wishes
 English 10 265
-
-https://importantedunotes.com/
 B. Your maternal uncle has recently been promoted to the post
 of Inspector of Nepal Police. Write a letter of congratulation
 extending him your best wishes.
@@ -8139,8 +6635,6 @@ If you can think-and not make thoughts your aim;
 If you can meet with Triumph and Disaster
 And treat those two impostors just the same;
 266 English 10
-
-https://importantedunotes.com/
 If you can bear to hear the truth you’ve spoken
 Twisted by knaves to make a trap for fools,
 Or watch the things you gave your life to, broken,
@@ -8163,34 +6657,26 @@ Yours is the Earth and everything that’s in it,
 -Rudyard Kipling
 And-which is more-you’ll be a Man, my son!
 English 10 267
-
-https://importantedunotes.com/
 A.  Match the following words/phrases with their correct
 meanings.
-| Words/phrases |             |                                        | Meanings |     |
-| ------------- | ----------- | -------------------------------------- | -------- | --- |
-| a.            | unforgiving | i. a dishonest person                  |          |     |
-| b.            | virtue      | ii. badly damaged and no longer useful |          |     |
-| c.            | sinew       | iii. behaviour  showing  high  moral   |          |     |
+| Words/phrases | | | Meanings | |
+| a. | unforgiving | i. a dishonest person | | |
+| b. | virtue | ii. badly damaged and no longer useful | | |
+| c. | sinew | iii. behaviour  showing  high  moral | | |
 standards
-| d.  | pitch-and-toss | iv. a great success, achievement or  |     |     |
-| --- | -------------- | ------------------------------------ | --- | --- |
+| d.  | pitch-and-toss | iv. a great success, achievement or  | | |
 victory
-| e.  | worn-out | v. a game of skill and chance            |     |     |
-| --- | -------- | ---------------------------------------- | --- | --- |
-| f.  | stoop    | vi. a strong band of tissues in the body |     |     |
-| g.  | knave    | vii. not giving a second chance; not     |     |     |
+| e.  | worn-out | v. a game of skill and chance | | |
+| f.  | stoop | vi. a strong band of tissues in the body | | |
+| g.  | knave | vii. not giving a second chance; not | | |
 happening again
-| h.  | triumph | viii. a person who cheats by pretending to  |     |     |
-| --- | ------- | ------------------------------------------- | --- | --- |
+| h.  | triumph | viii. a person who cheats by pretending to  | | |
 be somebody else
-| i.  | impostor | ix. to bend the body forwards and  |     |     |
-| --- | -------- | ---------------------------------- | --- | --- |
-B.   Complete the summary odf othwen pwoaerdms using the given words/
+| i.  | impostor | ix. to bend the body forwards and  | | |
+B. Complete the summary odf othwen pwoaerdms using the given words/
 phrases.
-| will          | importance   |     | success and failure | value |
-| ------------- | ------------ | --- | ------------------- | ----- |
-| inspirational | truthfulness |     | virtue              |       |
+| will | importance | | success and failure | value |
+| inspirational | truthfulness | | virtue | |
 In 'If', Rudyard Kipling provides ................. insights into life. In the first
 stanza, the poet suggests us to keep calm, have self- trust and bear
 ..................... . According to the poet, it is important to be thoughtful
@@ -8202,10 +6688,7 @@ and we should always have a strong ....................... to achieve success.
 In the final stanza, the poet suggests us to maintain our .....................
 no matter who we are with. Most importantly, we must realize the
 .................... of time.
-| 268     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 268 | | | | English 10 |
 C. Answer the following questions.
 a. What does the poet suggest about dealing with lies?
 b. What do you mean by ‘not be tired by waiting’?
@@ -8227,8 +6710,6 @@ iii. to find what their personality traits are
 b. Who was the speaker raised by?
 i. his mother ii. his father iii. his grandparents
 English 10 269
-
-https://importantedunotes.com/
 c. Why does the speaker consider himself lucky?
 i. because he got second chances
 ii. because he got to be focused
@@ -8256,8 +6737,6 @@ f. We may not ............. in everything we try the first time.
 D. Lg.i s teMn itcoh aae lm Joortdiavna twioans anlo ts pseeleeccthe da innd .. .s..h...a...r...e.. .t. hteea mm.ain points
 of the speech to the class.
 270 English 10
-
-https://importantedunotes.com/
 Grammar II
 Complete the following sentences with the correct prepositional
 phrases from the box.
@@ -8270,7 +6749,6 @@ c. Mr. Sharma is not ....................... politics.
 d. The criminal who took the lives of five is still ................. .
 e. I cannot contact him. His phone is ..................... .
 f. The concert went .................. . They had to call the police to take control
-....................... .
 g. Sanskriti is ....................... these days for fear that she will put on weight.
 h. I cannot talk to you now. I am ....................... .
 i. Even though the plane had to take an emergency landing, all the
@@ -8288,38 +6766,32 @@ Visit one of the successful persons in your community. Interview
 the person and write a report on how he/she became successful.
 And also share your report with the class.
 English 10 271
-
-https://importantedunotes.com/
 Extra bit
 Common Archaic Words in English
-| S.N.    | Old English Use | Modern Use                   |     |            |
-| ------- | --------------- | ---------------------------- | --- | ---------- |
-| 1.      | an              | if                           |     |            |
-| 2.      | anon            | now, at once, shortly        |     |            |
-| 3.      | art             | are                          |     |            |
-| 4.      | aye             | yes                          |     |            |
-| 5.      | beseech         | to beg                       |     |            |
-| 6.      | betwixt         | between                      |     |            |
-| 7.      | dost/doth       | do, does                     |     |            |
-| 8.      | ere             | before                       |     |            |
-| 9.      | fain            | ready, willing               |     |            |
-| 10.     | fie             | shame!                       |     |            |
-| 11.     | forsooth        | indeed, for real             |     |            |
-| 12.     | hast/hath       | has                          |     |            |
-| 13.     | hither          | here                         |     |            |
-| 14.     | morrow          | morning                      |     |            |
-| 15.     | nay             | no                           |     |            |
-| 16.     | soft            | stop! be quiet! hold on!     |     |            |
-| 17.     | tis             | it is                        |     |            |
-| 18.     | thee/thou       | you                          |     |            |
-| 19.     | thine/thy       | your                         |     |            |
-| 20.     | thither         | there                        |     |            |
-| 21.     | whence/whither  | where                        |     |            |
-| 22.     | wherefore       | why? (does not mean: Where?) |     |            |
-| 272     |                 |                              |     | English 10 |
-
-https://importantedunotes.com/
-17
+| S.N. | Old English Use | Modern Use | | |
+| 1. | an | if | | |
+| 2. | anon | now, at once, shortly | | |
+| 3. | art | are | | |
+| 4. | aye | yes | | |
+| 5. | beseech | to beg | | |
+| 6. | betwixt | between | | |
+| 7. | dost/doth | do, does | | |
+| 8. | ere | before | | |
+| 9. | fain | ready, willing | | |
+| 10. | fie | shame! | | |
+| 11. | forsooth | indeed, for real | | |
+| 12. | hast/hath | has | | |
+| 13. | hither | here | | |
+| 14. | morrow | morning | | |
+| 15. | nay | no | | |
+| 16. | soft | stop! be quiet! hold on! | | |
+| 17. | tis | it is | | |
+| 18. | thee/thou | you | | |
+| 19. | thine/thy | your | | |
+| 20. | thither | there | | |
+| 21. | whence/whither  | where | | |
+| 22. | wherefore | why? (does not mean: Where?) | | |
+| 272 | | | | English 10 |
 Countries and Towns
 Getting started
 Look at the pictures and make a comparison between them.
@@ -8330,8 +6802,6 @@ b. Do you know what tLhoesne dcitoiens avres fPamaoruiss for?
 London vs Paris, which is your favorite destination? If you still cannot
 draw a line, here are the facts and differences between the two cities to
 Ehenlgpli ysho u1 m0 ake a choice. 273
-
-https://importantedunotes.com/
 While London is the capital of the United Kingdom, it is also the
 largest city in the country. The city stands on the River Thames in South
 East England, with its history stretching back to Roman times. Paris, on
@@ -8355,8 +6825,6 @@ brush your cheeks and kiss the air. In terms of the language, the French
 are quite protective of their language. Therefore, while in Paris, try to
 speak some French.The Parisians appreciate it when foreigners work to
 274 English 10
-
-https://importantedunotes.com/
 speak their language, no matter how rusty it might be. When meeting
 up with someone for a drink, the French urbanites will plan to meet
 and head to a cafe where they will drink their espressos as they enjoy
@@ -8392,8 +6860,6 @@ Paris has more subway stations that are evenly spread compared to
 London’s, which are less spread out. London has an estimate of 22,500
 registered taxis while Paris has 17,000. In terms of bus and train lines,
 English 10 275
-
-https://importantedunotes.com/
 London has twice as many as Paris. Nonetheless, Paris has been actively
 expanding its new tramway network.
 Trust me; it is quite hard to decide on a London vs Paris vacation. In a
@@ -8427,63 +6893,45 @@ appropriate time to fly to Paris is between June and August. Within these
 months, the weather is perfect, and the days have extended hours of
 sunshine.
 276 English 10
-
-https://importantedunotes.com/
 Which is better, London or Paris! Well, both cities have their unique
 aspects. Therefore, it solely depends on what you are looking for, as well
-(Adapted from an article by Alex published in Via Travelers,
+Adapted from an article by Alex published in Via Travelers,
 as your values.
-Destination Travel Blog)
+Destination Travel Blog
 A. Find the words from the text and fill in the crossword puzzle.
-1
-2
-3
-4 5 6 7
-8
-9
-10
 DOWN
 1. a person who lives in a town
 4. an impressive display of a particular type of thing
 6. in accordance with the highest standards; faultless
 7. impaired by lack of recent practice
 English 10 277
-
-https://importantedunotes.com/
 ACROSS
-2.   a person who approaches passers-by in the street asking for donations
-3.    a set of rails that forms the route for a tram
-5.    full of energy and life
-8.    a long, narrow French loaf
-9.    the art of choosing, cooking, and eating good food
-10.   a small close-knit group of people
-B.   Choose the correct alternatives.
-a.   The transport network in London is…......................
-|     | i. limited     |     | ii. widespread |     |
-| --- | -------------- | --- | -------------- | --- |
-|     | iii. ruined    |     | iv. luxurious  |     |
-b.   The number of museums in London is .......................
-|     | i. 69     |     | ii. 153 |     |
-| --- | --------- | --- | ------- | --- |
-|     | iii. 240  |     | iv. 380 |     |
-c.   Paris is better and has more to offer than London in terms
+2. a person who approaches passers-by in the street asking for donations
+3. a set of rails that forms the route for a tram
+5. full of energy and life
+8. a long, narrow French loaf
+9. the art of choosing, cooking, and eating good food
+10. a small close-knit group of people
+B. Choose the correct alternatives.
+a. The transport network in London is…......................
+| | i. limited | | ii. widespread | |
+| | iii. ruined | | iv. luxurious  | |
+b. The number of museums in London is .......................
+| | i. 69 | | ii. 153 | |
+| | iii. 240  | | iv. 380 | |
+c. Paris is better and has more to offer than London in terms
 of ...................
-|     | i. variety in cuisine   |     | ii. number of museums  |     |
-| --- | ----------------------- | --- | ---------------------- | --- |
-|     | iii. arts and crafts    |     | iv. transport          |     |
+| | i. variety in cuisine | | ii. number of museums  | |
+| | iii. arts and crafts | | iv. transport | |
 d.  Which of the following is not the major attraction of Paris?
-|     | i. fashion  |     | ii. cuisine        |     |
-| --- | ----------- | --- | ------------------ | --- |
-|     | iii. art    |     | iv. public library |     |
-e.   Which of the following is not the similarity between the two
+| | i. fashion  | | ii. cuisine | |
+| | iii. art | | iv. public library | |
+e. Which of the following is not the similarity between the two
 cities?
-i.    Both London and Paris are the capital cities.
-ii.   Both cities can be travelled all the year round with nice
+i. Both London and Paris are the capital cities.
+ii. Both cities can be travelled all the year round with nice
 weather.
-| 278     |     |     |       | English 10 |
-| ------- | --- | --- | ----- | ---------- |
-
-https://importantedunotes.com/
+| 278 | | | | English 10 |
 iii. People in both cities are friendly and welcoming.
 iv. Both cities are famous for viewpoints and museums.
 C. State whether the following statements are True or False.
@@ -8506,48 +6954,35 @@ Paris? Why?
 E. Which of the two cities would you like to visit? Give
 reasons.
 English 10 279
-
-https://importantedunotes.com/
 Pronunciation
 Practise these sentences with the correct intonation pattern.
-| a.    | Please, have your seat.                              |     |     |     |
-| ----- | ---------------------------------------------------- | --- | --- | --- |
-| b.    | Have a nice trip.                                    |     |     |     |
-| c.    | Where does your brother live?                        |     |     |     |
-| d.    | Thank you!                                           |     |     |     |
-| e.    | I am a mechanic.                                     |     |     |     |
-| f.    | Why did the man call you?                            |     |     |     |
-| g.    | Do you remember the time when we first met in Japan? |     |     |     |
-| h.    | Is it Shrijana who topped the list?                  |     |     |     |
-| i.    | Kumud attended the test but did not pass it.         |     |     |     |
-Speaj.k   ingMr. Pandey, he is our new manager.
+| a. | Please, have your seat. | | | |
+| b. | Have a nice trip. | | | |
+| c. | Where does your brother live? | | | |
+| d. | Thank you! | | | |
+| e. | I am a mechanic. | | | |
+| f. | Why did the man call you? | | | |
+| g. | Do you remember the time when we first met in Japan? | | | |
+| h. | Is it Shrijana who topped the list? | | | |
+| i. | Kumud attended the test but did not pass it. | | | |
+Speaj.k ingMr. Pandey, he is our new manager.
 Look at the following pictures and study the way they are
 compared and contrasted.
-|   A traditional house  |     |     | A modern house |     |
-| ---------------------- | --- | --- | -------------- | --- |
-Roshan    :  Wow! The houses are exceptionally beautiful, but the first
+| A traditional house  | | | A modern house | |
+Roshan :  Wow! The houses are exceptionally beautiful, but the first
 one is smaller than the other one.
-Sujita   :  Yes, the first house is not as big as the other. However, it
+Sujita :  Yes, the first house is not as big as the other. However, it
 looks more artistic than the second one.
-| 280     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 280 | | | | English 10 |
 B.  Have similar conversations in pairs using suitable adjectives
 or adjectival phrases.
-| a.    | long, attractive to look at, wide |              |
-| ----- | --------------------------------- | ------------ |
-|       | Karnali Bridge                    | Koshi Bridge |
-| b.    | big, easy to tame, hairy          |              |
-|       | Leonberger                        | Bull Terrier |
-
-| c.    | clean, economical to run |           |
-| ----- | ------------------------ | --------- |
-|       | Electric heater          | Coal fire |
-
+| a. | long, attractive to look at, wide | |
+| | Karnali Bridge | Koshi Bridge |
+| b. | big, easy to tame, hairy | |
+| | Leonberger | Bull Terrier |
+| c. | clean, economical to run | |
+| | Electric heater | Coal fire |
 English 10  281
-
-https://importantedunotes.com/
 d. pleasant to shop at, wide range of goods
 Corner shop Supermarket
 Grammar I
@@ -8565,11 +7000,9 @@ h. The woman (soft/softly) sang a lullaby to her infant.
 B. Ci. h ooTshee tkhitet ecno (rtrimecidt /ftoimrmid lyo)f pteheer eadd fjreocmti uvends eorr t hteh ceo aucdhv.erbs
 given in brackets and rewrite the sentences.
 a. Some people think that the Sanskrit language is much ………........
-(complicated) to deal with than the Nepali language.
+complicated) to deal with than the Nepali language.
 b. Metal is ………. (heavy) than wood.
-282 c. Wo od is n ot as … …….(h eavy) as iron . English 10
-
-https://importantedunotes.com/
+282 c. Wo od is n to as … …….(h eavy) as iron . English 10
 d. He ran ……….(quickly) than me.
 e. Albert Einstein was an………. (intelligent) person.
 f. My sister can speak English ………. (well) than Juna.
@@ -8590,8 +7023,6 @@ Who enjoyed, unmolested, the range of the house;
 With plain food content, she would breakfast on cheese,
 She dined upon bacon, and supped on grey peas.
 English 10 283
-
-https://importantedunotes.com/
 A friend from the town to the cottage did stray,
 And he said he was come a short visit to pay;
 So the mouse spread her table as gay as you please,
@@ -8616,8 +7047,6 @@ Here were custard and trifle, and cheese cakes good store,
 Nice sweetmeats and jellies, and twenty things more;
 All that art had invented the palate to please,
 2E8x4ce pt some fat bac on and smoki ng gre y peas . English 10
-
-https://importantedunotes.com/
 They were nicely regaling, when into the room
 Came the dog and the cat, and the maid with a broom:
 They jumped in a custard both up to their knees;
@@ -8645,42 +7074,31 @@ a talk
 g. custard vii. a cold dessert of sponge cake and
 fruit
 English 10 285
-
-https://importantedunotes.com/
-| h.  | trifle | viii. | to deal with something painful or  |     |
-| --- | ------ | ----- | ---------------------------------- | --- |
+| h.  | trifle | viii. | to deal with something painful or  | |
 unpleasant
-| i.  | regale | ix. | not disturbed or attacked by  |     |
-| --- | ------ | --- | ----------------------------- | --- |
+| i.  | regale | ix. | not disturbed or attacked by  | |
 anything
-| j.  | endure | x.  | a facial expression indicating  |     |
-| --- | ------ | --- | ------------------------------- | --- |
+| j.  | endure | x.  | a facial expression indicating  | |
 B.  Write whether the followingd isstaaptpermoveanl otsr  dairsep lTerausuer eor False.
-a.   The country mouse was happy with the way she was living.
-| b.   | The country mouse enjoyed the grand meal every day. |     |     |     |
-| ---- | --------------------------------------------------- | --- | --- | --- |
-c.    The town mouse was unhappy with the food he was served.
-d.   The town mouse invited the country mouse for a dinner in the
+a. The country mouse was happy with the way she was living.
+| b. | The country mouse enjoyed the grand meal every day. | | | |
+c. The town mouse was unhappy with the food he was served.
+d. The town mouse invited the country mouse for a dinner in the
 town.
-e.    In the town, the country mouse was served delicious food.
-C.   Af. n  swTehre rteh wesaes  nqou epesaticoen fosr. the mice in the town.
-| a.  | How did the country mouse live?           |     |     |     |
-| --- | ----------------------------------------- | --- | --- | --- |
-| b.  | Why did the town mouse go to the country? |     |     |     |
-c.   Was the country mouse happy to get an invitation to visit the
+e. In the town, the country mouse was served delicious food.
+C. Af. n  swTehre rteh wesaes  nqou epesaticoen fosr. the mice in the town.
+| a.  | How did the country mouse live? | | | |
+| b.  | Why did the town mouse go to the country? | | | |
+c. Was the country mouse happy to get an invitation to visit the
 town? Why?
-| d.  | What happened while the mice were having dinner? |     |     |     |
-| --- | ------------------------------------------------ | --- | --- | --- |
+| d.  | What happened while the mice were having dinner? | | | |
 D.  De. o yoWuh laivt ed iidn t ah eto cwounn otrry a m coouusne trreyq?u Westh haetr a frreie tnhde f oard?vantages
 and disadvantages of living there?
 Listening
-A.   Answer these questions.
+A. Answer these questions.
 a.  Name the capital cities of two different provinces of Nepal.
 b.  What are the similarities and differences between those cities?
-| 286     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 286 | | | | English 10 |
 B. Dave is asking his friend about Quebec province in Canada.
 Are these statements about Quebec City or Montreal? Listen
 to the audio and put a tick (√) in the correct column.
@@ -8710,8 +7128,6 @@ a. ………. it was summer, the days were rather cold.
 b. A piece of stone struck the workman’s head. …..…., he was not
 hurt.
 English 10 287
-
-https://importantedunotes.com/
 c. I like popcorn………… I don’t like pizza.
 d. ............ her age, she is still working very hard.
 e. ............ Narayan is a skillful worker, he can’t read and write very
@@ -8730,8 +7146,6 @@ country. Lamidada village is one of them. Describe the Lamidada
 village using the following information.
 located in the Khotang district
 2ga8t8e wa y to th e sacre d tem ple of H alesi M ahad ev English 10
-
-https://importantedunotes.com/
 enriched with gorgeous landscape, agricultural land, traditional houses,
 mountain views, humble villagers, dense forest, and many more
 a thick settlement of the Rai people
@@ -8759,9 +7173,6 @@ late. Dependent clauses are connected by subordinate clauses such as
 as, since, though, due to, provided that, because of, if, unless, and so/
 so that.
 English 10 289
-
-https://importantedunotes.com/
-18
 Media and Entertainment
 Getting started
 What do these pictures represent? Talk about them.
@@ -8773,11 +7184,8 @@ Cast:
 Jason Alexander, Joan Allen, Richard Gere, Erick Avari, Robert Capron,
 Director:
 Davenia McFadden, and others
-290
 Las se Hal lstrom
 English 10
-
-https://importantedunotes.com/
 Producer : Inferno Distribution, Grand Army
 Entertainment, Opperman Viner
 Chrystyn Entertainment, Scion
@@ -8810,8 +7218,6 @@ Shibuya Station in Japan in honour of his faithfulness
 and loyalty.
 We, also, see a positive relationship between Parker
 aEnndgl hisihs w10if e Cate (Joan Allen) and their college-age 291
-
-https://importantedunotes.com/
 daughter. The relationship between Parker and Cate is a stable and loving
 marriage of 25 years, and their commitment to each other can be seen in
 many moments throughout the film.
@@ -8847,8 +7253,6 @@ significance.
 Overall, this film brings a breath of fresh air into the secular film world,
 where so-called “family films” are all too often littered with crude jokes
 292 English 10
-
-https://importantedunotes.com/
 and mild profanities, but “Hachi: A Dog’s Story” does not resort to these
 offensive staples of the modern “family friendly” film. The movie is one
 of the most refreshingly clean films that I have seen in a very long time.
@@ -8878,36 +7282,27 @@ e. Strong bonding between the dog and his master makes everyone
 emotional.
 f. This film is different from other family films.
 English 10 293
-
-https://importantedunotes.com/
-C.   Answer these questions.
-| a.    | What is the name of the dog in the movie? |     |     |     |
-| ----- | ----------------------------------------- | --- | --- | --- |
-| b.    | Who directed the movie?                   |     |     |     |
-c.    How was the relationship between the dog and his master?
-| d.    | Why was the statue of the dog made?   |     |     |     |
-| ----- | ------------------------------------- | --- | --- | --- |
-| e.    | Write any two weaknesses of the film. |     |     |     |
-D.  If.f    youW hhaatd t hai ncghsa innc teh et om aosvkie  tthoeu cshc trheee hnewarrti toefr t hoef  atuhdei emncoev?ie a
+C. Answer these questions.
+| a. | What is the name of the dog in the movie? | | | |
+| b. | Who directed the movie? | | | |
+c. How was the relationship between the dog and his master?
+| d. | Why was the statue of the dog made? | | | |
+| e. | Write any two weaknesses of the film. | | | |
+D.  If.f youW hhaatd t hai ncghsa innc teh et om aosvkie  tthoeu cshc trheee hnewarrti toefr t hoef  atuhdei emncoev?ie a
 question, what would you ask? Discuss.
 Pronunciation
-A.   How do you say the following telephone numbers?
-| a. 5059-1023         |     |   b. 5718-3369  |     |     |
-| -------------------- | --- | --------------- | --- | --- |
-B.   Hc. o2w14 d9o-8 y7o77u   p   r  o  no unce tdh. e5 5f5o-l3lo5w27ing years?
-| a. 1984                                     |     |   b. 2022          |     |     |
-| ------------------------------------------- | --- | ------------------ | --- | --- |
-| C.   Hc. o1w80 d0o     y   o   u  sa y the  |     | se nudm. 2b0e0r5s? |     |     |
-| a. 100,000                                  |     |   b. 4, 456, 200   |     |     |
-| Speack. 5in6,g 320, 749                     |     |   d. 907, 542, 991 |     |     |
+A. How do you say the following telephone numbers?
+| a. 5059-1023 | | b. 5718-3369  | | |
+B. Hc. o2w14 d9o-8 y7o77u p r  o  no unce tdh. e5 5f5o-l3lo5w27ing years?
+| a. 1984 | | b. 2022 | | |
+| C. Hc. o1w80 d0o y o u  sa y the  | | se nudm. 2b0e0r5s? | | |
+| a. 100,000 | | b. 4, 456, 200 | | |
+| Speack. 5in6,g 320, 749 | | d. 907, 542, 991 | | |
 A.  Act out the following conversations.
 Conversation I
 Manav  :  How do you feel about the movie 'Hachi: A Dog's Tale'?
-| Sunita   | :  I feel it's a great movie. I really liked it. |     |     |            |
-| -------- | ------------------------------------------------ | --- | --- | ---------- |
-| 294      |                                                  |     |     | English 10 |
-
-https://importantedunotes.com/
+| Sunita | :  I feel it's a great movie. I really liked it. | | | |
+| 294 | | | | English 10 |
 Conversation II
 Jane : Excuse me, I’d like to
 buy a pair of shoes.
@@ -8939,37 +7334,30 @@ a. Nepali movies b. social media
 c. television d. homework
 e. examination f. politics
 English 10 295
-
-https://importantedunotes.com/
 Grammar I
 A.  Put the words in proper order to make questions.
-| a.    | plane/on/feel/did/how/you/the            |     |     |     |
-| ----- | ---------------------------------------- | --- | --- | --- |
-| b.    | are/the kids/doing/what                  |     |     |     |
-| c.    | phone/me/didn't/you/why                  |     |     |     |
-| d.    | did/what/beach/on/he /the/find           |     |     |     |
-| e.    | for/do/parents/have/your/what/breakfast  |     |     |     |
-| f.    | what/will/like/the/weather/tomorrow/be   |     |     |     |
-| g.    | a/nice/they/time/have/did                |     |     |     |
-| h.    | hotel/your/was/near/the/beach            |     |     |     |
-| i.    | visited/ever/Italy/Rita/has              |     |     |     |
-| j.    | you/fishing/gone/ever/have               |     |     |     |
+| a. | plane/on/feel/did/how/you/the | | | |
+| b. | are/the kids/doing/what | | | |
+| c. | phone/me/didn't/you/why | | | |
+| d. | did/what/beach/on/he /the/find | | | |
+| e. | for/do/parents/have/your/what/breakfast  | | | |
+| f. | what/will/like/the/weather/tomorrow/be | | | |
+| g. | a/nice/they/time/have/did | | | |
+| h. | hotel/your/was/near/the/beach | | | |
+| i. | visited/ever/Italy/Rita/has | | | |
+| j. | you/fishing/gone/ever/have | | | |
 B.  Write the questions you would ask in each of the following
 situations.
-| a.    | You want to suggest going to a movie.                  |     |     |     |
-| ----- | ------------------------------------------------------ | --- | --- | --- |
-| b.    | You want to know where Simran lives.                   |     |     |     |
-| c.    | You are inviting a friend to come to your home.        |     |     |     |
-| d.    | You are asking for permission to take a seat on a bus. |     |     |     |
-e.   You are looking for your pet dog. You are asking your neighbour.
-f.    You are asking Bharat about the number of books he has got.
-g.   You are asking your friend if her father cooks everyday or once
+| a. | You want to suggest going to a movie. | | | |
+| b. | You want to know where Simran lives. | | | |
+| c. | You are inviting a friend to come to your home. | | | |
+| d. | You are asking for permission to take a seat on a bus. | | | |
+e. You are looking for your pet dog. You are asking your neighbour.
+f. You are asking Bharat about the number of books he has got.
+g. You are asking your friend if her father cooks everyday or once
 a week.
-| h.      | You are asking your teacher about the weather tomorrow. |     |     |            |
-| ------- | ------------------------------------------------------- | --- | --- | ---------- |
-| 296     |                                                         |     |     | English 10 |
-
-https://importantedunotes.com/
+| h. | You are asking your teacher about the weather tomorrow. | | | |
+| 296 | | | | English 10 |
 C. Complete the conversation with suitable questions.
 Pristine : ………………………………..
 Mr. Waiba : I live in Dhadingbensi.
@@ -8991,8 +7379,6 @@ Look at the pictures and answer these questions.
 a. Can you recognise these social media icons? Name them.
 b. What are they used for?
 English 10 297
-
-https://importantedunotes.com/
 Interesting Social Media Stories
 1. An Ocean Spray Fan Receives a Much-Deserved Reward
 Nathan Apodaca's truck broke down on the way to his job. He decided to
@@ -9026,8 +7412,6 @@ The video was posted on TikTok, Facebook, and Twitter by their teacher.
 As a result, it was eventually retweeted by Nadia Comaneci, an Olympic
 gymnast.
 298 English 10
-
-https://importantedunotes.com/
 The attention from Twitter and Nadia resulted in the two preteens getting
 free gymnastic training, with meals paid for by the Sports Authority of
 India. With this excellent training, we may see these two again at the
@@ -9061,46 +7445,34 @@ disease
 b. platform ii. to have a strong emotional effect on
 somebody
 English 10 299
-
-https://importantedunotes.com/
-| c. pandemic |     | iii. | to silently mouth the words along  |     |
-| ----------- | --- | ---- | ---------------------------------- | --- |
+| c. pandemic | | iii. | to silently mouth the words along  | |
 with a song or some other recording
-| d. overwhelm |     | iv. | a website that serves as a base from  |     |
-| ------------ | --- | --- | ------------------------------------- | --- |
+| d. overwhelm | | iv. | a website that serves as a base from  | |
 which a service is provided
-| e. somersaulting |     | v.  | a place where birds or animals can  |     |
-| ---------------- | --- | --- | ----------------------------------- | --- |
+| e. somersaulting | | v.  | a place where birds or animals can  | |
 live and be protected
-| f. accumulate |     | vi. | to get more and more over a period  |     |
-| ------------- | --- | --- | ----------------------------------- | --- |
+| f. accumulate | | vi. | to get more and more over a period  | |
 of time
-| g. voicemail |     | vii.  | turning over completely in the air |     |
-| ------------ | --- | ----- | ---------------------------------- | --- |
-| h. sanctuary |     | viii. | a phone message recorded by        |     |
+| g. voicemail | | vii.  | turning over completely in the air | |
+| h. sanctuary | | viii. | a phone message recorded by | |
 someone when you do not answer
 B.  Complete the following stheenirt ecanllces using the correct
 information from the text.
-a.   The text is about the positive results brought by …………….
-b.   Nathan Apodaca was gifted a truck of his favourite drink because
+a. The text is about the positive results brought by …………….
+b. Nathan Apodaca was gifted a truck of his favourite drink because
 he was drinking ………………
-c.   Charlie's birthday became more special than expected because
+c. Charlie's birthday became more special than expected because
 of a post on ……………….
-d.   If there were no social media, people would have no idea about
+d. If there were no social media, people would have no idea about
 ………………….of the two school children.
-| e.   | Matt Nason's Twitter page …………………………. raises fund for  |     |     |     |
-| ---- | ------------------------------------------------------ | --- | --- | --- |
+| e. | Matt Nason's Twitter page …………………………. raises fund for  | | | |
 the help of dogs.
-f.    The social media platform ……………………was used for the rescue
-C.   Answoef rth teh heaswe kq.uestions.
-| a.    | What did Nathan Apodaca record in his video? |     |     |     |
-| ----- | -------------------------------------------- | --- | --- | --- |
-b.    Was a truck of Ocean Spray a much-deserved reward for
+f. The social media platform ……………………was used for the rescue
+C. Answoef rth teh heaswe kq.uestions.
+| a. | What did Nathan Apodaca record in his video? | | | |
+b. Was a truck of Ocean Spray a much-deserved reward for
 Nathan Apodaca? Why?
-| 300     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
-
-https://importantedunotes.com/
+| 300 | | | | English 10 |
 c. How did social media help Charlie celebrate her birthday?
 d. What was $700 spent on? How did Matt collect the money?
 D. Se.h arHe oawn winatse trhees htianwgk s ionc Niaelw m Yoerdki are sstcoureyd ?that you have read
@@ -9124,8 +7496,6 @@ d. In the movie 'Ships in the Night', Maggie wants to forget
 ………………. .
 e. The movie 'Lulu' is about …………………….. .
 English 10 301
-
-https://importantedunotes.com/
 D. Which of the movies mentioned in the audio would you like
 to watch? Why?
 Grammar II
@@ -9140,21 +7510,19 @@ the appointments for me.
 e. I will have my glass bottles recycled. I will get my friend to
 B. Comprelceytcel et hmey s gelnastse bnoctetsle bs.elow with the correct form of the
 verbs in brackets.
-a. I don't let my children …………… video games. (play)
-b. The police made him ………….. for the damage he caused. (pay)
-c. Rob is having his house ………………. next weekend. (paint)
-d. Julia got her boy friend ………………. her a ring. (buy)
-e. Sam gets me ………………. the grocery every weekend. (deliver)
-f. Please, try not to make her ……………. . (cry)
+a. I don't let my children …………… video games. (play
+b. The police made him ………….. for the damage he caused. (pay
+c. Rob is having his house ………………. next weekend. (paint
+d. Julia got her boy friend ………………. her a ring. (buy
+e. Sam gets me ………………. the grocery every weekend. (deliver
+f. Please, try not to make her ……………. . (cry
 g. This quiz can make you ………………. causative verbs better.
-(understand)
-h. Laura never has people ………………. her what to do. (tell)
-i. My friend got me ………………. her with her CV. (help)
-j. I had a plumber ………………. the plumbing this morning. (fix)
-k. I had my hair ………………. once a month. (trim)
+understand
+h. Laura never has people ………………. her what to do. (tell
+i. My friend got me ………………. her with her CV. (help
+j. I had a plumber ………………. the plumbing this morning. (fix
+k. I had my hair ………………. once a month. (trim
 302 l. Aft er the party, I was m ade … ………… …. all the dishesE.n (gwliasshh 1)0
-
-https://importantedunotes.com/
 C. Imagine you were in a holiday camp last year. What were
 you made or let to do there? Write a few sentences using
 have, get and make, etc.
@@ -9182,7 +7550,4 @@ If a phone number contains three of the same numbers together, we
 usually say triple (then that number).
 Example: 2149-8777 = two one four nine, eight triple seven.
 English 10 303
-
-https://importantedunotes.com/
-| 304     |     |     |     | English 10 |
-| ------- | --- | --- | --- | ---------- |
+| 304 | | | | English 10 |

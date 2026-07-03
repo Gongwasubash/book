@@ -1,2448 +1,990 @@
-गणित
-कक्षा ८
-नेपाल सरकार
-शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय
-पाठ्यक्रम विकास केन्द्र
-सानोठिमि, भक्तपुर
+---
+title: "Maths"
+grade: 8
+language: english
+subject: "Maths"
+---
 
+# Maths — Grade 8
 
-ul0ft
-sIff *
-k|sfzs
-g]kfn ;/sf/
-lzIff, lj1fg tyf k|ljlw dGqfno
-kf7\oj|md ljsf; s]Gb|
-;fgf]l7dL, eStk'/
+## Table of Contents
 
-k|sfzs
-g]kfn ;/sf/
-lzIff, lj1fg tyf k|ljlw dGqfno
-kf7\oj|md ljsf; s]Gb|
-;fgf]l7dL, eStk'/
-© ;jf{lwsf/ kf7\oj|md ljsf; s]Gb|
-o; kf7o\ k':ts;DaGwL ;Dk"0f{ clwsf/ kf7\oj|md ljsf; s]Gb| ;fgf]l7dL, eStk'/df lglxt /x]sf] 5 . kf7\oj|md
-ljsf; s]Gb|sf] lnlvt :jLs[ltlagf Jofkfl/s k|of]hgsf nflu o;sf] k'/} jf cf+lzs efu x'ax' k|sfzg ug{,
-kl/jt{g u/]/ k|sfzg ug{, s'g} ljB'tLo ;fwg jf cGo k|ljlwaf6 /]s8{ ug{ / k|ltlnlk lgsfNg kfOg] 5}g .
-k|yd ;+:s/0f M lj=;+= @)&@
-kl/dflh{t bf];|f] ;+:s/0f M lj=;+ @)&^
-d'b|0fM hgs lzIff ;fdu|L s]Gb| ln=
-;fgf]l7dL, eStk'/ .
-d"No ?=
-kf7\ok':ts;DaGwL kf7sx¿sf s'g} klg k|sf/sf ;¬´fjx¿ ePdf kf7\oj|md ljsf;
-s]Gb|, ;dGjo tyf k|sfzg zfvfdf k7fOlbg'x'g cg'/f]w 5 . kf7sx¿af6 cfpg]
-;¬´fjx¿nfO{ s]Gb| xflb{s :jfut ub{5 . tkfO“n] lsg]sf] kf7\ok':tsdf s'g} q'l6
-ePdf glhssf] ljt/saf6 pSt k':ts ;f6\g ;Sg'x'g] 5 .
+| S.No. | Title |
+|-------|-------|
+| 1 | [108° 108°](#ch-1) |
+| 7 | [Pp6f lahn' Lsf ] vDafaf6 tf/ em//]  Ps 5p] n ] hldgdf vDafsf]](#ch-7) |
+| 2 | [Pp6f 5 cm nDafO / 4 cm rf8} fO ePsf ] cfoftsf/ afs;sf] 1 cm](#ch-2) |
+| 9 | [Pp6f ;x/sf ]  hg;ªV\ of  2,666,200 5 / jl[4 b/ 1.50% 5 eg]  Ps  jif{kl5  pSt](#ch-9) |
 
-xfd|f] egfO
-lzIffnfO{ p2]Zod"ns, Jofjxfl/s / ;d;fdlos agfpg kf7\oj|md ljsf; s]Gb|n] ljBfno txsf
-kf7\oj|mdtyf kf7\ok':ts ljsf; tyf kl/dfh{g ug]{ sfo{nfO{ lg/Gt/tf lbFb} cfPsf] 5 . ljBfyL{df
-/fi6k« d|] , /fli6o« tf kl|tsf ] ;dk0{ f / nfs] tflGqs k4ltnfO { cfTd;ft ug ]{efjgfsf ] ljsf; u/fO { gl}tsjfg,\
-cgz' fl;t, :jfjnDaL tyf l;hg{ zLn eO { ;dfjz] L ;dfh lgdf0{ fdf ofu] bfg lbg ;Sg ] Ifdtf ljsf; xg'
-cfjZos 5 .pgLx¿df eflifs tyf ul0ftLo l;ksf ;fy } lj1fg, ;r" gf tyf ;~rf/ kl|jlw, jftfj/0f,
-:jf:Yo tyf hg;ªV\ of;DaGwL cfwf/et" 1fg tyf hLjgfk] ofu] L l;ksf ] ljsf; xg' h?/L 5 . To; } u/L
-ljBfyL{x¿df snf tyf ;f}Gbo{ k|ltsf] cg'/fu / dfgjLo d"No dfGotf, cfbz{ tyf j}lzi6\ox¿k|ltsf]
-;r]ttf ;lxt ltgsf] ;+/If0f, ;+jw{g ug]{ efjgfsf] ljsf; cfjZos 5 . ;dtf d"ns ;dfhsf]
-lgdf{0fdf ;xof]u k'¥ofpg pgLx¿df ljleGg hfthflt, lnª\u, efiff, wd{, ;+:s[lt / If]qnufotsf
-ljljwtfx¿sf] ;Ddfg ug{] / dfgj clwsf/ tyf ;dflhs d"No dfGotf k|lt ;r]t eO {
-lhDd]jf/L jxg ug{] efjgfsf] ljsf; u/fpg' cfjZos 5 . plNnlvt cfjZostfnfO{ b[li6ut u/L
-cfwf/e"t lzIff kf7\oj|md -sIff ^–*_, @)^( nfO{ d"n cfwf/dfgL lzIff;DaGwL ljleGg cfof]usf
-;'emfj, lzIfs, ljBfyL{ tyf cleefjsnufot lzIff;“u ;Da4 ljleGg JolSt ;lDdlnt uf]i7L /
-cGt/lj|mofsf lgisif{ / ljleGg ljBfnodf k/LIf0f u/L k|fKt k[i7kf]if0f ;d]tnfO{ ;d]6L of ]
-kf7\ok':ts tof/ kfl/Psf] xf] .
-kf7\ok':tsnfO{ o; :j¿kdf Nofpg] sfo{df s]Gb|sf sfo{sf/L lgb]{zs >L lbjfs/ 9'ª\u]n,
-k|f=8f= dLgaxfb'/ >]i7, 8f= afns[i0f /l~ht, k|f= 8f= n]vgfy zdf{, ;'/]Gb| cfrfo{, j}s'07 vgfn,
-j?0f j}B, ljho aflgof, uf]df >]i7, 808kfl0f zdf{, x]d/fh kf]v/]n, hLj/fh cfrfo{, /d]z cj:yL,
-/fh]Gb| b]jsf]6f, d}gf clwsf/L, /fhs'df/ dfy]df, ;/:jtL cfrfo{nufotsf dxfg'efjsf] ljz]if of]
-ubfg /x]sf] 5 . o;sf] efiff ;Dkfbg xl/k|;fb lg/f}nf tyf 6fOk ;]l6ª / n]cfp6 l8hfOg ho/fd
-sO' s“ n] af6 ePsf ] xf ] . kf7o\ k:' tsnfO { cWofjlws tyf kl/dfhg{ u/L ks| flzt ug { sfod{ f o; sG] bs| f
-dxflgb{]zs 8f= n]vgfy kf}8]n, >L u0f]zk|;fb e6\6/fO{ / >L lrgfs'df/L lg/f}nfsf] of]ubfg
-/x]sf] 5 . o; kf7\ok':tssf] ljsf; tyf kl/dfh{g sfo{df ;+nUg ;a}k|lt kf7\oj|md ljsf; s]Gb|
-wGojfb k|s6 ub{5 .
-kf7\ok':tsnfO{ lzIf0f l;sfOsf] dxŒjk"0f{ ;fwgsf ¿kdf lnOG5 . o; kf7\ok':tssf] k|of]uaf6
-kf7\oj|mdåf/f nlIft ;Ifdtf xfl;n ug{ ljBfyL{nfO{ ;xof]u k'Ug] ck]Iff ul/Psf] 5 . kf7\ok':tsnfO{
-;s];Dd lj|mofsnfkd'vL / ?lrs/ agfpg] k|oTg ul/Psf] 5 . o; kf7\ok':tsnfO{ ce}m kl/is[t
-kfg{sf nflu lzIfs, ljBfyL{, cleefjs, a'l4hLjL Pjd\ ;Dk"0f{ kf7sx¿sf] ;d]t dxŒjk"0f{ e"ldsf
-/xg] x'“bf ;Da4 ;a}sf] /rgfTds ;'emfjsf nflu kf7\oj|md ljsf; s]Gb| xflb{s cg'/f]w ub{5 .
-g]kfn ;/sf/
-lzIff, lj1fg tyf k|ljlw dGqfno
-lj= ;+= @)&^ kf7\oj|md ljsf; s]Gb|
+---
 
-ljifo;"rL
-| PsfO  | zLif{s        | k[i7;ª\Vof |
-| ----- | ------------- | ---------- |
-| 1.    | /]vf / sf]0f  |            |
-1
-| 2.   | lqe'h, rt'e'{h / ax'e'hx¿  |     |
-| ---- | -------------------------- | --- |
-10
-| 3.   | lqe'hsf] cg'¿ktf / ;d¿ktf  |     |
-| ---- | -------------------------- | --- |
-27
-| 4.   | j[Q  |     |
-| ---- | ---- | --- |
-38
-| 5.   | 7f]; cfs[ltx¿   |     |
-| ---- | --------------- | --- |
-45
-| 6.   | lgb]{zfª\sx¿   |     |
-| ---- | -------------- | --- |
-50
-| 7.   | If]qkmn / cfotg   |     |
-| ---- | ----------------- | --- |
-57
-| 8.   | :yfgfGt/0f  |     |
-| ---- | ----------- | --- |
-68
-| 9.   | lbzfl:ylt / :s]n 8«Oª  |     |
-| ---- | ---------------------- | --- |
-77
-| 10.   | ;dÒx   |     |
-| ----- | ------ | --- |
-83
-| 11.   | kÒ0f{ ;ª\Vofx¿   |     |
-| ----- | ---------------- | --- |
-93
-| 12.   | kÒ0ff{ª\sx¿          | 100 |
-| ----- | -------------------- | --- |
-| 13.   | cfg'kflts ;ª\Vofx¿   |     |
-104
-| 14.   | jf:tljs ;ª\Vofx¿   |     |
-| ----- | ------------------ | --- |
-110
-| 15.   | cg'kft, ;dfg'kft / k|ltzt   | 119 |
-| ----- | --------------------------- | --- |
-| 16.   | gfkmf / gf]S;fg             |     |
-129
-| 17.   | P]lss lgod   |     |
-| ----- | ------------ | --- |
-136
-| 18.   | ;fwf/0f Aofh   |     |
-| ----- | -------------- | --- |
-141
-| 19.   | tYofª\s zf:q   |     |
-| ----- | -------------- | --- |
-148
-| 20.   | aLhLo cleJo~hsx¿   |     |
-| ----- | ------------------ | --- |
-161
-| 21.   | 3ftfª\s   |     |
-| ----- | --------- | --- |
-188
-| 22.    | ;dLs/0f, c;dfgtf / n]vflrq   |     |
-| ------ | ---------------------------- | --- |
-193
-|     | pQ/dfnf  |     |
-| --- | -------- | --- |
-210
+## 1: 108° 108°  {#ch-1}
 
-kf7
-1
-|     | /v] | f /  sf0] | f   |     |
-| --- | --- | --------- | --- | --- |
-(Line and Angle)
-| 1.0 kg' /jnfs] | g (Review) |     |     |     |
-| -------------- | ---------- | --- | --- | --- |
-ljm|ofsnfk 1
-Pp6f ;fbf sfuhsf ] kfgf np] m . To;nfO { Ps k6s 7f8fl]t/ / csf {] k6s
-| t];f]{lt/af6  | 58\s]  u/L  | k6\ofpm  | .  To;kl5  k6\ofPsf]  | efu |
-| ------------- | ----------- | -------- | --------------------- | --- |
-4 1
-vfn]  . Toxf “ lrqdf bv] fP h:t } bO' c{ f6] f /v] fx¿ cfk;df kl|tR5l]bt bV] g]
-3 2
-5f } . ca tL /v] fnfO { l;;fsndn ] tfg . Toxf “ sf0] fx¿ ags] f ] bV] g ] 5f } .
-| ltgLx¿nfO { | jm|dzM 1, 2, 3 / 4 gfds/0f u/ . |     |     |     |
-| ----------- | ------------------------------- | --- | --- | --- |
--s_ 1 / 2, 2 / 3, 3 / 4, 4 / 1 s:tf ks| f/sf hf8] L sf0] fx¿ xg'  \ <
--v_ 1 / 3, 2 / 4 s:tf ks| f/sf hf8] L sf0] fx¿ xg'  \ < ;fyLx¿;u“  5nkmn u/ .
-dfly -s_ sf hf8] f sf0] fx¿df Pp6 } zLifl{aGb ' / Pp6f ;femf eh' f 5 . o:tf hf8] f sf0] fx¿ cf;Gg
-| sf0] fx¿ xg' |  \ . |     |     |     |
-| ------------ | ---- | --- | --- | --- |
-To:t } -v_ df ePsf hf8] f sf0] fx¿dWo ] Pp6f sf0] f csf {] sf0] fsf ] ljk/Lt lbzflt/ 5 . oL sf0] fx¿
-| zLiffl{edv'  sf0] | fx¿ xg'  \ . |     |     |     |
-| ----------------- | ------------ | --- | --- | --- |
-bO'  { ;/n /v] fv08 cfk;df sf6b\ f aGg ] hf8] L sf0] fx¿df pbu\ d laGb ' Pp6 } / Pp6f eh' f ;femf
-5 eg ] To:tf sf0] fx¿nfO { cf;Gg sf0] fx¿ (adjacent angles) elgG5 . To:t } olb Pp6f sf0] f csf{]
-sf0] fsf ] ljk/Lt lbzfdf 5 eg ] To:tf hf8] L sf0] fx¿nfO { zLiffl{edv'  sf0] fx¿ (vertically opposite
-angles) elgG5 .
-1.1. bO'  { ;/n /v] fx¿ cfk;df sf6b\ f aGg ] hf8] L sf0] fx¿sf ] ko| fu] fTds k/LIf0f
-(Experimental Verification of Pair of Angles Formed by Intersecting Two Lines)
-| k/LIf0f 1 : cf;Gg sf0] | fx¿sf ] | ofu] kmn (Sum of adjacent angles) |     |     |
-| ---------------------- | ------- | --------------------------------- | --- | --- |
-lbOPsf lrqx¿df ;/n /v] f AB / CD laGb ' O df kl|tR5b] g ePsf 5g \ .
-|     | A D |     |     | A D |
-| --- | --- | --- | --- | --- |
-A
-|     |     |     | D   | O   |
-| --- | --- | --- | --- | --- |
-|     | O   |     | C O |     |
-B
-|     | C B |     |     | C   |
-| --- | --- | --- | --- | --- |
-B
-|     | lrq -s_ |     | lrq -v_ | lrq -u_ |
-| --- | ------- | --- | ------- | ------- |
-xfdf| ]ul0ft, sIff *
-1
-
-| ca, kf|6] | S] 6/ ko| | fu] |  u/L sf0] fx¿ gfk / tnsf ] |     |             | tflnsfdf e/ . |     |         |     |
-| --------- | --------- | --- | -------------------------- | --- | ----------- | ------------- | --- | ------- | --- |
-| lrq g=+   | ∠AOC      |     | ∠AOD                       |     | ∠AOC + ∠AOD |               |     | kl/0ffd |     |
--s_
--v_
--u_
-| dflysf ] | ko| fu] | af6 s ] | lgisif { kfof } | <   |     |     |     |     |     |
-| -------- | ------- | ------- | --------------- | --- | --- | --- | --- | --- | --- |
-olb bO' c{ f6] f ;/n /v] fx¿ cfk;df kl|tR5b] g ePsf 5g \ eg ] Ps hf8] f cf;Gg sf0] fx¿sf]
-| ofu] | kmn 180° jf bO' |     |  { ;dsf0] | f xG' 5 . |     |     |     |     |     |
-| ---- | --------------- | --- | --------- | --------- | --- | --- | --- | --- | --- |
-k/LIf0f 2 : zLiffl{ edv'  sf0] fx¿sf ] ;DaGw (Relation betweens opposite angles)
-| tn lrqdf ;/n /v] |     |     | f PQ / ST laGb ' | R df kl|tR5b] |     | g ePsf 5g \ |     | .   |     |
-| ---------------- | --- | --- | ---------------- | ------------- | --- | ----------- | --- | --- | --- |
-ca, kf|6] S] 6/sf ] ko| fu]  u/L lbOPsf sf0] fx¿sf ] gfk np] m / tnsf ] tflnsfdf e/ M
-P
-|     |     |     |     |     |     |     |     | P   | T   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     | P   |     | T   |     |     |     |
-|     |     |     | T   |     |     |     |     |     | R   |
-|     | S   | R   |     |     | R   |     |     |     |     |
-S
-Q
-|     |     | Q   |     |     |     |     |     |     | Q   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-S
-|         | lrq -s_ |     |      | lrq -v_ |      |     |      | lrq -u_ |         |
-| ------- | ------- | --- | ---- | ------- | ---- | --- | ---- | ------- | ------- |
-| lrq g=+ | ∠PRS    |     | ∠QRT |         | ∠SRQ |     | ∠PRT |         | kl/0ffd |
--s_
--v_
--u_
-| dflysf ] | tflnsfaf6 s ] |     | lgisif { | kfof,} cfcfkm\gf ] | sfkLdf nv] |     |  .  |     |     |
-| -------- | ------------- | --- | -------- | ------------------ | ---------- | --- | --- | --- | --- |
-bO'  { cf6] f ;/n /v] fx¿ cfk;df kl|tR5l]bt xb“' f aGg ] zLiffl{edv'  sf0] fx¿ (vertically opposite
-| angles) a/fa/ xG' |     |     | 5g \ . |     |     |     |     |     |     |
-| ----------------- | --- | --- | ------ | --- | --- | --- | --- | --- | --- |
-pbfx/0f 1
-A
-tn lbOPsf ] lrqdf lgDglnlvt hf8] L sf0] fx¿ s:tf sf0] fx¿ xg' ,\  nv]  M
-| -s_ ∠XOB / ∠BOY |     |     | -v_ ∠AOY / ∠XOB |     |     |     |     | X   | O Y |
-| --------------- | --- | --- | --------------- | --- | --- | --- | --- | --- | --- |
-| -u_ ∠BOX / ∠AOX |     |     | -3_ ∠AOX / ∠BOY |     |     |     |     |     |     |
-B
-xfdf| ]ul0ft, sIff *
-2
-
-;dfwfg
-| oxf “ ;/n /v] | fx¿ AB / XY laGb ' |     | O df sfl6Psf 5g \ |     | .   |     |     |
-| ------------- | ------------------ | --- | ----------------- | --- | --- | --- | --- |
--s_ ∠XOB / ∠BOY cf;Gg sf0] fx¿ xg'  \ . -v_ ∠AOY / ∠XOB zLiffl{edv'  sf0] fx¿ xg'  \ .
--u_ ∠BOX / ∠AOX cf;Gg sf0] fx¿ xg'  \ . -3_ ∠AOX / ∠BOY zLiffl{edv'  sf0] fx¿ xg'  \ .
-pbfx/0f 2
-| lbOPsf ] lrqdf x / y sf ] |     | dfg kQf nufpm . |     |     |     |     |     |
-| ------------------------- | --- | --------------- | --- | --- | --- | --- | --- |
-P
-| ;dfwfg |     |     |     |     | R   | O   |     |
-| ------ | --- | --- | --- | --- | --- | --- | --- |
-x°
-oxf “ ∠ROQ = 50°
-|     |     |     |     |     |     | 50° | S   |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-y°
-| ∠ROQ = ∠POS |     | -zLiffl{edv' |  sf0] | fx¿_ |     |     |     |
-| ----------- | --- | ------------ | ----- | ---- | --- | --- | --- |
-Q
-∴ x = 50°
-| km]l/ |     | -cf;Gg sf0] | fx¿sf ] | ofu] kmn = 180° xG' |     | 5 ._ |     |
-| ----- | --- | ----------- | ------- | ------------------- | --- | ---- | --- |
-  x + y = 180°
-cyjf, 50° + y = 180°
-cyjf, y = 180° - 50° = 130°
-∴ y = 130°
-cEof; 1.1
-tn lbOPsf sf0] fx¿dWo ] sg'  sg'  sf0] fx¿ cf;Gg sf0] fx¿ xg'  \ / sg'  sg'  zLiffl{edv'  sf0] fx¿
-1.
-| xg' ,\  nv] |  M  |     |     |     |     |     |     |
-| ----------- | --- | --- | --- | --- | --- | --- | --- |
-P S
-| -s_ ∠PTS / ∠STQ |     |     | -v_ ∠PTR / ∠STQ |     |     |     |     |
-| --------------- | --- | --- | --------------- | --- | --- | --- | --- |
-T
-| -u_ ∠PTS / ∠RTQ |     |     | -3_ ∠PTS / ∠PTR |     |     |     |     |
-| --------------- | --- | --- | --------------- | --- | --- | --- | --- |
-|                 |     |     |                 |     |     | R   | Q   |
--ª_ ∠RTQ / ∠QTS
-Y
-2. ;u“ s} f ] lrqdf /v] fx¿ XX' / YY' laGb ' O df kl| tR5b] g ePsf 5g \ .
-ca lrqaf6 4 hf8] f cf;Gg sf0] f / bO'  { hf8] f zLiffl{ edv' X’ X
-| sf0]                        | fx¿sf ] ;r" L agfpm . |     |                 |     |     |     | O   |
-| --------------------------- | --------------------- | --- | --------------- | --- | --- | --- | --- |
-| 3. tn lbOPsf lrqx¿df x sf ] |                       |     | dfg kQf nufpm M |     |     |     |     |
-Y’
-| -s_ |     |     | -v_ |     |     | -u_ |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-A
-80°
-3x°
-105° x°
-|     |     |     | D   |     |     | x°  |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-C
-|     | E   |     |     | x°  |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-B
-xfdf| ]ul0ft, sIff *
-3
-
-| 4. tn lbOPsf lrqx¿df x / y sf ] |     | dfg kQf nufpm M |     |     |     |     |
-| ------------------------------- | --- | --------------- | --- | --- | --- | --- |
-| -s_                             |     | -v_             |     | -u_ |     |     |
-x°
-x°
-x°
-70°
-100°
-y° 45°
-|     |     |     | y°  |     |     | y°  |
-| --- | --- | --- | --- | --- | --- | --- |
-60°
-| 5. lbOPsf lrqx¿df x, y / z sf0] |     | fx¿sf ] | dfg kQf nufpm M |     |     |     |
-| ------------------------------- | --- | ------- | --------------- | --- | --- | --- |
-| -s_                             |     | -v_     |                 | -u_ |     |     |
-y°
-y°
-45°
-x°
-| x°  | y°  |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     |     | 50° | 50° |     |     |     |
-z°
-| 45° | z°  |     | z°  |     |     | x°  |
-| --- | --- | --- | --- | --- | --- | --- |
-1.2. bO' c{ f6] f ;/n /v] fx¿nfO { Pp6f 5b] sn ] sf6b\ f aGg ] sf0] fx¿
-(Angles formed by a Transversal with  two Straight Lines)
-;u“ s} f ] lrqdf bO'  { ;/n /v] fnfO { Pp6f 5b] sn ] sf6s] f ] 5 . tnsf kZ| gx¿af/ ] ;fyLx¿;u“
-5nkmn u/ M
-| – slt cf6] | f sf0] fx¿ ags]       | f 5g \ < |     |     |     |     |
-| ---------- | --------------------- | -------- | --- | --- | --- | --- |
-| – sg'  sg' |  sf0] fx¿ aflx/L sf0] | f xg'  \ | <   |     | 1   | 2   |
-3 4
-| – sg'  sg' |  sf0] fx¿ leqL sf0] | fx¿ xg' |  \ < |     | 6   |     |
-| ---------- | ------------------- | ------- | ---- | --- | --- | --- |
-5
-8
-| oxf “ ∠1, ∠2, ∠7 / ∠8 aflx/L sf0] |                        | fx¿ xg' | \    |     | 7   |     |
-| --------------------------------- | ---------------------- | ------- | ---- | --- | --- | --- |
-| eg ] ∠3, ∠4, ∠5 / ∠6 leqL sf0]    |                        | fx¿ xg' |  \ . |     |     |     |
-| -s_ PsfGt/ sf0]                   | fx¿ (Alternate Angles) |         |      |     |     |     |
-| dflysf ] lrqdf ∠3 / ∠6 nfO {      |                        | x/]  .  |      |     |     |     |
-∠3 / ∠6 5b] ssf ] bj' l}t/ k/s] f 5g \ / bj'  } leqL cgf;Gg sf0] fx¿ xg'  \ . t;y { oL sf0] fx¿nfO{
-| PsfGt/ sf0]  | fx¿ elgG5 .         |            |        |     |     |     |
-| ------------ | ------------------- | ---------- | ------ | --- | --- | --- |
-| o:t } csf {] | hf8] L sf0] fx¿ sg' |  sg'  xfn] | fg \ < |     |     |     |
-bO'  { ;/n /v] fnfO { 5b] sn ] sf6b\ f 5b] ssf ] bj' l}t/ k/s] f leqL cgf;Gg sf0] fx¿nfO { PsfGt/
-sf0] fx¿ (alternate angles) elgG5 .
-| dfly lrqdf lbOPsf ∠3 / ∠6; ∠4 / ∠5 PsfGt/ sf0] |     |     |     | fx¿ xg'  \ | .   |     |
-| ---------------------------------------------- | --- | --- | --- | ---------- | --- | --- |
-xfdf| ]ul0ft, sIff *
-4
-
-| -v_ | ;ªu\ t sf0] | fx¿ (Corresponding Angles) |     |     |     |        |     |     |     |     |     |
-| --- | ----------- | -------------------------- | --- | --- | --- | ------ | --- | --- | --- | --- | --- |
-|     | dflysf ]    | lrqdf ∠1 / ∠5 nfO {        |     |     | x/] | f “} . |     |     |     |     |     |
-bj'  } sf0] fx¿ 5b] ssf ] Psl}t/ k/s] f 5g \ . ∠1 aflx/L sf0] f xf ] eg ] ∠5 leqL sf0] f xf ] . t;y { ∠1
-/ ∠5 nfO { ;ªu\ t sf0] fx¿ elgG5 . dfly lrqdf slt hf8] L ;ªu\ t sf0] f xfn] fg \ < nv]  .
-bO'  { ;/n /v] fnfO { 5b] sn ] sf6b\ f 5b] ssf ] Psl}t/ k/s] f Pp6f leqL / csf {] aflx/L cgf;Gg
-| sf0] | fx¿nfO { | ;ªu\ t sf0] | fx¿ (corresponding angles) elgG5 . |     |     |     |     |     |     |     |     |
-| ---- | -------- | ----------- | ---------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-dfly lrqdf lbOPsf ∠1 / ∠5; ∠2 / ∠6; ∠3 / ∠7; ∠4 / ∠8 ;ªu\ t sf0] fx¿ xg'  \ .
-| -u_ | jm|dfut leqL sf0] |         | fx¿ (Co-interior Angles)  |     |     |        |         |      |     |     |     |
-| --- | ----------------- | ------- | ------------------------- | --- | --- | ------ | ------- | ---- | --- | --- | --- |
-|     | dflysf ]          | lrq x/] | f “} . ∠3 / ∠5 s:tf  hf8] |     |     | L sf0] | fx¿ xg' |  \ < |     |     |     |
-bj'  } leqL cgf;Gg sf0] fx¿ xg'  \ / bj'  } 5b] ssf ] Psl}t/ k/s] f 5g \ . logLx¿nfO { jm|dfut
-|     | leqL sf0] | fx¿ elgG5 . |     |     |     |     |     |     |     |     |     |
-| --- | --------- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-bO'  { ;/n /v] fnfO { Pp6f 5b] sn ] sf6b\ f aGg ] 5b] ssf ] Psl}t/ k/s] f leqL cgf;Gg sf0] fx¿nfO{
-| jm|dfut leqL sf0] |                                          | fx¿ (co-interior angles) elgG5 . |     |     |     |     |         |      |     |     |     |
-| ----------------- | ---------------------------------------- | -------------------------------- | --- | --- | --- | --- | ------- | ---- | --- | --- | --- |
-| dflysf ]          | lrqdf ∠3 / ∠5; ∠4 / ∠6 jm|dfut leqL sf0] |                                  |     |     |     |     | fx¿ xg' |  \ . |     |     |     |
-1.2.1 bO' c{ f6] f ;dfgfGt/ /v] fnfO { 5b] sn ] sf6b\ f aGg ] sf0] fx¿sf ] ;DaGw
-E
-|     | olb lrqdf AB / CD ;dfgfGt/ /v] |                              |     |        |         | fx¿ eP |     | A   |     | G   | B   |
-| --- | ------------------------------ | ---------------------------- | --- | ------ | ------- | ------ | --- | --- | --- | --- | --- |
-|     | dfly k:|                       | tt'  ul/Psf hf8]             |     | L sf0] | fx¿sf ] | ;DaGw  |     |     |     |     |     |
-|     |                                |                              |     |        |         |        |     | C   |     |     | D   |
-|     | s:tf ]                         | xfn] f tnsf k/LIf0fx¿af6 x/] |     |        |         | f “} . |     |     |     |     |     |
-H
-| k/LIf0f 1 : PsfGt/ sf0] |     |     |     | fx¿sf ] | ;DaGw |     |     |     |     |     | F   |
-| ----------------------- | --- | --- | --- | ------- | ----- | --- | --- | --- | --- | --- | --- |
-lrqdf bO' c{ f6] f ;dfgfGt/ /v] fx¿ AB / CD nfO { 5b] s EF n ] jm|dzM laGb ' G / H df sf6s] f ] 5 .
-E
-|     |     |     | E   |     |     |     |     |     |     | E   |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-B
-B
-|     | A   |     | B   |     |     |     |     |     | A   |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     | G   |     |     |     | G   |     |     |     | G   |     |
-A
-D
-C
-|     |     |     | D   |     |     |     |     |     | C   |     | D   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     | H   |     |     |     | C   |     |     |     |     |     |
-|     |     |     |     |     |     | H   |     |     |     | H   |     |
-F
-|     |         |     |     |     |     | F       |     |     |     |         | F   |
-| --- | ------- | --- | --- | --- | --- | ------- | --- | --- | --- | ------- | --- |
-|     | lrq -s_ |     |     |     |     | lrq -v_ |     |     |     | lrq -u_ |     |
-ca tn tflnsfdf lbOPsf sf0] fx¿ kf|6] S] 6/sf ] ko| fu]  u//]  gfk / tflnsfdf e/ M
-| lrq g=+ | ∠ AGH |     | ∠GHD |     | kl/0ffd |     | ∠BGH | ∠GHC |     | kl/0ffd |     |
-| ------- | ----- | --- | ---- | --- | ------- | --- | ---- | ---- | --- | ------- | --- |
--s_
--v_
--u_
-xfdf| ]ul0ft, sIff *
-5
-
-| – dflysf ] |     | tflnsfaf6 s ] | lgisif { | kfof } | <   |     |     |     |     |     |
-| ---------- | --- | ------------- | -------- | ------ | --- | --- | --- | --- | --- | --- |
-– lbOPsf hf8] L sf0] fx¿ s:tf ks| f/sf sf0] fx¿ xg' ,\ ;fyLx¿;u“  5nkmn u/L lgisif { kQf nufpm .
-bO' c{ f6] f ;dfgfGt/ /v] fnfO { Pp6f 5b] sn ] sf6b\ f ags] f PsfGt/ sf0] fx¿ a/fa/ xG' 5g \ .
-| k/LIf0f 2 : jm|dfut leqL sf0] |     |     |     | fx¿sf ] | ofu] kmn |     |     |     |     |     |
-| ----------------------------- | --- | --- | --- | ------- | -------- | --- | --- | --- | --- | --- |
-lbOPsf ] lrqdf bO' c{ f6] f ;dfgfGt/ /v] fx¿ PQ / RS nfO { 5b] s LM n ] jm|dzM laGb ' X / Y df
-sf6s] f ] 5 .
-|     |     | Q   |     |     |     |     |     |     | L   |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-L
-P
-|     | X   |     |     |     |     |     | L   | P   | X   | Q   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| P   |     | S   |     |     |     | X   |     |     |     |     |
-R
-Q
-|     |     |     |     |     |     |     |     | R   |     | S   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     | R   | Y   |     |     |     |     |     |     | Y   |     |
-|     |     |     | M   |     | Y   |     | S   |     |     |     |
-M
-M
-|     | lrq -s_ |     |     |     | lrq -v_ |     |     |     | lrq -u_ |     |
-| --- | ------- | --- | --- | --- | ------- | --- | --- | --- | ------- | --- |
-ca, kf|6] S] 6/sf ] ;xfotfn ] tn lbOPsf sf0] fx¿sf ] gfk / tflnsfdf e/ M
-| lrq g=+ |     | ∠PXY | ∠XYR | ∠PXY + ∠XYR |     | ∠QXY | ∠XYS | ∠QXY + ∠XYS |     | kl/0ffd |
-| ------- | --- | ---- | ---- | ----------- | --- | ---- | ---- | ----------- | --- | ------- |
--s_
--v_
--u_
-– dflysf ] tflnsfdf ePsf hf8] f sf0] fx¿ s:tf ks| f/sf sf0] fx¿ xg'  \ <
-| –   | hf8] L sf0]      | fx¿sf ] | ofu] kmn slt eof ] |             | <              |     |             |     |     |     |
-| --- | ---------------- | ------- | ------------------ | ----------- | -------------- | --- | ----------- | --- | --- | --- |
-| –   | of ] k/LIf0fsf ] |         | lgisif { s ]       | xfn] f, ;u“ | s} f ] ;fyL;u“ |     |  5nkmn u/ . |     |     |     |
-bO'  { ;dfgfGt/ /v] fx¿nfO { 5b] sn ] sf6b\ f aGg ] jm|dfut leqL sf0] fx¿sf ] ofu] kmn 180° jf bO' {
-| ;dsf0]           | f xG' | 5 . |                |       |     |     |     |     |     |     |
-| ---------------- | ----- | --- | -------------- | ----- | --- | --- | --- | --- | --- | --- |
-| k/LIf0f 3 : ;ªu\ |       |     | t sf0] fx¿sf ] | ;DaGw |     |     |     |     |     |     |
-tnsf lrqx¿df bO'  { ;dfdfGt/ /v] fx¿ EF / GH nfO { 5b] s MN n ] jm|dzM laGb ' K / L df sf6s] f ] 5 .
-|     |     | M   |     |     |     | M   |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-M
-|     | E   | K   | F   |     | E   | K   | F   | E   |     | F   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-K
-|     | G   |     | H   |     |     |     |     | G   |     | H   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     | G   |     | H   |     |     |     |
-|     |     | L   |     |     |     |     |     |     | L   |     |
-L
-|     |     |     | N   |     |     |     |     | N   |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-N
-|     |     | lrq -s_ |     |     | lrq -v_ |     |     | lrq -u_ |     |     |
-| --- | --- | ------- | --- | --- | ------- | --- | --- | ------- | --- | --- |
-xfdf| ]ul0ft, sIff *
-6
-
-kf|6] S] 6/sf ] ko| fu]  u/L tn tflnsfdf lbOPsf sf0] fx¿ gfk / tflnsfdf e/ M
-| lrq g=+ |  ∠MKE∠KLG | ∠MKF | ∠KLH ∠EKL ∠GLN | ∠FKL ∠HLN | kl/0ffd |
-| ------- | --------- | ---- | -------------- | --------- | ------- |
-| -s_     | 55°   55° |      |                |           |         |
--v_
-90°   90°
-| -u_      | 140° 140°         |           |                   |     |     |
-| -------- | ----------------- | --------- | ----------------- | --- | --- |
-| dflysf ] | tflnsfdf s:tf ks| | f/sf hf8] | L sf0] fx¿ 5g \ < |     |     |
-dflysf ] k/LIf0faf6 s ] lgisif { lgsfNg ;lsG5, lgisif { nv] L ;fyLx¿lar 5nkmn u/ .
-bO'  { ;dfgfGt/ /v] fx¿nfO { 5b] sn ] sf6b\ f aGg ] ;ªu\ t sf0] fx¿ a/fa/ xG' 5g \ .
-dflysf k/LIf0fx¿af6 xfdLn ] lgDglnlvt s/' fx¿ klg yfxf kfpg ;S5f “} M
-| bO'  { ;/n /v]      | fnfO { Pp6f 5b]  | sn ] sf6b\            | f aGg,] |     |     |
-| ------------------- | ---------------- | --------------------- | ------- | --- | --- |
-| – PsfGt/ sf0]       | fx¿ a/fa/ ePdf   |                       |         |     |     |
-| – jm|dfut leqL sf0] | fx¿sf ]          | ofu] kmn 180° ePdf jf |         |     |     |
-| – ;ªu\ t sf0]       | fx¿ a/fa/ ePdf   |                       |         |     |     |
-| tL bO'  { ;/n /v]   | fx¿ ;dfgfGt/ xG' |                       | 5g \ .  |     |     |
-pbfx/0f 1
-;u“ s} f ] lrqdf bO' c{ f6] f ;dfgfGt/ /v] fx¿nfO { 5b] sn ] sf6s] f ] 5 . o;df a, b x, y, z sf ] dfg kQf nufpm .
-;dfwfg
-| oxf “ x + 125° = 180° -cf;Gg sf0] |     |     | fx¿_ |     |     |
-| --------------------------------- | --- | --- | ---- | --- | --- |
-cyjf, x = 180° – 125°
-cyjf, x = 55°
-| km]/L, x = y -;ªu\ | t sf0] | fx¿_ |     | x° 125° |     |
-| ------------------ | ------ | ---- | --- | ------- | --- |
-z°
-cyjf,  y = x = 55°
-b°
-| lrqcg;' | f/, y = z = 55° -PsfGt/ sf0] |     | fx¿_ | y°  |     |
-| ------- | ---------------------------- | --- | ---- | --- | --- |
-a°
-∴ z = 55°
-| z + b = 180 -jm|dfut leqL sf0] |     | fx¿_ |     |     |     |
-| ------------------------------ | --- | ---- | --- | --- | --- |
-  55° + b = 180°
-∴ b = 180° - 55° = 125°
-| cGTodf z = a -;ªu\ | t sf0] | fx¿_ |     |     |     |
-| ------------------ | ------ | ---- | --- | --- | --- |
-∴ a = 55°
-xfdf| ]ul0ft, sIff *
-7
-
-cEof;     1.2
-1. ;u“ s} f ] lrqdf bO' c{ f6] f ;/n /v] fnfO { Pp6f 5b] sn ] sf6s] f ] 5 . pSt lrqaf6 lgDglnlvt
-| hf8] f sf0] fx¿sf ] | ;r" L tof/ kf/ M |     |     |
-| ------------------- | ---------------- | --- | --- |
-8
-7
-| -s_ aflx/L sf0] | fx¿ | -v_ leqL sf0] | fx¿ |
-| --------------- | --- | ------------- | --- |
-6
-5
-| -u_ PsfGt/ sf0] | fx¿ | -3_ jm|dfut leqL sf0] | fx¿ |
-| --------------- | --- | --------------------- | --- |
-4
-3
-2
-| -ª_ ;ªu\ t sf0] | fx¿ |     |     |
-| --------------- | --- | --- | --- |
-1
-2. tn lbOPsf lrqx¿ x, y / z sf ] dfg kQf nufpm -bO' c{ f6] f ;dfgfGt/ /v] fnfO { 5b] sn ] sf6s] f ] 5_ M
-| -s_ |     |     | -v_ |
-| --- | --- | --- | --- |
-z° x°
-y°
-z°
-y° 60°
-x°
-80°
-| -u_ |     |     | -3_ |
-| --- | --- | --- | --- |
-x°
-y°
-2x 3x 130°
-z°
-| -ª_ |     |     | -r_ |
-| --- | --- | --- | --- |
-|     | x°  | y°  |     |
-y°
-x°
-47°
-z°
-105°
-| -5_ |     |     | -h_ |
-| --- | --- | --- | --- |
-3x°+10 y°
-z°
-4x°-10
-60° x°
-xfdf| ]ul0ft, sIff *
-8
-
-3. sf0] fx¿sf ] gfksf cfwf/df tnsf bO'  { /v] fx¿ AB / CD cfk;df ;dfgfGt/ 5g \ jf 5g} g,\
-sf/0f;lxt nv]  M
-| -s_ |    -v_ | D      -u_ |     |     |
-| --- | ------ | ---------- | --- | --- |
-B
-| A    | B   |     |     |     |
-| ---- | --- | --- | --- | --- |
-| 100° | 75° | 75° |     | B   |
-A
-64°
-75°
-|     | D   |     | 65° |     |
-| --- | --- | --- | --- | --- |
-| C   |     |     | C   |     |
-|     |     | C   |     | D   |
-A
-| tn lbOPsf lrqx¿df a, b, c, x, y, z sf ] | dfg kQf nufpm M |     |     |     |
-| --------------------------------------- | --------------- | --- | --- | --- |
-4.
--s_ -v_
-a°
-49°
-| y°  |     |     | b°  |     |
-| --- | --- | --- | --- | --- |
-x°
-|     |     | x°  | y°  |     |
-| --- | --- | --- | --- | --- |
-100°
--u_ -3_
-x°
-| 40° |     |     | z°  |     |
-| --- | --- | --- | --- | --- |
-y° y°
-|       |     | 38° | x°  |     |
-| ----- | --- | --- | --- | --- |
-| z° a° |     |     |     |     |
-50°
--ª_ -r_
-50°
-| 50° |     | 40° |     |     |
-| --- | --- | --- | --- | --- |
-y°
-a°
-x° z°
-45°
-|     |     | y°  | z°  |     |
-| --- | --- | --- | --- | --- |
-x°
--5_ -h_
-|          |     | 115° | 58° |     |
-| -------- | --- | ---- | --- | --- |
-| a° y° x° | z°  |      |     |     |
-|          | 75° | x°   | z°  |     |
-a°
-y°
-xfdf| ]ul0ft, sIff *
-9
-
-kf7
-|     |     | lqeh' | , rte' |     | h{'  / axe' | h' x¿ |     |     |
-| --- | --- | ----- | ------ | --- | ----------- | ----- | --- | --- |
-2
-(Triangle, Quadrilateral and Polygons)
-| kg' /jnfs] | g (Review) |     |     |     |     |     |     |     |
-| ---------- | ---------- | --- | --- | --- | --- | --- | --- | --- |
-2.0.
-sDtLdf slt cf6] f l;wf l;Gsfx¿ ko| fu]  u//]  aGb cfsl[t agfpg ;lsPnf <
-bO' c{ f6] faf6 ;Dej 5 jf tLgcf6] f g } rflxG5, tLgcf6] f l;wf /v] fv08x¿n]
-ags] f ] aGb cfsl[tnfO { lqeh'  elgG5 . tLgcf6] f eh' fx¿dWo ] ;a } a/fa/ 5g\
-eg ] pSt lqeh' nfO { ;dafx ' lqeh'  (equilateral triangle) elgG5 . olb sg' }
-bO' c{ f6] f eh' fx¿ a/fa/ eP pSt lqeh' nfO { s:tf ] lqeh'  elgG5 < eh' fx¿
-km/s km/s gfksf eP lqeh' nfO { s:tf ] lqeh'  elgG5 < lqeh' nfO { eh' fsf
-cfwf/df juLs{ /0f u/ ] h:t } sf0] fsf cfwf/df slt ks| f/df ljefhg ug { ;lsPnf <
-ca xfdL lqeh' sf ljleGg u0' fx¿sf ] k/LIf0fsf af/d] f cWoog ub5{ f “} .
-|     |     |     | k/LIf0f ( |     |     |     |     | )   |
-| --- | --- | --- | --------- | --- | --- | --- | --- | --- |
-2.1 lqeh' sf u0' fx¿sf ] Verification of  Properties of Triangles
-| k/LIf0f 1 : lqeh' |     | sf leqL sf0] | fx¿sf ] | ofu] kmn |     |     |     | P   |
-| ----------------- | --- | ------------ | ------- | -------- | --- | --- | --- | --- |
-A B
-2 3
-| lrqdf bO'    | c{ f6] f ;dfgfGt/ /v] |     | fx¿nfO { | 5b] s PQ /       |     |     |     | 1   |
-| ------------ | --------------------- | --- | -------- | ---------------- | --- | --- | --- | --- |
-| 5b] s PR n ] | sf6L ΔPQR ags]        |     | f ]      | 5 . lqeh' sf tLg |     |     |     |     |
-2 3
-C D
-| sf0] fnfO { | jm|dzM 1, 2 / 3 dfgf “} |     | . ca, AB//CD ePsfn] |     |     |     | Q   | R   |
-| ----------- | ----------------------- | --- | ------------------- | --- | --- | --- | --- | --- |
-∠APQ = ∠PQR xG' 5 / ∠BPR = ∠PRQ xG' 5 . -PsfGt/ sf0] fx¿ ePsfn_]
-| t;y,{ ∠APQ = ∠2 / ∠BPR = ∠3 xG' |                        |     |     | 5 .        |               |     |     |     |
-| ------------------------------- | ---------------------- | --- | --- | ---------- | ------------- | --- | --- | --- |
-| ca, laGb '                      | P df ∠1, ∠2 / ∠3 ldn/] |     |     |  l;wf sf0] | f ∠APB agfp5“ |  .  |     |     |
-l;wfsf0] f ∠APB sf ] dfg slt xG' 5 < o;sf ] dfg 180° xG' 5 . ∠1 + ∠2 + ∠3 = 180°
-csf {] tl/sf M Pp6f afSnf ] sfuhdf lqeh'  lvr / sf0] fx¿nfO { jm|dzM 1, 2 / 3 gfd bp] m . pSt
-lqeh' nfO { sr“} Ln ] sf6 . To;kl5 zLifs{ f0] f A nfO { BC df kg {] u/L k6o\ fpm . km]l/ zLifl{aGb ' B / C nfO{
-| klg A df gvK6g ] |     | u/L k6o\ | fpm . |     |     |     |     |     |
-| ---------------- | --- | -------- | ----- | --- | --- | --- | --- | --- |
-A
-1
-1
-| 2   |     | 3   |     | 2   | 3   | 2   | 1   |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| B   |     | C   | B   |     | C   |     | 3   |     |
-A
-xfdf| ]ul0ft, sIff *
-10
-
-ca, lqeh'  ABC sf ltg zLifl{aGbn'  ] Pp6f l;wf sf0] f agfP . lrqdf bv] fP h:t } pSt l;wfsf0] fsf]
-| dfg 180° xG' | 5 . |     |     |     |     |     |     |     |
-| ------------ | --- | --- | --- | --- | --- | --- | --- | --- |
-ko| fu] fTds k/LIf0f
-| km/s km/s gfksf eh' |     | fx¿ ePsf tLgcf6] |     | f lqeh' | x¿ lvr . |     |     |     |
-| ------------------- | --- | ---------------- | --- | ------- | -------- | --- | --- | --- |
-A
-A
-A
-|     | B       | C   |     | B       |     | C   | B       | C   |
-| --- | ------- | --- | --- | ------- | --- | --- | ------- | --- |
-|     | lrq -s_ |     |     | lrq -v_ |     |     | lrq -u_ |     |
-kf|6] S] 6/sf ] ko| fu]  u/L dflysf kT| os]  lqeh' df ;a } sf0] fx¿ gfk / tnsf ] tflnsf e/ M
-| lrq g=+ | ∠BAC | ∠ABC | ∠ACB |     | ∠BAC + ∠ABC + ∠ACB |     |   kl/0ffd |     |
-| ------- | ---- | ---- | ---- | --- | ------------------ | --- | --------- | --- |
--s_
--v_
--u_
-| dflysf ] | tflnsfaf6 s ]            | lgisif { kfof } | <       |                     |     |     |     |     |
-| -------- | ------------------------ | --------------- | ------- | ------------------- | --- | --- | --- | --- |
-| lqeh'    | sf leqL tLgcf6]          | f sf0] fsf ]    | gfksf ] | ofu] kmn slt kfof } |     | <   |     |     |
-| ;u“      | s} f ] ;fyL;u“  lgisifa{ | f/ ] 5nkmn u/ . |         |                     |     |     |     |     |
-lqeh' sf leqL sf0] fx¿sf ] gfksf ] ofu] kmn 180° jf bO'  { ;dsf0] f xG' 5 .
-| k/LIf0f 2 : ;dlåafx ' |     | lqeh' sf cfwf/sf sf0] |     |     | fx¿sf ] | ;DaGw |     |     |
-| --------------------- | --- | --------------------- | --- | --- | ------- | ----- | --- | --- |
-km/s km/s cfwf/ ePsf tLgcf]6f ;dlåafx' lqe'hx¿ PQR lvr . h;df cfwf/ QR /
-PQ = PR 5 .
-kf|6] S] 6/ ko| fu]  u//]  kT| os]  lqeh' sf sf0] fx¿ gfk / tnsf ] tflnsf e/ M
-P
-P
-P
-R
-|     |     |     | Q   |     |     | R   |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     | Q   | R   |     |     |     |     |     |     |
-Q
-|     | lrq -s_ |     |     | lrq -v_ |     |     | lrq -u_ |     |
-| --- | ------- | --- | --- | ------- | --- | --- | ------- | --- |
-xfdf| ]ul0ft, sIff *
-11
-
-| lrq g=+ |     | ∠PQR |     |     | ∠PRQ |     | ∠QPR |     | kl/0ffd |     |     |
-| ------- | --- | ---- | --- | --- | ---- | --- | ---- | --- | ------- | --- | --- |
--s_
--v_
--u_
-| dflysf ] | tflnsfaf6 s ] |     | lgisif {  | kfof,} ;fyLx¿;u“ |                 |     |  5nkmn u/ . |               |      |     |     |
-| -------- | ------------- | --- | --------- | ---------------- | --------------- | --- | ----------- | ------------- | ---- | --- | --- |
-|          |               |     | ;dlåafx ' | lqeh'            | sf cfwf/sf sf0] |     |             | fx¿ a/fa/ xG' | 5g \ | .   |     |
-k/LIf0f 3 : ;dlåafx ' lqeh' sf zLifl{aGba' f6 cfwf/sf ] dWo laGbd' f lvlrPsf ] /v] f / cfwf/sf ] ;DaGw
-1. km/s km/s cfwf/ ePsf tLgcf6] f ;dlåafx ' lqeh' x¿ ΔXYZ lvr .
-| 2. cfwf/ YZ sf ] |     |     | dWolaGb ' | P kQf nufO { |     | zLifl{aGb ' | X ;u“ |  hf8]  . |     |     |     |
-| ---------------- | --- | --- | --------- | ------------ | --- | ----------- | ----- | -------- | --- | --- | --- |
-3. kf|6] S] 6/sf ] ko| fu]  u/L ∠XPY / ∠XPZ gfk / tnsf ] tflnsf e/ M
-X
-X
-X
-|     | Y   |     |     | Z   |     |     |     | Z   | Y   |     | Z   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-Y
-|         |         | P   |     |      |     |         | P   |     |     | P       |     |
-| ------- | ------- | --- | --- | ---- | --- | ------- | --- | --- | --- | ------- | --- |
-|         | lrq -s_ |     |     |      |     | lrq -v_ |     |     |     | lrq -u_ |     |
-| lrq g=+ |         |     |     | ∠XPY |     | ∠XPZ    |     |     |     | kl/0ffd |     |
--s_
--v_
--u_
-| dflysf ] | tflnsfaf6 s ] |     | yfxf kfof } |     | <   |     |     |     |     |     |     |
-| -------- | ------------- | --- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- |
-cf;Gg sf0] fx¿ a/fa/ eP jf dfg 90° eP s ] xG' 5, ;fyLx¿;u“  5nkmn u/ .
-;dlåafx ' lqeh' df zLifl{aGba' f6 cfwf/sf ] dWo laGb ' hf8] g\  ] /v] f cfwf/;u“  nDa xG' 5 .
-| k/LIf0f 4 : ;dafx ' |                      |     | lqeh' | sf sf0]   | fx¿sf ] | ;DaGw          |     |     |     |     |     |
-| ------------------- | -------------------- | --- | ----- | --------- | ------- | -------------- | --- | --- | --- | --- | --- |
-| ;jk{ y|             | d km/s gfksf tLgcf6] |     |       | f ;dafx ' |         | lqeh' x¿ lvr . |     |     |     |     |     |
-xfdf| ]ul0ft, sIff *
-12
-
-| kf|6] | S] 6/sf ] ;xfotfn ] | ;a } sf0] fx¿ gfk / tnsf ] |     |     | tflnsf e/ M |     |     |     |
-| ----- | ------------------- | -------------------------- | --- | --- | ----------- | --- | --- | --- |
-M
-L
-M
-L
-L
-|     | M       | N    |      | N       |      |     |         | N       |
-| --- | ------- | ---- | ---- | ------- | ---- | --- | ------- | ------- |
-|     | lrq -s_ |      |      | lrq -v_ |      |     |         | lrq -u_ |
-|     | lrq g=+ | ∠MLN | ∠MNL |         | ∠LMN |     | kl/0ffd |         |
--s_
--v_
--u_
-dflysf ] tflnsfaf6 s ] lgisif { lgsfNg ;lsG5, cfkm\gf ] sfkLdf nv]  / ;fyLx¿;u“  5nkmn u/ .
-;dafx ' lqeh' sf ;a } leqL sf0] fx¿ a/fa/ xG' 5g \ / kT| os] sf ] dfg 60° xG' 5 .
-k/LIf0f 5 : ;dsf0] fL ;dlåafx ' lqeh' sf cfwf/sf sf0] fx¿sf ] ;DaGw
-Pp6f sf0] f ;dsf0] f (90°) ePsf km/s gfksf tLgcf6] f ;dlåafx ' lqeh'  ABC lvr .
-lrqdf ABC ;dsf0] fL ;dlåafx ' lqeh'  xf ] h;df AB = BC 5 / ∠B = 90° 5 .
-A
-B
-|     |     |     |     |     |     |     | B   | C   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     | A   |     | C   |     |     |     |
-B
-C
-A
-|     | lrq -s_ |     |     | lrq -v_ |     |     |     | lrq -u_ |
-| --- | ------- | --- | --- | ------- | --- | --- | --- | ------- |
-ca, kf|6] S] 6/ ko| fu]  u/L ;a } lqeh' sf cfwf/ sf0] fx¿ gfk / tnsf ] tflnsfdf e/ M
-|     | lrq g=++ | ∠BAC | ∠ACB |     |     | kl/0ffd |     |     |
-| --- | -------- | ---- | ---- | --- | --- | ------- | --- | --- |
--s_
--v_
--u_
-| dflysf ] | tflnsfsf cfwf/df lgisif { |                     | cfkm\gf ] | pQ/ kl':tsfdf nv] |     |  .             |     |        |
-| -------- | ------------------------- | ------------------- | --------- | ----------------- | --- | -------------- | --- | ------ |
-|          |                           | ;dsf0] fL ;dlåafx ' | lqeh'     | sf cfwf/sf sf0]   |     | fx¿ 45° sf xG' |     | 5g \ . |
-xfdf| ]ul0ft, sIff *
-13
-
-pbfx/0f 1
-| tnsf lqeh' | x¿df afs“ | L sf0] fx¿ kQf nufpm M |     |     |
-| ---------- | --------- | ---------------------- | --- | --- |
-A
-L P
-40° x+20
-55° 2x x°
-R
-| B   |     | C   | M   | N Q |
-| --- | --- | --- | --- | --- |
--u_
-|     | -s_ |     | -v_ |     |
-| --- | --- | --- | --- | --- |
-;dfwfg
--s_ oxf“, ΔABC ;dlåafx ' lqeh'  xf ] . o;df AB = AC / ∠ABC = 55° 5 . ΔABC ;dlåafx'
-| ePsfn ] | ∠ABC = ∠ACB = 55° xG' |     | 5 . |     |
-| ------- | --------------------- | --- | --- | --- |
-∴ ∠ACB = 55°
-km]l/, ∠ABC + ∠BCA + ∠CAB = 180°  -lqeh' sf leqL sf0] fx¿sf ] ofu] kmn = 180° xG' 5 ._
-cyjf, 55° + 55° + ∠CAB = 180°
-cyjf, ∠CAB = 180° - 110° = 70°
-∴ ∠CAB = 70°
-| -v_ ΔLMN ;dsf0] | fL lqeh' |  xf ] . o;df ∠L = 40°; ∠M = 90° 5 . |     |     |
-| --------------- | -------- | ----------------------------------- | --- | --- |
- ∠L + ∠M + ∠N = 180°
-cyjf, 40° + 90° + ∠N = 180°
-cyjf, ∠N = 180°–130°
-∴ ∠N = 50°
-| -u_ ΔPQR ljifdeh' |     |  -laifdafx_'  lqeh' |  xf ] . |     |
-| ----------------- | --- | ------------------- | ------- | --- |
-∠P + ∠Q + ∠R = 180°  -lqeh' sf leqL sf0] fx¿sf ] ofu] kmn = 180°  xG' 5 ._
-cyjf, x + 20° + 2x + x = 180°
-cyjf, 4x + 20° = 180°
-cyjf, 4x = 180° - 20° = 160°
-cyjf, 4x = 160°
-∴ x = 40°
-| ca, | ∠P = x + 20° = 40° + 20° = 60° |     |     |     |
-| --- | ------------------------------ | --- | --- | --- |
-∠Q = 2x = 2 x 40° = 80°
-∠R = x = 40°
-xfdf| ]ul0ft, sIff *
-14
-
-cEof; 2.1
-| 1. tLgcf6] | f lqeh' |  lvrL ko| | fu] åf/f kd| | fl0ft u/ . |     |     |     |     |     |
-| ---------- | ------- | --------- | ------------ | ---------- | --- | --- | --- | --- | --- |
--s_ lqeh' sf ] sg'  } bO'  { eh' fsf ] nDafOsf ] hf8]  t;] f| ] eh' feGbf nfdf ] xG' 5 .
--v_ lqeh' sf ] Pp6f eh' f nDAofpb“ f aGg ] aflx/L sf0] f leqL cgf;Gg sf0] fx¿sf ] ofu] kmn;u“
-a/fa/ xG' 5 .
-2. tnsf lrqx¿df x, y, z sf ] dfg kQf nufO { afs“ L sf0] fx¿sf ] dfg kQf nufpm M
-A
-| -s_ |     | P   | -v_ |     |     | -u_ |     | X   |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-x°
-x°
-44°
-|     | 60° | 30° |     |     |     |     |     |       |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | ----- | --- |
-|     | Q   |     | R   |     |     |     |     |       |     |
-|     |     |     |     |     | y°  |     |     | y° x° |     |
-|     |     |     |     | B   |     | C   |     |       | Z   |
-Y
-| -3_ |     | E   | -ª_ |     |     | -r_ |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-Q
-y°
-|     |     | 20° 20° |     |     | x°  |     |     |     |     |
-| --- | --- | ------- | --- | --- | --- | --- | --- | --- | --- |
-x°
-|     |     | y°  |     |     | z°  |     |      |     |     |
-| --- | --- | --- | --- | --- | --- | --- | ---- | --- | --- |
-|     | x°  |     |     | y°  |     | R   | 150° |     |     |
-P
-| F   |     |     | G   |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-H
-| -5_ |     |     | -h_ |     |     |     | -em_ |     |     |
-| --- | --- | --- | --- | --- | --- | --- | ---- | --- | --- |
-60°
-x°
-|     |     | x°  |     | 120° |     |     |     |     | x°  |
-| --- | --- | --- | --- | ---- | --- | --- | --- | --- | --- |
-z°
-|     |     | 6x° |     |     | y°  |     |     | 45° y° |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | ------ | --- |
-2x°
-| -`_ |     |     |     |     | -6_ |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-x°
-z°
-38°
-|     |     | x°  |     |     |     |     | 65° |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-y°
-y° 42°
-60°
-| -7_ |     |     |     |     | -8_ |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     | y°  |     |     |     |     | z°  | y°  |     |
-|     | 45° |     |     |     |     |     | x°  |     |     |
-2x+5°
-2x-5°
-2x°
-x°
-xfdf| ]ul0ft, sIff *
-15
-
-|                                 |                                   |     |     |     |     |     | A   | C   |
-| ------------------------------- | --------------------------------- | --- | --- | --- | --- | --- | --- | --- |
-| 3. ;u“                          | s} f ] lrqdf AB||CD, ∠FEB = 85° / |     |     |     |     |     |     |     |
-| ∠AEC = 50° eP ∠ECF, ∠DFE / ∠CFE |                                   |     |     |     |     |     | 50° |     |
-sf ] dfg kQf nufpm .
-|     |     |     |     |     |     |     | E   | F   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-85°
-D
-B
-4. km/s gfkdf tLgcf6] f lqeh'  ABC  lvr h;df AC > AB 5 . ca tnsf] h:t} tflnsf
-| agfO { | lbOPsf eh' |     | f / sf0] | fsf ] gfk e/ / lgisif { |      |            | nv]  M |         |
-| ------ | ---------- | --- | -------- | ----------------------- | ---- | ---------- | ------ | ------- |
-|        | lrq        |     | AC       | AB                      | ∠ACB |       ∠ABC |        | kl/0ffd |
--s_
--v_
--u_
-| lgoldt axe' |          | h' sf ] /rgf (Construction of Regular Polygons) |     |     |     |     |     |     |
-| ----------- | -------- | ----------------------------------------------- | --- | --- | --- | --- | --- | --- |
-| tnsf kZ|    | gx¿af/ ] | 5nkmn u/f “}                                    |     | M   |     |     |     |     |
-axe' h'  egs] f ] s ] xf,] lgoldt axe' h'  eGgfn ] s ] al'emG5, lgoldt axe' h' sf ] leqL sf0] fx¿ s;/L kQf
-nufpg ;lsG5 <
-lgoldt axe' h' , axe' h' sf ] leqL / aflx/L sf0] fx¿sf af/d] f xfdLn ] sIff & df cWoog u/L
-;ss] f 5f “} . oxf “ xfdL lgoldt axe' h' sf ] /rgfsf af/d] f cWoog ub5{ f “{} .....
-n2
-olb lgoldt axe' h' sf ] eh' fsf ] ;ªV\ of     n     ePdf pSt axe' h' sf ] leqL sf0] fsf ] gfk      1800     xG'5     .....
-n
-(I) lgoldt k~reh' sf ] /rgf (construction of regular pentagon)
-D
-| 5cm     eh' |     | f nDafO ePsf ] |     | Pp6f lgoldt k~reh' |     | sf ] /rgf u/ . |     |     |
-| ----------- | --- | -------------- | --- | ------------------ | --- | -------------- | --- | --- |
-108°
-| klxnf ]       | tl/sf |      |           |               |     |     |     |     |
-| ------------- | ----- | ---- | --------- | ------------- | --- | --- | --- | --- |
-| lgoldt k~reh' |       | sf ] | leqL sf0] | fsf ] dfg kQf |     |     | E   |     |
-1. C
 108° 108°
-| nufpg ] | tl/sf |     |     |     |     |     |     |     |
-| ------- | ----- | --- | --- | --- | --- | --- | --- | --- |
+| nufpg ] | tl/sf | | | | | | | |
 oxf,“ n = 5
-| leqL sf0] | f = |     |     |     |     |     |     |     |
-| --------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| leqL sf0] | f = | | | | | | | |
 108°
 108°
 A B
 5cm
 xfdf| ]ul0ft, sIff *
-16
-
 2. AB = 5cm ePsf ] l;wf /v] fv08 lvr / kf|6] S] 6/n ] laGb ' B df 108° sf ] sf0] f lvr .
 pSt /v] fdf 5cm sf ] rfkn ] sf6  / C gfd bp] m . C df 108° sf ] sf0] f lvr . ca 5cm df
-3.
-| lrxg\ |  nufO {D gfd bp] |     | m . |     |     |     |     |     |     |     |     |
-| ----- | ---------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| lrxg\ |  nufO {D gfd bp] | | m . | | | | | | | | |
 4. o:t } u/L laGb ' D df 108° sf ] sf0] f lvr / 5cm df lrxg\  nufO { E gfd bp] m . clg laGb ' E
-| / A hf8]         |  .  |     |                   |     |     |     |     |     |     |     |     |
-| ---------------- | --- | --- | ----------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ca cfjZos k~reh' |     |     |  ABCDE tof/ eof ] |     |     | .   |     |     |     |     |     |
+| / A hf8] |  .  | | | | | | | | | | |
+| ca cfjZos k~reh' | | |  ABCDE tof/ eof ] | | | . | | | | | |
 bf;] f|  ] tl/sf
-| 5cm Jof; ePsf ] |     | jQ[ leq k~reh' |      | sf ]               | /rgf u/ . |     |     |     |     |     |     |
-| --------------- | --- | -------------- | ---- | ------------------ | --------- | --- | --- | --- | --- | --- | --- |
-| sDkf;sf ]       |     | ;xfotfn ]      | ;jk{ | y| d Jof; AB = 5cm |           |     |     |     | C   |     |     |
-1.
-| / sG]                       | b | O ePsf ] | Pp6f jQ[   |     |  lvr . |          |     |     |     |     |     |     |
-| --------------------------- | ------------ | ---------- | --- | ------ | -------- | --- | --- | --- | --- | --- | --- |
-| 2. AB sf ]                  | nDafws{      |  lvr / jQ[ |     | sf ]   | kl/lw;Dd |     |     |     |     |     |     |
-| nDAofO jm|dzM C / D gfd bp] |              |            |     | m .    |          |     |     |     |     |     | K   |
-G
-| km]l/ cwJ{         | of; OB sf ]        |        | nDafws{        |  lvr   |     |     |     |     |     |     |     |
-| ------------------ | ------------------ | ------ | -------------- | ------ | --- | --- | --- | --- | --- | --- | --- |
-| 3.                 |                    |        |                |        |     |     |     | F   | O   | E   |     |
-|                    |                    |        |                |        |     |     | A   |     |     |     | B   |
-| / sfl6Psf ]        |                    | laGbn' | fO { E gfd bp] |        | m . |     |     |     |     |     |     |
-| 4. laGb '          | E af6 EC a/fa/sf ] |        |                | rfkn ] | OA  |     |     |     |     |     |     |
-| df sf6 / F gfd bp] |                    |        | m .            |        |     |     |     |     |     |     |     |
-J
-| F af6 C a/fa/sf ] |     |     | rfk np] | m / jQ[ | sf ] | kl/lwdf |     |     |     |     |     |
-| ----------------- | --- | --- | ------- | ------- | ---- | ------- | --- | --- | --- | --- | --- |
-| 5.                |     |     |         |         |      |         |     | H   |     |     |     |
-D
-| C af6 rfkx¿ lvr / jm|dzM G, H, J / K gfd bp] |                       |     |     |                   |     |     | m . |     |     |     |     |
-| -------------------------------------------- | --------------------- | --- | --- | ----------------- | --- | --- | --- | --- | --- | --- | --- |
-| 6. ?n/n ]                                    | C, G, H, J / K laGbx' |     |     | ¿ hf8]            |  .  |     |     |     |     |     |     |
-| ca cfjZos lgoldt k~reh'                      |                       |     |     |  CGHJK tof/ eof ] |     |     | .   |     |     |     |     |
-7.
-(II) lgoldt if6e\ h' sf ] /rgf (construction of regular hexagon) -gfk/]  x/] _
-| Pp6f eh' | fsf ] | gfk 4cm ePsf ] |     | lgoldt if6e\ |     | h' sf ] /rgf u/ . |     | C   |     |     |     |
-| -------- | ----- | -------------- | --- | ------------ | --- | ----------------- | --- | --- | --- | --- | --- |
-D
+| 5cm Jof; ePsf ] | | jQ[ leq k~reh' | | sf ] | /rgf u/ . | | | | | | |
+| sDkf;sf ] | | ;xfotfn ] | ;jk{ | y| d Jof; AB = 5cm | | | | | C | | |
+| / sG] | b | O ePsf ] | Pp6f jQ[ | |  lvr . | | | | | | | |
+| 2. AB sf ] | nDafws{ |  lvr / jQ[ | | sf ] | kl/lw;Dd | | | | | | |
+| nDAofO jm|dzM C / D gfd bp] | | | | m . | | | | | | | K |
+| km]l/ cwJ{ | of; OB sf ] | | nDafws{ |  lvr | | | | | | | |
+| 3. | | | | | | | | F | O | E | |
+| | | | | | | | A | | | | B |
+| / sfl6Psf ] | | laGbn' | fO { E gfd bp] | | m . | | | | | | |
+| 4. laGb ' | E af6 EC a/fa/sf ] | | | rfkn ] | OA  | | | | | | |
+| df sf6 / F gfd bp] | | | m . | | | | | | | | |
+| F af6 C a/fa/sf ] | | | rfk np] | m / jQ[ | sf ] | kl/lwdf | | | | | |
+| 5. | | | | | | | | H | | | |
+| C af6 rfkx¿ lvr / jm|dzM G, H, J / K gfd bp] | | | | | | | m . | | | | |
+| 6. ?n/n ] | C, G, H, J / K laGbx' | | | ¿ hf8] |  .  | | | | | | |
+| ca cfjZos lgoldt k~reh' | | | |  CGHJK tof/ eof ] | | | . | | | | |
+II) lgoldt if6e\ h' sf ] /rgf (construction of regular hexagon) -gfk/]  x/] _
+| Pp6f eh' | fsf ] | gfk 4cm ePsf ] | | lgoldt if6e\ | | h' sf ] /rgf u/ . | | C | | | |
 tl/sf M
-| 1. AF = 4cm sf ] |                | Pp6f ;/n /v] |                       | f lvr . |     |     |     |     |     |     |     |
-| ---------------- | -------------- | ------------ | --------------------- | ------- | --- | --- | --- | --- | --- | --- | --- |
-| 2. laGb '        | A af6 / laGb ' |              | F af6 AF a/fa/ gfksf] |         |     |     |     |     |     |     |     |
-B
-| rfk lnP/ sf6 / rfk lvr / sfl6Psf] |                |        |          |                      |     |            |           |     |     | O   | E   |
-| --------------------------------- | -------------- | ------ | -------- | -------------------- | --- | ---------- | --------- | --- | --- | --- | --- |
-| laGbn'                            | fO { O gfd bp] |        | m .      |                      |     |            |           |     |     |     |     |
-| 3. O nfO {                        | cfwf/ dfg/]    |        |  OA cwJ{ | of; ePsf ]           |     | jQ[  lvr . |           |     |     |     |     |
-| 4. OA a/fa/sf ]                   |                | rfkn ] | jQ[ sf ] | kl/lwdf A af6 B xb“' |     |            |  } jm|dzM |     |     |     |     |
-F
-| sf6 / sfl6Psf ] |     | laGbn' | fO { | jm|dzM B, C, D, E gfd bp] |     |     |     | m . A |     |     |     |
-| --------------- | --- | ------ | ---- | ------------------------- | --- | --- | --- | ----- | --- | --- | --- |
+| 1. AF = 4cm sf ] | | Pp6f ;/n /v] | | f lvr . | | | | | | | |
+| 2. laGb ' | A af6 / laGb ' | | F af6 AF a/fa/ gfksf] | | | | | | | | |
+| rfk lnP/ sf6 / rfk lvr / sfl6Psf] | | | | | | | | | | O | E |
+| laGbn' | fO { O gfd bp] | | m . | | | | | | | | |
+| 3. O nfO { | cfwf/ dfg/] | |  OA cwJ{ | of; ePsf ] | | jQ[  lvr . | | | | | |
+| 4. OA a/fa/sf ] | | rfkn ] | jQ[ sf ] | kl/lwdf A af6 B xb“' | | |  } jm|dzM | | | | |
+| sf6 / sfl6Psf ] | | laGbn' | fO { | jm|dzM B, C, D, E gfd bp] | | | | m . A | | | |
 xfdf| ]ul0ft, sIff *
-17
-
-| 5. ca A, B, C, D, E / F nfO { |     |                       | ?n/n ] | hf8]  . |     |     |
-| ----------------------------- | --- | --------------------- | ------ | ------- | --- | --- |
-| cfjZos if6e\                  |     | h'  ABCDEF tof/ eof ] |        | .       |     |     |
-6.
-(III) lgoldt ci6eh' sf ] /rgf (construction of regular octagon)
-| 5cm Jof; ePsf ] |     | jQ[ leq lgoldt ci6eh' |     | sf ] | /rgf u/ . |     |
-| --------------- | --- | --------------------- | --- | ---- | --------- | --- |
+| 5. ca A, B, C, D, E / F nfO { | | | ?n/n ] | hf8]  . | | |
+| cfjZos if6e\ | | h'  ABCDEF tof/ eof ] | | . | | |
+III) lgoldt ci6eh' sf ] /rgf (construction of regular octagon
+| 5cm Jof; ePsf ] | | jQ[ leq lgoldt ci6eh' | | sf ] | /rgf u/ . | |
 tl/sf
-C
-| 1. sDkf;sf ] | ko| fu]  |  u//]  sG] b | | O / Jof; AB = 5cm |     |     |     |
-| ------------ | -------- | -------------- | ----------------- | --- | --- | --- |
-| ePsf ]       | Pp6f jQ[ |  lvr .         |                   |     |     | E   |
-G
-| Jof; AB sf ] |     | nDafws{  lvr . |     |     |     |     |
-| ------------ | --- | -------------- | --- | --- | --- | --- |
-2.
-ca, ∠COA / ∠BOC sf ]
-| 3.  |     |     | cws{  lvr . |     |     |     |
-| --- | --- | --- | ----------- | --- | --- | --- |
-O
+| 1. sDkf;sf ] | ko| fu]  |  u//]  sG] b | | O / Jof; AB = 5cm | | | |
+| ePsf ] | Pp6f jQ[ |  lvr . | | | | E |
+| Jof; AB sf ] | | nDafws{  lvr . | | | | |
+ca, ∠COA / ∠BOC sf
+| 3.  | | | cws{  lvr . | | | |
 A B
-| To;nfO { | kl/lw;Dd nDAofpm . ca sfl6Psf         |                            |     |     |     |     |
-| -------- | ------------------------------------- | -------------------------- | --- | --- | --- | --- |
-| laGbx'   | ¿nfO { jm|dzM E / F tyf G / H gfd bp] |                            |     |     | m . |     |
-| ?n/ ko|  | fu]  u/L laGbx'                       | ¿ jm|dzM A, E, C, G, B, F, |     |     |     |     |
-4.
-F
-H
-| D, H / A hf8] |     |  .  |     |     |     |     |
-| ------------- | --- | --- | --- | --- | --- | --- |
-D
-| 5. ca cfjZos lgoldt ci6eh' |     |     |  tof/ eof ] | .   |     |     |
-| -------------------------- | --- | --- | ----------- | --- | --- | --- |
+| To;nfO { | kl/lw;Dd nDAofpm . ca sfl6Psf | | | | | |
+| laGbx' | ¿nfO { jm|dzM E / F tyf G / H gfd bp] | | | | m . | |
+| ?n/ ko|  | fu]  u/L laGbx' | ¿ jm|dzM A, E, C, G, B, F, | | | | |
+| D, H / A hf8] | |  .  | | | | |
+| 5. ca cfjZos lgoldt ci6eh' | | |  tof/ eof ] | . | | |
 gf6]  M lgoldt if6e\ h'  / lgoldt ci7eh' sf ]/rgf klg k~reh' sf ]h:t }leqL sf0]fx¿ kQf nufP/
- klg ug {;lsG5 .
+klg ug {;lsG5 .
 cEof; 2.2
 leqL sf0] f kQf nufO { tnsf gfksf ] lgoldt k~reh' sf ] /rgf u/ M
-1.
--s_ Pp6f eh' fsf ] nDafO 4cm ePsf] -v_ Pp6f eh' fsf ] nDafO 6cm ePsf]
+-s_ Pp6f eh' fsf ] nDafO 4cm ePsf] -v_ Pp6f eh' fsf ] nDafO 6cm ePsf
 2. leqL sf0] f kQf nufO { tnsf gfksf ] lgoldt if6e\ h' sf ] /rgf u/ M
-| -s_ AB = 5cm |     |     | -v_ eh' | f = 6cm |     |     |
-| ------------ | --- | --- | ------- | ------- | --- | --- |
+| -s_ AB = 5cm | | | -v_ eh' | f = 6cm | | |
 3. sDkf;sf ] ko| fu]  u/L Pp6f eh' f 7cm ePsf ] lgoldt if6e\ h' sf ] /rgf u/ .
-leqL sf0] f kQf nufO { kf| 6] S] 6/sf ] ko| fu] af6 lgDgfg;' f/ eh' f ePsf ] lgoldt ci6eh' sf]
-4.
+leqL sf0] f kQf nufO { kf| 6] S] 6/sf ] ko| fu] af6 lgDgfg;' f/ eh' f ePsf ] lgoldt ci6eh' sf
 /rgf u/ M
-| -s_ 4cm |     | -v_ 5cm |     | -u_ 6cm |     |     |
-| ------- | --- | ------- | --- | ------- | --- | --- |
+| -s_ 4cm | | -v_ 5cm | | -u_ 6cm | | |
 5. sDkf; / ?n/sf ] ko| fu]  u/L tn lbOPcg;' f/sf lgoldt axe' h' x¿sf ] /rgf u/ M
-| -s_ cwJ{            | of; 4cm ePsf ]          |     | jQ[ leq lgoldt k~reh' |     |     |     |
-| ------------------- | ----------------------- | --- | --------------------- | --- | --- | --- |
-| -v_ eh'             | sf ] nDafO 5.5cm ePsf ] |     | if6e\                 | h'  |     |     |
-| -u_ Jof; 5cm ePsf ] |                         | jQ[ | leq lgoldt ci6eh'     |     |     |     |
+| -s_ cwJ{ | of; 4cm ePsf ] | | jQ[ leq lgoldt k~reh' | | | |
+| -v_ eh' | sf ] nDafO 5.5cm ePsf ] | | if6e\ | h'  | | |
+| -u_ Jof; 5cm ePsf ] | | jQ[ | leq lgoldt ci6eh' | | | |
 xfdf| ]ul0ft, sIff *
-18
-
-| 2.3 | ;dfgfGt/ rte' |     | h{' , ju { | / cfotsf u0' |        | fx¿sf ] |     | k/LIf0f |     |     |
-| --- | ------------- | --- | ---------- | ------------ | ------ | ------- | --- | ------- | --- | --- |
-|     |               |     |            |              |        |         |     |         | P   | Q   |
-|     | ;dfgfGt/ rte' |     | h{' sf u0' | fx¿sf ]      | vfh] L |         |     |         |     |     |
-(i)
-| tnsf kZ| | gx¿sf cfwf/df 5nkmn u/f +} |     |              |            | M   |     |     |     |     |     |
-| -------- | -------------------------- | --- | ------------ | ---------- | --- | --- | --- | --- | --- | --- |
-|          | ;dfgfGt/ rte'              |     | h{'  eg]sf ] | s ] xf ] < |     |     |     |     |     |     |
-S
-R
-|     | o;sf u0'   | fx¿ s ]   | s ] xg'                       |  \ < |     |     |     |     |           |     |
-| --- | ---------- | --------- | ----------------------------- | ---- | --- | --- | --- | --- | --------- | --- |
-|     | o;sf af/d] | f xfdLn ] | cl3Nnf sIffx¿df cWoog ul/;ss] |      |     |     |     |     | f 5f “} . |     |
+| 2.3 | ;dfgfGt/ rte' | | h{' , ju { | / cfotsf u0' | | fx¿sf ] | | k/LIf0f | | |
+| | | | | | | | | | P | Q |
+| | ;dfgfGt/ rte' | | h{' sf u0' | fx¿sf ] | vfh] L | | | | | |
+i
+| tnsf kZ| | gx¿sf cfwf/df 5nkmn u/f +} | | | | M | | | | | |
+| | ;dfgfGt/ rte' | | h{'  eg]sf ] | s ] xf ] < | | | | | | |
+| | o;sf u0' | fx¿ s ] | s ] xg' |  \ < | | | | | | |
+| | o;sf af/d] | f xfdLn ] | cl3Nnf sIffx¿df cWoog ul/;ss] | | | | | | f 5f “} . | |
 oxf,“ xfdL ;dfgfGt/ rte' h{' df lgDglnlvt u0' fx¿sf ] k/LIf0f ub5{ f “} M
-|                   | -s_ ;dfgfGt/ rte'                |     | h{' sf ;Ddv'        |       |  sf0] fx¿ a/fa/ xG'   |                 |       | 5g \ . |          |     |
-| ----------------- | -------------------------------- | --- | ------------------- | ----- | --------------------- | --------------- | ----- | ------ | -------- | --- |
-|                   | -v_ ;dfgfGt/ rte'                |     | h{' sf ;Ddv'        |       |  eh' fx¿sf ]          | gfk a/fa/ xG'   |       |        | 5 .      |     |
-|                   | -u_ ;dfgfGt/ rte'                |     | h{' sf jm|dfut sf0] |       | fx¿ kl/k/"            |                 | s xG' | 5g \   | .        |     |
-|                   | -3_ ;dfgfGt/ rte'                |     | h{' sf ljs0fx{      |       | ¿ cfk;df ;dlåefhg xG' |                 |       |        | 5g \ .   |     |
-| -s_ ;dfgfGt/ rte' |                                  |     | h{' sf ;Ddv'        |  sf0] | fx¿ a/fa/ xG'         |                 | 5g \  | .      |          |     |
-|                   | km/s km/s gfk / lsl;dsf ltg cf6] |     |                     |       |                       | f ;dfgfGt/ rte' |       | h{'    | x¿ lvr . |     |
-A
-|     | A   |     |     | B A |     |     |     | B   |     | B   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     | D   |     | C   |     |     |     |     |     |     |     |
-|     |     |     |     | D   |     |     |     | C   | D   | C   |
+| | -s_ ;dfgfGt/ rte' | | h{' sf ;Ddv' | |  sf0] fx¿ a/fa/ xG' | | | 5g \ . | | |
+| | -v_ ;dfgfGt/ rte' | | h{' sf ;Ddv' | |  eh' fx¿sf ] | gfk a/fa/ xG' | | | 5 . | |
+| | -u_ ;dfgfGt/ rte' | | h{' sf jm|dfut sf0] | | fx¿ kl/k/" | | s xG' | 5g \ | . | |
+| | -3_ ;dfgfGt/ rte' | | h{' sf ljs0fx{ | | ¿ cfk;df ;dlåefhg xG' | | | | 5g \ . | |
+| -s_ ;dfgfGt/ rte' | | | h{' sf ;Ddv' |  sf0] | fx¿ a/fa/ xG' | | 5g \  | . | | |
+| | km/s km/s gfk / lsl;dsf ltg cf6] | | | | | f ;dfgfGt/ rte' | | h{' | x¿ lvr . | |
+| | A | | | B A | | | | B | | B |
+| | D | | C | | | | | | | |
+| | | | | D | | | | C | D | C |
 lrq -u_
-|     | lrq -s_ |     |     |     |     | lrq -v_ |     |     |     |     |
-| --- | ------- | --- | --- | --- | --- | ------- | --- | --- | --- | --- |
+| | lrq -s_ | | | | | lrq -v_ | | | | |
 ca kT| os]  ;dfgfGt/ rte' h{' sf sf0] fx¿ gfk / tnsf ] h:t } tflnsf agfO { k:| tt'  u/ M
-|            |     | ∠   |     | ∠   |     |     | ∠   |       | ∠           |     |
-| ---------- | --- | --- | --- | --- | --- | --- | --- | ----- | ----------- | --- |
-|     lrq g+ |     | DAB |     |     | BCD |     | ABC |       | CDA kl/0ffd |     |
+| | | ∠ | | ∠ | | | ∠ | | ∠ | |
+| lrq g+ | | DAB | | | BCD | | ABC | | CDA kl/0ffd | |
 -s_
 -v_
 -u_
 ca cfkmg\ f ] lgisifn{ fO { cfkm\gf ] ;dx" df 5nkmn u/L sIffdf k:| tt'  u/ .
-|     |               |     | ;dfgfGt/ rte' |      | h{' sf ;Ddv' |  sf0]         | fx¿ a/fa/ xG' |     | 5g \ . |     |
-| --- | ------------- | --- | ------------- | ---- | ------------ | ------------- | ------------- | --- | ------ | --- |
-| -v_ | ;dfgfGt/ rte' |     | h{' df ;Ddv'  |  eh' | fx¿sf ]      | gfk a/fa/ xG' |               | 5 . |        |     |
+| | | | ;dfgfGt/ rte' | | h{' sf ;Ddv' |  sf0] | fx¿ a/fa/ xG' | | 5g \ . | |
+| -v_ | ;dfgfGt/ rte' | | h{' df ;Ddv'  |  eh' | fx¿sf ] | gfk a/fa/ xG' | | 5 . | | |
 dfly g=+  -s_ df h:t } km/s km/s gfk / lsl;dsf tLg tLgcf6] f ;dfgfGt/ rte' h{'  PQRS
 lvr . cfkm"n ] lvrs] f ;dfgfGt/ rte' h{' sf eh' fx¿ ?n/sf ] ;xofu] df gfk / tnsf ] h:t}
-|     | tflnsf agfO { | e/ M |     |     |     |     |     |     |     |     |
-| --- | ------------- | ---- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | tflnsf agfO { | e/ M | | | | | | | | |
 xfdf| ]ul0ft, sIff *
-19
-
-| P   |     |     | Q   | P   |     |     | Q   |     | P   |     | Q   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-S
-| S       |         |     | R   |     |         |     | R   |     | S       |     | R   |
-| ------- | ------- | --- | --- | --- | ------- | --- | --- | --- | ------- | --- | --- |
-|         | lrq -s_ |     |     |     | lrq -v_ |     |     |     | lrq -u_ |     |     |
-| lrq g=+ |         |  PQ |     | RS  | QR      |     | PS  |     | kl/0ffd |     |     |
+| P | | | Q | P | | | Q | | P | | Q |
+| S | | | R | | | | R | | S | | R |
+| | lrq -s_ | | | | lrq -v_ | | | | lrq -u_ | | |
+| lrq g=+ | |  PQ | | RS  | QR | | PS  | | kl/0ffd | | |
 -s_
 -v_
 -u_
 ca, cfkmg\ f ] lgisifa{ f/ ] cfkmg\ f ] ;dx" df 5nkmn u/ / lgisif { lgsfn .
-|     |               |     | ;dfgfGt/ rte'  |                      | h{' sf ;Ddv' |  eh' | fx¿sf ] | gfk a/fa/ xG' | 5 . |     |     |
-| --- | ------------- | --- | -------------- | -------------------- | ------------ | ---- | ------- | ------------- | --- | --- | --- |
-| -u_ | ;dfgfGt/ rte' |     | h{' sf ljs0fx{ | ¿ k/:k/ ;dlåefhg xG' |              |      |         | 5g \ .        |     |     |     |
-|     |               |     |                | B                    | A            |      |         |               | B   |     |     |
-|     | A             |     |                |                      |              |      |         |               | A   |     | B   |
-O
-O
-O
-|     | D   |     |     | C   |     |     |     | C   |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-D
-|     |     |         |     |     |     |         |     |     | D   |     | C   |
-| --- | --- | ------- | --- | --- | --- | ------- | --- | --- | --- | --- | --- |
-|     |     | lrq -s_ |     |     |     | lrq -v_ |     |     |     |     |     |
+| | | | ;dfgfGt/ rte'  | | h{' sf ;Ddv' |  eh' | fx¿sf ] | gfk a/fa/ xG' | 5 . | | |
+| -u_ | ;dfgfGt/ rte' | | h{' sf ljs0fx{ | ¿ k/:k/ ;dlåefhg xG' | | | | 5g \ . | | | |
+| | | | | B | A | | | | B | | |
+| | A | | | | | | | | A | | B |
+| | D | | | C | | | | C | | | |
+| | | | | | | | | | D | | C |
+| | | lrq -s_ | | | | lrq -v_ | | | | | |
 lrq -u_
 tLg tLg hgfsf ] ;dx"  lgdf0{ f u/L kT| os] n ] km/s km/s gfksf tLg tLg cf6] f ;dfgfGt/
 rte' h{' x¿ ABCD lvrL ljs0fx{ ¿ AC / BD hf8]  / ljs0fx{ ¿sf ] kl|tR5b] g laGbn' fO { O dfg .
 ca, kT| os] n ] ;dfgfGt/ rte' h{' sf ] ljs0fx{ ¿sf ] gfk lng ] / tnsf ] h:t } tflnsf agfO { k:| tt'
 u/ M
-|     |  lrq g=+ |     |     |     | kl/0ffd |     |     |     |     | kl/0ffd |     |
-| --- | -------- | --- | --- | --- | ------- | --- | --- | --- | --- | ------- | --- |
-|     |          |     | OA  | OC  |         |     | OB  | OD  |     |         |     |
+| |  lrq g=+ | | | | kl/0ffd | | | | | kl/0ffd | |
+| | | | OA  | OC  | | | OB  | OD  | | | |
 -s_
 -v_
 -u_
 ca, cfkmg\ f ] lgisifn{ fO { ;dx" df k:| tt'  ug {] / ;dx" df 5nkmn u/L lgisif { kQf nufpm .
-|                         |     |         | ;dfgfGt/ rte' |     | h{' sf ljs0fx{ | ¿ k/:k/ ;dlåefhg xG' |     |     | 5g \ . |     |     |
-| ----------------------- | --- | ------- | ------------- | --- | -------------- | -------------------- | --- | --- | ------ | --- | --- |
-| -----ii_____ cfotsf u0' |     | fx¿sf ] | k/LIf0f       |     |                |                      |     |     |        |     |     |
+| | | | ;dfgfGt/ rte' | | h{' sf ljs0fx{ | ¿ k/:k/ ;dlåefhg xG' | | | 5g \ . | | |
+| -----ii_____ cfotsf u0' | | fx¿sf ] | k/LIf0f | | | | | | | | |
 cfot egs] f ] s ] xf ] / o;sf u0' fx¿ s ] s ] xg' ,\ o;sf af/d] f xfdLn ] cl3Nnf sIffx¿df
 cWoog ul/;ss] f 5f “} . ca xfdL o;sf lgDglnlvt u0' fx¿sf ] k/LIf0f ug {] 5f “} M
 xfdf| ]ul0ft, sIff *
-20
-
 cfot egs] f ] Pp6f sf0] f 90° ePsf ] ;dfgfGt/ rte' h{'  xf ] . t;y,{ ;dfgfGt/ rte' h{' sf ;a}
-|     | u0' fx¿ cfotsf klg u0' |     |                         | fx¿ xg'                  |  \ . o;sf ;fy,} |        |        |     |     |     |
-| --- | ---------------------- | --- | ----------------------- | ------------------------ | --------------- | ------ | ------ | --- | --- | --- |
-|     | -s_ cfotsf ljk/Lt eh'  |     |                         | fx¿ a/fa/ / ;dfgfGt/ xG' |                 |        | 5g \ . |     |     |     |
-|     |                        |     |                         |                          |                 |        |        | A   |     | B   |
-|     | -v_ cfotsf ;a }        |     | sf0] fx¿ a/fa/ / ;dsf0] |                          |                 | fL xG' | 5g \ . |     |     |     |
-|     | -u_ cfotsf ljs0fx{     |     | ¿ ;dlåeflht xG'         |                          |                 | 5g \ . |        |     |     |     |
-C
-|     | -3_ cfotsf ljs0fx{ |     | ¿ a/fa/ xG' |     | 5g \ | .   |     | D   |     |     |
-| --- | ------------------ | --- | ----------- | --- | ---- | --- | --- | --- | --- | --- |
+| | u0' fx¿ cfotsf klg u0' | | | fx¿ xg' |  \ . o;sf ;fy,} | | | | | |
+| | -s_ cfotsf ljk/Lt eh'  | | | fx¿ a/fa/ / ;dfgfGt/ xG' | | | 5g \ . | | | |
+| | | | | | | | | A | | B |
+| | -v_ cfotsf ;a } | | sf0] fx¿ a/fa/ / ;dsf0] | | | fL xG' | 5g \ . | | | |
+| | -u_ cfotsf ljs0fx{ | | ¿ ;dlåeflht xG' | | | 5g \ . | | | | |
+| | -3_ cfotsf ljs0fx{ | | ¿ a/fa/ xG' | | 5g \ | . | | D | | |
 dflysf u0' fx¿dWo ] -s_ / -u_ xfdLn ] ;dfgfGt/ rte' h{' df g } k/LIf0f ul/;ss] f 5f,“} o;nfO{
 ;dfgfGt/ rte' h'{ sf ] ;66\ fdf cfot /fvL k/LIf0f u//]  lzIfsnfO { bv] fpm .
-| -v_ | cfotsf ;a } | sf0] | fx¿ a/fa/ / ;dsf0] |     |     | fL xG' 5g \ | .   |     |     |     |
-| --- | ----------- | ---- | ------------------ | --- | --- | ----------- | --- | --- | --- | --- |
+| -v_ | cfotsf ;a } | sf0] | fx¿ a/fa/ / ;dsf0] | | | fL xG' 5g \ | . | | | |
 km/s km/s gfksf tLgcf]6f cfot lvr . cfk"mn] lvr]sf] cfotsf ;a} sf]0fx¿nfO{
-|     | kf|6] S] 6/n ] | gfk/]  tnsf ] | h:t } | tflnsfdf k:| |     | tt'  u/ M |     |     |     |     |
-| --- | -------------- | ------------- | ----- | ------------ | --- | --------- | --- | --- | --- | --- |
-A
-|     |         |     |     | B   | A   |         | B   | A   |         | B   |
-| --- | ------- | --- | --- | --- | --- | ------- | --- | --- | ------- | --- |
-|     | D       |     |     | C   |     | D       | C   |     |         |     |
-|     |         |     |     |     |     |         |     | D   |         | C   |
-|     | lrq -s_ |     |     |     |     | lrq -v_ |     |     | lrq -u_ |     |
-|     | lrq     |  ∠  |     | ∠   |     | ∠       | ∠   |     | lgisif{ |     |
-|     |         | DAB |     | ABC |     | BCD     |     | CDA |         |     |
+| | kf|6] S] 6/n ] | gfk/]  tnsf ] | h:t } | tflnsfdf k:| | | tt'  u/ M | | | | |
+| | | | | B | A | | B | A | | B |
+| | D | | | C | | D | C | | | |
+| | | | | | | | | D | | C |
+| | lrq -s_ | | | | | lrq -v_ | | | lrq -u_ | |
+| | lrq |  ∠  | | ∠ | | ∠ | ∠ | | lgisif{ | |
+| | | DAB | | ABC | | BCD | | CDA | | |
 -s_
 -v_
 -u_
-|                    | cfkmg\ f ] lgisifa{ | f/ ] | ;fyLx¿;u“   |  5nkmn u/ . |                         |     |     |               |     |     |
-| ------------------ | ------------------- | ---- | ----------- | ----------- | ----------------------- | --- | --- | ------------- | --- | --- |
-|                    |                     |      | cfotsf ;a } |             | sf0] fx¿ a/fa/ / ;dsf0] |     |     | fL xG' 5g \ . |     |     |
-| -3_ cfotsf ljs0fx{ |                     |      | ¿ a/fa/ xG' | 5g \        | .                       |     |     |               |     |     |
+| | cfkmg\ f ] lgisifa{ | f/ ] | ;fyLx¿;u“ |  5nkmn u/ . | | | | | | |
+| | | | cfotsf ;a } | | sf0] fx¿ a/fa/ / ;dsf0] | | | fL xG' 5g \ . | | |
+| -3_ cfotsf ljs0fx{ | | | ¿ a/fa/ xG' | 5g \ | . | | | | | |
 km/s km/s gfksf tLgcf6] f cfotx¿ lvr / ljs0fx{ ¿ PR / QS hf8]  .
-|     | P   |         |     |     | Q P |         | Q   | P   |         | Q   |
-| --- | --- | ------- | --- | --- | --- | ------- | --- | --- | ------- | --- |
-|     | S   |         |     |     | R   |         |     | S   |         |     |
-|     |     |         |     |     | S   |         | R   |     |         | R   |
-|     |     | lrq -s_ |     |     |     | lrq -v_ |     |     | lrq -u_ |     |
+| | P | | | | Q P | | Q | P | | Q |
+| | S | | | | R | | | S | | |
+| | | | | | S | | R | | | R |
+| | | lrq -s_ | | | | lrq -v_ | | | lrq -u_ | |
 xfdf| ]ul0ft, sIff *
-21
-
 ca ?n/ ko| fu]  u/L ;a } ljs0fx{ ¿ gfkL tnsf ] h:t } tflnsfdf k:| tt'  u/ / lgisif { klg kQf
 nufpm M
-| lrq g=+ |     | PR  |     | QS  |     |     |     | kl/0ffd |     |
-| ------- | --- | --- | --- | --- | --- | --- | --- | ------- | --- |
+| lrq g=+ | | PR  | | QS  | | | | kl/0ffd | |
 -s_
 -v_
 -u_
-| cfkmg\     | f ] lgisifa{ | f/ ] ;fyLx¿lardf 5nkmn u/ . |         |                |     |             |        |     |     |
-| ---------- | ------------ | --------------------------- | ------- | -------------- | --- | ----------- | ------ | --- | --- |
-|            |              |                             |         | cfotsf ljs0fx{ |     | ¿ a/fa/ xG' | 5g \ . |     |     |
-| (iii) jus{ | f u0'        | fx¿sf ]                     | k/LIf0f |                |     |             |        |     |     |
+| cfkmg\ | f ] lgisifa{ | f/ ] ;fyLx¿lardf 5nkmn u/ . | | | | | | | |
+| | | | | cfotsf ljs0fx{ | | ¿ a/fa/ xG' | 5g \ . | | |
+| (iii) jus{ | f u0' | fx¿sf ] | k/LIf0f | | | | | | |
 ju { egs] f ] s ] xf,] o;sf u0' fx¿ s ] s ] xg' ,\ o;sf af/d] f xfdLn ] cl3Nnf sIffx¿df g } cWoog
 ul/;ss] f 5f “} . ;a } eh' fx¿ a/fa/ ePsf ] cfotnfO { ju { elgG5 . To; sf/0f cfotdf ;a}
-| u0'      | fx¿ jus{ | f klg u0'    | fx¿ xg'            |     |  \ .   |             |     |     |     |
-| -------- | -------- | ------------ | ------------------ | --- | ------ | ----------- | --- | --- | --- |
-|          |          |              |                    |     |        |             |     | A   | B   |
-| jus{     | f u0'    | fx¿ lgDgfg;' | f/ 5g \            |     | M      |             |     |     |     |
-| -s_ jus{ |          | f ;Ddv'      |  eh' fx¿ a/fa/ xG' |     |        | 5g \ .      |     |     |     |
-|          |          |              |                    |     |        |             |     | D   | C   |
-| -v_ jus{ |          | f ljs0fx{    | ¿ a/fa/ xG'        |     | 5g \ . |             |     |     |     |
-| -u_ jus{ |          | f ;a } sf0]  | fx¿ a/fa/ / ;dsf0] |     |        | fL xG' 5g \ | .   |     |     |
+| u0' | fx¿ jus{ | f klg u0' | fx¿ xg' | |  \ . | | | | |
+| | | | | | | | | A | B |
+| jus{ | f u0' | fx¿ lgDgfg;' | f/ 5g \ | | M | | | | |
+| -s_ jus{ | | f ;Ddv' |  eh' fx¿ a/fa/ xG' | | | 5g \ . | | | |
+| | | | | | | | | D | C |
+| -v_ jus{ | | f ljs0fx{ | ¿ a/fa/ xG' | | 5g \ . | | | | |
+| -u_ jus{ | | f ;a } sf0]  | fx¿ a/fa/ / ;dsf0] | | | fL xG' 5g \ | . | | |
 -3_ jus{ f ljs0f{x¿ cfk;df ;dsf0] fL xg'  ] u/L ;dlåeflht xG' 5g \ .
-| -ª_  jus{ |     | f kT| os] |  ljs0fn{ |  ] zLif { | sf0] | fnfO { cfwf ub5{ | g \ . |     |     |
-| --------- | --- | --------- | -------- | --------- | ---- | ---------------- | ----- | --- | --- |
+| -ª_  jus{ | | f kT| os] |  ljs0fn{ |  ] zLif { | sf0] | fnfO { cfwf ub5{ | g \ . | | |
 dflysf -s_, -v_ / -u_ sf u0' fx¿ cfot / ;dfgfGt/ rte' h{' sf u0' fx¿;u“  ldNbfhN' bf 5g \ .
-| t;y { | oL u0' | fx¿ cufl8 u/ ] |     | h:t } | k/LIf0f u/L lzIfsnfO { |     | bv] | fpm . |     |
-| ----- | ------ | -------------- | --- | ----- | ---------------------- | --- | --- | ----- | --- |
+| t;y { | oL u0' | fx¿ cufl8 u/ ] | | h:t } | k/LIf0f u/L lzIfsnfO { | | bv] | fpm . | |
 -3_ jus{ f ljs0fx{ ¿ cfk;df ;dsf0] f xg'  ] u/L ;dlåeflht xG' 5g \ .
 km/s km/s gfksf tLgcf6] f jux{ ¿ lvrL lrqdf bv] fP em “} ljs0fx{ ¿ lvr . clg ljs0fx{ ¿
-| sfl6Psf ] |     | 7fpn“ fO { | 0 gfd bp] | m . |     |     |     |     |     |
-| --------- | --- | ---------- | --------- | --- | --- | --- | --- | --- | --- |
-K
-L
-| K   |     |     | L   |     | K   |     | L   |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     | O   |     |     |     |     |     |     | O   |
-O
-|     |     |     |     |     | N   |     | M   |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N   |     |     | M   |     |     |     |     |     |     |
+| sfl6Psf ] | | 7fpn“ fO { | 0 gfd bp] | m . | | | | | |
+| K | | | L | | K | | L | | |
+| | | O | | | | | | | O |
+| | | | | | N | | M | | |
+| N | | | M | | | | | | |
 N M
-|     | lrq -s_ |     |     |     |     | lrq -v_ |     |     | lrq -u_ |
-| --- | ------- | --- | --- | --- | --- | ------- | --- | --- | ------- |
+| | lrq -s_ | | | | | lrq -v_ | | | lrq -u_ |
 xfdf| ]ul0ft, sIff *
-22
-
 ca ?n/ / kf|6] S] 6/ ko| fu]  u//]  tn lbOPsf sf0] fx¿ / eh' fx¿ gfk / tnsf ] tflnsfdf h:t } agfO{
 k:| tt'  u/ M
-| lrq |     | sf0] fx¿sf ] | gfk |     |     | ljs0f { KM sf | ljs0f { | LN sf |    kl/0ffd |
-| --- | --- | ------------ | --- | --- | --- | ------------- | ------- | ----- | ---------- |
+| lrq | | sf0] fx¿sf ] | gfk | | | ljs0f { KM sf | ljs0f { | LN sf | kl/0ffd |
 v08x¿
 v08x¿
-∠KOL   ∠LOM  ∠MON   ∠NOK         OK    OM     OL    ON
+∠KOL ∠LOM  ∠MON ∠NOK OK OM OL ON
 -s_
 -v_
 -u_
 ca dflysf ] tflnsfaf6 s ] lgisif { lgsfNg ;lsG5 nv]  / ;fyLx¿;u“  5nkmn u/L ;dx" df lgisif{
 lgsfn .
-|          |       | jus{         | f ljs0fx{ | ¿ cfk;df ;dsf0] |     | f xg'  ] u/L ;dlåefhg xG' |     |     | 5g \ . |
-| -------- | ----- | ------------ | --------- | --------------- | --- | ------------------------- | --- | --- | ------ |
-| -ª_ jus{ | f kT| | os]  ljs0fn{ |  ] zLifs{ | f0] fx¿nfO {    |     | cfwf u5g{  \ .            |     |     |        |
+| | | jus{ | f ljs0fx{ | ¿ cfk;df ;dsf0] | | f xg'  ] u/L ;dlåefhg xG' | | | 5g \ . |
+| -ª_ jus{ | f kT| | os]  ljs0fn{ |  ] zLifs{ | f0] fx¿nfO { | | cfwf u5g{  \ . | | | |
 A B
-| tLg tLg hgfsf ] |                 |     | ;dx"  agfpm / ;an} |     |  ] Ps Pscf6] | f   |     |     |     |
-| --------------- | --------------- | --- | ------------------ | --- | ------------ | --- | --- | --- | --- |
-| ju {            | ABCD df ljs0fx{ |     | ¿ AC / BD lvr .    |     |              |     |     |     |     |
-O
+| tLg tLg hgfsf ] | | | ;dx"  agfpm / ;an} | |  ] Ps Pscf6] | f | | | |
+| ju { | ABCD df ljs0fx{ | | ¿ AC / BD lvr . | | | | | | |
 D C
 ca kT| os] n ] tnsf ] h:t } tflnsf agfO { lbOPsf sf0] fx¿ gfk / tflnsfdf e/ M
-|  zLifs{ | f0]    | fsf ] gfk |     | ;xfos sf0]        |     | fsf ] gfk |     | lgisif{ |     |
-| ------- | ------ | --------- | --- | ----------------- | --- | --------- | --- | ------- | --- |
-|         | ∠ABC = |           |     | ∠ABO ======== /   |     |  ∠CBO =   |     |         |     |
-|         | ∠BCD = |           |     | ∠BCO = ====== /   |     |  ∠OCD =   |     |         |     |
-|         | ∠CDA = |           |     | ∠CDO = ====== /   |     | ∠ODA =    |     |         |     |
-|         | ∠DAB = |           |     | ∠DAO = ====== /   |     |  ∠OAB =   |     |         |     |
+|  zLifs{ | f0] | fsf ] gfk | | ;xfos sf0] | | fsf ] gfk | | lgisif{ | |
+| | ∠ABC = | | | ∠ABO ======== / | |  ∠CBO = | | | |
+| | ∠BCD = | | | ∠BCO = ====== / | |  ∠OCD = | | | |
+| | ∠CDA = | | | ∠CDO = ====== / | | ∠ODA = | | | |
+| | ∠DAB = | | | ∠DAO = ====== / | |  ∠OAB = | | | |
 tflnsfsf cfwf/df lgsfns] f ] cfkmg\ f ] lgisifn{ fO { ;dx" df k:| tt'  u/ / 5nkmn u/L ;fdl"xs
-| lgisif { | lgsfn . |     |     |     |     |     |     |     |     |
-| -------- | ------- | --- | --- | --- | --- | --- | --- | --- | --- |
-ju { ABCD df ljs0f { AC n ] zLifs{ f0] f ∠DAB / ∠BCD nfO { cfwf u/s] f ] 5 . To:t,} ljs0f { BD n]
-| zLifs{ | f0] fx¿ ∠ABC / ∠CDA nfO { |     |            | cfwf kf/s]   |     | f ] 5 .             |           |     |     |
-| ------ | ------------------------- | --- | ---------- | ------------ | --- | ------------------- | --------- | --- | --- |
-|        |                           |     | jus{ f kT| | os]  ljs0fn{ |  ]  | zLifs{ f0] fx¿nfO { | cfwf ub5{ | g \ | .   |
+| lgisif { | lgsfn . | | | | | | | | |
+ju { ABCD df ljs0f { AC n ] zLifs{ f0] f ∠DAB / ∠BCD nfO { cfwf u/s] f ] 5 . To:t,} ljs0f { BD n
+| zLifs{ | f0] fx¿ ∠ABC / ∠CDA nfO { | | | cfwf kf/s] | | f ] 5 . | | | |
+| | | | jus{ f kT| | os]  ljs0fn{ |  ]  | zLifs{ f0] fx¿nfO { | cfwf ub5{ | g \ | . |
 xfdf| ]ul0ft, sIff *
-23
-
 pbfx/0f 1
-| lbOPsf lrqx¿df x, y / z sf ] |     |     |     | dfg kQf nufpm M |     |     |     |     |     |
-| ---------------------------- | --- | --- | --- | --------------- | --- | --- | --- | --- | --- |
-| -s_                          |     |     |     |      -v_        |     |     |     | -u_ |     |
-P
-|     | A   |     |     | B   | K   |     |     | L   | Q   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     | x°  |     |     |     |     |     | 45° |     |
-|     |     |     |     |     |     | 1   |     |     | z°  |
-0
- cm
+| lbOPsf lrqx¿df x, y / z sf ] | | | | dfg kQf nufpm M | | | | | |
+| -s_ | | | | -v_ | | | | -u_ | |
+| | A | | | B | K | | | L | Q |
+| | | x°  | | | | | | 45° | |
+| | | | | | | 1 | | | z°  |
 120°
-|     |     |     |     |     |     | y   | O   | O   |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-D
-|     |     |     | C   |     | N   |     |     | M   |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | y | O | O | |
+| | | | C | | N | | | M | |
 S R
 ;dfwfg
-| -s_ ABCD Pp6f ;dfgfGt/ rte' |     |     |     | h{'  xf ] | .   |     |     |     |     |
-| --------------------------- | --- | --- | --- | --------- | --- | --- | --- | --- | --- |
+| -s_ ABCD Pp6f ;dfgfGt/ rte' | | | | h{'  xf ] | . | | | | |
 oxf,“ ∠BCD = 120° 5 .
 ∠BAD = x = <
 xfdLnfO { yfxf 5, ;dfgfGt/ rte' h{' sf ;Ddv'  sf0] fx¿ a/fa/ xG' 5g \ .
 ∠BAD  = ∠BCD
 cyjf,  x = 120°
-| -v_ KLMN Pp6f cfot xf ] |                  |     | h;df |         |              |     |     |     |     |
-| ----------------------- | ---------------- | --- | ---- | ------- | ------------ | --- | --- | --- | --- |
-| ljs0f {                 | KM = 10cm 5 eg ] |     |      | ljs0f { | LN = ycm 5 . |     |     |     |     |
+| -v_ KLMN Pp6f cfot xf ] | | | h;df | | | | | | |
+| ljs0f { | KM = 10cm 5 eg ] | | | ljs0f { | LN = ycm 5 . | | | | |
 xfdLnfO { yfxf 5, cfotsf ljs0fx{ ¿ a/fa/ xG' 5g \ . t;y { KM = LN xG' 5 .
-|                    |     |     |                       | ∴ y = KM = 10cm xG' |     |               | 5 .    |     |     |
-| ------------------ | --- | --- | --------------------- | ------------------- | --- | ------------- | ------ | --- | --- |
-| -u_ PQRS Pp6f ju { |     |     | xf ] h;df PR / QS bO' |                     | c{  | f6] f ljs0fx{ | ¿ 5g \ | .   |     |
+| | | | | ∴ y = KM = 10cm xG' | | | 5 . | | |
+| -u_ PQRS Pp6f ju { | | | xf ] h;df PR / QS bO' | | c{  | f6] f ljs0fx{ | ¿ 5g \ | . | |
 ∠OQP = 45° 5 / ∠OQR = Z 5 .
-| xfdLnfO { |         | yfxf 5, jus{ | f ljs0fn{ |  ]                  | zLifs{ f0] fnfO { | cfwf u5 { |     | . t;y{ |     |
-| --------- | ------- | ------------ | --------- | ------------------- | ----------------- | --------- | --- | ------ | --- |
-|           | ∠OQR =  | ∠OQP xG'     |           | 5 -lsgls QS ljs0f { |                   | xf_]      |     |        |     |
+| xfdLnfO { | | yfxf 5, jus{ | f ljs0fn{ |  ] | zLifs{ f0] fnfO { | cfwf u5 { | | . t;y{ | |
+| | ∠OQR =  | ∠OQP xG' | | 5 -lsgls QS ljs0f { | | xf_] | | | |
 ∴ ∠OQR = Z = 45° x'G5 .
-
 cEof;  2.3.
-| ;dfgfGt/ rte' |     | h{' , ju { | / cfotsf u0' |     | fx¿sf ] | ;r" L tof/ kf/ . |     |     |     |
-| ------------- | --- | ---------- | ------------ | --- | ------- | ---------------- | --- | --- | --- |
-1.
-| 2. cfot / jus{ |     | f km/s u0' |     | fx¿ s ] | s ] 5g,\ kQf nufpm . |     |     |     |     |
-| -------------- | --- | ---------- | --- | ------- | -------------------- | --- | --- | --- | --- |
+| ;dfgfGt/ rte' | | h{' , ju { | / cfotsf u0' | | fx¿sf ] | ;r" L tof/ kf/ . | | | |
+| 2. cfot / jus{ | | f km/s u0' | | fx¿ s ] | s ] 5g,\ kQf nufpm . | | | | |
 xfdf| ]ul0ft, sIff *
-24
-
-| 3.  | tnsf lrqx¿df x,y / z sf ] |     |     |     | dfg kQf nufpm M |     |            |     |     |
-| --- | ------------------------- | --- | --- | --- | --------------- | --- | ---------- | --- | --- |
-|     | -s_                       |     |     |     | -v_             |     |        -u_ |     |     |
-|     |                           |     |     |     |                 |     |            | P   | Q   |
-|     |                           | A   |     |     | B               | P   |            |     |     |
-Q
-|     |     |     | x°  |     |     |     |     | y°  |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-m
-c
-|     |     |     |     |     |     | 5   | x   |     | x°  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3.  | tnsf lrqx¿df x,y / z sf ] | | | | dfg kQf nufpm M | | | | |
+| | -s_ | | | | -v_ | | -u_ | | |
+| | | | | | | | | P | Q |
+| | | A | | | B | P | | | |
+| | | | x°  | | | | | y°  | |
+| | | | | | | 5 | x | | x°  |
 70°
-D
-|     |     |     |     | C   |     | S   | R          |     |     |
-| --- | --- | --- | --- | --- | --- | --- | ---------- | --- | --- |
-|     |     |     |     |     |     |     |            | S   | R   |
-|     | -3_ |     |     |     | -ª_ |     |        -r_ |     |     |
+| | | | | C | | S | R | | |
+| | | | | | | | | S | R |
+| | -3_ | | | | -ª_ | | -r_ | | |
 8cm
-|     |     | A   |     |     |     | K   | L   | E   | y° F |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
-|     |     |     |     |     | B   | 4cm | m   | x°  |      |
+| | | A | | | | K | L | E | y° F |
+| | | | | | B | 4cm | m | x°  | |
 3c
-|     | 6cm |     |     |     |     |     | x   |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     | y   | y o |     |     |     |
+| | 6cm | | | | | | x | | |
+| | | | | | y | y o | | | |
 z°
-|     |     | D   |     |     |     | N   | M   | H   | G   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-C
-x
-4. nDafO (l)= 18cm / rf}8fO (b) = 9cm ePsf] Pp6f cfot agfO{ To;sf u'0fx¿sf]
+| | | D | | | | N | M | H | G |
+4. nDafO (l)= 18cm / rf}8fO (b) = 9cm ePsf] Pp6f cfot agfO{ To;sf u'0fx¿sf
 k/LIf0f u/ .
-|     | cfotsf ] | /rgf (Construction of Rectangle) |     |     |     |     |     |     |     |
-| --- | -------- | -------------------------------- | --- | --- | --- | --- | --- | --- | --- |
-2.4.
-| -s_ | bO'  { | ljs0fx{ | ¿ / ltgLx¿larsf ] |     | sf0] | f lbOPdf, |     |     |     |
-| --- | ------ | ------- | ----------------- | --- | ---- | --------- | --- | --- | --- |
+| | cfotsf ] | /rgf (Construction of Rectangle) | | | | | | | |
+| -s_ | bO'  { | ljs0fx{ | ¿ / ltgLx¿larsf ] | | sf0] | f lbOPdf, | | | |
 ljs0fx{ ¿ AC = BD = 7cm / ∠COD = 45° ePsf ] cfotsf ] /rgf u/ .
 r/0fx¿
-|     | AC = 7cm sf ] |     | Pp6f l;wf /v] |     | f lvr . |     |     |     | X   |
-| --- | ------------- | --- | ------------- | --- | ------- | --- | --- | --- | --- |
-1.
-| 2.  | AC sf ] | dWo laGb ' |     | O kQf nufpm . |     |     |     |     |     |
-| --- | ------- | ---------- | --- | ------------- | --- | --- | --- | --- | --- |
-D
-|     | sDkf;sf ] |     | ko| fu] n ] | laGb ' O df 45° sf] |     |     |     |     |     |
-| --- | --------- | --- | ----------- | ------------------- | --- | --- | --- | --- | --- |
-3.
+| | AC = 7cm sf ] | | Pp6f l;wf /v] | | f lvr . | | | | X |
+| 2.  | AC sf ] | dWo laGb ' | | O kQf nufpm . | | | | | |
+| | sDkf;sf ] | | ko| fu] n ] | laGb ' O df 45° sf] | | | | | |
 sf0] f lvr / XY ;Dd nDAofpm .
-|     | OA a/fa/sf ] |     | rfkn ] | X lt/ / Y lt/ sf6 |     |     |     |     |     |
-| --- | ------------ | --- | ------ | ----------------- | --- | --- | --- | --- | --- |
-4.
-A
-|     | / jm|dzM D / B gfd bp] |     |     |     | m . |     |     |     | C   |
-| --- | ---------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-O
-| 5.  | ?n/sf ]       | ko| | fu]  u/L laGbx' | ¿ A, B, C / |     |     |     |     |     |
-| --- | ------------- | --- | --------------- | ----------- | --- | --- | --- | --- | --- |
-|     | D jm|dzM hf8] |     |  .              |             |     |     |     |     |     |
-B
-| 6.  | cfjZos cfot ABCD tof/ eof ] |     |     |     |     | .   |     |     |     |
-| --- | --------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-Y
+| | OA a/fa/sf ] | | rfkn ] | X lt/ / Y lt/ sf6 | | | | | |
+| | / jm|dzM D / B gfd bp] | | | | m . | | | | C |
+| 5.  | ?n/sf ] | ko| | fu]  u/L laGbx' | ¿ A, B, C / | | | | | |
+| | D jm|dzM hf8] | |  . | | | | | | |
+| 6.  | cfjZos cfot ABCD tof/ eof ] | | | | | . | | | |
 xfdf| ]ul0ft, sIff *
-25
-
 -v_ Pp6f eh' f, Pp6f ljs0f { / To;n ] ToxL eh' f;u“  agfPsf ] sf0] f lbOPdf
 cfwf/ /v] f BC = 8 cm, ∠DBC = 30° / ljs0f { BD = 9 cm ePsf ] cfotsf ] /rgf u/ .
 r/0fx¿
-| 1. BC = 8 cm sf ] | Pp6f cfwf/ /v] |     | f lvr . | Y   |     |     |     |
-| ----------------- | -------------- | --- | ------- | --- | --- | --- | --- |
-X
-| 2. sDkf;sf ] | ko| fu]  u/L B df 30° sf ] |     | sf0] | f   |     |     |     |
-| ------------ | -------------------------- | --- | ---- | --- | --- | --- | --- |
-D
+| 1. BC = 8 cm sf ] | Pp6f cfwf/ /v] | | f lvr . | Y | | | |
+| 2. sDkf;sf ] | ko| fu]  u/L B df 30° sf ] | | sf0] | f | | | |
 lvr / X ;Dd nDAofpm .
-A
-| 3. sDkf;df 9 cm nfdf ] |         | rfk lnP/ BX df |     |     |     |     |     |
-| ---------------------- | ------- | -------------- | --- | --- | --- | --- | --- |
-| sf6 / D gfd bp]        |         | m .            |     |     |     |     |     |
-| C / D nfO {            | ;/n /v] | fn ] hf8]      |  .  |     |     |     |     |
-4.
-| B df sDkf;sf ] | ;xfotfn ] | 90° sf ] | sf0] f | B   | 30° |     | C   |
-| -------------- | --------- | -------- | ------ | --- | --- | --- | --- |
-5.
-| lvr / BY /v]       | f tfg . |        |                 |     |     |     |     |
-| ------------------ | ------- | ------ | --------------- | --- | --- | --- | --- |
-| BY df CD a/fa/sf ] |         | rfkn ] | sf6 / A gfd bp] | m . |     |     |     |
-6.
-| laGb ' A / D hf8] |     |  .  |     |     |     |     |     |
-| ----------------- | --- | --- | --- | --- | --- | --- | --- |
-7.
-| cfjZos cfot ABCD tof/ eof ] |     |     | .   |     |     |     |     |
-| --------------------------- | --- | --- | --- | --- | --- | --- | --- |
-8.
+| 3. sDkf;df 9 cm nfdf ] | | rfk lnP/ BX df | | | | | |
+| sf6 / D gfd bp] | | m . | | | | | |
+| C / D nfO { | ;/n /v] | fn ] hf8] |  .  | | | | |
+| B df sDkf;sf ] | ;xfotfn ] | 90° sf ] | sf0] f | B | 30° | | C |
+| lvr / BY /v] | f tfg . | | | | | | |
+| BY df CD a/fa/sf ] | | rfkn ] | sf6 / A gfd bp] | m . | | | |
+| laGb ' A / D hf8] | |  .  | | | | | |
+| cfjZos cfot ABCD tof/ eof ] | | | . | | | | |
 cEof; 2.4
-| tnsf kT| | os]  cj:yfdf cfotsf ] |     | /rgf u/ M |     |     |     |     |
-| -------- | --------------------- | --- | --------- | --- | --- | --- | --- |
-1.
+| tnsf kT| | os]  cj:yfdf cfotsf ] | | /rgf u/ M | | | | |
 -s_ ljs0f { (AC) = BD = 8cm, ∠BOC = 30° -v_ ljs0f { (PR) = 7cm, ∠QOR = 45°
-(BD) = 10cm, ∠AOD = 60°
+BD) = 10cm, ∠AOD = 60°
 -u_ ljs0f {
-bO'  { ljs0fs{ f ] larsf ] sf0] f 75° ePsf ] / ljs0fs{ f ] nDafO 7.4cm ePsf ] Pp6f cfotsf]
-2.
+bO'  { ljs0fs{ f ] larsf ] sf0] f 75° ePsf ] / ljs0fs{ f ] nDafO 7.4cm ePsf ] Pp6f cfotsf
 /rgf u/ .
-| tnsf kT| | os]  cj:yfdf cfotsf ] |     | /rgf u/ M |     |     |     |     |
-| -------- | --------------------- | --- | --------- | --- | --- | --- | --- |
-3.
+| tnsf kT| | os]  cj:yfdf cfotsf ] | | /rgf u/ M | | | | |
 -s_ ljs0f { PR = 6 cm PQ = 3 cm, ∠QPR = 60° ePsf ] cfot PQRS.
-| -v_ BC = 7.1 cm, |     |     |     | ∠DBC = 45° ePsf ] |     | cfot ABCD. |     |
-| ---------------- | --- | --- | --- | ----------------- | --- | ---------- | --- |
+| -v_ BC = 7.1 cm, | | | | ∠DBC = 45° ePsf ] | | cfot ABCD. | |
 BD = 10 cm,
-| -u_ Pp6f eh'   | f 4.8 cm / ljs0f {    |                               | 6.2 cm    |     |            |     |     |
-| -------------- | --------------------- | ----------------------------- | --------- | --- | ---------- | --- | --- |
-| -3_ AC = 5 cm, |                       | AB = 4 cm / ∠BAC = 60° ePsf ] |           |     | cfot ABCD. |     |     |
-| tnsf kT|       | os]  cj:yfdf cfotsf ] |                               | /rgf u/ M |     |            |     |     |
-4.
-| -s_ ljs0f { | AC = 8cm / AC / BD larsf ] |     |     | sf0] f 45° ePsf] |     |     |     |
-| ----------- | -------------------------- | --- | --- | ---------------- | --- | --- | --- |
--v_ Pp6f ljs0fs{ f ] nDafO 7cm / bO' l{js0f { larsf ] sf0] fsf ] gfk 30° ePsf]
--u_ Pp6f eh' f 5cm, ljs0f { 10cm  / tL bO' l{arsf ] sf0] f 60° ePsf]
-| -3_ PR = 9.9cm, PQ = 7cm / QPR = 45° ePsf ] |     |     |     |     | .   |     |     |
-| ------------------------------------------- | --- | --- | --- | --- | --- | --- | --- |
+| -u_ Pp6f eh' | f 4.8 cm / ljs0f { | | 6.2 cm | | | | |
+| -3_ AC = 5 cm, | | AB = 4 cm / ∠BAC = 60° ePsf ] | | | cfot ABCD. | | |
+| tnsf kT| | os]  cj:yfdf cfotsf ] | | /rgf u/ M | | | | |
+| -s_ ljs0f { | AC = 8cm / AC / BD larsf ] | | | sf0] f 45° ePsf] | | | |
+-v_ Pp6f ljs0fs{ f ] nDafO 7cm / bO' l{js0f { larsf ] sf0] fsf ] gfk 30° ePsf
+-u_ Pp6f eh' f 5cm, ljs0f { 10cm  / tL bO' l{arsf ] sf0] f 60° ePsf
+| -3_ PR = 9.9cm, PQ = 7cm / QPR = 45° ePsf ] | | | | | . | | |
 xfdf| ]ul0ft, sIff *
-26
-
 kf7
-|     |     | lqeh' | sf ] | cg¿' | ktf / ;d¿ktf |     |     |     |
-| --- | --- | ----- | ---- | ---- | ------------ | --- | --- | --- |
-3
-(Congruence and Similarity of Triangles)
-| kg' /jnfs] | g ( Review) |     |     |     |     |     |     |     |
-| ---------- | ----------- | --- | --- | --- | --- | --- | --- | --- |
-3.0
+| | | lqeh' | sf ] | cg¿' | ktf / ;d¿ktf | | | |
+Congruence and Similarity of Triangles
+| kg' /jnfs] | g ( Review) | | | | | | | |
 tnsf tLg hf]8f cfs[ltx¿df s] s] ;dfgtf / s] s] km/s b]lvG5, ;fyLx¿;“u 5nkmn u/ M
-
 klxnf ] hf8] f lqeh' x¿df bj'  } p:t } cfsf/ / Pp6 } gfksf 5g \ . t;y { oL bO'  { lqeh' x¿ cg¿' k 5g \ .
 bf;] f| ] hf8] f ;dfgfGt/ rte' h{' x¿df bj'  } p:t } cfsf/ t/ km/s gfksf 5g \ . t;y { oL bO'  { rte' h{' x¿
 ;d¿k 5g \ .  To:t,} t;] f| ] hf8] f lrqx¿ bj'  } km/s km/s cfsf/ / km/s gfksf 5g \ . t;y { tL bO' {
-| cfsl[tx¿ cg¿'                         | k klg 5g} | g \ | / ;d¿k klg 5g} |                       | g \ .      |     |       |     |
-| ------------------------------------- | --------- | --- | -------------- | --------------------- | ---------- | --- | ----- | --- |
-|                                       |           |     |                |                       |            |     | A P   |     |
-| sg'  } bO'  { HofldtLo cfsl[tx¿ p:t } |           |     |                | cfsf/ / Pp6 }         | gfksf 5g \ | eg] |       |     |
-| To:tf HofldtLo cfsl[tx¿nfO {          |           |     | cg¿'           | k (congruent) elgG5 . |            |     |       |     |
-|                                       |           |     |                |                       |            |     | B C Q | R   |
-≅
-lrqdf ΔABC / ΔPQR cg¿' k 5g \ .  ;ªs\ t] df ΔABC   ΔPQR nl]vG5 .
-| sg'  } bO'  { HofldtLo cfsl[tx¿ p:t } |     |     |     | cfsf/sf 5g \ | eg] |     | A   |     |
-| ------------------------------------- | --- | --- | --- | ------------ | --- | --- | --- | --- |
-P
-| To:tf HofldtLo cfsl[tx¿nfO { |     |     | ;d¿k (similar) elgG5 . |     |     |     |     |     |
-| ---------------------------- | --- | --- | ---------------------- | --- | --- | --- | --- | --- |
-R
-|     |     |     |     |     |     |     | B C Q |     |
-| --- | --- | --- | --- | --- | --- | --- | ----- | --- |
-∼
- lrqdf ΔABC / ΔPQR ;d¿k 5g \ . ;ªs\ t] df ΔABC   ΔPQR nl]vG5 .
-| 3.1. lqeh' |  cg¿' | k xg'  ] cj:yfx¿sf ] |     | k/LIf0f |     |     |     |     |
-| ---------- | ----- | -------------------- | --- | ------- | --- | --- | --- | --- |
+| cfsl[tx¿ cg¿' | k klg 5g} | g \ | / ;d¿k klg 5g} | | g \ . | | | |
+| | | | | | | | A P | |
+| sg'  } bO'  { HofldtLo cfsl[tx¿ p:t } | | | | cfsf/ / Pp6 } | gfksf 5g \ | eg] | | |
+| To:tf HofldtLo cfsl[tx¿nfO { | | | cg¿' | k (congruent) elgG5 . | | | | |
+| | | | | | | | B C Q | R |
+lrqdf ΔABC / ΔPQR cg¿' k 5g \ .  ;ªs\ t] df ΔABC ΔPQR nl]vG5 .
+| sg'  } bO'  { HofldtLo cfsl[tx¿ p:t } | | | | cfsf/sf 5g \ | eg] | | A | |
+| To:tf HofldtLo cfsl[tx¿nfO { | | | ;d¿k (similar) elgG5 . | | | | | |
+| | | | | | | | B C Q | |
+lrqdf ΔABC / ΔPQR ;d¿k 5g \ . ;ªs\ t] df ΔABC ΔPQR nl]vG5 .
+| 3.1. lqeh' |  cg¿' | k xg'  ] cj:yfx¿sf ] | | k/LIf0f | | | | |
 ljm|ofsnfk 1. s'g} ΔABC lbOPsf ] 5 . pSt lqeh' ;u“  cg¿' k xg'  ] u/L slt tl/sfn ] /rgf ug{
-|     | ;lsG5, x/] |     | f “} M |     |     |     |     |     |
-| --- | ---------- | --- | ------ | --- | --- | --- | --- | --- |
+| | ;lsG5, x/] | | f “} M | | | | | |
 tl/sf 1
-A
 A'
-| oxf “ ΔABC lbOPsf ]                     |      | 5 . ;jk{           | y| d BC a/fa/sf ] |     | gfk ePsf ]      | cfwf/ |      |     |
-| --------------------------------------- | ---- | ------------------ | ----------------- | --- | --------------- | ----- | ---- | --- |
-| /v] f B'C' lvr . laGb '                 |      | B af6 AB a/fa/sf ] |                   |     | sDkf;sf ] rfkn] |       |      |     |
-| dfly rfk lvr . km]l/ C af6 CA a/fa/sf ] |      |                    |                   |     | rfkn ] sf6 /    |       |      |     |
-|                                         |      |                    |                   |     |                 | B     | C B' | C'  |
-| sfl6Psf ] laGbn'                        | fO { | A' n ] hgfpm .     |                   |     |                 |       |      |     |
+| oxf “ ΔABC lbOPsf ] | | 5 . ;jk{ | y| d BC a/fa/sf ] | | gfk ePsf ] | cfwf/ | | |
+| /v] f B'C' lvr . laGb ' | | B af6 AB a/fa/sf ] | | | sDkf;sf ] rfkn] | | | |
+| dfly rfk lvr . km]l/ C af6 CA a/fa/sf ] | | | | | rfkn ] sf6 / | | | |
+| | | | | | | B | C B' | C'  |
+| sfl6Psf ] laGbn' | fO { | A' n ] hgfpm . | | | | | | |
 A', B' / A',C' hf8]  . lrqcg;' f/ ΔABC sf tLgcf6] f eh' f / ΔA'B'C' sf tLgcf6] f eh' f;u“  jm|dzM
-| a/fa/ 5g \ | . ΔABC / ΔA'B'C' cg¿' |     |     | k 5g \ | . -gfk/]  x/] _ |     |     |     |
-| ---------- | --------------------- | --- | --- | ------ | --------------- | --- | --- | --- |
+| a/fa/ 5g \ | . ΔABC / ΔA'B'C' cg¿' | | | k 5g \ | . -gfk/]  x/] _ | | | |
 xfdf| ]ul0ft, sIff *
-27
-
 o;/L Pp6f lqeh' df tLgcf6] f eh' fx¿ csf {] lqeh' sf tLgcf6] f A X
-| eh' fx¿;u“    |  cnu cnu cfk;df a/fa/ 5g \ |                         | eg ] | pSt bO' | {   |     |     |     |
-| ------------- | -------------------------- | ----------------------- | ---- | ------- | --- | --- | --- | --- |
-| lqeh' x¿ cg¿' | k xG' 5g \                 | .                       |      |         |     |     |     |     |
-|               |                            |                         |      |         |     |     | C   | Z   |
-| o;nfO {       | eh' f eh' f eh'            | f (side, side, side) jf |      |         | B   |     | Y   |     |
-≅
-5f6] s/Ldf e='  e='  e='  (SSS) tYo elgG5 . lrqdf ΔABC   ΔXYZ 5 .
-| tl/sf 2 |     |     |     |     |     |     | X   |     |
-| ------- | --- | --- | --- | --- | --- | --- | --- | --- |
-P
+| eh' fx¿;u“ |  cnu cnu cfk;df a/fa/ 5g \ | | eg ] | pSt bO' | { | | | |
+| lqeh' x¿ cg¿' | k xG' 5g \ | . | | | | | | |
+| | | | | | | | C | Z |
+| o;nfO { | eh' f eh' f eh' | f (side, side, side) jf | | | B | | Y | |
+5f6] s/Ldf e='  e='  e='  (SSS) tYo elgG5 . lrqdf ΔABC ΔXYZ 5 .
+| tl/sf 2 | | | | | | | X | |
 P'
-| QR sf ]          | nDafO a/fa/sf ]                      | cfwf/ /v] f Q'R' lvr . |     |           |     |     |     |     |
-| ---------------- | ------------------------------------ | ---------------------- | --- | --------- | --- | --- | --- | --- |
-| sDkf;sf ]        | ko| fu]  u/L ∠Q gfk / ToxL a/fa/sf ] |                        |     | sf0] f Q' |     |     |     |     |
-| df lvr / /v]     | f Q'X tfg .                          |                        |     |           |     |     |     |     |
-| ca QP a/fa/sf ]  | rfkn ]                               | Q' af6 Q'X df          |     |           |     | R   | Q'  |     |
-|                  |                                      |                        |     |           | Q   |     |     | R'  |
-| sf6 / P' gfd bp] | m .                                  |                        |     |           |     |     |     |     |
-≅
-laGb ' P' / R' hf8]  . o;/L ags] f ] ΔP'Q'R' / ΔPQR cg¿' k xG' 5g \ . t;y { ΔPQR   ΔP'Q'R' xG' 5 .
-| olb Pp6f lqeh' | df bO' | c{ f6] f eh' fx¿ / ltgLx¿larsf] |     |     |     |     |     |     |
-| -------------- | ------ | ------------------------------- | --- | --- | --- | --- | --- | --- |
-P
+| QR sf ] | nDafO a/fa/sf ] | cfwf/ /v] f Q'R' lvr . | | | | | | |
+| sDkf;sf ] | ko| fu]  u/L ∠Q gfk / ToxL a/fa/sf ] | | | sf0] f Q' | | | | |
+| df lvr / /v] | f Q'X tfg . | | | | | | | |
+| ca QP a/fa/sf ]  | rfkn ] | Q' af6 Q'X df | | | | R | Q'  | |
+| | | | | | Q | | | R'  |
+| sf6 / P' gfd bp] | m . | | | | | | | |
+laGb ' P' / R' hf8]  . o;/L ags] f ] ΔP'Q'R' / ΔPQR cg¿' k xG' 5g \ . t;y { ΔPQR ΔP'Q'R' xG' 5 .
+| olb Pp6f lqeh' | df bO' | c{ f6] f eh' fx¿ / ltgLx¿larsf] | | | | | | |
 P'
-| sf0] f;u“                        |  csf {] lqeh' sf bO' | c{ f6] f eh' fx¿ / ltgLx¿larsf] |         |     |     |     |     |     |
-| -------------------------------- | -------------------- | ------------------------------- | ------- | --- | --- | --- | --- | --- |
-| sf0] f cnu cnu cfk;df a/fa/ 5g \ |                      |                                 | eg ] tL |     |     |     |     |     |
-| bO'  { lqeh'                     | x¿ cg¿' k xG'        | 5g \ .                          |         |     |     |     |     |     |
-|                                  |                      |                                 |         |     | Q   | R   |     |     |
-|                                  |                      |                                 |         |     |     |     | Q'  | R'  |
-| o;nfO {                          | eh' f sf0] f eh'     | f (side, angle, side)           |         |     |     |     |     |     |
+| sf0] f;u“ |  csf {] lqeh' sf bO' | c{ f6] f eh' fx¿ / ltgLx¿larsf] | | | | | | |
+| sf0] f cnu cnu cfk;df a/fa/ 5g \ | | | eg ] tL | | | | | |
+| bO'  { lqeh' | x¿ cg¿' k xG' | 5g \ . | | | | | | |
+| | | | | | Q | R | | |
+| | | | | | | | Q'  | R'  |
+| o;nfO { | eh' f sf0] f eh' | f (side, angle, side) | | | | | | |
 5f6] s/Ldf e=' sf=] e='  (SAS) tYo elgG5 . oxf “ ΔPQR  ≅  ΔP'Q'R' 5 .
 tl/sf 3
-A
 A'
-| BC a/fa/sf ]           | nDafO ePsf ]                     | cfwf/ B'C' lvr .       |      |     |     |      |     |     |
-| ---------------------- | -------------------------------- | ---------------------- | ---- | --- | --- | ---- | --- | --- |
-| kf|6] S] 6/sf ]        | ko| fu]  u/L ∠B gfk / B' df ToxL |                        |      |     |     |      |     |     |
-| gfksf ] sf0]           | f lvr . km]l/ C sf ]             | dfg                    |      |     |     |      |     |     |
-|                        |                                  |                        |      | B   |     | C B' |     | C'  |
-| kf|6] S] 6/sf ]        | ko| fu]  u/L gfk / ;fx]          | L a/fa/sf ]            | sf0] | f   |     |      |     |     |
-| C' df lvr . bO'        |  { /v] f sfl6g ]                 | laGbn' fO { A' gfd bp] |      | m . |     |      |     |     |
-| ca ΔABC / ΔA'B'C' cg¿' |                                  | k xG' 5g \ . -gfk/]    |  x/] | _   |     |      |     |     |
+| BC a/fa/sf ] | nDafO ePsf ] | cfwf/ B'C' lvr . | | | | | | |
+| kf|6] S] 6/sf ] | ko| fu]  u/L ∠B gfk / B' df ToxL | | | | | | | |
+| gfksf ] sf0] | f lvr . km]l/ C sf ] | dfg | | | | | | |
+| | | | | B | | C B' | | C'  |
+| kf|6] S] 6/sf ] | ko| fu]  u/L gfk / ;fx] | L a/fa/sf ] | sf0] | f | | | | |
+| C' df lvr . bO' |  { /v] f sfl6g ] | laGbn' fO { A' gfd bp] | | m . | | | | |
+| ca ΔABC / ΔA'B'C' cg¿' | | k xG' 5g \ . -gfk/] |  x/] | _ | | | | |
 Pp6f lqeh' sf ] bO' c{ f6] f sf0] f / tL sf0] fx¿larsf ] eh' f, csf {] lqeh' sf ] bO' c{ f6] f sf0] f / tL
 sf0] fx¿larsf ] eh' f;u“  cfk;df cnu cnu a/fa/ eP tL lqeh' x¿ cg¿' k xG' 5g \ .
 o;nfO { sf0] f, eh' f, sf0] f (Angle, side, angle) 5f6] s/Ldf sf=] e=' sf=]  (ASA) tYo elgG5 .
 A'
-A
-| ΔABC   ~ | =   ΔA'B'C' xG' | 5 . |     |     |     |      |     |     |
-| -------- | --------------- | --- | --- | --- | --- | ---- | --- | --- |
-|          |                 |     |     |     |     | C B' |     | C'  |
-B
+| ΔABC ~ | = ΔA'B'C' xG' | 5 . | | | | | | |
+| | | | | | | C B' | | C'  |
 xfdf| ]ul0ft, sIff *
-28
-
 tl/sf 4
 olb, ΔABC ;dsf0] fL lqeh'  ePdf pSt lqeh' ;u“  cg¿' k xg'  ] lqeh'  s;/L /rgf ug { ;lsG5, x/] f “} M
 1. oxf “ ΔABC Pp6f ;dsf0] fL lqeh'  5 . o;df ∠B ;dsf0] f (90°) 5 .
-X
-| BC a/fa/ xg' |     |  ] u/L B'C' cfwf/ |     |     |     |     |     |     |     |     |     |
-| ------------ | --- | ----------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.           |     |                   |     |     |     | A   |     |     |     |     |     |
+| BC a/fa/ xg' | |  ] u/L B'C' cfwf/ | | | | | | | | | |
+| 2. | | | | | | A | | | | | |
 A'
 /v] f lvr .
-| 3. sDkf;÷kf|6] | S] 6/sf ] | ko|          | fu]  u/L B' |     |     |     |     |     |     |     |     |
-| -------------- | --------- | ------------ | ----------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| df 90° sf ]    | sf0]      | f lvr .      |             |     |     |     |     |     |     |     |     |
-| 4. ΔABC sf ]   | s0f {     | AC a/fa/sf ] |             | rfk |     |     |     |     |     |     |     |
+| 3. sDkf;÷kf|6] | S] 6/sf ] | ko| | fu]  u/L B' | | | | | | | | |
+| df 90° sf ] | sf0] | f lvr . | | | | | | | | | |
+| 4. ΔABC sf ] | s0f { | AC a/fa/sf ] | | rfk | | | | | | | |
 C' af6 lnP/ lrqdf B'X df sf6 /
-|     |     |     |     |     | B   |     |     | C   |     |     | C'  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | B | | | C | | | C'  |
 B'
-| sfl6Psf ]    | laGbn'                    | fO { A' gfd bp] |     | m . |     |              |      |     |     |     |     |
-| ------------ | ------------------------- | --------------- | --- | --- | --- | ------------ | ---- | --- | --- | --- | --- |
-| A' / C' hf8] |  . ca ΔABC / ΔA'B'C' cg¿' |                 |     |     |     | k 5g,\ gfk/] |  x/] |  .  |     |     |     |
-5.
+| sfl6Psf ] | laGbn' | fO { A' gfd bp] | | m . | | | | | | | |
+| A' / C' hf8] |  . ca ΔABC / ΔA'B'C' cg¿' | | | | | k 5g,\ gfk/] |  x/] |  .  | | | |
 Pp6f lqeh' sf ;dsf0] f, s0f { / Pp6f eh' fsf cfwf/df klg ΔABC ;u“  cg¿' k lqeh'  /rgf ug { ;lsof ] .
 Pp6f lqeh' sf ] ;dsf0] f, s0f { / Pp6f eh' f csf {] lqeh' sf] P X
-| ;dsf0] f, s0f {                             | / Pp6f eh'  |      | f cfk;df cnu cnu a/fa/ 5g\ |        |          |     |     |     |     |     |     |
-| ------------------------------------------- | ----------- | ---- | -------------------------- | ------ | -------- | --- | --- | --- | --- | --- | --- |
-| eg ] lqeh'                                  |  cg¿' k xG' | 5g \ | . o;nfO {                  | ;dsf0] | f, s0f { | /   |     |     |     |     |     |
-| eh' f (right angle, hypotenues / side) 5f6] |             |      |                            |        | s/Ldf    |     |     |     |     | Y   | X   |
-|                                             |             |      |                            |        |          |     |     | Q   |     | R   |     |
- (R.H.S) tYo elgG5 . lrqdf ΔPQR ~
-| ;=s=e=' |     |     |     |     |     | =   ΔXYZ |     |     |     |     |     |
-| ------- | --- | --- | --- | --- | --- | -------- | --- | --- | --- | --- | --- |
+| ;dsf0] f, s0f { | / Pp6f eh'  | | f cfk;df cnu cnu a/fa/ 5g\ | | | | | | | | |
+| eg ] lqeh' |  cg¿' k xG' | 5g \ | . o;nfO { | ;dsf0] | f, s0f { | / | | | | | |
+| eh' f (right angle, hypotenues / side) 5f6] | | | | | s/Ldf | | | | | Y | X |
+| | | | | | | | | Q | | R | |
+R.H.S) tYo elgG5 . lrqdf ΔPQR ~
+| ;=s=e=' | | | | | | = ΔXYZ | | | | | |
 pbfx/0f 1
 lbOPsf hf8] f lqeh' x¿ cg¿' k 5g \ . x sf ] dfg lgsfnL afs“ L sf0] f / eh' fx¿sf ] gfk kQf nufpm M
 ;dfwfg
-C
-| oxf “ ABC / XYZ cg¿' |     | k 5g \ | .   |     |     |     | A   |     |     |     |     |
-| -------------------- | --- | ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-m
-|                                              |     |     |     |     |     |     | 35° |      | c   |     |     |
-| -------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | ---- | --- | --- | --- |
-|                                              |     |     |     |     |     |     | (1  | 123° | 3   |     |     |
-| ∠A = ∠X = 35°, B = ∠Y = 123° / ∠C = ∠Z = 22° |     |     |     |     |     |     | .7  |      | 4.  |     |     |
+| oxf “ ABC / XYZ cg¿' | | k 5g \ | . | | | | A | | | | |
+| | | | | | | | 35° | | c | | |
+| | | | | | | | (1  | 123° | 3 | | |
+| ∠A = ∠X = 35°, B = ∠Y = 123° / ∠C = ∠Z = 22° | | | | | | | .7  | | 4.  | | |
 x-1
-.3 |     |     |     |     |     |     |     |     | )cm B |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | ----- | --- | --- | --- |
-X
+.3 | | | | | | | | | )cm B | | | |
 km]l/ AB = XY
-m
-m
-| cyjf, (1.7x - 1.3)cm = (3x-3.9)cm |     |     |     |     |     |     |     |     | 4.9c |     | c   |
-| --------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | ---- | --- | --- |
-9)
-3.
-|                             |     |     |     |     |     |     |     |     |     | 123° | x-  |
-| --------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| cyjf, 1.7x - 1.3 = 3x - 3.9 |     |     |     |     |     |     |     |     |     |      | 3   |
-|                             |     |     |     |     |     |     |     |     | 22° |      | (   |
-|                             |     |     |     |     |     |     |     | Z   |     | Y    |     |
+| cyjf, (1.7x - 1.3)cm = (3x-3.9)cm | | | | | | | | | 4.9c | | c |
+| | | | | | | | | | | 123° | x-  |
+| cyjf, 1.7x - 1.3 = 3x - 3.9 | | | | | | | | | | | 3 |
+| | | | | | | | | | 22° | | ( |
+| | | | | | | | | Z | | Y | |
 cyjf, 3x - 1.7x = 3.9 - 1.3
 cyjf, 1.3x = 2.6
-2.6
-| cyjf, x =   | 2  |     |     |     |     |     |     |     |     |     |     |
-| ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-1.3
+| cyjf, x = | 2  | | | | | | | | | | |
 xfdf| ]ul0ft, sIff *
-29
-
 To; sf/0f, AB = 1.7x - 1.3 = 1.7 x 2 - 1.3 = 2.1cm
 XY = 3x - 3.9 = 3 x 2 - 3.9 = 2.1cm
 AC = XZ = 4.9cm
 BC = YZ = 4.3cm
 cEof; 3.1
 tnsf hf8] L lqeh' x¿sf eh' fx¿ tyf sf0] fx¿ gfk / cg¿' k 5g \ jf 5g} g,\  nv]  M
-1.
-| -s_               |                            | -v_ |                |     |     |
-| ----------------- | -------------------------- | --- | -------------- | --- | --- |
-| tnsf hf8] L lqeh' | x¿ sg'  tYosf cfwf/df cg¿' |     | k 5g,\  nv]  M |     |     |
-2.
-| -s_ |     |     | -v_ |     |     |
-| --- | --- | --- | --- | --- | --- |
-| -u_ |     |     | -3_ |     |     |
+| -s_ | | -v_ | | | |
+| tnsf hf8] L lqeh' | x¿ sg'  tYosf cfwf/df cg¿' | | k 5g,\  nv]  M | | |
+| -s_ | | | -v_ | | |
+| -u_ | | | -3_ | | |
 tnsf cg¿' k lqeh' x¿df ;ªu\ t eh' f / ;ªu\ t sf0] fx¿ 56' o\ fP/ nv]  M
-3.
-P
-|     |     | N  -v_ | X   |     | A   |
-| --- | --- | ------ | --- | --- | --- |
-| -s_ | L   |        |     |     |     |
+| | | N  -v_ | X | | A |
+| -s_ | L | | | | |
 50°
-| 60° |     | 60° |     |     |     |
-| --- | --- | --- | --- | --- | --- |
+| 60° | | 60° | | | |
 60° Z C 60°
 50° R
-|       |     |     | 65° |     | 65° |
-| ----- | --- | --- | --- | --- | --- |
-| Q 5cm |     | M   | Y   |     | B   |
-4. lbOPsf cg¿' k lqeh' x¿df x / y sf ] dfg kQf nufO { yfxf gePsf eh' f / sf0] fx¿sf]
+| | | | 65° | | 65° |
+| Q 5cm | | M | Y | | B |
+4. lbOPsf cg¿' k lqeh' x¿df x / y sf ] dfg kQf nufO { yfxf gePsf eh' f / sf0] fx¿sf
 dfg lgsfn M
-| -s_ |     | 48° | -v_ | y+10° |     |
-| --- | --- | --- | --- | ----- | --- |
+| -s_ | | 48° | -v_ | y+10° | |
 70°
-(5y-3)°
+5y-3)°
 x°
 62°
-| 70° (4x-4)° |     |     |     |     |     |
-| ----------- | --- | --- | --- | --- | --- |
+| 70° (4x-4)° | | | | | |
 122°
 38°
 xfdf| ]ul0ft, sIff *
-30
-
-A
-|     | -u_ |     |     |     |         |   -3_ |     |     |      |     |     |
-| --- | --- | --- | --- | --- | ------- | ----- | --- | --- | ---- | --- | --- |
-|     |     |     |     |     |         | Q     |     | L   |      |     |     |
-|     |     | m   | 3   |     |         |       |     | m   | Y    |     |     |
-|     |     | 56° | .1  |     |         |       | c   |     |      | 3cm |     |
-|     | c   |     |     |     | 60°     |       | 1)  |     |      |     |     |
-|     | 6)  |     | c m |     |         |       |     | 45° |      |     |     |
-|     | 0.  |     |     |     |         |       | +   |     |      | 70° |     |
-|     |     |     |     |     |         |       | x   |     |      |     | X   |
-|     | x - |     |     | P   | 56°     |       | 2   |     |      |     |     |
-|     | 3   |     |     |     |         |       | (   |     | m    |     |     |
-|     | (   | 64° |     | B   |         |       |     |     | c    |     |     |
-|     |     |     |     |     |         | 64°   |     | 70° | 5    |     |     |
-|     |     |     |     |     |         |       |     |     | N 2. |     |     |
-|     |     |     |     |     | (x+3)cm |       | M   |     |      |     |     |
-|     | C   |     |     |     |         | R     |     | 2y  | Z    |     |     |
-D
-|     |                          |              |     |                    |           |           |     | A   |     |     | B   |
-| --- | ------------------------ | ------------ | --- | ------------------ | --------- | --------- | --- | --- | --- | --- | --- |
-| 5.  | lbOPsf ]                 | lrqdf laGb ' |     | D /v]              | f AB sf ] | dWolaGb ' | xf] |     |     |     |     |
-|     | / CD ⊥⊥⊥⊥⊥ AB 5 eg ]     |              |     | sg'  tYosf cfwf/df |           |           |     |     |     |     |     |
-|     | ΔΔΔΔΔACD / ΔΔΔΔΔBCD cg¿' |              |     | k 5g,\             |  bv]      | fpm M     |     |     |     |     |     |
-C
-Q
-P
-|     |     |     |     |     |     | ;u“ s} | f lrqdf ΔΔΔΔΔPQR / ΔΔΔΔΔPQS nfO { |     |     | cg¿' k bv] | fpm, |
-| --- | --- | --- | --- | --- | --- | ------ | --------------------------------- | --- | --- | ---------- | ---- |
-6.
-|     |     |     |     |     |     | hxf “ | ∠RPQ = ∠PQS / |  QS = PR 5 . |     |     |     |
-| --- | --- | --- | --- | --- | --- | ----- | ------------- | ------------ | --- | --- | --- |
-S
-R
-|     |     |     |     |     |     |     |     | A   |     | P   |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | -u_ | | | | | -3_ | | | | | |
+| | | | | | | Q | | L | | | |
+| | | m | 3 | | | | | m | Y | | |
+| | | 56° | .1  | | | | c | | | 3cm | |
+| | c | | | | 60° | | 1)  | | | | |
+| | 6)  | | c m | | | | | 45° | | | |
+| | 0.  | | | | | | + | | | 70° | |
+| | | | | | | | x | | | | X |
+| | x - | | | P | 56° | | 2 | | | | |
+| | 3 | | | | | | ( | | m | | |
+| | ( | 64° | | B | | | | | c | | |
+| | | | | | | 64° | | 70° | 5 | | |
+| | | | | | | | | | N 2. | | |
+| | | | | | (x+3)cm | | M | | | | |
+| | C | | | | | R | | 2y  | Z | | |
+| | | | | | | | | A | | | B |
+| 5.  | lbOPsf ] | lrqdf laGb ' | | D /v] | f AB sf ] | dWolaGb ' | xf] | | | | |
+| | / CD ⊥⊥⊥⊥⊥ AB 5 eg ] | | | sg'  tYosf cfwf/df | | | | | | | |
+| | ΔΔΔΔΔACD / ΔΔΔΔΔBCD cg¿' | | | k 5g,\ |  bv] | fpm M | | | | | |
+| | | | | | | ;u“ s} | f lrqdf ΔΔΔΔΔPQR / ΔΔΔΔΔPQS nfO { | | | cg¿' k bv] | fpm, |
+| | | | | | | hxf “ | ∠RPQ = ∠PQS / |  QS = PR 5 . | | | |
+| | | | | | | | | A | | P | |
 ΔΔΔΔΔABC / ΔΔΔΔΔPQR df ∠A = ∠P / ∠B = ∠Q 5 .
-7.
-~
-|     | tnsf dWo ]  |     | sg'  cj:yf ykk] |                             | l5 ΔΔΔΔΔABC = ΔΔΔΔΔPQR xG' |             |       | 5 <    |     |     |     |
-| --- | ----------- | --- | --------------- | --------------------------- | -------------------------- | ----------- | ----- | ------ | --- | --- | --- |
-|     |             |     |                 |                             |                            |             |       | B      | C   | Q   | R   |
-|     | -s_ ∠C = ∠R |     |                 | -v_ AB = PQ                 |                            | -u_ BC = QR |       |        |     |     |     |
-| 8.  | lrqdf sg'   |     |  cj:yf ykk]     | l5 ΔΔΔΔΔLMN / ΔΔΔΔΔXYZ cg¿' |                            |             | k xG' | 5g \ < |     |     |     |
+| | tnsf dWo ]  | | sg'  cj:yf ykk] | | l5 ΔΔΔΔΔABC = ΔΔΔΔΔPQR xG' | | | 5 < | | | |
+| | | | | | | | | B | C | Q | R |
+| | -s_ ∠C = ∠R | | | -v_ AB = PQ | | -u_ BC = QR | | | | | |
+| 8.  | lrqdf sg' | |  cj:yf ykk] | l5 ΔΔΔΔΔLMN / ΔΔΔΔΔXYZ cg¿' | | | k xG' | 5g \ < | | | |
 hxf “ ∠M = ∠X = 90° 5 / MN = XZ 5 .
-|     |     |     |     |     |     |     | L   |     | X   |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-Z
-|     | sg' |  tYosf cfwf/df cg¿' |     |     | k xG' 5g \ | <   |     |     |     |     |     |
-| --- | --- | ------------------- | --- | --- | ---------- | --- | --- | --- | --- | --- | --- |
-|     |     |                     |     |     |            |     | M   | N   |     |     |     |
-Y
+| | | | | | | | L | | X | | |
+| | sg' |  tYosf cfwf/df cg¿' | | | k xG' 5g \ | < | | | | | |
+| | | | | | | | M | N | | | |
 xfdf| ]ul0ft, sIff *
-31
-
-3.2 ;d¿ktf (Similarity)
+3.2 ;d¿ktf (Similarity
 ljm|ofsnfk 1
 P'
-| ?n/ / l;;fsndsf ] |     |     | ko| fu] |  u/L ΔPQR lvr . |     |     |     |     |     |
-| ----------------- | --- | --- | ------- | --------------- | --- | --- | --- | --- | --- |
-1.
-P
-| 2. sfkLsf ]    | csf {] | 7fpd“ | f Pp6f l;wf/v] |     | f Q'X lvr / |     |     |     |     |
-| -------------- | ------ | ----- | -------------- | --- | ----------- | --- | --- | --- | --- |
-| Q' af6 QR sf ] |        | bfA]  | a/ rfk nfO {   |     | Q'X df sf6  |     |     |     |     |
-|                |        |       |                |     |             | Q   | R   |     | R'  |
-| / R' gfd bp]   |        | m .   |                |     |             |     | Q'  |     | X   |
+| ?n/ / l;;fsndsf ] | | | ko| fu] |  u/L ΔPQR lvr . | | | | | |
+| 2. sfkLsf ] | csf {] | 7fpd“ | f Pp6f l;wf/v] | | f Q'X lvr / | | | | |
+| Q' af6 QR sf ] | | bfA]  | a/ rfk nfO { | | Q'X df sf6  | | | | |
+| | | | | | | Q | R | | R'  |
+| / R' gfd bp] | | m . | | | | | Q'  | | X |
 3. Q' af6 PQ sf ] bfA] a/ rfk lnO { dflylt/ sf6 / To;u} /L R' af6 PR sf ] bfA] a/ rfkn ] sf6 .
-| sfl6Psf ]               | laGbn' | fO { | P' gfd bp] | m . |     |     |     |     |     |
-| ----------------------- | ------ | ---- | ---------- | --- | --- | --- | --- | --- | --- |
-| 4. P', Q' / P', R' hf8] |        |      |  .         |     |     |     |     |     |     |
+| sfl6Psf ] | laGbn' | fO { | P' gfd bp] | m . | | | | | |
+| 4. P', Q' / P', R' hf8] | | |  . | | | | | | |
 ca bj'  } lqeh' sf sf0] fx¿ / eh' fx¿ gfk / tnsf ] h:t } tflnsf agfO { e/ M
-|                |                          |      | ΔPQR        |     |                  | ΔP'Q'R'               |        |        |     |
-| -------------- | ------------------------ | ---- | ----------- | --- | ---------------- | --------------------- | ------ | ------ | --- |
-| sf0] fsf ]     | gfk                      | ∠P = | ∠Q =        |     | ∠R =             | ∠P' =                 | ∠Q' =  | ∠R' =  |     |
-| eh' fsf ]      | gfk                      | PQ = | QR =        |     | PR =             | P'Q' =                | Q'R' = | P'R' = |     |
-| dflysf ]       | tflnsfaf6 lgDglnlvt cgk' |      |             |     | ftx¿ kQf nufpm M |                       |        |        |     |
-| PQ             |                          |      | QR          |     |                  | PR                    |        |        |     |
-|               |                          |      |             |    |                  |                      |        |        |     |
-| P'Q'           |                          |      | Q'R'        |     |                  | P'R'                  |        |        |     |
-| ∠P = ∠P' = ... |                          |      | ∠Q = ∠Q' =  |     |                  | / ∠R = ∠R' = ........ |        |        |     |
-| dflysf ]       | ljm|ofsnfkaf6 s ]        |      | yfxf kfof } |     | <                |                       |        |        |     |
+| | | | ΔPQR | | | ΔP'Q'R' | | | |
+| sf0] fsf ] | gfk | ∠P = | ∠Q = | | ∠R = | ∠P' = | ∠Q' =  | ∠R' =  | |
+| eh' fsf ] | gfk | PQ = | QR = | | PR = | P'Q' = | Q'R' = | P'R' = | |
+| dflysf ] | tflnsfaf6 lgDglnlvt cgk' | | | | ftx¿ kQf nufpm M | | | | |
+| PQ | | | QR | | | PR | | | |
+|  | | | |  | |  | | | |
+| P'Q' | | | Q'R' | | | P'R' | | | |
+| ∠P = ∠P' = ... | | | ∠Q = ∠Q' =  | | | / ∠R = ∠R' = ........ | | | |
+| dflysf ] | ljm|ofsnfkaf6 s ] | | yfxf kfof } | | < | | | | |
 ;ªu\ tL eh' fsf ] cgk' ft s:tf ] 5, ;ªu\ tL sf0] fx¿lar s ] ;DaGw 5 <
-| cfkm\gf ] lgisif { | nv] |  / sIffsf7] |     | fdf k:| | tt'  u/ . |     |     |     |     |
-| ------------------ | --- | ----------- | --- | ------- | --------- | --- | --- | --- | --- |
+| cfkm\gf ] lgisif { | nv] |  / sIffsf7] | | fdf k:| | tt'  u/ . | | | | |
 oxf “ ΔPQR / ΔP'Q'R' sf ;ªu\ tL eh' f ;dfgk' flts 5g \ / sf0] fx¿sf ] gfk a/fa/ 5 .
 To;sf/0f ΔPQR / ΔP'Q'R' ;d¿k 5g \ . o;nfO { ΔPQR ~ ΔP'Q'R' nl]vG5 .
 ;d¿k lqeh' df ;ªu\ tL eh' fx¿ ;dfgk' flts -cgk' ft a/fa/_ / ;ªu\ t sf0] fx¿ a/fa/ xG' 5g \ .
-A
 olb Δ ABC ~Δ PQR eP,
-|     |     |     |     |     | P   | AB BC | AC  |     |     |
-| --- | --- | --- | --- | --- | --- | ----- | --- | --- | --- |
+| | | | | | P | AB BC | AC  | | |
  
-|     |     |     |     |     |     | PQ QR | PR  |     |     |
-| --- | --- | --- | --- | --- | --- | ----- | --- | --- | --- |
-∠A = ∠P    ∠B = ∠Q    ∠C = ∠R x'G5 .
-| B   |     |     | C   |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-Q
-R
+| | | | | | | PQ QR | PR  | | |
+∠A = ∠P ∠B = ∠Q ∠C = ∠R x'G5 .
+| B | | | C | | | | | | |
 xfdf| ]ul0ft, sIff *
-32
-
-3.2.1. lqeh' x¿ ;d¿k xg'  ] cj:yfx¿ (Conditions for triangles to be similar)
-| -s_ bO' |  { hf8] | f ;ªu\ | tL sf0] | fx¿ a/fa/ ePdf, |     |     |     |     |     |
-| ------- | ------- | ------ | ------- | --------------- | --- | --- | --- | --- | --- |
+3.2.1. lqeh' x¿ ;d¿k xg'  ] cj:yfx¿ (Conditions for triangles to be similar
+| -s_ bO' |  { hf8] | f ;ªu\ | tL sf0] | fx¿ a/fa/ ePdf, | | | | | |
 ΔABC 5 h;df ∠B = 30°, ∠C = 60° / BC = 6cm 5 . csf {] A'B'C' /rgf u/ h;df ∠B = 30°,
 ∠C' = 60° / B'C' = 4cm 5 .
-|     |     |     | A   |     |     |     |     | A'  |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     | 30° |     | 60° |     |     |     |     | 60° |     |
+| | | | A | | | | | A'  | |
+| | 30° | | 60° | | | | | 60° | |
 30°
-| B   |     |     |     |     |     | B'  |     |     | C'  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-C
-|                          |     | 6cm     |     |                         |         |            | 4cm              |     |         |
-| ------------------------ | --- | ------- | --- | ----------------------- | ------- | ---------- | ---------------- | --- | ------- |
-| ca ΔABC / ΔA'B'C' sf eh' |     |         |     | fx¿ gfk / tflnsfdf e/ M |         |            |                  |     |         |
-|                          |     | AB/A'B' |     |                         | BC/B'C' |            |          AC/A'C' |     | lgisif{ |
-| AB =                     |     |         |     |  BC =                   |         |     AC =   |                  |     |         |
-| A'B' =                   |     |         |     |  B'C' =                 |         |     A'C' = |                  |     |         |
+| B | | | | | | B'  | | | C'  |
+| | | 6cm | | | | | 4cm | | |
+| ca ΔABC / ΔA'B'C' sf eh' | | | | fx¿ gfk / tflnsfdf e/ M | | | | | |
+| | | AB/A'B' | | | BC/B'C' | | AC/A'C' | | lgisif{ |
+| AB = | | | |  BC = | | AC = | | | |
+| A'B' = | | | |  B'C' = | | A'C' = | | | |
 dflysf ] tflnsfsf ;a } eh' fx¿sf ] cgk' ft a/fa/ bl]vof ] . ;ªu\ tL eh' fx¿ ;dfgk' flts 5g \ .
-| To;sf/0f ΔABC ~ ΔA'B'C' xG' |     |     |     | 5 . |     |     |     |     |     |
-| --------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| To;sf/0f ΔABC ~ ΔA'B'C' xG' | | | | 5 . | | | | | |
 olb lqeh' x¿df bO'  { hf8] L ;ªu\ t sf0] fx¿ a/fa/ 5g \ eg ] ;ªu\ t eh' fx¿ klg ;dfgk' flts xG' 5g\
-| / lqeh'      | x¿ ;d¿k xG' |                   | 5g \ | . o;nfO {  | sf=] sf=] |  (AA) sf ] | tYo elgG5 . |     |     |
-| ------------ | ----------- | ----------------- | ---- | ---------- | --------- | ---------- | ----------- | --- | --- |
-| -v_ ltg cf6] |             |  } eh' fx¿ ;dfgk' |      | flts ePdf, |           |            |             |     |     |
+| / lqeh' | x¿ ;d¿k xG' | | 5g \ | . o;nfO {  | sf=] sf=] |  (AA) sf ] | tYo elgG5 . | | |
+| -v_ ltg cf6] | |  } eh' fx¿ ;dfgk' | | flts ePdf, | | | | | |
 ΔABC 5 h;df AB = 2cm, BC = 3cm / AC = 4cm 5 . ΔA'B'C' lvr, h;df A'B' =3cm,
 B'C' = 4.5cm / A'C' = 6cm 5 .
 A'
-A
 6cm
 4cm
-| 2cm |     |     |     |     |     | 3cm |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     | B   |     |     | C   |     |     |     |     |     |
-|     |     |     |     |     |     | B'  |     |     | C'  |
+| 2cm | | | | | | 3cm | | | |
+| | B | | | C | | | | | |
+| | | | | | | B'  | | | C'  |
 3cm
 4.5cm
-| dflysf ΔABC / ΔA'B'C' sf sf0] |                    |                               |     |                       | fx¿ gfk / tnsf ] |     | tflnsfdf e/ M |     |           |
-| ----------------------------- | ------------------ | ----------------------------- | --- | --------------------- | ---------------- | --- | ------------- | --- | --------- |
-| sf0]                          | fx¿        lgisif{ |                               |     |                       |                  |     |  lgisif{      |     |   lgisif{ |
-| ∠A =                          |                    |                          ∠B = |     |                       |                  |     |       ∠C =    |     |           |
-| ∠A' =                         |                    |                               |     |                 ∠B' = |                  |     |      ∠C' =    |     |           |
+| dflysf ΔABC / ΔA'B'C' sf sf0] | | | | | fx¿ gfk / tnsf ] | | tflnsfdf e/ M | | |
+| sf0] | fx¿ lgisif{ | | | | | |  lgisif{ | | lgisif{ |
+| ∠A = | | ∠B = | | | | | ∠C = | | |
+| ∠A' = | | | | ∠B' = | | | ∠C' = | | |
 xfdf| ]ul0ft, sIff *
-33
-
 tLgcf6]  } eh' fx¿ ;dfgk' flts ePdf ;ªu\ tL sf0] fx¿ klg a/fa/ xG' 5g \ . t;y { lbOPsf lrqdf
 ΔABC ~ ΔA'B'C' eof ] . o;nfO { e=' e=' e='  ;d¿ktf (SSS  similarity) elgG5 .
 -u_ bO' c{ f6] f eh' fx¿sf ] cgk' ft / ltgLx¿larsf ] sf0] f a/fa/ ePdf,
 ΔABC lbOPsf ] 5 h;df AB = 5cm, BC = 6cm / ∠ABC = 45° 5 . csf{ ]ΔXYZ /rgf u/
 h;df XY = 2.5cm, YZ = 3cm / ∠XYZ = 45° 5 .
-A
-X
 5cm
-m
 5 c
-2.
 45°
 45°
-|     | B   |     |     |     | C   |     |     |     | Z   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-Y
-|     |     |     | 6cm |     |     |     |     | 3cm |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | B | | | | C | | | | Z |
+| | | | 6cm | | | | | 3cm | |
 dflysf lqeh' df lgDgfg;' f/sf sf0] f / eh' fx¿ gfk / tflnsfdf e/ M
 kl/0ffd
-AC
-|     | ∠A = | ∠B = |     | ∠C = |     | AC = |          | =   |     |
-| --- | ---- | ---- | --- | ---- | --- | ---- | -------- | --- | --- |
-XZ
-|     | ∠X = | ∠Y = |     | ∠Z = |     | XZ = |     |     |     |
-| --- | ---- | ---- | --- | ---- | --- | ---- | --- | --- | --- |
+| | ∠A = | ∠B = | | ∠C = | | AC = | | = | |
+| | ∠X = | ∠Y = | | ∠Z = | | XZ = | | | |
 dfyLsf ] tflnsfaf6 ;a } ;ªu\ t sf0] fx¿ a/fa/ eP / afs“ L eh' fsf ] cgk' ft klg Pp6 } cfof ] .
 t;y { ΔABC / ΔXYZ ;d¿k eP . o;nfO { eh' f, sf0] f, eh' f (SAS) tYo elgG5 .
 olb hf8] f lqeh' df bO'  { eh' fx¿sf ] cgk' ft / ltgLx¿larsf ] sf0] f a/fa/ ePdf tL bO'  { lqeh' x¿ ;d¿k xG' 5g \ .
 pbfx/0f 1
-| lbOPsf lqeh' |     | x¿ ;d¿k 5g \ |     | eg ] x, y / z sf ] |     | dfg kQf nufpm . |     |     |     |
-| ------------ | --- | ------------ | --- | ------------------ | --- | --------------- | --- | --- | --- |
+| lbOPsf lqeh' | | x¿ ;d¿k 5g \ | | eg ] x, y / z sf ] | | dfg kQf nufpm . | | | |
 ;dfwfg
-| oxf “   | ABC ~ PQR 5 . t;y { |                   | eh'          | fx¿ ;dfgk' | flts xG' | 5g \ . |     |     |      |
-| ------- | ------------------- | ----------------- | ------------ | ---------- | -------- | ------ | --- | --- | ---- |
-| AB      | BC                  | AC                |              |            |          |        |     |     |      |
-|         |                    |   xG' 5 .        |              |            |          | A      |     |     |      |
-| PQ      | QR                  | PR                |              |            |          |        |     |     | P    |
-|         |                     | 12 18             | x            |            |          |        |     |     |      |
-| lrqfg;' | f/ M                |                 | .........(i) |            |          |        | x   |     | 15cm |
-|         |                     |                   |              |            | 12cm     |        |     | y   |      |
-|         |                     | y 6               | 15           |            |          |        |     |     |      |
-| klxnf ] | / bf;]              | f| ] cg' kft lnb“ | f            |            |          |        |     |     |      |
-|         |                     |                   |              |            |          | 60°    |     |     | z°   |
-|         |                     |                   |              |            |          |        |     | Q   | R    |
-|         |                     |                   |              |            | B        |        |     | C   |      |
-| 12      | 18                  |                   |              |            |          |        |     |     | 6cm  |
-|         |                    |                   |              |            |          | 18cm   |     |     |      |
+| oxf “ | ABC ~ PQR 5 . t;y { | | eh' | fx¿ ;dfgk' | flts xG' | 5g \ . | | | |
+| AB | BC | AC | | | | | | | |
+| |  |   xG' 5 . | | | | A | | | |
+| PQ | QR | PR | | | | | | | P |
+| | | 12 18 | x | | | | | | |
+| lrqfg;' | f/ M |   | .........(i) | | | | x | | 15cm |
+| | | | | | 12cm | | | y | |
+| | | y 6 | 15 | | | | | | |
+| klxnf ] | / bf;] | f| ] cg' kft lnb“ | f | | | | | | |
+| | | | | | | 60° | | | z° |
+| | | | | | | | | Q | R |
+| | | | | | B | | | C | |
+| 12 | 18 | | | | | | | | 6cm  |
+| |  | | | | | 18cm | | | |
 y 6
 cyjf 18 x y = 12 x 6
 126
-| cyjf y |     | 4cm |     |     |     |     |     |     |                      |
-| ------- | --- | ---- | --- | --- | --- | --- | --- | --- | -------------------- |
-|         |     | 18   |     |     |     |     |     |     | xfdf| ]ul0ft, sIff * |
-34
-
-| km]l/ bf;] | f| ] / t;] f| ] cgk' | ft lnb“ f |     |     |
-| ---------- | -------------------- | --------- | --- | --- |
+| cyjf y | | 4cm | | | | | | | |
+| | | 18 | | | | | | | xfdf| ]ul0ft, sIff * |
+| km]l/ bf;] | f| ] / t;] f| ] cgk' | ft lnb“ f | | |
 18 x
-
-6 15
 cyjf, 6x = 15 x 8
- x  15 x 8
-|  =  | = 20cm |     |     |     |
-| --- | ------ | --- | --- | --- |
-6
-| / ∠B = ∠Q xG' | 5 . |     |     |     |
-| ------------- | --- | --- | --- | --- |
+x  15 x 8
+|  =  | = 20cm | | | |
+| / ∠B = ∠Q xG' | 5 . | | | |
 ∠B = 60° = Q
 ∴ ∠Z = 60°
 pbfx/0f 2
 ;u“ s} f ] lrqdf ΔLMN / ΔLEF ;d¿k 5g \ eg ] EF / EM sf ] dfg kQf nufpm .
 ;dfwfg
-| oxf,“ ΔLMN / ΔLEF  ;d¿k 5g \ |     | .   |     |     |
-| ---------------------------- | --- | --- | --- | --- |
-L
-| LM            | MN LN             |          |     |     |
-| ------------- | ----------------- | -------- | --- | --- |
-| t;y,{         |                 |  xG' 5 . |     |     |
-| LE            | EF LF             |          | 4cm | 4cm |
-|               | y4 5 64         |          | E   | F   |
-| cyjf,         |                 |  xG' 5 . |     |     |
-|               | 4 x 4             |          | x   |     |
-|               |                   |          | y   | 6cm |
-| klxnf ] / t;] | f| ] cgk' ft lnb“ | f,       |     |     |
-|               |                   |          | M   | N   |
+| oxf,“ ΔLMN / ΔLEF  ;d¿k 5g \ | | . | | |
+| LM | MN LN | | | |
+| t;y,{ |   |  xG' 5 . | | |
+| LE | EF LF | | 4cm | 4cm |
+| | y4 5 64 | | E | F |
+| cyjf, |   |  xG' 5 . | | |
+| | 4 x 4 | | x | |
+| | | | y | 6cm |
+| klxnf ] / t;] | f| ] cgk' ft lnb“ | f, | | |
+| | | | M | N |
 5cm
 y4 10
-
-4 4
 cyjf, y + 4 = 10
 cyjf, y = 10 - 4 = 6cm
-| km]l/ bf;] | f| ] / t;] f| ] cgk' | ft lnb“ f, |     |     |
-| ---------- | -------------------- | ---------- | --- | --- |
+| km]l/ bf;] | f| ] / t;] f| ] cgk' | ft lnb“ f, | | |
 cyjf, 10x = 20
 cyjf, x =
 ∴ x = 2cm
 xfdf| ]ul0ft, sIff *
-35
-
 pbfx/0f 3
 lrqdf EF || GH  / ∠EFO = ∠OGH 5 eg ] kd| fl0ft u/ ΔEFO ~ ΔOGH
-| kd| f0f M oxf “ | EF || GH 5 t;y { |     | EH 5b] | s xf ] | .   |     |     |     |
-| --------------- | ---------------- | --- | ------ | ------ | --- | --- | --- | --- |
-E
-| (1) ∠FEO = ∠GHO xG' |     | 5 . -PsfGt/ sf0] |     |     | f ePsfn_] |     |     |     |
-| ------------------- | --- | ---------------- | --- | --- | --------- | --- | --- | --- |
+| kd| f0f M oxf “ | EF || GH 5 t;y { | | EH 5b] | s xf ] | . | | | |
+| (1) ∠FEO = ∠GHO xG' | | 5 . -PsfGt/ sf0] | | | f ePsfn_] | | | |
 ∠EFO = ∠OGH
-| (2) |     |     |     |     |     |     |     | O   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-G
-lbPsf]
-F
-| (3) ∠EOF = ∠GOH -zLiffl{edv' |     |     |  sf0]   | fx¿_          |     |     |     |     |
-| ---------------------------- | --- | --- | ------- | ------------- | --- | --- | --- | --- |
-| (4) ΔEFO / ΔGOH sf ;ªu\      |     |     | tL sf0] | fx¿ a/fa/ eP, |     |     |     |     |
-H
-| t;y,{ ΔEFO ~ ΔGHO xG' |     | 5 . |     |     |     |     |     |     |
-| --------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| (2) | | | | | | | | O |
+lbPsf
+| (3) ∠EOF = ∠GOH -zLiffl{edv' | | |  sf0] | fx¿_ | | | | |
+| (4) ΔEFO / ΔGOH sf ;ªu\ | | | tL sf0] | fx¿ a/fa/ eP, | | | | |
+| t;y,{ ΔEFO ~ ΔGHO xG' | | 5 . | | | | | | |
 cEof; 3.2
 1. tn lbOPsf hf8] f lqeh' x¿sf ] sf0] f / eh' fx¿ gfk / ;d¿k 5g \ jf 5g} g,\  kQf nufpm M
-| -s_         |              |     | -v_                |     |                 | -u_ |     |     |
-| ----------- | ------------ | --- | ------------------ | --- | --------------- | --- | --- | --- |
-| lbOPsf hf8] | f ;d¿k lqeh' |     | x¿df x, y / z sf ] |     | dfg kQf nufpm M |     |     |     |
-2.
-| -s_ |     |     |     |     | -v_ |     |     | 10.5cm |
-| --- | --- | --- | --- | --- | --- | --- | --- | ------ |
+| -s_ | | | -v_ | | | -u_ | | |
+| lbOPsf hf8] | f ;d¿k lqeh' | | x¿df x, y / z sf ] | | dfg kQf nufpm M | | | |
+| -s_ | | | | | -v_ | | | 10.5cm |
 30°
 z°
-|     | 8cm |     |     |     | 8 cm | 12cm |     |     |
-| --- | --- | --- | --- | --- | ---- | ---- | --- | --- |
+| | 8cm | | | | 8 cm | 12cm | | |
 10cm
-y
-|     |     |     | x   |     |     |     |     | y   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | x | | | | | y |
 7.5cm
-x
 3cm
 6cm
-| -u_ |     |     |     |     | -3_ |     | 3cm |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-A
-B
+| -u_ | | | | | -3_ | | 3cm | |
 21in
-|     |     |     |     |     |     | 1.5cm |     | y   |
-| --- | --- | --- | --- | --- | --- | ----- | --- | --- |
-y
-E
+| | | | | | | 1.5cm | | y |
 6in
-x
-|     | 24in |     |     |     |     | 4cm |         |     |
-| --- | ---- | --- | --- | --- | --- | --- | ------- | --- |
-|     |      |     |     |     |     |     | 30° 60° |     |
-|     | x    |     | 8in |     |     | C   |         | D   |
+| | 24in | | | | | 4cm | | |
+| | | | | | | | 30° 60° | |
+| | x | | 8in | | | C | | D |
 6cm
-A
-| 3. lbOPsf ]                  | lrqdf ΔΔΔΔΔBEC ~ ΔΔΔΔΔADC 5 CD = 20cm |     |     |         |     |       |     |     |
-| ---------------------------- | ------------------------------------- | --- | --- | ------- | --- | ----- | --- | --- |
-| AD = 8.8cm / EC = 5cm 5 eg ] |                                       |     |     | BE sf ] | dfg | mc8.8 |     | B   |
+| 3. lbOPsf ] | lrqdf ΔΔΔΔΔBEC ~ ΔΔΔΔΔADC 5 CD = 20cm | | | | | | | |
+| AD = 8.8cm / EC = 5cm 5 eg ] | | | | BE sf ] | dfg | mc8.8 | | B |
 kQf nufpm .
 5cm
 D C
-E
 20cm
 xfdf| ]ul0ft, sIff *
-36
-
-| 4. lbOPsf ] | lrqdf olb BC || DE / ∠∠∠∠∠CED = 30° 5 |     |     | A   |     |
-| ----------- | ------------------------------------- | --- | --- | --- | --- |
+| 4. lbOPsf ] | lrqdf olb BC || DE / ∠∠∠∠∠CED = 30° 5 | | | A | |
 6cm
-| eg ] | -s_ ΔΔΔΔΔADE ~ ΔΔΔΔΔABC bv] | fpm . -v_ DE / ∠ACB |     | 4.5cm |     |
-| ---- | --------------------------- | ------------------- | --- | ----- | --- |
-C
-| sf ] | gfk kQf nufpm . |     |     | B     |     |
-| ---- | --------------- | --- | --- | ----- | --- |
-|      |                 |     |     | 7.2cm | 4cm |
+| eg ] | -s_ ΔΔΔΔΔADE ~ ΔΔΔΔΔABC bv] | fpm . -v_ DE / ∠ACB | | 4.5cm | |
+| sf ] | gfk kQf nufpm . | | | B | |
+| | | | | 7.2cm | 4cm |
 D E
-P
 8cm
-|     |     |     | 5. lrqdf PS ⊥⊥⊥⊥⊥QR 5 / ΔΔΔΔΔPQR ~ ΔΔΔΔΔPSR 5 eg ] |     | PS  |
-| --- | --- | --- | -------------------------------------------------- | --- | --- |
+| | | | 5. lrqdf PS ⊥⊥⊥⊥⊥QR 5 / ΔΔΔΔΔPQR ~ ΔΔΔΔΔPSR 5 eg ] | | PS  |
 6cm
 sf ] gfk kQf nufpm . olb ∠PQR = 30° eeeeePPPPP,,,,,
-|     | 30°     |     | ∠RPS slt xfn] | f < |     |
-| --- | ------- | --- | ------------- | --- | --- |
-| Q   |         | R   |               |     |     |
-|     | 16 cm S |     |               | X   |     |
+| | 30° | | ∠RPS slt xfn] | f < | |
+| Q | | R | | | |
+| | 16 cm S | | | X | |
 lrqdf ∠Y = ∠Z, XY = 20cm,
-6.
-| AY = 15.5cm / XZ = 15cm eP, |                 |     |     | A   | B   |
-| --------------------------- | --------------- | --- | --- | --- | --- |
-| (i) ΔΔΔΔΔXAZ ~ ΔΔΔΔΔXBY bv] | fpm .           |     |     |     |     |
-| (ii) XB sf ]                | gfk kQf nufpm . |     |     |     |     |
-Z
-Y
-L
-P
-| 7. ;u“ | s} f ] lrqdf ML || NP 5 |     |     | Q   |     |
-| ------ | ----------------------- | --- | --- | --- | --- |
-∠LMN = ∠NPQ = 90° 5 eg,]
-| ΔΔΔΔΔLMN ~ ΔΔΔΔΔNPQ bv] | fpm . |     |     |     |     |
-| ----------------------- | ----- | --- | --- | --- | --- |
-|                         |       |     | M   | N   |     |
+| AY = 15.5cm / XZ = 15cm eP, | | | | A | B |
+| (i) ΔΔΔΔΔXAZ ~ ΔΔΔΔΔXBY bv] | fpm . | | | | |
+| (ii) XB sf ] | gfk kQf nufpm . | | | | |
+| 7. ;u“ | s} f ] lrqdf ML || NP 5 | | | Q | |
+∠LMN = ∠NPQ = 90° 5 eg,
+| ΔΔΔΔΔLMN ~ ΔΔΔΔΔNPQ bv] | fpm . | | | | |
+| | | | M | N | |
 xfdf| ]ul0ft, sIff *
-37
-
 kf7
-4
-|     |     |     |     | jQ[ |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-(Circle)
-| 4.0. kg' | /jnfs] g (Review) |     |     |     |     |     |     |     |
-| -------- | ----------------- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | jQ[ | | | | |
+Circle
+| 4.0. kg' | /jnfs] g (Review) | | | | | | | |
 tnsf jQ[ x¿df cªl\st efu / 5fof kfl/Psf ] efusf ] gfd nv]  / ;dx" df 5nkmn u/ M
-| -s_ |     | -v_ |     |     |   -u_ |     |     | -3_                   |
-| --- | --- | --- | --- | --- | ----- | --- | --- | --------------------- |
-|     |     |     |     | O   |       |     | O   |                       |
-|     | O   | A   | P   |     | Q     |     |     | A 123456789012345678B |
-123456789012345678
-123456789012345678 123456789012345678
-123456789012345678
-123456789012345678 123456789012345678
-123456789012345678
-123456789012345678
-123456789012345678
-|     -ª_ |     |     |     | -r_ |     |     | -5_ |     |
-| ------- | --- | --- | --- | --- | --- | --- | --- | --- |
-|         |     | O   |     |     |     |     |     | O   |
-1234567890123 1234567890123
-1234567890123
-|     |     |     |     | X   |     | Y   |     | 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 1 2 2 3 3 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --------------------------------------------------- |
-1234567890123
-|     |     |     |     |     |     |     |     | L1 1234567890123 2 3 4 5 6 7 8 9 0 1 2 3 |
-| --- | --- | --- | --- | --- | --- | --- | --- | ---------------------------------------- |
-|     |     |     |     |     |     |     |     | 1 2 3 4 5 6 7 8 9 0 1 2 3M               |
-1234567890123
-jQ[ sf ljleGg efusf af/d] f xfdLn ] cl3Nnf ] sIffdf g } cWoog ul/;ss] f 5f “} . ca xfdL jQ[ sf]
-| kl/lw / Ifq] | kmnsf af/d]           | f cWoog ub5{ |           | f “} . |      |     |     |     |
-| ------------ | --------------------- | ------------ | --------- | ------ | ---- | --- | --- | --- |
-| 4.1.jQ[      | sf ] kl/lw / Jof;sf ] |              | ;DaGwsf ] |        | vfh] | L   |     |     |
-jQ[ sf ] kl/lw (Circumference of Circle)
+| -s_ | | -v_ | | | -u_ | | | -3_ |
+| | | | | O | | | O | |
+| | O | A | P | | Q | | | A 123456789012345678B |
+| -ª_ | | | | -r_ | | | -5_ | |
+| | | O | | | | | | O |
+| | | | | X | | Y | | 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 1 2 2 3 3 |
+| | | | | | | | | L1 1234567890123 2 3 4 5 6 7 8 9 0 1 2 3 |
+| | | | | | | | | 1 2 3 4 5 6 7 8 9 0 1 2 3M |
+jQ[ sf ljleGg efusf af/d] f xfdLn ] cl3Nnf ] sIffdf g } cWoog ul/;ss] f 5f “} . ca xfdL jQ[ sf
+| kl/lw / Ifq] | kmnsf af/d] | f cWoog ub5{ | | f “} . | | | | |
+| 4.1.jQ[ | sf ] kl/lw / Jof;sf ] | | ;DaGwsf ] | | vfh] | L | | |
+jQ[ sf ] kl/lw (Circumference of Circle
 ljm|ofsnfk 1
 O P
 2 cm
 5/5 hgfsf ] ;dx"  lgdf0{ f u/L kT| os] n ] jm|dzM afSnf ] sfuhdf jm|dzM 2 cm, 2.5
 cm, 3 cm, 3.6 cm, 4 cm cwJ{ of; ePsf jQ[  lvr / sr“} Lsf ] ;xfotfn ] To;nfO{
-| sf6 . To;kl5 lrqdf bv] |                         | fP em}“  |     |     |     |     |     |     |
-| ---------------------- | ----------------------- | -------- | --- | --- | --- | --- | --- | --- |
-| Pp6f cwJ{              | of; lvr .               |          |     |     |     |     |     |     |
-| lrqdf bv]              | fP em} “ laGb '         | P ?n/sf] |     |     |     |     |     |     |
-| ky| d /v]              | fdf kg {] u/L /fv / pSt |          |     |     |     |     |     |     |
+| sf6 . To;kl5 lrqdf bv] | | fP em}“  | | | | | | |
+| Pp6f cwJ{ | of; lvr . | | | | | | | |
+| lrqdf bv] | fP em} “ laGb ' | P ?n/sf] | | | | | | |
+| ky| d /v] | fdf kg {] u/L /fv / pSt | | | | | | | |
 j[QnfO{ u'8fpm . pSt j[QnfO{
 ta;Dd u'8fp ls laGb' P n] km]l/
-| :sn] sf ] | csf {] /v] fnfO { | 5fc] f;]  \ . To;kl5 |     |     |     |     |     |     |
-| --------- | ----------------- | -------------------- | --- | --- | --- | --- | --- | --- |
+| :sn] sf ] | csf {] /v] fnfO { | 5fc] f;]  \ . To;kl5 | | | | | | |
 lrqdf bv] fP em“} ;?' sf ] laGb ' / clGtd laGb ' l6kf6]  u/ . tL bO'  { laGbl'arsf ] nDafO g } jQ[ sf ] kl/lw
 xG' 5 .
 jQ[ sf ] kl/lw (c) / Jof; (d) gfk, [ hxf “ Jof; (d) = 2r xG' 5 ] . ca jm|dzM tflnsfdf k:| tt'  u/ M
-| 38  |     |     |     |     |     |     |     | xfdf| ]ul0ft, sIff * |
-| --- | --- | --- | --- | --- | --- | --- | --- | -------------------- |
-
-c
-| ;d"x |     | jQ[ sf ] | Jof; (d) |     | jQ[ sf ] | kl/lw (C) |    |
-| ---- | --- | -------- | -------- | --- | -------- | --------- | --- |
-d
+| 38  | | | | | | | | xfdf| ]ul0ft, sIff * |
+| ;d"x | | jQ[ sf ] | Jof; (d) | | jQ[ sf ] | kl/lw (C) |  |
 -s_
 4 cm
-15.70
-| -v_ |     |     | 5 cm |     |     15.70 |     | 3.14 |
-| --- | --- | --- | ---- | --- | --------- | --- | ----- |
-5
-| -u_ |     |     | 6 cm |     |     |     |     |
-| --- | --- | --- | ---- | --- | --- | --- | --- |
-| -3_ |     |     | 7 cm |     |     |     |     |
+| -v_ | | | 5 cm | | 15.70 | | 3.14 |
+| -u_ | | | 6 cm | | | | |
+| -3_ | | | 7 cm | | | | |
 -ª_
 8 cm
 o;/L dflysf ] tflnsfaf6 s ] k:| 6 xG' 5 eg ] jQ[ sf ] Jof; hlt;s'  } ePtf klg pSt jQ[ sf ] kl/lw /
 Jof;sf ] cgk' ft ;w “} 3.14 sf ] cf;kf;df xG' 5 . t;y { kl/lw / Jof;sf ] cgk' ftnfO { 3.14 dflgG5 .
-π
-jf C /d = 3.14 -crn /flz_ xG' 5 . o;nfO { lus|  cIf/   (Pie jf kfO_{  n ] hgfOG5 . o;nfO{
-22
-  klg nl]vG5 .
-7
-c
-| To;sf/0f,  |  xG' |     | 5 . |     |     |     |     |
-| ---------- | ------ | --- | --- | --- | --- | --- | --- |
-d
-22
-∴ C =   π
-|     | d   | hxf “ |   xG' | 5 . |     |     |     |
-| --- | --- | ----- | ------- | --- | --- | --- | --- |
-7
+jf C /d = 3.14 -crn /flz_ xG' 5 . o;nfO { lus|  cIf/ (Pie jf kfO_{  n ] hgfOG5 . o;nfO{
+klg nl]vG5 .
+| To;sf/0f,  |  xG' | | 5 . | | | | |
+∴ C = π
+| | d | hxf “ |   xG' | 5 . | | | |
 xfdLnfO { yfxf 5, jQ[ sf ] cwJ{ of; Jof;sf ] cfwf xG' 5 . t;y,{  d = 2r, ∴  C = 2πr xG' 5 .
 ljm|ofsnfk 2
-| 3/3 hgfsf ] | ;dx" |  agfpm . To;kl5 kT| |     |     | os]  ;dx" | n ] km/s |     |
-| ----------- | ---- | ------------------- | --- | --- | --------- | -------- | --- |
-d
-| cfsf/sf an] | gfsf/ j:tx' |     | ¿ np] | m . kT| | os]  ;dx" | n ] pSt | d   |
-| ----------- | ----------- | --- | ----- | ------- | --------- | ------- | --- |
-d
-| an] gfsf/ j:ts'          |             | f ] cfwf/sf ] | Jof; gfk . To;kl5 lrqdf |                     |                   |      |     |
-| ------------------------ | ----------- | ------------- | ----------------------- | ------------------- | ----------------- | ---- | --- |
-| bv] fP h:t }             | u/L pSt an] |               | gfsf/ j:ts'             |                     | f ] cfwf/sf ]     | glhs |     |
-| jl/kl/ Pp6f wfuf ]       |             | afw“          |  . Tof ] wfufs]         | f ] nDafO pSt cfwf/ |                   |      |     |
-| jQ[ sf ] kl/lw a/fa/ xG' |             |               | 5 . kT| os]             |  ;dx"               | n ] To;kl5 cfkmg\ | f]   |     |
+| 3/3 hgfsf ] | ;dx" |  agfpm . To;kl5 kT| | | | os]  ;dx" | n ] km/s | |
+| cfsf/sf an] | gfsf/ j:tx' | | ¿ np] | m . kT| | os]  ;dx" | n ] pSt | d |
+| an] gfsf/ j:ts' | | f ] cfwf/sf ] | Jof; gfk . To;kl5 lrqdf | | | | |
+| bv] fP h:t } | u/L pSt an] | | gfsf/ j:ts' | | f ] cfwf/sf ] | glhs | |
+| jl/kl/ Pp6f wfuf ] | | afw“ |  . Tof ] wfufs] | f ] nDafO pSt cfwf/ | | | |
+| jQ[ sf ] kl/lw a/fa/ xG' | | | 5 . kT| os] |  ;dx" | n ] To;kl5 cfkmg\ | f] | |
 ;dx" n ] lnPsf ] kl/lw -wfuf_]  / Jof;sf ] nDafOsf ] cgk' ft k:| tt'  u/ . pSt cgk' ft kf|oM ;ad} f Pp6}
-22
 π -kfO_{
-| 3.14 sf ] | jl/kl/ cyft{ |     |  \   kfOG5 . To;nfO { |     | g } |  elgG5 . |     |
-| --------- | ------------ | --- | --------------------- | --- | --- | -------- | --- |
-7
- C -kl/lw_
+| 3.14 sf ] | jl/kl/ cyft{ | |  \ kfOG5 . To;nfO { | | g } |  elgG5 . | |
+C -kl/lw_
 π  =
-| t;y { |     |     |   nl]vG5 . |     |     |     |     |
-| ----- | --- | --- | ---------- | --- | --- | --- | --- |
-        d -Jof;_
-| ∴ C =   | π d = 2 | π   | r       [  d = 2r] |     |     |     |     |
-| ------- | ------- | --- | ------------------ | --- | --- | --- | --- |
+| t;y { | | | nl]vG5 . | | | | |
+d -Jof;_
+| ∴ C = | π d = 2 | π | r [  d = 2r] | | | | |
 xfdf| ]ul0ft, sIff * 39
-
 pbfx/0f 1
  22
 olb Pp6f jQ[ sf ] Jof; 9 cm 5 eg ] pSt jQ[ sf ] kl/lw slt xfn] f <   
  7 
 ;dfwfg
-| oxf “ | lbPsf ] jQ[ | sf ] Jof; (d) = 9 cm |     |     |     |     |
-| ----- | ----------- | -------------------- | --- | --- | --- | --- |
+| oxf “ | lbPsf ] jQ[ | sf ] Jof; (d) = 9 cm | | | | |
 jQ[ sf ] kl/lw (C) = ?
-22
-| xfdLnfO { | yfxf 5 ls C =   |     | π d  /   |     |     |     |
-| --------- | --------------- | --- | ---------- | --- | --- | --- |
-7
-22
-|     | 928.30 ctM jQ[ |     | sf ] | kl/lw (C) = 28.30cm xG' |     | 5 . |
-| --- | ---------------- | --- | ---- | ----------------------- | --- | --- |
+| xfdLnfO { | yfxf 5 ls C = | | π d  /   | | | |
+| | 928.30 ctM jQ[ | | sf ] | kl/lw (C) = 28.30cm xG' | | 5 . |
 C
-7
 pbfx/0f 2
 Pp6f an] gfsf/ 6o\ fªs\ Lsf ] cfwf/sf ] kl/lw 471cm 5 eg ] pSt 6o\ fªs\ Lsf ] cfwf/sf ] cwJ{ of; slt
-| xfn] | f < -π  = 3.14 ko| |     | fu]  ug {] ._ |     |     |     |
-| ---- | ------------------ | --- | ------------- | --- | --- | --- |
+| xfn] | f < -π  = 3.14 ko| | | fu]  ug {] ._ | | | |
 ;dfwfg
-| oxf “     | an] gfsf/ 6o\        | fªs\ | Lsf ] cfwf/sf ] | kl/lw (C) = 471 cm |     |     |
-| --------- | -------------------- | ---- | --------------- | ------------------ | --- | --- |
-|           | ,,     ,,            |      | ,,  cwJ{        | of; (r) = ?        |     |     |
-| xfdLnfO { | yfxf 5 kl/lw (c) = 2 |      |                 | π r                |     |     |
+| oxf “ | an] gfsf/ 6o\ | fªs\ | Lsf ] cfwf/sf ] | kl/lw (C) = 471 cm | | |
+| | ,, ,, | | ,,  cwJ{ | of; (r) = ? | | |
+| xfdLnfO { | yfxf 5 kl/lw (c) = 2 | | | π r | | |
 cyjf, 471 cm = 2 × 3.14 × r
 cyjf, 6.28 r = 471 cm
-471
-| cyjf, r |     | cm = 75 cm. |     |     |     |     |
-| -------- | --- | ----------- | --- | --- | --- | --- |
-6.28
-| ctM pSt 6o\ |     | fªs\ Lsf ] | cwJ{ of;  (r) = 75 cm x'G5 . |     |     |     |
-| ----------- | --- | ---------- | ---------------------------- | --- | --- | --- |
+| cyjf, r | | cm = 75 cm. | | | | |
+| ctM pSt 6o\ | | fªs\ Lsf ] | cwJ{ of;  (r) = 75 cm x'G5 . | | | |
 cEof; 4.1
-|     | πππππ   = 3.14 ko| | fu]  u/L lbOPsf kT| |     | os]  jQ[ sf kl/lw kQf nufpm M |     |     |
-| --- | ------------------ | ------------------- | --- | ----------------------------- | --- | --- |
-1.
-|     | -s_ cwJ{           | of; = 3cm |     | -v_ Jof; = 5cm     |     | -u_ cwJ{ of; = 4.5 cm |
-| --- | ------------------ | --------- | --- | ------------------ | --- | --------------------- |
-|     | -3_ Jof; = 10 inch |           |     | -ª_ cwJ{ of; = 12m |     | -r_ Jof; = 18ft.      |
+| | πππππ = 3.14 ko| | fu]  u/L lbOPsf kT| | | os]  jQ[ sf kl/lw kQf nufpm M | | |
+| | -s_ cwJ{ | of; = 3cm | | -v_ Jof; = 5cm | | -u_ cwJ{ of; = 4.5 cm |
+| | -3_ Jof; = 10 inch | | | -ª_ cwJ{ of; = 12m | | -r_ Jof; = 18ft. |
 2. πππππ  = 3.14  ko| fu]  u/L lbOPsf ] kl/lwsf cfwf/df jQ[ sf ] cwJ{ of; kQf nufpm M
-|     | -s_ C = 12.56 cm  |     | -v_ C = 18.84 inch |     | -u_ C = 34.54 cm |     |
-| --- | ----------------- | --- | ------------------ | --- | ---------------- | --- |
-|     | -3_ C = 65.94 ft. |     | -ª_ C = 113.04 cm  |     | -r_ C = 376.8 yd |     |
+| | -s_ C = 12.56 cm  | | -v_ C = 18.84 inch | | -u_ C = 34.54 cm | |
+| | -3_ C = 65.94 ft. | | -ª_ C = 113.04 cm  | | -r_ C = 376.8 yd | |
 40 xfdf| ]ul0ft, sIff *
-
 22
-Pp6f jQ[ fsf/ vn]  db} fgsf ] cwJ{ of; 84 ld6/ eP pSt db} fgsf ] kl/lw slt xfn] f <    
+Pp6f jQ[ fsf/ vn]  db} fgsf ] cwJ{ of; 84 ld6/ eP pSt db} fgsf ] kl/lw slt xfn] f <  
 3. 
  7 
 4. cwJ{ of; 100 ld6/ ePsf ] jQ[ fsf/ wfjg dfud{ f wfjsn ] Ps rSs/ nufpb“ f slt ld6/
-| b/' L kf/ u5 { | xfn] f < [  | π  = 3.14] |     |     |     |     |     |
-| -------------- | ----------- | ---------- | --- | --- | --- | --- | --- |
+| b/' L kf/ u5 { | xfn] f < [  | π  = 3.14] | | | | | |
 cfwf/sf ] kl/lw 157 ft. ePsf ] jQ[ fsf/ ejgsf ] Jof; slt xfn] f < [  π
-| 5.  |     |     |     |     |     |  = 3.14] |     |
-| --- | --- | --- | --- | --- | --- | -------- | --- |
 6. Pp6f jQ[ fsf/ g;/{ Lsf ] Jof; 56 m. 5 . To;nfO { aflx/af6 jl/kl/ af/ nufpg slt ld6/
 tf/ rflxPnf, olb 704 m. tf/ pknAw 5 eg ] slt k6s jl/kl/ tf/ af/ nufpg ;lsPnf <
  22
-|  |    |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|    | 7  |     |     |     |     |     |     |
+|  |  | | | | | | |
+|  | 7  | | | | | | |
 Pp6f df]6/;fOsnsf] rSsf 150  rSs/ nufp“bf 396 ld= b'/L kf/ u5{ eg] pSt
-7.
  22
-| df6] /;fOsnsf ] | rSsfsf ] | Jof; slt xfn] |     | f <   |    |     |     |
-| --------------- | -------- | ------------- | --- | -------- | --- | --- | --- |
-|                 |          |               |     |         | 7  |     |     |
+| df6] /;fOsnsf ] | rSsfsf ] | Jof; slt xfn] | | f <   |  | | |
+| | | | |  | 7  | | |
 Pp6f an] gfsf/ sf7sf ] 7s] Lsf ] jl/kl/ 3 kmGsfd] f tf/n ] afW“ bf 132 inch nfdf ] tf/ rflxG5
-8.
-|               |                             |     |          |  22 |     |     |     |
-| ------------- | --------------------------- | --- | -------- | ----- | --- | --- | --- |
-| eg]           | pSt 7s] Lsf ] Jof; slt xfn] |     | f <   |      |     |     |     |
-|               |                             |     |          |  7  |     |     |     |
-| 4.2. jQ[ sf ] | Ifq] kmn  (Area of circle)  |     |          |       |     |     |     |
-4
-|     |     |     |     |     |     | 3   | 5 6 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | |  22 | | | |
+| eg] | pSt 7s] Lsf ] Jof; slt xfn] | | f <   |  | | | |
+| | | | |  7  | | | |
+| 4.2. jQ[ sf ] | Ifq] kmn  (Area of circle)  | | | | | | |
 ljm|ofsnfk 3
-|     |     |     |     |     |     | 2   | 7 P |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-8
-1
+| | | | | | | 2 | 7 P |
 cwJ{ of; OP ePsf ] jQ[ sf ] Jof;nfO { cfwf/ dfg/]  jQ[ nfO { a/fa/ 16
-|     |     |     |     |     |     | 16  | 9   |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-o
 efudf ljefhg u/ / 1 bl]v 16 gDa/ lbg ] lrqdf bv] fP h:t } Jof;af6
-|     |     |     |     |     |     | 15  | 10  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 dflysf efux¿df km/s /ªn ] /ªu\ fpm . To;kl5 sr“} Lsf ] ;xfotfn ] 14 11
-|     |     |     |     |     |     | 16  | 13 12 |
-| --- | --- | --- | --- | --- | --- | --- | ----- |
 cf6] f efunfO { sf6 . ;a } sfl6;sk] l5 Pp6f kl5 csf {] ub {} 15 6j' m|fx¿nfO{
 lrq g+= !
 lrqdf bv] fP em}“ ldnfpm . To;kl5 clGtd 6j' m|fnfO { a/fa/ bO'  { efudf
 ljefhg u/ / lrq g=+  2 sf ] h:t } bj'  } k6l\6 ldnfP/ /fv . o;/L Pp6f jQ[ nfO { cfotfsf/ ¿kdf
 ldnfpg ;lsG5 .
-| h;df, nDafO (l) =  kl/lwsf ] |     | cfwf |     | 1 2 | 3 4 | 5 6 | 7 8 |
-| ---------------------------- | --- | ---- | --- | --- | --- | --- | --- |
-1
-|     |     |     |     | 9   | 10 11 | 12 13 | 14 15 |
-| --- | --- | --- | --- | --- | ----- | ----- | ----- |
-=   2rr
-2
+| h;df, nDafO (l) =  kl/lwsf ] | | cfwf | | 1 2 | 3 4 | 5 6 | 7 8 |
+= 2rr
 lrq g+= @
-| rf8} fO (b) = jQ[ | sf ]                                    | cwJ{ of;  = r 5 . |     |        |     |     |     |
-| ----------------- | --------------------------------------- | ----------------- | --- | ------ | --- | --- | --- |
-| ca, xfdLnfO {     | yfxf 5,                                 |                   |     |        |     |     |     |
-| cfotsf ]          | Ifq] kmn (A) = nDafO (l) x rf8} |                   |     | fO (b) |     |     |     |
-π
-=    r × r
+| rf8} fO (b) = jQ[ | sf ] | cwJ{ of;  = r 5 . | | | | | |
+| ca, xfdLnfO { | yfxf 5, | | | | | | |
+| cfotsf ] | Ifq] kmn (A) = nDafO (l) x rf8} | | | fO (b) | | | |
+= r × r
 π r2 ju { PsfO
-=
-| To;n}  ] jQ[         | sf ] Ifq] kmn (A) =   | π  r2 ju { | PsfO |     |     |     |     |
-| -------------------- | --------------------- | ---------- | ---- | --- | --- | --- | --- |
-| xfdf| ]ul0ft, sIff * |                       |            |      |     |     |     | 41  |
-
-d
-| xfdLnfO { yfxf 5, jQ[ | sf ] | cwJ{ of; Jof;sf ] | cfwf xG' 5 . r |     |     |
-| --------------------- | ---- | ----------------- | --------------- | --- | --- |
-2
-2
+| To;n}  ] jQ[ | sf ] Ifq] kmn (A) = | π  r2 ju { | PsfO | | | | |
+| xfdf| ]ul0ft, sIff * | | | | | | | 41  |
+| xfdLnfO { yfxf 5, jQ[ | sf ] | cwJ{ of; Jof;sf ] | cfwf xG' 5 . r | | |
 d
-| t;y{, | A  |     |     |     |     |
-| ----- | ------ | --- | --- | --- | --- |
+| t;y{, | A  | | | | |
 2
 d2
-|   A |  ju { PsfO |     |     |     |     |
-| ---- | ---------- | --- | --- | --- | --- |
-4
+| A |  ju { PsfO | | | | |
 pbfx/0f 3
 olb Pp6f jQ[ sf ] Jof; 12cm 5 eg ] pSt jQ[ sf ] Ifq] kmn slt xfn] f < ( π
- = 3.14)
 ;dfwfg
-| oxf,“ jQ[ sf ] | Jof; (d) = 12 cm. |     |     |     |     |
-| -------------- | ----------------- | --- | --- | --- | --- |
+| oxf,“ jQ[ sf ] | Jof; (d) = 12 cm. | | | | |
 d 12
 cwJ{ of; r
  6cm
-2 2
-| ca, xfdLnfO { | yfxf 5 . jQ[ | sf ] Ifq] kmn (A)=   | π  r2  ju { PsfO |     |     |
-| ------------- | ------------ | -------------------- | ---------------- | --- | --- |
+| ca, xfdLnfO { | yfxf 5 . jQ[ | sf ] Ifq] kmn (A)= | π  r2  ju { PsfO | | |
 6cm
 7 cm
-|     |     |     | = 3.14 × 6× 6 cm2 | O   |     |
-| --- | --- | --- | ----------------- | --- | --- |
+| | | | = 3.14 × 6× 6 cm2 | O | |
 = 113.04 cm2
 pbfx/0f 4
-lbOPsf ] lrqdf 5fof kfl/Psf ] efusf ] Ifq] kmn kQf nufpm . ( π  = 3.14)
+lbOPsf ] lrqdf 5fof kfl/Psf ] efusf ] Ifq] kmn kQf nufpm . ( π  = 3.14
 ;dfwfg
-| oxf,“ ABCD Pp6f ju { |      | xf ] . h;df AB = BC = 14 cm 5 . |     |     |     |
-| -------------------- | ---- | ------------------------------- | --- | --- | --- |
-| ca, ju { ABCD sf ]   | Ifq] | kmn (A                          |     | A   | B   |
-) = l2 = (14)2 cm2
-1
+| oxf,“ ABCD Pp6f ju { | | xf ] . h;df AB = BC = 14 cm 5 . | | | |
+| ca, ju { ABCD sf ] | Ifq] | kmn (A | | A | B |
+= l2 = (14)2 cm2
 = 14 × 14 cm2
 = 196 cm2
-| kml]/ oxf “ | lrqdf 4 cf6] | f Ps rfy} fO jQ[ | x¿ 5g \ . |     |     |
-| ----------- | ------------ | ---------------- | --------- | --- | --- |
-|             |              |                  |           | D   | C   |
+| kml]/ oxf “ | lrqdf 4 cf6] | f Ps rfy} fO jQ[ | x¿ 5g \ . | | |
+| | | | | D | C |
 14 cm
-14
-| h;df cwJ{ | of; (r) | 7cm 5 . |     |     |     |
-| --------- | -------- | -------- | --- | --- | --- |
-2
-1
+| h;df cwJ{ | of; (r) | 7cm 5 . | | | |
 r2
-| t;y { Ps rfy} | fO jQ[ sf ] | Ifq] kmn  |  ju { PsfO |     |     |
-| ------------- | ----------- | ---------- | ---------- | --- | --- |
-4
+| t;y { Ps rfy} | fO jQ[ sf ] | Ifq] kmn  |  ju { PsfO | | |
 1 (3.14)77cm2
-
-4
-1
  (153.86)cm2
-4
-| 42  |     |     |     | xfdf| ]ul0ft, sIff * |     |
-| --- | --- | --- | --- | -------------------- | --- |
-
-1
+| 42  | | | | xfdf| ]ul0ft, sIff * | |
 To:t,} 4 cf6] f rfy} fO jQ[ x¿sf ] hDdf Ifq] kmn (A ) = 4  (153.86) cm2
-2 4
 = 153.86 cm2
 | ca, 5fof kfl/Psf ] | efusf ] | Ifq] kmn (A) | = A  - A |
-| ------------------ | ------- | ------------ | -------- |
-1 2
 = (196 - 153.86) cm2
 = 42.14 cm2
 pbfx/0f 5
 olb Pp6f jQ[ fsf/ kf8} L kfv] /Lsf ] kl/lw 125.6 m 5 eg ] pSt kfv] /Lsf ] lkw“ sf ] cwJ{ of; / Ifq] kmn
-| kQf nufpm . ( | π  = 3.14) |     |     |
-| ------------- | ---------- | --- | --- |
+| kQf nufpm . ( | π  = 3.14) | | |
 ;dfwfg
-x
-| oxf “ jQ[ fsf/ kfv] | /Lsf ] kl/lw (C) = 125. 6 m |     |     |
-| ------------------- | --------------------------- | --- | --- |
+| oxf “ jQ[ fsf/ kfv] | /Lsf ] kl/lw (C) = 125. 6 m | | |
 cwJ{ of; (r) = ?
 ca, kl/lw (C) = 125.6 m
-| cyjf, 2 π r = 125.6 m  [∴ c = 2 |     | π   |     |
-| ------------------------------- | --- | --- | --- |
-r]
+| cyjf, 2 π r = 125.6 m  [∴ c = 2 | | π | |
+r
 cyjf, 2 × 3.14 × r = 125.6
-125.6
-| cyjf, r | m20m |     |     |
-| -------- | ----- | --- | --- |
+| cyjf, r | m20m | | |
 23.14
-| t;y,{ jQ[ sf ] | cwJ{ of; (r) = 20 m |     |     |
-| -------------- | ------------------- | --- | --- |
+| t;y,{ jQ[ sf ] | cwJ{ of; (r) = 20 m | | |
 cyf{t,
-| kfv] /Lsf ] cwJ{      | of; (r) = 20 m |                   |                |
-| --------------------- | -------------- | ----------------- | -------------- |
-| kml]/ jQ[ fsf/ kfv]   | /Lsf ] lkw“    | sf ] Ifq] kmn = ? |                |
-| xfdLnfO { yfxf 5, jQ[ | sf ] Ifq]      | kmn (A) =         | π r2 ju { PsfO |
-    = 3.14 × 20 × 20 m2
-    = 1256m2
+| kfv] /Lsf ] cwJ{ | of; (r) = 20 m | | |
+| kml]/ jQ[ fsf/ kfv] | /Lsf ] lkw“ | sf ] Ifq] kmn = ? | |
+| xfdLnfO { yfxf 5, jQ[ | sf ] Ifq] | kmn (A) = | π r2 ju { PsfO |
+= 3.14 × 20 × 20 m2
+= 1256m2
 xfdf| ]ul0ft, sIff * 43
-
 cEof; 4.2
-kmn kQf nufpm M[πππππ = 3.14]
-| 1. tnsf jQ[ x¿sf ]   | Ifq]              |                  |             |
-| -------------------- | ----------------- | ---------------- | ----------- |
-| -s_ cwJ{ of; = 3 cm. | -v_ Jof; = 5 cm.  | -u_ cwJ{         | of; = 8 ft. |
-| -3_ Jof; = 12 inch   | -ª_ Jof; = 18m.   | -r_ Jof; = 20km. |             |
-| -5_ Jof; = 15 mm     | -h_ Jof; = 22 cm. | -em_ cwJ{        | of; = 16 yd |
-π
-2. olb Pp6f jQ[ fsf/ sf7] fsf ] Jof; 14 ld6/ 5 eg ] pSt sf7] fsf ] Ifq] kmn slt xfn] f <[  = 3.14]
-| lgDg lnlvt kl/lw ePdf jQ[ | sf ] Ifq] kmn kQf nufpm M [ | π             |     |
-| ------------------------- | --------------------------- | ------------- | --- |
-| 3.                        |                             |   = 3.14]     |     |
-| -s_ 34.54 cm              | -v_ 65.94m                  | -u_ 1884 inch |     |
-| -3_ 113.04m               | -ª_ 376.80 ft.              |               |     |
+kmn kQf nufpm M[πππππ = 3.14
+| 1. tnsf jQ[ x¿sf ] | Ifq] | | |
+| -s_ cwJ{ of; = 3 cm. | -v_ Jof; = 5 cm.  | -u_ cwJ{ | of; = 8 ft. |
+| -3_ Jof; = 12 inch | -ª_ Jof; = 18m. | -r_ Jof; = 20km. | |
+| -5_ Jof; = 15 mm | -h_ Jof; = 22 cm. | -em_ cwJ{ | of; = 16 yd |
+2. olb Pp6f jQ[ fsf/ sf7] fsf ] Jof; 14 ld6/ 5 eg ] pSt sf7] fsf ] Ifq] kmn slt xfn] f <[  = 3.14
+| lgDg lnlvt kl/lw ePdf jQ[ | sf ] Ifq] kmn kQf nufpm M [ | π | |
+| -s_ 34.54 cm | -v_ 65.94m | -u_ 1884 inch | |
+| -3_ 113.04m | -ª_ 376.80 ft. | | |
 4. Pp6f an] gfsf/ srf/} fsf ] cfwf/sf ] Jof; 9cm eP pSt srf/} fsf ] cfwf/sf ] ;txsf ] Ifq] kmn
-| slt xG' 5 < ( π  = 3.14)       |              |             |     |
-| ------------------------------ | ------------ | ----------- | --- |
-| 5. tnsf lrqx¿df 5fof kfl/Psf ] | efusf ] Ifq] | kmn lgsfn M |     |
-| -s_                            | -v_          | -u_         | -3_ |
+| slt xG' 5 < ( π  = 3.14) | | | |
+| 5. tnsf lrqx¿df 5fof kfl/Psf ] | efusf ] Ifq] | kmn lgsfn M | |
+| -s_ | -v_ | -u_ | -3_ |
 28 cm
 12 ft.
 8cm
 6. Pp6f an] gfsf/ 6o\ fªs\ Lsf ] lkw“ sf ] Ifq] kmn 154 ju { lkm6 5 eg ] pSt 6o\ fªs\ Lsf ] kl/lw
-| / cwJ{ of; kQf nufpm .   |  22 |     |     |
-| --------------------------- | ----- | --- | --- |
-
+| / cwJ{ of; kQf nufpm .   |  22 | | |
  7 
 7. Pp6f 153.86 m2 Ifq] kmn ePsf ] jQ[ fsf/ vn]  db} fgnfO { 9nfg ul/of ] eg ] pSt db} fgsf ] 9nfg
 u/s] f ] efusf ] Jof; slt xfn] f / pSt db} fgsf ] 9nfgsf ] 3/] f slt ld6/ xfn] f <
-8. zldn{ fn ] 5cm cwJ{ of; ePsf ] Pp6f jQ[  lvlrg \ . To;u} /L ks| fzn ] klg 7cm cwJ{ of; ePsf]
+8. zldn{ fn ] 5cm cwJ{ of; ePsf ] Pp6f jQ[  lvlrg \ . To;u} /L ks| fzn ] klg 7cm cwJ{ of; ePsf
 csf {] jQ[  lvr ] . ca s;n ] lvrs] f ] jQ[ sf ] Ifq] kmn w/]  } 5 / sltn ] w/]  } 5 <
-9. cfkmg\ f ] sfkLdf Pp6f 7.5 cm cwJ{ of; ePsf ] jQ[  lvr/]  /ª nufpm . To;kl5 /ªu\ fPsf]
+9. cfkmg\ f ] sfkLdf Pp6f 7.5 cm cwJ{ of; ePsf ] jQ[  lvr/]  /ª nufpm . To;kl5 /ªu\ fPsf
 efusf ] Ifq] kmn lgsfn .
-| 44  |     |     | xfdf| ]ul0ft, sIff * |
-| --- | --- | --- | -------------------- |
-
+| 44  | | | xfdf| ]ul0ft, sIff * |
 kf7
-5
-| 7f;] |  cfsl[ | tx¿  |     |     |
-| ---- | ------ | ---- | --- | --- |
-(Solid Shapes)
-kg' /jnfs] g (Review)
-5.0
+| 7f;] |  cfsl[ | tx¿  | | |
+Solid Shapes
+kg' /jnfs] g (Review
 -s_
 -v_
-| ;u“ s} f ] tflnsfdf x/]      |  / lbOPsf |                    |     |     |
-| ---------------------------- | --------- | ------------------ | --- | --- |
-| kZ| gx¿sf af/d] f 5nkmn u/ M |           |                    |     |     |
-| != tflnsf -s_ df s:tf ks|    |           | f/sf               |     |     |
-| cfsl[tx¿ 5g \                | <         |                    |     |     |
-| @= tflnsf -v_ df s:tf ks|    |           | f/sf cfsl[tx¿ 5g \ |     | <   |
+| ;u“ s} f ] tflnsfdf x/] |  / lbOPsf | | | |
+| kZ| gx¿sf af/d] f 5nkmn u/ M | | | | |
+| != tflnsf -s_ df s:tf ks| | | f/sf | | |
+| cfsl[tx¿ 5g \ | < | | | |
+| @= tflnsf -v_ df s:tf ks| | | f/sf cfsl[tx¿ 5g \ | | < |
 #= tflnsf -s_ / -v_ df ePsf cfsl[tx¿sf ] gfdsf ] ;r" L agfpm .
-| $= tflnsf -s_ / -v_ sf cfsl[tx¿lar s ] |     |     | km/s 5 < |     |
-| -------------------------------------- | --- | --- | -------- | --- |
-dflysf ] tflnsfdf -s_ df ;a } ;dtnLo cfsl[t (Plane Shapes) 5g \ eg ] tflnsf -v_ df 7f;]
+| $= tflnsf -s_ / -v_ sf cfsl[tx¿lar s ] | | | km/s 5 < | |
+dflysf ] tflnsfdf -s_ df ;a } ;dtnLo cfsl[t (Plane Shapes) 5g \ eg ] tflnsf -v_ df 7f;
 cfsl[tx¿ /xs] f 5g \ . h;cGtut{  3g (Cube), if8d\ v' f (cuboid), an] gf (Cylinder), ufn] f (Sphere),
 ;fn] L (Cone) sf af/ ] cl3Nnf ] sIffdf g } cWoog u¥of“ } . ca xfdL lqeh' sf/ lkH| d / lk/fld8x¿sf
-| af/d] f cWoog u/f“ } . |     |     |     |     |
-| ---------------------- | --- | --- | --- | --- |
-5.1 lqeh' fsf/ lkH| d / lk/fld8 (Triangular Prism and Pyramid)
-| -s_ lqeh' fsf/ lkH| | d (Triangular Prism) |     |     |     |
-| ------------------- | -------------------- | --- | --- | --- |
+| af/d] f cWoog u/f“ } . | | | | |
+5.1 lqeh' fsf/ lkH| d / lk/fld8 (Triangular Prism and Pyramid
+| -s_ lqeh' fsf/ lkH| | d (Triangular Prism) | | | |
 sf8 { af8] d{ f Pp6f 12 cm nDafO / 8 cm rf8} fO ePsf ] cfot agfpm . lrqdf bv] fP h:t}
-nDafOtkma{ f6 a/fa/ tLg efudf ljefhg u/ . To;kl5 lrqdf bv] fP h:t } larsf]
-| efusf ] tn / dfly ;dafx ' |                | lqeh' |     |     |
-| ------------------------- | -------------- | ----- | --- | --- |
-| agfpm . sr“} Ln ]         | pSt cfsl[tnfO{ |       |     |     |
-| sf6 / /v] fx¿af6 k6o\     |                | fpm . |     |     |
-
-| s:tf ] cfsl[t aGof,] x/] |                     | L tnsf kZ| gsf ] | pQ/ nv] |  M  |
-| ------------------------ | ------------------- | ---------------- | ------- | --- |
-| -s_ o;df sltcf6]         | f lqeh'             | fsf/ ;tx 5g \    | <       |     |
-| -v_ o;df sltcf6]         | f cfotfsf/ ;tx 5g \ |                  | <       |     |
-| -u_ o;sf ] gfd s ]       | xfn]                | f <              |         |     |
+nDafOtkma{ f6 a/fa/ tLg efudf ljefhg u/ . To;kl5 lrqdf bv] fP h:t } larsf
+| efusf ] tn / dfly ;dafx ' | | lqeh' | | |
+| agfpm . sr“} Ln ] | pSt cfsl[tnfO{ | | | |
+| sf6 / /v] fx¿af6 k6o\ | | fpm . | | |
+| s:tf ] cfsl[t aGof,] x/] | | L tnsf kZ| gsf ] | pQ/ nv] |  M  |
+| -s_ o;df sltcf6] | f lqeh' | fsf/ ;tx 5g \ | < | |
+| -v_ o;df sltcf6] | f cfotfsf/ ;tx 5g \ | | < | |
+| -u_ o;sf ] gfd s ] | xfn] | f < | | |
 xfdf| ]ul0ft, sIff * 45
-
-| o;/L bO' | c{ f6] f ;dfgfGt/ lqeh' |     | fsf/ cfsl[tx¿ / tLgcf6] |     |     | f   |
-| -------- | ----------------------- | --- | ----------------------- | --- | --- | --- |
+| o;/L bO' | c{ f6] f ;dfgfGt/ lqeh' | | fsf/ cfsl[tx¿ / tLgcf6] | | | f |
 A B
-| cfotfsf/ cfsl[tx¿ ldn/] |     |  ags] | f 7f;] |  cfsl[tnfO { | lqeh' | fsf/ |
-| ----------------------- | --- | ----- | ------ | ------------ | ----- | ---- |
+| cfotfsf/ cfsl[tx¿ ldn/] | |  ags] | f 7f;] |  cfsl[tnfO { | lqeh' | fsf/ |
 lkH| d (Triangular Prism)  elgG5 . ;u“ s} f ] lrqdf ADF /  BCE C
-D
-| lqeh' fsf/ ;tx xg' |     |  \ eg ] ABCD, CDFE /  ABEF cfotfsf/ |     |     |     |     |
-| ------------------ | --- | ----------------------------------- | --- | --- | --- | --- |
+| lqeh' fsf/ ;tx xg' | |  \ eg ] ABCD, CDFE /  ABEF cfotfsf/ | | | | |
 F E
-| ;tx xg' |  \ . To; sf/0f of ] | lqeh' | fsf/ lkH| | d xf ] | .   |     |
-| ------- | ------------------- | ----- | --------- | ------ | --- | --- |
--v_ lk/fld8 (Pyramid)
+| ;tx xg' |  \ . To; sf/0f of ] | lqeh' | fsf/ lkH| | d xf ] | . | |
+-v_ lk/fld8 (Pyramid
 h;'  kfOkx¿ jf l;Gsfx¿ ko| fu]  u//]  Pp6f lgoldt k~reh'  tof/ kf/ .
 To;kl5 a/fa/ gfksf kfr“ cf6] f kfOksf 6j' m|f jf l;Gsfx¿ np] m / Ps
 5p]  k~reh' sf ] zLifl{aGbd' f / csf {] 5p] x¿nfO { dfly lrqdf bv] fP em“} Ps}
-7fpd“ f kg {] u/L hf8]  o;/L s:tf ] cfsl[t tof/ xG' 5 x/]  / lbOPsf kZ| gx¿sf]
+7fpd“ f kg {] u/L hf8]  o;/L s:tf ] cfsl[t tof/ xG' 5 x/]  / lbOPsf kZ| gx¿sf
 pTt/ kQf nufpm .
-| -s_ o;df slt cf6] |                    | f lqeh'      | fsf/ ;tx 5g \ |     | <   |     |
-| ----------------- | ------------------ | ------------ | ------------- | --- | --- | --- |
-| -v_ o;sf ]        | cfwf/df cfsl[t sg' |              |  cfsf/sf ]    |     | 5 < |     |
-| -u_ cfsl[tsf ]    |                    | gfd s ] xfn] | f <           |     |     |     |
+| -s_ o;df slt cf6] | | f lqeh' | fsf/ ;tx 5g \ | | < | |
+| -v_ o;sf ] | cfwf/df cfsl[t sg' | |  cfsf/sf ] | | 5 < | |
+| -u_ cfsl[tsf ] | | gfd s ] xfn] | f < | | | |
 sg'  } Pp6f axe' h'  cfwf/ ePsf ] / cGo ;txx¿ lqeh' fsf/ ePsf ] HofldtLo 7f;]  cfsl[tnfO{
 lk/fld8 (pyramid) elgG5 . cfwf/sf ] axe' hsf ] eh' fsf ] ;ªV\ ofcg;' f/ o;sf ] gfd klg km/s
 xG' 5 .
@@ -2450,471 +992,246 @@ xG' 5 .
 – obL cfwf/ jufs{ f/ eP o;nfO { jufw{ f/ lk/fld8 (square based pyramid)  elgG5 .
 – cfwf/ k~reh'  eP k~reh' fwf/ lk/fld8 (pentagonal based pyramid) elgG5 .
 – cfwf/ if6e\ h'  eP if6e\ h' fwf/ lk/fld8 (hexagonal based pyramid)  elgG5 .
-pbfx/0f     1
-O
+pbfx/0f 1
 lbOPsf ] if6e\ h' fwf/ lk/fld8sf cfwf/ / cGo ;txx¿sf ] gfd nv]  .
 ;dfwfg
-| if6e\ h' fwf/ lk/fld8sf ] |        | cfwf/ if7e\          | h' f ABCDEF xf ] |     | / o;sf cGo |     |
-| ------------------------- | ------ | -------------------- | ---------------- | --- | ---------- | --- |
-| ;txx¿ lqeh'               | x¿ xG' | 5g \ / ltgLx¿ o; ks| |                  |     | f/ 5g \ M  |     |
-A
-B
+| if6e\ h' fwf/ lk/fld8sf ] | | cfwf/ if7e\ | h' f ABCDEF xf ] | | / o;sf cGo | |
+| ;txx¿ lqeh' | x¿ xG' | 5g \ / ltgLx¿ o; ks| | | | f/ 5g \ M  | |
 AOB, ΔBOC, ΔCOD, ΔDOE, ΔFOF / ΔFOA
-F
-C
 E D
 46 xfdf| ]ul0ft, sIff *
-
 cEof; 5.1
-| 1. lbOPsf 7f;] |  cfsl[ | tx¿sf ] gfd nv] |  M  |      |     |
-| -------------- | ------ | --------------- | --- | ---- | --- |
-| -s_            |        | -v_             |     | -u_  |     |
-| -3_            |        |                 | -ª_ | -r_  |     |
-| -5_            |        | -h_             |     | -em_ |     |
+| 1. lbOPsf 7f;] |  cfsl[ | tx¿sf ] gfd nv] |  M  | | |
+| -s_ | | -v_ | | -u_  | |
+| -3_ | | | -ª_ | -r_  | |
+| -5_ | | -h_ | | -em_ | |
 @= tn lbOPsf lkH| d / lk/fld8sf ] cfwf/ / cGo ;txx¿sf ] gfd nv]  M
-B
-A
-| -s_ |     | -v_ | O   | -u_ |     |
-| --- | --- | --- | --- | --- | --- |
-C
-A
-| B   | C   |     |     |     |     |
-| --- | --- | --- | --- | --- | --- |
-|     |     |     | P Q |     |     |
-P
-D
-E
-|                  |                                    |     | S R |     |     |
-| ---------------- | ---------------------------------- | --- | --- | --- | --- |
-| R                | Q                                  |     |     |     |     |
-| 5.2. 7f;]  cfsl[ | tsf hfnLx¿ (Nets of solid figures) |     |     |     | F   |
+| -s_ | | -v_ | O | -u_ | |
+| B | C | | | | |
+| | | | P Q | | |
+| | | | S R | | |
+| R | Q | | | | |
+| 5.2. 7f;]  cfsl[ | tsf hfnLx¿ (Nets of solid figures) | | | | F |
 Pp6f rssf ] a66\ f jf d;Lsf ] a66\ f np] m . lrqdf bv] fOP em“} o;nfO { vfn]  .
-ud nufpg]
-12345678
-12345678
+ud nufpg
 7fp“
-|     |     |     | 1234567890123456789012345 1234567890123456789012345 | 12  |     |
-| --- | --- | --- | --------------------------------------------------- | --- | --- |
-12
-12 12
-12
-12 12
-12
-|     |     |     |     | 12 12 12 |     |
-| --- | --- | --- | --- | -------- | --- |
-12
-12 12
-12
-12 12
-| -s_ |     |       -v_ |     | 1 2 -u_ |     |
-| --- | --- | --------- | --- | ------- | --- |
-1 2
-| lrq -s_ / lrq -u_ df s ] |     | km/s 5, nv] |  .  |     |     |
-| ------------------------ | --- | ----------- | --- | --- | --- |
+| -s_ | | -v_ | | 1 2 -u_ | |
+| lrq -s_ / lrq -u_ df s ] | | km/s 5, nv] |  .  | | |
 oxf,“ lrq -s_ 7f;]  cfsl[t -3g_ xf ] eg ] lrq -u_ lrq -s_ sf ] ;dtnLo cfsl[t xf ] .
 o;/L sg'  } klg 7f;]  cfsl[tnfO { ;dtnLo cfsl[tdf ¿kfGt/0f ug { ;lsG5 . pSt ;dtnLo cfsl[tnfO{
-| g } lbOPsf ] 7f;]    |  cfsl[tsf ] | hfnL (Net) elgG5 . |     |     |     |
-| -------------------- | ----------- | ------------------ | --- | --- | --- |
-| xfdf| ]ul0ft, sIff * |             |                    |     |     | 47  |
-
+| g } lbOPsf ] 7f;] |  cfsl[tsf ] | hfnL (Net) elgG5 . | | | |
+| xfdf| ]ul0ft, sIff * | | | | | 47  |
 tnsf ] tflnsfdf sx] L 7f;]  cfsl[tx¿ / ltgLx¿sf hfnLx¿ lbOPsf 5g \ M
-|    cfsl[ tsf ] | gfd | lrq |     | hfnL (nets) |     |
-| -------------- | --- | --- | --- | ----------- | --- |
-12345
-12345
-| 3g (cube) |     |     |     | 1234567890123 | 1   |
-| --------- | --- | --- | --- | ------------- | --- |
-1
-1 1
-1
-|     |     |     |     | 12 12 | 1   |
-| --- | --- | --- | --- | ----- | --- |
-12
-12 12
-12
-12345678901234567
-1212345678901234567 12
-12
-12 12
-12
-|     |     |     |     | 12 12 12 12 | 1234567 |
-| --- | --- | --- | --- | ----------- | ------- |
-12
-| if6d\ v' f (Cuboid) |     |     |     | 12  | 1   |
-| ------------------- | --- | --- | --- | --- | --- |
-1
-1 1
-1
-1 1
-12345678901
-123456 123456 12345678901
-123456
-123456
-123456 123456
-123456
-123456 123456 123456
-| 66] f«x8] g«  (tetrahedron) |     |     |     | 123456 | 1 2 3 4 5 6        |
-| --------------------------- | --- | --- | --- | ------ | ------------------ |
-|                             |     |     |     |        | 1 123456 2 3 4 5 6 |
-123456
-123456 123456
-123456
-123456 123456
-;fn] L (Cone)
-123456789012345678901234
-123456789012345678901234
-an] gf (Cylinder)
-| cEof;                   |  5.2 |                      |            |     |     |
-| ----------------------- | ---- | -------------------- | ---------- | --- | --- |
-| 1. tn lbOPsf hfnLx¿ sg' |      |  7f;]  cfsl[ tsf xg' | ,\  nv]  M |     |     |
-| -s_                     |      | -v_                  | 123456     | -u_ |     |
-123456 12345678901 12345678901
-123456
-|     | 123456 123456               |       | 12 12        |     |     |
-| --- | --------------------------- | ----- | ------------ | --- | --- |
-|     | 123456                      |       | 12           |     |     |
-|     | 123456 123456               |       | 12 12 123456 |     |     |
-|     | 123456                      | 12    | 12 123456    |     |     |
-|     | 123456 123456 123456 123456 | 12 12 | 12 12        |     |     |
-|     | 123456                      | 12    | 12           |     |     |
-|     | 123456 123456               | 12    | 12 12        |     |     |
-|     | 123456                      |       | 12           |     |     |
-|     | 123456 123456               |       | 12 12        |     |     |
-123456
-123456
-| 48  |     |     |     |     | xfdf| ]ul0ft, sIff * |
-| --- | --- | --- | --- | --- | -------------------- |
-
-123456789
-|     |       |     | 12                |     | 11223456789 12 |              |       |
-| --- | ----- | --- | ----------------- | --- | -------------- | ------------ | ----- |
-|     |       |     | 12                |     | 12             |              |       |
-|     |       |     | 12 12             |     | 12 12          |              |       |
-| -3_ |       | -ª_ | 1 2               | -r_ | 1 2            |              |       |
-|     | 12    |     | 12 1 12 2 1234567 |     | 1 12 2         |              |       |
-|     | 12    |     | 12                |     | 12             | 1234567890   |       |
-|     | 12 12 |     | 12 12             |     | 12             | 1234567890   |       |
-|     | 12    |     | 12                |     |                |              |       |
-|     | 12 12 |     | 12 12             |     |                |              |       |
-|     | 12    |     | 12                |     |                |              |       |
-|     | 12 12 |     | 12 12             |     |                |              |       |
-|     | 12    |     | 12                |     |                |              | 12    |
-|     | 12 12 |     | 12 12             |     |                |              | 12 12 |
-|     | 12    |     | 12                |     |                |              | 12    |
-|     | 12 12 |     | 12 12             |     |                |              | 12 12 |
-|     | 12    |     | 1122345678        |     |                |              | 12    |
-|     | 12 12 |     | 12345678          |     |                | 123456789102 | 12    |
-|     | 12    |     |                   |     |                | 123456789102 |       |
-1234567890
-1234 1234
-| 2. tnsf 7f;]  |  cfsl[tx¿sf ] | hfnL 6;]« |  u/ M                 |     |           |               |     |
-| ------------- | ------------- | --------- | --------------------- | --- | --------- | ------------- | --- |
-| -s_ 3g (Cube) |               |           | -v_ jn] gf (Cylinder) |     | -u_ if8d\ | v' f (Cuboid) |     |
--3_ ;fn] L (Cone) -ª_ lqeh' fsf/ lk/fld8 (Triangular pyramid)
-3. afSnf ] sfuhsf ] ko| fu]  u/L 3g, if8d\ v' f, 66] f«x8] g, ;fn] L / an] gfsf hfnLx¿ 6;]«  u/ . sr“} Ln]
-| sf6L 7f;] |  cfsl[t agfpm / pSt cfsl[tsf ] |     |     | lrq sfkLdf ptf/ . |     |     |     |
-| --------- | ------------------------------ | --- | --- | ----------------- | --- | --- | --- |
-4. ltdLx¿n ] cfcfkm\gf ] 3/df jf ;db' fodf ePsf jf bv] s] f jf ko| fu]  ub {} cfPsf ljleGg 7f;]
-| cfsl[t ePsf j:tx'    |     | ¿sf ] ;r" | L tof/ kf/ . |     |     |     |     |
-| -------------------- | --- | --------- | ------------ | --- | --- | --- | --- |
-| xfdf| ]ul0ft, sIff * |     |           |              |     |     |     | 49  |
-
+| cfsl[ tsf ] | gfd | lrq | | hfnL (nets) | |
+| 3g (cube) | | | | 1234567890123 | 1 |
+| if6d\ v' f (Cuboid) | | | | 12  | 1 |
+| 66] f«x8] g«  (tetrahedron) | | | | 123456 | 1 2 3 4 5 6 |
+;fn] L (Cone
+an] gf (Cylinder
+| cEof; |  5.2 | | | | |
+| 1. tn lbOPsf hfnLx¿ sg' | |  7f;]  cfsl[ tsf xg' | ,\  nv]  M | | |
+| -s_ | | -v_ | 123456 | -u_ | |
+| 48  | | | | | xfdf| ]ul0ft, sIff * |
+| -3_ | | -ª_ | 1 2 | -r_ | 1 2 | | |
+| 2. tnsf 7f;]  |  cfsl[tx¿sf ] | hfnL 6;]« |  u/ M | | | | |
+| -s_ 3g (Cube) | | | -v_ jn] gf (Cylinder) | | -u_ if8d\ | v' f (Cuboid) | |
+-3_ ;fn] L (Cone) -ª_ lqeh' fsf/ lk/fld8 (Triangular pyramid
+3. afSnf ] sfuhsf ] ko| fu]  u/L 3g, if8d\ v' f, 66] f«x8] g, ;fn] L / an] gfsf hfnLx¿ 6;]«  u/ . sr“} Ln
+| sf6L 7f;] |  cfsl[t agfpm / pSt cfsl[tsf ] | | | lrq sfkLdf ptf/ . | | | |
+4. ltdLx¿n ] cfcfkm\gf ] 3/df jf ;db' fodf ePsf jf bv] s] f jf ko| fu]  ub {} cfPsf ljleGg 7f;
+| cfsl[t ePsf j:tx' | | ¿sf ] ;r" | L tof/ kf/ . | | | | |
+| xfdf| ]ul0ft, sIff * | | | | | | | 49  |
 kf7
-6
-|     |     | lgbz{] | fªs\ | x¿  |     |     |     |     |     |     |
-| --- | --- | ------ | ---- | --- | --- | --- | --- | --- | --- | --- |
-(Co-ordinates)
-| 6.0. kg' /jnfs]    | g (Review)          |     |     |               |     |     |     |     |     |     |
-| ------------------ | ------------------- | --- | --- | ------------- | --- | --- | --- | --- | --- | --- |
-| ;u“ s} f ] lrqsf ] | cWoog u/L lbPsf kZ| |     |     | gsf ] pQ/ bp] |     | m M |     |     |     |     |
-Y
-| -s_ XOX' nfO { | s ] | elgG5 < |     |     |     |     |     |     |     |     |
-| -------------- | --- | ------- | --- | --- | --- | --- | --- | --- | --- | --- |
-B
-| -v_ YOY' nfO { | s ] | elgG5 < |     |     |     |     |     |     |     |     |
-| -------------- | --- | ------- | --- | --- | --- | --- | --- | --- | --- | --- |
-A
-| -u_ laGb '          | O af6 laGb ' | B df kU' | g slt PsfO bfof “ |     |     | uP/ |     |     |     |     |
-| ------------------- | ------------ | -------- | ----------------- | --- | --- | --- | --- | --- | --- | --- |
-| slt PsfO dfly hfgk' |              | 5 {      | .                 |     |     |     | X'  |     |     | X   |
-O
-| -3_ laGb ' | O, A, B, C / D sf lgbz{] |                 |     | fªs\ x¿ s ] | s ] | xg'  \ < |     |     |     |     |
-| ---------- | ------------------------ | --------------- | --- | ----------- | --- | -------- | --- | --- | --- | --- |
-| -ª_ laGb ' | (5,-5) nfO {             | nv] flrqdf cªs\ |     | g u/ .      |     |          |     |     | C   |     |
-D
-| o;/L X–cIf, Y–cIf laGbx' |     | ¿sf ] | lgbz{] | fªs\  kQf nufpg ] |     | /   |     |     |     |     |
-| ------------------------ | --- | ----- | ------ | ----------------- | --- | --- | --- | --- | --- | --- |
+| | | lgbz{] | fªs\ | x¿  | | | | | | |
+Co-ordinates
+| 6.0. kg' /jnfs] | g (Review) | | | | | | | | | |
+| ;u“ s} f ] lrqsf ] | cWoog u/L lbPsf kZ| | | | gsf ] pQ/ bp] | | m M | | | | |
+| -s_ XOX' nfO { | s ] | elgG5 < | | | | | | | | |
+| -v_ YOY' nfO { | s ] | elgG5 < | | | | | | | | |
+| -u_ laGb ' | O af6 laGb ' | B df kU' | g slt PsfO bfof “ | | | uP/ | | | | |
+| slt PsfO dfly hfgk' | | 5 { | . | | | | X'  | | | X |
+| -3_ laGb ' | O, A, B, C / D sf lgbz{] | | | fªs\ x¿ s ] | s ] | xg'  \ < | | | | |
+| -ª_ laGb ' | (5,-5) nfO { | nv] flrqdf cªs\ | | g u/ . | | | | | C | |
+| o;/L X–cIf, Y–cIf laGbx' | | ¿sf ] | lgbz{] | fªs\  kQf nufpg ] | | / | | | | |
 Y'
 laGbx' ¿nfO { nv] flrqdf cªs\ g ug {] tl/sfaf/ ] cl3Nnf sIffx¿df cWoog ul/;ss] f 5f “} . ca xfdL
-| kfOyfuf/] ; ;fWo / bO' |               |  { laGbl'arsf ] |         | b/' Lsf af/d] | f cWoog u5f “{} |     |     | .   |     |     |
-| ---------------------- | ------------- | --------------- | ------- | ------------- | --------------- | --- | --- | --- | --- | --- |
-| 6.1  kfOyfuf/]         | ; ;fWo / ;fs] |                 | f ] ko| | fu]           |                 |     |     |     |     |     |
- (Pythagoras Theorem and its Application)
-| kfOyfuf/] | ; ;fWo (Pythagoras Theorem) |     |     |     |     |     |     |     |     |     |
-| --------- | --------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| kfOyfuf/] ; ;fWo / bO' | |  { laGbl'arsf ] | | b/' Lsf af/d] | f cWoog u5f “{} | | | . | | |
+| 6.1  kfOyfuf/] | ; ;fWo / ;fs] | | f ] ko| | fu] | | | | | | |
+Pythagoras Theorem and its Application
+| kfOyfuf/] | ; ;fWo (Pythagoras Theorem) | | | | | | | | | |
 h;df Α
-| ;dsf0] | f lqeh' |  ABC lvrf “} |     |  ;dsf0] | f   |     |     |     |     |     |
-| ------ | ------- | ------------ | --- | ------- | --- | --- | --- | --- | --- | --- |
-A
+| ;dsf0] | f lqeh' |  ABC lvrf “} | |  ;dsf0] | f | | | | | |
 5 .  AB= 6cm, BC=8cm / AC= 10cm 5 .
 10cm
-| lrqdf bv] | fP h:t }  | tLgcf6]       |  } eh' | fx¿df jux{ | ¿                  |     |     | 6cm |     |     |
-| --------- | --------- | ------------- | ------ | ---------- | ------------------ | --- | --- | --- | --- | --- |
-| lvrf “}   | / kT| os] |  eh' fdf /xs] | f jux{ | ¿sf ]      | Ifq] kmn lgsfnf “} |     | .   |     |     |     |
-C
-|                     |     |      |              |     |              |     |      | B 8cm |     |     |
-| ------------------- | --- | ---- | ------------ | --- | ------------ | --- | ---- | ----- | --- | --- |
-| eh' f AB  df ePsf ] |     | jus{ | f ] Ifq] kmn |     | = (AB)2 ju { |     | PsfO |       |     |     |
+| lrqdf bv] | fP h:t }  | tLgcf6] |  } eh' | fx¿df jux{ | ¿ | | | 6cm | | |
+| lvrf “} | / kT| os] |  eh' fdf /xs] | f jux{ | ¿sf ] | Ifq] kmn lgsfnf “} | | . | | | |
+| | | | | | | | | B 8cm | | |
+| eh' f AB  df ePsf ] | | jus{ | f ] Ifq] kmn | | = (AB)2 ju { | | PsfO | | | |
 =(6cm)2 =36cm2
-| eh' f BC df ePsf ] |     | jus{ | f ] Ifq] kmn |     | = (BC)2  ju { |     | PsfO |     |     |     |
-| ------------------ | --- | ---- | ------------ | --- | ------------- | --- | ---- | --- | --- | --- |
+| eh' f BC df ePsf ] | | jus{ | f ] Ifq] kmn | | = (BC)2  ju { | | PsfO | | | |
 = 64cm2 -lsg <_
-| eh' f AC df ePsf ] |     | jus{ | f ] Ifq] kmn |     | = (AC)2 ju { |     | PsfO |     |     |     |
-| ------------------ | --- | ---- | ------------ | --- | ------------ | --- | ---- | --- | --- | --- |
+| eh' f AC df ePsf ] | | jus{ | f ] Ifq] kmn | | = (AC)2 ju { | | PsfO | | | |
 =100cm2
-| ca,   | (AB)2 + (BC)2 = 36 + 64 = 100cm2 = (AC)2 |     |     |     |     |     |     |                      |     |     |
-| ----- | ---------------------------------------- | --- | --- | --- | --- | --- | --- | -------------------- | --- | --- |
-| t;y { |  AB2 + BC2 = AC2  xG'                    |     | 5 . |     |     |     |     |                      |     |     |
-| 50    |                                          |     |     |     |     |     |     | xfdf| ]ul0ft, sIff * |     |     |
-
-| bf;] | f| ] tl/sf |     |     |     |     |     |
-| ---- | ---------- | --- | --- | --- | --- | --- |
+| ca, | (AB)2 + (BC)2 = 36 + 64 = 100cm2 = (AC)2 | | | | | | | | | |
+| t;y { |  AB2 + BC2 = AC2  xG' | | 5 . | | | | | | | |
+| 50 | | | | | | | | xfdf| ]ul0ft, sIff * | | |
+| bf;] | f| ] tl/sf | | | | | |
 km/s km/s eh' fx¿sf ] gfk ePsf tLgcf6] f ;dsf0] fL lqeh' x¿ lvr M
-| -s_ |     |     |     | -v_ |     | -u_ |
-| --- | --- | --- | --- | --- | --- | --- |
+| -s_ | | | | -v_ | | -u_ |
 ca ?n/ ko| fu]  u/L tLgcf6]  } lqeh' sf eh' fx¿ gfk / tnsf ] tflnsfdf e/ M
- lrq g=+ kl/0ffd
-|     | AB  | AB2 | BC  | BC2 | AC AC2 | AB2 + BC2 |
-| --- | --- | --- | --- | --- | ------ | --------- |
+lrq g=+ kl/0ffd
+| | AB  | AB2 | BC  | BC2 | AC AC2 | AB2 + BC2 |
 -s_
 -v_
 -u_
 dflysf ljm|ofsnfkx¿af6 s ] lgisif { lgsfNg ;lsG5, ;fyLx¿;u“  5nkmn u/ .
-A
 sg'  } klg ;dsf0] fL lqeh' df nDa / cfwf/df aGg ] jus{ f ] Ifq] kmnsf ] ofu] kmn
 pSt lqeh' sf ] s0fd{ f aGg ] jus{ f ] Ifq] kmn;u“  a/fa/ xG' 5 . lrqdf p h
-| AB= p, BC=b / AC= h eP p2 + b2 = h2 xG' |     |     |     |     | 5, /  p, b / h nfO{ |     |
-| --------------------------------------- | --- | --- | --- | --- | ------------------- | --- |
+| AB= p, BC=b / AC= h eP p2 + b2 = h2 xG' | | | | | 5, /  p, b / h nfO{ | |
 B C
-b
 kfOyfufl]/og l6k« N; elgG5 . h:t } M 3, 4, 5 kfOyfufl]/og l6k« N; xg'  \ . -s;/L <_
-| pbfx/0f 1 |     | lbOPsf lrqx¿df x sf ] |     |     | dfg kQf nufpm . |     |
-| --------- | --- | --------------------- | --- | --- | --------------- | --- |
+| pbfx/0f 1 | | lbOPsf lrqx¿df x sf ] | | | dfg kQf nufpm . | |
 24cm
-| -s_ |     |     |     |     | -v_ |     |
-| --- | --- | --- | --- | --- | --- | --- |
-xcm
-xcm
+| -s_ | | | | | -v_ | |
 3cm
 26cm
 4cm
 ;dfwfg
- ;dfwfg
-| oxf“, | p = 3cm |     | b = 4cm |     |     |     |
-| ----- | ------- | --- | ------- | --- | --- | --- |
+;dfwfg
+| oxf“, | p = 3cm | | b = 4cm | | | |
 oxf,“ p = 24cm b = x = ?
 h = x = ?
 h = 26 cm
-| ca, xfdLnfO { |     | yfxf 5, |     |     |     |     |
-| ------------- | --- | ------- | --- | --- | --- | --- |
+| ca, xfdLnfO { | | yfxf 5, | | | | |
 kfOyfuf/] ; ;fWocg;' f/,
-| kfOyfuf/] | ; ;fWocg;' |                     | f/, h2 = p2 + b2  xG' |     | 5 . | h2 = p2 + b2            |
-| --------- | ---------- | ------------------- | --------------------- | --- | --- | ----------------------- |
-|           |            |  cyjf, x2 = 32 + 42 |                       |     |     | cyjf, 262 = 242 + x2    |
-|           |            |  cyjf, x2 = 9 + 16  |                       |     |     | cyjf, x2 = (262 - 242 ) |
-|           |            |  cyjf, x2 = 25      |                       |     |     |  cyjf, x2 = (676 - 576) |
-|           |    cyjf,   |                     | cm = 5 cm             |     |     | cyjf, x2 = 100          |
+| kfOyfuf/] | ; ;fWocg;' | | f/, h2 = p2 + b2  xG' | | 5 . | h2 = p2 + b2 |
+| | |  cyjf, x2 = 32 + 42 | | | | cyjf, 262 = 242 + x2 |
+| | |  cyjf, x2 = 9 + 16  | | | | cyjf, x2 = (262 - 242 ) |
+| | |  cyjf, x2 = 25 | | | |  cyjf, x2 = (676 - 576) |
+| | cyjf, | | cm = 5 cm | | | cyjf, x2 = 100 |
 x 25
 ∴ x = 10cm
- ∴ x = 5cm
+∴ x = 5cm
 xfdf| ]ul0ft, sIff * 51
-
 pbfx/0f 2
 Pp6f 24 ld6/ cUnf ] vDafsf ] 6K' kfaf6 pSt vDafnfO { 6j] f lbgsf nflu 25 ld6/ nfdf ] tf/ hldgdf
 ufl8Psf ] 5 eg ] pSt tf/ ufl8Psf ] :yfg / vDafsf ] kmb] larsf ] b/' L slt xfn] f <
 ;dfwfg
-| oxf,“ vDafsf ] |         | nDafO (p) |     | = 24 ld6/ |     |     |     |
-| -------------- | ------- | --------- | --- | --------- | --- | --- | --- |
-|                | tf/sf ] | nDafO (h) |     | = 25 ld6/ |     |     |     |
+| oxf,“ vDafsf ] | | nDafO (p) | | = 24 ld6/ | | | |
+| | tf/sf ] | nDafO (h) | | = 25 ld6/ | | | |
 25 ld6/ 24 ld6/
-| tf/ / vDafsf ] |     | larsf ] | b/' | L (b)  = ? |     |     |     |
-| -------------- | --- | ------- | --- | ---------- | --- | --- | --- |
- xfdLnfO { yfxf 5, p2+b2 = h2
+| tf/ / vDafsf ] | | larsf ] | b/' | L (b)  = ? | | | |
+xfdLnfO { yfxf 5, p2+b2 = h2
 cyjf, b2 = h2 - p2
-| cyjf, b2 |     | = (25m)2 - (24m2) |     |     |     |     |     |
-| -------- | --- | ----------------- | --- | --- | --- | --- | --- |
+| cyjf, b2 | | = (25m)2 - (24m2) | | | | | |
 = (625- 576) m2
-  b2 =49m2
+b2 =49m2
 ∴ b = 7m
-| ct M vDafsf ] |     | km]b / tf/ ufl8Psf ] |     | :yfglarsf ] | b/' L = 7 ld6/ |     |     |
-| ------------- | --- | -------------------- | --- | ----------- | -------------- | --- | --- |
+| ct M vDafsf ] | | km]b / tf/ ufl8Psf ] | | :yfglarsf ] | b/' L = 7 ld6/ | | |
 cEof; 6.1
-| 1. tnsf ;dsf0] |     | fL lqeh' | x¿df x sf ] | dfg kQf nufpm M |     |     |      |
-| -------------- | --- | -------- | ----------- | --------------- | --- | --- | ---- |
-| -s_            |     |          |             | -v_             | x   | -u_ | 72cm |
+| 1. tnsf ;dsf0] | | fL lqeh' | x¿df x sf ] | dfg kQf nufpm M | | | |
+| -s_ | | | | -v_ | x | -u_ | 72cm |
 13cm
 14cm
 21cm
-x
-x
 48cm
 12cm
-x
-x
 8cm
-| -3_ |     |     |     | -ª_ |     | -r_ |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| -3_ | | | | -ª_ | | -r_ | |
 15ft x
-|     | 6 in |     | 8 in |     | 25ft |     |     |
-| --- | ---- | --- | ---- | --- | ---- | --- | --- |
+| | 6 in | | 8 in | | 25ft | | |
 5cm
-| -5_ |      |     |     | -h_ |     | -em_ | 24cm |
-| --- | ---- | --- | --- | --- | --- | ---- | ---- |
-|     | 15cm |     |     |     | 11m |      |      |
-|     |      |     |     | 8cm | x   |      |      |
+| -5_ | | | | -h_ | | -em_ | 24cm |
+| | 15cm | | | | 11m | | |
+| | | | | 8cm | x | | |
 7cm
-x
-|     |     |     | x   |     | 16m |     |                      |
-| --- | --- | --- | --- | --- | --- | --- | -------------------- |
-| 52  |     |     |     |     |     |     | xfdf| ]ul0ft, sIff * |
-
+| | | | x | | 16m | | |
+| 52  | | | | | | | xfdf| ]ul0ft, sIff * |
 2. kfOyfuf/] ; ;fWo ko| fu]  u//]  tnsf lqeh' x¿ ;dsf0] fL xg'  \ jf xfO] gg \ hfr“ /]  x/]  M
-| -s_ |     |     |     | -v_ |     |     | -u_ |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-3
-|     |     | 4   |     |     |     |     |     | 12  |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-10
-7
-4
-11
-|     |     | 10  |     |     |     | 19  |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| -3_ |     | 3   |     | -ª_ |     |     | -r_ |     |     |
-|     |     |     |     |     |     | 15  |     | 7   |     |
-|     |     | 5   |     |     | 9   |     |     | 5   |     |
-34
-12
-6
-| 3. olb Pp6f cfotsf ] |     | nDafO 8cm / rf8} |                    |     | fO 6cm 5 eg] |     |     |     |     |
-| -------------------- | --- | ---------------- | ------------------ | --- | ------------ | --- | --- | --- | --- |
-| pSt cfotsf ]         |     | ljs0fs{          | f ] nDafO slt xfn] |     | f <          |     |     |     | 6cm |
+| -s_ | | | | -v_ | | | -u_ | | |
+| -3_ | | 3 | | -ª_ | | | -r_ | | |
+| 3. olb Pp6f cfotsf ] | | nDafO 8cm / rf8} | | | fO 6cm 5 eg] | | | | |
+| pSt cfotsf ] | | ljs0fs{ | f ] nDafO slt xfn] | | f < | | | | 6cm |
 8cm
-| ;u“ | s} f ] lrqdf x sf ] | dfg slt xG' |     | 5, kQf nufpm . |     |     |     |     |     |
-| --- | ------------------- | ----------- | --- | -------------- | --- | --- | --- | --- | --- |
-4.
+| ;u“ | s} f ] lrqdf x sf ] | dfg slt xG' | | 5, kQf nufpm . | | | | | |
 12cm
-|     | A   |     |     | D   |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6cm |     |     |     | x   |     |     |     |     |     |
-B
-C
+| | A | | | D | | | | | |
+| 6cm | | | | x | | | | | |
 8cm
-| Pp6f ;dafx ' |     | lqeh' sf ] | kT| os] |  eh' fsf ] | nDafO 6cm 5 eg ] |     | pSt |     |     |
-| ------------ | --- | ---------- | ------- | ---------- | ---------------- | --- | --- | --- | --- |
-5.
-|     |     |     |     |     |     |     |     | 6cm | 6cm |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Pp6f ;dafx ' | | lqeh' sf ] | kT| os] |  eh' fsf ] | nDafO 6cm 5 eg ] | | pSt | | |
+| | | | | | | | | 6cm | 6cm |
 lqeh' sf ] zLifs{ f0] fsf cfwf/df lvlrPsf ] nDasf ] nDafO slt xfn] f <
-A
 10cm
-|                |                      |              |     |        |     |     | 10cm | 6cm |     |
-| -------------- | -------------------- | ------------ | --- | ------ | --- | --- | ---- | --- | --- |
-|                |                      |              |     |        |     | 8cm | 8cm  |     |     |
-|                |                      |              |     |        | B   |     |      | D   |     |
-| 6. lbOPsf ]    | lrqdf ABCD Pp6f rªu\ |              |     | f xf ] | .   |     |      |     |     |
-| h;df  AC  sf ] |                      | dfg slt xfn] |     | f <    |     |     |      |     |     |
+| | | | | | | | 10cm | 6cm | |
+| | | | | | | 8cm | 8cm  | | |
+| | | | | | B | | | D | |
+| 6. lbOPsf ] | lrqdf ABCD Pp6f rªu\ | | | f xf ] | . | | | | |
+| h;df  AC  sf ] | | dfg slt xfn] | | f < | | | | | |
 17cm
 17cm
-C
-7. Pp6f lahn' Lsf ] vDafaf6 tf/ em//]  Ps 5p] n ] hldgdf vDafsf]
-25 ld6/
-| km]bbl]v 7 ld6/ 6f9f laGb ' |           |                                   | A df 5fo]                  |                     | f ] . olb vDafsf ] | 6K'  | kfbl]v |                |     |
-| --------------------------- | --------- | --------------------------------- | -------------------------- | ------------------- | ------------------ | ---- | ------ | -------------- | --- |
-| hldg;Ddsf ]                 |           | tf/sf ] nDafO 25 ld6/ eP vDafsf ] |                            |                     |                    | prfO |        |                |     |
-| slt xfn]                    | f, ;fy }  | csf {] 5p]                        | n ] vDafblv 18m k/ hldgsf] |                     |                    |      | B      |                | A   |
-|                             |           |                                   |                            |                     |                    |      |        | 18 ld6/ 7 ld6/ |     |
-| laGb '                      | B df 5fo] | f ] eg ] tf/sf ]                  |                            | hDdf nDafO slt xfn] |                    | f .  |        |                |     |
-| xfdf| ]ul0ft, sIff *        |           |                                   |                            |                     |                    |      |        |                | 53  |
 
+## 7: Pp6f lahn' Lsf ] vDafaf6 tf/ em//]  Ps 5p] n ] hldgdf vDafsf]  {#ch-7}
+
+25 ld6/
+| km]bbl]v 7 ld6/ 6f9f laGb ' | | | A df 5fo] | | f ] . olb vDafsf ] | 6K'  | kfbl]v | | |
+| hldg;Ddsf ] | | tf/sf ] nDafO 25 ld6/ eP vDafsf ] | | | | prfO | | | |
+| slt xfn] | f, ;fy }  | csf {] 5p] | n ] vDafblv 18m k/ hldgsf] | | | | B | | A |
+| | | | | | | | | 18 ld6/ 7 ld6/ | |
+| laGb ' | B df 5fo] | f ] eg ] tf/sf ] | | hDdf nDafO slt xfn] | | f .  | | | |
+| xfdf| ]ul0ft, sIff * | | | | | | | | | 53  |
 8. tnsf tLg ;ªV\ ofx¿ sg'  kfOyfufl] /og l6k« N; xg'  \ / sg'  xfO] gg \ kQf nufpm M
-| -s_ 3, 4, 5   |           |          | -v_ 6, 8, 10   |                                 |     | -u_ 12, 13, 14 |     |     |
-| ------------- | --------- | -------- | -------------- | ------------------------------- | --- | -------------- | --- | --- |
-| -3_ 7, 24, 25 |           |          | -ª_ 10, 12, 14 |                                 |     | -r_ 10, 12, 15 |     |     |
-|  bO'          |  { laGbx' | ¿larsf ] | b/'            | L (Distance Between two Points) |     |                |     |     |
-6.2
-| uf|kmkk]                                 | /df bO'   | c{ f6] f laGbx'                | ¿ A(x |     | ) / B(x | ) np] m . |     |     |
-| ---------------------------------------- | --------- | ------------------------------ | ----- | --- | ------- | --------- | --- | --- |
-|                                          |           |                                |       | , y |         | , y       |     |     |
-|                                          |           |                                |       | 1   | 1 2     | 2         |     |     |
-| laGb ' A af6 OX df nDa lvr /  M gfd bp]  |           |                                |       |     | m .     |           |     |     |
-| To;u}                                    | /L laGb ' | B af6 OX df nDa lvrL N gfd bp] |       |     |         | m .       |     |     |
-| kml]/, A af6  BN df nDa lvr /  P gfd bp] |           |                                |       |     |         | m .       |     |     |
-Y
-| lrqcg;' | f/, | OM = x | , AM = PN = y |     |     |     |     |     |
-| ------- | --- | ------ | ------------- | --- | --- | --- | --- | --- |
-|         |     |        | 1             |     | 1   |     |     |     |
-B(x ,y )
-|     |     | ON = x           | , NB = y |     |             |     | 2   | 2   |
-| --- | --- | ---------------- | -------- | --- | ----------- | --- | --- | --- |
-|     |     |                  | 2        |     | 2           |     |     |     |
-|     |     | MN = ON – OM = x |          |     | – x  (= AP) |     |     |     |
-|     |     |                  |          |     | 2  1        |     | )   |     |
+| -s_ 3, 4, 5 | | | -v_ 6, 8, 10 | | | -u_ 12, 13, 14 | | |
+| -3_ 7, 24, 25 | | | -ª_ 10, 12, 14 | | | -r_ 10, 12, 15 | | |
+|  bO' |  { laGbx' | ¿larsf ] | b/' | L (Distance Between two Points) | | | | |
+| uf|kmkk] | /df bO' | c{ f6] f laGbx' | ¿ A(x | | ) / B(x | ) np] m . | | |
+| | | | | , y | | , y | | |
+| laGb ' A af6 OX df nDa lvr /  M gfd bp]  | | | | | m . | | | |
+| To;u} | /L laGb ' | B af6 OX df nDa lvrL N gfd bp] | | | | m . | | |
+| kml]/, A af6  BN df nDa lvr /  P gfd bp] | | | | | | m . | | |
+| lrqcg;' | f/, | OM = x | , AM = PN = y | | | | | |
+B(x ,y
+| | | ON = x | , NB = y | | | | 2 | 2 |
+| | | MN = ON – OM = x | | | – x  (= AP) | | | |
 , y1
-|     |     | BP = BN – PN = y |     |     | – y  |     | x1  |     |
-| --- | --- | ---------------- | --- | --- | ---- | --- | --- | --- |
-|     |     |                  |     |     | 2  1 |     | A(  |     |
-P
-| oxf,“ ΔABP ;dsf0] |                   |                | fL lqeh' |  xf ] h;df cfwf/ |                   |     |     |     |
-| ----------------- | ----------------- | -------------- | -------- | ---------------- | ----------------- | --- | --- | --- |
-|                   |                   | ), nDa BP (= y |          |                  |  / s0f { (AB) 5 . |     |     |     |
-| AP (= X           | – X               |                |          | – y              |                   |     |     |     |
-|                   | 2                 | 1              |          | 2                | 1)                |     |     |     |
-| xfdLnfO {         | yfxf 5, kfOyfuf/] |                |          | ;sf ]            | ;fWocg;' f/,      |     |     | X   |
-O
+| | | BP = BN – PN = y | | | – y  | | x1  | |
+| | | | | | 2  1 | | A(  | |
+| oxf,“ ΔABP ;dsf0] | | | fL lqeh' |  xf ] h;df cfwf/ | | | | |
+| | | ), nDa BP (= y | | |  / s0f { (AB) 5 . | | | |
+| AP (= X | – X | | | – y | | | | |
+| xfdLnfO { | yfxf 5, kfOyfuf/] | | | ;sf ] | ;fWocg;' f/, | | | X |
 M N
 AB2 = (AP)2 + (BP)2
 cyjf,
-|               |            | AB2 = (x               | -x                       | )2 +(y   | - y )2        |     |     |     |
-| ------------- | ---------- | ---------------------- | ------------------------ | -------- | ------------- | --- | --- | --- |
-|               |            |                        | 2                        | 1        | 2 1           |     |     |     |
-|               | cyjf,      | AB                    | x                       | x 2y | y 2  PsfO   |     |     |     |
-|               |            |                        | 2                        | 1        | 2 1           |     |     |     |
-| To;sf/0f, sg' |            |  } bO'  { laGbl'arsf ] |                          | b/'      | L kQf nufpg ] | ;q" |     |     |
-| d            | x x2y | y2                   |                          |          |               |     |     |     |
-|               | 2 1        | 2                      | 1                        |          |               |     |     |     |
-| lrqdf sf7]    | f ug/]     |  xb]                   | f,{  A(2,4) / B(5,6) 5 . |          |               |     |     |     |
-| ;q" cg;'      | f/         | 522642          |                          |          | PsfO          |     |     |     |
+| | | AB2 = (x | -x | )2 +(y | - y )2 | | | |
+| | cyjf, | AB | x | x 2y | y 2  PsfO | | | |
+| To;sf/0f, sg' | |  } bO'  { laGbl'arsf ] | | b/' | L kQf nufpg ] | ;q" | | |
+| d | x x2y | y2 | | | | | | |
+| lrqdf sf7] | f ug/] |  xb] | f,{  A(2,4) / B(5,6) 5 . | | | | | |
+| ;q" cg;' | f/ | 522642 | | | PsfO | | | |
 AB
-|     |     |     | =   | 13 PsfO |     |     |     |     |
-| --- | --- | --- | --- | ------- | --- | --- | --- | --- |
+| | | | = | 13 PsfO | | | | |
  3222
 pbfx/0f 1
 olb Pp6f jQ[ sf ] sG] b |  A(4,6) 5 / pSt jQ[ sf ] kl/lwsf ] laGb ' P(10,8) 5 eg ]  jQ[ sf ] cwJ{ of; slt
 xfn] f <
 54 xfdf| ]ul0ft, sIff *
-
 ;dfwfg
-oxf,“ A sG] b | ePsf ] Pp6f jQ[ 5 h;df sG] b| P(10,8)
+oxf,“ A sG] b | ePsf ] Pp6f jQ[ 5 h;df sG] b| P(10,8
 A(4,6) 5 / kl/lwsf ] laGb ' P(10,8) 5 . ctM
-A(4,6)
+A(4,6
 x = 4, x =10, y = 6 / y = 8 5 . AP= ?
-1 2 1 2
 ca, AP x x 2y y 2 PsfO
-2 1 2 1
  1042862  6222  40 2 10 PsfO
 pbfx/0f 2
 X– cIfsf ] 5 PsfOdf laGb ' P / Q laGb ' Y– cIfsf] 6 PsfOdf eP P bl]v Q ;Ddsf ] b/' L slt xfn] f <
 ;dfwfg
 oxf “ P laGb ' X- cIfdf 5 PsfO 5 . t;y { P(5, 0) xf ] . km]l/
 Q laGb ' Y- cIfdf 6 PsfO 5 . t;y { Q (0, 6) xf ] .
-Q(0,6)
+Q(0,6
 -lsgls X-cIfdf y = 0 / Y-cIfdf x = 0 xG' 5 ._
-ca (x , y ) = (5,0) / (x , y ) =(0, 6)
-1 1 2 2
+ca (x , y ) = (5,0) / (x , y ) =(0, 6
 xfdLnfO { yfxf 5, PQ x x2 y y 2 PsfO
-2 1 2 1
-O P(5,0)
+O P(5,0
  052602  2536  61
 P bl]v Q ;Ddsf ] b/' L 61 PsfO 5 .
 pbfx/0f 3
@@ -2922,315 +1239,202 @@ lbOPsf lgbz{] fªs\ x¿ A(3,4) ,B(7,8) / c(11,4) ;dlåafx ' lqeh' df zLifl{aGbx'
 u/ .
 ;dfwfg
 oxf “ , A(3,4)= (x ,y ) ; B(7,8)= (x ,y ) / C(11,4)= (x ,y ) dfGbf,
-1 1 2 2 3 3
 ca, d(AB) x x2 y y2  732842
-2 1 2 1
 PsfO
  1616  32 4 2
 d(AC) x x2 y y2
-3 1 3 1
  1142442  720 7 PsfO
 xfdf| ]ul0ft, sIff * 55
-
-| km]l/,                |     |    1172482 |     |    4242 |  1616 |     |
-| --------------------- | --- | ------------------ | --- | ------------ | ------- | --- |
-|                       |     |                    |     |  PsfO        |         |     |
-|                       |     |  32               |     | 4 2         |         |     |
-| oxf,“ d(AB) =d(BC) 4 |     |  PsfO              |     |              |         |     |
-2
-| To; sf/0f, ΔABC ;dlåafx ' |     | lqeh'  xf ] . |     |     |     |     |
-| ------------------------- | --- | ------------- | --- | --- | --- | --- |
+| km]l/, | |  1172482 | |  4242 |  1616 | |
+| | | | |  PsfO | | |
+| | |  32 | | 4 2 | | |
+| oxf,“ d(AB) =d(BC) 4 | |  PsfO | | | | |
+| To; sf/0f, ΔABC ;dlåafx ' | | lqeh'  xf ] . | | | | |
 cEof;  6.2
-| 1. tn lbOPsf laGbx' | ¿larsf ] | b/' L kQf nufpm M |     |     |     |     |
-| ------------------- | -------- | ----------------- | --- | --- | --- | --- |
--s_  (4, -7) / (-1, 5) -v_  (-3, 4) / (4, 3) -u_  (1, -2) / (5, -6)
--3_  (1, 7) / (1, 1) -ª_  (2, 7) / (4, 9) -r_  (-8, 7) / (-3, 4)
-|     |     |     |     |    |   |    |
-| --- | --- | --- | --- | --- | --- | --- |
--5_  (12, -6) / (6, -8) -h_  (-7, -5) / (-9, 2) -em_   4 5,3 3, 3 5,3 3
+| 1. tn lbOPsf laGbx' | ¿larsf ] | b/' L kQf nufpm M | | | | |
+-s_  (4, -7) / (-1, 5) -v_  (-3, 4) / (4, 3) -u_  (1, -2) / (5, -6
+-3_  (1, 7) / (1, 1) -ª_  (2, 7) / (4, 9) -r_  (-8, 7) / (-3, 4
+| | | | |  |   |  |
+-5_  (12, -6) / (6, -8) -h_  (-7, -5) / (-9, 2) -em_ 4 5,3 3, 3 5,3 3
 2. olb laGb ' A n ] X-cIfdf -8  df / laGb ' B  n ]  Y-cIfdf 6 df sf6s] f ] 5 eg ] AB sf ] b/' L kQf nufpm .
-d';f]
-| lbOPsf ] uf|km kk] | /df la/fnf ] | / d;' fsf ] l:ylt lbOPsf ] | 5 . |     |     |     |
-| ------------------ | ------------ | -------------------------- | --- | --- | --- | --- |
-3.
-| la/fnf ] / d;' | f ] ePsf ] laGbs' | f ] lgbz{] fªs\  kQf nufpm / |     |     |     |     |
-| -------------- | ----------------- | ---------------------------- | --- | --- | --- | --- |
-la/fnf]
-| ltgLx¿larsf ] | b/' L lgsfn . |     |     |     |     |     |
-| ------------- | ------------- | --- | --- | --- | --- | --- |
+d';f
+| lbOPsf ] uf|km kk] | /df la/fnf ] | / d;' fsf ] l:ylt lbOPsf ] | 5 . | | | |
+| la/fnf ] / d;' | f ] ePsf ] laGbs' | f ] lgbz{] fªs\  kQf nufpm / | | | | |
+la/fnf
+| ltgLx¿larsf ] | b/' L lgsfn . | | | | | |
 4. laGbx' ¿ A(-4,0), B(-4,-4), C(2,-4) / D(2,0) cfoftsf zLif { laGbx' ¿ xg'  \ egL kd| fl0ft u/ .
-5. gS;fdf k:| tt'  ubf { jflnª / sf7df8fs“} f lgbz{] fªs\  laGbx' ¿ jm|dzM (4,7) / (7,3)  eP Tof]
-laGbl'ardf gS;fdf b/' L slt xfn] f, olb 1 PsfO a/fa/ 55km eP jflnªbl]v sf7df8f;“} Ddsf]
-| jf:tljs b/' | L kQf nufpm . |     |     |     |     |     |
-| ----------- | ------------- | --- | --- | --- | --- | --- |
+5. gS;fdf k:| tt'  ubf { jflnª / sf7df8fs“} f lgbz{] fªs\  laGbx' ¿ jm|dzM (4,7) / (7,3)  eP Tof
+laGbl'ardf gS;fdf b/' L slt xfn] f, olb 1 PsfO a/fa/ 55km eP jflnªbl]v sf7df8f;“} Ddsf
+| jf:tljs b/' | L kQf nufpm . | | | | | |
 laGbx' ¿ P(1,6), Q(4,1)  / R(-4,3)  ljifdeh'  lqeh' sf zLifl{aGbx' ¿ xg'  \ egL kd| fl0ft u/ .
-6.
 7. olb A(2,-1) ;B,(3,4); C(-2,3) / D(-3,-2) ;dafx ' rte' h{'  ABCD sf zLif { laGbx' ¿ xg'  \ eg ] o;df
-| ljs0fx{ ¿ AC / BD sf ] |     | b/' L kQf nufpm . |     |     |     |     |
-| ---------------------- | --- | ----------------- | --- | --- | --- | --- |
+| ljs0fx{ ¿ AC / BD sf ] | | b/' L kQf nufpm . | | | | |
 8. olb laGb ' P(9,12),  laGb ' Q(1,6)  sG] b | ePsf ] jQ[ sf ] kl/lwdf k5 { eg ] pSt jQ[ sf ] cwJ{ of; slt
-| xfn] f < s ] | laGb ' (-7,0)  pSt jQ[ | sf ] kl/lwdf k5 { | <   |     |     |     |
-| ------------ | ---------------------- | ----------------- | --- | --- | --- | --- |
+| xfn] f < s ] | laGb ' (-7,0)  pSt jQ[ | sf ] kl/lwdf k5 { | < | | | |
 pbu\ d laGb ' O af6 laGb ' A / laGb ' B sf ] b/' L kQf nufpm, hxf “ A=(-7,7) 5 / B=(7,-7)  5 .
-9.
 10. olb P(0,6) / Q (a,0) larsf ] b/' L 6 PsfO eP a sf ] dfg slt xfn] f <
-| tn lbOPsf laGbx' | ¿ /v] | Lo laGbx' ¿ xg'  \ egL kd| | fl0ft u/ M |     |     |     |
-| ---------------- | ----- | -------------------------- | ---------- | --- | --- | --- |
-11.
-| -s_ (4, 3), (3, 2)  / (2, 1)    |     | -v_ (5, 1), (3, 2)  / (1, 3)   |     |     |                      |     |
-| ------------------------------- | --- | ------------------------------ | --- | --- | -------------------- | --- |
-| -u_ (24, 3), (0, 2)  / (-2, -1) |     | -3_ (3, -1), (1, 1)  / (-2, 4) |     |     |                      |     |
-| 56                              |     |                                |     |     | xfdf| ]ul0ft, sIff * |     |
-
+| tn lbOPsf laGbx' | ¿ /v] | Lo laGbx' ¿ xg'  \ egL kd| | fl0ft u/ M | | | |
+| -s_ (4, 3), (3, 2)  / (2, 1) | | -v_ (5, 1), (3, 2)  / (1, 3) | | | | |
+| -u_ (24, 3), (0, 2)  / (-2, -1) | | -3_ (3, -1), (1, 1)  / (-2, 4) | | | | |
+| 56 | | | | | xfdf| ]ul0ft, sIff * | |
 kf7
-7
-|     |     | Ifq] | kmn / cfotg  |     |     |     |     |     |
-| --- | --- | ---- | ------------ | --- | --- | --- | --- | --- |
-(Area and Volume)
-| 7.0 kg'               | /jnfs]            | g (Review)  |                                          |            |     |     |     |     |
-| --------------------- | ----------------- | ----------- | ---------------------------------------- | ---------- | --- | --- | --- | --- |
-| ju {                  | / cfotsf ]        |             | Ifq] kmn (Area of Square and Rectangles) |            |     |     |     |     |
-| Pp6f  ABCD  cfot np]  |                   |             | m .                                      |            |     |     |     |     |
-| h;df nDafO 7cm / rf8} |                   |             |                                          | fO 5cm 5 . |     |     |     |     |
-|                       |                   |             |                                          |            |     | A   |     | D   |
-| ca o; cfotnfO {       |                   |             | 1cm nDafO / 1cm                          |            |     |     |     |     |
-| rf8}                  | fO ePsf ;fgf jux{ |             | ¿df ljefhg u/ .                          |            |     |     |     |     |
-| slt cf6]              |                   | f ;fgf ju { | aG5g,\ ug / nv]                          |            |  .  |     |     |     |
-b
-| lbOPsf ]       |               | cfotdf 7f8fl]t/ 5 cf6] |            | f / |     |     |     |     |
-| -------------- | ------------- | ---------------------- | ---------- | --- | --- | --- | --- | --- |
-| t;]            | fl{]t/ 7 cf6] | f ;fgf jux{            | ¿ aG5g \   |     | .   |     |     |     |
-| / 35 ;fgf ju { |               | aG5g \                 | . o;/L pSt |     |     |     |     |     |
-B
-C
-l
-| cfoftsf ] |     | Ifq] kmn 35 ju { | ;l]d |     |     |     |     |     |
-| --------- | --- | ---------------- | ---- | --- | --- | --- | --- | --- |
+| | | Ifq] | kmn / cfotg  | | | | | |
+Area and Volume
+| 7.0 kg' | /jnfs] | g (Review)  | | | | | | |
+| ju { | / cfotsf ] | | Ifq] kmn (Area of Square and Rectangles) | | | | | |
+| Pp6f  ABCD  cfot np]  | | | m . | | | | | |
+| h;df nDafO 7cm / rf8} | | | | fO 5cm 5 . | | | | |
+| | | | | | | A | | D |
+| ca o; cfotnfO { | | | 1cm nDafO / 1cm | | | | | |
+| rf8} | fO ePsf ;fgf jux{ | | ¿df ljefhg u/ . | | | | | |
+| slt cf6] | | f ;fgf ju { | aG5g,\ ug / nv] | |  .  | | | |
+| lbOPsf ] | | cfotdf 7f8fl]t/ 5 cf6] | | f / | | | | |
+| t;] | fl{]t/ 7 cf6] | f ;fgf jux{ | ¿ aG5g \ | | . | | | |
+| / 35 ;fgf ju { | | aG5g \ | . o;/L pSt | | | | | |
+| cfoftsf ] | | Ifq] kmn 35 ju { | ;l]d | | | | | |
 eof ] / oxf “ nDafO 7 cm / rf8} fO 5 cm 5 . To; sf/0f 7 cm  × 5 cm = 35 cm2 xG' 5 .
-|  cfotsf ] |     | Ifq] | kmn (A) = nDafO |     |  × rf8} fO ju { | PsfO xG' 5 . |     |     |
-| ---------- | --- | ---- | --------------- | --- | --------------- | ------------ | --- | --- |
-×
-|     |     |     | A = l  |  b ju { | PsfO |     |     |     |
-| --- | --- | --- | ------ | ------- | ---- | --- | --- | --- |
+|  cfotsf ] | | Ifq] | kmn (A) = nDafO | |  × rf8} fO ju { | PsfO xG' 5 . | | |
+| | | | A = l  |  b ju { | PsfO | | | |
 k]ml/, xfdLnfO{ yfxf 5, ;a} e'hfx¿ a/fa/ ePsf] cfot g} ju{ xf] . ju{df
-|              |          |                             |            |     |          | kmn = -nDafO × nDafO_ ju { |      | l   |
-| ------------ | -------- | --------------------------- | ---------- | --- | -------- | -------------------------- | ---- | --- |
-| nDafO = rf8} |          | fO xG' 5 . To; sf/0f,  jus{ |            |     | f ] Ifq] |                            | PsfO |     |
-|              | (A) = l  | ×  l = l2  ju {             | PsfO eof ] |     | .        |                            |      | l   |
-7.1 rte' h{'  / lqeh' sf ] Ifq] kmn (Area of Quadrilaterals and Triangles)
-| (I) ;dfgfGt/ rte'    |                                    |                                           | h{' sf ] Ifq] kmn (Area of a Parallelogram) |     |          |                     |     |     |
-| -------------------- | ---------------------------------- | ----------------------------------------- | ------------------------------------------- | --- | -------- | ------------------- | --- | --- |
-|                      |                                    |                                           |                                             |     |          |                     | E   | B   |
-|                      |                                    |                                           |                                             |     |          |                     | A   | A'  |
-| afSnf ]              | sfuhsf ]                           |                                           | kGgfdf Pp6f ;dfgfGt/ rte'                   |     |          | h{'  ABCD           |     |     |
-| lvr / laGb '         |                                    | D af6 AB df nDa lvr . To;kl5 pSt ;=r=nfO{ |                                             |     |          |                     |     |     |
-| sr“}                 | Ln ] sf6 . km]l/ pSt ;dfgfGt/ rte' |                                           |                                             |     | h'       | s{ f ] DE  af6 sf6L |     |     |
-|                      |                                    |                                           |                                             |     |          |                     | D   | C   |
-|  ΔADE / rte'         |                                    | h'                                        |  { BCDE nfO {                               | 56' | o\ fpm . |                     |     |     |
-| xfdf| ]ul0ft, sIff * |                                    |                                           |                                             |     |          |                     |     | 57  |
-
+| | | | | | | kmn = -nDafO × nDafO_ ju { | | l |
+| nDafO = rf8} | | fO xG' 5 . To; sf/0f,  jus{ | | | f ] Ifq] | | PsfO | |
+| | (A) = l  | ×  l = l2  ju { | PsfO eof ] | | . | | | l |
+7.1 rte' h{'  / lqeh' sf ] Ifq] kmn (Area of Quadrilaterals and Triangles
+| (I) ;dfgfGt/ rte' | | | h{' sf ] Ifq] kmn (Area of a Parallelogram) | | | | | |
+| | | | | | | | E | B |
+| | | | | | | | A | A'  |
+| afSnf ] | sfuhsf ] | | kGgfdf Pp6f ;dfgfGt/ rte' | | | h{'  ABCD | | |
+| lvr / laGb ' | | D af6 AB df nDa lvr . To;kl5 pSt ;=r=nfO{ | | | | | | |
+| sr“} | Ln ] sf6 . km]l/ pSt ;dfgfGt/ rte' | | | | h' | s{ f ] DE  af6 sf6L | | |
+| | | | | | | | D | C |
+|  ΔADE / rte' | | h' |  { BCDE nfO { | 56' | o\ fpm . | | | |
+| xfdf| ]ul0ft, sIff * | | | | | | | | 57  |
 lrqdf bv] fP em“}  ΔADE  nfO { ;=r=sf ] csfk{] 6l\6 hf8]  . E B A'
-| cfot EA'CD  tof/ eof ] |                   |     |                | . h;sf ] | Ifq] | kmn ;dfgfGt/ |     |     |     |     |     |
-| ---------------------- | ----------------- | --- | -------------- | -------- | ---- | ------------ | --- | --- | --- | --- | --- |
-| rte'                   | h{'  ABCD ;u“     |     |  a/fa/ xG'     | 5 .      |      |              |     |     |     |     |     |
-| ca, ;dfgfGt/ rte'      |                   |     | h{'  ABCD sf ] |          | Ifq] | kmn          |     |     |     | C   | D   |
-|                        | =  cfot CDAE sf ] |     |                | Ifq]     | kmn  |              |     |     |     |     |     |
-|                        | = CD × CE  ju {   |     |                | PsfO     |      |              |     |     |     |     |     |
+| cfot EA'CD  tof/ eof ] | | | | . h;sf ] | Ifq] | kmn ;dfgfGt/ | | | | | |
+| rte' | h{'  ABCD ;u“ | |  a/fa/ xG' | 5 . | | | | | | | |
+| ca, ;dfgfGt/ rte' | | | h{'  ABCD sf ] | | Ifq] | kmn | | | | C | D |
+| | =  cfot CDAE sf ] | | | Ifq] | kmn  | | | | | | |
+| | = CD × CE  ju { | | | PsfO | | | | | | | |
 = cfwf/ × prfO ju {
 PsfO
 olb cfwf/ (base)= b / prfO (height) = h eP, ;=r= sf ] Ifq] kmn A= b × h xG' 5 .
-kmn (Area of Triangle)
-| (II) lqeh' | sf ] Ifq] |     |     |     |     |     |     |     |     |     |     |
-| ---------- | --------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+kmn (Area of Triangle
+| (II) lqeh' | sf ] Ifq] | | | | | | | | | | |
 sf8a{ f8] s{ f ] ko| fu]  u//]  Pp6f ΔABC agfpm . o;df cfwf/ BC (b) / prfO (h) 5 . lrq
 -s_ df bv] fP h:t } zLifl{aGb ' A nfO { cfwf/df kg {] u/L k6o\ fpm / k6o\ fOPsf ] To; 7fpa“ f6 sf6 .
 ΔAPQ aG5 . ca, ΔAPQ sf ] cfwf/ PQ df zLifl{aGb ' A af6 nDa lvr / To; nDaaf6 sf6 . lrq
 -u_ df bv] fP h:t } rte' h{'  PQCB sf bO' t{ km{ hf8]  . cfot MNCB tof/ eof ] .
-|     | A   |     |     |     |     | A   |     |     |     | A   |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-Q
-P
-| P   |     | Q   |     |     | P   |     | Q   |     | M   |     | N   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     | C   |     | B   |     |     | C   | B   |     | C   |
-B
+| | A | | | | | A | | | | A | |
+| P | | Q | | | P | | Q | | M | | N |
+| | | | C | | B | | | C | B | | C |
 ca, ΔABC sf ] Ifq] kmn = cfot MNCB sf ] Ifq] kmn = MB x BC  ju { PsfO
-|     |     |     |     | 1        | 1   |            |      |        |        |     |     |
-| --- | --- | --- | --- | -------- | --- | ---------- | ---- | ------ | ------ | --- | --- |
-|     |     |     |     |          |     | b x h ju { | PsfO |       | 1     |     |     |
-|     |     |     | =   | h x b =  |     |            |      |  MB | prfO  |     |     |
-|     |     |     |     | 2        | 2   |            |      |       | 2     |     |     |
-1
-| ∴ lqeh' | sf ] Ifq] | kmn (A) | =   | b x h ju { | PsfO |     |     |     |     |     |     |
-| ------- | --------- | ------- | --- | ---------- | ---- | --- | --- | --- | --- | --- | --- |
-2
-kmn (Area of Equilateral Triangle)
-| (III) ;dafx ' | lqeh' | sf ] | Ifq] |     |     |     |     |     |     |     |     |
-| ------------- | ----- | ---- | ---- | --- | --- | --- | --- | --- | --- | --- | --- |
-A
-| ;u“ | s} f ] lrq ;dafx ' |     | lqeh' |  xf ] | . o;df eh' | fsf] |     |     |     |     |     |
-| --- | ------------------ | --- | ----- | ----- | ---------- | ---- | --- | --- | --- | --- | --- |
+| | | | | | | b x h ju { | PsfO |  | 1  | | |
+| | | | = | h x b =  | | | |  MB | prfO  | | |
+| | | | | 2 | 2 | | |  | 2  | | |
+| ∴ lqeh' | sf ] Ifq] | kmn (A) | = | b x h ju { | PsfO | | | | | | |
+kmn (Area of Equilateral Triangle
+| (III) ;dafx ' | lqeh' | sf ] | Ifq] | | | | | | | | |
+| ;u“ | s} f ] lrq ;dafx ' | | lqeh' |  xf ] | . o;df eh' | fsf] | | | | | |
 nDafO 'a' 5 .  A af6  BC df nDa AD
-a
-a
-| lvrf “+}  | h;n ]      | cfwf/ BC nfO { |                    | cfwf u5 { |     | .   |     |     |     |     |     |
-| --------- | ---------- | -------------- | ------------------ | --------- | --- | --- | --- | --- | --- | --- | --- |
-| kfOyfuf/] | ; ;fWocg;' |                | f/, AD2 = AC2 -CD2 |           |     |     |     |     |     |     |     |
-|           |            |                |                    |           |     |     |     |     | B   | C   |     |
-|           |            |                |                    |           |     |     |     |     |     | D a |     |
-    cyjf,
-|     |     |     |     | AD | AC2CD2 |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | ------- | --- | --- | --- | --- | --- | --- |
-2
-| 58  |     |     |     |     |     |     |     |     |     | xfdf| ]ul0ft, sIff * |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | -------------------- | --- |
-
+| lvrf “+}  | h;n ] | cfwf/ BC nfO { | | cfwf u5 { | | . | | | | | |
+| kfOyfuf/] | ; ;fWocg;' | | f/, AD2 = AC2 -CD2 | | | | | | | | |
+| | | | | | | | | | B | C | |
+| | | | | | | | | | | D a | |
+cyjf,
+| | | | | AD | AC2CD2 | | | | | | |
+| 58  | | | | | | | | | | xfdf| ]ul0ft, sIff * | |
 xfdf| ]ul0ft, sIff * 59
-
 60 xfdf| ]ul0ft, sIff *
-
-| xfdLnfO { yfxf 5,  lqeh' | sf ] | Ifq] kmn (A) = |     |     |
-| ------------------------ | ---- | -------------- | --- | --- |
-|                          |      | 1 93.6cm2  |    |     |
+| xfdLnfO { yfxf 5,  lqeh' | sf ] | Ifq] kmn (A) = | | |
+| | | 1 93.6cm2  |  | |
 = 
 2
-
 91.8cm2= 16.2 cm2
-| -v_ oxf “ ;dnDa rte' | h{'  ABCE df, b | = AB = 4cm |     |     |
-| -------------------- | --------------- | ---------- | --- | --- |
-1
+| -v_ oxf “ ;dnDa rte' | h{'  ABCE df, b | = AB = 4cm | | |
 b = CE = 6cm
-2
 h = AD = 3cm
-| ;dnDa rte' | h{'  ABCE sf ] | Ifq] kmn (A) = ? |     |     |
-| ---------- | -------------- | ---------------- | --- | --- |
-1
-|  xfdLnfO { | yfxf 5, ;dnDa rte' | h{' sf ] Ifq] | kmn (A)= h  |     |
-| ---------- | ------------------ | ------------- | --------------- | --- |
+| ;dnDa rte' | h{'  ABCE sf ] | Ifq] kmn (A) = ? | | |
+|  xfdLnfO { | yfxf 5, ;dnDa rte' | h{' sf ] Ifq] | kmn (A)= h  | |
 b 1 b 2
-2
 1  
-|     |     |     |   = 3 46 cm2 |     |
-| --- | --- | --- | --------------- | --- |
-2
-1
-|     |     |     |   =  3  10 cm2 = 15 cm2 |     |
-| --- | --- | --- | ------------------------- | --- |
-2
-| -u_ oxf “ | ljs0f { (FH) = 11cm |     |     |     |
-| --------- | ------------------- | --- | --- | --- |
+| | | | = 3 46 cm2 | |
+| | | | =  3  10 cm2 = 15 cm2 | |
+| -u_ oxf “ | ljs0f { (FH) = 11cm | | | |
 EK= p = 7cm
-1
 GL = p  = 5cm
-2
-1
-| Ifq] kmn A |  ljs0f{p | p |     |     |
-| ----------- | ---------- | --- | --- | --- |
-1 2
-2
+| Ifq] kmn A |  ljs0f{p | p | | |
 pbfx/0f 2
-| ;u“ s} f ] lrqdf 5fof kf/s] | f ] efusf ] | Ifq] kmn kQf nufpm . |     |     |
-| --------------------------- | ----------- | -------------------- | --- | --- |
+| ;u“ s} f ] lrqdf 5fof kf/s] | f ] efusf ] | Ifq] kmn kQf nufpm . | | |
 ;dfwfg
-| oxf,“ ;dfgfGt/ rte' | h{'  ABCD 5 |     |     |     |
-| ------------------- | ----------- | --- | --- | --- |
-A
-B
+| oxf,“ ;dfgfGt/ rte' | h{'  ABCD 5 | | | |
 cfwf/ (CD)= 9cm /
 P 5.5cm Q
 prfO  (h) = 7cm 5 3cm
 7cm
 S 4.5cm R
-| ABCD sf ] Ifq] | kmn (A ) = b × h |     |     |     |
-| -------------- | ---------------- | --- | --- | --- |
-|                | 1                |     | D   | C   |
+| ABCD sf ] Ifq] | kmn (A ) = b × h | | | |
+| | 1 | | D | C |
 9cm
 = 9 × 7 cm2
 = 63cm2
 xfdf| ]ul0ft, sIff * 61
-
-| km]l/, ;dnDa rte' | h{'  PQRS 5 h;df |     |     |     |     |     |
-| ----------------- | ---------------- | --- | --- | --- | --- | --- |
+| km]l/, ;dnDa rte' | h{'  PQRS 5 h;df | | | | | |
 prfO (h) = 3cm
-|     |     |  PQ = b |  = 5.5 cm |     |     |     |
-| --- | --- | ------- | --------- | --- | --- | --- |
-1
-|     |     | RS = b |  = 4.5 cm |     |     |     |
-| --- | --- | ------ | --------- | --- | --- | --- |
-2
-|  PQRS sf ] | Ifq] kmn (A | ) = |     |     |     |     |
-| ---------- | ----------- | --- | --- | --- | --- | --- |
-2
-| ca, 5fof kfl/Psf ] | efusf ] | Ifq] kmn = A | - A |     |     |     |
-| ------------------ | ------- | ------------ | --- | --- | --- | --- |
-1 2
+| | |  PQ = b |  = 5.5 cm | | | |
+| | | RS = b |  = 4.5 cm | | | |
+|  PQRS sf ] | Ifq] kmn (A | ) = | | | | |
+| ca, 5fof kfl/Psf ] | efusf ] | Ifq] kmn = A | - A | | | |
 = 63 cm2- 15cm2
 = 48cm2
 pbfx/0f 3
-| Pp6f 240 ft  nDafO ePsf ]               |     | / 180 ft  rf8} | fO ePsf ]  | cfoftsf/ |     |     |
-| --------------------------------------- | --- | -------------- | ---------- | -------- | --- | --- |
-| vt] sf ] lardf Pp6f 16 ft lsgf/f ePsf ] |     |                | Pp6f jufs{ | f/ kfv]  | /L  |     |
+| Pp6f 240 ft  nDafO ePsf ] | | / 180 ft  rf8} | fO ePsf ]  | cfoftsf/ | | |
+| vt] sf ] lardf Pp6f 16 ft lsgf/f ePsf ] | | | Pp6f jufs{ | f/ kfv]  | /L  | |
 180ft
 16ft
-| 5 eg ] kfv] /Lafxs] | sf ] vt] | sf ] Ifq] kmn slt xfn] | f < |     |     |     |
-| ------------------- | -------- | ---------------------- | --- | --- | --- | --- |
+| 5 eg ] kfv] /Lafxs] | sf ] vt] | sf ] Ifq] kmn slt xfn] | f < | | | |
 ;dfwfg
 240ft
-| cfoftsf/ vt]         | sf ] nDafO (l) =240 ft |                           |                 |      |      |     |
-| -------------------- | ---------------------- | ------------------------- | --------------- | ---- | ---- | --- |
-| cfoftsf/ vt]         | sf ] rf8}              | fO (b) =180 ft            |                 |      |      |     |
-| cfoftsf/ vt]         | sf ] Ifq]              | kmn l × b = 240 ×180 ju { |                 | lkm6 |      |     |
-|                      |                        | = 43200 ju {              | lkm6            |      |      |     |
-| km]l/, jufs{ f/ kfv] | /Lsf ]                 | Ifq] kmn = l2 = 162  ju { | lkm6 = 256 ju { |      | lkm6 |     |
+| cfoftsf/ vt] | sf ] nDafO (l) =240 ft | | | | | |
+| cfoftsf/ vt] | sf ] rf8} | fO (b) =180 ft | | | | |
+| cfoftsf/ vt] | sf ] Ifq] | kmn l × b = 240 ×180 ju { | | lkm6 | | |
+| | | = 43200 ju { | lkm6 | | | |
+| km]l/, jufs{ f/ kfv] | /Lsf ] | Ifq] kmn = l2 = 162  ju { | lkm6 = 256 ju { | | lkm6 | |
 ca, kfv] /Lafxs] sf ] vt] sf ] Ifq] kmn (A) = vt] sf ] Ifq] kmn – kfv] /Lsf ] Ifq] kmn
-|     |     |     | = (43200- 256)  ju { |     |      | lkm6 |
-| --- | --- | --- | -------------------- | --- | ---- | ---- |
-|     |     |     | = 42944 ju {         |     | lkm6 |      |
+| | | | = (43200- 256)  ju { | | | lkm6 |
+| | | | = 42944 ju { | | lkm6 | |
 cEof;  7.1
-| 1. tnsf HofldtLo cfsl[ |     | tx¿sf ] | Ifq] kmn lgsfn M |     |     |     |
-| ---------------------- | --- | ------- | ---------------- | --- | --- | --- |
-| -s_                    |     | -v_     |                  |     |     | -u_ |
+| 1. tnsf HofldtLo cfsl[ | | tx¿sf ] | Ifq] kmn lgsfn M | | | |
+| -s_ | | -v_ | | | | -u_ |
 1.4ft
 3.6cm
 4cm
 5cm
 6cm
-| 62  |     |     |     |     |     | xfdf| ]ul0ft, sIff * |
-| --- | --- | --- | --- | --- | --- | -------------------- |
-
-| -3_ |     |     | -ª_ | -r_ |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
+| 62  | | | | | | xfdf| ]ul0ft, sIff * |
+| -3_ | | | -ª_ | -r_ | | |
 4m
 6in
 9m
 7.5in
 6cm
-| -5_ |     |     | -h_ | -em_ |     |     |
-| --- | --- | --- | --- | ---- | --- | --- |
+| -5_ | | | -h_ | -em_ | | |
 4.5cm 9cm
 mc9
-|     | 6cm |     |     |     |     | 5.5cm |
-| --- | --- | --- | --- | --- | --- | ----- |
+| | 6cm | | | | | 5.5cm |
 3.6cm
 7.5cm 13cm
-| -`_ |       |     | -6_ | -7_ |     |     |
-| --- | ----- | --- | --- | --- | --- | --- |
-|     | 4.5cm |     | m   |     |     |     |
+| -`_ | | | -6_ | -7_ | | |
+| | 4.5cm | | m | | | |
 2c
-1
-| 8cm | 6.5cm |     |     |     |     |     |
-| --- | ----- | --- | --- | --- | --- | --- |
+| 8cm | 6.5cm | | | | | |
 6.4cm
 8 c
-m
 2.2cm
 2. tn lbOPsf lrqx¿df 5fof kfl/Psf ] efusf ] Ifq] mkmn lgsfn M
-| P   | 10m | Q   |     |     |     | 12cm |
-| --- | --- | --- | --- | --- | --- | ---- |
+| P | 10m | Q | | | | 12cm |
 4 . 8 c m B
 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 12 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 1 2 3 4 5 6 7 A8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 1 2 3 4 5 6 J
 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 1 2 3 4 5 6 E F
-123456789012345678901234567 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 12345678901234567890123456789012123456 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 1 2 3 4 5 546 1234567890112234567890123 1 2 3 4 5 6 7 8 9 0 1 1 2 2 3 4 5 6 7 8 9 0 1 2 3
 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 1 2 3 4 6cm 1 2 3 4 5 6 7 8 9 0 1 1 2 2 3 4 5 6 7 8 9 0 1 2 3
 123456789012345678901234567 1 2 3 4 5 6 6A7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 12345678901234567890123456789012123456 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 1 2 3 4 5 6 1234567890112234567890123 1 2 3 4 5 6 7 8 9 0 1 1 2 2 3 4 5 6 7 8 9 0 1 2 3
 1 2 3 4 5 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3B 4 5 6 7 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 1 2 3 4 5 6 1 2 3 4 5 6 7 8 9 0 1 1 2 2 3 4 5 6 7 8 9 0 1 2 3
@@ -3243,83 +1447,62 @@ m
 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 1 2 2 1 1F 2 2 3 3 4 4 5 5 6 6 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 1 1 1 2 2 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 1 2 2 3 3
 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 1 2 3 3H4 5 6 7 8 9 0 1 1 2 2 3 4 5 6 7 8 8G9 0 1 2 3
 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8.2cm 1 2 4 5 6 7 8 9 0 1 1 2 2 3 4 5 6 7 9 0 1 2 3
-| S 1 2 3 4 5 6 7                            | 8 9 0 1 2 3 4 5 6 7 8 9 0 | 1 2 3 4 5 6 7   |     |     |     | 6cm |
-| ------------------------------------------ | ------------------------- | --------------- | --- | --- | --- | --- |
-| 1 123456789012345678901234567R 2 3 4 5 6 7 | 8 9 0 1 2 3 4 5 6 7 8 9 0 | 1 2 3 4 5 6 7   |     |     |     |     |
-| 3. tnsf lrqx¿df x sf ]                     |                           | dfg kQf nufpm M |     |     |     |     |
-|                                            | A                         |                 | P   |     | M   | N   |
-S
-x
-x
+| S 1 2 3 4 5 6 7 | 8 9 0 1 2 3 4 5 6 7 8 9 0 | 1 2 3 4 5 6 7 | | | | 6cm |
+| 1 123456789012345678901234567R 2 3 4 5 6 7 | 8 9 0 1 2 3 4 5 6 7 8 9 0 | 1 2 3 4 5 6 7 | | | | |
+| 3. tnsf lrqx¿df x sf ] | | dfg kQf nufpm M | | | | |
+| | A | | P | | M | N |
 7cm
-8
-.8 | B   |     | C   |       |     |     | c   |
-| --- | --- | --- | ----- | --- | --- | --- |
-|     |     |     |       | R   |     | m   |
-|     | D   |     | Q T   |     |     |     |
-|     |     |     |       |     | P   | O   |
-|     | x   |     | 9.2cm |     |     |     |
+.8 | B | | C | | | | c |
+| | | | | R | | m |
+| | D | | Q T | | | |
+| | | | | | P | O |
+| | x | | 9.2cm | | | |
 A = 44cm2
-|                      | A = 56cm2 |     | A = 92cm2 |     |     |     |
-| -------------------- | --------- | --- | --------- | --- | --- | --- |
-| xfdf| ]ul0ft, sIff * |           |     |           |     |     | 63  |
-
-4. Pp6f 120 ld6/ nDafO / 110 ld6/ rf8} fO ePsf ] cfoftsf/ aur“} fsf ] lardf 18 ld6/ nfdf]
+| | A = 56cm2 | | A = 92cm2 | | | |
+| xfdf| ]ul0ft, sIff * | | | | | | 63  |
+4. Pp6f 120 ld6/ nDafO / 110 ld6/ rf8} fO ePsf ] cfoftsf/ aur“} fsf ] lardf 18 ld6/ nfdf
 / 9 ld6/ rf8} fO ePsf ] elnan sf6]  { agfOPsf ] 5 . elnan sf6] a{ fxs]  aur“} fsf ] Ifq] kmn slt
 xfn] f <
 5. 9 lkm6 nfdf ] / 7 lkm6 rf8} f ePsf ] kvfn{ df slt cf6] f 1 ju { lkm6sf af8] x{ ¿ gvK6fOs{ g agfpg
 ;lsPnf <
 6. ;u“ s} f ] lrqdf Pp6f ufps“ f ljleGg dxŒjk0" f { 7fpx“ ¿ lbOPsf ] 5 . lrq x/] L lgDglnlvt
-| 7fp“ x¿sf ] | Ifq] kmn kQf nufpm M |     |     |     |     |     |     |     |
-| ----------- | -------------------- | --- | --- | --- | --- | --- | --- | --- |
+| 7fp“ x¿sf ] | Ifq] kmn kQf nufpm M | | | | | | | |
 218m
-| -s_ ;fjh{ | lgs zfr}    | fnosf ] | Ifq] | kmn | kfgL 6o\ | fªs\ L |        |     |
-| --------- | ----------- | ------- | ---- | --- | -------- | ------ | ------ | --- |
-|           |             |         |      |     |          |        | ljBfno | 25m |
-| -v_ kfv]  | /Lsf ] Ifq] | kmn     |      |     | 2m       |        |        |     |
+| -s_ ;fjh{ | lgs zfr} | fnosf ] | Ifq] | kmn | kfgL 6o\ | fªs\ L | | |
+| | | | | | | | ljBfno | 25m |
+| -v_ kfv]  | /Lsf ] Ifq] | kmn | | | 2m | | | |
 4m
-| -u_ ljBfnosf ] |     | Ifq] kmn |     |     |     |     | 6m  |     |
-| -------------- | --- | -------- | --- | --- | --- | --- | --- | --- |
+| -u_ ljBfnosf ] | | Ifq] kmn | | | | | 6m  | |
 4m zfj{hlgs
-| -3_ rft} | f/Lsf ] Ifq] | kmn |     |     |     |     | 4m zf}rfno | rft} f/L |
-| -------- | ------------ | --- | --- | --- | --- | --- | ---------- | -------- |
+| -3_ rft} | f/Lsf ] Ifq] | kmn | | | | | 4m zf}rfno | rft} f/L |
 zf}rfno
-| -ª_ kfgL 6o\ | fªs\ | Lsf ] Ifq] kmn |     |     |     |     | 8m  |     |
-| ------------ | ---- | -------------- | --- | --- | --- | --- | --- | --- |
+| -ª_ kfgL 6o\ | fªs\ | Lsf ] Ifq] kmn | | | | | 8m  | |
 11m
 kf]v/L
 6m
-| 7.2. 3g / if8d\ | v' fsf ] | cfotg (Volume of Cube and Cuboids) |     |     |     |     |     |     |
-| --------------- | -------- | ---------------------------------- | --- | --- | --- | --- | --- | --- |
+| 7.2. 3g / if8d\ | v' fsf ] | cfotg (Volume of Cube and Cuboids) | | | | | | |
 ljm|ofsnfk
 1. 1 cm nDafO, 1cm rf8} fO / 1 cm prfO ePsf ] 3gsf] cfotg 1 cm
 slt xG' 5 <
 1 cm
-2. Pp6f 5 cm nDafO / 4 cm rf8} fO ePsf ] cfoftsf/ afs;sf] 1 cm
-| cfwf/df gvK6fOsg sltcf6] |           |     | f 1 cm3 sf a66\   |     | fx¿ /fVg ;lsPnf < |     |     |     |
-| ------------------------ | --------- | --- | ----------------- | --- | ----------------- | --- | --- | --- |
-| o:t } ltg cf6]           | f txx¿;u“ |     |  } Ps dfly csf {] |     | ub {} /fVbf       |     |     |     |
-3.
-| slt cf6] | f PsfO 3gx¿ c6fpnfg \ |     |     | / s:tf ] | 7f;] |     |     | 4 cm |
-| -------- | --------------------- | --- | --- | -------- | ---- | --- | --- | ---- |
+
+## 2: Pp6f 5 cm nDafO / 4 cm rf8} fO ePsf ] cfoftsf/ afs;sf] 1 cm  {#ch-2}
+
+| cfwf/df gvK6fOsg sltcf6] | | | f 1 cm3 sf a66\ | | fx¿ /fVg ;lsPnf < | | | |
+| o:t } ltg cf6] | f txx¿;u“ | |  } Ps dfly csf {] | | ub {} /fVbf | | | |
+| slt cf6] | f PsfO 3gx¿ c6fpnfg \ | | | / s:tf ] | 7f;] | | | 4 cm |
 5 cm
 cfsl[t aG5 <
-| o;df hDdf 60 cf6] |     | f PsfO 3gx¿ xG' |     |     | 5g \ . |     |     |     |
-| ----------------- | --- | --------------- | --- | --- | ------ | --- | --- | --- |
+| o;df hDdf 60 cf6] | | f PsfO 3gx¿ xG' | | | 5g \ . | | | |
 3 cm
-| t;y { 60 = 5 x 4 x 3 xG' |     |     | 5 hxf “ | if8d\ | v' fsf ] nDafO 5cm, |     |     |     |
-| ------------------------ | --- | --- | ------- | ----- | ------------------- | --- | --- | --- |
+| t;y { 60 = 5 x 4 x 3 xG' | | | 5 hxf “ | if8d\ | v' fsf ] nDafO 5cm, | | | |
 rf8} fO 4 cm / prfO 3cm  5 .
 To; sf/0f, if8d\ v' fsf ] cfotg = l x b x h 3g PsfO xG'5 . 4 cm
 5 cm
-| 64  |     |     |     |     |     |     | xfdf| ]ul0ft, sIff * |     |
-| --- | --- | --- | --- | --- | --- | --- | -------------------- | --- |
-
+| 64  | | | | | | | xfdf| ]ul0ft, sIff * | |
 xfdf| ]ul0ft, sIff * 65
-
-|     | xfdLnfO { yfxf 5, |                     |     |     |     |
-| --- | ----------------- | ------------------- | --- | --- | --- |
-|     | cfotg (V)         | = l x b x h wg PsfO |     |     |     |
+| | xfdLnfO { yfxf 5, | | | | |
+| | cfotg (V) | = l x b x h wg PsfO | | | |
 = (9 x 5 x 3) cm3  = 135 cm3
 -v_  ;dfwfg
 oxf “ lbOPsf ] 7f;] sf ] cfotg egs] f ] if8d\ v' fsf/ efux¿sf ] cfotgsf ] ofu] kmn xf ] .
@@ -3329,1466 +1512,853 @@ oxf “ lbOPsf ] 7f;] sf ] cfotg egs] f ] if8d\ v' fsf/ efux¿sf ] cfotgsf ] ofu
 pbfx/0f 3
 Pp6f 10 m nDafO, 9 m rf8} fO / 8 m prfO ePsf ] 6o\ fªs\ Ldf slt k6] f«n]  c6fpnf, kQf nufpm .
 ;dfwfg
-| oxf,“ 6o\ | fªs\ Lsf ]     | nDafO (l) = 10 m    |     |     |     |
-| --------- | -------------- | ------------------- | --- | --- | --- |
-|           | 6o\ fªs\ Lsf ] | rf8} fO (b) = 9 m   |     |     |     |
-|           | 6o\ fªs\ Lsf ] | prfO (h) = 8 m      |     |     |     |
-|           | cfotg (V)      | = l x b x h 3g PsfO |     |     |     |
+| oxf,“ 6o\ | fªs\ Lsf ] | nDafO (l) = 10 m | | | |
+| | 6o\ fªs\ Lsf ] | rf8} fO (b) = 9 m | | | |
+| | 6o\ fªs\ Lsf ] | prfO (h) = 8 m | | | |
+| | cfotg (V) | = l x b x h 3g PsfO | | | |
 = (10 x 9 x 8) m3
 =  720 m3
-| To;sf/0f, pSt 6o\ |     | fªs\ | Ldf 720 m3 k6] | f«n] |  c6fp5“  . |
-| ----------------- | --- | ---- | -------------- | ---- | ---------- |
+| To;sf/0f, pSt 6o\ | | fªs\ | Ldf 720 m3 k6] | f«n] |  c6fp5“  . |
 cEof; 7.2
-| 1.  | tnsf gfk ePsf if8d\ |     | v' fx¿sf ] | cfotg kQf nufpm M |       |
-| --- | ------------------- | --- | ---------- | ----------------- | ----- |
-|     | nDafO               |     | rf}8fO     |                   | prfO  |
-|     | -s_ 10 cm           |     | 6 cm       |                   | 5 cm  |
-|     | -v_ 4 cm            |     | 2 cm       |                   | 3 cm  |
-|     | -u_ 50 cm           |     | 40 cm      |                   | 30 cm |
-|     | -3_                 |     |            |                   | 5     |
-|     | 6 cm                |     | 2 cm       |                   | cm    |
-2
+| 1.  | tnsf gfk ePsf if8d\ | | v' fx¿sf ] | cfotg kQf nufpm M | |
+| | nDafO | | rf}8fO | | prfO  |
+| | -s_ 10 cm | | 6 cm | | 5 cm  |
+| | -v_ 4 cm | | 2 cm | | 3 cm  |
+| | -u_ 50 cm | | 40 cm | | 30 cm |
+| | -3_ | | | | 5 |
+| | 6 cm | | 2 cm | | cm |
 -ª_
-|     | 20 cm |     | 10 cm |     | 3.15 cm |
-| --- | ----- | --- | ----- | --- | ------- |
+| | 20 cm | | 10 cm | | 3.15 cm |
 66 xfdf| ]ul0ft, sIff *
-
 xfdf| ]ul0ft, sIff * 67
-
 kf7
-8
 :yfgfGt/0f
-(Transformation)
-| 8.0  kg' /jnfs] | g (Review) |     |     |     |     |     |
-| --------------- | ---------- | --- | --- | --- | --- | --- |
+Transformation
+| 8.0  kg' /jnfs] | g (Review) | | | | | |
 tn lbOPsf lrqx¿ x/]  / kT| os]  lrqsf af/d] f ;fyLx¿;u“  5nkmn u/L lgisifd{ f ku' L, nv]  M
-m
 B'
-|     |     |     |     | B Q |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
+| | | | | B Q | | |
 C'
-B
-|     |     |     | A   |     | A'  |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     | P   |     | A   |
+| | | | A | | A'  | |
+| | | | | P | | A |
 75°
-|     |     |     |     | C R |     | C   |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | -s_ |     |     | -v_ | -u_ |     |
-8.1 k/fjtg{  (Reflection)
-| dflysf ] | klxnf ] | lrqdf s ] kfof } | < o;df |     |     |     |
-| -------- | ------- | ---------------- | ------ | --- | --- | --- |
+| | | | | C R | | C |
+| | -s_ | | | -v_ | -u_ | |
+8.1 k/fjtg{  (Reflection
+| dflysf ] | klxnf ] | lrqdf s ] kfof } | < o;df | | | |
 Pp6f emG8fsf] k|ltlaDa /]vf m ;“u
-| bv] fOPsf ]           | 5 . o;nfO {              | m ;u“                |  emG8fsf] |     |     |          |
-| --------------------- | ------------------------ | -------------------- | --------- | --- | --- | -------- |
-| k/fjtg{               |  elgG5 . of ]            | xfdLn ]              | sIff 7 df |     |     |          |
-| kl9;ss]               | f 5f “} . ca xfdL lgbz{] |                      | fªs\ af6  |     |     |          |
-| k/fjtg{               | sf af/d]                 | f hfgsf/L lnG5f “}   |  M        |     |     |          |
-| -s_ X- cIfaf6 k/fjtg{ |                          |                      |           |     | Y   |          |
-| lrqdf laGb '          |                          | A np] m . A nfO {    | XOX'      |     |     | A' (3,4) |
-| af6 k/fjtg{           |                          |  u/ / pSt laGbn'     | fO{       |     |     |          |
-| A' gfd bp]            |                          | m . o;df X- cIfaf6 A |           |     |     |          |
+| bv] fOPsf ] | 5 . o;nfO { | m ;u“ |  emG8fsf] | | | |
+| k/fjtg{ |  elgG5 . of ] | xfdLn ] | sIff 7 df | | | |
+| kl9;ss] | f 5f “} . ca xfdL lgbz{] | | fªs\ af6  | | | |
+| k/fjtg{ | sf af/d] | f hfgsf/L lnG5f “} |  M | | | |
+| -s_ X- cIfaf6 k/fjtg{ | | | | | Y | |
+| lrqdf laGb ' | | A np] m . A nfO { | XOX' | | | A' (3,4) |
+| af6 k/fjtg{ | |  u/ / pSt laGbn' | fO{ | | | |
+| A' gfd bp] | | m . o;df X- cIfaf6 A | | | | |
 X' X
-| ;Ddsf ] | b/' | L / X-cIfaf6 A' ;Ddsf] |     |     |     |     |
-| ------- | --- | ---------------------- | --- | --- | --- | --- |
-O
-| b/' L a/fa/ xG'            |     | 5 . ca uf|kmdf laGb' |     |     |     |     |
-| -------------------------- | --- | -------------------- | --- | --- | --- | --- |
-| A sf] lgb]{zfª\s ug]/ n]v  |     |                      |     | .   |     |     |
-A' (3,-4)
-| To;u} | /L A' sf ]  | lgbz{] fªs\                |  slt xG' 5 |     |     |                      |
-| ----- | ----------- | -------------------------- | ---------- | --- | --- | -------------------- |
-| oxf “ | A sf ]      | lgbz{] fªs\  (3,4)  5 / A' |            |     |     |                      |
-| sf ]  | lgbz{] fªs\ |  (3,-4) 5 .                |            |     | Y'  |                      |
-| 68    |             |                            |            |     |     | xfdf| ]ul0ft, sIff * |
-
+| ;Ddsf ] | b/' | L / X-cIfaf6 A' ;Ddsf] | | | | |
+| b/' L a/fa/ xG' | | 5 . ca uf|kmdf laGb' | | | | |
+| A sf] lgb]{zfª\s ug]/ n]v  | | | | . | | |
+A' (3,-4
+| To;u} | /L A' sf ]  | lgbz{] fªs\ |  slt xG' 5 | | | |
+| oxf “ | A sf ] | lgbz{] fªs\  (3,4)  5 / A' | | | | |
+| sf ]  | lgbz{] fªs\ |  (3,-4) 5 . | | | Y'  | |
+| 68 | | | | | | xfdf| ]ul0ft, sIff * |
 pbfx/0f 1
 laGb ' (-4,5)  nfO{ X- cIfaf6 k/fjtg{  u/L kl| tlaDa laGbs' f ] lgbz{] fªs\  nv]  .
-|     | ;dfwfg                 |     |     |     | Y   |     |
-| --- | ---------------------- | --- | --- | --- | --- | --- |
-|     | oxf,“ A(x,y) = A(-4,5) |     |     | A'  |     |     |
+| | ;dfwfg | | | | Y | |
+| | oxf,“ A(x,y) = A(-4,5) | | | A'  | | |
 x = –4, y = 5
-|     | ca, X- cIfaf6 k/fjtg{ |  ubf,{ |     | X'  |     | X   |
-| --- | --------------------- | ------ | --- | --- | --- | --- |
-O
-|     | (-4,5) sf ] | kl|tlaDa (-4,-5) eof ] | .   |     |     |     |
-| --- | ----------- | ---------------------- | --- | --- | --- | --- |
-A
- (x', y') = (-4,-5)
+| | ca, X- cIfaf6 k/fjtg{ |  ubf,{ | | X'  | | X |
+| | (-4,5) sf ] | kl|tlaDa (-4,-5) eof ] | . | | | |
+x', y') = (-4,-5
 Y'
-|     | -v_ Y- cIfaf6 k/fjtg{   |  (Refelction by Y-axis) |                   |     |     |     |
-| --- | ----------------------- | ----------------------- | ----------------- | --- | --- | --- |
-|     | ;u“ s} f ] lrqdf laGb ' | B nfO {                 | YOY'  af6 k/fjtg{ |     | Y   |     |
-B
+| | -v_ Y- cIfaf6 k/fjtg{ |  (Refelction by Y-axis) | | | | |
+| | ;u“ s} f ] lrqdf laGb ' | B nfO { | YOY'  af6 k/fjtg{ | | Y | |
 B'
-|     | u//]  x/]  . o;sf ] | kl|tljDa YOY' /v]  | faf6 laGb'     |     |     |     |
-| --- | ------------------- | ------------------ | -------------- | --- | --- | --- |
-|     | B sf ] a/fa/ b/'    | Ldf k5 { . o;nfO { | B' gfd bp]     | m . |     |     |
-|     | ca B / B' sf ]      | lgbz{] fªs\  ug/]  |  slt slt 5 x/] |  <  |     |     |
-|     |                     |                    |                | X'  |     | X   |
-O
-|   | ltgLx¿ jm|dzM (-6,5) / (6,5) xG'     |     | 5g \ .           |     |     |     |
-| --- | ------------------------------------ | --- | ---------------- | --- | --- | --- |
-|     | t;y { (-6,5) nfO { Y -cIfaf6 k/fjtg{ |     |  ubf { (6,5) xG' | 5 . | Y'  |     |
+| | u//]  x/]  . o;sf ] | kl|tljDa YOY' /v]  | faf6 laGb' | | | |
+| | B sf ] a/fa/ b/' | Ldf k5 { . o;nfO { | B' gfd bp] | m . | | |
+| | ca B / B' sf ] | lgbz{] fªs\  ug/]  |  slt slt 5 x/] |  <  | | |
+| | | | | X'  | | X |
+|   | ltgLx¿ jm|dzM (-6,5) / (6,5) xG' | | 5g \ . | | | |
+| | t;y { (-6,5) nfO { Y -cIfaf6 k/fjtg{ | |  ubf { (6,5) xG' | 5 . | Y'  | |
 pbfx/0f 2
 laGb ' (-5,-7)  nfO { uf|km kk] /df cªs\ g u/L Y- cIfaf6 k/fjtg{  u/fO { uf|km kk] /df bv] fpm .
 ;dfwfg
-|     | oxf “ Q(-5,-7) lbPsf ] | 5 . |     |     |     |     |
-| --- | ---------------------- | --- | --- | --- | --- | --- |
-Y
+| | oxf “ Q(-5,-7) lbPsf ] | 5 . | | | | |
 hxf “  x= -5,  / y= -7 5 .
-|     | ca, uf|km kk] | /df Q(-5,-7) nfO { | Y- cIfaf6 |     |     |     |
-| --- | ------------- | ------------------ | --------- | --- | --- | --- |
+| | ca, uf|km kk] | /df Q(-5,-7) nfO { | Y- cIfaf6 | | | |
 k/fjtg{  ubf,{
-|     | (-5,-7) sf ] | kl|tlaDa (5,-7) eof ] | .   |     |     |     |
-| --- | ------------ | --------------------- | --- | --- | --- | --- |
-|     |              |                       |     | X'  |     | X   |
-O
-|     |  ,  Q'(x', y') = (5,-7) xG' | 5 . |     |     |     |     |
-| --- | --------------------------- | --- | --- | --- | --- | --- |
+| | (-5,-7) sf ] | kl|tlaDa (5,-7) eof ] | . | | | |
+| | | | | X'  | | X |
+| |  ,  Q'(x', y') = (5,-7) xG' | 5 . | | | | |
 Q'
-Q
 Y'
-| xfdf| ]ul0ft, sIff * |     |     |     |     |     | 69  |
-| -------------------- | --- | --- | --- | --- | --- | --- |
-
+| xfdf| ]ul0ft, sIff * | | | | | | 69  |
 pbfx/0f 3
 A(2,2), B(4,6) / C(6,3) Pp6f lqeh' sf zLifl{aGbx' ¿ xg'  \ . ΔABC nfO { nv] flrqdf k:| tt'  u/L pSt
 lqeh' nfO { Y-cIf;u“  k/fjtg{  u/ / kl|tlaDa lqeh' sf zLifl{aGbx' ¿sf lgbz{] fªs\ x¿ nv]  .
 ;dfwfg
-Y
 B' B
-| oxf,“ nv] flrqdf xb] | f { ΔABC sf ] | kl|tlaDa |     |     |     |
-| -------------------- | ------------- | -------- | --- | --- | --- |
-| ΔA'B'C' xf ] .       |               |          |     |     |     |
-C
-| ca, laGb ' A(2,2), B(4,6) / C(6,3) nfO{ |     |     | C'  |     | A'  |
-| --------------------------------------- | --- | --- | --- | --- | --- |
-A
-| Y-cIf;u“  k/fjtg{ |  ubf,{ |     |     |     |     |
-| ----------------- | ------ | --- | --- | --- | --- |
+| oxf,“ nv] flrqdf xb] | f { ΔABC sf ] | kl|tlaDa | | | |
+| ΔA'B'C' xf ] . | | | | | |
+| ca, laGb ' A(2,2), B(4,6) / C(6,3) nfO{ | | | C'  | | A'  |
+| Y-cIf;u“  k/fjtg{ |  ubf,{ | | | | |
 X' X
-| A' (-2,2) |     |     |     |     | O   |
-| --------- | --- | --- | --- | --- | --- |
-B' (-4,6)
+| A' (-2,2) | | | | | O |
+B' (-4,6
 Y'
-C' (-6,3)
+C' (-6,3
 cfjZos kl|tlaDa ΔA'B'C' xf,] h;df zLifl{aGbx' ¿sf ] lgbz{] fªs\ x¿ A'(-2,2), B'(-4,6) / C'(-6,3) 5g \ .
 cEof; 8.1
 1. lbOPsf HofldtLo cfsl[ tx¿nfO { lbOPsf ] cIf m ;u“  k/fjtg{  u/L kl| tlaDa lrq lvr M
-| -s_ |     | -v_ |     | -u_ |     |
-| --- | --- | --- | --- | --- | --- |
-m
-m
-m
-| -3_ |     | -ª_ |     |     | -r_ |
-| --- | --- | --- | --- | --- | --- |
-m
-m
-m
-2. n]vflrqsf] k|of]u u/L lbOPsf lgb]{zfª\sx¿nfO{ X- cIf;“u k/fjt{g u/L k|ltlaDasf]
-| lgbz{] fªs\  nv] |  M         |     |             |               |             |
-| ---------------- | ---------- | --- | ----------- | ------------- | ----------- |
-| -s_ (1,2)        | -v_ (-2,3) |     | -u_ (4,-5)  | -3_ (-6,6)    | -ª_ (-5,-4) |
-| -r_ (-2,5)       | -5_ (9,-8) |     | -h_ (-3,-9) | -em_ (-10,12) | -`_ (7,8)   |
+| -s_ | | -v_ | | -u_ | |
+| -3_ | | -ª_ | | | -r_ |
+2. n]vflrqsf] k|of]u u/L lbOPsf lgb]{zfª\sx¿nfO{ X- cIf;“u k/fjt{g u/L k|ltlaDasf
+| lgbz{] fªs\  nv] |  M | | | | |
+| -s_ (1,2) | -v_ (-2,3) | | -u_ (4,-5)  | -3_ (-6,6) | -ª_ (-5,-4) |
+| -r_ (-2,5) | -5_ (9,-8) | | -h_ (-3,-9) | -em_ (-10,12) | -`_ (7,8) |
 3. kZ| g g= 2 sf laGbx' ¿nfO { Y- cIfaf6 k/fjtg{  u/L uf|km kk] /df nv]  .
-laGb ' P(5,-6)  nfO { Y-cIf af6 k/fjtg{  u/ / P' sf ] lgbz{] fªs\  kQf nufpm . /v] f PP' sf]
-4.
+laGb ' P(5,-6)  nfO { Y-cIf af6 k/fjtg{  u/ / P' sf ] lgbz{] fªs\  kQf nufpm . /v] f PP' sf
 b/' L kQf nufpm .
-| 70  |     |     |     |     | xfdf| ]ul0ft, sIff * |
-| --- | --- | --- | --- | --- | -------------------- |
-
+| 70  | | | | | xfdf| ]ul0ft, sIff * |
 5. P(4,3), Q(7,3)  / R(4,-3) Pp6f ;dsf0] f lqeh' sf zLifl{aGbx' ¿ xg'  \ . pSt lqeh' nfO { nv] flrqdf
-| cªs\ | g u/L  X-  cIf;u“  k/fjtg{ |  u/ . |     |     |
-| ---- | -------------------------- | ----- | --- | --- |
+| cªs\ | g u/L  X-  cIf;u“  k/fjtg{ |  u/ . | | |
 6. A(2,-2), B(2,3) C(5,3) / D(5,-2)  Pp6f cfotsf zLifl{aGbx' ¿ xg'  \ . ca pSt cfotnfO{
 nv] flrqdf cªs\ g u/L Y-cIfaf6 k/fjtg{  u/L nv] flrqdf k:| tt'  u/ .
-  u/L ΔA'B'C'
+u/L ΔA'B'C'
 7. A(-2,3), B(-5,2)  / C(-4,5) nfO { nv] flrqdf cªs\ g u/L klxn ] X-cIfaf6 k/fjtg{
 kQf nufpm . km]l/ ΔA'B'C' nfO { Y- cIfaf6 k/fjtg{  u/L clGtd kl|tlaDanfO { nv] flrqdf
-| k:| tt' |  u/ . |     |     |     |
-| ------- | ----- | --- | --- | --- |
-8.2  kl/jm|d0f     (Rotation)
+| k:| tt' |  u/ . | | | |
+8.2  kl/jm|d0f (Rotation
 sg'  } laGb ' jf lrqnfO { sg'  } laGba' f6 lbOPsf ] lbzfdf / lbOPsf ] sf0] fdf :yfgfGt/0f u/fpgn' fO{
 kl/jm|d0f (Rotation)  elgG5 . kl/jm|d0fsf nflu lgDglnlvt ltg cj:yfx¿ cfjZos 5g \ M
-•
-| kl/jm|d0fsf ] | sG] b | ( Center of Rotation) |     |     |     |
-| ------------- | ----------------------------- | --- | --- | --- |
-•
-| kl/jm|d0fsf ] | sf0] f (Angle of Rotation) |     |     |     |
-| ------------- | -------------------------- | --- | --- | --- |
-•
-| kl/jm|d0fsf ] | lbzf (Direction of Rotation) |     |     |     |
-| ------------- | ---------------------------- | --- | --- | --- |
+| kl/jm|d0fsf ] | sG] b | ( Center of Rotation) | | | |
+| kl/jm|d0fsf ] | sf0] f (Angle of Rotation) | | | |
+| kl/jm|d0fsf ] | lbzf (Direction of Rotation) | | | |
 38Lsf ] ;O' sf ] lbzfnfO { kl/jm|d0fsf ] C0ffTds (Negative) lbzf / 38Lsf ] ;O' s{ f ] ljk/Lt
-| lbzfnfO {         | kl/jm|d0fsf ] wgfTds (Positive) lbzf elgG5 . |     |     |     |
-| ----------------- | -------------------------------------------- | --- | --- | --- |
-| -s_ pbu\ d laGb ' | O(0,0)  af6 +90°  df kl/jm|d0f               |     |     |     |
-Y
-| O pbu\ d laGb ' | xf ] . XOX' / YOY' bO' |  { cIfx¿ xg' |  \ . |     |
-| --------------- | ---------------------- | ------------ | ---- | --- |
-P(x,y)
-| P(x,y)  Pp6f laGb '            | xf ] . ca P laGbn' | fO { O af6 90° |     |     |
-| ------------------------------ | ------------------ | -------------- | --- | --- |
-| df 3d' fpm / P'(x',y')  df k¥' | ofpm, hxf “        | ∠POP' =        |     |     |
-P'(x',y')
-| 90° xG' 5 / OP=OP' xG' | 5 .                |                |      |     |
-| ---------------------- | ------------------ | -------------- | ---- | --- |
-| nv] flrqaf6 laGb '     | P / P' sf ] lgbz{] | fªs\  x/] f “} | . X' | X   |
-(0,0)
-O
+| lbzfnfO { | kl/jm|d0fsf ] wgfTds (Positive) lbzf elgG5 . | | | |
+| -s_ pbu\ d laGb ' | O(0,0)  af6 +90°  df kl/jm|d0f | | | |
+| O pbu\ d laGb ' | xf ] . XOX' / YOY' bO' |  { cIfx¿ xg' |  \ . | |
+P(x,y
+| P(x,y)  Pp6f laGb ' | xf ] . ca P laGbn' | fO { O af6 90° | | |
+| df 3d' fpm / P'(x',y')  df k¥' | ofpm, hxf “ | ∠POP' = | | |
+P'(x',y'
+| 90° xG' 5 / OP=OP' xG' | 5 . | | | |
+| nv] flrqaf6 laGb ' | P / P' sf ] lgbz{] | fªs\  x/] f “} | . X' | X |
 P(x,y)=(4,6)  5 / P'(x',y')=(-6,4)  5 .
 Y'
-| xfdf| ]ul0ft, sIff * |     |     |     | 71  |
-| -------------------- | --- | --- | --- | --- |
-
-Y
-P(4,6)
-| To;u} /L nv]     | flrqaf6 xb] |                             | f { pSt laGbn' |     | fO{ |       |     |
-| ---------------- | ----------- | --------------------------- | -------------- | --- | --- | ----- | --- |
-| 38Lsf ]          | ;O' s{ f ]  | lbzfdf jf C0ffTds lbzfdf    |                |     |     |       |     |
-| kl/jm|d0f u/fpb“ |             | f P(4,6) af6 P'(6,-4) eof ] |                |     | .   |       |     |
-| To;nfO {         | lgDgfg;'    | f/ bv]                      | fpg ;lsG5 .    |     |     | (0,0) |     |
-X
+| xfdf| ]ul0ft, sIff * | | | | 71  |
+P(4,6
+| To;u} /L nv] | flrqaf6 xb] | | f { pSt laGbn' | | fO{ | | |
+| 38Lsf ] | ;O' s{ f ]  | lbzfdf jf C0ffTds lbzfdf | | | | | |
+| kl/jm|d0f u/fpb“ | | f P(4,6) af6 P'(6,-4) eof ] | | | . | | |
+| To;nfO { | lgDgfg;' | f/ bv] | fpg ;lsG5 . | | | (0,0) | |
 X'
-O
 +90°
-| P(4,6) |     |     | P1(-6,4) |     |     |     |     |
-| ------ | --- | --- | -------- | --- | --- | --- | --- |
-P'(6,-4)
-|        | –90° |     |          |     |     | Y'  |     |
-| ------ | ---- | --- | -------- | --- | --- | --- | --- |
-| P(4,6) |      |     | P1(6,-4) |     |     |     |     |
-Y
-A(x,y)
-| -v_ pbu\ d laGb '    | O(0,0)  af6  180°     df kl/jm|d0f |     |            |         |        |     |     |
-| -------------------- | ---------------------------------- | --- | ---------- | ------- | ------ | --- | --- |
-| uf|km kk] /df laGb ' | (x, y) np]                         |     | m . laGb ' | A nfO { | pbu\ d |     |     |
-(0,0)
-| laGb' O(0,0) af6 wgfTds lbzfdf 180° |     |     |     |     |  df |     | X   |
-| ----------------------------------- | --- | --- | --- | --- | --- | --- | --- |
+| P(4,6) | | | P1(-6,4) | | | | |
+P'(6,-4
+| | –90° | | | | | Y'  | |
+| P(4,6) | | | P1(6,-4) | | | | |
+A(x,y
+| -v_ pbu\ d laGb ' | O(0,0)  af6  180° df kl/jm|d0f | | | | | | |
+| uf|km kk] /df laGb ' | (x, y) np] | | m . laGb ' | A nfO { | pbu\ d | | |
+| laGb' O(0,0) af6 wgfTds lbzfdf 180° | | | | |  df | | X |
 X'
-| kl/jm|d0f u/fpm / laGb '                             |     | A'(x',y') gfdn ] |             | hgfpm . hxf“ |           | O   |     |
-| ---------------------------------------------------- | --- | ---------------- | ----------- | ------------ | --------- | --- | --- |
-| 0A=OA' 5 . uf|kmdf laGb '                            |     |                  | A / A' sf ] | lgbz{]       | fªs\  ugL |     |     |
-| nv]  . hxf “ A(x,y)= (7,4) 5 / A(x',y')= (-7,-4) 5 . |     |                  |             |              |           |     |     |
-A'(x',y')
+| kl/jm|d0f u/fpm / laGb ' | | A'(x',y') gfdn ] | | hgfpm . hxf“ | | O | |
+| 0A=OA' 5 . uf|kmdf laGb ' | | | A / A' sf ] | lgbz{] | fªs\  ugL | | |
+| nv]  . hxf “ A(x,y)= (7,4) 5 / A(x',y')= (-7,-4) 5 . | | | | | | | |
+A'(x',y'
 Y'
 To:t } (7,4) nfO { 180° af6 C0ffTds lbzfdf kl/jm|d0f u/fpb“ f (-7,-4)  g } xG' 5 .
 pbfx/0f 1
 zLifl{aGbx' ¿ A(6,6), B(4,5) / C(6,2) ePsf ] Pp6f lqeh' nfO { nv] flrqdf k:| tt'  u/ . . pSt lqeh' nfO{
 pbu\ d laGb ' (0,0) af6 -s_ 90° wgfTds lbzfdf / -v_ 180° df kl/jm|d0f u/ .
 ;dfwfg
-| -s_ oxf,“ ΔABC sf zLifl{aGbx' |     |     | ¿ jm|dzM (6,6), |     |     | Y   |     |
-| ----------------------------- | --- | --- | --------------- | --- | --- | --- | --- |
-A
-|                    |     |     |     |     | A'  | C'  |     |
-| ------------------ | --- | --- | --- | --- | --- | --- | --- |
-| (4,5) / (6,2) 5g \ | .   |     |     |     |     |     |     |
-B
-| ca laGbx' ¿ A, B / C nfO { |     |     | jm|dzM 90° df |     |     |     |     |
-| -------------------------- | --- | --- | ------------- | --- | --- | --- | --- |
+| -s_ oxf,“ ΔABC sf zLifl{aGbx' | | | ¿ jm|dzM (6,6), | | | Y | |
+| | | | | | A'  | C'  | |
+| (4,5) / (6,2) 5g \ | . | | | | | | |
+| ca laGbx' ¿ A, B / C nfO { | | | jm|dzM 90° df | | | | |
 B'
-| kl/j|md0f u/fp“bf aGg] k|ltljDa lqe'hnfO{ |     |     |         |     |     |     | C   |
-| ----------------------------------------- | --- | --- | ------- | --- | --- | --- | --- |
-| nv] flrqdf 5fof kf/L bv]                  |     |     | fOPsf ] | 5 . | X'  |     | X   |
-O
+| kl/j|md0f u/fp“bf aGg] k|ltljDa lqe'hnfO{ | | | | | | | C |
+| nv] flrqdf 5fof kf/L bv] | | | fOPsf ] | 5 . | X'  | | X |
 hxf“,
 72 xfdf| ]ul0ft, sIff *
-
-|                |                               |                 |     | Y   | A   |
-| -------------- | ----------------------------- | --------------- | --- | --- | --- |
-| -v_ ΔABC nfO { | nv] flrqaf6 180° df kl/jm|d0f |                 |     |     |     |
-| u/fpb“ f aGg ] | ΔA'B'C' nfO {                 | nv] flrqdf 5fof |     |     |     |
-B
-| kf/L bv] fOPsf ] | 5 h;df, |     |     |     |     |
-| ---------------- | ------- | --- | --- | --- | --- |
-C
-O
-|     |     |     | X'  |     | X   |
-| --- | --- | --- | --- | --- | --- |
+| | | | | Y | A |
+| -v_ ΔABC nfO { | nv] flrqaf6 180° df kl/jm|d0f | | | | |
+| u/fpb“ f aGg ] | ΔA'B'C' nfO { | nv] flrqdf 5fof | | | |
+| kf/L bv] fOPsf ] | 5 h;df, | | | | |
+| | | | X'  | | X |
 C'
 B'
 A'
 Y'
 cEof; 8.2
 1. tnsf lrqx¿nfO { nv] flrqdf ;f//]  56' 6\ f56' 6\  } laGb ' O(0,0) af6 3gfTds lbzfdf 90° / 180°
-| df kl/jm|d0f u//] |  bv] fpm M |     |     |     |     |
-| ----------------- | ---------- | --- | --- | --- | --- |
-Y
-| -s_ |     |     | A   | Y   | A   |
-| --- | --- | --- | --- | --- | --- |
+| df kl/jm|d0f u//] |  bv] fpm M | | | | |
+| -s_ | | | A | Y | A |
 -v_
-| X'  |     |     | X   |     | X   |
-| --- | --- | --- | --- | --- | --- |
-|     | O   |     | X'  |     |     |
-O
-|     |     | Y'  |     | Y'  |     |
-| --- | --- | --- | --- | --- | --- |
+| X'  | | | X | | X |
+| | O | | X'  | | |
+| | | Y'  | | Y'  | |
 -u_
 -3_
-Y
-|     |     |     | A   | Y   | A   |
-| --- | --- | --- | --- | --- | --- |
-| X'  |     |     | X   |     | X   |
-|     | O   |     | X'  |     |     |
-O
-|                      |     | Y'  |     | Y'  |     |
-| -------------------- | --- | --- | --- | --- | --- |
-| xfdf| ]ul0ft, sIff * |     |     |     |     | 73  |
-
+| | | | A | Y | A |
+| X'  | | | X | | X |
+| | O | | X'  | | |
+| | | Y'  | | Y'  | |
+| xfdf| ]ul0ft, sIff * | | | | | 73  |
 2. kZ| g 1 sf lrqx¿nfO { C0ffTds lbzfdf 90° / 180° df  kl/jm|d0f u/L nv] flrqdf k:| tt'  u/ .
 tnsf laGbx' ¿nfO { nv] flrqdf cªs\ g u/L +90°, -90° / 180° df  kl/jm|d0f u/L nv] flrqdf
-3.
-| 56' 6\ f 56' 6\ |  } k:| tt'  u/ . |           |            |             |
-| --------------- | ---------------- | --------- | ---------- | ----------- |
-| -s_ (-4,7)      | -v_ (4,-7)       | -u_ (5,9) | -3_ (3,0)  | -ª_ (-4,-8) |
-| -r_ (2,-5)      | -5_ (10,-10)     | -h_ (0,6) | -em_ (0,0) | -`_ (-9,-9) |
+| 56' 6\ f 56' 6\ |  } k:| tt'  u/ . | | | |
+| -s_ (-4,7) | -v_ (4,-7) | -u_ (5,9) | -3_ (3,0)  | -ª_ (-4,-8) |
+| -r_ (2,-5) | -5_ (10,-10) | -h_ (0,6) | -em_ (0,0) | -`_ (-9,-9) |
 4. A(0,0), B(3,0), C(3,3) / D(0,3) zLifl{aGbx' ¿ ePsf ] Pp6f jun{ fO { nv] flrqdf lvrL To;nfO{
 pbu\ d laGb ' O(0,0) af6 -s_ +90° / -v_ -90° df kl/jm|d0f u/fO { nv] flrqdf k:| tt'  u/ .
 5. tn lbOPsf zLifl{aGbx' ¿af6 aGg ] HofldtLo cfsl[tnfO { nv] flrqdf cªl\st u/L pbu\ d laGb'
 O(0,0)  af6 -i_ 90° / -ii_ -90° df kl/jm|d0f u/fO { 56' 6\ f56' 6\  } nv] flrqdf k:| tt'  u/ .
--s_ (2,7), (3,3), / (6,7)
--v_ (3,2), (-2,2), (6,5) / (1,5)
-Y
-A
--u_ (10,6), / (12,6)
-| ;u“ s} f ] lrqnfO { | pbu\ d laGb ' | (0,0) af6 |     |     |
-| ------------------- | ------------- | --------- | --- | --- |
-6.
+-s_ (2,7), (3,3), / (6,7
+-v_ (3,2), (-2,2), (6,5) / (1,5
+-u_ (10,6), / (12,6
+| ;u“ s} f ] lrqnfO { | pbu\ d laGb ' | (0,0) af6 | | |
 -90°, +90° / 180° df kl/jm|d0f u/fO{
-| 56' 6\ f56' 6\ |  } nv] flrqdf k:| | tt'  u/ . |     |     |
-| -------------- | ----------------- | --------- | --- | --- |
+| 56' 6\ f56' 6\ |  } nv] flrqdf k:| | tt'  u/ . | | |
 X' X
-O
 Y'
-| 74  |     |     |     | xfdf| ]ul0ft, sIff * |
-| --- | --- | --- | --- | -------------------- |
-
-8.3  lj:yfkg     (Displacement)
-| 6a] n' df Pp6f lstfa /fv . To;nfO { |     | l3;f//] |  sx] L afof“ | A   |     |
-| ----------------------------------- | --- | ------- | ------------ | --- | --- |
+| 74  | | | | xfdf| ]ul0ft, sIff * |
+8.3  lj:yfkg (Displacement
+| 6a] n' df Pp6f lstfa /fv . To;nfO { | | l3;f//] |  sx] L afof“ | A | |
 B A'
 B'
-| ;f/ . klxns] | f ] lstfasf ] :yfg ABCD  lyof ] |     | / clxnsf] |     |     |
-| ------------ | ------------------------------- | --- | --------- | --- | --- |
-→
-| :yfg A'B'C'D' eof ]                        | . lstfasf ] | :yfg lglZrt lbzfdf |     |     |     |
-| ------------------------------------------ | ----------- | ------------------ | --- | --- | --- |
-| kl/jt{g eof] . o;nfO{ pSt lstfasf] lj:yfkg |             |                    |     | D   | C   |
+| ;f/ . klxns] | f ] lstfasf ] :yfg ABCD  lyof ] | | / clxnsf] | | |
+| :yfg A'B'C'D' eof ] | . lstfasf ] | :yfg lglZrt lbzfdf | | | |
+| kl/jt{g eof] . o;nfO{ pSt lstfasf] lj:yfkg | | | | D | C |
 D' C'
-| elgG5 .  ca AA', BB', CC' / DD' hf8]  |              |                                |  / gfk / |     |     |
-| ------------------------------------- | ------------ | ------------------------------ | -------- | --- | --- |
-| ltgLx¿sf ]                            | ;DaGw s:tf ] | kfof } nv]  .  oxf,“ AA', BB', |          |     |     |
-| CC' / DD' a/fa/ / k/:k/ ;dfgfGt/ 5g \ |              |                                | .        |     |     |
+| elgG5 .  ca AA', BB', CC' / DD' hf8]  | | |  / gfk / | | |
+| ltgLx¿sf ] | ;DaGw s:tf ] | kfof } nv]  .  oxf,“ AA', BB', | | | |
+| CC' / DD' a/fa/ / k/:k/ ;dfgfGt/ 5g \ | | | . | | |
 sg'  } klg laGb ' jf j:tn' fO { lbOPsf ] lbzfdf lglZrt b/' Ldf ;fg {' jf :yfgfGt/0f ugn{' fO { lj:yfkg
-(translation) elgG5 . lj:yfkgsf nflu lj:yfkgsf ] kl/df0f / lbzf pNnv]  ug {' cfjZos 5 .
+translation) elgG5 . lj:yfkgsf nflu lj:yfkgsf ] kl/df0f / lbzf pNnv]  ug {' cfjZos 5 .
 sg'  } lgbz{] fªs\ nfO { bfof “ lj:yfkg ubf { ±, afof “ lj:yfkg ubf { —, dfly lj:yfkg ubf { ± / tn
-| lj:yfkg ubf { | — nl]vG5 . |     |     |     |     |
-| ------------- | ---------- | --- | --- | --- | --- |
-Y
+| lj:yfkg ubf { | — nl]vG5 . | | | | |
 pbfx/0f 1
 A'
-| ;u“ s} f ] lrqdf ΔABC  lbOPsf ] |                                  | 5 / pSt lqeh' | nfO{ |     |     |
-| ------------------------------- | -------------------------------- | ------------- | ---- | --- | --- |
-| 5 PsfO bfof “                   | / 4 PsfO dfly lj:yfkg u/L cfsl[t |               |      |     | B'  |
+| ;u“ s} f ] lrqdf ΔABC  lbOPsf ] | | 5 / pSt lqeh' | nfO{ | | |
+| 5 PsfO bfof “ | / 4 PsfO dfly lj:yfkg u/L cfsl[t | | | | B'  |
 C'
-| A'B'C' k¥' | ofOPsf ] 5 . ca ΔABC / ΔA'B'C' |     |     |     |     |
-| ---------- | ------------------------------ | --- | --- | --- | --- |
-A
-| sf zLif { | laGbx' ¿sf lgbz{] | fªs\ x¿ x/] f “} | .   |     |     |
-| --------- | ----------------- | ---------------- | --- | --- | --- |
-|           |                   |                  |     | B   | C   |
-X
-| oxf,“ lj:yfkg cufl8 / lj:yfkg k5fl8sf ] |     |     | x / y lgbz{] | fªs\  x/] | f “} . |
-| --------------------------------------- | --- | --- | ------------ | --------- | ------ |
+| A'B'C' k¥' | ofOPsf ] 5 . ca ΔABC / ΔA'B'C' | | | | |
+| sf zLif { | laGbx' ¿sf lgbz{] | fªs\ x¿ x/] f “} | . | | |
+| | | | | B | C |
+| oxf,“ lj:yfkg cufl8 / lj:yfkg k5fl8sf ] | | | x / y lgbz{] | fªs\  x/] | f “} . |
 tLgcf6]  } zLifl{aGbx' ¿df x- sf ] dfgdf lj:yfkgkl5 5 ylkPsf ] 5 . To:t,} y sf ] dfgdf klg
 lj:yfkgkl5 4 ylkPsf ] 5 .  lj:yfkgkl5 kl|tlaDa lqeh' nfO { 5fof kf/L bv] fOPsf ] 5 .
 xfdf| ]ul0ft, sIff * 75
-
-| pbfx/0f 2 |     |     |     |     |     | Y   |     |
-| --------- | --- | --- | --- | --- | --- | --- | --- |
-D'(-1,6)
-A'(-5,6)
-| A(-2,2), B(-3,-2), C(3,-2) / D(2,2)  Pp6f rte' |                             |     |                      | h{' | sf       |                 |        |
-| ---------------------------------------------- | --------------------------- | --- | -------------------- | --- | -------- | --------------- | ------ |
-| zLifl{aGbx' ¿ xg'                              |  \ . pSt rte'               | h{' | nfO { nv] flrqdf k:| |     | tt'      |                 |        |
-|                                                |                             |     |                      |     |          | A(-2,2) C'(0,2) |        |
-| u/L 3 PsfO afo“                                | f / 4 PsfO dfly lj:yfkg u/L |     |                      |     | B'(-6,2) |                 | D(2,2) |
-| nv] flrqdf k:|                                 | tt'  u/ .                   |     |                      |     |          |                 |        |
+| pbfx/0f 2 | | | | | | Y | |
+D'(-1,6
+A'(-5,6
+| A(-2,2), B(-3,-2), C(3,-2) / D(2,2)  Pp6f rte' | | | | h{' | sf | | |
+| zLifl{aGbx' ¿ xg' |  \ . pSt rte' | h{' | nfO { nv] flrqdf k:| | | tt' | | |
+| | | | | | | A(-2,2) C'(0,2) | |
+| u/L 3 PsfO afo“ | f / 4 PsfO dfly lj:yfkg u/L | | | | B'(-6,2) | | D(2,2) |
+| nv] flrqdf k:| | tt'  u/ . | | | | | | |
 X' X
-O
 ;dfwfg
-|     |     |     |     |     |     | B(-3,-2) | C(3,-2) |
-| --- | --- | --- | --- | --- | --- | -------- | ------- |
+| | | | | | | B(-3,-2) | C(3,-2) |
 oxf,“  A(-2,2), B(-3,-2) , C(3,-2) / D(2,2) 5 . o;nfO{
-| ;u“ s} f ] nv]                               | flrqdf bv] | fOPsf ] | 5 . o;df kl|tlaDa |     |     |     |     |
-| -------------------------------------------- | ---------- | ------- | ----------------- | --- | --- | --- | --- |
-| rt'e'{hsf zLif{laGb'sf lgb]{zfª\sx¿ A(-5,6), |            |         |                   |     |     | Y'  |     |
-| B(-6,2), C(0,2) / D(-1,6) 5g \               |            |         | .                 |     |     |     |     |
+| ;u“ s} f ] nv] | flrqdf bv] | fOPsf ] | 5 . o;df kl|tlaDa | | | | |
+| rt'e'{hsf zLif{laGb'sf lgb]{zfª\sx¿ A(-5,6), | | | | | | Y'  | |
+| B(-6,2), C(0,2) / D(-1,6) 5g \ | | | . | | | | |
 cEof; 8.3
 1. tn lbOPsf cfsl[ tx¿nfO { lbPsf ] lbzf / kl/df0fdf lj:yfkg u/ M
-| -s_ |     |     | -v_ |     |     | -u_ |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     | 2cm |     | 2cm |
+| -s_ | | | -v_ | | | -u_ | |
+| | | | | | 2cm | | 2cm |
 2cm
 2. laGb ' (4,-5) nfO { nvf]lrqdf cªs\ g u/L 3 PsfO bfof “ / 4 PsfO dfly lj:yfkg u/L k:| tt'
 u/ .
 3 tnsf lgbz{] fªs\ x¿nfO { nv] flrqdf cªs\ g u/L 3 PsfO afof “ / 3 PsfO dfly lj:yfkg
-| u/L nv]    | flrqdf k:| | tt'  u/ M  |     |            |     |             |     |
-| ---------- | ---------- | ---------- | --- | ---------- | --- | ----------- | --- |
-| -s_ (4,9)  |            | -v_ (-3,6) |     | -u_ (-2,2) |     | -3_ (-5,5)  |     |
-| -ª_ (2,-3) |            | -r_ (4,-7) |     | -5_ (-4,8) |     | -h_ (-5,-6) |     |
+| u/L nv] | flrqdf k:| | tt'  u/ M  | | | | | |
+| -s_ (4,9)  | | -v_ (-3,6) | | -u_ (-2,2) | | -3_ (-5,5)  | |
+| -ª_ (2,-3) | | -r_ (4,-7) | | -5_ (-4,8) | | -h_ (-5,-6) | |
 4. P(-1,-3) / Q(4,5) nfO { 2 PsfO bfof “ / 3 PsfO dfly lj:yfkg u/L nv] flrqdf k:| tt'  u/ .
 zLifl{aGbx' ¿ A(1,0), B(4,5) / C(7,-2) ePsf ] ΔABC nfO { nv] flrqdf cªs\ g u/L 3 PsfO bfof“
-5.
-| / 5 PsfO tn lj:yfkg u/L nv] |     |     | flrqdf k:| |     | tt'  u/ . |     |     |
-| --------------------------- | --- | --- | ---------- | --- | --------- | --- | --- |
+| / 5 PsfO tn lj:yfkg u/L nv] | | | flrqdf k:| | | tt'  u/ . | | |
 6. laGbx' ¿ (4,6), (7,5), (5,1) / (2,2) nfO { nv] flrqdf lvrL aGg ] cfsl[tnfO { 4 PsfO afof “ / 5
-| PsfO tn lj:yfkg u/L nv] |     |     | flrqdf k:| | tt' |  u/ . |     |     |
-| ----------------------- | --- | --- | ---------- | --- | ----- | --- | --- |
+| PsfO tn lj:yfkg u/L nv] | | | flrqdf k:| | tt' |  u/ . | | |
 7. A(4,1) nfO { nv] flrqdf cªs\ g u/L 5 PsfO bfof “ / 4 PsfO dfly lj:yfkg u/ . km]l/ pSt
 kl|tlaDa laGbn' fO { 2 PsfO bfof “ / 5 PsfO tn lj:yfkg u/L nv] flrqdf k:| tt'  u/ .
 8. laGb ' (-3,5) nfO { slt PsfOdf lj:yfkg ubf { (4,5) aG5, nv] flrqdf bv] fpm .
-| 76  |     |     |     |     |     |     | xfdf| ]ul0ft, sIff * |
-| --- | --- | --- | --- | --- | --- | --- | -------------------- |
-
+| 76  | | | | | | | xfdf| ]ul0ft, sIff * |
 kf7
-|     | lbzfl:ylt / :sn] |     |  8O« | ª   |     |
-| --- | ---------------- | --- | ---- | --- | --- |
-9
-(Bearing and Scale Drawing)
-| 9.0.kg' /jnfs] | g (Review) |     |     |     |     |
-| -------------- | ---------- | --- | --- | --- | --- |
+| | lbzfl:ylt / :sn] | |  8O« | ª | |
+Bearing and Scale Drawing
+| 9.0.kg' /jnfs] | g (Review) | | | | |
 tn lbOPsf ] gS;fdf kfv] /fnfO { sG] b | dfgL lgDglnlvt :yfgx¿ hf8]  M
-| hD' nf, ;v' | t{] , sf7df8f,“} Onfd, lj/f6gu/, jL/uGh / dxG] |     |     | bg| u/ |     |
-| ----------- | ---------------------------------------------- | --- | --- | ------ | --- |
+| hD' nf, ;v' | t{] , sf7df8f,“} Onfd, lj/f6gu/, jL/uGh / dxG] | | | bg| u/ | |
 p=
-lbzfl:ylt (Bearing)
-9.1.
-  lof;u“ s} f ] lrq x/] /]  lbOPsf kZ| gx¿sf pQ/x¿sf af/d] f 5nkmn u/f “} M
-|  nfO { cfwf/ /v] | f dfg/] |  dfkg ubf,{ |     |     |      |
-| ---------------- | ------- | ----------- | --- | --- | ---- |
-| N                |         |             |     |     | 000º |
-N
-| -s_ NE sf ] | dfkg slt xG' | 5 < |     |     |     |
-| ----------- | ------------ | --- | --- | --- | --- |
+lbzfl:ylt (Bearing
+lof;u“ s} f ] lrq x/] /]  lbOPsf kZ| gx¿sf pQ/x¿sf af/d] f 5nkmn u/f “} M
+|  nfO { cfwf/ /v] | f dfg/] |  dfkg ubf,{ | | | |
+| N | | | | | 000º |
+| -s_ NE sf ] | dfkg slt xG' | 5 < | | | |
 315ºNW NE 045º
-| -v_  sf ] | dfkg slt 5 < |     |     |     |     |
-| --------- | ------------ | --- | --- | --- | --- |
-E
-| -u_ |  sf ] dfkg slt 5 . |     |     |     | 0   |
-| --- | ------------------ | --- | --- | --- | --- |
-SE
+| -v_  sf ] | dfkg slt 5 < | | | | |
+| -u_ |  sf ] dfkg slt 5 . | | | | 0 |
 270ºW E 090º
-| -3_  sf ] | dfkg slt xfn] | f < |     |     |     |
-| --------- | ------------- | --- | --- | --- | --- |
-S
-| -ª_ |  sf ] dfkg slt 5 < |     |     |     |     |
-| --- | ------------------ | --- | --- | --- | --- |
-SW
+| -3_  sf ] | dfkg slt xfn] | f < | | | |
+| -ª_ |  sf ] dfkg slt 5 < | | | | |
 SW ESGE135º
-| -r_ ;a } | sf0] fx¿ sg' |  lbzfdf lnOPsf ] | 5 < | 225º |     |
-| -------- | ------------ | ---------------- | --- | ---- | --- |
-S
+| -r_ ;a } | sf0] fx¿ sg' |  lbzfdf lnOPsf ] | 5 < | 225º | |
 180º
-| -5_ ;as} | f ] dfkgnfO { | slt cªs\ sf ¿kdf k:| | tt'  ul/Psf ] | 5 < |     |
-| -------- | ------------- | -------------------- | ------------- | --- | --- |
+| -5_ ;as} | f ] dfkgnfO { | slt cªs\ sf ¿kdf k:| | tt'  ul/Psf ] | 5 < | |
 xfdf| ]ul0ft, sIff * 77
-
-| dflysf ] 5nkmnaf6 lgDglnlvt tLg s/' |     | fx¿ yfxf kfpg ;lsG5 M |     |     |
-| ----------------------------------- | --- | --------------------- | --- | --- |
--s_  nfO { cfwf/ /v] f dfGg] -v_ 38Lsf ] ;O' s{ f ] lbzfdf gfKg]
-N
-| -u_ dfkg tLg cªs\ | df k:| tt'  ug{] |     |     |     |
-| ----------------- | ---------------- | --- | --- | --- |
-t;y,{ pQ/ lbzf hgfpg ] /v] fnfO { cfwf/ /v] f dfg/]  38Lsf ] ;O' s{ f ] lbzfdf sg'  } bO'  { :yfglarsf]
-b/' LnfO { dfkg u/L tLg cªs\ sf ] sf0] fsf ¿kdf k:| tt'  ug {] tl/sfnfO { lbzfl:ylt (Bearing)
+| dflysf ] 5nkmnaf6 lgDglnlvt tLg s/' | | fx¿ yfxf kfpg ;lsG5 M | | |
+-s_  nfO { cfwf/ /v] f dfGg] -v_ 38Lsf ] ;O' s{ f ] lbzfdf gfKg
+| -u_ dfkg tLg cªs\ | df k:| tt'  ug{] | | | |
+t;y,{ pQ/ lbzf hgfpg ] /v] fnfO { cfwf/ /v] f dfg/]  38Lsf ] ;O' s{ f ] lbzfdf sg'  } bO'  { :yfglarsf
+b/' LnfO { dfkg u/L tLg cªs\ sf ] sf0] fsf ¿kdf k:| tt'  ug {] tl/sfnfO { lbzfl:ylt (Bearing
 elgG5 . csf {] zAbdf o;nfO { sDkf; lbzfl:ylt (Compass Bearing)  klg elgG5 . pbfx/0fsf
-| nflu dfly lbOPsf ]lrqdf O |  af6 E |  sf ]lbzfl:ylt 090º 5 . |     |     |
-| ------------------------- | ------ | ----------------------- | --- | --- |
-pbfx/0f     1
+| nflu dfly lbOPsf ]lrqdf O |  af6 E |  sf ]lbzfl:ylt 090º 5 . | | |
+pbfx/0f 1
 :yfg P  af6 :yfg Q  sf ] lbzfl:ylt 075º 5 eg ] :yfg Q  af6 P  sf ] lbzfl:ylt slt xfn] f <
-N
-| ;dfwfg |     |     |     | 1   |
-| ------ | --- | --- | --- | --- |
-N
- sf ]
-| oxf,“ Q     | lbzfl:ylt = ∠NPQ = 075º |     |     |     |
-| ----------- | ----------------------- | --- | --- | --- |
-| ∠NPQ + ∠PQN |  = 180º [∴ PN || QN     |     |     |     |
-]
-|                 | 1       | 1   |     |     |
-| --------------- | ------- | --- | --- | --- |
-| or, 075º + ∠PQN |  = 180º |     |     |     |
-1
+| ;dfwfg | | | | 1 |
+sf
+| oxf,“ Q | lbzfl:ylt = ∠NPQ = 075º | | | |
+| ∠NPQ + ∠PQN |  = 180º [∴ PN || QN | | | |
+| or, 075º + ∠PQN |  = 180º | | | |
 ∠PQN
-| or, |  = 180º – 075° = 105º |     |     |     |
-| --- | --------------------- | --- | --- | --- |
-|     | 1                     |     |     | Q   |
+| or, |  = 180º – 075° = 105º | | | |
+| | 1 | | | Q |
 075°
-|  af6 P |  sf ]                   |     |     |     |
-| ------ | ----------------------- | --- | --- | --- |
-| ∴ Q    | lbzfl:ylt = 360º – ∠PQN |     |     |     |
-1
-P
+|  af6 P |  sf ] | | | |
+| ∴ Q | lbzfl:ylt = 360º – ∠PQN | | | |
 = 360º – 105º = 255º
 pbfx/0f 2
- 5 eg ]
-olb kfv] /fsf ] dxG] bu| k' mfaf6 s=] cfO={ l;x+  kn' sf ] lbzfl:ylt 155º s=] cfO={ l;x+  kn' af6 dxG] bu| k' mfsf]
-| lbzfl:ylt slt xfn] | f < |     |     |     |
-| ------------------ | --- | --- | --- | --- |
+5 eg
+olb kfv] /fsf ] dxG] bu| k' mfaf6 s=] cfO={ l;x+  kn' sf ] lbzfl:ylt 155º s=] cfO={ l;x+  kn' af6 dxG] bu| k' mfsf
+| lbzfl:ylt slt xfn] | f < | | | |
 ;dfwfg N
-| dfgf,“} dxG] | bu| k' mf = A   |     |     |     |
-| ------------ | --------------- | --- | --- | --- |
-| s=] cfO={    |  l;x+  kn'  = B |     |     |     |
+| dfgf,“} dxG] | bu| k' mf = A | | | |
+| s=] cfO={ |  l;x+  kn'  = B | | | |
 kZ| gfg;' f/,
 155º
-A
-| :yfg B sf ] | lbzfl:ylt =∠NAB = 155º |     |     |     |
-| ----------- | ---------------------- | --- | --- | --- |
-| ∠NAB + ∠ABN |  = 180º  [∴ AN || BN   | ]   |     | N   |
-2
-|     | 1   | 1   |     |     |
-| --- | --- | --- | --- | --- |
+| :yfg B sf ] | lbzfl:ylt =∠NAB = 155º | | | |
+| ∠NAB + ∠ABN |  = 180º  [∴ AN || BN | ] | | N |
 cyjf, 155º + ∠ABN  = 180º
-1
 cyjf, ∠ABN
- = 180º - 155º = 25º
-1
-| ca, s=]  cfO={   |  l;x+  kn'  (B) af6 dxG] | bu| k' mf (A) sf ] | lbzfl:ylt  = ? |     |
-| ---------------- | ------------------------ | ------------------ | -------------- | --- |
-| ca, B af6 A sf ] | lbzfl:ylt                |                    |                |     |
-B
+= 180º - 155º = 25º
+| ca, s=]  cfO={ |  l;x+  kn'  (B) af6 dxG] | bu| k' mf (A) sf ] | lbzfl:ylt  = ? | |
+| ca, B af6 A sf ] | lbzfl:ylt | | | |
 = 360º - ∠ABN
-1
 = 360º - 25º = 325º
-| 78  |     |     | xfdf| ]ul0ft, sIff * |     |
-| --- | --- | --- | -------------------- | --- |
-
+| 78  | | | xfdf| ]ul0ft, sIff * | |
 cEof; 9.1
 1. tn lbOPsf lrqx¿df :yfg P af6 :yfg B sf ] lbzfl:ylt pNnv]  u/ M
-| -s_ |     | -v_ |     | -u_ |     | -3_ |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     | B   |     | B   |     |     |     |
-P
-| P   |     |     |     | B   |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     | P B |     |
-P
+| -s_ | | -v_ | | -u_ | | -3_ | |
+| | | B | | B | | | |
+| P | | | | B | | | |
+| | | | | | | P B | |
 2. pQ/ hgfpg ] /v] fnfO { cfwf/ dfg/]  lbOPsf lbzfl:yltnfO { sf0] fdf k:| tt'  u/ .
-|                     |         |     |     |     |     | N   |     |
-| ------------------- | ------- | --- | --- | --- | --- | --- | --- |
-| -s_pQ/ – klZrd (NW) |         |     |     |     |     | NW  | NE  |
-|                     |         |     |     |     | WNW |     | ENE |
-| -v_blIf0f kj"       |  { (SE) |     |     |     |     |     |     |
-0
-E
-W
--u_klZrd – pQ/ – klZrd (WNW)
-| -3_kj"  { | – pQ/ – kj" |  { (ENE) |     |     |     | SW  | SE  |
-| --------- | ----------- | -------- | --- | --- | --- | --- | --- |
-S
+| | | | | | | N | |
+| -s_pQ/ – klZrd (NW) | | | | | | NW  | NE  |
+| | | | | | WNW | | ENE |
+| -v_blIf0f kj" |  { (SE) | | | | | | |
+-u_klZrd – pQ/ – klZrd (WNW
+| -3_kj"  { | – pQ/ – kj" |  { (ENE) | | | | SW  | SE  |
 3. lbOPsf lrqx¿df :yfg X af6 :yfg Y sf ] lbzfl:ylt lbOPsf ] 5 eg ] :yfg Y af6 :yfg X
 sf ] lbzfl:ylt kQf nufpm .
-| -s_                      |                     |                  | -v_                |                    |     -u_ |     |     |
-| ------------------------ | ------------------- | ---------------- | ------------------ | ------------------ | ------- | --- | --- |
-| 4. lbOPsf lbzfl:yltnfO { |                     | lrq agfP/ bv]    |                    | fpm M              |         |     |     |
-| -s_  laGb '              | A af6 Pp6f hxfhsf ] |                  | lbzfl:ylt 120º 5 . |                    |         |     |     |
-| -v_ ufps“                | f ] kw“ /]          | fa] f6 dlGb/sf ] | lbzfl:ylt 280º 5 . |                    |         |     |     |
-| -u_ Pp6f 8f8“            | fsf ]               | 6K' kfaf6 uf7]   | sf ]               | lbzfl:ylt 075º 5 . |         |     |     |
+| -s_ | | | -v_ | | -u_ | | |
+| 4. lbOPsf lbzfl:yltnfO { | | lrq agfP/ bv] | | fpm M | | | |
+| -s_  laGb ' | A af6 Pp6f hxfhsf ] | | lbzfl:ylt 120º 5 . | | | | |
+| -v_ ufps“ | f ] kw“ /] | fa] f6 dlGb/sf ] | lbzfl:ylt 280º 5 . | | | | |
+| -u_ Pp6f 8f8“ | fsf ] | 6K' kfaf6 uf7] | sf ] | lbzfl:ylt 075º 5 . | | | |
 5. Pp6f ufps“ f ] dlGb/af6 ljBfnosf ] lbzfl:ylt 062º eP pSt ljBfnoaf6 dlGb/sf ] lbzfl:ylt
-| slt xfn] | f, lrqåf/f bv] | fpm . |     |     |     |     |     |
-| -------- | -------------- | ----- | --- | --- | --- | --- | --- |
+| slt xfn] | f, lrqåf/f bv] | fpm . | | | | | |
 6. Pp6f vx/ ] vfn] f 120º sf ] lbzfl:yltdf alu/xs] f ] lyof ] . kmf6“ df ku' k] l5 jifft{ s\ f ] en] ;u“  } pSt
 vfn] f 200º sf ] lbzfl:yltdf aUg yfNof ] eg ] pSt vfn] fn ] slt l8uL|sf ] sf0] fdf lbzf kl/jtg{
-| u¥of ] xfn] | f < |     |     |     |     |     |     |
-| ----------- | --- | --- | --- | --- | --- | --- | --- |
+| u¥of ] xfn] | f < | | | | | | |
 xfdf| ]ul0ft, sIff * 79
-
-| 7. ;u“ s} f ] lrqdf ljleGg :yfgsf laGbx' |                             | ¿ lbOPsf 5g \ | .          |
-| ---------------------------------------- | --------------------------- | ------------- | ---------- |
-| lgDglnlvt laGbx'                         | ¿sf ] lbzfl:ylt kQf nufpgx' |               | f;]  \ M   |
-N
-| -s_ laGb ' A af6 M |     |     |     |
-| ------------------ | --- | --- | --- |
-M
-| -v_ laGb ' A af6 B |     |     |     |
-| ------------------ | --- | --- | --- |
-| -u_ laGb ' A af6 C |     |     |     |
+| 7. ;u“ s} f ] lrqdf ljleGg :yfgsf laGbx' | | ¿ lbOPsf 5g \ | . |
+| lgDglnlvt laGbx' | ¿sf ] lbzfl:ylt kQf nufpgx' | | f;]  \ M |
+| -s_ laGb ' A af6 M | | | |
+| -v_ laGb ' A af6 B | | | |
+| -u_ laGb ' A af6 C | | | |
 A B
-| -3_ laGb ' A af6 X |     |     |     |
-| ------------------ | --- | --- | --- |
-| -ª_ laGb ' A af6 A |     |     | C   |
-X
-| 9.2. :sn]  8O« ª (Scale Drawing) |     |     |     |
-| -------------------------------- | --- | --- | --- |
+| -3_ laGb ' A af6 X | | | |
+| -ª_ laGb ' A af6 A | | | C |
+| 9.2. :sn]  8O« ª (Scale Drawing) | | | |
 ltdf| ] 3/af6 ljBfno;Ddsf ] b/' LnfO { sfkLdf /v] f lvr/]  bv] fpg ;S5f } ls ;Sbg} f,} To;nfO{
 sfkLdf bv] fpg ;lsb“ g}  lsgls 3/af6 ljBfno;Ddsf ] b/' L sfkLsf ] nDafOeGbf w/]  } 5 .
 t;y,{ sg'  } bO'  { 7fpx“ ¿larsf ] b/' L h;nfO { ld6/ (m), lsnfl]d6/ (km) jf dfOn (mile) df gflkG5,
 To;nfO { gS;fdf bv] fpg ;Dej xb“' g}  . pSt b/' LnfO { plrt b/' Ldf ¿kfGt/0f u/L jf:tljs
-b/' LnfO { gS;fdf k:| tt'  ug { ;Dej kfg {] dfkgsf ] tl/sfnfO { g } :sn]  8O« ª (scale drawing)
-elgG5 . pbfx/0fsf nflu sf7df8fb“} l]v kfv] /f;Ddsf ] jf:tljs b/' L 200km 5 . olb :sn]
+b/' LnfO { gS;fdf k:| tt'  ug { ;Dej kfg {] dfkgsf ] tl/sfnfO { g } :sn]  8O« ª (scale drawing
+elgG5 . pbfx/0fsf nflu sf7df8fb“} l]v kfv] /f;Ddsf ] jf:tljs b/' L 200km 5 . olb :sn
 1cm = 100 km  eP sf7df8fb“} l]v kfv] /fsf ] b/' LnfO { gS;fdf 2cm df bv] fpg ;lsG5 . 200 km
 = 2cm df nl]vGG5 .
-[:sn]  M 1 cm = 100 km jf 1:100]
+:sn]  M 1 cm = 100 km jf 1:100
 pbfx/0f 1
 1 cm = 600 m sf ] :sn]  ko| fu]  u/L Pp6f gS;f tof/ ubf { bO'  { :yfglarsf ] gS;fsf ] b/' L 6cm eP
-| pSt bO'  { :yfgx¿larsf ] | jf:tljs b/' | L slt xfn] f < |     |
-| ------------------------ | ----------- | -------------- | --- |
+| pSt bO'  { :yfgx¿larsf ] | jf:tljs b/' | L slt xfn] f < | |
 ;dfwfg
-| oxf“,:sn]  1 cm = 600m jf:tljs b/' |     | L   |     |
-| ---------------------------------- | --- | --- | --- |
+| oxf“,:sn]  1 cm = 600m jf:tljs b/' | | L | |
 :sn]  6 cm = (6 × 600) m = 3600 m
-| To;n}  ] bO'  { 7fpl“arsf ] | jf:tljs b/' | L = 3600 m |     |
-| --------------------------- | ----------- | ---------- | --- |
+| To;n}  ] bO'  { 7fpl“arsf ] | jf:tljs b/' | L = 3600 m | |
 80 xfdf| ]ul0ft, sIff *
-
 pbfx/0f 2
 Pp6f hxfh ;?' sf ] :yfgaf6 045º lbzfl:yltdf 600 dfOn (miles) / 135º lbzfl:yltdf 800 dfOn
-(miles) p8fg ub5{  eg ] pSt hxfhsf ] ;?' sf ] :yfg / clGtd :yfglarsf ] jf:tljs b/' L slt xfn] f, ;fy}
+miles) p8fg ub5{  eg ] pSt hxfhsf ] ;?' sf ] :yfg / clGtd :yfglarsf ] jf:tljs b/' L slt xfn] f, ;fy}
 clGtd :yfgaf6 ;?' sf ] :yfgsf ] lbzfl:ylt kQf nufpm . :sn]  1 cm = 200 mile
-N
-| ;dfwfg |     |     |     |     |     |     |     | 1   |     |
-| ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-N
-| dfgf,“} hxfhsf ] | ;?' | sf ] :yfg = P |     |     |     |     |     |      |     |
-| ---------------- | --- | ------------- | --- | --- | --- | --- | --- | ---- | --- |
-|                  |     |               |     |     |     |     |     | 135° | N   |
-2
-| hxfhsf ] clGtd :yfg = R |     |     |     |     |     |     |     | Q   |     |
-| ----------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ;dfwfg | | | | | | | | 1 | |
+| dfgf,“} hxfhsf ] | ;?' | sf ] :yfg = P | | | | | | | |
+| | | | | | | | | 135° | N |
+| hxfhsf ] clGtd :yfg = R | | | | | | | | Q | |
 045°
-|             |     |     |     |     |     |     |     | m 4 |     |
-| ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ∠NPQ = 045º |     |     |     |     |     |     |     | c   |     |
-|             |     |     |     |     |     |     |     | c m |     |
-3
+| | | | | | | | | m 4 | |
+| ∠NPQ = 045º | | | | | | | | c | |
+| | | | | | | | | c m | |
 ∠N
-| QR = 135º |     |     |     |     |     |     | P   |     |     |
-| --------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-1
-| lrqcg;' f/, PR = 5cm |     |     |     |     |     |     |     | 5cm | R   |
-| -------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| QR = 135º | | | | | | | P | | |
+| lrqcg;' f/, PR = 5cm | | | | | | | | 5cm | R |
 To;n} ,] ;?' sf ] :yfgaf6 clGtd :yfglarsf ] jf:tljs b/' L = 5  × 200 = 1000 mile
-| km]l/, lrqdf kf|6] |     | S] 6/ ko| | fu]  u/L gfKbf |     | ∠PRN |  = 079º |     |     |     |
-| ------------------ | --- | --------- | -------------- | --- | ---- | ------- | --- | --- | --- |
-2
-| clGtd :yfgaf6 ;?' |     | sf ] :yfgsf ] | lbzfl:ylt |     | = 360º - ∠PRN |     |     |     |     |
-| ----------------- | --- | ------------- | --------- | --- | ------------- | --- | --- | --- | --- |
-1
+| km]l/, lrqdf kf|6] | | S] 6/ ko| | fu]  u/L gfKbf | | ∠PRN |  = 079º | | | |
+| clGtd :yfgaf6 ;?' | | sf ] :yfgsf ] | lbzfl:ylt | | = 360º - ∠PRN | | | | |
 = 360º - 079º = 281º
 pbfx/0f 3
 /dz]  kT| os]  lbg 060º sf ] lbzfl:yltdf 120 ld6/ / 150º sf ] lbzfl:yltdf 180 ld6/ lx8“ g\  ] ub5{  .
 1 cm = 40 m sf ] :sn]  ko| fu]  u//]  p;n ] ;?'  u/s] f ] 7fp “ / clGtd 7fp;“ Ddsf ] jf:tljs b/' L kQf
-| nufpm . ;fy } | clGtd :yfgaf6 ;?' |     |  :yfgsf ] |     | lbzfl:ylt slt xfn] |     | f < |     |     |
-| ------------- | ----------------- | --- | --------- | --- | ------------------ | --- | --- | --- | --- |
-|               |                   |     |           |     |                    |     |     | N N |     |
-1
-| ;dfwfg |     |     |     |     |     |     |     |     | N   |
-| ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-2
-| lrqdf ?n/ ko|                           | fu] |  u//]  gfKbf, |          |                |     |     |     |      |     |
-| --------------------------------------- | --- | ------------- | -------- | -------------- | --- | --- | --- | ---- | --- |
-| ;?' sf ] :yfg = A, clGtd :yfg = C dfGbf |     |               |          |                |     |     |     | 150° |     |
-| ;?'  :yfgbl]v clGtd :yfgsf ]            |     |               | gS;fsf ] | b/' L = 5.2 cm |     |     |     |      |     |
+| nufpm . ;fy } | clGtd :yfgaf6 ;?' | |  :yfgsf ] | | lbzfl:ylt slt xfn] | | f < | | |
+| | | | | | | | | N N | |
+| ;dfwfg | | | | | | | | | N |
+| lrqdf ?n/ ko| | fu] |  u//]  gfKbf, | | | | | | | |
+| ;?' sf ] :yfg = A, clGtd :yfg = C dfGbf | | | | | | | | 150° | |
+| ;?'  :yfgbl]v clGtd :yfgsf ] | | | gS;fsf ] | b/' L = 5.2 cm | | | | | |
 B 4 .5
 060°
-|      |     |                       |     |     |     |     |     | m c |     |
-| ---- | --- | --------------------- | --- | --- | --- | --- | --- | --- | --- |
-| 1 cm |     | = 40 ld6/ jf:tljs b/' |     |     | L   |     |     | c m |     |
-3
-| 5.2 cm |     | = (40 × 5.2) ld6/ jf:tljs b/' |     |     |     | L   |     |     |     |
-| ------ | --- | ----------------------------- | --- | --- | --- | --- | --- | --- | --- |
-A
+| | | | | | | | | m c | |
+| 1 cm | | = 40 ld6/ jf:tljs b/' | | | L | | | c m | |
+| 5.2 cm | | = (40 × 5.2) ld6/ jf:tljs b/' | | | | L | | | |
 = 208 ld6/
 5.2cm
-C
-| km]l/, lrqdf kf|6] | S]  | 6/ ko| fu]  u/L gfKbf ∠ACN |     |     |   = 65º |     |     |     |     |
-| ------------------ | --- | -------------------------- | --- | --- | ------- | --- | --- | --- | --- |
-2
-| clGtd :yfg (C) af6 ;?' |     |  :yfg (A) sf ] |     | lbzfl:ylt |     | = 360º - 065º |     |     |     |
-| ---------------------- | --- | -------------- | --- | --------- | --- | ------------- | --- | --- | --- |
+| km]l/, lrqdf kf|6] | S]  | 6/ ko| fu]  u/L gfKbf ∠ACN | | | = 65º | | | | |
+| clGtd :yfg (C) af6 ;?' | |  :yfg (A) sf ] | | lbzfl:ylt | | = 360º - 065º | | | |
 = 295º
-| xfdf| ]ul0ft, sIff * |     |     |     |     |     |     |     |     | 81  |
-| -------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
+| xfdf| ]ul0ft, sIff * | | | | | | | | | 81  |
 cEof; 9.2
-| 1. tnsf kZ| | gx¿df bO'      |     |  { :yfglarsf ] |                     | jf:tljs b/' | L kQf nufpm M  |     |     |
-| ----------- | -------------- | --- | -------------- | ------------------- | ----------- | -------------- | --- | --- |
-| -s_ bO'     |  { :yfglarsf ] |     | gS;fsf ]       | b/' L = 7 cm, [:sn] |             |  1 cm = 750 m] |     |     |
--v_ bO'  { :yfglarsf ] gS;fsf ] b/' L = 6.5 cm [:sn]  1 cm = 1000 miles]
--u_ dxG] b | uk' mf / rd/] f ] uk' mflarsf ] gS;fsf ] b/' L = 3 cm [:sn]  1 cm = 250 m]
-2. sf7df8fs“} f ] rjm|kysf ] nDafO 27km 5 . olb :sn]  1cm = 12km eP pSt rjm|kysf ] gS;fsf]
-| nDafO slt xfn] |     | f < |     |     |     |     |     |     |
-| -------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1. tnsf kZ| | gx¿df bO' | |  { :yfglarsf ] | | jf:tljs b/' | L kQf nufpm M  | | |
+| -s_ bO' |  { :yfglarsf ] | | gS;fsf ] | b/' L = 7 cm, [:sn] | |  1 cm = 750 m] | | |
+-v_ bO'  { :yfglarsf ] gS;fsf ] b/' L = 6.5 cm [:sn]  1 cm = 1000 miles
+-u_ dxG] b | uk' mf / rd/] f ] uk' mflarsf ] gS;fsf ] b/' L = 3 cm [:sn]  1 cm = 250 m
+2. sf7df8fs“} f ] rjm|kysf ] nDafO 27km 5 . olb :sn]  1cm = 12km eP pSt rjm|kysf ] gS;fsf
+| nDafO slt xfn] | | f < | | | | | | |
 3. dfwjn ] :yfg A af6 030º lbzfl:yltdf 5km lx8“ k] l5 :yfg B df kU' 5 . To;kl5 B af6 140º
-sf ] lbzfl:yltdf 3 km lx8“ k] l5 :yfg C df kU' 5 / cGTodf l;wf C af6  A df kmsG{ 5 eg,]
-| -s_ plrt :sn]                 |     |  5fgL :sn] |     |  8O« ª u/ . |           |            |     |     |
-| ----------------------------- | --- | ---------- | --- | ----------- | --------- | ---------- | --- | --- |
-| -v_ :yfg C af6 :yfg A ;Ddsf ] |     |            |     |             | :sn]  b/' | L slt xfn] | f < |     |
+sf ] lbzfl:yltdf 3 km lx8“ k] l5 :yfg C df kU' 5 / cGTodf l;wf C af6  A df kmsG{ 5 eg,
+| -s_ plrt :sn] | |  5fgL :sn] | |  8O« ª u/ . | | | | |
+| -v_ :yfg C af6 :yfg A ;Ddsf ] | | | | | :sn]  b/' | L slt xfn] | f < | |
 -u_ :yfg C af6 :yfg A ;Dd l;wf kmlsb“{ f p;n ] jf:tljs b/' L slt kf/ u5 { <
-| -3_ :yfg C af6 A :yfgsf ] |     |     |     | lbzfl:ylt kQf nufpm . |     |     |     |     |
-| ------------------------- | --- | --- | --- | --------------------- | --- | --- | --- | --- |
+| -3_ :yfg C af6 A :yfgsf ] | | | | lbzfl:ylt kQf nufpm . | | | | |
 Pp6f ;x/sf ] a;kfsa{ f6 500 ld6/ blIf0fdf Pp6f dlGb/ kb5{  / kf8} Lkfv] /L dlGb/af6 065º
-4.
-lbzfl:yltdf k5 { . a;kfsa{ f6 kf8} Lkfv] /L 145º lbzfl:yltdf k5 { eg ] kf8} Lkfv] /L / dlGb/larsf]
+lbzfl:yltdf k5 { . a;kfsa{ f6 kf8} Lkfv] /L 145º lbzfl:yltdf k5 { eg ] kf8} Lkfv] /L / dlGb/larsf
 jf:tljs b/' L slt xfn] f < 1 cm = 100 m sf ] :sn]  ko| fu]  u/L bv] fpm .
 5. :yfg B af6 :yfg A 400 ld6/ klZrddf k5 { . :yfg A af6 :yfg C sf ] lbzfl:ylt 050º
-| 5 / :yfg B af6 C sf ]            |                             |                      | lbzfl:ylt 290º 5 eg,] |             |                       |            |               |          |
-| -------------------------------- | --------------------------- | -------------------- | --------------------- | ----------- | --------------------- | ---------- | ------------- | -------- |
-| -s_1 cm = 40 m :sn]              |                             |                      |  lnO {                | :sn]        |  8O« ª u/ .           |            |               |          |
-| -v_:yfg B / :yfg C larsf ]       |                             |                      |                       | jf:tljs b/' |                       | L slt xfn] | f <           |          |
-| -u_:yfg C sf cfwf/df :yfg B sf ] |                             |                      |                       |             | lbzfl:ylt kQf nufpm . |            |               |          |
-| 6. lrqdf Pp6f ufps“              |                             |                      | f ] dV' o 7fpx“       | ¿ bv]       | fOPsf ]               | 5 .        |               |          |
-|                                  |                             |                      |                       |             |                       |            | xn' fs sfofn{ | o ljBfno |
-| olb :sn]                         |  1 cm = 150 ld6/ eP ?n/ ko| |                      |                       |             |                       | fu]        |               |          |
-| u/L xn'                          | fs sfofn{                   | oaf6 lgDglnlvt 7fpx“ |                       |             |                       | ¿sf]       |               |          |
-| jf:tljs b/'                      |                             | L kQf nufpm M        |                       |             |                       |            |               |          |
+| 5 / :yfg B af6 C sf ] | | | lbzfl:ylt 290º 5 eg,] | | | | | |
+| -s_1 cm = 40 m :sn] | | |  lnO { | :sn] |  8O« ª u/ . | | | |
+| -v_:yfg B / :yfg C larsf ] | | | | jf:tljs b/' | | L slt xfn] | f < | |
+| -u_:yfg C sf cfwf/df :yfg B sf ] | | | | | lbzfl:ylt kQf nufpm . | | | |
+| 6. lrqdf Pp6f ufps“ | | | f ] dV' o 7fpx“ | ¿ bv] | fOPsf ] | 5 . | | |
+| | | | | | | | xn' fs sfofn{ | o ljBfno |
+| olb :sn] |  1 cm = 150 ld6/ eP ?n/ ko| | | | | | fu] | | |
+| u/L xn' | fs sfofn{ | oaf6 lgDglnlvt 7fpx“ | | | | ¿sf] | | |
+| jf:tljs b/' | | L kQf nufpm M | | | | | | |
 dlGb/
-| -s_ dlGb/       |     |     | -v_  kfgLsf ] |     | dx' fg |     |     |               |
-| --------------- | --- | --- | ------------- | --- | ------ | --- | --- | ------------- |
-| -u_ :jf:Yo rfs} |     | L   | -3_   ljBfno  |     |        |     |     | :jf:Yo rfs} L |
-kfgLsf]
-| -ª_ xf6ahf/ |     |     |     |     |     | d'xfg |     |     |
-| ----------- | --- | --- | --- | --- | --- | ----- | --- | --- |
+| -s_ dlGb/ | | | -v_  kfgLsf ] | | dx' fg | | | |
+| -u_ :jf:Yo rfs} | | L | -3_ ljBfno  | | | | | :jf:Yo rfs} L |
+kfgLsf
+| -ª_ xf6ahf/ | | | | | | d'xfg | | |
 xf6ahf/
-| 82  |     |     |     |     |     |     |     | xfdf| ]ul0ft, sIff * |
-| --- | --- | --- | --- | --- | --- | --- | --- | -------------------- |
-
+| 82  | | | | | | | | xfdf| ]ul0ft, sIff * |
 kf7
-10
-|     |     |     |     | ;dx" |     |     |     |     |
-| --- | --- | --- | --- | ---- | --- | --- | --- | --- |
-(Sets)
-| 10.0. kg' | /jnfs] | g (Review) |     |     |     |     |     |     |
-| --------- | ------ | ---------- | --- | --- | --- | --- | --- | --- |
+| | | | | ;dx" | | | | |
+Sets
+| 10.0. kg' | /jnfs] | g (Review) | | | | | | |
 tnsf ;dx" x¿sf ] cWoog u/L lbOPsf kZ| gx¿sf pQ/x¿sf ] vfh] L u/ M
-| U = { 1 bl]v 20 ;Dddf ;ªV\ |     |     | ofx¿ } |     |     |     |     |     |
-| -------------------------- | --- | --- | ------ | --- | --- | --- | --- | --- |
+| U = { 1 bl]v 20 ;Dddf ;ªV\ | | | ofx¿ } | | | | | |
 A= { 20 eGbf ;fgf 3  sf ckjTox{ ¿ }, / B= { 20 eGbf ;fgf 4  sf ckjTox{ ¿} eP
-| -s_ ;dx"       | x¿  U, A, / B sf ;b:ox¿ ;r" |                        |      |                | Ls/0f u/ . |     |     |     |
-| -------------- | --------------------------- | ---------------------- | ---- | -------------- | ---------- | --- | --- | --- |
-| -v_            | ;dx" x¿  U, A, / B nfO {    |                        |  eg] | lrqdf k:|      | tt'  u/ .  |     |     |     |
-| -u_ eg]        | lrqsf ]                     | ko| fu]  u/L tnsf ;dx" |      | x¿ kQf nufpm M |            |     |     |     |
-|                |                             |                        | ∪    |                | A∩B        |     |     |     |
-|                |                             | (i)                    |  A B |                | (ii)       |     |     |     |
-| -3_ A / B ;dx" |                             |  U  sf s:tf ;dx"       |      | x¿ xg'         |  \ <       |     |     |     |
+| -s_ ;dx" | x¿  U, A, / B sf ;b:ox¿ ;r" | | | | Ls/0f u/ . | | | |
+| -v_ | ;dx" x¿  U, A, / B nfO { | |  eg] | lrqdf k:| | tt'  u/ .  | | | |
+| -u_ eg] | lrqsf ] | ko| fu]  u/L tnsf ;dx" | | x¿ kQf nufpm M | | | | |
+| | | | ∪ | | A∩B | | | |
+| | | (i) |  A B | | (ii) | | | |
+| -3_ A / B ;dx" | |  U  sf s:tf ;dx" | | x¿ xg' |  \ < | | | |
 -ª_ ;dx"  A df kg {] t/ ;dx"  B  df gkg {] ;b:ox¿sf ] ;dx"  lgdf0{ f u/ .
 -r_ ;dx"  U df kg {] t/ A ∪ B  df gkg {] ;b:ox¿sf ] ;dx"  kQf nufpm .
 dflysf kZ| gx¿sf af/d] f xfdLn ] sIff  7 df g } kl9;ss] f 5f “} . ca xfdL ;dx" x¿sf ] km/s
-|            | / ;dx" | sf k/" ssf af/d]                  | f cWoog ub5{ |     | f “} . |     |     |     |
-| ---------- | ------ | --------------------------------- | ------------ | --- | ------ | --- | --- | --- |
-| 10.1. ;dx" |        | x¿sf ] km/s ( Difference of Sets) |              |     |        |     |     |     |
+| | / ;dx" | sf k/" ssf af/d] | f cWoog ub5{ | | f “} . | | | |
+| 10.1. ;dx" | | x¿sf ] km/s ( Difference of Sets) | | | | | | |
 tnsf eg] lrqx¿ cWoog u/ / s ] s ] bl]vG5, ;an}  ] cfcfkm\gf sfkLdf nv]  M
-|     |      |        | U   |     |     | U   |     | U   |
-| --- | ---- | ------ | --- | --- | --- | --- | --- | --- |
-|     | A    | B      |     |     |     |     |     | 4   |
-|     |      |        |     |     | B e |     |     |     |
-|     | l;tf |        |     | Aa  |     |     | 1   |     |
-|     |      | 8f]Ndf |     |     |     |     | B   | A   |
-|     |      |        |     |     | d   |     | 2   |     |
-|     |      | cfOt   |     |     | b   |     |     | 6   |
-|     | xl/  |        |     |     |     |     | 5 3 |     |
+| | | | U | | | U | | U |
+| | A | B | | | | | | 4 |
+| | | | | | B e | | | |
+| | l;tf | | | Aa  | | | 1 | |
+| | | 8f]Ndf | | | | | B | A |
+| | | | | | d | | 2 | |
+| | | cfOt | | | b | | | 6 |
+| | xl/  | | | | | | 5 3 | |
 Zofd
-f
-c
 ;a } eg] lrqdf ;dx"  B afxs]  A sf ] efu dfq 5fof kfl/Psf ] 5 . ;dx"  A sf ] dfq efudf 5fof
 kfl/Psf ] 5 . B sf ] sg'  } klg efudf 5fof kfl/Psf ] 5g}  / 5fof kf/s] f ] efun ] ;dx"  A df kg {] t/
 B df gkg {] ;b:ox¿sf ] ;dx" nfO { hgfp5“  . of ] g } ;dx"  A af6 ;dx"  B sf ] km/s xf ] .
 xfdf| ]ul0ft, sIff * 83
-
 olb ;dx"  A / ;dx"  B ;jJ{ ofks ;dx"  U sf pk;dx" x¿ xg'  \ eg ] ;dx"  A df kg {] t/ ;dx"  B df
 gkg {] ;b:ox¿sf ] ;dx" nfO { jf ;dx"  A df dfq kg {] ;b:ox¿sf ] ;dx" nfO { A km/s B elgG5 /
-|         |         |                      |     |     | ∈       | ∉   |     |     |
-| ------- | ------- | -------------------- | --- | --- | ------- | --- | --- | --- |
-| o;nfO { | A-B n ] | hgfOG5 . A-B = {x:x  |     |     |  A / x  |  B} |     |     |
-dflysf ] klxnf ] eg] lrqdf A    = { ;Ltf, xl/, cfOt }  5 / B= {cfOt, 8fN] df, Zofd} 5 .
+| | | | | | ∈ | ∉ | | |
+| o;nfO { | A-B n ] | hgfOG5 . A-B = {x:x  | | |  A / x  |  B} | | |
+dflysf ] klxnf ] eg] lrqdf A = { ;Ltf, xl/, cfOt }  5 / B= {cfOt, 8fN] df, Zofd} 5 .
 A df dfq kg {] ;b:ox¿ A–B = { ;Ltf, xl/, cfOt } –  {cfOt, 8fN] df, Zofd}
-|     |     |     |      = { ;Ltf, xl/ } eof ] |     |     | .   |     |     |
-| --- | --- | --- | -------------------------- | --- | --- | --- | --- | --- |
+| | | | = { ;Ltf, xl/ } eof ] | | | . | | |
 To:t } bf;] f|df A -B= {a, b, c} / t;] f|df A–B= {4, 5, 6} eof ] -s;/L <_
 pbfx/0f 1
-|  olb, U = {cfbz { |     | df= lj=sf ;Dk0"             |     | f { ljBfyLx{ |     | ¿sf ] ;dx" |  }   |     |
-| ----------------- | --- | --------------------------- | --- | ------------ | --- | ---------- | ---- | --- |
-| A = { cfbz {      |     | df=lj=sf sIff 8 sf ljBfyLx{ |     |              |     | ¿sf ] ;dx" | }  / |     |
+|  olb, U = {cfbz { | | df= lj=sf ;Dk0" | | f { ljBfyLx{ | | ¿sf ] ;dx" |  } | |
+| A = { cfbz { | | df=lj=sf sIff 8 sf ljBfyLx{ | | | | ¿sf ] ;dx" | }  / | |
 B = { cfbz { df=lj=sf ;Dk0" f { 5fqfx¿sf ] ;dx"  } eP A-B  /  B-A  kQf nufpm / eg] lrqdf
-|     | 5fof kf//] |     |  bv] fpm . |     |     |     |     |     |
-| --- | ---------- | --- | ---------- | --- | --- | --- | --- | --- |
-U
+| | 5fof kf//] | |  bv] fpm . | | | | | |
 ;dfwfg
-A
-B
-| oxf,“ U= {cfbz { |     | df= lj=sf ;Dk0" |     | f { ljBfyLx{ |     | ¿sf ] ;dx" |  }  |     |
-| ---------------- | --- | --------------- | --- | ------------ | --- | ---------- | --- | --- |
+| oxf,“ U= {cfbz { | | df= lj=sf ;Dk0" | | f { ljBfyLx{ | | ¿sf ] ;dx" |  }  | |
 A – B
-| A = { cfbz { |     | df=lj=sf sIff 8 sf ljBfyLx{ |     |                |     | ¿sf ]   | ;dx" } |     |
-| ------------ | --- | --------------------------- | --- | -------------- | --- | ------- | ------ | --- |
-| B = { cfbz { |     | df=lj=sf ;Dk0"              |     | f { 5fqfx¿sf ] |     | ;dx"  } |        |     |
+| A = { cfbz { | | df=lj=sf sIff 8 sf ljBfyLx{ | | | | ¿sf ] | ;dx" } | |
+| B = { cfbz { | | df=lj=sf ;Dk0" | | f { 5fqfx¿sf ] | | ;dx"  } | | |
 ca, A–B = { x: cfbz { df=lj=sf sIff 8 sf ljBfyLx{ ¿ xg'  \ t/ 5fqf xfO] gg \ )}
-U
-B
-|                          | A–B ={ cfbz { |     | df=lj=sf sIff 8 sf 5fqx¿sf ]     |     |     |     | ;dx"   } | A   |
-| ------------------------ | ------------- | --- | -------------------------------- | --- | --- | --- | -------- | --- |
-| km/] L, B–A = {x: cfbz { |               |     | df=lj=sf 5fqf t/ sIff 8  sf xfO] |     |     |     | g}       |     |
+| | A–B ={ cfbz { | | df=lj=sf sIff 8 sf 5fqx¿sf ] | | | | ;dx" } | A |
+| km/] L, B–A = {x: cfbz { | | | df=lj=sf 5fqf t/ sIff 8  sf xfO] | | | | g} | |
 B – A
-|          | = { cfbz {    |     | df=lj=sf sIff 8 sfafxs] |     |     | sf 5fqfx¿sf ] | ;dx" | }   |
-| -------- | ------------- | --- | ----------------------- | --- | --- | ------------- | ---- | --- |
-|   gf6] M | 1.  A-B ≠ B-A |     |                         |     |     |               |      |     |
+| | = { cfbz { | | df=lj=sf sIff 8 sfafxs] | | | sf 5fqfx¿sf ] | ;dx" | } |
+| gf6] M | 1.  A-B ≠ B-A | | | | | | | |
 2.  A– B ∪ B – A ePdf o;nfO {
 ;dldtLo km/s (Symmetrical Difference) elgG5 .
 pbfx/0f 2
-  olb U = {a, b, c, d, e, f, g, h, i, o, u} , A= {a, b, c, d, e}, B = {a, e, i,o, u}  /
-  C = { d, e, f, i, }   eP tnsf ;dx" x¿ kQf nufpm  / eg] lrqdf k:| tt'  u/ M
-|     | -s_ A-B     |     |     |     |     | -v_ B-C            |     | -u_ A∪(B-C)          |
-| --- | ----------- | --- | --- | --- | --- | ------------------ | --- | -------------------- |
-|     | -3_ U-(A∪B) |     |     |     |     | -ª_ (A∪B) - (A ∩B) |     | -r_ (A-B) ∪ (B-A)    |
-| 84  |             |     |     |     |     |                    |     | xfdf| ]ul0ft, sIff * |
-
+olb U = {a, b, c, d, e, f, g, h, i, o, u} , A= {a, b, c, d, e}, B = {a, e, i,o, u}  /
+C = { d, e, f, i, } eP tnsf ;dx" x¿ kQf nufpm  / eg] lrqdf k:| tt'  u/ M
+| | -s_ A-B | | | | | -v_ B-C | | -u_ A∪(B-C) |
+| | -3_ U-(A∪B) | | | | | -ª_ (A∪B) - (A ∩B) | | -r_ (A-B) ∪ (B-A) |
+| 84  | | | | | | | | xfdf| ]ul0ft, sIff * |
 ;dfwfg
-U
-|     |     |     | A   | B   |
-| --- | --- | --- | --- | --- |
+| | | | A | B |
 oxf,“ U = { a, b, c, d, e, f, g, h, i, o, u} , A = { a, b, c, d, e } b
-|     |     |     | c   | i   |
-| --- | --- | --- | --- | --- |
-a
-| B = { a, e, i,o, u  } /  C = { d, e, f, i } |     |     | d   | o   |
-| ------------------------------------------- | --- | --- | --- | --- |
-e
-u
-| -s_ A– B = {x:x  | ∈  A / x  | ∉   |       |     |
-| ---------------- | --------- | --- | ----- | --- |
-|                  |           |  B} | A - B |     |
+| | | | c | i |
+| B = { a, e, i,o, u  } /  C = { d, e, f, i } | | | d | o |
+| -s_ A– B = {x:x  | ∈  A / x  | ∉ | | |
+| | |  B} | A - B | |
 = {a, b, c, d, e} - {a, e, i, o, u}
-U
-B
-a
 = {b,c, d}
-d
-o
-e
-|     |     |     | u   | f   |
-| --- | --- | --- | --- | --- |
-C
- B - C
-| -v_ B-C = {x: x  | ∈  B / x  | ∉  C} |     |     |
-| ---------------- | --------- | ----- | --- | --- |
-U
+| | | | u | f |
+B - C
+| -v_ B-C = {x: x  | ∈  B / x  | ∉  C} | | |
 = { a, e, i,o, u  } -  { d, e, f, i, }
-|     |     |     | A   | B   |
-| --- | --- | --- | --- | --- |
-b
-|     |     |     | B - C | a o |
-| --- | --- | --- | ----- | --- |
+| | | | A | B |
+| | | | B - C | a o |
 = {a, o, u}
-c
-|     |     |     |     | e u |
-| --- | --- | --- | --- | --- |
-d
-| -u_ A ∪( B-C) =  {x∈ | A cyjf x  | ∈     B-C} |     |     |
-| -------------------- | --------- | ---------- | --- | --- |
-C
- ∪
-| = {a, b, c, d, e} |  {a, o, u} |     |     |     |
-| ----------------- | ---------- | --- | --- | --- |
-U
-A
+| | | | | e u |
+| -u_ A ∪( B-C) =  {x∈ | A cyjf x  | ∈ B-C} | | |
+| = {a, b, c, d, e} |  {a, o, u} | | | |
 = {a, b, c, d, e,o,u }
-B
-| -3_ U-(A ∪ | B)  = {x ∈ U / x∉ | A ∪ B} |     |     |
-| ---------- | ----------------- | ------ | --- | --- |
-C
-| oxf,“  A ∪ | B = { a, b, c, d, e}  | ∪  { a, b, c, d, e, i,o, u } |     |     |
-| ---------- | --------------------- | ---------------------------- | --- | --- |
-U-(A ∪ B)
-|     |   = { a, b, c, d, e, i, o, u} xG' | 5 . |     |     |
-| --- | --------------------------------- | --- | --- | --- |
-U
-B
-|     |   = { a, b, c, d, e, f, g, h, i, o, u} - { a, b, c, d, e, i, o, u } |     | A   |     |
-| --- | ------------------------------------------------------------------- | --- | --- | --- |
-  = {f,g, h}
-| ∩                            |               |  ∩                                      |                |     |
-| ---------------------------- | ------------- | --------------------------------------- | -------------- | --- |
-| -ª_ A   B = { a, b, c, d, e} |               | {a, e, i, o, u} = {a, e}                |                |     |
-| t;y,{ (A                     | ∪ B)  - (A  ∩ |  B) = {a, b, c, d, e, i, o, u} - {a, e} |                |     |
-|                              |               |                                         | 5fof kfl/Psf ] | efu |
-     = {b, c, d, i, o, u}
-|     |     |     | ∪   | ∩  B)] |
-| --- | --- | --- | --- | ------ |
-(A B)  - (A
-| -r_ oxf,“ B-A  | =  { x  ∈  B / x  | ∉  A} |     |     |
-| -------------- | ----------------- | ----- | --- | --- |
-U
-|     | = {a, e, i, o, u } - {a, b, c, d, e } |     | A   | B   |
-| --- | ------------------------------------- | --- | --- | --- |
-123456781920314253647586901234567
-|     |     |     | 1 2 3 4 5 6 7 8 1 9 2 0 3 1 4 2 5 3 | 6 4 7 5 8 6 9 0 1 2 3 4 5 6 7 |
-| --- | --- | --- | ----------------------------------- | ----------------------------- |
-= {i, o, u } 1 123456781920314253647586901234567 2 3 4 5 6 7 8 1 9 2 0 3 1 4 2 5 3 6 4 7 5 8 6 9 0 1 2 3 4 5 6 7
-123456781920314253647586901234567
-|     |     |     | 123456781920314253647586901234567 1 2 3 4 5 6 7 8 1 9 2 0 3 1 4 2 5 3 | 6 4 7 5 8 6 9 0 1 2 3 4 5 6 7 |
-| --- | --- | --- | --------------------------------------------------------------------- | ----------------------------- |
- / -s_ af6 xfdLnfO { yfxf 5 A-B = { b, c, d} 1 2 3 4 5 6 7 8 1 9 2 0 3 1 4 2 5 3 6 4 7 5 8 6 9 0 1 2 3 4 5 6 7
-|     |     |     | 1 123456781920314253647586901234567 2 3 4 5 6 7 8 1 9 2 0 3 1 4 2 5 3 | 6 4 7 5 8 6 9 0 1 2 3 4 5 6 7 |
-| --- | --- | --- | --------------------------------------------------------------------- | ----------------------------- |
-123456781920314253647586901234567
-∪ ∪ 123456781920314253647586901234567 1 2 3 4 5 6 7 8 1 9 2 0 3 1 4 2 5 3 6 4 7 5 8 6 9 0 1 2 3 4 5 6 7
-ca,  (A-B)  (B-A) = { b, c, d}    {i, o, u } 1 2 3 4 5 6 7 8 1 9 2 0 3 1 4 2 5 3 6 4 7 5 8 6 9 0 1 2 3 4 5 6 7
-123456781920314253647586901234567 123456781920314253647586901234567
+| -3_ U-(A ∪ | B)  = {x ∈ U / x∉ | A ∪ B} | | |
+| oxf,“  A ∪ | B = { a, b, c, d, e}  | ∪  { a, b, c, d, e, i,o, u } | | |
+U-(A ∪ B
+| | = { a, b, c, d, e, i, o, u} xG' | 5 . | | |
+| | = { a, b, c, d, e, f, g, h, i, o, u} - { a, b, c, d, e, i, o, u } | | A | |
+= {f,g, h}
+| ∩ | |  ∩ | | |
+| -ª_ A B = { a, b, c, d, e} | | {a, e, i, o, u} = {a, e} | | |
+| t;y,{ (A | ∪ B)  - (A  ∩ |  B) = {a, b, c, d, e, i, o, u} - {a, e} | | |
+| | | | 5fof kfl/Psf ] | efu |
 = {b, c, d, i, o, u}
-|                      |              |     | (A − B)  ∪  (B  | −  A) |
-| -------------------- | ------------ | --- | --------------- | ----- |
-| -ª_ / -r_ af6 s ]    | kfof } < nv] |  .  |                 |       |
-| xfdf| ]ul0ft, sIff * |              |     |                 | 85    |
-
-cEof;     10.1
+| | | | ∪ | ∩  B)] |
+A B)  - (A
+| -r_ oxf,“ B-A  | =  { x  ∈  B / x  | ∉  A} | | |
+| | = {a, e, i, o, u } - {a, b, c, d, e } | | A | B |
+= {i, o, u } 1 123456781920314253647586901234567 2 3 4 5 6 7 8 1 9 2 0 3 1 4 2 5 3 6 4 7 5 8 6 9 0 1 2 3 4 5 6 7
+/ -s_ af6 xfdLnfO { yfxf 5 A-B = { b, c, d} 1 2 3 4 5 6 7 8 1 9 2 0 3 1 4 2 5 3 6 4 7 5 8 6 9 0 1 2 3 4 5 6 7
+∪ ∪ 123456781920314253647586901234567 1 2 3 4 5 6 7 8 1 9 2 0 3 1 4 2 5 3 6 4 7 5 8 6 9 0 1 2 3 4 5 6 7
+ca,  (A-B)  (B-A) = { b, c, d} {i, o, u } 1 2 3 4 5 6 7 8 1 9 2 0 3 1 4 2 5 3 6 4 7 5 8 6 9 0 1 2 3 4 5 6 7
+= {b, c, d, i, o, u}
+| | | | (A − B)  ∪  (B  | −  A) |
+| -ª_ / -r_ af6 s ] | kfof } < nv] |  .  | | |
+| xfdf| ]ul0ft, sIff * | | | | 85 |
+cEof; 10.1
 1. olb A = {2, 4, 6, 8,10} /  B = { 4, 8, 10, 12, 14} eP tnsf ;dx" x¿ kQf nufpm M
-|     | ∪     |     |     |     |       | ∩   |     |         |     |
-| --- | ----- | --- | --- | --- | ----- | --- | --- | ------- | --- |
-|     | -s_ A | B   |     |     | -v_ A | B   |     | -u_ A-B |     |
-∪
-|     | -3_ B-A            |     |         |     | -ª_ (A-B) | (B-A)               |           |     |     |
-| --- | ------------------ | --- | ------- | --- | --------- | ------------------- | --------- | --- | --- |
-| 2.  | kZ| g g= 1 sf ;dx" |     | x¿nfO { | 56' | 6\ f56'   | 6\  } eg] lrqdf k:| | tt'  u/ . |     |     |
-3. olb P = {20 eGbf ;fgf hf/]  k0" f { ;ªV\ ofx¿sf ] ;dx" } / Q={20 eGbf ;fgf 4 sf ckjTox{ ¿sf]
-|             | ;dx" } eP P-Q / Q-P nfO { |     |     |         | eg] lrqdf k:| | tt'  u/ .             |            |     |     |
-| ----------- | ------------------------- | --- | --- | ------- | ------------- | --------------------- | ---------- | --- | --- |
-| 4. lbOPsf ] | lrqdf tnsf ;dx"           |     |     | x¿nfO { | 56' 6\        | f56' 6\  } 5fof kf//] |  bv] fpm . |     |     |
-|             | -s_ A-B                   |     |     |         | -v_ B-C       |                       |            | A B | U   |
-|             | -u_ C-A                   |     |     |         | -3_ (A        | ∪                     |            |     |     |
+| | ∪ | | | | | ∩ | | | |
+| | -s_ A | B | | | -v_ A | B | | -u_ A-B | |
+| | -3_ B-A | | | | -ª_ (A-B) | (B-A) | | | |
+| 2.  | kZ| g g= 1 sf ;dx" | | x¿nfO { | 56' | 6\ f56' | 6\  } eg] lrqdf k:| | tt'  u/ . | | |
+3. olb P = {20 eGbf ;fgf hf/]  k0" f { ;ªV\ ofx¿sf ] ;dx" } / Q={20 eGbf ;fgf 4 sf ckjTox{ ¿sf
+| | ;dx" } eP P-Q / Q-P nfO { | | | | eg] lrqdf k:| | tt'  u/ . | | | |
+| 4. lbOPsf ] | lrqdf tnsf ;dx" | | | x¿nfO { | 56' 6\ | f56' 6\  } 5fof kf//] |  bv] fpm . | | |
+| | -s_ A-B | | | | -v_ B-C | | | A B | U |
+| | -u_ C-A | | | | -3_ (A | ∪ | | | |
 B)-C
-|     | -ª_ A-(B | ∪ C) |     |     | -r_ (B | ∩ C)-(C ∩ | A)  |     |     |
-| --- | -------- | ---- | --- | --- | ------ | --------- | --- | --- | --- |
-C
+| | -ª_ A-(B | ∪ C) | | | -r_ (B | ∩ C)-(C ∩ | A)  | | |
 olb U={1,2,3,4,5,6,7,8,9}, A={2,4,6,8}, B={3,5,7,9} / C={3,6,9} eP
-5.
 -s_ (A ∪ B)-C -v_ (B ∪ C)-A -u_ (C ∪ A)-B kQf nufO { eg] lrqdf k:| tt'  u/ .
-| 6. tnsf eg] |     | lrqx¿sf ] | 5fof kf/s] |     | f ] efusf ] | gfd ;ªs\ | t] df nv]  M |     |     |
-| ----------- | --- | --------- | ---------- | --- | ----------- | -------- | ------------ | --- | --- |
-|             |     |           | U          |     |             |          | U            |     | U   |
-|             | P   | Q         |            |     | A           | B        |              | A B |     |
-n
-C
+| 6. tnsf eg] | | lrqx¿sf ] | 5fof kf/s] | | f ] efusf ] | gfd ;ªs\ | t] df nv]  M | | |
+| | | | U | | | | U | | U |
+| | P | Q | | | A | B | | A B | |
 olb A = {a, e, i, o, u } , B = {i, o, u,w} /  C = {e, i, o} eP (A-B)-C  / A-(B-C) nfO{
-7.
-|     | 56' 6\ f56'    | 6\  } eg] lrqdf k:|      |     | tt'  u/ . |     |              |            |     |     |
-| --- | -------------- | ------------------------ | --- | --------- | --- | ------------ | ---------- | --- | --- |
-|     | U =  { ltdf| ] | ljBfnodf sIff 8 sf ;Dk0" |     |           |     | f { ljBfyLx{ | ¿sf ] ;dx" |  }  |     |
-8.
-|     | A = { sIff 8 sf skbL {     |     |     | vN] g dg k/fpgs] |                  | f ] ;dx" |  }          |     |     |
-| --- | -------------------------- | --- | --- | ---------------- | ---------------- | -------- | ----------- | --- | --- |
-|     | B = { sIff 8 sf 8G8Llaof ] |     |     |                  | vN] g dg k/fpgs] |          | f ] ;dx"  } |     |     |
-|     | C = { sIff 8 sf km'6an vN] |     |     |                  | g dg k/fpgs]     | f ]      | ;dx"  }     |     |     |
+| | 56' 6\ f56' | 6\  } eg] lrqdf k:| | | tt'  u/ . | | | | | |
+| | U =  { ltdf| ] | ljBfnodf sIff 8 sf ;Dk0" | | | | f { ljBfyLx{ | ¿sf ] ;dx" |  }  | |
+| | A = { sIff 8 sf skbL { | | | vN] g dg k/fpgs] | | f ] ;dx" |  } | | |
+| | B = { sIff 8 sf 8G8Llaof ] | | | | vN] g dg k/fpgs] | | f ] ;dx"  } | | |
+| | C = { sIff 8 sf km'6an vN] | | | | g dg k/fpgs] | f ] | ;dx"  } | | |
 olb A, B / C ;a } kl|tR5l]bt ;dx" x¿ eP A, B, C sf ] ;DaGwnfO { egl]rqdf k:| tt'  u/ .
-|     | kZ| g 8 sf cfwf/df tnsf ;dx" |     |     |     | x¿nfO { | 5fof kf//] |  bv] fpm M |     |     |
-| --- | ---------------------------- | --- | --- | --- | ------- | ---------- | ---------- | --- | --- |
-9.
-|     | -s_ skbL {            | dg k/fpg ]   |               | ljBfyLx{     | ¿sf ]    | ;dx"         |          |                      |     |
-| --- | --------------------- | ------------ | ------------- | ------------ | -------- | ------------ | -------- | -------------------- | --- |
-|     | -v_ skbL {            | / 8G8Llaof ] |               | dg k/fpg ]   | ljBfyLs{ | f ]          | ;dx"     |                      |     |
-|     | -u_ skbL,{ 8G8Llaof ] |              | jf km'6an vN] |              |          | g dg k/fpgs] | f ] ;dx" |                      |     |
-|     | -3_ tLg cf6]          |  }           | vn]  vN]      | g dg k/fpgs] |          | f ] ;dx"     |          |                      |     |
-| 86  |                       |              |               |              |          |              |          | xfdf| ]ul0ft, sIff * |     |
-
-U
-A
-U
+| | kZ| g 8 sf cfwf/df tnsf ;dx" | | | | x¿nfO { | 5fof kf//] |  bv] fpm M | | |
+| | -s_ skbL { | dg k/fpg ] | | ljBfyLx{ | ¿sf ] | ;dx" | | | |
+| | -v_ skbL { | / 8G8Llaof ] | | dg k/fpg ] | ljBfyLs{ | f ] | ;dx" | | |
+| | -u_ skbL,{ 8G8Llaof ] | | jf km'6an vN] | | | g dg k/fpgs] | f ] ;dx" | | |
+| | -3_ tLg cf6] |  } | vn]  vN] | g dg k/fpgs] | | f ] ;dx" | | | |
+| 86  | | | | | | | | xfdf| ]ul0ft, sIff * | |
 1 A 11
-2 4
-3 13
-6 8
-5 10 12 15
-7 14 16 17
-18
 9 A 19
 xfdf| ]ul0ft, sIff * 87
-
 88 xfdf| ]ul0ft, sIff *
-
 xfdf| ]ul0ft, sIff * 89
-
-| 10.3      eg] | lrqsf ] | ko| | fu]  ( Use of Venn Diagrams) |     |     |     |     |     |     |
-| ------------- | ------- | --- | ---------------------------- | --- | --- | --- | --- | --- | --- |
+| 10.3 eg] | lrqsf ] | ko| | fu]  ( Use of Venn Diagrams) | | | | | | |
 ul0ft1 John Venn n ] la;f “} ztfAbLdf ;dx" sf ljm|ofx¿nfO { lrqåf/f k:| tt'  u/s] f lyP . pg}
 ul0ft1sf ] gfdaf6 eg] lrq (Venn- Diagram) elgPsf ] xf ] . ;dx" sf zflAbs ;d:ofx¿nfO{
-|     | eg] lrqsf ] | ko| fu]              |  u/L ;dfwfg ug { |     | ;lsG5 . |     |     |     |     |
-| --- | ----------- | -------------------- | ---------------- | --- | ------- | --- | --- | --- | --- |
-|     | tnsf ]      | pbfx/0f cWoog u/f “} |                  |     | M       |     |     |     |     |
+| | eg] lrqsf ] | ko| fu] |  u/L ;dfwfg ug { | | ;lsG5 . | | | | |
+| | tnsf ] | pbfx/0f cWoog u/f “} | | | M | | | | |
 u08sL c~rnsf lhNnfx¿sf ] ;dx"  = { sf:sL, :ofªh\ f, tgx,'“ ndh'ª, uf/] vf, dgfª }
 wfn} flul/ c~rnsf lhNnfx¿sf ] ;dx"  =  {jfUnª' , DofUbL, kjt{ , d:' tfª}
 u08sL c~rnsf lhNnfx¿sf ] ;dx" nfO { G dfGbf, G = { sf:sL, :ofªh\ f, tgx,“' ndhª' , uf/] vf, dgfª} .
-u08sL c~rnsf 6 cf]6f lhNnfx¿ ;d"x G  sf ;b:ox¿ 5g\ . o;nfO{ G ;d"xsf]
+u08sL c~rnsf 6 cf]6f lhNnfx¿ ;d"x G  sf ;b:ox¿ 5g\ . o;nfO{ G ;d"xsf
 u0fgfTdstf elgG5 . To:t,} wfn} flul/ c~rnsf lhNnfx¿sf ] ;dx"  D sf ] u0fgfTdstf 4 eof ] .
 sg'  } klg ;dx" df ePsf ] hDdf ;b:ox¿sf ] ;ªV\ ofnfO { pSt ;dx" sf ] u0fgfTdstf -cardinality_ elgG5 .
 oxf “ M dflysf ] ;dx"  D sf ]  u0fgfTdstf 4 5 . o;nfO { n(D) = 4 nl]vG5 .
-U
-| olb, U ={ ;fs { |     | /fi6x« | ¿sf ] | ;dx"  } |     |     |     | A3                    |                                                                             |
-| --------------- | --- | ------ | ----- | ------- | --- | --- | --- | --------------------- | --------------------------------------------------------------------------- |
-|                 |     |        |       |         |     |     |     | 1 1 2 2 3 4 4 5 5 6 6 | 7 7 8 8 9 9 0 0 1 1 2 2 3 3 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0B1 1 2 2 |
-1234567890123123456789012
-1234567890123123456789012 1234567890123123456789012
+| olb, U ={ ;fs { | | /fi6x« | ¿sf ] | ;dx"  } | | | | A3 | |
+| | | | | | | | | 1 1 2 2 3 4 4 5 5 6 6 | 7 7 8 8 9 9 0 0 1 1 2 2 3 3 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0B1 1 2 2 |
 A ={ gk] fn, ef/t, kfls:tfg  } 1 2 3 4 5 6 7 8 9 0 1 2 3 1 2 3 4 5 6 7 8 9 0 1 2
-|     |     |     |     |     |     |     |     | 1 1234567890123123456789012 2 3 4 5 6 | 7 8 9 0 1 2 3 1 2 3 4 5 6 7 8 9 0 1 2 |
-| --- | --- | --- | --- | --- | --- | --- | --- | ------------------------------------- | ------------------------------------- |
-1234567890123123456789012
-1234567890123123456789012 1234567890123123456789012
 B = { e6' fg, aªu\ fnfbz] , >Lnªs\ f, dflNbE;, ckmuflg:yfg } eP, 1 2 3 4 5 6 7 8 9 0 1 2 3 1 2 3 4 5 6 7 8 9 0 1 2
-|     |     |     |     |     |     |     |     | 1 1234567890123123456789012 2 3 4 5 6 | 7 8 9 0 1 2 3 1 2 3 4 5 6 7 8 9 0 1 2 |
-| --- | --- | --- | --- | --- | --- | --- | --- | ------------------------------------- | ------------------------------------- |
-∪
 A B = { gk] fn, ef/t, kfls:tfg, e6' fg, aªu\ fnfbz] , >Lnªs\ f, ckmuflg:yfg } xG'5 . n(A∪B)  slt xG'5 <
 oxf,“ A ∪ B df hDdf 8 cf6] f ;b:ox¿ 5g \ . To;sf/0f n(A ∪ B) = 8 eof ] .
-|  kml]/, n(A) = 3  / n(B) = 5 |     |     |     |  5 . n(A) + n(B) = 3 + 5 = 8 eof ] |     |     | .   |     |     |
-| ---------------------------- | --- | --- | --- | ---------------------------------- | --- | --- | --- | --- | --- |
-∪
-|     |   n(A      | B)=n(A) + n(B) eof ]    |     |     | .                         |     |     |     |     |
-| --- | ---------- | ----------------------- | --- | --- | ------------------------- | --- | --- | --- | --- |
-|     | bO' c{ f6] | f ;dx" x¿ cnlUuPsf 5g \ |     |     | eg ] ∪ B)=n(A) + n(B) xG' |     | 5 . |     |     |
+|  kml]/, n(A) = 3  / n(B) = 5 | | | |  5 . n(A) + n(B) = 3 + 5 = 8 eof ] | | | . | | |
+| | n(A | B)=n(A) + n(B) eof ] | | | . | | | | |
+| | bO' c{ f6] | f ;dx" x¿ cnlUuPsf 5g \ | | | eg ] ∪ B)=n(A) + n(B) xG' | | 5 . | | |
 n(A
-U
-|                 |     |               |     |     |     |     |     |     | A B |
-| --------------- | --- | ------------- | --- | --- | --- | --- | --- | --- | --- |
-| To:t,} lbOPsf ] |     | eg] lrqdf x/] |     |  .  |     |     |     |     |     |
-1234567
-1234567 1234567
-A = {1, 2, 3, 4, 5};    B = { 4, 5, 6, 7 } n(A) = 5, n(B) = 4 5 . 1 1 2 3 344 5 6 7
-|     |     |     |     |     |     |     |     |     | 1 1234567 2 4 5 6 7 6 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --------------------- |
-|     |     |     |     |     |     |     |     |     | 2 1 2 3 4 5 6 7       |
-|     |     |     |     |     |     |     |     |     | 1 2 3 5 4 5 6 7 7     |
+| | | | | | | | | | A B |
+| To:t,} lbOPsf ] | | eg] lrqdf x/] | |  .  | | | | | |
+A = {1, 2, 3, 4, 5}; B = { 4, 5, 6, 7 } n(A) = 5, n(B) = 4 5 . 1 1 2 3 344 5 6 7
 km]l/,  A ∪ B = {1, 2, 3, 4, 5,6,7} / A ∩ B = {4, 5} 5 . 1 1 2 2 3 3 4 4 5 5 6 6 7 7
-|     |     |     |     |     |     |     |     |     | 3 1 2 3 4 5 6 7 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --------------- |
-1234567 1234567
-|     | ∪   |              | ∩      |     |     |     |     |     | 1234567 |
-| --- | --- | ------------ | ------ | --- | --- | --- | --- | --- | ------- |
-|     | n(A | B) = 7 / n(A | B) = 2 |     |     |     |     |     |         |
+| | ∪ | | ∩ | | | | | | 1234567 |
+| | n(A | B) = 7 / n(A | B) = 2 | | | | | | |
 To;sf/0f, eg] lrqsf ] ko| fu]  ubf { n(A) + n(B) = 9 eof ] t/ n(A∪B) = 7 5 .
-|     | h'g  n(A) + n(B)  eGbf 2 jf  n(A∩B)  n ] |     |     |     | sd 5 . |     |     |     |     |
-| --- | ---------------------------------------- | --- | --- | --- | ------ | --- | --- | --- | --- |
-To;sf/0f, n(A∪B) = n(A) + n(B) - n(A∩B) eof ]
-.
-bO' c{ f6] f ;dxÒ  A  / B kl|tR5l]bt ;dxÒ x¿  eP  n(A∪B) = n(A) + n(B) - n(A∩B)   x'G5 . ;fy,}
- df dfq kg {]
-|     | ;dxÒ  A |     | ;b:ox¿sf ] |     | ;ªV\ of 3 5 . t;y,{ n | (A) = 3 5 . |     |     |     |
-| --- | ------- | --- | ---------- | --- | --------------------- | ----------- | --- | --- | --- |
-0
- n (A) = n(A) - n(A∩B)
-0
+| | h'g  n(A) + n(B)  eGbf 2 jf  n(A∩B)  n ] | | | | sd 5 . | | | | |
+To;sf/0f, n(A∪B) = n(A) + n(B) - n(A∩B) eof
+bO' c{ f6] f ;dxÒ  A  / B kl|tR5l]bt ;dxÒ x¿  eP  n(A∪B) = n(A) + n(B) - n(A∩B) x'G5 . ;fy,}
+df dfq kg {
+| | ;dxÒ  A | | ;b:ox¿sf ] | | ;ªV\ of 3 5 . t;y,{ n | (A) = 3 5 . | | | |
+n (A) = n(A) - n(A∩B
 ;dxÒ  B df dfq kg {] ;b:ox¿sf ] ;ªV\ of 2  5 . t;y,{ n (B) = 2 5 .
-0
- n (B) = n(B) - n(A∩B)
-0
-| 90  |     |     |     |     |     |     |     |     | xfdf| ]ul0ft, sIff * |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | -------------------- |
-
+n (B) = n(B) - n(A∩B
+| 90  | | | | | | | | | xfdf| ]ul0ft, sIff * |
 xfdf| ]ul0ft, sIff * 91
-
 92 xfdf| ]ul0ft, sIff *
-
 kf7
-11
-|     | k0" f { | ;ªV\ | ofx¿   |     |     |     |     |     |     |
-| --- | ------- | ---- | ------ | --- | --- | --- | --- | --- | --- |
-(Whole Numbers)
-| 11.0kg' /jnfs] | g (Review) |     |     |     |     |     |     |     |     |
-| -------------- | ---------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | k0" f { | ;ªV\ | ofx¿ | | | | | | |
+Whole Numbers
+| 11.0kg' /jnfs] | g (Review) | | | | | | | | |
 ‘ul0ft1 Kroncker sf cg;' f/ eujfgn\  ] kf|sl[ts ;ªV\ ofx¿ dfq ;l[i6 u/s] f xg'  \ / afs“ L ;a}
 ;ªV\ ofx¿ dflg;n ] g } kl|tkfbg u/s] f xg'  \ .’ ul0ftdf ;ªV\ ofx¿sf ] ;?' jft uGtLsf ;ªV\ ofx¿ 1,
 2,3, 4, .....af6 ;'?cft ePsf] xf] . b'O{cf]6f uGtLsf ;ª\Vofx¿ hf]8\bf uGtLsf] ;ª\Vof g}
 aG5, h:t } M 3+3 = 6 xG' 5  . t/ 3 - 3 slt xG' 5 < o;nfO { hgfpgsf nflu yk ;ªV\ ofsf ] cfjZostf
 dx;;'  ul/of ] / kf|sl[ts  ;ªV\ ofx¿df  zG" o (0) yk eof ] . o;/L k0" f { ;ªV\ ofsf ] ;dx" sf ] ljsf;
 eof ] . o;nfO { (W) n ] hgfOG5  . W = { 0,1, 2,3, 4, .......}  xG' 5 . ca, tnsf ] ljm|ofsnfk u/f “} .
-|     |     |     |     |     | 1 2 | 1 2 1 2 1 2 | 1 2 1 2 1 2 1 2 | 1 2 1 2 |     |
-| --- | --- | --- | --- | --- | --- | ----------- | --------------- | ------- | --- |
 27 cf6] f l;Gsfx¿ np] m . 1 2 13 21 2 13 2 1 1 2 21 32 13 21 2 13 2 1 2 1 3 21 12 23 1 1 2 2 1 3 12 23 1 2 13 2 1 2 1 2 1 2 1 2
-|     |     |     |     |     | 1 123123121323123123123123123123 2 3                          | 1 2 3 1 2 13 2 3 | 1 2 3 1 2 3 1 2 3 1 2 3 1 | 2 3 1 2 3 1 12 121323123123 2132 | 13 212 13 21 12 23 |
-| --- | --- | --- | --- | --- | ------------------------------------------------------------- | ---------------- | ------------------------- | -------------------------------- | ------------------ |
-|     |     |     |     |     | 123123121323123123123123123123                                |                  |                           | 121323123123                     |                    |
-|     |     |     |     |     | 123123121323123123123123123123 123123121323123123123123123123 |                  |                           | 121323123123 121323123123        |                    |
 o;nfO { 10 3ftsf ] ;dx" df ljefhg u/ . 1 2 3 1 2 3 1 2 1 3 2 3 1 2 3 1 23 1 2 3 1 2 3 1 2 3 1 2 3 1 2 1 3 2 3 1 2 3 1 2 3
-|     |     |     |     |     | 1 123123121323123 2 3                                                                | 1 2 3 1 2 1 3 2 3 | 1 2 3 12 3 1 2 3 1 2 3 1 123 | 2 3 1 2 3 1 121323123123 2 1 3 | 2 3 1 2 3 1 2 3 |
-| --- | --- | --- | --- | --- | ------------------------------------------------------------------------------------ | ----------------- | ---------------------------- | ------------------------------ | --------------- |
-|     |     |     |     |     | 12                                                                                   | 12 1 12           | 12 12 1212                   | 12 12 12                       | 12 12           |
-|     |     |     |     |     | 121321421321123112213213241213212132112231122311223 12314231231231234123123123123123 |                   |                              | 1122311223142132 1231231423    |                 |
 2 x 10 + 7 = 2 x 101 + 7 x 100 1 2 3 4 1 2 3 1 2 3 1 2 3 1 2 3 1 4 2 3 1 2 3 1 2 3 1 2 3 1 2 3 1 2 1 3 2 3 1 4 2 3
-|     |     |     |     |     | 1 12341231231231231423123123123123 2 3                            | 4 1 2 3 1 2 3 1 2 | 3 1 2 3 1 4 2 3 1 2 3 1 2 3 | 1 2 3 1 2 3 1 1213231423 2 | 1 3 2 3 1 4 2 3 |
-| --- | --- | --- | --- | --- | ----------------------------------------------------------------- | ----------------- | --------------------------- | -------------------------- | --------------- |
-|     |     |     |     |     | 12341231231231231423123123123123                                  |                   |                             | 1213231423                 |                 |
-|     |     |     |     |     | 12341231231231231423123123123123 12341231231231231423123123123123 |                   |                             | 1213231423 1213231423      |                 |
 o;nfO { bzdnj  ;ªV\ ofªs\ g k4lt (decimal numeration system) elgG5 .
- kml]/,  27 nfO { 5 3ftsf ] ;dx" df ljefhg u/ . 12 1 13 2 21 1 12 2 213 1 12 2 231 1 12 2 231 1 12 2 23 12 1 13 2 21 1 12 2 231 1 12 2 231 1 12 2 231 1 12 2 23
-|     |     |     |     | 123121323123123                 |         | 123121323123123                                          |                   |                             |                      |
-| --- | --- | --- | --- | ------------------------------- | ------- | -------------------------------------------------------- | ----------------- | --------------------------- | -------------------- |
-|     |     |     |     | 123121323123123 123121323123123 |         | 123121323123123 123121323123123                          |                   |                             |                      |
-|     |     |     |     | 123121323123123                 |         | 123121323123123                                          |                   |                             |                      |
-|     |     |     |     | 123121323123123 123121323123123 |         | 1231213231231231122312 123121323123123123123121321321423 |                   | 1 12 12                     | 12132123 12 12       |
-|     |     |     |     | 123121323123123                 |         | 1231213231231231231231231231423                          |                   |                             | 123123               |
-|     |     |     |     | 1 2                             | 1 2 1 2 | 1 2 1231213231231231213231231234123 1 2                  | 1 2 1 2 1 2 1 2 1 | 2 1 3 2 3 1 2 3 1 2 3 4 1 2 | 3 123123 1 2 3 1 2 3 |
+kml]/,  27 nfO { 5 3ftsf ] ;dx" df ljefhg u/ . 12 1 13 2 21 1 12 2 213 1 12 2 231 1 12 2 231 1 12 2 23 12 1 13 2 21 1 12 2 231 1 12 2 231 1 12 2 231 1 12 2 23
 5 x 5 + 2 = 1 x 52+ 2 x 50 12 13 2412 13 21 12 213213212 13 2 1 12 231 12 231 12 231 12 231 12 23 1 2 1 3 2 3 1 2 3 1 2 3 4 1 2 3 1 2 3 1 2 3
-|     |     |     |     | 1231423123123123 1231423123123123 |              | 1231231231231231213231231234123 1213231231231231213231231234123 |     |     | 123123 123123 |
-| --- | --- | --- | --- | --------------------------------- | ------------ | --------------------------------------------------------------- | --- | --- | ------------- |
-|     |     |     |     | 1231423123123123                  |              | 1213231231231231213231231234123                                 |     |     | 123123        |
-|     |     |     |     | 1231423123123123 1231423123123123 |              | 121323123123123 121323123123123                                 |     |     |               |
-|     |     |     |     | 1231423123123123                  |              | 121323123123123                                                 |     |     |               |
-|     |     |     |     | 1231423123123123                  | 123123123123 | 121323123123123                                                 |     |     |               |
-       = 1 x 52+ 0 X51 + 2 x 50
+= 1 x 52+ 0 X51 + 2 x 50
 o;nfO {  k~rcfwf/ ;ªV\ ofªs\ g k4lt  (quinary numeration system) elgG5 .
-|  cGTodf,  27 nfO { | 2 3ftsf ]    | ;dx" df ljefhg u/ . |                             |         |                 |               |                               |                 |     |
-| ------------------ | ------------ | ------------------- | --------------------------- | ------- | --------------- | ------------- | ----------------------------- | --------------- | --- |
-| 2 sf ] 3ftfªs\     | sf ] ;dx" df |                     |                             |         |                 |               | 1 2 1 2 1 2 1 2               |                 |     |
-|                    |              |                     | 11221324                    | 1212132 | 11212234        | 1211223       | 1 12 2132 13 2 12 13 21 12 23 | 12 12           |     |
-|                    |              |                     | 1213234123123 1213234123123 |         | 1213234 1231234 | 123123 123123 | 121323 121323 123123 123123   | 11221323 121323 |     |
-|                    |              |                     | 1213234123123               |         | 1231234         | 123123        | 121323 123123                 | 123123          | 12  |
+|  cGTodf,  27 nfO { | 2 3ftsf ] | ;dx" df ljefhg u/ . | | | | | | | |
+| 2 sf ] 3ftfªs\ | sf ] ;dx" df | | | | | | 1 2 1 2 1 2 1 2 | | |
 ljefhg ubf,{ 1 1 2 2 1 1 3 3 2 2 3 3 4 4 1 1 2 2 3 3 1 1 2 2 3 3 1 1 2 2 3 3 1 1 2 2 3 3 4 4 1 1 2 2 3 3 1 1 2 2 3 3 1 1 2 2 1 1 3 3 2 2 3 3 1 1 2 2 3 3 1 1 2 2 3 3 1 1 2 2 3 3 1 1 2 2 3 3 1 1 2 2 3 3
-|     |     |     | 1213234123123               |     | 1231234         | 123123        | 121323 123123         | 123123        | 123     |
-| --- | --- | --- | --------------------------- | --- | --------------- | ------------- | --------------------- | ------------- | ------- |
-|     |     |     | 1213234123123 1213234123123 |     | 1231234 1231234 | 123123 123123 | 121323 123 123123 123 | 123123 123123 | 123 123 |
-|     |     |     |                             |     |                 |               | 1212                  |               | 123     |
-16 + 8 +2 + 1 123123 12 12 11223123 1212 12 121323 12 123123 1212 1213211223 12312312132123 12 12 123 123
-|     |     |     | 123123         | 123123               | 121323               | 123123             | 123123123123                       |     |     |
-| --- | --- | --- | -------------- | -------------------- | -------------------- | ------------------ | ---------------------------------- | --- | --- |
-|     |     |     | 123123 1 2 3 1 | 2 3 123123 1 2 3 1 2 | 3 121323 1 2 1 3 2 3 | 123123 1 2 3 1 2 3 | 123123123123 1 2 3 1 2 3 1 2 3 1 2 | 3   |     |
 = 1 X 24+ 1 X 23  + 1X 21 + 1 X 20 1 2 3 1 2 3 1 2 3 1 2 3 1 2 1 3 2 3 1 2 3 1 2 3 1 2 3 1 2 3 1 2 3 1 2 3
-|     |     |     | 123123 123123 | 123123 123123 | 121323 121323 | 123123 123123 | 123123123123 123123123123 |     |     |
-| --- | --- | --- | ------------- | ------------- | ------------- | ------------- | ------------------------- | --- | --- |
-|     |     |     | 123123        | 123123        | 121323        | 123123        | 123123                    |     |     |
 =1 X 24+ 1 X 23  + 0 X 22 + 1X 21 + 1 X 20
 o;nfO { låcfwf/ ;ªV\ ofªs\ g k4lt (binary numeration  system) elgG5 .
-| xfdf| ]ul0ft, sIff * |     |     |     |     |     |     |     |     | 93  |
-| -------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-| 11.1 bzdnj ;ªV\ |                         | ofªs\ g k4lt (Decimal Numeration System) |                      |            |
-| --------------- | ----------------------- | ---------------------------------------- | -------------------- | ---------- |
-| ;u“ s}          | f ] tflnsfdf 1256 nfO { |                                          | :yfgdfg tflnsfdf bv] | fPsf ] 5 . |
-| xhf/            |                         | ;o b;                                    | Ps                   |            |
-| 103             |                         | 102 101                                  | 100                  |            |
-| 1               |                         | 2 5                                      | 6                    |            |
-|  1256 nfO {     | lj:tfl/t ¿kdf nV]       |                                          | bf                   |            |
+| xfdf| ]ul0ft, sIff * | | | | | | | | | 93  |
+| 11.1 bzdnj ;ªV\ | | ofªs\ g k4lt (Decimal Numeration System) | | |
+| ;u“ s} | f ] tflnsfdf 1256 nfO { | | :yfgdfg tflnsfdf bv] | fPsf ] 5 . |
+| xhf/ | | ;o b; | Ps | |
+|  1256 nfO { | lj:tfl/t ¿kdf nV] | | bf | |
 1256=  1 x 1000 + 2 x 100 + 5 x 10 + 6 x 1
 = 1 x 103 + 2 x 102 + 5 x 101 + 6 x 100
 sg'  } klg ;ªV\ ofnfO { 10 sf ] 3ftsf ¿kdf nl]vG5 / :yfgdfg tflnsfdf  Ps, b;, ;o, xhf/,
 ===== jf 100 ,101, 102, 103, 104, ……. xG' 5 eg ] To:tf ] ;ªV\ ofªs\ g k4ltnfO { bzdnj ;ªV\ ofªs\ g
 k4lt (decimal numeration system) elgG5 . o;df 0,1,2,3,4,5,6,7,8 / 9 u/L 10 cf6] f
-| cªs\ x¿ ko| | fu]  ul/G5 . |     |     |     |
-| ----------- | ------------ | --- | --- | --- |
+| cªs\ x¿ ko| | fu]  ul/G5 . | | | |
 pbfx/0f 1
-| 35731   nfO { | lj:tfl/t ¿kdf nv] |     |  M  |     |
-| ------------- | ----------------- | --- | --- | --- |
-10
+| 35731 nfO { | lj:tfl/t ¿kdf nv] | |  M  | |
 ;dfwfg
 oxf“,35731
 = 3 x 10000 + 5 x1000 + 7 x 100 + 3 x 10 + 1 x 1
-10
 = 3 x 104 + 5 x 103 +7 x102 + 3 x 101 + 1 x 100
-| tnsf ] pbfx/0f x/] |                | f “} M               |     |     |
-| ------------------ | -------------- | -------------------- | --- | --- |
-| 179 nfO {          | 5 sf ] 3ftsf ] | ;dx" df ljefhg ubf,{ |     |     |
-179 = 125 + 50 + 4
-×
-| = 125 + 2  |                 | 25  + 4         |     |     |
-| ---------- | --------------- | --------------- | --- | --- |
-|  = 5       | ×  5  ×  5 + 2  | ×  5  ×  5 + 4  | × 1 |     |
+| tnsf ] pbfx/0f x/] | | f “} M | | |
+| 179 nfO { | 5 sf ] 3ftsf ] | ;dx" df ljefhg ubf,{ | | |
+|  = 5 | ×  5  ×  5 + 2  | ×  5  ×  5 + 4  | × 1 | |
 × ×
-| = 53 + 2  |  52 + 4  |  50       |               |     |
-| --------- | -------- | --------- | ------------- | --- |
-| ×         |          | × ×       | ×             |     |
-| = 1       |  53 + 2  |  52  + 0  |  51 +  4   50 |     |
+| × | | × × | × | |
 oxf,“ 179 nfO { cfwf/ 5 sf ] 3ftsf ¿kdf 1204 JoSt ul/Psf ] 5 . o;nfO { k~rcfwf/ k4lt elgG5 .
 bzdnj ;ªV\ ofªs\ g k4ltdf 0,1,2,3,4,5,6,7,8 / 9 u/L 10 cf6] f cªs\ x¿ ko| fu]  u/ ] h:t } sg' }
 klg ;ªV\ ofnfO { 0,1, 2, 3 / 4 sf ] dfq ko| fu]  u/L 5 sf ] 3ftsf ¿kdf nl]vG5 . :yfgdfg tflnsfdf
-Ps, kfr“ , klRr;, Ps ;o klRr;,  5 ;o klRr;, ==== jf 50, 51, 52, 53, 54, …. xG' 5 eg ] To:tf]
+Ps, kfr“ , klRr;, Ps ;o klRr;,  5 ;o klRr;, ==== jf 50, 51, 52, 53, 54, …. xG' 5 eg ] To:tf
 ;ªV\ ofªs\ g k4ltnfO { k~rfwf/ ;ªV\ ofªs\ g k4lt (quinery numeration system) elgG5 .
-| dflysf ] pbfx/0fnfO { |     | nl]vG5 . |     |     |
-| --------------------- | --- | -------- | --- | --- |
-1204
-5
+| dflysf ] pbfx/0fnfO { | | nl]vG5 . | | |
 94 xfdf| ]ul0ft, sIff *
-
 pbfx/0f 2
-| 33 nfO { | k~rcfwf/ ;ªV\ |         | ofdf nv]             |  .  |     |     |     |
-| -------- | ------------- | ------- | -------------------- | --- | --- | --- | --- |
-| 33 nfO { | 5 sf ]        | 3ftsf ] | ;dx" df ljefhg ubf,{ |     |     |     |     |
+| 33 nfO { | k~rcfwf/ ;ªV\ | | ofdf nv] |  .  | | | |
+| 33 nfO { | 5 sf ] | 3ftsf ] | ;dx" df ljefhg ubf,{ | | | | |
 ;dfwfg
-| oxf“ 33 | = 25 + 5+ 3 |            |            |                |     |     |     |
-| ------- | ----------- | ---------- | ---------- | -------------- | --- | --- | --- |
-|         | =1          | ×  52 + 1  | ×  51 + 3  | ×  50 nl]vG5 . |     |     |     |
-|         |             |  xG' 5 .   |            |                |     |     |     |
-= 113
-5
-| 11.3 | bzdnj k4ltnfO { |     |     | k~rcfwf/df ¿kfGt/ |     |     |     |
-| ---- | --------------- | --- | --- | ----------------- | --- | --- | --- |
+| oxf“ 33 | = 25 + 5+ 3 | | | | | | |
+| | =1 | ×  52 + 1  | ×  51 + 3  | ×  50 nl]vG5 . | | | |
+| | |  xG' 5 . | | | | | |
+| 11.3 | bzdnj k4ltnfO { | | | k~rcfwf/df ¿kfGt/ | | | |
 tl/sf,
-| –   | lbOPsf ]  | ;ªV\         | ofnfO { 5 n ] | efu ub {} hfg] |     |     |     |
-| --- | --------- | ------------ | ------------- | -------------- | --- | --- | --- |
-| –   | zi]fnfO { | bfofl“t/ nV] |               | g]             |     |     |     |
-– bfofl“t/ nl]vPsf zi]fsf cªs\ x¿nfO { tnaf6 dfly jm|ddf ldnfpg ] / nV] g]
-| tnsf ] | pbfx/0f x/] | f “} M |     |     |     |     |     |
-| ------ | ----------- | ------ | --- | --- | --- | --- | --- |
+| – | lbOPsf ]  | ;ªV\ | ofnfO { 5 n ] | efu ub {} hfg] | | | |
+| – | zi]fnfO { | bfofl“t/ nV] | | g] | | | |
+– bfofl“t/ nl]vPsf zi]fsf cªs\ x¿nfO { tnaf6 dfly jm|ddf ldnfpg ] / nV] g
+| tnsf ] | pbfx/0f x/] | f “} M | | | | | |
 pbfx/0f 3
-| tnsf ;ªV\ | ofnfO { | k~rcfwf/ k4ltdf ¿kfGt/ u/ . |     |     |     |     |     |
-| --------- | ------- | --------------------------- | --- | --- | --- | --- | --- |
+| tnsf ;ªV\ | ofnfO { | k~rcfwf/ k4ltdf ¿kfGt/ u/ . | | | | | |
  -s_ 512
-| ;dfwfg |     |     |     |     | -v_ 7521 |     |     |
-| ------ | --- | --- | --- | --- | -------- | --- | --- |
+| ;dfwfg | | | | | -v_ 7521 | | |
 ;dfwfg
-|                      | 5                    | 512           | zi]f (  |  5 n ] efu ubf_{ |                      |                                  |          |
-| -------------------- | -------------------- | ------------- | ------- | ---------------- | -------------------- | -------------------------------- | -------- |
-|                      | 5                    | 102           | 2       |                  |                      |                                  |          |
-|                      |                      |               |         |                  | 5                    | 7521                             | z]if     |
-|                      | 5                    | 20            | 2       |                  |                      |                                  |          |
-|                      |                      |               |         |                  | 5                    | 1504                             | 1        |
-|                      | 5                    | 4             | 0       |                  | 5                    | 300                              | 4        |
-|                      |                      |               |         |                  | 5                    | 60                               | 0        |
-|                      |                      | 0             | 4       |                  |                      |                                  |          |
-|                      |                      |               |         |                  | 5                    | 12                               | 0        |
-| ca zi]fnfO {         | tnaf6 dflylt/ ldnfP/ |               |         |                  |                      |                                  |          |
-|                      |                      |               |         |                  | 5                    | 2                                | 2        |
-| /fVbf 4022 xG'       |                      | 5 . t;y,{ 512 |         |  =4022  xG' 5 .  |                      |                                  |          |
-|                      |                      |               |         |                  |                      | 0                                | 2        |
-|                      |                      |               | 10      | 5                |                      |                                  |          |
-| :yfgdfg tflnsfdf bv] |                      |               | fpb“ f, |                  |                      |                                  |          |
-|                      |                      |               |         |                  | t;y,{ 7521           |  = 220041                        |  xG' 5 . |
-|                      |                      |               |         |                  |                      | 10                               | 5        |
-| 53                   | 52                   | 51            | 50      |                  |                      |                                  |          |
-|                      |                      |               |         |                  | :yfgdfg tflnsfdf bv] |                                  | fpb“ f,  |
-| 4                    | 0                    | 2             | 2       |                  |                      |                                  |          |
-|                      |                      |               |         |                  | 55   54              |   53 52           51          50 |          |
-|                      |                      |               |         |                  | 2  2                 |   0 0       4       1            |          |
+| | 5 | 512 | zi]f (  |  5 n ] efu ubf_{ | | | |
+| | | | | | 5 | 7521 | z]if |
+| ca zi]fnfO { | tnaf6 dflylt/ ldnfP/ | | | | | | |
+| /fVbf 4022 xG' | | 5 . t;y,{ 512 | |  =4022  xG' 5 .  | | | |
+| :yfgdfg tflnsfdf bv] | | | fpb“ f, | | | | |
+| | | | | | t;y,{ 7521 |  = 220041 |  xG' 5 . |
+| | | | | | :yfgdfg tflnsfdf bv] | | fpb“ f,  |
 xfdf| ]ul0ft, sIff * 95
-
-| 11.4= k~rcfwf/ k4ltnfO { |     |     |     | bzdnj k4ltdf ¿kfGt/ |     |     |
-| ------------------------ | --- | --- | --- | ------------------- | --- | --- |
+| 11.4= k~rcfwf/ k4ltnfO { | | | | bzdnj k4ltdf ¿kfGt/ | | |
 tl/sf,
-| - ;jk{ | y| d :yfgdfg tflnsfcg;' |                |                 | f/ lj:tfl/t ¿kdf nV] |     | g]  |
-| ------ | ----------------------- | -------------- | --------------- | -------------------- | --- | --- |
-| - ;a } | 3ftfªs\                 | x¿ u0'         | ff u/L ;/n ug{] |                      |     |     |
-| - k0"  | f { ;ªV\                | ofdf JoSt ug{] |                 |                      |     |     |
+| - ;jk{ | y| d :yfgdfg tflnsfcg;' | | | f/ lj:tfl/t ¿kdf nV] | | g]  |
+| - ;a } | 3ftfªs\ | x¿ u0' | ff u/L ;/n ug{] | | | |
+| - k0"  | f { ;ªV\ | ofdf JoSt ug{] | | | | |
 pbfx/0f 4
-| tnsf k~rcfwf/ ;ªV\ |     |     | ofnfO { | bzdnj ;ªV\ | ofdf ¿kfGt/ u/ M |     |
-| ------------------ | --- | --- | ------- | ---------- | ---------------- | --- |
-| -s_ 4321           |     |     |         | -v_ 13320  |                  |     |
-|                    | 5   |     |         |            | 5                |     |
+| tnsf k~rcfwf/ ;ªV\ | | | ofnfO { | bzdnj ;ªV\ | ofdf ¿kfGt/ u/ M | |
+| -s_ 4321 | | | | -v_ 13320  | | |
 ;dfwfg
 nfO { :yfgdfg tflnsfdf /fVbf,
-4321
-5
-| Ps ;o klRr;          |     |      | klRr;    | kf“r    | Ps          |     |
-| -------------------- | --- | ---- | -------- | ------- | ----------- | --- |
-|                      | 53  |      | 52       | 51      | 50          |     |
-|                      | 4   |      | 3        | 2       | 1           |     |
-| ca lj:tfl/t ¿kdf nV] |     |      |          | bf,     |             |     |
-|                      |     |      | ×        | ×       | × ×         |     |
-| 4321                 |     | = 4  |  53 + 3  |  52 +2  |  51 + 1  50 |     |
-5
-|     |     |      | ×       | ×       | × ×     |     |
-| --- | --- | ---- | ------- | ------- | ------- | --- |
-|     |     | = 4  | 125 +3  |  25 +2  |  5 +1 1 |     |
-= 500 + 75+ 10+ 1
-= 586
-10
-| To;sf/0f 4321 |     |     |  =586 |  xG' 5 |     |     |
-| ------------- | --- | --- | ----- | ------ | --- | --- |
-|               |     | 5   | 10    |        |     |     |
+| Ps ;o klRr; | | | klRr; | kf“r | Ps | |
+| ca lj:tfl/t ¿kdf nV] | | | | bf, | | |
+| | | | × | × | × × | |
+| | | | × | × | × × | |
+| To;sf/0f 4321 | | |  =586 |  xG' 5 | | |
 -v_ 13420
-5
 :yfgdfg tflnsfdf /fVbf,
-|               | 54  | 53                   | 52     | 51               | 50           |     |
-| ------------- | --- | -------------------- | ------ | ---------------- | ------------ | --- |
-|               | 1   | 3                    | 4      | 2                | 0            |     |
-| ca tflnsfcg;' |     | f/ lj:tfl/t ¿kdf nV] |        |                  | bf,          |     |
-| 13420         |     | = 1 ×                | 54 + 3 | × 53 +4 × 52 + 2 | × 51+ 0 × 50 |     |
-5
-|     |     | = 1 × | 625 +3 | × 125 +4 | × 25 +2 × 5+ 0 |     |
-| --- | --- | ----- | ------ | -------- | -------------- | --- |
-= 625+ 375+ 100+ 10
-= 1110
-10
-| t;y,{ 13420 |     |  = 1110 | xG5 . |     |     |     |
-| ----------- | --- | ------- | ----- | --- | --- | --- |
-|             |     | 5       | 10    |     |     |     |
+| ca tflnsfcg;' | | f/ lj:tfl/t ¿kdf nV] | | | bf, | |
+| 13420 | | = 1 × | 54 + 3 | × 53 +4 × 52 + 2 | × 51+ 0 × 50 | |
+| | | = 1 × | 625 +3 | × 125 +4 | × 25 +2 × 5+ 0 | |
+| t;y,{ 13420 | |  = 1110 | xG5 . | | | |
 96 xfdf| ]ul0ft, sIff *
-
 cEof; 11.1
-| 1. tnsf ;ªV\       | ofx¿nfO { | k~rcfwf/ ;ªV\ |         | ofdf ¿kfGt/0f u/ M |                      |     |          |
-| ------------------ | --------- | ------------- | ------- | ------------------ | -------------------- | --- | -------- |
-| -s_ 9              | (v_13     |               | -u_ 21  |                    | -3_ 26               |     | -ª_ 45   |
-| -r_ 86             | -5_ 194   |               | -h_ 404 |                    | -em_ 497             |     | -`_ 1234 |
-| tnsf k~rcfwf/ ;ªV\ |           | ofx¿nfO {     |         | bzdnj ;ªV\         | ofx¿df ¿kfGt/0f u/ M |     |          |
-2.
-| -s_ 24            |                    | -v_101                                        |     | -u_ 300   |     | -3_ 4321  |     |
-| ----------------- | ------------------ | --------------------------------------------- | --- | --------- | --- | --------- | --- |
-|                   | 5                  |                                               | 5   |           | 5   |           | 5   |
-| -ª_ 441           |                    | -r_ 2023                                      |     | -5_ 4201  |     | -h_ 3313  |     |
-|                   | 5                  |                                               | 5   |           | 5   |           | 5   |
-| -em_ 12304        |                    | -`_ 2014                                      |     | -6_ 10123 |     | -7_ 21432 |     |
-|                   | 5                  |                                               | 5   |           | 5   |           | 5   |
-| 11.5 låcfwf/ ;ªV\ |                    | of k4lt  (Binary Number System)               |     |           |     |           |     |
-| tn ;u“            | s} f ] pbfx/0f x/] | f “} .                                        |     |           |     |           |     |
-|   29 = 28 + 1     |                    | =  8X 3+ 1 X 4 + 1 = 8 X2 + 8 X 1 + 1 X 4 + 1 |     |           |     |           |     |
-            =16 +8 +4 +1        =24 +23+22 +1
+| 1. tnsf ;ªV\ | ofx¿nfO { | k~rcfwf/ ;ªV\ | | ofdf ¿kfGt/0f u/ M | | | |
+| -s_ 9 | (v_13 | | -u_ 21  | | -3_ 26 | | -ª_ 45 |
+| -r_ 86 | -5_ 194 | | -h_ 404 | | -em_ 497 | | -`_ 1234 |
+| tnsf k~rcfwf/ ;ªV\ | | ofx¿nfO { | | bzdnj ;ªV\ | ofx¿df ¿kfGt/0f u/ M | | |
+| -s_ 24 | | -v_101 | | -u_ 300 | | -3_ 4321  | |
+| -ª_ 441 | | -r_ 2023 | | -5_ 4201  | | -h_ 3313  | |
+| -em_ 12304 | | -`_ 2014 | | -6_ 10123 | | -7_ 21432 | |
+| 11.5 låcfwf/ ;ªV\ | | of k4lt  (Binary Number System) | | | | | |
+| tn ;u“ | s} f ] pbfx/0f x/] | f “} . | | | | | |
+| 29 = 28 + 1 | | =  8X 3+ 1 X 4 + 1 = 8 X2 + 8 X 1 + 1 X 4 + 1 | | | | | |
 = 1 x 24+ 1 x 23 + 1 x 22 + 0 x 21 + 1 x 20
-|     | ∴29 | = 1 x 24+ 1 x 23 +1 x 22 + 0 x 21 + 1 x 20 xG' |     |     |     |     | 5 . |
-| --- | --- | ---------------------------------------------- | --- | --- | --- | --- | --- |
-To:t,} sg'  } ;ªV\ ofnfO { 0, 1, 2, 3 / 4 dfq ko| fu]  u/ ] em “} sg'  } klg ;ªV\ ofnfO { 0 / 1 dfq ko| fu]
+| | ∴29 | = 1 x 24+ 1 x 23 +1 x 22 + 0 x 21 + 1 x 20 xG' | | | | | 5 . |
+To:t,} sg'  } ;ªV\ ofnfO { 0, 1, 2, 3 / 4 dfq ko| fu]  u/ ] em “} sg'  } klg ;ªV\ ofnfO { 0 / 1 dfq ko| fu
 u/L 2 sf ]  3ftsf ¿kdf nl]vG5 . :yfgdfg tflnsfdf  Ps, b'O,{ rf/, cf7 , ;f/] , alQ;, ………
 jf 20, 21, 22, 23, 54, …… xG' 5 eg ] To; ;ªV\ ofªs\ g k4ltnfO { låcfwf/ ;ªV\ ofªs\ g k4lt
-(binary numeration system) elgG5 . dflysf ] pbfx/0fnfO { 29 = 11101  nl]vG5 .
-2
+binary numeration system) elgG5 . dflysf ] pbfx/0fnfO { 29 = 11101  nl]vG5 .
 pbfx/0f 1
-| 43 nfO { | låcfwf/ k4ltdf lj:tfl/t ¿kdf nv] |     |     |  .  |     |     |     |
-| -------- | -------------------------------- | --- | --- | --- | --- | --- | --- |
+| 43 nfO { | låcfwf/ k4ltdf lj:tfl/t ¿kdf nv] | | |  .  | | | |
 ;dfwfg
-| 43 nfO { | 2 sf ] 3ftsf ]   | ;dx" df ljefhg ubf,{ |     |     |     |     |     |
-| -------- | ---------------- | -------------------- | --- | --- | --- | --- | --- |
-| 43       | = 32 + 8 + 2 + 1 |                      |     |     |     |     |     |
- = 2 x 2 x 2 x 2 x 2 + 2 x 2 x 2 + 2 +1
-| ∴ 43 |  = 1 x 25 + 0 x 24 +1 x 23+ 0 x 22 +1 x 21+1 x 20 xG' |     |     |     |     | 5 . |     |
-| ---- | ----------------------------------------------------- | --- | --- | --- | --- | --- | --- |
-2
+| 43 nfO { | 2 sf ] 3ftsf ] | ;dx" df ljefhg ubf,{ | | | | | |
+= 2 x 2 x 2 x 2 x 2 + 2 x 2 x 2 + 2 +1
+| ∴ 43 |  = 1 x 25 + 0 x 24 +1 x 23+ 0 x 22 +1 x 21+1 x 20 xG' | | | | | 5 . | |
 xfdf| ]ul0ft, sIff * 97
-
-| 11.6  bzdnj ;ªV\ |     | ofnfO { låcfwf/ k4ltdf ¿kfGt/0f |     |     |     |     |     |     |     |
-| ---------------- | --- | ------------------------------- | --- | --- | --- | --- | --- | --- | --- |
+| 11.6  bzdnj ;ªV\ | | ofnfO { låcfwf/ k4ltdf ¿kfGt/0f | | | | | | | |
 cfwf/ 10 ePsf ] ;ªV\ ofnfO { cfwf/ 2 ePsf ] ;ªV\ ofdf s;/L ¿kfGt/0f ug { ;lsG5 x/]  .
 pbfx/0f 2
 75  nfO { låcfwf/ k4ltdf ¿kfGt/0f u/ .
-10
 ;dfwfg
-| 2   | 75  | zi]f |     |                                     |             |         |                         |       |      |
-| --- | --- | ---- | --- | ----------------------------------- | ----------- | ------- | ----------------------- | ----- | ---- |
-| 2   | 37  | 1    |     |                                     |             |         |                         |       |      |
-|     |     |      |     | – cfwf/ 10 df zi]f 0 bl]v 9 ;Dd xG' |             |         |                         | 5 .   |      |
-| 2   | 18  | 1    |     |                                     |             |         |                         |       |      |
-| 2   | 9   | 0    |     | – cfwf/ 2 df zi]f 0 / 1 dfq xG'     |             |         |                         | 5 .   |      |
-| 2   | 4   | 1    |     |                                     |             |         |                         |       |      |
-|     |     |      |     | – t;y {                             | sg'  } ;ªV\ | ofnfO { | låcfwf/df ¿kfGt/0f ug { |       | 2 n] |
-| 2   | 2   | 0    |     |                                     |             |         |                         |       |      |
-|     |     |      |     | efu ug {]                           | / zi]f nV]  | b }     | hfg ] ugk{'             | 5 { . |      |
-| 2   | 1   | 0    |     |                                     |             |         |                         |       |      |
-0 1
+| 2 | 75  | zi]f | | | | | | | |
+| | | | | – cfwf/ 10 df zi]f 0 bl]v 9 ;Dd xG' | | | | 5 . | |
+| 2 | 9 | 0 | | – cfwf/ 2 df zi]f 0 / 1 dfq xG' | | | | 5 . | |
+| | | | | – t;y { | sg'  } ;ªV\ | ofnfO { | låcfwf/df ¿kfGt/0f ug { | | 2 n] |
+| | | | | efu ug {] | / zi]f nV]  | b } | hfg ] ugk{' | 5 { . | |
 ca zi]fx¿nfO { jm|dzM tnaf6 dflysf ] jm|ddf nV] bf 1001011 xG' 5 .
-| t;y { 75                           | = 1001011 |   xG' | 5 . |          |        |             |     |     |     |
-| ---------------------------------- | --------- | ----- | --- | -------- | ------ | ----------- | --- | --- | --- |
-|                                    | 10        | 2     |     |          |        |             |     |     |     |
-| låcfwf/ k4ltdf :yfgdfg tflnsfnfO { |           |       |     | lgDgfg;' | f/ bv] | fpg ;lsG5 M |     |     |     |
-| 28                                 | 27        | 26    | 25  | 24       | 23     | 22          | 21  | 20  |     |
-|     256…                           | 128       | 64    | 32  | 16       | 8      | 4           | 2   | 1   |     |
+| t;y { 75 | = 1001011 | xG' | 5 . | | | | | | |
+| låcfwf/ k4ltdf :yfgdfg tflnsfnfO { | | | | lgDgfg;' | f/ bv] | fpg ;lsG5 M | | | |
+| 256… | 128 | 64 | 32  | 16 | 8 | 4 | 2 | 1 | |
 k:| tt'  tflnsfsf ] ko| fu] n ] låcfwf/ ;ªV\ ofnfO { lj:tt[  ¿kdf nV] g ;lsG5 / låcfwf/ ;ªV\ ofnfO{
-| bzdnj jf cGo k0|       |     | ffnLdf ¿kfGt/0f ug {  |     | ;lsG5 . |     |     |     |     |     |
-| ---------------------- | --- | --------------------- | --- | ------- | --- | --- | --- | --- | --- |
-| 11.7 låcfwf/ k4ltnfO { |     | bzdnj k4ltdf ¿kfGt/0f |     |         |     |     |     |     |     |
+| bzdnj jf cGo k0| | | ffnLdf ¿kfGt/0f ug {  | | ;lsG5 . | | | | | |
+| 11.7 låcfwf/ k4ltnfO { | | bzdnj k4ltdf ¿kfGt/0f | | | | | | | |
 xfdLnfO { yfxf 5 ls låcfwf/ k4ltdf sg'  } klg ;ªV\ ofnfO { cfwf/ 2 df / 2 sf ] 3ftfªs\ sf
-¿kdf JoSt ul/G5 . ca o;nfO { cfwf/ 10 jf bzdnj k4ltdf s;/L ¿kfGt/0f ug,{] tnsf]
-| pbfx/0f x/] | f “} . |     |     |     |     |     |     |     |     |
-| ----------- | ------ | --- | --- | --- | --- | --- | --- | --- | --- |
+¿kdf JoSt ul/G5 . ca o;nfO { cfwf/ 10 jf bzdnj k4ltdf s;/L ¿kfGt/0f ug,{] tnsf
+| pbfx/0f x/] | f “} . | | | | | | | | |
 pbfx/0f 4
-| tnsf låcfwf/ ;ªV\ |     | ofnfO { bzdnj k4ltdf ¿kfGt/0f u/ M |     |     |     |     |     |     |     |
-| ----------------- | --- | ---------------------------------- | --- | --- | --- | --- | --- | --- | --- |
+| tnsf låcfwf/ ;ªV\ | | ofnfO { bzdnj k4ltdf ¿kfGt/0f u/ M | | | | | | | |
 tl/sf M
-| -s_ 1001011 |     |     | -v_ 1100101 |     |     |     | – cfwf/ 2 sf ]           | 3ftfªs\ | sf] |
-| ----------- | --- | --- | ----------- | --- | --- | --- | ------------------------ | ------- | --- |
-|             | 2   |     |             |     | 2   |     |                          |         |     |
-|             |     |     |             |     |     |     |   ¿kdf lj:tfl/t ¿kdf nV] |         | g]  |
+| -s_ 1001011 | | | -v_ 1100101 | | | | – cfwf/ 2 sf ] | 3ftfªs\ | sf] |
+| | | | | | | | ¿kdf lj:tfl/t ¿kdf nV] | | g]  |
 – ;/n ug]{
-– pQ/ n]Vg]
-| 98  |     |     |     |     |     |     |     | xfdf| ]ul0ft, sIff * |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | -------------------- | --- |
-
+– pQ/ n]Vg
+| 98  | | | | | | | | xfdf| ]ul0ft, sIff * | |
 ;dfwfg
-| -s_ 1001011 |      | ×      | ×             |     | ×        | ×       | ×        | ×   |     |     |     |
-| ----------- | ---- | ------ | ------------- | --- | -------- | ------- | -------- | --- | --- | --- | --- |
-|             | = 1  | 26 +0  |  25 + 024 +1  |     |  23 + 0  |  22 +1  |  21 + 1  |  20 |     |     |     |
-2
-        =  26 + 0+ 0+ 23+ + 0+21 + 1
-        = 64+ 8+ 2+ 1
-        = 75
-10
+| -s_ 1001011 | | × | × | | × | × | × | × | | | |
 ∴ 1001011 =  75
-|              |     | 2           | 10       |         |          |         |          |      |     |     |     |
-| ------------ | --- | ----------- | -------- | ------- | -------- | ------- | -------- | ---- | --- | --- | --- |
-| ct M 1100101 |     | = 1 × 26 +1 | × 25 + 0 | × 24 +0 | × 23 + 1 | × 22 +0 | × 21 + 1 | × 20 |     |     |     |
-2
-=  26 + 25+ 0+0+ 22+ 0+21
-= 64+ 32+ 4+ 1
-= 101
-10
+| ct M 1100101 | | = 1 × 26 +1 | × 25 + 0 | × 24 +0 | × 23 + 1 | × 22 +0 | × 21 + 1 | × 20 | | | |
 ∴ 1100101
-= 101
-|     |     | 2   | 10  |     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-cEof;     11.2
-| 1. tnsf ;ªV\ |     | ofx¿ sg' |  ;ªV\     | of k4ltdf 5g,\ |              |  nv] |  M  |            |     |     |     |
-| ------------ | --- | -------- | --------- | -------------- | ------------ | ---- | --- | ---------- | --- | --- | --- |
-| -s_ 10011    |     |          | -v_ 350   |                | -u_ 1001     |      |     | -3_ 42     |     |     |     |
-|              | 2   |          |           |                |              |      | 2   |            |     |     |     |
-| -ª_ 555      |     |          | -r_ 77532 |                | -5_ 10010011 |      |     | -h_ 257903 |     |     |     |
-2
-| tnsf bzdnj k4ltsf ;ªV\ |     |     |     | ofnfO { | låcfwf/ k4ltdf ¿kfGt/0f u/ M |     |     |     |     |     |     |
-| ---------------------- | --- | --- | --- | ------- | ---------------------------- | --- | --- | --- | --- | --- | --- |
-2.
-| -s_ 4             |     |     | -v_ 9   |                            | -u_ 12   |     |     | -3_ 25  |     | -ª_ 35  |     |
-| ----------------- | --- | --- | ------- | -------------------------- | -------- | --- | --- | ------- | --- | ------- | --- |
-| -r_ 65            |     |     | -5_ 94  |                            | -h_ 135  |     |     | -em_190 |     | -`_ 275 |     |
-| -6_ 220           |     |     | -7_ 512 |                            | -8_  530 |     |     |         |     |         |     |
-| tnsf låcfwf/ ;ªV\ |     |     | ofnfO { | bzdnj k4ltdf ¿kfGt/0f u/ M |          |     |     |         |     |         |     |
-3.
-| -s_ 1100       |     |     | -v_ 10010     |     |     |     | -u_ 11110     |     | -3_ 100001      |     |     |
-| -------------- | --- | --- | ------------- | --- | --- | --- | ------------- | --- | --------------- | --- | --- |
-|                | 2   |     |               | 2   |     |     |               | 2   |                 |     | 2   |
-| -ª_ 111111     |     |     | -r_ 1100011   |     |     |     | -5_  1110011  |     | -h_ 1100110011  |     |     |
-|                | 2   |     |               |     | 2   |     |               | 2   |                 |     | 2   |
-| -em_1010101110 |     |     | -`_ 100001000 |     |     |     | -6_ 101110111 |     | -7_ 11011011001 |     |     |
-|                |     | 2   |               |     | 2   |     |               | 2   |                 |     | 2   |
+cEof; 11.2
+| 1. tnsf ;ªV\ | | ofx¿ sg' |  ;ªV\ | of k4ltdf 5g,\ | |  nv] |  M  | | | | |
+| -s_ 10011 | | | -v_ 350 | | -u_ 1001 | | | -3_ 42 | | | |
+| -ª_ 555 | | | -r_ 77532 | | -5_ 10010011 | | | -h_ 257903 | | | |
+| tnsf bzdnj k4ltsf ;ªV\ | | | | ofnfO { | låcfwf/ k4ltdf ¿kfGt/0f u/ M | | | | | | |
+| -s_ 4 | | | -v_ 9 | | -u_ 12 | | | -3_ 25  | | -ª_ 35  | |
+| -r_ 65 | | | -5_ 94  | | -h_ 135  | | | -em_190 | | -`_ 275 | |
+| -6_ 220 | | | -7_ 512 | | -8_  530 | | | | | | |
+| tnsf låcfwf/ ;ªV\ | | | ofnfO { | bzdnj k4ltdf ¿kfGt/0f u/ M | | | | | | | |
+| -s_ 1100 | | | -v_ 10010 | | | | -u_ 11110 | | -3_ 100001 | | |
+| -ª_ 111111 | | | -r_ 1100011 | | | | -5_  1110011  | | -h_ 1100110011  | | |
+| -em_1010101110 | | | -`_ 100001000 | | | | -6_ 101110111 | | -7_ 11011011001 | | |
 olb sg'  } ;ªV\ ofsf ] bzdnj k4ltdf 723 n ] hgfOG5 eg ] pSt ;ªV\ ofsf ] dfg låcfwf/
-4.
-| k4ltdf slt xfn] |     | f <    |                  |     |     |     |     |     |     |     |     |
-| --------------- | --- | ------ | ---------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5. 100000001    |     |  nfO { | bzdnj k4ltdf nv] |     |  .  |     |     |     |     |     |     |
-2
-| xfdf| ]ul0ft, sIff * |     |     |     |     |     |     |     |     |     |     | 99  |
-| -------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
+| k4ltdf slt xfn] | | f < | | | | | | | | | |
+| 5. 100000001 | |  nfO { | bzdnj k4ltdf nv] | |  .  | | | | | | |
+| xfdf| ]ul0ft, sIff * | | | | | | | | | | | 99  |
 kf7
-12
-|     |     | k0" ffª{ | s\ x¿  |     |
-| --- | --- | -------- | ------ | --- |
-(Integers)
-| 12.1 kg' | /jnfs] g ( Review) |     |     |     |
-| -------- | ------------------ | --- | --- | --- |
- df tnsf pbfx/0fx¿sf ]
-|     | k0Ò f { ;ªV\ ofx¿sf ] | ;dxÒ  W = {0,1,2,3,4,5,……} |           | cWoog u/ .  |
-| --- | --------------------- | -------------------------- | --------- | ----------- |
-|     | 3 + 4 = ?,            |                            | 3 – 3 = ? |   3 – 4 = ? |
+| | | k0" ffª{ | s\ x¿  | |
+Integers
+| 12.1 kg' | /jnfs] g ( Review) | | | |
+df tnsf pbfx/0fx¿sf
+| | k0Ò f { ;ªV\ ofx¿sf ] | ;dxÒ  W = {0,1,2,3,4,5,……} | | cWoog u/ .  |
+| | 3 + 4 = ?, | | 3 – 3 = ? | 3 – 4 = ? |
 dflysf ] t;] f| ] pbfx/0fdf Pp6f ;fgf ] kf|sl[ts ;ªV\ ofaf6 7n' f ] kf|sl[ts ;ªV\ of 36fpb“ f gof“
 of x'g ;Sbg}
 kf|sl[ts ;ªV\ of jf k0Ò f { ;ªV\  -lsg <_ . To;sf/0f k0Ò f { ;ªV\ ofsf ] ;dxÒ n ] dfq
 hgfpg ;lsPg . gof“ ;ªV\ cfjZostf dx;;'
-| ;a } | ;ªV\ ofx¿nfO { |     | ofx¿sf ] |  eof ] / C0ffTds |
-| ---- | -------------- | --- | -------- | ---------------- |
+| ;a } | ;ªV\ ofx¿nfO { | | ofx¿sf ] |  eof ] / C0ffTds |
 kÒ0f{ ;ª\Vof¿sf] cfljisf/ eof] . k|fs[lts ;ª\Vofx¿sf] ;dÒx, zÒGo / C0ffTds kÒ0f{
 ;ªV\ ofx¿sf ] ;dxÒ  ldn/]  ags] f ] ;ªV\ ofx¿sf ] ;dxÒ nfO { k0" ffª{ s\ x¿sf ] ;dxÒ  elgG5 . o;nfO{
-(Z) n ] hgfOG5 . Z = {…………-4, -3 ,-2, -1, 0, 1, 2,, 3, 4, ………} x'G5 . ;fy,} {1, 2, 3, 4,
+Z) n ] hgfOG5 . Z = {…………-4, -3 ,-2, -1, 0, 1, 2,, 3, 4, ………} x'G5 . ;fy,} {1, 2, 3, 4,
 ………} nfO { wgfTds k0Ò f;{ ªV\ ofx¿sf ] ;dxÒ  /  {-1,- 2, -3, -4, ………} nfO { C0ffTds k0Ò f{
 ;ªV\ ofx¿sf ] ;dxÒ  elgG5 . k0Ò f;{ ªV\ ofx¿sf ] ;dxÒ nfO { ;ªV\ of /v] fåf/f lgDgfg;' f/ bv] fpg
 ;lsG5 M
- -8   -7   -6    -5   -4   -3   -2   -1    0    1     2    3     4     5     6   7    8
 k0" f { ;ªV\ ofx¿sf ljm|ofx¿sf lgodx¿ (Laws of Operation of Integers):
-| dflysf ] | ;ªV\ of/v] faf6 sg' |  } tLg ;ªV\ of np] | m, h:t } M -2 , 3 /  4 |     |
-| -------- | ------------------- | ------------------ | ---------------------- | --- |
- -2 + 4 = ?;   4+ (-2) = ?;     4+0  = ?;     0+4=?;      -2+ (4 +3) =?; ( -2+4) +3 =?; -2+2=?
-| dflysf kZ| | gx¿af6 s ] | yfxf xG' 5 < |     |     |
-| ---------- | ---------- | ------------ | --- | --- |
+| dflysf ] | ;ªV\ of/v] faf6 sg' |  } tLg ;ªV\ of np] | m, h:t } M -2 , 3 /  4 | |
+-2 + 4 = ?; 4+ (-2) = ?; 4+0  = ?; 0+4=?; -2+ (4 +3) =?; ( -2+4) +3 =?; -2+2=?
+| dflysf kZ| | gx¿af6 s ] | yfxf xG' 5 < | | |
 dflysf kZ| gx¿sf pQ/x¿af6 lgDglnlvt lgodx¿df ;fdfGoLs/0f ug { ;lsG5 M
-| k0" ffª{ s\           | x¿sf ] hf8] sf lgodx¿ (Laws of addition of Integers) |               |     |     |
-| --------------------- | ---------------------------------------------------- | ------------- | --- | --- |
-| olb  a, b, c, tLgcf6] | f k0"                                                | ffª{ s\ x¿ eP |     |     |
+| k0" ffª{ s\ | x¿sf ] hf8] sf lgodx¿ (Laws of addition of Integers) | | | |
+| olb  a, b, c, tLgcf6] | f k0" | ffª{ s\ x¿ eP | | |
 -s_  aGbL lgod (closure law) : a+b / a+b+c klg k0" ffª{ s\  g } xG' 5g \ .
-| 100 |     |     |     | xfdf| ]ul0ft, sIff * |
-| --- | --- | --- | --- | -------------------- |
-
+| 100 | | | | xfdf| ]ul0ft, sIff * |
 -v_ ljlgod lgod (cummutative law) : a+b= b+a, a+c=c+a, b+c= c+b xG' 5 .
 -u_ ;ª3\ Lo lgod (associative law) : (a+b) +c = a+ (b+c) xG' 5 .
 -3_ PsfTds lgod (identity law) : a+0 =0+a = a xG' 5 .
@@ -4803,275 +2373,184 @@ To:t,} tnsf kZ| gx¿sf ] pQ/ kQf nufpm / sfkLdf nv] M
 dflysf kZ| gx¿af6 s ] yfxf xG' 5, kQf nufpm .
 k0" ffª{ s\ x¿sf ] u0' fgnfO { lgDglnlvt tflnsfaf6 :ki6 kfg { ;lsG5 M
 × -4 -3 -2 -1 0 1 2 3 4
--4 16 12 8 4 0 -4 -8 -12 -16
--3 12 9 6 3 0 -3 -6 -9 -12
--2 8 6 4 2 0 -2 -4 -6 -8
--1 4 3 2 1 0 -1 -2 -3 -4
-0 0 0 0 0 0 0 0 0 0
-1 -4 -3 -2 -1 0 1 2 3 4
-2 -8 --6 --4 -2 0 2 4 6 8
-3 -12 -9 -6 -3 0 3 6 9 12
-4 -16 -12 -8 -4 0 4 8 12 16
 dflysf kZ| gx¿ / tflnsfsf cfwf/df k0" ffª{ s\ x¿sf ] u0' fgsf lgDglnlvt lgodx¿ agfpg ;lsG5 M
 xfdf| ]ul0ft, sIff * 101
-
-k0" ffª{ s\ sf ] u0' fgsf lgodx¿  [Law of Multiplication of Integrs]
-| olb  a, b, c  tLgcf6] |     | f k0" ffª{ s\ | x¿ eP |     |     |     |     |
-| --------------------- | --- | ------------- | ----- | --- | --- | --- | --- |
+k0" ffª{ s\ sf ] u0' fgsf lgodx¿  [Law of Multiplication of Integrs
+| olb  a, b, c  tLgcf6] | | f k0" ffª{ s\ | x¿ eP | | | | |
 -s_ aGbL lgod (closure law) :
-| ×              | × ×                      |             |             |     |     |     |     |
-| -------------- | ------------------------ | ----------- | ----------- | --- | --- | --- | --- |
-| a   b, b       |  c, c                    |  a k0" ffª{ | s\  xG' 5 . |     |     |     |     |
-| -v_ ljlgodsf ] | lgod (commutative law) : |             |             |     |     |     |     |
-| a  ×  b, = b   | ×  a xG'                 | 5 .         |             |     |     |     |     |
+| × | × × | | | | | | |
+| a b, b |  c, c |  a k0" ffª{ | s\  xG' 5 . | | | | |
+| -v_ ljlgodsf ] | lgod (commutative law) : | | | | | | |
+| a  ×  b, = b | ×  a xG' | 5 . | | | | | |
 -u_ ;ª3\ Lo lgod (associative law) :
-| (a × b) × c = a  | ×  (b | × c) xG' 5 . |     |     |     |     |     |
-| ---------------- | ----- | ------------ | --- | --- | --- | --- | --- |
+| (a × b) × c = a  | ×  (b | × c) xG' 5 . | | | | | |
 -3_ kbljR5b] g÷ljt/0ffTds lgod (distributive law) :
-| ×           | ×       | ×  c xG' | 5 .   cyjf a ( b+c) = ab+ac |     |     |     |     |
-| ----------- | ------- | -------- | --------------------------- | --- | --- | --- | --- |
-| a (b+c)= a  |  b + a  |          |                             |     |     |     |     |
+| × | × | ×  c xG' | 5 . cyjf a ( b+c) = ab+ac | | | | |
+| a (b+c)= a  |  b + a  | | | | | | |
 -ª_ PsfO lgod (Identity law) :
-|  a x 1 = 1 x a = a  xG' |             | 5 .           |          |                    |     |         |           |
-| ----------------------- | ----------- | ------------- | -------- | ------------------ | --- | ------- | --------- |
-| + +                     | +           | –             | + –      | +                  | –,  | /   – – | + xG' 5 . |
-|  [   x                  |  =   ,      |  x            |  =   ,   |  x – =             |     |  x      |  =        |
-| To;u} /L sg'            |  } k0" ffª{ | s\ n ] csf {] | k0" ffª{ | s\ nfO { efu ubf,{ |     |         |           |
-| + +                     | +           | +             | – –      | – +                | –   | /  – –  | + xG' 5 . |
-| [  ÷   =                | ,           |  ÷            |  =  ,    |  ÷                 |  =  |  ÷      |  =        |
+|  a x 1 = 1 x a = a  xG' | | 5 . | | | | | |
+| + + | + | – | + – | + | –,  | / – – | + xG' 5 . |
+|  [ x |  = , |  x |  = , |  x – = | |  x |  = |
+| To;u} /L sg' |  } k0" ffª{ | s\ n ] csf {] | k0" ffª{ | s\ nfO { efu ubf,{ | | | |
+| + + | + | + | – – | – + | – | /  – –  | + xG' 5 . |
+| [  ÷ = | , |  ÷ |  =  , |  ÷ |  =  |  ÷ |  = |
 o;/L k0" f { ;ªV\ ofx¿ / ltgLx¿sf ;fwf/0f ljm|ofx¿ Pjd \ ltgLx¿sf ] lgodx¿sf af/d] f xfdLx¿n ] cl3Nnf
 sIffx¿df cWoog ul/;ss] f 5f “} . ca xfdL k0" f { ;ªV\ ofx¿sf ;/nLs/0fsf af/d] f cWoog ub5{ f “} .
-| 12.1 k0" ffª{ s\ | x¿sf ] | ;/nLs/0f ( Simplification of Integers) |     |     |     |     |     |
-| ---------------- | ------ | -------------------------------------- | --- | --- | --- | --- | --- |
-×
+| 12.1 k0" ffª{ s\ | x¿sf ] | ;/nLs/0f ( Simplification of Integers) | | | | | |
 xfdLn ] hf8]  (+), 36fp (–), u0' fg ( ) / efu (÷) ;lDdlnt ;/n ubf { ;jk{ y| d efusf,] To;kl5
-| jm|dzM u0' | fg, hf8] |  / 36fpsf ] | ljm|of ugk{' | 5,{ h:t } | M   |     |     |
-| ---------- | -------- | ----------- | ------------ | --------- | --- | --- | --- |
+| jm|dzM u0' | fg, hf8] |  / 36fpsf ] | ljm|of ugk{' | 5,{ h:t } | M | | |
 pbfx/0f 1
-| ;/n u/ M 25–24 ÷ 8 + 3 |     | × 2 |     |     |     |     |     |
-| ---------------------- | --- | --- | --- | --- | --- | --- | --- |
+| ;/n u/ M 25–24 ÷ 8 + 3 | | × 2 | | | | | |
 ;dfwfg
 × 2
 oxf,“  25 - 24 ÷ 8 + 3
-|     | = 25 – 3 + 3  |     | ×  2(÷) |     |     |     |     |
-| --- | ------------- | --- | ------- | --- | --- | --- | --- |
-|     | = 25 – 3 + 6  |     | (×)     |     |     |     |     |
-|     | = 25 + 6 – 3  |     | (+)     |     |     |     |     |
-|     | = 31 – 3      |     | (–)     |     |     |     |     |
-= 28
+| | = 25 – 3 + 3  | | ×  2(÷) | | | | |
+| | = 25 – 3 + 6  | | (×) | | | | |
+| | = 25 + 6 – 3  | | (+) | | | | |
+| | = 31 – 3 | | (–) | | | | |
 ;fgf ] sfi]7af6 jm|dzM demfn} f sfi]7 / 7n' f ] si7sf ljm|ofx¿ ugk{' g {] xG' 5 . To;kl5 sfi]7leq
 jm|dzM dn] aGb -  _ efu -÷_ ,u0' fg -X_, hf8]  -+_ / 36fp - – _ sf ] sfd ul/G5 .
-| 102 |     |     |     |     |     |     | xfdf| ]ul0ft, sIff * |
-| --- | --- | --- | --- | --- | --- | --- | -------------------- |
-
+| 102 | | | | | | | xfdf| ]ul0ft, sIff * |
 pbfx/0f 2
-;/n u/ M -19 + [27 - {14 + ( 5-2 )×4 ÷ 2}]
-
+;/n u/ M -19 + [27 - {14 + ( 5-2 )×4 ÷ 2}
 ;dfwfg
--19 + [27 - {14 + ( 5-2 )×4 ÷ 2}]
-
-|                           | ×           | [  ( ) sf ] | ljm|of ]    |     |
-| ------------------------- | ----------- | ----------- | ----------- | --- |
-| = -19 + [27 - {14 + 3     |     4 ÷ 2}] |             |             |     |
-| = -19 + [27 - {14 + 3×2}] |             | [  ÷ sf ]   | ljm|of  ]   |     |
-|                           |             |             |             |     |
-|                           |             | [x sf ]     | ljm|of    ] |     |
-= -19 + [27 - {14 + 6}]
-| = -19 + [27 - 20 ] |     | [{} sf ]    | ljm|of] |     |
-| ------------------ | --- | ----------- | ------- | --- |
-| = -19 + 7          |     | ( [ ]  sf ] | ljm|of) |     |
-= -12
+-19 + [27 - {14 + ( 5-2 )×4 ÷ 2}
+| | × | [  ( ) sf ] | ljm|of ] | |
+| = -19 + [27 - {14 + 3 | 4 ÷ 2}] | | | |
+| = -19 + [27 - {14 + 3×2}] | | [  ÷ sf ] | ljm|of  ] | |
+| | | [x sf ] | ljm|of ] | |
+= -19 + [27 - {14 + 6}
+| = -19 + [27 - 20 ] | | [{} sf ] | ljm|of] | |
+| = -19 + 7 | | ( [ ]  sf ] | ljm|of) | |
 cEof; 12.1
 ;/n u/ M
-1.
-| -s_ 17-{19-2(1+3)}          |     | -v_ 20-{8-(15+2)}         |     |     |
-| --------------------------- | --- | ------------------------- | --- | --- |
-| -u_  25- {16÷(17-9)}        |     | -3_  -16 + {8 x(2+4)}     |     |     |
-| -ª_  50÷{18 - (4 x 10 ÷ 2)} |     | -r_ [-20÷{40-6(7-2)}] +16 |     |     |
-| -5_ 5[152 - {7-8(9-2)}]     |     | -h_                       |     |     |
-11 x 11÷[-11÷{12-(13-12)}]
-| -em_  24÷[18-3{5+(6-9)}]+8  |     | -`_  | [-2+{11x (8+4)÷3}]+21      |     |
-| --------------------------- | --- | ---- | -------------------------- | --- |
-| -6_  64÷8-2[3+{7-3(3+4-2)}] |     | -7_  | -64 ÷16+[12x{6÷(16÷10-2)}] |     |
--8_  80÷4[400÷4{7+(19+8-24)}]
+| -s_ 17-{19-2(1+3)} | | -v_ 20-{8-(15+2)} | | |
+| -u_  25- {16÷(17-9)} | | -3_  -16 + {8 x(2+4)} | | |
+| -ª_  50÷{18 - (4 x 10 ÷ 2)} | | -r_ [-20÷{40-6(7-2)}] +16 | | |
+| -5_ 5[152 - {7-8(9-2)}] | | -h_ | | |
+11 x 11÷[-11÷{12-(13-12)}
+| -em_  24÷[18-3{5+(6-9)}]+8  | | -`_  | [-2+{11x (8+4)÷3}]+21 | |
+| -6_  64÷8-2[3+{7-3(3+4-2)}] | | -7_  | -64 ÷16+[12x{6÷(16÷10-2)}] | |
+-8_  80÷4[400÷4{7+(19+8-24)}
 lbOPsf ] tflnsfdf 1 bl]v 9 ;Ddsf cªs\ x¿ gbfx] fl]/g ] u/L e/ 6
-2.
-5 1
 | h;df kT| | os]  kªS\ ltaf6 / /v] | Loaf6 ljs0fx{ | ¿sf ] ofu] kmn 15 xG' | 5 . |
-| -------- | --------------------- | ------------- | --------------------- | --- |
-4
-| 3. 4 sf ] tLg u0' | ffaf6 7 36fP/ 5 hf8] | b\ f slt xG' | 5 < |     |
-| ----------------- | -------------------- | ------------ | --- | --- |
+| 3. 4 sf ] tLg u0' | ffaf6 7 36fP/ 5 hf8] | b\ f slt xG' | 5 < | |
 15 sf ] 4 u0' ffsf ] 6 efusf ] 1 efuaf6 3 36fP/ 5 n ] u0' ff ubf { slt xG' 5 <
-4.
 20 sf ] Ps rfy} fOnfO { 6 n ] u0' ff u//]  5 hf8] L 4 36fpb“ f slt xG' 5 <
-5.
-| 8 sf ] 5 u0' | ffnfO { 4 n ] efu u/L 10 hf8] |     | /]  20 36fpb“ f slt xfn] | f < |
-| ------------ | ----------------------------- | --- | ------------------------ | --- |
-6.
-| 5 / 3 sf ] | ofu] kmnaf6 6 36fO 9 n ] | u0' ff ubf { | slt xG' 5 < |     |
-| ---------- | ------------------------ | ------------ | ----------- | --- |
-7.
+| 8 sf ] 5 u0' | ffnfO { 4 n ] efu u/L 10 hf8] | | /]  20 36fpb“ f slt xfn] | f < |
+| 5 / 3 sf ] | ofu] kmnaf6 6 36fO 9 n ] | u0' ff ubf { | slt xG' 5 < | |
 8. 64 nfO { 13 / 9 sf ] km/sdf 4 hf8] L efu u//]  8 36fpb“ f slt xG' 5 <
 9. 72 df o;s} f ] Ps rfy} fO hf8] L cfPsf ] ofu] kmndf 72 s } 8 efusf ] 1 efu / 1 hf8] b\ f slt xG' 5 <
 10. 36 df kml]/ ToxL ;ªV\ of, To;sf ] cfwf / km]l/ cfwfsf ] cfwf hf8] L 1 hf8] b\ f slt xG' 5 <
 xfdf| ]ul0ft, sIff * 103
-
 kf7
 cfgk' flts ;ªV\ ofx¿
-13
-(Rational Numbers)
+Rational Numbers
 104 xfdf| ]ul0ft, sIff *
-
 xfdf| ]ul0ft, sIff * 105
-
 106 xfdf| ]ul0ft, sIff *
-
 ;dfwfg
 -s_ 6.3 x 103 = 6.3 x 1000 = 6300.0 = 6300
 -v_ 4.579 x 106 = 4.579 x 1000000
-= 4579000.000 = 4579000
-7.4 7.4
-| -u_ 7.4 x 10–5 =  |  0.000074 |     | tl/sf M |     |     |     |
-| ----------------- | ----------- | --- | ------- | --- | --- | --- |
-105
-100000
-|     |     |     | C0ffTds lrxg\ |  ePsf ] 3ftfªs\ | nfO { x/df nh} | fg] |
-| --- | --- | --- | ------------- | --------------- | -------------- | --- |
-3.579
+| -u_ 7.4 x 10–5 =  |  0.000074 | | tl/sf M | | | |
+| | | | C0ffTds lrxg\ |  ePsf ] 3ftfªs\ | nfO { x/df nh} | fg] |
 -3_ 3.579 x 10–4 =
-|     | 104 |     | 10 sf ] 3ftfªs\ | nfO { lj:tfl/t ¿kdf nV]  | g]  |     |
-| --- | --- | --- | --------------- | ------------------------ | --- | --- |
-|     |     |     | To;kl5 ;ªV\     | ofsf ] cufl8 x/df ePsf ] | zG" | o   |
-0.3579 0.03579
+| | 104 | | 10 sf ] 3ftfªs\ | nfO { lj:tfl/t ¿kdf nV]  | g]  | |
+| | | | To;kl5 ;ªV\ | ofsf ] cufl8 x/df ePsf ] | zG" | o |
  
-|     | 1000 100 |     | a/fa/sf ] | zG" o ykL bzdnj lrxg\ | nfO { cufl8 |     |
-| --- | -------- | --- | --------- | --------------------- | ----------- | --- |
-a9fpg]
-0.003579
+| | 1000 100 | | a/fa/sf ] | zG" o ykL bzdnj lrxg\ | nfO { cufl8 | |
+a9fpg
  0.0003579
-10
 cccccEEEEEooooofffff;;;;; 13.1
-| 1. tnsf bzdnj ;ªV\ | ofx¿nfO {    | j1} flgs ;ªs\ | t] df nv]    |  M  |             |     |
-| ------------------ | ------------ | ------------- | ------------ | --- | ----------- | --- |
-| -s_ 45             | -v_ 3400     |               | -u_ 0.000023 |     | -3_ 101000  |     |
-| -ª_ 0.010          | -r_ 45.01    |               | -5_ 7000000  |     | -h_ 0.00671 |     |
-| -em_ 625.6         | -`_ 0.07882  |               | -6_ 118000   |     | -7_ 87200   |     |
-| -8_ 0.00000272     | -9_ 0.000037 |               | -0f_ 74171.7 |     | -t_ 3456.78 |     |
+| 1. tnsf bzdnj ;ªV\ | ofx¿nfO { | j1} flgs ;ªs\ | t] df nv] |  M  | | |
+| -s_ 45 | -v_ 3400 | | -u_ 0.000023 | | -3_ 101000  | |
+| -ª_ 0.010 | -r_ 45.01 | | -5_ 7000000  | | -h_ 0.00671 | |
+| -em_ 625.6 | -`_ 0.07882  | | -6_ 118000 | | -7_ 87200 | |
+| -8_ 0.00000272 | -9_ 0.000037 | | -0f_ 74171.7 | | -t_ 3456.78 | |
 2. tnsf j1} flgs ;ªs\ t] x¿nfO { bzdnj ;ªV\ ofdf ¿kfGt/0f u/ M
--s_ 2.30 x 104 -v_ 5.40 x 101 -u_ 1.76 x 100      -3_ 1.76 x 10–3
--ª_ 7.4 x 10–5 -r_ 1.901 x 10–7 -5_ 1.525 x 106      -h_ 6.58157 x 107
--em_ 5.256 x 108 -`_ 5.23 x 10–7 -6_ 8.71 x 10–8      -7_ 7.75763 x 10–9
+-s_ 2.30 x 104 -v_ 5.40 x 101 -u_ 1.76 x 100 -3_ 1.76 x 10–3
+-ª_ 7.4 x 10–5 -r_ 1.901 x 10–7 -5_ 1.525 x 106 -h_ 6.58157 x 107
+-em_ 5.256 x 108 -`_ 5.23 x 10–7 -6_ 8.71 x 10–8 -7_ 7.75763 x 10–9
 3. Pp6f ;fdfg;lxtsf ] 6«ssf ] tfn}  12,000 kg 5 eg ] pSt tfn} nfO { j1} flgs ;ªs\ t]  nv]  .
 4. cfug{ sf ] k/df0fs' f ] cwJ{ of; 0.000,000,000,098 ld6/ eP o;sf ] j1} flgs ;ªs\ t]  nv]  .
 5. 3 x 108m/s n ] ks| fzsf ] xfjfdf ult hgfp5“  eg ] To;sf ] bzdnj dfg slt xG' 5 <
 6. 30 lbg ePsf ] dlxgfdf 6480000 ;s] G] 8 xG' 5 eg ] o;sf ] j1} flgs ;ªs\ t]  slt xG' 5 <
-| xfdf| ]ul0ft, sIff * |     |     |     |     |     | 107 |
-| -------------------- | --- | --- | --- | --- | --- | --- |
-
-| 13.2 | j1} flgs ;ªs\ | t] df nl] vPsf ;ªV\ |     | ofx¿sf ] ;/nLs/0f |     |     |
-| ---- | ------------- | ------------------- | --- | ----------------- | --- | --- |
-(Simplification of Numbers with Scientific Notations)
- j1}
-(I) flgs ;ªs\ t]  ePsf ;ªV\ ofx?sf ] hf8]  / 36fp (Addition and Subtraction)
-| tnsf pbfx/0f x/] |     |  M  |     |     |     |     |
-| ---------------- | --- | --- | --- | --- | --- | --- |
+| xfdf| ]ul0ft, sIff * | | | | | | 107 |
+| 13.2 | j1} flgs ;ªs\ | t] df nl] vPsf ;ªV\ | | ofx¿sf ] ;/nLs/0f | | |
+Simplification of Numbers with Scientific Notations
+j1}
+I) flgs ;ªs\ t]  ePsf ;ªV\ ofx?sf ] hf8]  / 36fp (Addition and Subtraction
+| tnsf pbfx/0f x/] | |  M  | | | | |
 pbfx/0f 4
 ;/n u/ M
-| -s_ 3.4 x 102 + 4.57 x 103 |     | -v_ 4.54 x 10–3 – 2.4 x 10–3 |     |     |     |     |
-| -------------------------- | --- | ---------------------------- | --- | --- | --- | --- |
+| -s_ 3.4 x 102 + 4.57 x 103 | | -v_ 4.54 x 10–3 – 2.4 x 10–3 | | | | |
 ;dfwfg
 -s_ 3.4 x 102 + 4.57 x 103
-oxf “ bj'  } kbdf 10 sf ] 3ftfªs\  a/fa/ 5g}  . t;y { logLx¿nfO { hf8] g\  ldNbg}  / bj'  } kbdf 10 sf]
-| 3ftfªs\  a/fa/ agfpgk' |     | g {] xG' 5 . |     |     |     |     |
-| ---------------------- | --- | ------------ | --- | --- | --- | --- |
+oxf “ bj'  } kbdf 10 sf ] 3ftfªs\  a/fa/ 5g}  . t;y { logLx¿nfO { hf8] g\  ldNbg}  / bj'  } kbdf 10 sf
+| 3ftfªs\  a/fa/ agfpgk' | | g {] xG' 5 . | | | | |
 olb bj'  } kbsf ] 3ftfªs\  a/fa/ 5g}  eg ] ;ªV\ ofsf j1} flgs ;ªs\ t] x¿ hf8] g\  / 36fpg ldNbg}  .
-| oxf,“  3.4 x 102 = 0.34 x 103 xG' |     | 5 . |     |                     |                   |       |
-| --------------------------------- | --- | --- | --- | ------------------- | ----------------- | ----- |
-|                                   |     |     | j1} | flgs ;ªV\ ofx¿ hf8] | b\ f÷36fpb“ f u0' | ffªs\ |
-ca,    3.4 x 102 = 4.57 x 103
-|     |     |     | hfl]8G5÷36fOG5 / 10 sf ] |     | 3ftfªs\ |  h:tfsf] |
-| --- | --- | --- | ------------------------ | --- | ------- | -------- |
+| oxf,“  3.4 x 102 = 0.34 x 103 xG' | | 5 . | | | | |
+| | | | j1} | flgs ;ªV\ ofx¿ hf8] | b\ f÷36fpb“ f u0' | ffªs\ |
+ca, 3.4 x 102 = 4.57 x 103
+| | | | hfl]8G5÷36fOG5 / 10 sf ] | | 3ftfªs\ |  h:tfsf] |
 = 0.34 x 103 + 4.57 x 103
-|     |     |     | t:t } | /flvG5 . |     |     |
-| --- | --- | --- | ----- | -------- | --- | --- |
+| | | | t:t } | /flvG5 . | | |
 = (0.34 + 4.57) x 103
 = 4.91 x 103
 -v_ 4.54 x 10–3 – 2.4 x 10–3
-| = (4.54 – 2.4) x 10–3 |     | [ bj' | d} f ;dfg 3ftfªs\ |  –3 ePsfn] ] |     |     |
-| --------------------- | --- | ----- | ----------------- | ------------ | --- | --- |
+| = (4.54 – 2.4) x 10–3 | | [ bj' | d} f ;dfg 3ftfªs\ |  –3 ePsfn] ] | | |
 = 2.14 x 10-3
-| (II) j1} flgs ;ªs\ | t] df nl] | vPsf ;ªV\ | ofx¿sf ] | u0' fg / efu |     |     |
-| ------------------ | --------- | --------- | -------- | ------------ | --- | --- |
-(Multiplication and Division of Numbers  with  Scientific Notations)
-| tnsf pbfx/0f x/] |     | f “} M |     |     |     |     |
-| ---------------- | --- | ------ | --- | --- | --- | --- |
+| (II) j1} flgs ;ªs\ | t] df nl] | vPsf ;ªV\ | ofx¿sf ] | u0' fg / efu | | |
+Multiplication and Division of Numbers  with  Scientific Notations
+| tnsf pbfx/0f x/] | | f “} M | | | | |
 pbfx/0f 5
 ;/n u/ M
 9.60107
 -v_
--s_ (2.00 x 103) x (4.12 x 104)
+-s_ (2.00 x 103) x (4.12 x 104
 1.60104
-| 108 |     |     |     |     | xfdf| ]ul0ft, sIff * |     |
-| --- | --- | --- | --- | --- | -------------------- | --- |
-
+| 108 | | | | | xfdf| ]ul0ft, sIff * | |
 ;dfwfg
 -s_ (2.00 x 103) x (4.12 x 104) -bO'  { j1} flgs ;ªs\ t] df nl]vPsf ;ªV\ ofnfO { u0' fg ubf{
 = 2.00 x 4.12 x 103+4 u0' ffªs\ x¿sf ] u0' fg ul/G5 / 3ftfªs\  hfl]8G5 ._
 = 8.24 x 107
 9.60107
--v_  -sg'  } j1} flgs ;ªs\ t] df nl]vPsf ] ;ªV\ ofnfO { csf{]
+-v_  -sg'  } j1} flgs ;ªs\ t] df nl]vPsf ] ;ªV\ ofnfO { csf{
 1.60104
-|     |     |     | j1} flgs ;ªs\ | t] df nl]vPsf ] | ;ªV\ ofn ] efu ubf{ |
-| --- | --- | --- | ------------- | --------------- | ------------------- |
-9.60
-|     | 1074 |     | u0' ffªs\ n ] | efu ul/G5 / 3ftfªs\ |  36fOG5 ._ |
-| --- | ------ | --- | ------------- | ------------------- | ---------- |
-=
-1.60
+| | | | j1} flgs ;ªs\ | t] df nl]vPsf ] | ;ªV\ ofn ] efu ubf{ |
+| | 1074 | | u0' ffªs\ n ] | efu ul/G5 / 3ftfªs\ |  36fOG5 ._ |
 = 6.0 x 103
-cEof;     13.2
-| 1. ;/n u/ / j1}                |     | flgs ;ªs\ | t] df nv]  M                 |     |     |
-| ------------------------------ | --- | --------- | ---------------------------- | --- | --- |
-| -s_ (1.2 x 105) + (5.35 x 106) |     |           | -v_ 6.91 x 10–2 + 2.4 x 10–3 |     |     |
-| -u_ 9.70 x 106 + 8.3 x 105     |     |           | -3_ 3.67 x 102 – 1.6 x 101   |     |     |
-| -ª_ 8.41 x 10–5 – 7.00 x 10–6  |     |           | -r_ 1.33 x 105 – 4.9 x 104   |     |     |
-| ;/n u/ / j1}                   |     | flgs ;ªs\ | t] df nv]  M                 |     |     |
-2.
-| -s_ (4.3 x 108) x (2.0 x 106) |     |     | -v_ (6.0 x 103) x (1.5 x 10–2) |     |     |
-| ----------------------------- | --- | --- | ------------------------------ | --- | --- |
--u_ (1.5 x 10 –2) x (8.0 x 10–1) -3_ (5.23 x 1011) x (3.0 x 10–10)
-|      | 1.20108 |     | 7.81012 |      | 8.4104     |
-| ---- | --------- | --- | --------- | ---- | ----------- |
-| -ª_  |           |     | -r_       | -5_  |             |
-|      | 3.0103  |     | 1.31013 |      | 1.2103    |
-|      | 5.61018 |     | 8.1109   |      | 3.251010  |
-| -h_  |           |     | -em_      | -`_  |             |
-|      | 1.4108  |     | 9.0108   |      | 1.6251015 |
+cEof; 13.2
+| 1. ;/n u/ / j1} | | flgs ;ªs\ | t] df nv]  M | | |
+| -s_ (1.2 x 105) + (5.35 x 106) | | | -v_ 6.91 x 10–2 + 2.4 x 10–3 | | |
+| -u_ 9.70 x 106 + 8.3 x 105 | | | -3_ 3.67 x 102 – 1.6 x 101 | | |
+| -ª_ 8.41 x 10–5 – 7.00 x 10–6  | | | -r_ 1.33 x 105 – 4.9 x 104 | | |
+| ;/n u/ / j1} | | flgs ;ªs\ | t] df nv]  M | | |
+| -s_ (4.3 x 108) x (2.0 x 106) | | | -v_ (6.0 x 103) x (1.5 x 10–2) | | |
+-u_ (1.5 x 10 –2) x (8.0 x 10–1) -3_ (5.23 x 1011) x (3.0 x 10–10
+| | 1.20108 | | 7.81012 | | 8.4104 |
+| -ª_  | | | -r_ | -5_  | |
+| | 3.0103  | | 1.31013 | | 1.2103 |
+| | 5.61018 | | 8.1109 | | 3.251010  |
+| -h_  | | | -em_ | -`_  | |
+| | 1.4108  | | 9.0108 | | 1.6251015 |
 3. ;/n u/ M
-|      | (1.1103)2.3103    |          |      | 9.81084.9108      |     |
-| ---- | -------------------- | -------- | ---- | -------------------- | --- |
-| -s_  |                      |          | -v_  |                      |     |
-|      | 1.7106             |          |      | 7.0107              |     |
-|      | (2.1106)(4.0103) |          |      | 6.48105             |     |
-| -u_  |                      |          | -3_  |                      |     |
-|      |                      | 4.2104 |      | (2.4104)(1.8102) |     |
+| | (1.1103)2.3103 | | | 9.81084.9108 | |
+| -s_  | | | -v_  | | |
+| | 1.7106 | | | 7.0107 | |
+| | (2.1106)(4.0103) | | | 6.48105 | |
+| -u_  | | | -3_  | | |
+| | | 4.2104 | | (2.4104)(1.8102) | |
 Pp6f 6o\ fªs\ Ldf 3.2 x 104 ln6/ kfgL 5 / bf;] f| ] 6o\ fªs\ Ldf 1.3 x 103 ln6/ kfgL 5 eg ] bj' }
-4.
-| 6o\ | fªs\ Ldf u/L hDdf slt kfgL xfn] |     | f < |     |     |
-| --- | ------------------------------- | --- | --- | --- | --- |
+| 6o\ | fªs\ Ldf u/L hDdf slt kfgL xfn] | | f < | | |
 2.7 x 109 km kf/ ugk'{ g {] Pp6f /s6] n ] 1.35 x 109 b/' L kf/ ul/;Sof ] eg ] ca slt b/' L kf/
-5.
-| ug { | afs“ L /xo\ | f ] < |     |     |     |
-| ---- | ----------- | ----- | --- | --- | --- |
+| ug { | afs“ L /xo\ | f ] < | | | |
 6. 9.6 x 106 ln6/ k6] f«n] nfO { 1.6 x 103 ln6/sf slt cf6] f a/fa/ 6o\ fªs\ Ldf /fVg ;lsPnf <
 xfdf| ]ul0ft, sIff * 109
-
 kf7
 jf:tljs ;ªV\ ofx¿
-14
-(Real Numbers)
-14.0. kg' /jnfs] g (Review)
+Real Numbers
+14.0. kg' /jnfs] g (Review
 ;ªV\ ofx¿sf ] ljsf; jm|dsf ] nfdf ] ;do;Dd sg' } bO' { ;ªV\ ofx¿larsf rf/ ljm|ofx¿ ubf { cfgk' flts
 ;ªV\ ofx¿ g } kofK{ t lyP . h:t } M sg' } bO' { ;ªV\ ofx¿ hf8] b\ f, 36fpb“ f, u0' fg ubf { jf efu ubf{
 cfgk' flts ;ªV\ of g } xG' 5 . To; } jm|ddf 2 sf ] jud{ n" kQf nufpg, x2 -2 = 0 df x sf ] dfg kQf
@@ -5083,378 +2562,250 @@ nfO { ;ªV\ of /v] fdf lgDgfg;' f/ k:| tt' ug { ;lsG5 M
 O nfO { pbu\ d laGb ' dfgL P(1,1) laGb ' lnpm / OP hf8] . To;kl5 OP sf ] b/' L lgbz{] fªs\
 HofldtLåf/f kQf nufpm .
 oxf,“ OP (01)2(01)2  11 2 xG' 5 .
-OP a/fa/sf ] cwJ{ of; lnO { O nfO { sG] b | dfg/] Pp6f cwj{ Q[ lvr . To; cwj{ Q[ sf ] kl/lwn]
+OP a/fa/sf ] cwJ{ of; lnO { O nfO { sG] b | dfg/] Pp6f cwj{ Q[ lvr . To; cwj{ Q[ sf ] kl/lwn
 ;ªV\ of /v] fnfO { sf6s] f ] 7fpd“ f k5 { -s;/L <_ . o;/L Pp6f cgfgk' flts ;ªV\ ofnfO { klg ;ªV\ of
 /v] fdf k:| tt' ug { ;lsG5 .
-14.1. jf:tljs ;ªV\ ofx¿sf ] kl/ro (Introduction to Real Numbers)
+14.1. jf:tljs ;ªV\ ofx¿sf ] kl/ro (Introduction to Real Numbers
 cfgk' flts ;ªV\ ofx¿sf ] ;dx" ( Q ) / cgfgk' flts ;ªV\ ofx¿sf ] ;dx" (Ir) sf ] ;o+ fh] g ;dx" nfO{
 jf:tljs ;ªV\ ofsf ] ;dx" elgG5 . o;nfO { R n ] hgfOG5 / R = Q ∪ Ir xG' 5 .
 cyft{ , sg' } klg ;ªV\ ofnfO { ;ªV\ of /v] fdf k:| tt' ug { ;lsG5 eg ] ;f ] ;ªV\ ofnfO { jf:tljs ;ªV\ of
 elgG5 .
 110 xfdf| ]ul0ft, sIff *
-
 jf:tljs ;ªV\ ofx¿sf ] ;dx" nfO { eg] lrqdf lgDgfg;' f/ bv] fpg ;lsG5 M
-R
-Q
-Z
-W
-N
 Ir oxf,“ NWZQR,IrRxG' 5 .
 jf:tljs ;ªV\ ofx¿nfO { lgDgfg;' f/ kj| fx tflnsf (flow chart) af6 bv] fpg ;lsG5 M
-|     |                 | jf:tljs ;ªV\ | of (R) |
-| --- | --------------- | ------------ | ------ |
-|     | cfgk' flts ;ªV\ | ofx¿ (Q)     |        |
-cgfgk' flts ;ªV\ ofx¿ (Ir)
-| k0"             | ffª{ s\ x¿ (Z) |             | leGg ;ªV\ ofx¿ (F) |
-| --------------- | -------------- | ----------- | ------------------ |
-| k0" f { ;ªV\    | ofx¿ (W)       | C0ffTds k0" | ffª{ s\ x¿ (Z)     |
-|                 |                |             | zG" o (O)          |
-| kf|sl[ts ;ªV\   | ofx¿ (N)       |             |                    |
-| hf/]  ;ªV\ ofx¿ |                |             | lahf/]  ;ªV\ ofx¿  |
-14.1.2. bzdnj / cgfgk' flts ;ªV\ ofx¿ (Decimal and Irrational Numbers)
-| tnsf ;ªV\ ofx¿nfO { | x/]  M       |     |               |
-| ------------------- | ------------ | --- | ------------- |
-| 23                  | 20           |     |               |
-| 4.75;              | 3.3333....; |     | = 3.14285.... |
-| 4                   | 6            |     |               |
+| | | jf:tljs ;ªV\ | of (R) |
+| | cfgk' flts ;ªV\ | ofx¿ (Q) | |
+cgfgk' flts ;ªV\ ofx¿ (Ir
+| k0" | ffª{ s\ x¿ (Z) | | leGg ;ªV\ ofx¿ (F) |
+| k0" f { ;ªV\ | ofx¿ (W) | C0ffTds k0" | ffª{ s\ x¿ (Z) |
+| | | | zG" o (O) |
+| kf|sl[ts ;ªV\ | ofx¿ (N) | | |
+| hf/]  ;ªV\ ofx¿ | | | lahf/]  ;ªV\ ofx¿  |
+14.1.2. bzdnj / cgfgk' flts ;ªV\ ofx¿ (Decimal and Irrational Numbers
+| tnsf ;ªV\ ofx¿nfO { | x/]  M | | |
+| 4.75; | 3.3333....; | | = 3.14285.... |
 lbOPsf bzdnj ;ªV\ ofx¿df sg'  sg'  cGTo xg' ,] sg'  bfx] fl]/g ] jf kg' /fjl[Q xg'  ] / sg'  cGTo
 | gxg'  ] / kg' /fjl[Q gxg' |  ] bzdnj ;ªV\ | of xg' | ,\ 56' o\ fpm . |
-| ------------------------- | ------------- | ------ | --------------- |
 xfdf| ]ul0ft, sIff * 111
-
 112 xfdf| ]ul0ft, sIff *
-
 xfdf| ]ul0ft, sIff * 113
-
 114 xfdf| ]ul0ft, sIff *
-
 xfdf| ]ul0ft, sIff * 115
-
 ;dfwfg
-oxf,“ -s_   -oxf “ x/df    5 /    nfO { x6fpg x/ / cz+  bj' d} f   n ] u0' ff ug_{]
-|     |     |     |     |     |     | 2   |     |     |     | 2   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     | 32 | 6   |     |     |     |     |     |     |     |
-
-   =
-|     |     | 22 | 2   |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-12
+oxf,“ -s_ -oxf “ x/df 5 / nfO { x6fpg x/ / cz+  bj' d} f n ] u0' ff ug_{
+| | | 32 | 6 | | | | | | | |
+| | | 22 | 2 | | | | | | | |
 -v_
-5
-|     |     | 223 | 2 3 | 5        |      |       |                   |     |     |     |
-| --- | --- | ----- | --- | -------- | ---- | ----- | ----------------- | --- | --- | --- |
-|     |    |      |    |  -x/ cz+ |  bj' | d} f  |  n ] u0' fg ubf_{ |     |     |     |
-5
-|     |     | 5     | 5   | 5    |     |     |     |     |     |     |
-| --- | --- | ----- | --- | ---- | --- | --- | --- | --- | --- | --- |
-|     | 2   | 35 2 | 15  | 2 15 |     |     |     |     |     |     |
-|     |    |      |    |      |     |     |     |     |     |     |
-|     |     | 55   | 52  | 5    |     |     |     |     |     |     |
+| | | 223 | 2 3 | 5 | | | | | | |
+| |  |  |  |  -x/ cz+ |  bj' | d} f  |  n ] u0' fg ubf_{ | | | |
+| | 2 | 35 2 | 15  | 2 15 | | | | | | |
+| |  |  |  | | | | | | | |
+| | | 55 | 52  | 5 | | | | | | |
 52
-|     | 5   | 2   |     | 10       |     |            |          |         |     |     |
-| --- | --- | --- | --- | -------- | --- | ---------- | -------- | ------- | --- | --- |
-| -u_ |     |   |    |  -x/ cz+ |     |  bj' d} f  |  n ] u0' | fg u/s] | f_] |     |
-|     |     | 22 |     | 2        |     |            | 2        |         |     |     |
-2 2
-|            | 3      | 3 3          | 3   | 3 3       | 3        |     |         |     |     |     |
-| ---------- | ------ | ------------ | --- | --------- | -------- | --- | ------- | --- | --- | --- |
-| -3_        |        |            |    |          |         | 3   |         |     |     |     |
-|            | 3      | 3 3          | 33 | 3         |          |     |         |     |     |     |
-|            |        | 2 2          | 31 |           | 2( 31)  |     | 2 31 | 2   | 6  | 2   |
-| -ª_        |        |             |    |          |          |    |         |    |     |     |
-|            |        |              |     |           | 3)2(1)2 |     | 31     |     | 2   |     |
-|            | 31    | 31          | 31 | (         |          |     |         |     |     |     |
-| 14.2.2 dn" |  lrxg\ |  -  _ ;dfjz] |     |  ePsf ;/n |          |     |         |     |     |     |
+| -u_ | |   |  |  -x/ cz+ | |  bj' d} f  |  n ] u0' | fg u/s] | f_] | |
+| | | 22 | | 2 | | | 2 | | | |
+| -3_ | |   |  |  |  | 3 | | | | |
+| | 3 | 3 3 | 33 | 3 | | | | | | |
+| | | 2 2 | 31 | | 2( 31)  | | 2 31 | 2 | 6  | 2 |
+| -ª_ | |  |  |  | |  | |  | | |
+| | | | | | 3)2(1)2 | | 31 | | 2 | |
+| | 31 | 31 | 31 | ( | | | | | | |
+| 14.2.2 dn" |  lrxg\ |  -  _ ;dfjz] | |  ePsf ;/n | | | | | | |
 Pp6 } ;ªV\ ofdf dn"  lrxg\  ePsf cleJo~hsx¿nfO { aLhLo cleJo~hsx¿ h:t } hf8]  / 36fp
-| ug { | ;lsG5, h:t } | M   |     |     |     |     |     |     |     |     |
-| ---- | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ug { | ;lsG5, h:t } | M | | | | | | | | |
 pbfx/0f 3
 ;/n u/ M
-| -s_ 3 | 5  | 5   | -v_  | 7 25 | 2   | -u_ 9 | 33 | 26 | 35 | 8   |
-| ----- | --- | --- | ---- | ----- | --- | ----- | --- | --- | --- | --- |
+| -s_ 3 | 5  | 5 | -v_  | 7 25 | 2 | -u_ 9 | 33 | 26 | 35 | 8 |
 ;dfwfg
-| oxf,“ -s_ 3 |     | 5  |     |     | -v_  |       |     |     |     |     |
-| ----------- | --- | --- | --- | --- | ---- | ----- | --- | --- | --- | --- |
-|             |     | 5   |     |     |      | 7 25 | 2   |     |     |     |
-     = (7-5)
-|     | = (3+1) | 5   |     |     |           |     | 2   |     |     |                      |
-| --- | ------- | --- | --- | --- | --------- | --- | --- | --- | --- | -------------------- |
-|     | = 4     | 5   |     |     |       = 2 |     | 2   |     |     |                      |
-| 116 |         |     |     |     |           |     |     |     |     | xfdf| ]ul0ft, sIff * |
-
-| -u_ 9 | 33 26         | 35   | 8     |     |     |     |     |     |
-| ----- | --------------- | ----- | ----- | --- | --- | --- | --- | --- |
-|       | 9 33 26      | 35   | 222 |     |     |     |     |     |
-|       | 9 33 26      | 352 | 2     |     |     |     |     |     |
-|       | 9 33 26      | 310  | 2     |     |     |     |     |     |
-|       | (96) 3(310) |       | 2     |     |     |     |     |     |
-
-|     | 3 313 | 2   |     |     |     |     |     |     |
-| --- | ------- | --- | --- | --- | --- | --- | --- | --- |
+| oxf,“ -s_ 3 | | 5  | | | -v_  | | | | | |
+| | | 5 | | | | 7 25 | 2 | | | |
+| 116 | | | | | | | | | | xfdf| ]ul0ft, sIff * |
+| -u_ 9 | 33 26 | 35 | 8 | | | | | |
+| | 9 33 26 | 35 | 222 | | | | | |
+| | 9 33 26 | 352 | 2 | | | | | |
+| | 9 33 26 | 310  | 2 | | | | | |
+| | (96) 3(310) | | 2 | | | | | |
+| | 3 313 | 2 | | | | | | |
 pbfx/0f 6
 u0' fg u/ M
-|         |       |     |     |                   |        |      |      |    |
-| ------- | ----- | --- | --- | ----------------- | ------ | ---- | ----- | --- |
-| -s_     |       |     |     |                   | -v_ 3  |      |       |     |
-| 2       | 33 2 |     |     |                   |        | 5   | 2 25 | 5   |
-| ;dfwfg  |       |     |     |                   | ;dfwfg |      |       |     |
-|  oxf,“  |       |     |     |             oxf,“ |        |     |       |    |
-|         |       |     |     |                   | 3      | 5 2 | 25   | 5   |
+| | | | | | | |  |  |
+| -s_ | | | | | -v_ 3  | | | |
+| 2 | 33 2 | | | | | 5 | 2 25 | 5 |
+| ;dfwfg  | | | | | ;dfwfg | | | |
+|  oxf,“  | | | | oxf,“ | |  | |  |
+| | | | | | 3 | 5 2 | 25 | 5 |
 2 33 2
-|     | 23 | 3  | 26 32 |     | 3  | 52 | 23 | 55 5 |
-| --- | ----- | --- | -------- | --- | --- | --- | --- | ----- |
-52
-|     | 6 6 |     |     |     | 6  | 1015 |     |     |
-| --- | ---- | --- | --- | --- | --- | ----- | --- | --- |
+| | 23 | 3  | 26 32 | | 3  | 52 | 23 | 55 5 |
+| | 6 6 | | | | 6  | 1015 | | |
 6 10155
-|     |     |     |     |     | 756 |     | 10  |     |
-| --- | --- | --- | --- | --- | ----- | --- | --- | --- |
+| | | | | | 756 | | 10  | |
 dn"  lrxg\  ;lDdlnt u0' fg ubf { dn"  lrxg\ aflx/sf ] cªs\ ;u“  dn"  lrxg\ aflx/sf ] ;ªV\ of / dn"
-| lrxg\ | leqsf ] ;ªV\ | of;u“  dn" |  lrxg\ | leqsf ] ;ªV\ of u0' ff ul/G5 . |     |     |     |     |
-| ----- | ------------ | ---------- | ------ | ------------------------------ | --- | --- | --- | --- |
+| lrxg\ | leqsf ] ;ªV\ | of;u“  dn" |  lrxg\ | leqsf ] ;ªV\ of u0' ff ul/G5 . | | | | |
 pbfx/0f 5
-| ;/n u/M     -s_  |     | 125 | 80  |                -v_ 2 | 283 | 4910 | 7   |     |
-| ---------------- | --- | ---- | --- | -------------------- | ---- | ----- | --- | --- |
+| ;/n u/M -s_  | | 125 | 80  | -v_ 2 | 283 | 4910 | 7 | |
 ;dfwfg
-| -s_  |          |         |           | -v_ 2 |            |          |        |     |
-| ---- | -------- | ------- | --------- | ----- | ---------- | -------- | ------ | --- |
-|      | 125     | 80      |           |       | 283       | 4910    |        | 7   |
-|      |  555 |         | 22225 |       | 2 2273 |          | 7710 | 7   |
-|      |  525  | 22225 |           |       | 22       | 73710 |        | 7   |
-|      | 5 54   |         |           |       | 4         | 72110  | 7      |     |
-5
-|     | 9 5 |     |     |     | 14 | 721 |     |     |
-| --- | ---- | --- | --- | --- | --- | ---- | --- | --- |
-7(2 73)
+| -s_  | | | | -v_ 2 | | | | |
+| | 125 | 80 | | | 283 | 4910 | | 7 |
+| |  555 | | 22225 | | 2 2273 | | 7710 | 7 |
+| |  525  | 22225 | | | 22 | 73710 | | 7 |
+| | 5 54 | | | | 4 | 72110  | 7 | |
+| | 9 5 | | | | 14 | 721 | | |
+7(2 73
 xfdf| ]ul0ft, sIff * 117
-
 cEof; 14.2
-| 1.  | tnsf ;ªV\ | ofx¿sf ] | x/sf ] | cfgk' | ftLs/0f u/ M |     |       |     |      |     |     |
-| --- | --------- | -------- | ------ | ----- | ------------ | --- | ----- | --- | ---- | --- | --- |
-|     | 3         |          | 4      |       | 7            |     |       | 9   |      | 22  |     |
-|     | -s_       | -v_      |        | -u_   |              |     | -3_   |     | -ª_  |     |     |
-|     |           | 2        | 5      |       | 8            |     |       | 3   |      | 11  |     |
-|     | 10        |          | 11     |       | 5           |     |       | 3   |      |     |     |
-|     |           |          |        |       |              | 3   |       |     |      | 3   |     |
-|     | -r_       | -5_      |        | -h_   |              |     | -em_  |     | -`_  |     |     |
-|     |           | 48       | 44     |       | 5            |     | 1    | 2   |      | 32 |     |
-|     |           | 3        |        | 6 2   |              |     |       |     |      |     |     |
-|     | -6_       |          | -7_    |       |              |     |       |     |      |     |     |
-|     | 4        | 7        |        | 24    |              |     |       |     |      |     |     |
+| 1.  | tnsf ;ªV\ | ofx¿sf ] | x/sf ] | cfgk' | ftLs/0f u/ M | | | | | | |
+| | -s_ | -v_ | | -u_ | | | -3_ | | -ª_  | | |
+| | 10 | | 11 | | 5 | | | 3 | | | |
+| | -r_ | -5_ | | -h_ | | | -em_  | | -`_  | | |
+| | | 48 | 44 | | 5 | | 1 | 2 | | 32 | |
+| | -6_ | | -7_ | | | | | | | | |
+| | 4 | 7 | | 24 | | | | | | | |
 ;/n u/ M
-2.
-|     | -s_ 3  |      |       | -v_ 3 |       |      |     |     | -u_  |            |     |
-| --- | ------ | ---- | ----- | ----- | ----- | ---- | --- | --- | ---- | ---------- | --- |
-|     |        | 56  | 5     |       | 103  | 10   |     |     |      | 7 75 73  | 7   |
-|     | -3_ 10 | 33  |       | -ª_ 3 | 202  |      |     |     | -r_  |            |     |
-|     |        |      | 3     |       |       | 45   |     |     |      | 21 73 28 | 63  |
-|     | -5_    |      |       | -h_   |       |      |     |     |      |            |     |
-|     | 125   |      | 53 5 |       |  11 | 121 | 44  |     |      |            |     |
-|     | -em_   | 128 |       | -`_   | 632  | 285 | 7   |     |      |            |     |
-50
-|     | -6_  288 |     | 72 8 | -7_ 3 | 17 | 68 | 153 |     |     |     |     |
-| --- | --------- | --- | ----- | ----- | --- | --- | --- | --- | --- | --- | --- |
+| | -s_ 3  | | | -v_ 3 | | | | | -u_  | | |
+| | | 56  | 5 | | 103  | 10 | | | | 7 75 73  | 7 |
+| | -3_ 10 | 33  | | -ª_ 3 | 202  | | | | -r_  | | |
+| | | | 3 | | | 45 | | | | 21 73 28 | 63  |
+| | -5_ | | | -h_ | | | | | | | |
+| | 125 | | 53 5 | |  11 | 121 | 44  | | | | |
+| | -em_ | 128 | | -`_ | 632  | 285 | 7 | | | | |
+| | -6_  288 | | 72 8 | -7_ 3 | 17 | 68 | 153 | | | | |
 -8_ 12
-|     |     | 243 | 2165 | 54 | 600 |     |     |     |     |     |     |
-| --- | --- | ---- | ----- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | 243 | 2165 | 54 | 600 | | | | | | |
 3. ;/n u/ M
-|     |                           |       |     |      |       |        |     |     |      |                      |     |
-| --- | -------------------------- | ----- | ---- | ---- | ----- | ------- | --- | ---- | ---- | -------------------- | --- |
-|     | -s_                        | 33   | 5   |      | -v_   |         | 72 | 4   |      |                      |     |
-|     | 2                          |       | 5    | 15   |       | 3       |     | 28   | 7    |                      |     |
-|     |                           |       |      |     |       |        |     |     |      |                      |     |
-|     | -u_  9                     | 1256 | 180  | 3 6 | -3_   | 8       | 63 | 2 8 | 48   |                      |     |
-|     |                           |       |     |      |       |         |    |      |      |                     |     |
-|     | -ª_  5                     | 73   | 5 4 | 3    | -r_ 9 | 13     | 4   | 523 | 117  |                      |     |
-| 4.  | cfgk' ftLs/0f u/L ;/n u/ M |       |      |      |       |         |     |      |      |                      |     |
-|     | 3                          |       |      |      | 5 3   |         |     |      |      | 3 1                  |     |
-|     | -s_                        | 5    |      | -v_  |       | 2 2    |     |      | -u_  |                     |     |
-|     |                            | 2     |      |      | 7     |         |     |      |      | 5 5                  |     |
-|     |                            |       | 3    |      | 7     |         |     |      |      |                      |     |
-|     | -3_                        | 45   | 125 | -ª_  |       |  3003 |     | 48   |      |                      |     |
-|     |                            |       | 5    |      | 75    |         |     |      |      |                      |     |
-| 118 |                            |       |      |      |       |         |     |      |      | xfdf| ]ul0ft, sIff * |     |
-
+| |  | |  | | |  | |  | | | |
+| | -s_ | 33 | 5 | | -v_ | | 72 | 4 | | | |
+| |  | | |  | |  | |  | | | |
+| | -u_  9 | 1256 | 180  | 3 6 | -3_ | 8 | 63 | 2 8 | 48 | | |
+| |  | |  | | | |  | | |  | |
+| | -ª_  5 | 73 | 5 4 | 3 | -r_ 9 | 13 | 4 | 523 | 117  | | |
+| 4.  | cfgk' ftLs/0f u/L ;/n u/ M | | | | | | | | | | |
+| | -s_ | 5 | | -v_  | | 2 2 | | | -u_  |  | |
+| | -3_ | 45 | 125 | -ª_  | |  3003 | | 48 | | | |
+| 118 | | | | | | | | | | xfdf| ]ul0ft, sIff * | |
 | kf7 | cgk' | ft, ;dfgk' | ft / kl| | tzt |
-| --- | ---- | ---------- | -------- | --- |
-15
-(Ratio, Proportion and Percentage)
-| 15.0 kg'                | /jnfs] g ( Review) |                    |          |     |
-| ----------------------- | ------------------ | ------------------ | -------- | --- |
-| tnsf jfSox¿ k9 / ldNg ] |                    | jfSonfO { Ps 7fpd“ | f nv]  M |     |
+Ratio, Proportion and Percentage
+| 15.0 kg' | /jnfs] g ( Review) | | | |
+| tnsf jfSox¿ k9 / ldNg ] | | jfSonfO { Ps 7fpd“ | f nv]  M | |
 -s_ /fd;u“  ?= 450 5 . -v_ kfv] /f – sf7df8fs“} f ] a; ef8f ?= 500 5 .
-| -u_ kD] afsf ] | tfn}  50 kg 5 . |     | -3_  ljkgf;u“ |  ?= 500 5 . |
-| -------------- | --------------- | --- | ------------- | ----------- |
+| -u_ kD] afsf ] | tfn}  50 kg 5 . | | -3_  ljkgf;u“ |  ?= 500 5 . |
 -ª_ sf7df8f “} – w/fgsf ] a; ef8f ?= 950 5 .  -r_ /ljnfnsf ] tfn}  55 kg 5 .
 dflysf jfSox¿df -v_ / -ª_ bj'  } ef8f b/ xg'  \ . h;df sf7df8fa“} f6 kfv] /f / w/fgsf ] ef8f b/
 lbOPsf ] 5 . kfv] /f / w/fgsf ] ef8f b/ jm|dzM ?= 500 / ?= 950 5 . sf7df8fa“} f6 kfv] /f /
-500 10
-|          | ft       |             |                |     |
-| -------- | --------- | ------------ | -------------- | --- |
-| w/fgsf ] | ef8f cgk' |  5 . o;nfO { | 10:19 nl]vG5 . |     |
-950 19
+| | ft  |  | | |
+| w/fgsf ] | ef8f cgk' |  5 . o;nfO { | 10:19 nl]vG5 . | |
 To:t,} cGo Pp6 } u0' f ePsf kl/df0fx¿ s ] s ] xg' ,\ kQf nufO { cgk' ft lgsfn .
-| 15.1.  cgk' | ft (Ratio) |     |     |     |
-| ----------- | ---------- | --- | --- | --- |
+| 15.1.  cgk' | ft (Ratio) | | | |
 bO'  { cf6] f ;dfg PsfO ePsf kl/df0fnfO { tn' gf ug { ko| fu]  ul/g ] leGgnfO { cgk' ft elgG5 . olb a
-a
 / b sf ] Pp6 } PsfO 5 eg ] ltgLx¿sf ] cgk' ftnfO {  jf a:b nl]vG5 . hxf “ a nfO { klxnf ] kb
-b
-| (antecedent) / b nfO { |     | bf;] f| ] kb (consequent) elgG5 . |     |     |
-| ---------------------- | --- | --------------------------------- | --- | --- |
+| (antecedent) / b nfO { | | bf;] f| ] kb (consequent) elgG5 . | | |
 h:t } M kl|dnfsf ] prfO 5 lkm6 5 / /ldnfsf ] prfO 4 lkm6 5 eg ] pgLx¿sf ] prfOsf ] cgk' ft 5:4
-| eof ] . cgk' | ftnfO { Gog" td -n3Q' | d_ leGgdf nl]vG5 . |     |     |
-| ------------ | --------------------- | ------------------ | --- | --- |
+| eof ] . cgk' | ftnfO { Gog" td -n3Q' | d_ leGgdf nl]vG5 . | | |
 kD] af / ;fg] fdsf ] prfOsf ] cgk' ft 4:5 5  . ca kD] afsf ] prfO 40 OGr eP ;fg] fdsf ] prfO slt xfn] f <
-| kD] afsf ] | prfO M ;fg] | fdsf ] prfO = 4:5 |     |     |
-| ---------- | ----------- | ----------------- | --- | --- |
-4
-|     | cyjf,       k D] a  f s  f  ] |  p  r  f O       = |     |     |
-| --- | ----------------------------- | ------------------ | --- | --- |
-5
-|     | ;fg]  | fdsf ] prfO   |     |     |
-| --- | ----- | ------------- | --- | --- |
-|     |       | 40 OGr 4      |     |     |
-|     | cyjf, |     =         |     |     |
-|     | ;fg]  | fdsf ] prfO 5 |     |     |
+| kD] afsf ] | prfO M ;fg] | fdsf ] prfO = 4:5 | | |
+| | cyjf, k D] a  f s  f  ] |  p  r  f O = | | |
+| | ;fg]  | fdsf ] prfO | | |
+| | | 40 OGr 4 | | |
+| | cyjf, | = | | |
+| | ;fg]  | fdsf ] prfO 5 | | |
 405
-|     | ;fg] fdsf ] prfO  | 50 OGr . |     |     |
-| --- | ------------------ | --------- | --- | --- |
-4
+| | ;fg] fdsf ] prfO  | 50 OGr . | | |
 o;/L sg'  } cgk' ft / Pp6f kl/df0f yfxf 5 eg ] csf {] kl/df0f klg kQf nufpg ;lsG5 .
 xfdf| ]ul0ft, sIff * 119
-
 pbfx/0f 1
-| tnsf kl/df0fx¿nfO { | cgk'           | ftdf ¿kfGt/0f u/ M |
-| ------------------- | -------------- | ------------------ |
-| -s_ 200 k;}         | f / 200 ?lkof“ |                    |
+| tnsf kl/df0fx¿nfO { | cgk' | ftdf ¿kfGt/0f u/ M |
+| -s_ 200 k;} | f / 200 ?lkof“ | |
 -v_ 4 kg / 5000 gm
 ;dfwfg
 -s_ oxf,“ 200 k;} f / 200 ?lkof “ bj' d} f Pp6 } PsfO 5g}  . t;y,{ 200 k;} f = ?= 2 xG' 5 .
-|              | 2 ?lkof“   | 1              |
-| ------------ | ---------- | -------------- |
-| ctM cgk' ft= |            |       = 1:100 |
-|              | 200 ?lkof“ | 100            |
+| | 2 ?lkof“ | 1 |
+| ctM cgk' ft= | |   = 1:100 |
+| | 200 ?lkof“ | 100 |
 -v_  4 kg / 5000 gm
 o;df klxnf ] kl/df0f = 4 kg
-
 bf;] f| ] kl/df0f = 5000 gm = 5kg
 4kg
-
 ctM cgk' ft  4:5
 5kg
 pbfx/0f 2
-Ct ' / /ZdLn ] Pp6f j:td' f 10:13 sf ] cgk' ftdf nufgL u/ ] . olb Ctn'  ] ?= 5000 nufgL ul/g \ eg]
-| /ZdLn ] slt ul/g \ | xfn] f < |     |
-| ------------------ | -------- | --- |
+Ct ' / /ZdLn ] Pp6f j:td' f 10:13 sf ] cgk' ftdf nufgL u/ ] . olb Ctn'  ] ?= 5000 nufgL ul/g \ eg
+| /ZdLn ] slt ul/g \ | xfn] f < | |
 ;dfwfg
 | oxf,“ Ct ' / /ZdLsf ] | nufgLsf ] | cgk' ft 10:13 |
-| --------------------- | --------- | ------------- |
 Cts' f ] nufgL = ?= 5000
 /ZdLsf ] nufgL = ?
 | Cts' | f ] nufgL | 10  |
-| ---- | --------- | --- |
-
 ca,
-13
 /ZdLsf ] nufgL
-|     | ?= 5000 | 10  |
-| --- | ------- | --- |
-
+| | ?= 5000 | 10  |
 cyjf,
-13
 /ZdLsf ] nufgL
 135000
-| /ZdLsf ] nufgL ?=  |     | 6500 |
-| ------------------- | --- | ----- |
-10
+| /ZdLsf ] nufgL ?=  | | 6500 |
 120 xfdf| ]ul0ft, sIff *
-
 pbfx/0f 3
-/fx] g, laGb ' / /fdljnf;n ] Pp6f Joj;fodf 3:4:5 sf ] cgk' ftdf nufgL u/ ] . olb pgLx¿n]
+/fx] g, laGb ' / /fdljnf;n ] Pp6f Joj;fodf 3:4:5 sf ] cgk' ftdf nufgL u/ ] . olb pgLx¿n
 ?= 36,000,000 hDdf u/5] g \ eg ] kT| os] n ] slt slt ?lkof “ nufgL u/s] f /x5] g \ <
 ;dfwfg
- ?=
-| oxf,“ hDdf /sd = | 36,000,000                       |                                |     |
-| ---------------- | -------------------------------- | ------------------------------ | --- |
-| / cgk' ftnfO {   | x dfGbf kT|                      | os] sf ] nufgL 3x, 4x / 5x xG' | 5 . |
-| ca, kZ| gcg;'    | f/ 3x, + 4x + 5x = ?= 36,000,000 |                                |     |
+?=
+| oxf,“ hDdf /sd = | 36,000,000 | | |
+| / cgk' ftnfO { | x dfGbf kT| | os] sf ] nufgL 3x, 4x / 5x xG' | 5 . |
+| ca, kZ| gcg;' | f/ 3x, + 4x + 5x = ?= 36,000,000 | | |
 cyjf, 12x = 36,000,000
-36000000
-| cyjf, x =  | = ?= 3,000,000 |     |     |
-| ---------- | -------------- | --- | --- |
-12
+| cyjf, x =  | = ?= 3,000,000 | | |
 To;sf/0f, /fx] gsf ] nufgL = 3x = 3 × ?= 3,000,000 = ?= 9,000,000
-| laGbs' f ] nufgL |       | = 4x = 4× ?= 3,000,000 = ?= 12,000,000   |     |
-| ---------------- | ----- | ---------------------------------------- | --- |
-| /fdljnf;sf ]     | nufgL |  = 5x = 5 × ?= 3,000,000 = ?= 15,000,000 |     |
+| laGbs' f ] nufgL | | = 4x = 4× ?= 3,000,000 = ?= 12,000,000 | |
+| /fdljnf;sf ] | nufgL |  = 5x = 5 × ?= 3,000,000 = ?= 15,000,000 | |
 cEof; 15.1
 1. tnsf kT| os]  cj:yfdf klxnf ] / bf;] f| ] kl/df0fsf ] cgk' ftnfO { Gog" td leGgsf ¿kdf nv]  M
 -s_ 5 hrs / 10 hrs -v_ 3 ft  / 9 ft
 -u_ 750 gram / 1.5 kg -3_ 20 cm / 25 cm
 -ª_ 375 ml / 1l -r_ Rs. 75 / 750 paisa
 2. gk] fn df= lj= sf ] lzIfs / ljBfyL { cgk' ft 1:32 5 . olb pSt ljBfnodf hDdf 25 hgf
-| lzIfs eP ljBfyL { | ;ªV\ | of slt xfn] f < |     |
-| ----------------- | ---- | --------------- | --- |
-1:4000 sf ] :sn] df lvlrPsf ] gS;fdf bO'  { 7fpl“arsf ] b/' L 4 cm 5 eg ] pSt :yfgx¿larsf]
-3.
-| jf:tljs b/' | L slt xfn] f < |     |     |
-| ----------- | -------------- | --- | --- |
+| lzIfs eP ljBfyL { | ;ªV\ | of slt xfn] f < | |
+1:4000 sf ] :sn] df lvlrPsf ] gS;fdf bO'  { 7fpl“arsf ] b/' L 4 cm 5 eg ] pSt :yfgx¿larsf
+| jf:tljs b/' | L slt xfn] f < | | |
 4.  bO'  { ;ªV\ ofx? 3:4 sf ] cgk' ftdf /xs] f 5g \ . olb  bj'  } ;ªV\ ofdf 3 hf8] b\ f 2:3 sf ] cgk' ftdf
-| xG' 5g \ eg ] | tL ;ªV\ ofx¿ kQf nufpm . |     |     |
-| ------------- | ------------------------ | --- | --- |
- 5. ;z' fGt / PGhnn ]  ?= 600 nfO {  5:7 sf ] cgk' ftdf af8“ b\ f bj' n}  ] slt slt ?lkof “ kfpnfg,\ kQf
+| xG' 5g \ eg ] | tL ;ªV\ ofx¿ kQf nufpm . | | |
+5. ;z' fGt / PGhnn ]  ?= 600 nfO {  5:7 sf ] cgk' ftdf af8“ b\ f bj' n}  ] slt slt ?lkof “ kfpnfg,\ kQf
 nufpm .
 6. Pp6f kl/jf/df vfgf / lzIffdf vrs{ f ] cgk' ft 4:5 5 . olb lzIffdf dfl;s ?= 6750 vr { xG' 5
-| eg ] vfgfdf slt vr { | rflxPnf < |     |     |
-| -------------------- | --------- | --- | --- |
+| eg ] vfgfdf slt vr { | rflxPnf < | | |
 xfdf| ]ul0ft, sIff * 121
-
 7.  8, 9 / 10 jifs{ f aflnsfx¿nfO { ?. 216 pgLx¿sf ] pd/] sf ] cgk' ftdf af8“ b\ f kT| os] n ] slt
-| slt ?lkof “ | kfpnfg \ | <   |     |     |     |
-| ----------- | -------- | --- | --- | --- | --- |
-8. ljlkg, cdt[  / cflifzn ] 2:5:6 sf ] cgk' ftdf nufgL u/L Pp6f Joj;fo ;~rfng u/ ] . Ps
+| slt ?lkof “ | kfpnfg \ | < | | | |
+8. ljlkg, cdt[  / cflifzn ] 2:5:6 sf ] cgk' ftdf nufgL u/L Pp6f Joj;of ;~rfng u/ ] . Ps
 jifk{ l5 pgLx¿n ] ?= 65,000,000 cfDbfgL u/ ] eg ] kT| os] n ] slt slt /sd cfDbfgL u/ ] xfn] fg \ <
-9. A n ] eGbf B n ] bfA] a/ / B n ] eGbf C n ] tA] a/ /sd hDdf ubf { ?= 98460 hDdf eof ]  eg]
-| kT| os] n ]  | slt slt /sd hDdf u/ ] |     |     | xfn] fg \ < |     |
-| ------------ | --------------------- | --- | --- | ----------- | --- |
-| 15.2. ;dfgk' | ft (Proportion)       |     |     |             |     |
+9. A n ] eGbf B n ] bfA] a/ / B n ] eGbf C n ] tA] a/ /sd hDdf ubf { ?= 98460 hDdf eof ]  eg
+| kT| os] n ]  | slt slt /sd hDdf u/ ] | | | xfn] fg \ < | |
+| 15.2. ;dfgk' | ft (Proportion) | | | | |
 sIff 8 df 24 hgf 5fqf / 27 hgf 5fq 5g \ . To:t } sIff 9 df 32 hgf 5fq / 36 hgf 5fqf 5g\
 eg ] bO' c{ f6] f sIffdf slt slt cgk' ftdf 5fq / 5fqf /x5] g,\ kQf nufpm .
 bj'  } sIffdf 5fq / 5fqflarsf ] cgk' ft s:tf ] 5, a/fa/ 5 ls 5g}  x/]  .
 sg'  } bO'  { cgk' ftnfO { Gog" td leGgdf nV] bf cgk' ft a/fa/ xG' 5 eg ] To:tf cgk' ftx¿nfO { ;dfgk' ft
 elgG5 . olb a:b = c:d 5 eg ] a:b / c:d ;dfgk' ft xG' 5g \ / a, b, c / d ;dfgk' flts xG' 5g \ . o;nfO{
 a:b::c:d klg nl]vG5 .
-|                     |     | 24 32 |          |             |     |
-| ------------------- | --- | ----- | -------- | ----------- | --- |
-| dflysf ] pbfx/0fdf  |     |  /    |   ;dfgk' | flts 5g \ . |     |
-|                     |     | 27 36 |          |             |     |
+| dflysf ] pbfx/0fdf  | |  / | ;dfgk' | flts 5g \ . | |
 Extremes
 o;nfO {  24:27 = 32:36 nl]vG5 .
 Means
 o;nfO { 24:27::32:36 klg nl]vG5 . h;df aflx/sf bO'  { kbnfO { extremes elgG5, h:t } M 24 / 36
-| leqsf bO'  { kbnfO {  | means elgG5, h:t } |            |                 | M 27 / 32       |     |
-| --------------------- | ------------------ | ---------- | --------------- | --------------- | --- |
-| extremes / means sf ] |                    | 56' 6\     | f 56' 6\  } u0' | fgkmn a/fa/ xG' | 5 . |
-| a                     | c                  |            |                 | a c             |     |
-| cyft{ ,   /           |  ;dfgk'            | ftdf 5g \  | of ]            |   xG' 5 .      |     |
-| b                     | d                  |            |                 | b d             |     |
-| ×                     | ×                  |            |                 |                 |     |
-| cyjf, a   d = b       |                    |  c xG' 5 . |                 |                 |     |
+| leqsf bO'  { kbnfO {  | means elgG5, h:t } | | | M 27 / 32 | |
+| extremes / means sf ] | | 56' 6\ | f 56' 6\  } u0' | fgkmn a/fa/ xG' | 5 . |
+| a | c | | | a c | |
+| cyft{ , / |  ;dfgk' | ftdf 5g \  | of ] |   xG' 5 . | |
+| b | d | | | b d | |
+| × | × | | | | |
+| cyjf, a d = b | |  c xG' 5 . | | | |
 o;nfO { ko| fu]  u//]  ;dfgk' ftdf /xs] f tLgcf6] f kb lbPdf afs“ L kb kQf nufpg ;lsG5 .
 pbfx/0f 1
-;dfgk' ftdf /xs] f kbx¿dWo ] bf;] f|,]  t;] f| ] / rfy} f ] kb jm|dzM 4, 6 / 8     eP klxnf ] kb kQf nufpm .
+;dfgk' ftdf /xs] f kbx¿dWo ] bf;] f|,]  t;] f| ] / rfy} f ] kb jm|dzM 4, 6 / 8 eP klxnf ] kb kQf nufpm .
 ;dfwfg
-| oxf “ klxnf ]       | kb x dfgf “} | .         |            |            |     |
-| ------------------- | ------------ | --------- | ---------- | ---------- | --- |
-|                     |              |           |            | x 6        |     |
-|  x, 4, 6 / 8 ;dfgk' |              | flts 5g \ |  . t;y,{   |   xG' 5 . |     |
-|                     |              |           |            | 4 8        |     |
+| oxf “ klxnf ] | kb x dfgf “} | . | | | |
+| | | | | x 6 | |
+|  x, 4, 6 / 8 ;dfgk' | | flts 5g \ |  . t;y,{ |   xG' 5 . | |
 122 xfdf| ]ul0ft, sIff *
-
 xfdf| ]ul0ft, sIff * 123
-
 7. 7 ldg6] df 21 kg ds } lk:g ] 366\ nfO { 15kg ds } lk:g slt ;do nfU5 xfn] f <
 8. clgtfsf ] ul0ft / lj1fgsf ] kf|Ktfªs\ sf ] cgk' ft 10:12 5 . olb p;sf ] lj1fgsf ] kf|Ktfªs\ 80
 eP ul0ftsf ] kf|Ktfªs\ slt xfn] f <
@@ -5464,298 +2815,197 @@ ul/g \ . olb tL ljifox¿df jm|dzM 25, 30, 75 / x kf|Kt ul/g \ eg ] x sf ] dfg sl
 11. rGbd| f / kY[ jLsf ] u?' Tjfsif0{ fsf ] cgk' ft 1:6 5 . kY[ jLdf 90 N tfn} ePsf j:ts' f ] tfn}
 rGbd| fdf slt xfn] f, kQf nufpm .
 13. Pp6f ld7fOd{ f bw' / lrgLsf ] cgk' ft 5:3 5 . olb bw' 750 gm 5 eg ] lrgLsf ] efu slt xfn] f <
-15.3 kl| tzt (Percentage)
+15.3 kl| tzt (Percentage
 tnsf leGgnfO { x/] f “} M
 sIffsf ;a} ljBfyLn{ fO { bO' { ;dx" df ljefhg u/L tflnsfdf lbPsf pbfx/0fx¿af/ ] 5nkmn u/ M
 tflnsf s tflnsf v
-1
 oxf,“ egs] f ] 100 efudf 50 efu /x5] , o;nfO { 50 kl|tzt elgG5 .
-2
-3
 To:t } egs] f ] 100 efudf 60 efu /x5] , o;nfO { slt kl|tzt elgG5 <
-5
 0.33 egs] f ] 33 kl|tzt eof ] eg ] 0.80 a/fa/ kl|tzt slt xfn] f <
-33
 33% = = 0.33 xG' 5 .
-100
 gf6] M leGg jf bzdnjnfO {kl|tztdf ¿kfGt/0f ug {100 n ]u0'ff u/L % lrxg\ /fVg ].
 124 xfdf| ]ul0ft, sIff *
-
 kT| os]  ljBfyLn{  ] tnsf bO' c{ f6] f tflnsfdf ePsf kZ| gx¿sf ] pQ/ kQf nufO { ;dx" df 5nkmn u/ .
-| tflnsf -s_ |         | tflnsf -v_ |        |                             |
-| ---------- | ------- | ---------- | ------ | --------------------------- |
-| 50 sf ]    | 16 =slt | 50 sf ]    | 20 = < |                             |
-| 100 sf ]   | 16 = <  | 125 sf ]   | 8 = <  | kl|tztnfO { leGg jf bzdnjdf |
+| tflnsf -s_ | | tflnsf -v_ | | |
+| 50 sf ] | 16 =slt | 50 sf ] | 20 = < | |
+| 100 sf ] | 16 = <  | 125 sf ] | 8 = <  | kl|tztnfO { leGg jf bzdnjdf |
 ¿kfGt/0f ug { 100 n ] efu u/L
-| 320 sf ] | 16 = < | 250 sf ] | 4 = < |     |
-| -------- | ------ | -------- | ----- | --- |
+| 320 sf ] | 16 = < | 250 sf ] | 4 = < | |
 % lrxg\  x6fpg ] .
-| 500 sf ]               | 16 = <              | 500 sf ]    | 2 = < |     |
-| ---------------------- | ------------------- | ----------- | ----- | --- |
-| 1020 sf ]              | 16 = <              | 1000 sf ]   | 1 = < |     |
-| dflysf ] tflnsfaf6 s ] | yfxf xG' 5 lgisif { | kQf nufpm . |       |     |
+| 500 sf ] | 16 = < | 500 sf ] | 2 = < | |
+| 1020 sf ] | 16 = < | 1000 sf ] | 1 = < | |
+| dflysf ] tflnsfaf6 s ] | yfxf xG' 5 lgisif { | kQf nufpm . | | |
 To;sf/0f kl|tzt Pp6f dfkg xf,] h;df sg'  } kl/df0fnfO { 100 sf ] efusf ¿kdf JoSt ul/G5 .
-15.3.1 lbOPsf ] kl| tzt a/fa/ ;ªV\ of kQf nufpg ] (To find the number of given percentage)
+15.3.1 lbOPsf ] kl| tzt a/fa/ ;ªV\ of kQf nufpg ] (To find the number of given percentage
 pbfx/0f 1
-560 hgf ;lDdlnt sIff * sf ] clGtd k/LIffdf 40% A+, 30% A, 20% B u8]|  xfl;n u/ ] / afs“ Ln]
-| C u8]|  xfl;n u/ ] | eg ] slt hgfn ] | C u8]|  xfl;n u/ ] | kQf nufpm . |     |
-| ------------------ | --------------- | ------------------ | ----------- | --- |
+560 hgf ;lDdlnt sIff * sf ] clGtd k/LIffdf 40% A+, 30% A, 20% B u8]|  xfl;n u/ ] / afs“ Ln
+| C u8]|  xfl;n u/ ] | eg ] slt hgfn ] | C u8]|  xfl;n u/ ] | kQf nufpm . | |
 ;dfwfg
-| oxf “ hDdf ljBfyL { | = 560   |               |     |     |
-| ------------------- | ------- | ------------- | --- | --- |
-| A+ xfl;n ug {]      | ljBfyL{ | = 560 sf] 40% |     |     |
+| oxf “ hDdf ljBfyL { | = 560 | | | |
+| A+ xfl;n ug {] | ljBfyL{ | = 560 sf] 40% | | |
 56040
-|     |     |  224 hgf |     |     |
-| --- | --- | ---------- | --- | --- |
-100
-| A u8]|  xfl;n ug {] | ljBfyL{ | = 560 sf] 30 |     |     |
-| ------------------- | ------- | ------------ | --- | --- |
+| | |  224 hgf | | |
+| A u8]|  xfl;n ug {] | ljBfyL{ | = 560 sf] 30 | | |
 56030
-|     |     |  168 hgf |     |     |
-| --- | --- | ---------- | --- | --- |
-100
-| B u8]|  xfl;n ug {] | ljBfyL{ = 560 sf] 20% |     |     |     |
-| ------------------- | --------------------- | --- | --- | --- |
+| | |  168 hgf | | |
+| B u8]|  xfl;n ug {] | ljBfyL{ = 560 sf] 20% | | | |
 56020
-|     |     |  112 hgf |     |     |
-| --- | --- | ---------- | --- | --- |
-100
+| | |  112 hgf | | |
 A+, A / B u8]|  xfl;n ug {] ljBfyL { ;ªV\ of = 224+168+112 = 504 hgf
-| ca C u8]| |  xfl;n ug {] ljBfyL { | ;ªV\ of = 560 - 504 = 56 hgf |     |     |
-| --------- | --------------------- | ---------------------------- | --- | --- |
+| ca C u8]| |  xfl;n ug {] ljBfyL { | ;ªV\ of = 560 - 504 = 56 hgf | | |
 csf {] tl/sf, hDdf A+, A / B xfl;n ug {] kl|tzt = 40% + 30% + 20% = 90%
-|     | C u8]|  xfl;n ug {] | ljBfyL { kl|tzt = 100% - 90% = 10% |     |     |
-| --- | ------------------- | ---------------------------------- | --- | --- |
+| | C u8]|  xfl;n ug {] | ljBfyL { kl|tzt = 100% - 90% = 10% | | |
 56010
 ca, C u8]|  xfl;n ug {] ljBfyL { ;ªV\ of = 560 sf ] 10%  56 hgf
-100
 xfdf| ]ul0ft, sIff * 125
-
 pbfx/0f 2
 lbOPsf ] tflnsfdf Pp6f k;ndf ljleGg ;fduL| sf ] dN" o;r" L lbOPsf ] 5 . Pp6f ;6,{  kfOG6 /
-| Hofs6] |  lsGgsf nflu hDdf slt ?lkof “ |     | cfjZos k5 { | xfn] f < |     |     |
-| ------ | ----------------------------- | --- | ----------- | -------- | --- | --- |
+| Hofs6] |  lsGgsf nflu hDdf slt ?lkof “ | | cfjZos k5 { | xfn] f < | | |
 ;dfwfg
 d"No;"rL
-|                   |        |               |     |     | j:t'                  | dN" o   |
-| ----------------- | ------ | ------------- | --- | --- | --------------------- | ------- |
-| oxf “ hDdf lsGgk' | g {]   | ;fdfgsf ] dN" | o   |     |                       |         |
-|                   | ;6{    | ?= 250        |     |     | ;6{                   | ?= 250  |
-|                   |        |               |     |     | kfOG6                 | ?= 475  |
-|                   | kfOG6  | ?= 475        |     |     |                       |         |
-|                   | Hofs]6 | ?= 1200       |     |     | Hofs]6                | ?= 1200 |
-|                   |        |               |     |     | x/s]  ;fdfgdf 20% 56' |  .      |
-|                   | hDdf   | ?= 1925       |     |     |                       |         |
+| | | | | | j:t' | dN" o |
+| oxf “ hDdf lsGgk' | g {] | ;fdfgsf ] dN" | o | | | |
+| | ;6{ | ?= 250 | | | ;6{ | ?= 250  |
+| | | | | | kfOG6 | ?= 475  |
+| | kfOG6  | ?= 475 | | | | |
+| | Hofs]6 | ?= 1200 | | | Hofs]6 | ?= 1200 |
+| | | | | | x/s]  ;fdfgdf 20% 56' |  . |
+| | hDdf | ?= 1925 | | | | |
 56'  kl|tzt = 20%
-|     | ca, 56'  /sd | = 1975 sf ] | 20% |     |     |     |
-| --- | ------------ | ----------- | --- | --- | --- | --- |
+| | ca, 56'  /sd | = 1975 sf ] | 20% | | | |
 = ?= 395
-|  hDdf cfjZos ?lkof“ |     | = ?= 1975 - 56' |     |     |     |     |
-| ------------------- | --- | --------------- | --- | --- | --- | --- |
+|  hDdf cfjZos ?lkof“ | | = ?= 1975 - 56' | | | | |
 = ?= 1975 - ?= 395
 = ?= 1580
 gf6] M o;nfO {56'6\f56'6\ };fdfgsf ]56' 36fP/ klg ug {;lsG5 .
-15.3.2. lbOPsf ] ;ªV\ ofsf ] kl| tzt lgsfNg ] (To find the Percentage of Given Number)
+15.3.2. lbOPsf ] ;ªV\ ofsf ] kl| tzt lgsfNg ] (To find the Percentage of Given Number
 pbfx/0f 3
-ut jifs{ f ] kl| t af/] f lh/f dl;gf ] rfdnsf ] dN" o ?= 1200     lyof ] . clxn ] pSt rfdn a9/]  ?= 1500
-| eof ] eg ] | pSt rfdnsf ] | dN" o slt kl| | tzt a9o\ f ] < |     |     |     |
-| ---------- | ------------ | ------------- | -------------- | --- | --- | --- |
+ut jifs{ f ] kl| t af/] f lh/f dl;gf ] rfdnsf ] dN" o ?= 1200 lyof ] . clxn ] pSt rfdn a9/]  ?= 1500
+| eof ] eg ] | pSt rfdnsf ] | dN" o slt kl| | tzt a9o\ f ] < | | | |
 ;dfwfg
-| oxf,“ ut jifs{ | f ] rfdnsf ]                      | dN" o | = ?= 1200 |     |     |     |
-| -------------- | --------------------------------- | ----- | --------- | --- | --- | --- |
-| clxn ]         | rfdnsf ] dN" o                    |       | = ?= 1500 |     |     |     |
-| a9s] f ]       | dN" o = ? 1500 - ?= 1200 = ?= 300 |       |           |     |     |     |
+| oxf,“ ut jifs{ | f ] rfdnsf ] | dN" o | = ?= 1200 | | | |
+| clxn ] | rfdnsf ] dN" o | | = ?= 1500 | | | |
+| a9s] f ] | dN" o = ? 1500 - ?= 1200 = ?= 300 | | | | | |
 a9s] f ] kl|tzt = <
-| 126 |     |     |     |     |     | xfdf| ]ul0ft, sIff * |
-| --- | --- | --- | --- | --- | --- | -------------------- |
-
-| ca, a9s] | f ] kl|tzt = x dfGbf |     |     |     |     |     |     |
-| -------- | -------------------- | --- | --- | --- | --- | --- | --- |
+| 126 | | | | | | xfdf| ]ul0ft, sIff * |
+| ca, a9s] | f ] kl|tzt = x dfGbf | | | | | | |
 ?=1200 sf ]x  =  ?=300
-  cyjf,
-∴
-| t;y { | pSt rfdnsf ] | dN" | o 25% n ] | jl[4 eof ] | .   |     |     |
-| ----- | ------------ | --- | --------- | ---------- | --- | --- | --- |
--gf6] M kl|tzt lgsfNbf k/'fgf ]kl/df0fsf ];fkI]fdf lgsflnG5 . h:t }M rfdnsf ]dN"o ?= 1200 sf]
+cyjf,
+| t;y { | pSt rfdnsf ] | dN" | o 25% n ] | jl[4 eof ] | . | | |
+-gf6] M kl|tzt lgsfNbf k/'fgf ]kl/df0fsf ];fkI]fdf lgsflnG5 . h:t }M rfdnsf ]dN"o ?= 1200 sf
 lgsflnof ]t/ ?= 1500 sf ]cfwf/df xfO]g ._
 cEof; 15.3
-|     | tnsf leGg jf bzdnjnfO { |     |     | kl| tztdf ¿kfGt/0f u/ M |     |     |     |
-| --- | ----------------------- | --- | --- | ----------------------- | --- | --- | --- |
-1.
-|     | -s_        |          | -v_ 0.34             |     | -u_  | -3_ 0.59 | -ª_  |
-| --- | ---------- | -------- | -------------------- | --- | ---- | -------- | ---- |
-| 2.  | lbOPsf kl| | tztnfO { | leGgdf ¿kfGt/0f u/ M |     |      |          |      |
-25
-|     | -s_ 45 |     | -v_ 70% |     | -u_  | -3_ 91% | -ª_ 53% |
-| --- | ------ | --- | ------- | --- | ---- | ------- | ------- |
-%
-4
+| | tnsf leGg jf bzdnjnfO { | | | kl| tztdf ¿kfGt/0f u/ M | | | |
+| | -s_ | | -v_ 0.34 | | -u_  | -3_ 0.59 | -ª_  |
+| 2.  | lbOPsf kl| | tztnfO { | leGgdf ¿kfGt/0f u/ M | | | | |
+| | -s_ 45 | | -v_ 70% | | -u_  | -3_ 91% | -ª_ 53% |
 3. dfg kQf nufpm M
 -s_ 250 sf ] 10% -v_ 150 sf ] 90% -u_ 180 sf ] 12.5% -3_ 220 sf] 20%
-4. slt kl/df0fsf]
-|     | -s_ 15% n ] | ? 225 xG' | 5 < |     | -v_ 21% n ] | 42 ld6/ xG' 5 < |     |
-| --- | ----------- | --------- | --- | --- | ----------- | --------------- | --- |
+4. slt kl/df0fsf
+| | -s_ 15% n ] | ? 225 xG' | 5 < | | -v_ 21% n ] | 42 ld6/ xG' 5 < | |
 -u_ 25% n ] 12.5 lbg xG' 5 < -3_ 12% n ] 72 hgf ljBfyL { xG' 5 <
 5. b; }“ ahf/df Pp6f Rofªu\ f|sf ] dN" o ?= 12,000 lyof,] h;df 12% 56'  lyof ] eg ] slt ¿ko} f “ 56'
-|     | /x5] , 56' | kl5 pSt Rofªu\ |     | f| ] lsGg slt ltg {' | knf { | <   |     |
-| --- | ---------- | -------------- | --- | -------------------- | ----- | --- | --- |
+| | /x5] , 56' | kl5 pSt Rofªu\ | | f| ] lsGg slt ltg {' | knf { | < | |
 sIff 7 sf 75 ljBfyLx{ ¿df 8% cgQ' L0f { eP eg ] slt hgf pQL0f { eP <
-6.
 7. ?= 18,500 tna ePsf ] Ps hgf sdr{ f/Ln ] 13% /sd s/ ltgk{' 5 { eg ] slt /sd s/ ltgk{' nf { <
 sIff 8 sf 80 ljBfyLx{ ¿dWo ] 5 hgf cgk' l:yt eP eg ] slt kl|tzt ljBfyL { pkl:yt eP <
-8.
 xfdf| ]ul0ft, sIff * 127
 
-9. Pp6f ;x/sf ]  hg;ªV\ of  2,666,200 5 / jl[4 b/ 1.50% 5 eg]  Ps  jif{kl5  pSt
-| hg;ªV\ of sltn ] | a9n\ f, kQf nufpm . |     |     |     |     |
-| ---------------- | ------------------- | --- | --- | --- | --- |
-10. ?= 17,000 cfDbfgL ePsf ] Pp6f lzIfsn ] 15% cfos/ ltgk{' 5 { eg ] s/ lt/k] l5 slt /sd kf|Kt
-| u5g{  \ xfn] f, kQf nufpm . |     |     |     |     |     |
-| --------------------------- | --- | --- | --- | --- | --- |
-11. Pp6f ;x/sf ] hg;ªV\ of hDdf 3,40,000 5 . ltgLx¿dWo ] 25,500  hgfn ] sDKo6' / ko| fu]  u5g{ \
-| eg ] slt kl|tztn ] | sDKo6' | /sf ] ko| fu] |  ubf { | /x5] g \ < |     |
-| ------------------ | ------ | ------------- | ------ | ---------- | --- |
-12. tnsf ] tflnsfdf ljleGg j:tx' ¿sf ] dN" o / 56' kl5sf ] dN" o lbOPsf ] 5 M
-| j:t' | dN" o -?=_ |     | 56' | kl5sf ] dN" | o -?=_ |
-| ---- | ---------- | --- | --- | ----------- | ------ |
-6f]kL
-|     | 350 |     | 315 |     |     |
-| --- | --- | --- | --- | --- | --- |
-| ;6{ | 500 |     | 420 |     |     |
-h'Qf
-|       | 950 |     | 900 |     |     |
-| ----- | --- | --- | --- | --- | --- |
-| kfOG6 | 800 |     | 720 |     |     |
-Hofs]6
-|        | 1250 |     | 1100 |     |     |
-| ------ | ---- | --- | ---- | --- | --- |
-| emf]nf | 600  |     | 500  |     |     |
-dflysf ] tflnsf ko| fu]  u/L tnsf j:tx' ¿sf ] 56'  kl|tzt kQf nufpm .
-| -s_ 6fk] L |     | -v_ ;6{    |     |     | -u_ hQ' f   |
-| ---------- | --- | ---------- | --- | --- | ----------- |
-| -3_ kfOG6  |     | -ª_ Hofs6] |     |     | -r_ emfn] f |
-13. cfOtaf/ lrl8of3/ 3D' gs] f ] ;ªV\ of 840 lyof ] . ;fd] af/ pSt ;ªV\ of 36/]  420 eof ] eg ] slt
-| kl|tztn ] 36o\ | f ] xfn] f, kQf nufpm . |     |     |     |     |
-| -------------- | ----------------------- | --- | --- | --- | --- |
-14. ?= 4500 dN" o ePsf ] dfa] fOn ;6] nfO { ?= 4200 df lsGg ;:tf ] k5 { ls 7% 56' df lsGbf ;:tf]
-knf,{ kQf nufpm .
-15.  ljsf;n ] Pp6f /ªu\ Lg TV ;6]  nfO { 13% 56' df lsGbf  ?= 30,00  56'  kfof ]] eg ] pSt TV ;6] sf]
-| cªl\st dN" o slt /x5] | , kQf nufpm . |     |     |     |     |
-| --------------------- | ------------- | --- | --- | --- | --- |
-16. /ljgn ] 900 k0" ffª{ s\ df 780 cªs\  kf|Kt u/ ] / ljkgfn ] 800 k0" ffª{ s\ df 700 kf|Kt ul/g \ eg]
-| s;n ] w/]  } kl|tzt cªs\ |  kf|Kt u¥of ] |     | xfn] f, kQf nufpm . |     |     |
-| ------------------------ | ------------- | --- | ------------------- | --- | --- |
-128 xfdf| ]ul0ft, sIff *
+## 9: Pp6f ;x/sf ]  hg;ªV\ of  2,666,200 5 / jl[4 b/ 1.50% 5 eg]  Ps  jif{kl5  pSt  {#ch-9}
 
+| hg;ªV\ of sltn ] | a9n\ f, kQf nufpm . | | | | |
+10. ?= 17,000 cfDbfgL ePsf ] Pp6f lzIfsn ] 15% cfos/ ltgk{' 5 { eg ] s/ lt/k] l5 slt /sd kf|Kt
+| u5g{  \ xfn] f, kQf nufpm . | | | | | |
+11. Pp6f ;x/sf ] hg;ªV\ of hDdf 3,40,000 5 . ltgLx¿dWo ] 25,500  hgfn ] sDKo6' / ko| fu]  u5g{ \
+| eg ] slt kl|tztn ] | sDKo6' | /sf ] ko| fu] |  ubf { | /x5] g \ < | |
+12. tnsf ] tflnsfdf ljleGg j:tx' ¿sf ] dN" o / 56' kl5sf ] dN" o lbOPsf ] 5 M
+| j:t' | dN" o -?=_ | | 56' | kl5sf ] dN" | o -?=_ |
+6f]kL
+| ;6{ | 500 | | 420 | | |
+h'Qf
+| kfOG6 | 800 | | 720 | | |
+Hofs]6
+| emf]nf | 600  | | 500  | | |
+dflysf ] tflnsf ko| fu]  u/L tnsf j:tx' ¿sf ] 56'  kl|tzt kQf nufpm .
+| -s_ 6fk] L | | -v_ ;6{ | | | -u_ hQ' f |
+| -3_ kfOG6  | | -ª_ Hofs6] | | | -r_ emfn] f |
+13. cfOtaf/ lrl8of3/ 3D' gs] f ] ;ªV\ of 840 lyof ] . ;fd] af/ pSt ;ªV\ of 36/]  420 eof ] eg ] slt
+| kl|tztn ] 36o\ | f ] xfn] f, kQf nufpm . | | | | |
+14. ?= 4500 dN" o ePsf ] dfa] fOn ;6] nfO { ?= 4200 df lsGg ;:tf ] k5 { ls 7% 56' df lsGbf ;:tf
+knf,{ kQf nufpm .
+15.  ljsf;n ] Pp6f /ªu\ Lg TV ;6]  nfO { 13% 56' df lsGbf  ?= 30,00  56'  kfof ]] eg ] pSt TV ;6] sf
+| cªl\st dN" o slt /x5] | , kQf nufpm . | | | | |
+16. /ljgn ] 900 k0" ffª{ s\ df 780 cªs\  kf|Kt u/ ] / ljkgfn ] 800 k0" ffª{ s\ df 700 kf|Kt ul/g \ eg
+| s;n ] w/]  } kl|tzt cªs\ |  kf|Kt u¥of ] | | xfn] f, kQf nufpm . | | |
+128 xfdf| ]ul0ft, sIff *
 kf7
-16
-|     | gfkmf / gfS] |     | ;fg  |     |     |     |
-| --- | ------------ | --- | ---- | --- | --- | --- |
-(Profit and Loss)
-| 16.0.  kg' /jnfs]           | g ( Review) |     |     |     |     |     |
-| --------------------------- | ----------- | --- | --- | --- | --- | --- |
-| tnsf kZ| gx¿df 5nkmn u/f “} |             | M   |     |     |     |     |
+| | gfkmf / gfS] | | ;fg  | | | |
+Profit and Loss
+| 16.0.  kg' /jnfs] | g ( Review) | | | | | |
+| tnsf kZ| gx¿df 5nkmn u/f “} | | M | | | | |
 -s_ Pp6f 38LnfO { ?= 450 df lsg/]  ?= 500 df aR] bf slt gfkmf jf 3f6f xG' 5 <
 -v_ Pp6f sndnfO { ?= 50 df lsg/]  ?= 40 df aR] bf slt gfkmf jf 3f6f xG' 5 <
 kZ| g g=+  -s_ df gfkmf eof ] lsgls o;df ljjm|o dN" o w/]  } 5 . o:tf ] cj:yfdf gfkmf egs] f ] ljjm|o
-| dN" o / jm|o dN" | osf ] km/s xf ] | .   |     |     |     |     |
-| ---------------- | --------------- | --- | --- | --- | --- | --- |
+| dN" o / jm|o dN" | osf ] km/s xf ] | . | | | | |
 cyft{  gfkmf (profit) = ljjm|o dN" o (selling price) - jm|o dN" o (cost price) xG' 5 .
-| To:t } bf;] f|d]      | f jm|o dN" oeGbf ljjm|o dN" |                | o sd 5 . |                  |            |     |
-| --------------------- | --------------------------- | -------------- | -------- | ---------------- | ---------- | --- |
-|  t;y { gfS]           | ;fg eof ] / gfS]            | ;fg = jm|o dN" |          | o – ljjm|o dN"   | o xG' 5 .  |     |
-| klxnf]df,             |                             |                |          | bf];|f]df        |            |     |
-| gfkmf = ?= 50         |                             |                |          | gfS] ;fg = ?= 10 |            |     |
-| jm|o dN" o = ?= 450 5 |                             |                |          | jm|o dN"         | o  = ?= 50 |     |
-| 50                    |                             |                |          |                  |            | 10  |
-ca,   100%  gfkmf kl|tzt xf ] . ca, gfS] ;fg kl|tzt  100%20% eof ] .
-50
-450
+| To:t } bf;] f|d] | f jm|o dN" oeGbf ljjm|o dN" | | o sd 5 . | | | |
+|  t;y { gfS] | ;fg eof ] / gfS] | ;fg = jm|o dN" | | o – ljjm|o dN" | o xG' 5 .  | |
+| klxnf]df, | | | | bf];|f]df | | |
+| gfkmf = ?= 50 | | | | gfS] ;fg = ?= 10 | | |
+| jm|o dN" o = ?= 450 5 | | | | jm|o dN" | o  = ?= 50 | |
+ca, 100%  gfkmf kl|tzt xf ] . ca, gfS] ;fg kl|tzt  100%20% eof ] .
 jf:tljs gfkmf
-| ∴               |        |        |     | ∴     |              | jf:tljs gf]S;fg    |
-| --------------- | ------ | ------ | --- | ----- | ------------ | ------------------ |
-|  gfkmf kl|tzt = |        | x 100% |     |  gfS] | ;fg kl|tzt = |             x 100% |
-|                 | j|m=d' |        |     |       |              | j|m=d'             |
+| ∴ | | | | ∴ | | jf:tljs gf]S;fg |
+|  gfkmf kl|tzt = | | x 100% | |  gfS] | ;fg kl|tzt = | x 100% |
+| | j|m=d' | | | | | j|m=d' |
 pbfx/0f 1
-?= 3450 df lsg]sf] Pp6f afvf|nfO { 2 dlxgfkl5 a]Rbf ?= 1450 gfS] ;fg eof] eg] pSt afvf|sf]
+?= 3450 df lsg]sf] Pp6f afvf|nfO { 2 dlxgfkl5 a]Rbf ?= 1450 gfS] ;fg eof] eg] pSt afvf|sf
 ljj|mo d"No kQf nufpm .
 ;dfwfg
-| oxf “ jm|o dN" | o (C.P.) = ?= 3450 |     |     |     |     |     |
-| -------------- | ------------------ | --- | --- | --- | --- | --- |
+| oxf “ jm|o dN" | o (C.P.) = ?= 3450 | | | | | |
 gfS] ;fg (L) = ?= 1450
-| ljjm|o dN" o (S.P.) = ? |     |     |     |     |     |     |
-| ----------------------- | --- | --- | --- | --- | --- | --- |
+| ljjm|o dN" o (S.P.) = ? | | | | | | |
 xfdf| ]ul0ft, sIff * 129
-
-| xfdLnfO { | yfxf 5, gfS] | ;fg (L) = C.P. - S.P. |     |
-| --------- | ------------ | --------------------- | --- |
+| xfdLnfO { | yfxf 5, gfS] | ;fg (L) = C.P. - S.P. | |
 ?= 1450 = ?= 3450 - S.P.
 cyjf, S.P. = ?= (3450 - 1450) = ?=  2,000
-
-|     | ∴   | ljjm|o dN" o (S.P.) = ? 2,000 |     |
-| --- | --- | ----------------------------- | --- |
+| | ∴ | ljjm|o dN" o (S.P.) = ? 2,000 | |
 pbfx/0f 2
-:dLtfn ] ?= 1500     df 50     cf6] f aNa NofOg \ . h;df 4 cf6] f km\oh'  uO;ss] f /x5] g \ . afs“ L aNax¿nfO{
+:dLtfn ] ?= 1500 df 50 cf6] f aNa NofOg \ . h;df 4 cf6] f km\oh'  uO;ss] f /x5] g \ . afs“ L aNax¿nfO{
 pgn ] kl| t aNa ?= 35 sf b/n ] aR] bf pgnfO { slt kl| tzt gfkmf jf gfS] ;fg eof ] xfn] f <
 ;dfwfg
-| oxf “ 50 cf6]         | f aNasf ] jm|o dN" | o (C.P.) =  ?= 1500 |     |
-| --------------------- | ------------------ | ------------------- | --- |
-| km\oh'  uPsf aNa ;ªV\ | of = 4             |                     |     |
+| oxf “ 50 cf6] | f aNasf ] jm|o dN" | o (C.P.) =  ?= 1500 | |
+| km\oh'  uPsf aNa ;ªV\ | of = 4 | | |
 l7s cj:yfdf ePsf aNa = 50 - 4 = 46
-| Pp6f aNasf ] | ljjm|o dN" o = ?= 35 |     |     |
-| ------------ | -------------------- | --- | --- |
-×
+| Pp6f aNasf ] | ljjm|o dN" o = ?= 35 | | |
 | 46 cf6] | f aNasf ] ljjm|o dN" | o (S.P.) = 35  |  46 = ?= 1610 |
-| ------- | -------------------- | -------------- | ------------- |
 oxf,“ jm|o dN" oeGbf ljjm|o dN" o w/]  } eof ] . o; sf/0f pgnfO { gfkmf eof ] .
 ctM gfkmf = S.P. - C.P.
-|     | = ?= 1610 -  ?=1500 | = ?= 110 |     |
-| --- | ------------------- | -------- | --- |
- jf:tljs gfkmf
-| ca, gfkmf kl|tzt = |                | x 100% |     |
-| ------------------ | -------------- | ------ | --- |
-|                    |       jm|o dN" | o      |     |
-110
-|     |   =  | 100% |     |
-| --- | ---- | ----- | --- |
-1500
-22
- 
-%
-3
-1
-|     |   = 7 | %   |     |
-| --- | ----- | --- | --- |
-3
-  = 7.33%
-| ctM pgnfO { | 7.33% gfkmf eof ] | .   |     |
-| ----------- | ----------------- | --- | --- |
+| | = ?= 1610 -  ?=1500 | = ?= 110 | |
+jf:tljs gfkmf
+| ca, gfkmf kl|tzt = | | x 100% | |
+| | jm|o dN" | o | |
+| | =  | 100% | |
+| | = 7 | % | |
+= 7.33%
+| ctM pgnfO { | 7.33% gfkmf eof ] | . | |
 130 xfdf| ]ul0ft, sIff *
-
 cEof; 16.1
-| 1. tnsf cfs“ | 8fx¿ ko| | fu]  u//]  gfkmf jf gfS] | ;fg kQf nufpm M |     |
-| ------------ | -------- | ------------------------ | --------------- | --- |
-| jm|o dN"     | o -?=_   | ljjm|o dN"               | o -?=_          |     |
-| -s_ 300      |          | 330                      |                 |     |
+| 1. tnsf cfs“ | 8fx¿ ko| | fu]  u//]  gfkmf jf gfS] | ;fg kQf nufpm M | |
+| jm|o dN" | o -?=_ | ljjm|o dN" | o -?=_ | |
+| -s_ 300 | | 330 | | |
 -v_ 5000
-4500
-| -u_ 7000 |     | 7700 |     |     |
-| -------- | --- | ---- | --- | --- |
+| -u_ 7000 | | 7700 | | |
 -3_ 10,000
-9,990
 2. kZ| g g= 1  sf cfs“ 8fx¿af6 gfkmf jf gfS] ;fg kl|tzt kQf nufpm .
 cdt[ fn ] Pp6f ;f8L ? 1350 df aR] bf ? 150 gfkmf eof ] eg ] pSt ;f8Lsf ] j|mo dN" o slt xfn] f <
-3.
 4. ?= 760 df lsgs] f ] Pp6f SofNsn' 6] / aR] bf ?= 50 gfS] ;fg eof ] eg ] pSt SofNsn' 6] /sf ] ljjm|o
-| dN" o slt /x5] | , kQf nufpm . |     |     |     |
-| -------------- | ------------- | --- | --- | --- |
+| dN" o slt /x5] | , kQf nufpm . | | | |
 5. ?= 1450 df lsgs] f ] Pp6f afvf|nfO { ?= 1740 df aR] bf slt kl|tzt gfkmf jf gfS] ;fg eof ] <
-| 6. ?= 15000 sf ] | ;fOsnaf6 10% gfkmf lng sltdf aR] |     |     | g ' knf { < |
-| ---------------- | -------------------------------- | --- | --- | ----------- |
+| 6. ?= 15000 sf ] | ;fOsnaf6 10% gfkmf lng sltdf aR] | | | g ' knf { < |
 7. ?= 13000 df lsgs] f ] uf?] nfO { ?= 14300 df aR] bf slt kl|tzt gfkmf jf gfS] ;fg xG' 5 <
 8. ?= 58,500 df lsgs] f ] Pp6f df6] /;fOsn aR] bf  8%  3f6f eof ] eg ] pSt df6] /;fOsnsf ] ljjm|o
-| dN" o kQf nufpm . |     |     |     |     |
-| ----------------- | --- | --- | --- | --- |
+| dN" o kQf nufpm . | | | | |
 9. /fh] Ln ] 100 cf6] f cG8f ? 900 df lslgg \ h;df 8 cf6] f cG8f km6' s] f /x5] g \ . afs“ L cG8fnfO{
 pgn ] kl|t uf6] f ? 10.50 df aR] bf slt kl|tzt gfkmf jf gfS] ;fg eof ] xfn] f <
 10. ke| n'  ] 500 cf6] f sv' /' f lsgs] fdf 75 cf6] f lr;fn]  ] d/ ] . afs“ L sv' /' f kl|t Pssf ] ?= 120 df
@@ -5763,942 +3013,606 @@ aR] bf p;n ] 2% gfkmf eof ] eg ] sv' /' fsf ] hDdf jm|o dN" o slt /x5]  <
 11. Ps hgf vfBfGg k;nn]  ] ?= 40 kl|t sh] Lsf ] 50 sh] L / ?= 50 kl|t sh] Lsf ] 50 sh] L rfdn
 ldnfP/ kl|t sh] L ?= 48 df aR] of ] eg ] p;nfO { slt kl|tzt gfkmf jf gfS] ;fg eof ] <
 Pp6f sDKo6' / ;6]  ?= 40,000 df lajm|L ubf { 25% gfkmf eof ] eg ] o;sf ] jm|o dN" o slt xfn] f <
-12.
 13. PGhnn ] bO' c{ f6] f lstfa kT| os] sf ] ?= 500 sf b/df lsGof ] . pSt lstfa lajm|L ubf { p;nfO{
 jm|dzM Pp6f lstfadf 25 % gfkmf / csf {] lstfadf 25 %  gfS] ;fg eof ] eg ] p;nfO { slt
-| kl|tzt gfkmf jf gfS] |     | ;fg eof ] | xfn] f < |     |
-| -------------------- | --- | --------- | -------- | --- |
+| kl|tzt gfkmf jf gfS] | | ;fg eof ] | xfn] f < | |
 xfdf| ]ul0ft, sIff * 131
-
-| 16.1 56'         |  ( Discount ) / dN" | o clejl[ | 4 s/ (Value Added Tax) |           |            |     |
-| ---------------- | ------------------- | -------- | ---------------------- | --------- | ---------- | --- |
-| 16.1.1 56'       |  (Discount)         |          |                        |   cfrfo { | k:' ts k;n |     |
-|                  |                     |          |                        | au/, kfv] | /f         |     |
-| lbOPsf ] lansf ] | cWoog u/L tnsf kZ|  | gsf]     |                        |           |            |     |
+| 16.1 56' |  ( Discount ) / dN" | o clejl[ | 4 s/ (Value Added Tax) | | | |
+| 16.1.1 56' |  (Discount) | | | cfrfo { | k:' ts k;n | |
+| | | | | au/, kfv] | /f | |
+| lbOPsf ] lansf ] | cWoog u/L tnsf kZ|  | gsf] | | | | |
 gfd M ljkgf e08f/L
-| pQ/ vfh] | L u/ M |     |     |     |     |     |
-| -------- | ------ | --- | --- | --- | --- | --- |
--s_ lstfasf ] cªl\st dN" o slt 5 < jm|=;=++ lstfasf ] gfd  dN" o -?_ kl/df0f   /sd-?=_
-|                          |                   |           | 1.    zAbsfz] |        350           1          350 |     |     |
-| ------------------------ | ----------------- | --------- | ------------- | ----------------------------------- | --- | --- |
-| -v_ 56'  slt kl|tzt /x5] |                   |  <        |               |                                     |     |     |
-| -u_ slt /sd 56'          |  kfOof ]          | <         |               |                                     |     |     |
-| -3_ ljkgfn ]             | pSt zAbsfz]       | nfO { slt |               |                                     |     |     |
-|     /sd ltl/g \          | <                 |           |               |                                     |     |     |
-|                          |                   |           |   56'         |  M 12% cfpg ]                       | /sd | 42  |
-|                          |                   |           | hDdf /sd -?_  |                                     |     | 308 |
-| dflysf kZ|               | gx¿sf pQ/x¿af/d]] | f         |               |                                     |     |     |
+| pQ/ vfh] | L u/ M | | | | | |
+-s_ lstfasf ] cªl\st dN" o slt 5 < jm|=;=++ lstfasf ] gfd  dN" o -?_ kl/df0f /sd-?=_
+| | | | 1. zAbsfz] | 350 1 350 | | |
+| -v_ 56'  slt kl|tzt /x5] | |  < | | | | |
+| -u_ slt /sd 56' |  kfOof ] | < | | | | |
+| -3_ ljkgfn ] | pSt zAbsfz] | nfO { slt | | | | |
+| /sd ltl/g \ | < | | | | | |
+| | | | 56' |  M 12% cfpg ] | /sd | 42  |
+| | | | hDdf /sd -?_  | | | 308 |
+| dflysf kZ| | gx¿sf pQ/x¿af/d]] | f | | | | |
 cIf?kL  ?= tLg ;o cf7 dfq .
-| ;dx" df 5nkmn u/L lgisif { |     | kQf nufpm . |     |     |     |     |
-| -------------------------- | --- | ----------- | --- | --- | --- | --- |
-  lajm|t] f
-Jofkf/Ln ] ;fdfgsf ] dN" o lgwf/{ 0f u/L uf|xsnfO { atfpg ] dN" onfO { cªl\st dN" o (marked price)
-elgG5 . sg'  } j:ts' f ] cªl\st dN" o df sx] L /sd sd u/L lajm|L ul/Psf ] 5 eg ] pSt sd ul/Psf]
+| ;dx" df 5nkmn u/L lgisif { | | kQf nufpm . | | | | |
+lajm|t] f
+Jofkf/Ln ] ;fdfgsf ] dN" o lgwf/{ 0f u/L uf|xsnfO { atfpg ] dN" onfO { cªl\st dN" o (marked price
+elgG5 . sg'  } j:ts' f ] cªl\st dN" o df sx] L /sd sd u/L lajm|L ul/Psf ] 5 eg ] pSt sd ul/Psf
 /sdnfO { 56'  (discount) elgG5 . 56'  cªl\st dN" osf ] ;fkI] fdf xG' 5 .
-| cyft{ , 56' |  /sd = cªl\st dN" | o (M.P.) sf ]     | 56' |  kl|tzt |     |     |
-| ----------- | ----------------- | ----------------- | --- | ------- | --- | --- |
-|             |  = M.P.           | × 56'  kl|tzt xG' | 5 . |         |     |     |
+| cyft{ , 56' |  /sd = cªl\st dN" | o (M.P.) sf ] | 56' |  kl|tzt | | |
+| |  = M.P. | × 56'  kl|tzt xG' | 5 . | | | |
 cªl\st dN" odf sx] L 56'  u//]  ;fdfg lslgG5 eg ] 56' kl5sf ] dN" onfO { jf:tljs dN" o elgG5 .
-| jf:tljs dN" | o = M.P. - 56' |  /sd xG' 5 . |     |     |     |     |
-| ----------- | -------------- | ------------ | --- | --- | --- | --- |
+| jf:tljs dN" | o = M.P. - 56' |  /sd xG' 5 . | | | | |
 pbfx/0f 1
-Pp6f emfn] fsf ] cªl\ st dN" o ?= 750 5 . olb pSt emfn] f lsGbf 8% 56'  kfOG5 eg ] emfn] fsf]
-| jf:tljs dN" | o slt xfn] | f, kQf nufpm . |     |     |     |     |
-| ----------- | ---------- | -------------- | --- | --- | --- | --- |
+Pp6f emfn] fsf ] cªl\ st dN" o ?= 750 5 . olb pSt emfn] f lsGbf 8% 56'  kfOG5 eg ] emfn] fsf
+| jf:tljs dN" | o slt xfn] | f, kQf nufpm . | | | | |
 ;dfwfg
-| oxf “ cªl\st dN" | o (M.P.) = ?= 750 |     |     |     |     |     |
-| ---------------- | ----------------- | --- | --- | --- | --- | --- |
+| oxf “ cªl\st dN" | o (M.P.) = ?= 750 | | | | | |
 56'  kl|tzt = 8%
-|     | ca, 56'  /sd = M.P. sf ] | 8%  |     |     |     |     |
-| --- | ------------------------ | --- | --- | --- | --- | --- |
+| | ca, 56'  /sd = M.P. sf ] | 8%  | | | | |
 = ?= 750 sf] 8
-| 132 |     |     |     |     | xfdf| ]ul0ft, sIff * |     |
-| --- | --- | --- | --- | --- | -------------------- | --- |
-
+| 132 | | | | | xfdf| ]ul0ft, sIff * | |
 7508
-|     |     | = ?= 60 |     |     |     |     |     |     |
-| ---- | --- | ------- | --- | --- | --- | --- | --- | --- |
-100
-| To; sf/0f,  ljjm|o dN" |     | o   | = cªl\st dN" | o — 56' |     |     |     |     |
-| ---------------------- | --- | --- | ------------ | ------- | --- | --- | --- | --- |
+|  | | = ?= 60 | | | | | | |
+| To; sf/0f,  ljjm|o dN" | | o | = cªl\st dN" | o — 56' | | | | |
 = ?= 750 - 60
 = ?= 690
-| 16.1.2 dN"           | o clejl[        | 4 s/ (Value Added Tax) |     |               |         |           |       |     |
-| -------------------- | --------------- | ---------------------- | --- | ------------- | ------- | --------- | ----- | --- |
-| lbOPsf ] lansf ]     | cWoog u/L / s ] |                        |     | s ] kfp5“ f,} |         |           |       |     |
-| ;fyLx¿lar 5nkmn u/ . |                 |                        |     |               |     tn' | ;L lahn'  | L k;n |     |
-| oxf“,                |                 |                        |     |               |         | hgsk'/wfd |       |     |
-gfd M sNkgf /fo ofbj
-| lx6/sf ] cªl\st dN" |        | o ?= 1700 5 . |     |                    |                                                  |          |                          |     |
-| ------------------- | ------ | ------------- | --- | ------------------ | ------------------------------------------------ | -------- | ------------------------ | --- |
-|                     |        |               |     | jm|=;=++ ;fdfgsf ] |                                                  | gfd  dN" | o -?=_  kl/df0f /sd -?=_ |     |
-| d"=c=s              | =  13% |               |     |                    |                                                  |          |                          |     |
-|                     |        |               |     | 1.                 |    lx6/           1700           1          1700 |          |                          |     |
+| 16.1.2 dN" | o clejl[ | 4 s/ (Value Added Tax) | | | | | | |
+| lbOPsf ] lansf ] | cWoog u/L / s ] | | | s ] kfp5“ f,} | | | | |
+| ;fyLx¿lar 5nkmn u/ . | | | | | tn' | ;L lahn'  | L k;n | |
+| oxf“, | | | | | | hgsk'/wfd | | |
+gfd M sNkgf /of ofbj
+| lx6/sf ] cªl\st dN" | | o ?= 1700 5 . | | | | | | |
+| | | | | jm|=;=++ ;fdfgsf ] | | gfd  dN" | o -?=_  kl/df0f /sd -?=_ | |
+| d"=c=s | =  13% | | | | | | | |
+| | | | | 1. | lx6/ 1700 1 1700 | | | |
 ltgk{' g {] /sd  = ?= 1921
-| d"=c=s= |  = ?= 1921 - ?= 1700 |     |     |     |     |     |     |     |
-| ------- | -------------------- | --- | --- | --- | --- | --- | --- | --- |
-   = ?= 221
-|                       |     | 221 |           |  d=' | c=s=  13% n ] | cfpg ] | /sd | 221 |
-| --------------------- | --- | --- | --------- | ---- | ------------- | ------ | --- | --- |
-| a9s] f ] /sd kl|tzt  |     |     | 100%13% |      |               |        |     |     |
-1700
-|     |     |     |     | hDdf /sd -?=_ |     |     |     | ?= 1921 |
-| --- | --- | --- | --- | ------------- | --- | --- | --- | ------- |
-cIf?kL PPPPPMsssss==     ==xxxxx=hhhhh==fffff/////=     ==ggggg=fffff=}}}  }}   ==;;;;;=ooooo=  =   =PPPPP=SSSSS=ss=sss=fffff=OOOOO=;;;;;==     =ddddd==fffffqqqqq     .....
+| d"=c=s= |  = ?= 1921 - ?= 1700 | | | | | | | |
+= ?= 221
+| | | 221 | |  d=' | c=s=  13% n ] | cfpg ] | /sd | 221 |
+| a9s] f ] /sd kl|tzt  | | | 100%13% | | | | | |
+| | | | | hDdf /sd -?=_ | | | | ?= 1921 |
+cIf?kL PPPPPMsssss== ==xxxxx=hhhhh==fffff/////= ==ggggg=fffff=}}}  }} ==;;;;;=ooooo=  = =PPPPP=SSSSS=ss=sss=fffff=OOOOO=;;;;;== =ddddd==fffffqqqqq .....
 ljjm]|tf
-j:t ' tyf ;j] f lajm|L ubf { kT| os]  r/0fdf jl[4 xg'  ] dN" odf nfUg ] s/nfO { dN" o clejl[ 4 s/ (VAT)
+j:t ' tyf ;j] f lajm|L ubf { kT| os]  r/0fdf jl[4 xg'  ] dN" odf nfUg ] s/nfO { dN" o clejl[ 4 s/ (VAT
 elgG5 . cfkmn"  ] lsgs] f ] j:td' f 9j' fgL, ladf, sld;g cflb hf8] /]  ;j] f zN' s / 56'  36fP/ dN" o
 clejl[4 s/ (VAT) nfUg ] dN" o sfod ul/G5 . ;fy } 56'  lbPsf ] j:td' f 56'  36fP/ cfPsf ] dN" odf dN" o
 clejl[ 4 s/ (VAT) nfUg ] ub5{  . dN" o clejl[4 s/ j:ts' f ] ljjm|o dN" odf hfl]8G5 . dN" o clejl[4
-| s/ hf8] k] l5sf ] | dN" | onfO { jf:tljs dN" |           | o elgG5 .             |     |     |                 |     |
-| ----------------- | --- | ------------------ | --------- | --------------------- | --- | --- | --------------- | --- |
-|    VAT /sd        |     |                    |           |                       |     |     |                 |     |
-|                   |     |                    |           | VAT /sd = jf:tljs dN" |     |     | o  - ljjm|o dN" | o   |
-| VAT% =            |     | X 100              |           |                       |     |     |                 |     |
+| s/ hf8] k] l5sf ] | dN" | onfO { jf:tljs dN" | | o elgG5 . | | | | |
+| VAT /sd | | | | | | | | |
+| | | | | VAT /sd = jf:tljs dN" | | | o  - ljjm|o dN" | o |
+| VAT% = | | X 100 | | | | | | |
 ljjm|o dN" o
 pbfx/0f 2
-?= 1500 ahf/ dN" o ePsf ] Pp6f /l]8of ] ;6]  lsGbf 10% 56'  kfOG5 / 13%  dN" o clejl[4 s/ (VAT)
-| ltgk{' 5 { eg ] | pSt /l] | 8of ] ;6] | nfO { slt ?lkof “ |     | ltgk{' nf { < |     |     |     |
-| --------------- | ------- | --------- | ----------------- | --- | ------------- | --- | --- | --- |
+?= 1500 ahf/ dN" o ePsf ] Pp6f /l]8of ] ;6]  lsGbf 10% 56'  kfOG5 / 13%  dN" o clejl[4 s/ (VAT
+| ltgk{' 5 { eg ] | pSt /l] | 8of ] ;6] | nfO { slt ?lkof “ | | ltgk{' nf { < | | | |
 xfdf| ]ul0ft, sIff * 133
-
 ;dfwfg
-| oxf,“ cªl\st dN" | o (M.P) = ?= 1500 |     |     |     |
-| ---------------- | ----------------- | --- | --- | --- |
+| oxf,“ cªl\st dN" | o (M.P) = ?= 1500 | | | |
 56'  = 10%
 150010
-|    56'  /sd | = ?= 1500 sf ] | 10%  |     | = ?= 150 |
-| ----------- | -------------- | ----- | --- | -------- |
-100
-|   To; sf/0f, 56' | kl5sf ] /sd  = ?= 1500 - ?= 150  = ?= 1350 |     |     |     |
-| ---------------- | ------------------------------------------ | --- | --- | --- |
+| 56'  /sd | = ?= 1500 sf ] | 10%  | | = ?= 150 |
+| To; sf/0f, 56' | kl5sf ] /sd  = ?= 1500 - ?= 150  = ?= 1350 | | | |
 VAT = 13%
-| ca, VAT /sd | = ?=1350 sf ] | 13% |     |     |
-| ----------- | ------------- | --- | --- | --- |
+| ca, VAT /sd | = ?=1350 sf ] | 13% | | |
 135013
-|     |    | = ?= 175.50 |     |     |
-| --- | --- | ----------- | --- | --- |
-100
-| ca /l]8ofs] f ]       | ljjm|o dN" o = ?= 1350 ± ?= 175.50 = ?= 1525.50 |     |     |       |
-| --------------------- | ----------------------------------------------- | --- | --- | ----- |
-| To;sf/0f pSt /l]8of ] | ;6]  lsGg ?= 1525.50    ltgk'{                  |     |     | 5 { . |
+| |  | = ?= 175.50 | | |
+| ca /l]8ofs] f ] | ljjm|o dN" o = ?= 1350 ± ?= 175.50 = ?= 1525.50 | | | |
+| To;sf/0f pSt /l]8of ] | ;6]  lsGg ?= 1525.50 ltgk'{ | | | 5 { . |
 gf6]  M 56'nfO {cªl\st dN"o  (M.P) af6 36fOG5 eg,] VAT nfO { ljjm|o dN" o (S.P.) df hfl]8G5 .
 cEof; 16.2
 1. ?= 210 cªl\st dN" o ePsf ] lstfadf 12% 56'  5 eg ] ;f ] lstfanfO { slt ltgk{' nf { <
-2. Pp6f Hofs6] sf ] cªl\st dN" o ?= 2250 5 . olb k;nn]  ] pSt Hofs6] df 8% 56' df lajm|L u5 { eg]
-| pSt Hofs6]    |  lsGgsf nflu slt ?lkof “ |               | ltgk{' | nf { < |
-| ------------- | ------------------------ | ------------- | ------ | ------ |
-| 3. tnsf j:tx' | ¿sf ] jf:tljs dN"        | o kQf nufpm M |        |        |
-| j:t'          | cªl\st dN"               | o (MP)        | 5'6    |        |
-| b/fh          | ?= 9950                  |               |        |        |
+2. Pp6f Hofs6] sf ] cªl\st dN" o ?= 2250 5 . olb k;nn]  ] pSt Hofs6] df 8% 56' df lajm|L u5 { eg
+| pSt Hofs6] |  lsGgsf nflu slt ?lkof “ | | ltgk{' | nf { < |
+| 3. tnsf j:tx' | ¿sf ] jf:tljs dN" | o kQf nufpm M | | |
+| j:t' | cªl\st dN" | o (MP) | 5'6 | |
+| b/fh | ?= 9950 | | | |
 12%
-| sDKo'6/ | ?= 25,500 |     |     |     |
-| ------- | --------- | --- | --- | --- |
+| sDKo'6/ | ?= 25,500 | | | |
 8%
-| 38L        | ?= 1250 |     | 5%  |     |
-| ---------- | ------- | --- | --- | --- |
-| SofNs'n]6/ | ?= 1500 |     | 7%  |     |
+| 38L | ?= 1250 | | 5%  | |
+| SofNs'n]6/ | ?= 1500 | | 7%  | |
 4. olb 10% 56' df lsGbf Pp6f /ªl\ug l6eL ;6] nfO { ?= 13950 k¥of ] eg ] ;f ] TV ;6] sf ] cªl\st
-| dN" o slt xfn] | f, kQf nufpm . |     |     |     |
-| -------------- | -------------- | --- | --- | --- |
-Pp6f cfO/gsf ] cªl\st dN" o ?= 500 5 . k;nn]  ] pSt cfO/gnfO { ?= 460 df  lajm|L ubf { p;n]
-5.
-| slt kl|tzt 56' |  lbof,] kQf nufpm . |     |     |     |
-| -------------- | ------------------- | --- | --- | --- |
+| dN" o slt xfn] | f, kQf nufpm . | | | |
+Pp6f cfO/gsf ] cªl\st dN" o ?= 500 5 . k;nn]  ] pSt cfO/gnfO { ?= 460 df  lajm|L ubf { p;n
+| slt kl|tzt 56' |  lbof,] kQf nufpm . | | | |
 134 xfdf| ]ul0ft, sIff *
-
-| 6. tnsf j:tx' |      | ¿sf ] | cªl\st dN" | o kQf nufpm M |                        |                      |     |     |     |
-| ------------- | ---- | ----- | ---------- | ------------- | ---------------------- | -------------------- | --- | --- | --- |
-|               | j:t' |       | 5'6        |    56'        | kl5sf ]                | dN" o jf jf:tljs dN" |     | o   |     |
-| -s_           | :ofp |       |            |               | ?= 116.40 kl|t ls=uf|= |                      |     |     |     |
+| 6. tnsf j:tx' | | ¿sf ] | cªl\st dN" | o kQf nufpm M | | | | | |
+| | j:t' | | 5'6 | 56' | kl5sf ] | dN" o jf jf:tljs dN" | | o | |
+| -s_ | :ofp | | | | ?= 116.40 kl|t ls=uf|= | | | | |
 3%
-| -v_ | cfn' |     |     |     | ?= 144 kl|t wfgL{ |     |     |     |     |
-| --- | ---- | --- | --- | --- | ----------------- | --- | --- | --- | --- |
+| -v_ | cfn' | | | | ?= 144 kl|t wfgL{ | | | | |
 4%
-| -u_           | bfn     |       | 7%         |                 | ?= 186 kl|t 2kg   |         |       |     |     |
-| ------------- | ------- | ----- | ---------- | --------------- | ----------------- | ------- | ----- | --- | --- |
-| -3_           | Rofp    |       | 9%         |                 | ?= 409.50 kl|t kg |         |       |     |     |
-| 7. tnsf j:tx' |         | ¿sf ] | 56'  kl|   | tzt kQf nufpm M |                   |         |       |     |     |
-| j:t'          |         |       | cªl\st dN" |                 | o 56'             | kl5sf ] | dN" o |     |     |
-| -s_           | df]afOn |       | ?= 7,000   |                 | ?= 6440           |         |       |     |     |
-| -v_           | /]l8of] |       | ?= 1160    |                 | ?= 1044           |         |       |     |     |
-| -u_           | l6=eL=  |       | ?= 6400    |                 | ?= 6080           |         |       |     |     |
-| -3_           | lx6/    |       | ?= 5950    |                 | ?= 5355           |         |       |     |     |
+| -u_ | bfn | | 7% | | ?= 186 kl|t 2kg | | | | |
+| -3_ | Rofp | | 9% | | ?= 409.50 kl|t kg | | | | |
+| 7. tnsf j:tx' | | ¿sf ] | 56'  kl| | tzt kQf nufpm M | | | | | |
+| j:t' | | | cªl\st dN" | | o 56' | kl5sf ] | dN" o | | |
+| -s_ | df]afOn | | ?= 7,000 | | ?= 6440 | | | | |
+| -v_ | /]l8of] | | ?= 1160 | | ?= 1044 | | | | |
+| -u_ | l6=eL=  | | ?= 6400 | | ?= 6080 | | | | |
+| -3_ | lx6/ | | ?= 5950 | | ?= 5355 | | | | |
 8. 14% 56' df lsGbf Pp6f l:j6/nfO { ?= 1075 k¥of ] eg ] ;f] l:j6/sf ] cªl\st dN" o slt xfn] f <
 9. Pp6f 6rn{ fO6sf ] jm|o dN" o ?= 1400 5 . To; 6rs{ f ] cªl\st dN" o jm|o dN" osf ] 40% n ] a9L
-| 5 . olb k;nn] |     |  ] pSt 6rn{    |                | fO { 20% 56'             | df aR]       | of ] | eg,]          |     |     |
-| ------------- | --- | -------------- | -------------- | ------------------------ | ------------ | ---- | ------------- | --- | --- |
-| -s_ pSt 6rs{  |     | f ]            | cªl\st dN"     | o slt xfn]               | f <          |      |               |     |     |
-| -v_ jm]|tfn ] |     | slt ?lkof “    | 56'            |  kfof ]                  | <            |      |               |     |     |
-| -u_ jm]|tfn ] |     | slt ?lkofd“    | f pSt 6r {     |                          | lsGof ]      | <    |               |     |     |
-| -3_ k;nn]     |     |  ] pSt 6ra{    | f6 slt ?lkof “ |                          | gfkmf u¥of ] |      | < kQf nufpm . |     |     |
-| tnsf j:tx'    |     | ¿ lsGbf ltgk{' |                | g {] lan /sd kQf nufpm M |              |      |               |     |     |
-10.
-|     | j:t'       |           |     | cªl\st dN" |     | o   | 5'6 |     | d"=c=s= |
-| --- | ---------- | --------- | --- | ---------- | --- | --- | --- | --- | ------- |
-| -s_ | ljBt'      | Lo hu     |     | ?= 980     |     |     |     |     |         |
-|     |            |           |     |            |     |     | 5%  |     | 13%     |
-| -v_ | l6=eL= ;6] |           |     | ?= 22,500  |     |     |     |     |         |
-|     |            |           |     |            |     |     | 11% |     | 13%     |
-| -u_ | dfa]       | fOn kmfg] |     | ?= 6,800   |     |     | 14% |     | 13%     |
-| -3_ | sDKo'6/    |           |     | ?= 10,500  |     |     | 13% |     | 13%     |
+| 5 . olb k;nn] | |  ] pSt 6rn{ | | fO { 20% 56' | df aR] | of ] | eg,] | | |
+| -s_ pSt 6rs{  | | f ] | cªl\st dN" | o slt xfn] | f < | | | | |
+| -v_ jm]|tfn ] | | slt ?lkof “ | 56' |  kfof ] | < | | | | |
+| -u_ jm]|tfn ] | | slt ?lkofd“ | f pSt 6r { | | lsGof ] | < | | | |
+| -3_ k;nn] | |  ] pSt 6ra{ | f6 slt ?lkof “ | | gfkmf u¥of ] | | < kQf nufpm . | | |
+| tnsf j:tx' | | ¿ lsGbf ltgk{' | | g {] lan /sd kQf nufpm M | | | | | |
+| | j:t' | | | cªl\st dN" | | o | 5'6 | | d"=c=s= |
+| -s_ | ljBt' | Lo hu | | ?= 980 | | | | | |
+| | | | | | | | 5%  | | 13% |
+| -v_ | l6=eL= ;6] | | | ?= 22,500  | | | | | |
+| | | | | | | | 11% | | 13% |
+| -u_ | dfa] | fOn kmfg] | | ?= 6,800 | | | 14% | | 13% |
+| -3_ | sDKo'6/ | | | ?= 10,500  | | | 13% | | 13% |
 11. ?= 1600 sf ] ljBt' sf ] landf 3% 56'  lnO {13% d=" c=s= hf8] b\ f hDdf slt ltgk{' nf { <
 kl|t JolSt 200 sf ] 6 hgfsf ] hDdf landf 8% 56' kl5 13% VAT hf8] b\ f slt /sd ltgk{' 5 { <
-12.
 13. ?= 4500 cªl\st dN" o ePsf ] ;fOsnnfO { 13% 56' kl5 13% d="c=s= ltbf { slt ?lkof “ knf { <
 xfdf| ]ul0ft, sIff * 135
-
 kf7
-|     |     | Pl] | ss lgod |     |     |     |     |
-| --- | --- | --- | ------- | --- | --- | --- | --- |
-17
-(Unitary Method)
-| 17.0. kg'         | /jnfs] | g (Review)        |     |             |                |     |     |
-| ----------------- | ------ | ----------------- | --- | ----------- | -------------- | --- | --- |
-| tnsf ] tflnsf x/] |        | f “} / lbOPsf kZ| |     | gx¿sf af/d] | f 5nkmn u/f “} | M   |     |
+| | | Pl] | ss lgod | | | | |
+Unitary Method
+| 17.0. kg' | /jnfs] | g (Review) | | | | | |
+| tnsf ] tflnsf x/] | | f “} / lbOPsf kZ| | | gx¿sf af/d] | f 5nkmn u/f “} | M | |
 tflnsf 1
-| l6s6 ;ªV\ | of     |     |     |     |      |     |     |
-| --------- | ------ | --- | --- | --- | ---- | --- | --- |
-|           |        | 12  | 8   | 4   | 6 1  |     |     |
-| hDdf dN"  | o -?=_ | 60  | 40  | 20  | 30 ? |     |     |
+| l6s6 ;ªV\ | of | | | | | | |
+| hDdf dN"  | o -?=_ | 60  | 40  | 20  | 30 ? | | |
 k|Zgx¿
-| -s_ 12 cf6]   | f l6s6sf ] | dN"            | o slt ?lkof “ | 5 <        |         |     |     |
-| ------------- | ---------- | -------------- | ------------- | ---------- | ------- | --- | --- |
-| -v_ 6 cf6]    | f l6s6sf ] | dN" o slt 5 <  |               |            |         |     |     |
-| -u_ 1 cf6]    | f l6s6sf ] | dN" o slt xfn] |               | f <        |         |     |     |
-| -3_ l6s6 ;ªV\ | of / dN"   | olar s:tf ]    |               | ;DaGw /xs] | f ] 5 < |     |     |
+| -s_ 12 cf6] | f l6s6sf ] | dN" | o slt ?lkof “ | 5 < | | | |
+| -v_ 6 cf6] | f l6s6sf ] | dN" o slt 5 <  | | | | | |
+| -u_ 1 cf6] | f l6s6sf ] | dN" o slt xfn] | | f < | | | |
+| -3_ l6s6 ;ªV\ | of / dN" | olar s:tf ] | | ;DaGw /xs] | f ] 5 < | | |
 tflnsf 2
-| sfd k/'          | f ug { nfUg ] | lbg |     | 2   | 4 6 | 8   | 1   |
-| ---------------- | ------------- | --- | --- | --- | --- | --- | --- |
-| hDdf sfdbf/ ;ªV\ |               | of  |     | 12  | 6 4 | 3   | ?   |
+| sfd k/' | f ug { nfUg ] | lbg | | 2 | 4 6 | 8 | 1 |
+| hDdf sfdbf/ ;ªV\ | | of  | | 12  | 6 4 | 3 | ? |
 k|Zgx¿
-| -s_ 2 hgfnfO { | sfd k/" | f ug {          | slt lbg nfUnf < |     |     |     |     |
-| -------------- | ------- | --------------- | --------------- | --- | --- | --- | --- |
-| -v_ 6 hgfnfO { | sfd k/" | f ug {          | slt lbg nfUnf < |     |     |     |     |
-| -u_ 1 hgfnfO { |         | slt lbg nfUnf < |                 |     |     |     |     |
+| -s_ 2 hgfnfO { | sfd k/" | f ug { | slt lbg nfUnf < | | | | |
+| -v_ 6 hgfnfO { | sfd k/" | f ug { | slt lbg nfUnf < | | | | |
+| -u_ 1 hgfnfO { | | slt lbg nfUnf < | | | | | |
 -3_ sfdbf/ ;ªV\ of / sfd k/" f ug { nfUg ] lbglar s:tf ] ;DaGw /xs] f ] 5 <
-|     | kT| oIf / ckT| | oIf ljr/0f (Direct and Indirect Variation) |     |     |     |     |     |
-| --- | -------------- | ------------------------------------------ | --- | --- | --- | --- | --- |
-17.1
+| | kT| oIf / ckT| | oIf ljr/0f (Direct and Indirect Variation) | | | | | |
 dflysf ] tflnsf 1 af6 l6s6sf ] ;ªV\ of 36b\  } hfb“ f hDdf dN" o klg 36b\  } uPsf ] / l6s6 ;ªV\ of a9b\ f
 hDdf dN" o klg a9s] f ] yfxf kfpg ;lsG5 . To;nfO { kT| oIf ljr/0f ePsf ] dflgG5 .
 bO' c{ f6] f r/x¿dWo ] Pp6f r/df ePsf ] sdL jf jl[4n ] csf {] r/df klg ToxL cgk' ftdf sdL jf jl[4
 bl]vG5 eg ] tL r/x¿larsf ] ;DaGwnfO { kT| oIf ljr/0f (direct variation) elgG5 .
-| 136 |     |     |     |     |     |     | xfdf| ]ul0ft, sIff * |
-| --- | --- | --- | --- | --- | --- | --- | -------------------- |
-
+| 136 | | | | | | | xfdf| ]ul0ft, sIff * |
 To:t,} tflnsf g= 2 df sfd ug {] lbg a9fpb“  } hfb“ f hDdf sfdbf/ ;ªV\ of 36b\  } uPsf ] kfOG5 . t;y{
 sfd ug {] lbg / sfdbf/larsf ] ;DaGw ljk/Lt xG' 5 . To;n}  ] sfd ug {] lbg / sfdbf/larsf ] ;DaGw
-| ckT| oIf ljr/0f ePsf ] |     | dflgG5 . |     |     |     |     |     |
-| ---------------------- | --- | -------- | --- | --- | --- | --- | --- |
+| ckT| oIf ljr/0f ePsf ] | | dflgG5 . | | | | | |
 bO' c{ f6] f r/x¿dWo ] Pp6f r/df sdL jf jl[4 xb“' f csf {] r/df ToxL cgk' ftdf jl[4 jf sdL cfp5“
 eg ] tL r/x¿larsf ] ;DaGwnfO { ckT| oIf ljr/0f (Indirect Variation) elgG5 .
 sg'  } Ps PsfO j:ts' f ] dfg kQf nufP/ w/]  } jf yf/]  } j:ts' f ] dfg kQf nufpg ] ul0ftLo ljlwnfO{
 Pl]ss lgod elgG5 .
 pbfx/0f 1
-| 10 kg :ofpsf ] | dN" | o ?= 750 k5 { | eg ]  :ofpsf ] | dN" | o slt knf { | <   |     |
-| -------------- | --- | ------------- | -------------- | --- | ----------- | --- | --- |
+| 10 kg :ofpsf ] | dN" | o ?= 750 k5 { | eg ]  :ofpsf ] | dN" | o slt knf { | < | |
 6kg
 ;dfwfg
-| :ofpsf ] kl/df0f / :ofpsf ] |     |                      | dN" odf xb] f,{ |     |     |     |     |
-| --------------------------- | --- | -------------------- | --------------- | --- | --- | --- | --- |
-| a9L :ofp eP a9L dN"         |     | o, sd :ofp eP sd dN" |                 | o   |     |     |     |
-|  :ofpsf ]                   | dN" | o ?=  750 k5 {       | .               |     |     |     |     |
+| :ofpsf ] kl/df0f / :ofpsf ] | | | dN" odf xb] f,{ | | | | |
+| a9L :ofp eP a9L dN" | | o, sd :ofp eP sd dN" | | o | | | |
+|  :ofpsf ] | dN" | o ?=  750 k5 { | . | | | | |
 10 kg
-750
- (
-1 kg :ofpsf ] dN" o ?=   k5 { . kT| oIf ljr/0f ePsfn ] kl/df0f 36b\ f dN" o klg 365\  .
-10
 
-|     |     |     |    To; sf/0f 750 nfO { |     | 10 n ] | efu ug {] | ._  |
-| --- | --- | --- | ---------------------- | --- | ------ | --------- | --- |
+1 kg :ofpsf ] dN" o ?= k5 { . kT| oIf ljr/0f ePsfn ] kl/df0f 36b\ f dN" o klg 365\  .
+| | | | To; sf/0f 750 nfO { | | 10 n ] | efu ug {] | ._  |
 = ?= 75
-| 6 kg |  :ofpsf ] | dN" o ?= 75 × 6 |     |     |     |     |     |
-| ---- | --------- | --------------- | --- | --- | --- | --- | --- |
+| 6 kg |  :ofpsf ] | dN" o ?= 75 × 6 | | | | | |
 = ?= 450 k5{ (  kT| oIf ljr/0fdf kl/df0f a9b\ f dN" o klg a95\  .
-|       |                  |     | To; sf/0f 75 nfO { |     | 6 n ] | u0' ff ug {] ._ |     |
-| ----- | ---------------- | --- | ------------------ | --- | ----- | --------------- | --- |
-| To;n} | ,] 6 kg :ofpsf ] | dN" | o ?=   k5 {        | .   |       |                 |     |
-450
+| | | | To; sf/0f 75 nfO { | | 6 n ] | u0' ff ug {] ._ | |
+| To;n} | ,] 6 kg :ofpsf ] | dN" | o ?= k5 { | . | | | |
 pbfx/0f 2
- lbgdf sg'  } sfd k/" f ug {  hgf sfdbf/ rflxG5 . ToxL sfd 15  lbgdf k/" f ug { slt hgf yk
-| 18         |                |     | 10  |     |     |     |     |
-| ---------- | -------------- | --- | --- | --- | --- | --- | --- |
-| sfdbf/sf ] | cfjZostf knf { |     | <   |     |     |     |     |
+lbgdf sg'  } sfd k/" f ug {  hgf sfdbf/ rflxG5 . ToxL sfd 15  lbgdf k/" f ug { slt hgf yk
+| sfdbf/sf ] | cfjZostf knf { | | < | | | | |
 ;dfwfg
-| oxf,“ sfd ug {] | lbg / sfdbf/ ;ªV\ |     | of xb] f,{ |     |     |     |     |
-| --------------- | ----------------- | --- | ---------- | --- | --- | --- | --- |
+| oxf,“ sfd ug {] | lbg / sfdbf/ ;ªV\ | | of xb] f,{ | | | | |
 sd lbg eP a9L sfdbf/ rflxG5 .
 a9L lbg eP sd sfdbf/ rflxG5 .
 xfdf| ]ul0ft, sIff * 137
-
 138 xfdf| ]ul0ft, sIff *
-
 xfdf| ]ul0ft, sIff * 139
-
-cEof;     17.1
+cEof; 17.1
 1. 12 cf6] f sIffsf7] f ePsf ] ljBfnodf hDdf 300 hgf ljBfyL { Ifdtf lyof ] . olb 375 hgf
-| ljBfyL { | egf { eP eg ] yk sltcf6] | f sIffsf7] | f rflxPnf < |     |     |
-| -------- | ------------------------ | ---------- | ----------- | --- | --- |
- bhg{
+| ljBfyL { | egf { eP eg ] yk sltcf6] | f sIffsf7] | f rflxPnf < | | |
+bhg{
 2. olb 4  sndsf ] dN" o ?= 576 k5 { eg ] ?= 228 df slt cf6] f snd kfOPnf <
 3. Ps hgf wfjsn ] 45 ldg6] df 18 km bf8}  k/' f ug { ;S5 eg ] 30 km b/' L kf/ ug { slt ;do
 nfUnf < kQf nufpm .
-4. Pp6f dfnafxs 6s«  48 km kl|t 306fn ] u8' b\ f sg'  } b/' L 6  306fdf k/" f ub5{  . olb pSt 6s« sf]
+4. Pp6f dfnafxs 6s«  48 km kl|t 306fn ] u8' b\ f sg'  } b/' L 6  306fdf k/" f ub5{  . olb pSt 6s« sf
 ult 36/]  36 km kl|t 306f eof ] eg ] pSt b/' L slt 306fdf kf/ unf { <
 5. sg'  } Pp6f sfd k/" f ug { 20  hgf sfdbf/nfO { 15  lbg nfU5 . pSt sfd 12  lbgdf l;Wofpg
-| slt hgf sfdbf/ yKgk' | nf { | <   |     |     |     |
-| -------------------- | ---- | --- | --- | --- | --- |
- xb“'
+| slt hgf sfdbf/ yKgk' | nf { | < | | | |
+xb“'
 6. Ps lsnf ] lk7fs] f ] dN" o ?= 28 f Pp6f /f6] Lsf ] tfn}  496 uf|d lyof ] . olb lk7fs] f ] dN" o ?= 32
 kl|t s=] hL= xb“' f /f6] Lsf ] tfn}  slt xfn] f < -dfgf,“} /f6] Lsf ] dN" o oyfjt \ /xG5 ._
-|                   |  hgfnfO { |  lbg nfU5 . olb sfdbf/ yk/] |     |  hgf agfOof ] |              |
-| ----------------- | --------- | --------------------------- | --- | ------------- | ------------ |
-| 7. sg'  } sfd k/" | f ug { 12 | 14                          |     |  21           | eg ] pSt sfd |
+| |  hgfnfO { |  lbg nfU5 . olb sfdbf/ yk/] | |  hgf agfOof ] | |
+| 7. sg'  } sfd k/" | f ug { 12 | 14 | |  21 | eg ] pSt sfd |
 slt lbgdf ;lsPnf <
 sg'  } Pp6f Jof/s] df 200 hgf l;kfxLnfO { 30 lbg kU' g ] /f;g 5 . pSt /f;g 40 lbgnfO{
-8.
-| k¥' ofpg slt hgf l;kfxLnfO { |     | cGoq ;fgk{' | nf { < |     |     |
-| ---------------------------- | --- | ----------- | ------ | --- | --- |
+| k¥' ofpg slt hgf l;kfxLnfO { | | cGoq ;fgk{' | nf { < | | |
 Pp6f df6] /;fOsn 50 km kl|t 306fsf b/n ] u8' b\ f sg'  } b/' L kf/ ug {  306f nfU5 . olb
-| 9.  |     |     |     | 7   |     |
-| --- | --- | --- | --- | --- | --- |
- 306fdf pSt b/'
+306fdf pSt b/'
 p;nfO { 5 L kf/ ugk{' ¥of ] eg ] pSt df6] /;fOsnsf ] ult sltn ] a9fpg'
-| knf { < |     |     |     |     |     |
-| ------- | --- | --- | --- | --- | --- |
- cf6] f s;' L { / 4  cf6] f 6a] nsf ] hDdf dN" o ?= 7,540 k5 { . olb Pp6f s;' Ls{ f ] dN" o ?= 220
-10. 3
-| k5 { eg ] | Pp6f 6a] nsf ] dN" | o kQf nufpm . |     |     |     |
-| --------- | ------------------ | ------------- | --- | --- | --- |
- cf6] f ufO { / 2  cf6] f uf?] sf ] hDdf dN" o ?= 1,35,000 5 . olb Pp6f uf?] sf ] dN" o ?= 17,500
-11. 5
-| eP Pp6f ufOs{ | f ] dN" o slt xfn] | f < |     |     |                      |
-| ------------- | ------------------ | --- | --- | --- | -------------------- |
-| 140           |                    |     |     |     | xfdf| ]ul0ft, sIff * |
-
+| knf { < | | | | | |
+cf6] f s;' L { / 4  cf6] f 6a] nsf ] hDdf dN" o ?= 7,540 k5 { . olb Pp6f s;' Ls{ f ] dN" o ?= 220
+| k5 { eg ] | Pp6f 6a] nsf ] dN" | o kQf nufpm . | | | |
+cf6] f ufO { / 2  cf6] f uf?] sf ] hDdf dN" o ?= 1,35,000 5 . olb Pp6f uf?] sf ] dN" o ?= 17,500
+| eP Pp6f ufOs{ | f ] dN" o slt xfn] | f < | | | |
+| 140 | | | | | xfdf| ]ul0ft, sIff * |
 kf7
 ;fwf/0f Aofh
-18
-(Simple Interest)
-18.0     kg'
-| /jnfs]        | g (Review)           |                  |     |
-| ------------- | -------------------- | ---------------- | --- |
+Simple Interest
+18.0 kg'
+| /jnfs] | g (Review) | | |
 | tnsf jfSosf ] | cWoog u/L lbOPsf kZ| | gx¿sf ] pQ/ vfh] |  M  |
 xfdf| ]ul0ft, sIff * 141
-
 142 xfdf| ]ul0ft, sIff *
-
 cEof; 18.1
 1. ;fwf/0f Aofh (I) kQf nufpm M
-| -s_ ;fj“ f = ?= 500 | Aofh b/ (R)= 3% |     | ;do = 3 jif{ |
-| ------------------- | --------------- | --- | ------------ |
-11
-| -v_ ;fj“ f = ?= 9500 | Aofh b/ (R) =  | %   | ;do = 2 jif{ |
-| -------------------- | -------------- | --- | ------------ |
-2
-15
-| -u_ ;fj“ f = ?= 12600 | Aofh b/ (R) =  | %   | ;do = 4 dlxgf |
-| --------------------- | -------------- | --- | ------------- |
-2
-24
-| -3_ ;fj“ f = ?= 9990 | Aofh b/ (R) =  | %   | ;do = 1 dlxgf |
-| -------------------- | -------------- | --- | ------------- |
-5
+| -s_ ;fj“ f = ?= 500 | Aofh b/ (R)= 3% | | ;do = 3 jif{ |
+| -v_ ;fj“ f = ?= 9500 | Aofh b/ (R) =  | % | ;do = 2 jif{ |
+| -u_ ;fj“ f = ?= 12600 | Aofh b/ (R) =  | % | ;do = 4 dlxgf |
+| -3_ ;fj“ f = ?= 9990 | Aofh b/ (R) =  | % | ;do = 1 dlxgf |
 2. ;do (T) kQf nufpm M
-| -s_ ;fj“ f = ?= 1260 | Aofh b/ (R) = 5%  |     | Aofh = ?= 378 |
-| -------------------- | ----------------- | --- | ------------- |
-| -v_ ;fj“ f = ?= 1250 | Aofh b/ (R) = 13% |     | Aofh = ?= 650 |
-| -u_ ;fj“ f = ?= 4500 | Aofh b/ (R) = 4%  |     | Aofh = ?= 900 |
-25
-| -3_ ;fj“ f = ?= 2400 | Aofh b/ (R) =  |     | Aofh = ?= 350 |
-| -------------------- | -------------- | --- | ------------- |
-%
-3
+| -s_ ;fj“ f = ?= 1260 | Aofh b/ (R) = 5%  | | Aofh = ?= 378 |
+| -v_ ;fj“ f = ?= 1250 | Aofh b/ (R) = 13% | | Aofh = ?= 650 |
+| -u_ ;fj“ f = ?= 4500 | Aofh b/ (R) = 4%  | | Aofh = ?= 900 |
+| -3_ ;fj“ f = ?= 2400 | Aofh b/ (R) =  | | Aofh = ?= 350 |
 Aofh b/ (R) kQf nufpm M
-3.
-| -s_ ;fj“ f = ?= 1460  | ;do (T)= 30 dlxgf |     | Aofh = ?= 292  |
-| --------------------- | ----------------- | --- | -------------- |
-| -v_ ;fj“ f = ?= 7,200 | ;do (T)= 5 jif{   |     | Aofh = ?= 1080 |
+| -s_ ;fj“ f = ?= 1460  | ;do (T)= 30 dlxgf | | Aofh = ?= 292  |
+| -v_ ;fj“ f = ?= 7,200 | ;do (T)= 5 jif{ | | Aofh = ?= 1080 |
 -u_ ;fj“ f = ?= 6,000 ;do (T)= 3 jif { 6 dlxgf Aofh = ?= 1155
-| -3_ ;fj“ f = ?= 2,160 | ;do (T)= 4 jif{ |     | Aofh = ?= 648 |
-| --------------------- | --------------- | --- | ------------- |
+| -3_ ;fj“ f = ?= 2,160 | ;do (T)= 4 jif{ | | Aofh = ?= 648 |
 ;fj“ f kQf nufpm M
-4.
-24
-%
-| -s_ Aofh b/ (R)  |     | ;do (T)= 1 dlxgf | Aofh = ?= 39.96 |
-| ---------------- | --- | ---------------- | --------------- |
-5
-2
-| -v_ Aofh b/ (R)  6 | %   | ;do (T)= 5 jif{ | Aofh = ?= 400 |
-| ------------------ | --- | --------------- | ------------- |
-3
-1
-| -u_ Aofh b/ (R)  4 | %   | ;do (T)= 15 jif{ | Aofh = ?= 2062.50 |
-| ------------------ | --- | ---------------- | ----------------- |
-6
+| -s_ Aofh b/ (R)  | | ;do (T)= 1 dlxgf | Aofh = ?= 39.96 |
+| -v_ Aofh b/ (R)  6 | % | ;do (T)= 5 jif{ | Aofh = ?= 400 |
+| -u_ Aofh b/ (R)  4 | % | ;do (T)= 15 jif{ | Aofh = ?= 2062.50 |
 xfdf| ]ul0ft, sIff * 143
-
 -3_ Aofh b/ (R) = 9% ;do (T)= 9 jif{ Aofh = ?= 810
 5. dGhn' ] jflifs{ 7% sf b/n ] Aofh kfpg ] u/L ?= 3500 gk] fn aª} s\ lnld68] df hDdf ul/g\
 eg] 4 jifk{ l5 pgn ] slt Aofh kfpl“5g,\ kQf nufpm .
-6. dfOnf bfOn ] jflifs{ 6.6% Aofh b/df aª} s\ af6 ?= 18000 C0f lnP eg ] 30 dlxgfkl5 pgn]
+6. dfOnf bfOn ] jflifs{ 6.6% Aofh b/df aª} s\ af6 ?= 18000 C0f lnP eg ] 30 dlxgfkl5 pgn
 aª} s\ df slt Aofh ae' mfpgk' nf,{ kQf nufpm .
 7. sfhLn ] /fli6o« jfl0fHo aª} s\ af6 4 jifk{ l5 ?= 550 Aofh kf|Kt ug { rfxG5 . p;n ] clxn ] 5.5%
 Aofh b/df slt /sd hDdf ugk{' nf,{ kQf nufpm .
 8. lagfnfO { ?= 7600 aª} s\ df /fv ] afkt aª} s\ n ] 3 jifk{ l5 ?= 1254 Aofh lbof ] eg ] Aofh b/ slt
 /x5] , kQf nufpm .
-25
 9. ?= 12, 000 nfO { aª} s\ df % Aofhb/n ] /fVbf slt jifd{ f ;fj“ f a/fa/ Aofh xG' 5 <
-2
 10. 7 jifk{ l5 Aofh ?= 4200 kfpgsf nflu 6% Aofh b/df clxn ] slt /sd hDdf ugk{' nf { <
 11. 10% Aofh b/n ] ?= 1080 sf ] 4 jifd{ f slt Aofh cfpnf / slt jifd{ f ?= 900 sf ] 12% sf
 b/n ] plQg } Aofh cfp5“ <
-18.2. ld>wg (Amount)
+18.2. ld>wg (Amount
 /fl]hgfn ] aª} s\ df ?= 10000 hDdf ubf { 3 jifk{ l5 hDdf ?= 12100 kf|Kt ul/g \ . o;df hDdf /sd
 eGgfn ] s ] al'emG5, ;fyLx¿lar 5nkmn u/L nv] .
 lglZrt ;dokZrft \ sg' } klg ;fj“ f /sddf Aofh yk u/L Psdi'6 kb| fg ul/g ] /sdnfO { ld>wg
 elgG5 . o;nfO { A n ] hgfOG5 .
 ld>wg [Amount (A)] = ;fj“ f [Principal (P)] + Aofh [Interest (I)] xG' 5 .
 cyft{ , ld>wg = ;fj“ f + Aofh
-A = P + I …………..(i)
-PTR
-xfdLnfO { yfxf 5 I = ……..(ii)
-100
-(i) / (ii) nfO { ldnfpb“ f,
-PTR
+A = P + I …………..(i
+xfdLnfO { yfxf 5 I = ……..(ii
+i) / (ii) nfO { ldnfpb“ f,
 A = P +
-100
 144 xfdf| ]ul0ft, sIff *
-
 xfdf| ]ul0ft, sIff * 145
-
 pbfx/0f 2
-9
 sg'  } ;fj“ f /sd  % Aofh b/n ] hDdf ubf { 40 dlxgfkl5 hDdf /sd ? 69000 xG' 5 eg ] slt
-2
 /sd hDdf u/s] f ] xfn] f, kQf nufpm .
 ;dfwfg
-|     |     | xfdLnfO { | yfxf 5, ;fj“ | f   |
-| --- | --- | --------- | ------------ | --- |
+| | | xfdLnfO { | yfxf 5, ;fj“ | f |
 oxf“, ld>wg (A) = ? 69000
 A100
-|     |     | (P) |    |     |
-| --- | --- | --- | --- | --- |
-40 10
-| ;do (T) = 40 dlxgf =  | jif { | jif{ | 100TR |     |
-| --------------------- | ----- | ---- | ------ | --- |
-=
-|     | 12 3 |     | 6900100 |     |
-| --- | ---- | --- | -------- | --- |
-
+| | | (P) |  | |
+| ;do (T) = 40 dlxgf =  | jif { | jif{ | 100TR | |
+| | 12 3 | | 6900100 | |
 100910
-|     |     |     | 2   | 3   |
-| --- | --- | --- | --- | --- |
-9
-| Aofhb/ (R) =  |     |     | 69100 |     |
-| ------------- | --- | --- | ----- | --- |
+| Aofhb/ (R) =  | | | 69100 | |
 % 
-2
 60090
-6
-| ;fj“ f (P) = ? |     |     | 60,000 |     |
-| -------------- | --- | --- | ------- | --- |
-
+| ;fj“ f (P) = ? | | | 60,000 | |
 ctM hDdf u/s] f ] /sd (P) = ?= 60000
 pbfx/0f 3
-?= 5,000 nfO { 8% Aofhb/df 2 jif { aª} s\ df /fVbf cfpg ] Aofhsf ] 5% aª} s\ nfO { cfos/ ltgk{' 5 { eg]
-| 2 jifk{ l5 hDdf slt /sd kf|Kt xfn] | f < |     |     |     |
-| ---------------------------------- | --- | --- | --- | --- |
+?= 5,000 nfO { 8% Aofhb/df 2 jif { aª} s\ df /fVbf cfpg ] Aofhsf ] 5% aª} s\ nfO { cfos/ ltgk{' 5 { eg
+| 2 jifk{ l5 hDdf slt /sd kf|Kt xfn] | f < | | | |
 ;dfwfg
 oxf“, ;fj“ f (P)  = ? 5,000
-|     |     | kml]/, cfos/   = ? 800 sf ] | 5%  |     |
-| --- | --- | --------------------------- | --- | --- |
+| | | kml]/, cfos/ = ? 800 sf ] | 5%  | |
 ;do (T) =  2 jif{
 8005
-
-|     |     |                       | = ? 40 |     |
-| --- | --- | --------------------- | ------ | --- |
-100
+| | | | = ? 40 | |
 Aofhb/ (R) = 8 %
-|     |     | t;y,{ z4'  Aofh   | = ?= 800 – ? 40 |   = ?= 760 |
-| --- | --- | ----------------- | --------------- | ---------- |
+| | | t;y,{ z4'  Aofh | = ?= 800 – ? 40 | = ?= 760 |
 ld>wg (A) = <
 ca, ld>wg (A) = P + I
-PTR
-
 xfdLnfO { yfxf 5, Aofh I
-100
-|     |     |     |  = ?= 5,000  + ?= 760 |     |
-| --- | --- | --- | --------------------- | --- |
+| | | |  = ?= 5,000  + ?= 760 | |
 5,00028
-  = ?= 5,760
-
-100
- ?= 800
-=
-| 146 |     |     | xfdf| ]ul0ft, sIff * |     |
-| --- | --- | --- | -------------------- | --- |
-
+= ?= 5,760
+?= 800
+| 146 | | | xfdf| ]ul0ft, sIff * | |
 cEof; 18.2
 1. ld>wg kQf nufpm M
-| -s_ ;fj“ f = ?= 50000 | ;do = 7 jif{ | Aofh b/ = 3% |     |
-| --------------------- | ------------ | ------------ | --- |
-1
-| -v_ ;fj“ f = ?= 2160 | ;do = 4 jif{ | Aofh b/ = 3 | %   |
-| -------------------- | ------------ | ----------- | --- |
-2
-| -u_ ;fj“ f = ?= 25,000  | ;do = 7 dlxgf | Aofh b/ = 126gv% |     |
-| ----------------------- | ------------- | ---------------- | --- |
-| -3_ ;fj“ f = ?= 55,500  | ;do = 2 jif{  | Aofh b/ = 7.5%   |     |
-| -ª_ ;fj“ f = ?= 524,000 | ;do = 3 dlxgf | Aofh b/ = 11%    |     |
+| -s_ ;fj“ f = ?= 50000 | ;do = 7 jif{ | Aofh b/ = 3% | |
+| -v_ ;fj“ f = ?= 2160 | ;do = 4 jif{ | Aofh b/ = 3 | % |
+| -u_ ;fj“ f = ?= 25,000  | ;do = 7 dlxgf | Aofh b/ = 126gv% | |
+| -3_ ;fj“ f = ?= 55,500  | ;do = 2 jif{  | Aofh b/ = 7.5% | |
+| -ª_ ;fj“ f = ?= 524,000 | ;do = 3 dlxgf | Aofh b/ = 11% | |
 2. ?= 35000 sf ] 3% Aofh b/n ] 54 dlxgfdf hDdf slt /sd xfn] f, kQf nufpm .
 3. 4 dlxgfdf hDdf /sd ? 56610 kf|Kt ug { 6% Aofh b/n ] slt /sd hDdf ugk{' nf { <
-9
 4. slt ?lkof “ hDdf ubf { 5% sf b/n ] jifd{ f hDdf ?= 1225 xG' 5, kQf nufpm .
-2
-15
 40 dlxgfdf Psdi'6 ?= 2375 kf|Kt ug { % Aofh b/n ] slt /sd hDdf ugk{' nf { <
-5.
-2
 6. jflifs{  10% Aofh b/n ] ?= 5500 sf ] 1 jifd{ f ld>wg slt xG' 5, kg' M pSt ld>wgnfO { pxL
-| Aofh b/df hDdf ubf { | csf {] jif { hDdf /sd slt xfn] | f < |     |
-| -------------------- | ------------------------------ | --- | --- |
+| Aofh b/df hDdf ubf { | csf {] jif { hDdf /sd slt xfn] | f < | |
 l5l/ªn\  ] aflifs{  5% Aofh b/n ] ?= 40,000 aª} s\ df jrt ubf { cfpg ] Aofhsf ] 5% cfos/ ltgk{' 5{
-7.
 eg ] 4 aifk{ l5 p;n ] hDdf slt /sd kf|Kt u5 { xfn] f < kQf nufpm .
-?= 75,000 sf ] jflifs{   5.6% Aofh b/n ] 6 dlxgfdf kf|Kt xg'  ] Aofhdf aª} s\ n ] 5% s/ lnG5
-8.
-| eg] 6 dlxgfkl5 Psdi'6 hDDff slt /sd kf|Kt xfn] |     | f < |     |
-| ---------------------------------------------- | --- | --- | --- |
+?= 75,000 sf ] jflifs{ 5.6% Aofh b/n ] 6 dlxgfdf kf|Kt xg'  ] Aofhdf aª} s\ n ] 5% s/ lnG5
+| eg] 6 dlxgfkl5 Psdi'6 hDDff slt /sd kf|Kt xfn] | | f < | |
 9. ?= 10,800 sf ] jflifs{  10% Aofh b/df 4 jifd{ f cfpg ] Aofhsf ] 5% s/ ltgk{' 5 { eg ]  4 jifk{ l5
-| Psdi'6 slt /sd kf|Kt xfn] | f < |     |     |
-| ------------------------- | --- | --- | --- |
+| Psdi'6 slt /sd kf|Kt xfn] | f < | | |
 10. s?0ffn ] e;“} Lkfngsf nflu aª} s\ af6 12% Aofh b/df ?= 200,000  lnOg \ . olb pgn ] 30
 dlxgfkl5 ;fj“ f / Aofh u/L Psdi'6 /sd ltl/g \ eg ] hDdf slt ?lkof “ ltl/g \ xfn] f <
 xfdf| ]ul0ft, sIff * 147
-
 kf7
-| 19  |     | tYofªs\ |     |  zf:q |     |     |     |     |     |     |
-| --- | --- | ------- | --- | ----- | --- | --- | --- | --- | --- | --- |
- (Statistics)
-| 19.0 kg' | /jnfs] | g (Review) |     |     |     |     |     |     |     |     |
-| -------- | ------ | ---------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 19  | | tYofªs\ | |  zf:q | | | | | | |
+Statistics
+| 19.0 kg' | /jnfs] | g (Review) | | | | | | | | |
 sIff 8 sf 40 hgf ljBfyLx{ ¿n ] sIff 7 sf ] jflifs{  k/LIffdf ul0ft ljifodf lgDgfg;' f/sf ] cªs\  kf|Kt
 u/ ] M
-|     | 40, | 45, | 49, | 53, | 56, | 45,  | 40,  | 53,  | 65, | 73, |
-| --- | --- | --- | --- | --- | --- | ---- | ---- | ---- | --- | --- |
-|     | 49, | 75, | 83, | 89, | 92, | 48,  | 73,  | 45,  | 63, | 75, |
-|     | 73, | 94, | 92, | 90, | 89, | 45,  |  82, | 75,  | 73, | 65, |
-|     | 40, | 49, | 56, | 60, | 65, |  60, |  63, |  73, | 82, | 48  |
 dflysf ] kf|Ktfªs\ nfO { tnsf ] h:t } tflnsf agfP/ e/ / tflnsf k/" f u/ M
-| k|fKtfª\s |     | ldnfg lrxg\ |      |     | af/Daf/tf |     |     | ;l~rt af/Daf/tf |        |     |
-| --------- | --- | ----------- | ---- | --- | --------- | --- | --- | --------------- | ------ | --- |
-|           | 40  |             | |||  |     |           | 3   |     |                 | 3      |     |
-|           | 45  |             | |||| |     |           | 4   |     |                 | 3+4=7  |     |
-|           | 49  |             | |||  |     |           | 3   |     |                 | 7+3=10 |     |
-|           | .   |             | .    |     |           | .   |     |                 | .      |     |
-|           | .   |             | .    |     |           | .   |     |                 | .      |     |
-|           | .   |             | .    |     |           | .   |     |                 | .      |     |
+| k|fKtfª\s | | ldnfg lrxg\ | | | af/Daf/tf | | | ;l~rt af/Daf/tf | | |
 ca dflysf ] tflnsfnfO { s:tf ] tflnsf elgG5, ;fyLx¿lar 5nkmn u/L pQ/ nv]  .
 dflysf ] tflnsfnfO { af/Daf/tf tflnsf elgG5 . o;sf af/d] f xfdLn ] sIff 7 df g } cWoog
-ul/;ss] f 5f “} . o;/L lglZrt lgodcg;' f/ tYofªs\ x¿sf ] af/Daf/tf;lxt k:| tt'  ul/G5 eg]
+ul/;ss] f 5f “} . o;/L lglZrt lgodcg;' f/ tYofªs\ x¿sf ] af/Daf/tf;lxt k:| tt'  ul/G5 eg
 To;nfO { vl08t >0] fL (discrete series) elgG5 . ca xfdL o:tf tYofªs\ x¿sf ] dWos, dlWosf,
-| l/t / lj:tf/sf af/d] |     |     | f cWoog u5f {“} | .   |     |     |     |     |     |     |
-| -------------------- | --- | --- | --------------- | --- | --- | --- | --- | --- | --- | --- |
-19.1 dWos (Mean)
+| l/t / lj:tf/sf af/d] | | | f cWoog u5f {“} | . | | | | | | |
+19.1 dWos (Mean
 ljm|ofsnfk 1. ;jk{ y| d ltdLx¿ kT| os] n ] cfkm"n ] sIff 7 df kf|Kt u/s] f ;a } ljifosf ] kf|Ktfªs\
-|       |     | tnsf ] | tflnsfdf e/ M |         |     |          |        |     |         |       |
-| ----- | --- | ------ | ------------- | ------- | --- | -------- | ------ | --- | ------- | ----- |
-| ljifo |     | ul0ft  | lj1fg         | ;fdflhs |     | cª\u|]hL | g]kfnL |     | sDKo'6/ | gl}ts |
+| | | tnsf ] | tflnsfdf e/ M | | | | | | | |
+| ljifo | | ul0ft  | lj1fg | ;fdflhs | | cª\u|]hL | g]kfnL | | sDKo'6/ | gl}ts |
 k|fKtfª\s
-| 148 |     |     |     |     |     |     |     |     | xfdf| ]ul0ft, sIff * |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | -------------------- | --- |
-
+| 148 | | | | | | | | | xfdf| ]ul0ft, sIff * | |
 ca ;a } kf|Ktfªs\ sf ] ofu] kmn lgsfn / To;nfO {{ hDdf ljifo ;ªV\ ofn ] efu u/ .
 To;/L kf|Kt xg'  ] efukmn g } dWos kf|Ktfªs\  xG' 5 .  o;nfO {  cf;} t (average) jf cªs\  ul0ftLo
-dWos (arithmetic mean) klg elgG5 . o;nfO {    n ] hgfOG5 / ;q" df nV] bf,
+dWos (arithmetic mean) klg elgG5 . o;nfO { n ] hgfOG5 / ;q" df nV] bf,
 x
   hDdf tYofª\ssf ]hf]8  hxf,“ N n ] hDdf tYofªs\ x¿sf ] ;ªV\ of
-| dWos | x                  |     |    | nl]vG5 . |        |                           |     |
-| ---- | ------------------- | --- | --- | -------- | ------ | ------------------------- | --- |
-|      | tYofª\sx¿sf ];ª\Vof |     | N   |          | hgfp5“ |   / ∑ n ] ofu] kmn hgfp5“ |  .  |
+| dWos | x  | |  | nl]vG5 . | | | |
+| | tYofª\sx¿sf ];ª\Vof | | N | | hgfp5“ | / ∑ n ] ofu] kmn hgfp5“ |  .  |
 pbfx/0f 1
-| tnsf tYofªs\ | x¿af6 cªs\ |  ul0ftLo dWos kQf nufpm M |     |     |     |     |     |
-| ------------ | ---------- | ------------------------- | --- | --- | --- | --- | --- |
-4, 12, 13, 21, 12, 12, 10
+| tnsf tYofªs\ | x¿af6 cªs\ |  ul0ftLo dWos kQf nufpm M | | | | | |
 ;dfwfg
 x
-| oxf“,  |  412132112121084/ N = 7 |     |     |     |     |     |     |
-| ------ | ------------------------------- | --- | --- | --- | --- | --- | --- |
-|        |   x                          | 84  |     |     |     |     |     |
-| dWos  | x                             | 12 |     |     |     |     |     |
-|        | N                               | 7   |     |     |     |     |     |
+| oxf“,  |  412132112121084/ N = 7 | | | | | | |
+| |   x | 84  | | | | | |
+| dWos  | x   | 12 | | | | | |
+| | N | 7 | | | | | |
 pbfx/0f 2
 sIff 8 sf 25 hgf ljBfyLn{  ] lbPsf ] 20 k0" ffª{ s\ sf ] qd} fl;s k/LIffdf kf|Kt u/s] f kf|Ktfªs\ x¿
-| lgDgfg;' | f/ 5g \ M |     |     |     |     |     |     |
-| -------- | --------- | --- | --- | --- | --- | --- | --- |
+| lgDgfg;' | f/ 5g \ M | | | | | | |
 7, 8, 9, 6, 10, 5, 8, 9, 12, 7, 8, 11, 14, 11, 12, 12, 13, 14, 12, 13, 12, 11, 7, 8,  / 11. oL
 cfs“ 8fx¿nfO { af/Daf/tf tflnsfdf k:| tt'  u/L dWos kQf nufpm M
-| kf|Ktfªs\ |       ldnfg lrxg\ |      |     |                   | af/Daf/tf (f) |      |             |
-| --------- | ----------------- | ---- | --- | ----------------- | ------------- | ---- | ----------- |
-| 5         |                   | |    |     |                   | 1             |      | 5 x 1 = 5   |
-| 6         |                   | |    |     |                   | 1             |      | 6 x 1 = 6   |
-| 7         |                   | |||  |     |                   | 3             |      | 7 x 3 = 21  |
-| 8         |                   | |||| |     |                   | 4             |      | 8 x 4 = 32  |
-| 9         |                   | ||   |     |                   | 2             |      | 9 x 2 = 18  |
-| 10        |                   | |    |     |                   | 1             |      | 10 x 1 = 10 |
-| 11        |                   | |||| |     |                   | 4             |      | 11 x 4 = 44 |
-| 12        |                   | |||| |     |                   | 5             |      | 12 x 5 = 60 |
-| 13        |                   | ||   |     |                   | 2             |      | 13 x 2 = 26 |
-| 14        |                   | ||   |     |                   | 2             |      | 14 x 2 = 28 |
-|           |                   |      |     | N = hDdf ljBfyL { |               | = 25 | fx250      |
-
+| kf|Ktfªs\ | ldnfg lrxg\ | | | | af/Daf/tf (f) | | |
+| 5 | | | | | | 1 | | 5 x 1 = 5 |
+| 6 | | | | | | 1 | | 6 x 1 = 6 |
+| 7 | | |||  | | | 3 | | 7 x 3 = 21  |
+| 8 | | |||| | | | 4 | | 8 x 4 = 32  |
+| 9 | | || | | | 2 | | 9 x 2 = 18  |
+| 10 | | | | | | 1 | | 10 x 1 = 10 |
+| 11 | | |||| | | | 4 | | 11 x 4 = 44 |
+| 12 | | |||| | | | 5 | | 12 x 5 = 60 |
+| 13 | | || | | | 2 | | 13 x 2 = 26 |
+| 14 | | || | | | 2 | | 14 x 2 = 28 |
+| | | | | N = hDdf ljBfyL { | | = 25 | fx250 |
 oxf “ ;a } kf|Ktfªs\ sf ] hf8]   f x xG' 5 . ljBfyL { ;ªV\ of N f xG' 5
 xfdf| ]ul0ft, sIff * 149
-
 150 xfdf| ]ul0ft, sIff *
-
 xfdf| ]ul0ft, sIff * 151
-
 pbfx/0f 2
-| tnsf ] | cfs“ 8fx¿af6 dlWosf (median) kQf nufpm M |     |     |     |     |     |          |     |
-| ------ | ---------------------------------------- | --- | --- | --- | --- | --- | -------- | --- |
-|        | k|fKtfª\s                                |     | 18  | 20  | 22  |     | 25 29 30 | 32  |
-|        | ljBfyL { ;ªV\                            | of  |     |     |     |     |          |     |
-|        |                                          |     | 7   | 9   | 8   |     | 11 5 6   | 7   |
+| tnsf ] | cfs“ 8fx¿af6 dlWosf (median) kQf nufpm M | | | | | | | |
+| | k|fKtfª\s | | 18  | 20  | 22  | | 25 29 30 | 32  |
+| | ljBfyL { ;ªV\ | of  | | | | | | |
 ;dfwfg
-| dflysf ] | tflnsfnfO {    | ;l~rt af/Daf/tf tflnsfdf k:| |               |     |     |                       | tt'  ubf,{  |     |
-| -------- | -------------- | ---------------------------- | ------------- | --- | --- | --------------------- | ----------- | --- |
-|          | kf|Ktfªs\  (x) |                              | af/Daf/tf (f) |     |     | ;l~rt af/Daf/tf (c.f) |             |     |
-|          | 18             |                              |               | 7   |     |                       | 7           |     |
-|          | 20             |                              |               | 9   |     |                       | 7 + 9 =16   |     |
-|          | 22             |                              |               | 8   |     |                       | 16 + 8 = 24 |     |
-|          | 25             |                              |               | 11  |     |                       | 24 +11 = 35 |     |
-|          | 29             |                              |               | 5   |     |                       | 35 + 5 = 40 |     |
-|          | 30             |                              |               | 6   |     |                       | 40 + 6 = 46 |     |
-|          | 32             |                              |               | 7   |     |                       | 46 +7 = 53  |     |
+| dflysf ] | tflnsfnfO { | ;l~rt af/Daf/tf tflnsfdf k:| | | | | | tt'  ubf,{  | |
+| | kf|Ktfªs\  (x) | | af/Daf/tf (f) | | | ;l~rt af/Daf/tf (c.f) | | |
 N1 531
-|     | ca, dlWosf  |     | =   | 27cf “} | kb xG' | 5 . |     |     |
-| --- | ------------ | --- | --- | -------- | ------ | --- | --- | --- |
-|     |              |     | 2   | 2        |        |     |     |     |
+| | ca, dlWosf  | | = | 27cf “} | kb xG' | 5 . | | |
 ;l~rt af/Daf/tf tflnsfdf 27 cf “} :yfgsf ] kb ;l~rt af/Daf/tf 35 xg'  ] kf|Ktfªs\ df k5 { . 35 eGbf
 cl3Nnf ] ;l~rt af/Daf/tf 24 5 / 27 cf “} kb 24  eGbf dflyNnf ] ;l~rt af/Daf/tfdf k5 { . t;y,{
 dlWosf 35 ;l~rt af/Daf/tf ePsf ] kf|Ktfªs\  xf ] . ctM dlWosf (M ) = 25 eof ] .
-d
 cEof; 19.2
-| 1.  | tn lbOPsf tYofªs\ |     | x¿af6 dlWosf kQf nufpm M |     |     |     |     |     |
-| --- | ----------------- | --- | ------------------------ | --- | --- | --- | --- | --- |
+| 1.  | tn lbOPsf tYofªs\ | | x¿af6 dlWosf kQf nufpm M | | | | | |
 -s_ 27, 29, 18, 25, 32, 21, 26
 -v_ 34, 46, 49, 38, 56, 86, 68, 35
 -u_ 5.9ft, 5.2ft, 6.1ft, 7.2ft, 6.5ft, 5.4ft
 -3_ 112 kg, 104 kg, 108 kg, 109 kg, 111 kg, 109 kg, 114 kg, 112 kg, 110 kg, 113 kg
 -ª_ 250, 282, 211, 190, 235, 284, 237, 217, 245, 257, 281
-| 2.  | tnsf af/Daf/tf tflnsfx¿af6 dlWosf (M |     |     |     |     | ) kQf nufpm M |     |     |
-| --- | ------------------------------------ | --- | --- | --- | --- | ------------- | --- | --- |
-d
-|     | -s_ k|fKtfª\s |         | 25  | 30  | 35  |     | 40 45 50 | 55 60                |
-| --- | ------------- | ------- | --- | --- | --- | --- | -------- | -------------------- |
-|     | ljBfyL {      | ;ªV\ of | 2   | 3   | 6   |     | 10 12 13 | 3 4                  |
-| 152 |               |         |     |     |     |     |          | xfdf| ]ul0ft, sIff * |
-
-| -v_ pd]/ |      | 8 jif{ | 10 jif{ | 12 jif{ | 14 jif{ | 16 jif{ | 18 jif{ |
-| -------- | ---- | ------ | ------- | ------- | ------- | ------- | ------- |
-| ljBfyL { | ;ªV\ | of 3   | 5       | 9       | 8       | 3       | 1       |
-| -u_ x    | 50   | 100    | 150     | 200     | 250     | 300     | 350     |
-| f        | 50   | 22     | 39      | 41      | 38      | 30      | 20      |
-| -3_ x    | 100  | 200    | 300     | 400     | 500     | 600     | 700     |
-| f        | 8    | 9      | 7       | 15      | 22      | 12      | 10      |
-3. sIff 7 sf ] clGtd k/LIffdf ;lDdlnt hDdf 25 hgf ljBfyLd{ Wo ] dlWosf kf|Ktfªs\  27 lyof]
-eg ] dlWosfeGbf w/]  } kf|Ktfªs\  ePsf ljBfyL { ;ªV\ of / dlWosfeGbf yf/]  } cªs\  kf|Kt ug{]
-| ljBfyL { ;ªV\ | of kQf nufpm . |     |     |     |     |     |     |
-| ------------- | -------------- | --- | --- | --- | --- | --- | --- |
-19.3 l/t (Mode)
-| sIff 8 sf 10 hgf ljBfyLx{ |     |     | ¿sf ] | prfO o;ks| | f/ 5 . |     |     |
-| ------------------------- | --- | --- | ----- | ---------- | ------ | --- | --- |
+| 2.  | tnsf af/Daf/tf tflnsfx¿af6 dlWosf (M | | | | | ) kQf nufpm M | | |
+| | -s_ k|fKtfª\s | | 25  | 30  | 35  | | 40 45 50 | 55 60 |
+| | ljBfyL { | ;ªV\ of | 2 | 3 | 6 | | 10 12 13 | 3 4 |
+| 152 | | | | | | | | xfdf| ]ul0ft, sIff * |
+| -v_ pd]/ | | 8 jif{ | 10 jif{ | 12 jif{ | 14 jif{ | 16 jif{ | 18 jif{ |
+| ljBfyL { | ;ªV\ | of 3 | 5 | 9 | 8 | 3 | 1 |
+| -u_ x | 50 | 100 | 150 | 200 | 250 | 300 | 350 |
+| f | 50 | 22 | 39 | 41 | 38 | 30 | 20 |
+| -3_ x | 100  | 200 | 300 | 400 | 500 | 600 | 700 |
+| f | 8 | 9 | 7 | 15 | 22 | 12 | 10 |
+3. sIff 7 sf ] clGtd k/LIffdf ;lDdlnt hDdf 25 hgf ljBfyLd{ Wo ] dlWosf kf|Ktfªs\  27 lyof
+eg ] dlWosfeGbf w/]  } kf|Ktfªs\  ePsf ljBfyL { ;ªV\ of / dlWosfeGbf yf/]  } cªs\  kf|Kt ug{
+| ljBfyL { ;ªV\ | of kQf nufpm . | | | | | | |
+19.3 l/t (Mode
+| sIff 8 sf 10 hgf ljBfyLx{ | | | ¿sf ] | prfO o;ks| | f/ 5 . | | |
 4.9 ft, 5 ft, 4.6 ft, 5.2 ft, 4.8 ft, 4.6 ft, 4.6 ft, 4.9 ft, 4.7 ft, 4.5 ft
-ca dflysf ] cfs“ 8fdf x/] f “} . 4.6 ft prfO ;ae} Gbf w/]  } ljBfyL { cyft{  3 hgf ljBfyLx{ ¿sf]
-| 5 . of ] | g } lbOPsf prfOx¿sf ] |     | l/t dfg xG' |     | 5 . |     |     |
-| -------- | --------------------- | --- | ----------- | --- | --- | --- | --- |
+ca dflysf ] cfs“ 8fdf x/] f “} . 4.6 ft prfO ;ae} Gbf w/]  } ljBfyL { cyft{  3 hgf ljBfyLx{ ¿sf
+| 5 . of ] | g } lbOPsf prfOx¿sf ] | | l/t dfg xG' | | 5 . | | |
 ctM l/t (mode) = 4.6 ft
 lbOPsf tYofªs\ x¿df ;ae} Gbf a9L k6s bfx] fl]/Psf ] tYofªs\ nfO { l/t (mode) elgG5 .
-| o;nfO { | M  n ] hgfOG5 . |     |     |     |     |     |     |
-| ------- | --------------- | --- | --- | --- | --- | --- | --- |
-o
+| o;nfO { | M  n ] hgfOG5 . | | | | | | |
 cyft{ , vl08t >0] fLdf af/Daf/tf tflnsfdf ;ae} Gbf w/]  } af/Daf/tf ePsf ] tYofªs\  g } pSt
-| tYofªs\ | sf ] l/t (mode) xG' |     | 5 . |     |     |     |     |
-| ------- | ------------------- | --- | --- | --- | --- | --- | --- |
-cEof;     19.3
-| tnsf tYofªs\ |     | x¿sf ] l/t (Mode)     kQf nufpm M |     |     |     |     |     |
-| ------------ | --- | --------------------------------- | --- | --- | --- | --- | --- |
-1.
+| tYofªs\ | sf ] l/t (mode) xG' | | 5 . | | | | |
+cEof; 19.3
+| tnsf tYofªs\ | | x¿sf ] l/t (Mode) kQf nufpm M | | | | | |
 -s_ 2, 3, 3, 2, 4, 5, 6, 3, 3, 5, 5, 4, 3, 2
 -v_ 3, 7, 9, 8, 8, 9, 8, 6, 5, 8
 -u_ 29 cm, 34 cm, 29 cm, 26 cm, 55 cm, 34 cm, 35 cm, 40 cm, 34 cm, 56 cm
 -3_ 120, 125, 130, 125, 120, 135, 120, 140
 -ª_ 99 kg, 135 kg, 182 kg, 49 kg, 189 kg, 196 kg, 78 kg, 192 kg, 182 kg
 xfdf| ]ul0ft, sIff * 153
-
 2. lbOPsf af/Daf/tf tflnsfx¿af6 l/t kQf nufpm M
-| -s_ kf|Ktfªs\ |          5 |            |     |     |     |     |     |     |     |
-| ------------- | ---------- | ---------- | --- | --- | --- | --- | --- | --- | --- |
-|               |            |   10       | 15  | 20  | 25  | 30  | 35  | 40  | 45  |
-|     ljBfyL {  | ;ªV\       | of   2   6 | 7   | 9   | 11  | 5   | 15  | 2   | 3   |
+| -s_ kf|Ktfªs\ | 5 | | | | | | | | |
+| ljBfyL {  | ;ªV\ | of 2 6 | 7 | 9 | 11  | 5 | 15  | 2 | 3 |
 -v_ Hofnf -?=_
-|             |     | 50   | 75  | 100 | 125 | 150 | 175 | 200 | 225 |
-| ----------- | --- | ---- | --- | --- | --- | --- | --- | --- | --- |
-| sfdbf/ ;ªV\ |     | of 8 | 12  | 17  | 29  | 11  | 27  | 20  | 30  |
+| sfdbf/ ;ªV\ | | of 8 | 12  | 17  | 29  | 11  | 27  | 20  | 30  |
 -u_ k|fKtfª\s
-|          |      | 0    | 5   | 10  | 15  | 20  | 25  | 30  | 35  |
-| -------- | ---- | ---- | --- | --- | --- | --- | --- | --- | --- |
-| ljBfyL { | ;ªV\ | of 2 | 9   | 15  | 9   | 19  | 21  | 30  | 20  |
+| ljBfyL { | ;ªV\ | of 2 | 9 | 15  | 9 | 19  | 21  | 30  | 20  |
 -3_
-|     | x   | 10 12 | 14  | 16  | 18  | 20  | 22  | 24  | 26  |
-| --- | --- | ----- | --- | --- | --- | --- | --- | --- | --- |
-|     | f   | 7 3   | 9   | 8   | 12  | 5   | 9   | 11  | 8   |
-19.4  lj:tf/ (Range)
+| | x | 10 12 | 14  | 16  | 18  | 20  | 22  | 24  | 26  |
+| | f | 7 3 | 9 | 8 | 12  | 5 | 9 | 11  | 8 |
+19.4  lj:tf/ (Range
 tnsf ] tflnsfdf x/]  . Toxf “ ljBfyLx{ ¿sf ] tfn}  lbOPsf ] 5 . tflnsfaf6 ;ae} Gbf w/]  } tfn}  slt 5
-| kQf nufpm . ;fy } |     | ;ae} Gbf sd tfn} |  klg kQf nufpm . |      |     |     |     |     |     |
-| ----------------- | --- | ---------------- | ---------------- | ---- | --- | --- | --- | --- | --- |
-|                   |     | ljBfyLx{         | ¿sf ]            | tfn} |     |     |     |     |     |
+| kQf nufpm . ;fy } | | ;ae} Gbf sd tfn} |  klg kQf nufpm . | | | | | | |
+| | | ljBfyLx{ | ¿sf ] | tfn} | | | | | |
 26 kg, 24 kg, 10 kg, 35 kg, 32.5 kg, 29 kg, 30 kg, 42 kg, 42.5 kg,
 29 kg, 24.5 kg, 22.5 kg, 42 kg, 50 kg, 50.5 kg, 22 kg, 50 kg
-| ;ae}     | Gbf a9L tfn} |  =……kg                  |     | ;ae} | Gbf sd tfn} |  =……kg |     |     |     |
-| -------- | ------------ | ----------------------- | --- | ---- | ----------- | ------ | --- | --- | --- |
-|  tL tfn} | larsf ]      | km/s slt 5, kQf nufpm . |     |      |             |        |     |     |     |
+| ;ae} | Gbf a9L tfn} |  =……kg | | ;ae} | Gbf sd tfn} |  =……kg | | | |
+|  tL tfn} | larsf ] | km/s slt 5, kQf nufpm . | | | | | | | |
 Tof ] ;ae} Gbf 7n' f ] / ;ae} Gbf ;fgf ] tYofªs\ larsf ] km/s g } tYofªs\ sf ] lj:tf/ (range) xf ] .
-|  ctM lj:tf/ (Range) = H - L xG' |          |                     | 5 . |                            |                     |     |       |           |     |
-| ------------------------------- | -------- | ------------------- | --- | -------------------------- | ------------------- | --- | ----- | --------- | --- |
-| hxf “                           | H = ;ae} | Gbf 7n' f ] tYofªs\ |  /  |                            |                     |     |       |           |     |
-|                                 |          |                     |     | lj:tf/sf nflu af/Daf/tfn ] |                     |     |       | sx] L c;/ |     |
-| L = ;ae}                        |          | Gbf ;fgf ] tYofªs\  |     |                            |                     |     |       |           |     |
-|                                 |          |                     |     | ubg{}                      |  / af/Daf/tf xl]/b“ |     | g}  . |           |     |
+|  ctM lj:tf/ (Range) = H - L xG' | | | 5 . | | | | | | |
+| hxf “ | H = ;ae} | Gbf 7n' f ] tYofªs\ |  /  | | | | | | |
+| | | | | lj:tf/sf nflu af/Daf/tfn ] | | | | sx] L c;/ | |
+| L = ;ae} | | Gbf ;fgf ] tYofªs\  | | | | | | | |
+| | | | | ubg{} |  / af/Daf/tf xl]/b“ | | g}  . | | |
 cEof; 9.4
-| tn lbOPsf tYofªs\ |     | x¿sf ] | lj:tf/ (range)     kQf nufpm M |     |     |     |     |     |     |
-| ----------------- | --- | ------ | ------------------------------ | --- | --- | --- | --- | --- | --- |
-1.
+| tn lbOPsf tYofªs\ | | x¿sf ] | lj:tf/ (range) kQf nufpm M | | | | | | |
 -s_ 3, 9, 7, 5, 20, 21, 20, 23, 11, 12
 -v_ 120, 130, 135, 140, 150, 115, 116, 117
 -u_ 12 cm, 15 cm, 19 cm, 14 cm, 10 cm, 8 cm, 20 cm, 11 cm
-| 154 |     |     |     |     |     |     |     | xfdf| ]ul0ft, sIff * |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | -------------------- | --- |
-
+| 154 | | | | | | | | xfdf| ]ul0ft, sIff * | |
 xfdf| ]ul0ft, sIff * 155
-
-|                |              | 360                   |           |          |                 |               |     |
-| -------------- | ------------ | --------------------- | ---------- | -------- | --------------- | ------------- | --- |
-|                |             |                       |  90 xG' |          |                 |               |     |
-| ?= 5000        | sf ]        | 5000                |            |          | 5 .             |               |     |
-|                | 20000       |                       |           |          |                 |               |     |
-| To; } u/L ;a } | sf0]         | fsf ] dfg kQf nufpg ] |            |          | .               |               |     |
-| r/0f 2.        | cfjZostfcg;' |                       | f/sf ] ;x' | fpb“ f ] | cyJ{ of; ePsf ] | jQ[  lvRg ] . |     |
+| | | 360 |  | | | | |
+| |  | |  90 xG' | | | | |
+| ?= 5000 | sf ]  | 5000 | | | 5 . | | |
+| | 20000 | |  | | | | |
+| To; } u/L ;a } | sf0] | fsf ] dfg kQf nufpg ] | | | . | | |
+| r/0f 2. | cfjZostfcg;' | | f/sf ] ;x' | fpb“ f ] | cyJ{ of; ePsf ] | jQ[  lvRg ] . | |
 r/0f 3. jQ[ df Pp6f cwJ{ of; lvrL To;nfO { cfwf/ dfg/]  jQ[ sf ] sG] bd| f r/0f 1 df kQf nufPsf
-|     | sf0] fx¿ lvRg ] | .   |     |     |     |     |     |
-| --- | --------------- | --- | --- | --- | --- | --- | --- |
+| | sf0] fx¿ lvRg ] | . | | | | | |
 r/0f 4. km/s km/s efunfO { km/s km/s /ª nufpm . ca jQ[ lrq tof/ xG' 5 .
 pbfx/0f 4
 1fgHofl]t df= lj= 5x/ ] kfgLsf sIff 5 bl]v sIff 10 ;Ddsf ljBfyL { ;ªV\ of tnsf ] tflnsfdf
-| lbOPsf ] 5 . o;nfO { |      | jQ[ lrqdf bv] |     | fpm . |     |          |      |
-| -------------------- | ---- | ------------- | --- | ----- | --- | -------- | ---- |
-| sIff                 |      |               |     |       |     |          | hDdf |
-|                      |      |               | 5   | 6     | 7   | 8 9 10   |      |
-| ljBfyL {             | ;ªV\ | of            | 42  | 54    | 51  | 48 45 30 | 270  |
+| lbOPsf ] 5 . o;nfO { | | jQ[ lrqdf bv] | | fpm . | | | |
+| sIff | | | | | | | hDdf |
+| ljBfyL { | ;ªV\ | of | 42  | 54 | 51  | 48 45 30 | 270  |
 ;dfwfg
-| oxf “ hDdf ljBfyL { |     | ;ªV\ of = 270 hgf |             |          |        |                      |                  |
-| ------------------- | --- | ----------------- | ----------- | -------- | ------ | -------------------- | ---------------- |
-| 270 hgf ljBfyL {    |     | = 360° sf0]       | f           |          |        |                      |                  |
-|                     |     |                   |             |          |        | 1fgHofl]t df=lj=sf ] | ljBfyL { ;ªV\ of |
-|                     |     |                  |             |         |        |                      |                  |
-|                     |     | 360             |             | 4      |        |                      |                  |
-| 1 hgf ljBfyL {      | =  |                  |  sf0] f =  |         | sf0] f |                      |                  |
-|                     |     | 270             |             | 3      |        |                      |                  |
-| sIff                |     | ljBfyL { ;ªV\     | of          |  sG] b | | sf0] f |                      |                  |
-4
-| 5   |     |    42 |     | 42 | =56° |     |     |
-| --- | --- | ----- | --- | --- | ---- | --- | --- |
-3
-4
+| oxf “ hDdf ljBfyL { | | ;ªV\ of = 270 hgf | | | | | |
+| 270 hgf ljBfyL { | | = 360° sf0] | f | | | | |
+| | | | | | | 1fgHofl]t df=lj=sf ] | ljBfyL { ;ªV\ of |
+| | |  | |  | | | |
+| | | 360 | | 4 | | | |
+| 1 hgf ljBfyL { | =  |  |  sf0] f =  |  | sf0] f | | |
+| | | 270 | | 3 | | | |
+| sIff | | ljBfyL { ;ªV\ | of |  sG] b | | sf0] f | | |
+| 5 | | 42 | | 42 | =56° | | |
 54
-| 6   |     |    54 |     |     | =72° |     |     |
-| --- | --- | ----- | --- | --- | ---- | --- | --- |
-3
-4
+| 6 | | 54 | | | =72° | | |
 51
-| 7   |     |    51 |     |     | =68° |     |     |
-| --- | --- | ----- | --- | --- | ---- | --- | --- |
-3
+| 7 | | 51 | | | =68° | | |
 ;ª\s]t
 sIff %
-4
 48
-| 8   |     |    48 |     |     | =64° |     | sIff ^ |
-| --- | --- | ----- | --- | --- | ---- | --- | ------ |
-3
+| 8 | | 48 | | | =64° | | sIff ^ |
 sIff &
-4
-| 9   |     |    45 |     | 45 | =60° |     |     |
-| --- | --- | ----- | --- | --- | ---- | --- | --- |
+| 9 | | 45 | | 45 | =60° | | |
 sIff *
-3
-sIff (
-4
-| 10  |     |    30 |     | 30 | =40° |     |     |
-| --- | --- | ----- | --- | --- | ---- | --- | --- |
-sIff !)
-3
-| 156 |     |     |     |     |     |     | xfdf| ]ul0ft, sIff * |
-| --- | --- | --- | --- | --- | --- | --- | -------------------- |
-
-cEof;   19.5
+sIff
+| 10  | | 30 | | 30 | =40° | | |
+sIff !
+| 156 | | | | | | | xfdf| ]ul0ft, sIff * |
+cEof; 19.5
 1.  sIff 8 sf ljBfyLx{ ¿nfO { dg kg {] ljm|ofsnfkx¿ tnsf ] tflnsfdf lbOPsf ] 5 . o;nfO{
-| jQ[                | lrqdf k:| | tt'  t/ M |               |     |           |     |       |         |     |     |
-| ------------------ | --------- | --------- | ------------- | --- | --------- | --- | ----- | ------- | --- | --- |
-|  gf6s              |           |           | sd]8L         |     | gT[       | o   | v]n   | uLt÷uhn |     |     |
-|   7                |           |           | 8             |     | 9         |     | 10    | 11      |     |     |
-| 2.          tnsf ] | tYofªs\   | nfO {     | jQ[ lrqdf k:| |     | tt'  u/ M |     |       |         |     |     |
-|                    | A+        |           |   A           |     |     B+    |     |    B  |         |     |     |
-|     40             |           |           |    56         |     |     32    |     |    16 |         |     |     |
-3.          tnsf ] tflnsfdf kD] afsf ] dfl;s vr { ljj/0f lbOPsf ] 5 . o;nfO { jQ[ lrqdf k:| tt'  u/ M
-|                      | zLif{s                                |     | vfgf | :jf:Yo |   oftfoft |     | ;~rf/    dgf/]   | ~hg | cGo |     |
-| -------------------- | ------------------------------------- | --- | ---- | ------ | --------- | --- | ---------------- | --- | --- | --- |
-|                      | kl|tzt                                |     |  40% |    15% |       12% |     |  10%         13% |     | 10% |     |
-| 4.          lbOPsf ] | lrqdf ef/tLejg df=lj sf sIff 8 sf 300 |     |      |        |           |     |                  |     |     |     |
+| jQ[ | lrqdf k:| | tt'  t/ M | | | | | | | | |
+|  gf6s | | | sd]8L | | gT[ | o | v]n | uLt÷uhn | | |
+| 2. tnsf ] | tYofªs\ | nfO { | jQ[ lrqdf k:| | | tt'  u/ M | | | | | |
+| | A+ | | A | | B+ | | B  | | | |
+3. tnsf ] tflnsfdf kD] afsf ] dfl;s vr { ljj/0f lbOPsf ] 5 . o;nfO { jQ[ lrqdf k:| tt'  u/ M
+| | zLif{s | | vfgf | :jf:Yo | oftfoft | | ;~rf/ dgf/] | ~hg | cGo | |
+| | kl|tzt | |  40% | 15% | 12% | |  10% 13% | | 10% | |
+| 4. lbOPsf ] | lrqdf ef/tLejg df=lj sf sIff 8 sf 300 | | | | | | | | | |
 ;fdflhs
-| ljBfyLx{    | ¿sf ] | dg kg {] | ljifo lbOPsf]          |     |     |      |     |     |       |     |
-| ----------- | ----- | -------- | ---------------------- | --- | --- | ---- | --- | --- | ----- | --- |
-|             |       |          |                        |     |     |      | cGo | 12% | ul0ft |     |
-| 5 . pSt jQ[ |       | lrq ko|  | fu]  u/L lgDglnlvt kZ| |     |     | gsf] |     |     |       |     |
+| ljBfyLx{ | ¿sf ] | dg kg {] | ljifo lbOPsf] | | | | | | | |
+| | | | | | | | cGo | 12% | ul0ft | |
+| 5 . pSt jQ[ | | lrq ko|  | fu]  u/L lgDglnlvt kZ| | | | gsf] | | | | |
 4%
 24%
-| pTt/ bp] |     | m M |     |     |     |     |     |     |     |     |
-| -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| pTt/ bp] | | m M | | | | | | | | |
 g]kfnL
-| -s_ ul0ft ljifo dgkg {] |     |     | ljBfyL { |     | ;ªV\ of slt xfn] | f < |     |     | lj1fg |     |
-| ----------------------- | --- | --- | -------- | --- | ---------------- | --- | --- | --- | ----- | --- |
+| -s_ ul0ft ljifo dgkg {] | | | ljBfyL { | | ;ªV\ of slt xfn] | f < | | | lj1fg | |
 20%
 cª\u|]hL
 22%
-| -v_ cªu\ |     | h]| L ljifo dg kg {] |     | ljBfyL { | ;ªV\ of kQf nufpm . |     |     |     |     |     |
-| -------- | --- | -------------------- | --- | -------- | ------------------- | --- | --- | --- | --- | --- |
+| -v_ cªu\ | | h]| L ljifo dg kg {] | | ljBfyL { | ;ªV\ of kQf nufpm . | | | | | |
 18%
-| -u_ ul0ft / lj1fg ljifo dg k/fpg ] |     |     |     |     | ljBfyL { | ;ªV\ of kQf nufpm . |     |     |     |     |
-| ---------------------------------- | --- | --- | --- | --- | -------- | ------------------- | --- | --- | --- | --- |
+| -u_ ul0ft / lj1fg ljifo dg k/fpg ] | | | | | ljBfyL { | ;ªV\ of kQf nufpm . | | | | |
 -3_ ul0ft, lj1fg / gk] fnLafxs] sf ljifo dg k/fpg ] ljBfyLx{ ¿ ;ªV\ of kQf nufpm .
-| -ª_ jQ[ | lrqsf ] | pkoS' | t zLifs{ |  s ] | xfn] f < |     |     |     |     |     |
-| ------- | ------- | ----- | -------- | ---- | -------- | --- | --- | --- | --- | --- |
-5.
+| -ª_ jQ[ | lrqsf ] | pkoS' | t zLifs{ |  s ] | xfn] f < | | | | | |
 sk8f ;u“ s} f ] lrqdf /dz] sf ] kl/jf/sf ] dfl;s vr { ljj/0fnfO{
 cf}ifwL
-|     |     |     |     |     | jQ[ | lrqdf k:| tt' |  ul/Psf ] 5 . lrqdf x/] |     |  . olb /dz] | sf] |
-| --- | --- | --- | --- | --- | --- | ------------- | ----------------------- | --- | ----------- | --- |
+| | | | | | jQ[ | lrqdf k:| tt' |  ul/Psf ] 5 . lrqdf x/] | |  . olb /dz] | sf] |
 45°
 vfgf
 60°
-|     |     |     |     |     | kl/jf/df vfgfdf dfl;s ?= 3500 vr { |     |     |     | nfU5 eg ] | tnsf |
-| --- | --- | --- | --- | --- | ---------------------------------- | --- | --- | --- | --------- | ---- |
+| | | | | | kl/jf/df vfgfdf dfl;s ?= 3500 vr { | | | | nfU5 eg ] | tnsf |
 120°
-|     |     |     |     |     | kZ| | gx¿sf ] pTt/ nv] |  M  |     |     |     |
-| --- | --- | --- | --- | --- | --- | ---------------- | --- | --- | --- | --- |
+| | | | | | kZ| | gx¿sf ] pTt/ nv] |  M  | | | |
 ;~rf/
-|     |       |     |     |     | -s_ cfi}fwLdf slt vr { |     | nfUnf < |     |     |     |
-| --- | ----- | --- | --- | --- | ---------------------- | --- | ------- | --- | --- | --- |
-|     | 31°   | 50° |     | 54° |                        |     |         |     |     |     |
-|     |       |     |     |     | -v_ ;~rf/df slt vr {   |     | nfU5 <  |     |     |     |
-|     | lj lj |     |     |     |                        |     |         |     |     |     |
-w
+| | | | | | -s_ cfi}fwLdf slt vr { | | nfUnf < | | | |
+| | 31° | 50° | | 54° | | | | | | |
+| | | | | | -v_ ;~rf/df slt vr { | | nfU5 <  | | | |
+| | lj lj | | | | | | | | | |
 oftfoft
-|                      |     |     |     |     | -u_ /dz] | sf ] kl/jf/ dfl;s hDdf vr { |     |     | kQf nufpm . |     |
-| -------------------- | --- | --- | --- | --- | -------- | --------------------------- | --- | --- | ----------- | --- |
-| xfdf| ]ul0ft, sIff * |     |     |     |     |          |                             |     |     |             | 157 |
-
-| 19.5      /v] | flrq (Line Graph) |     |     |     |     |     |     |     |
-| ------------- | ----------------- | --- | --- | --- | --- | --- | --- | --- |
-Y
-14
-12
-10
+| | | | | | -u_ /dz] | sf ] kl/jf/ dfl;s hDdf vr { | | | kQf nufpm . | |
+| xfdf| ]ul0ft, sIff * | | | | | | | | | | 157 |
+| 19.5 /v] | flrq (Line Graph) | | | | | | | |
 foVª\
-8
 ; gZk|
-6
-4
-2
-0
-X
-|     |     | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th 9th |
-| --- | --- | --- | --- | --- | --- | --- | --- | ------- |
+| | | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th 9th |
 1st
-lbg
-dflysf ] lrqdf x/] f “} . lagn'  ] cfgf ] pknlAw (I,Q) k/LIf0fdf 8 lbg;Dd l7s pQ/ lbPsf kZ| gx¿sf]
-| ljj/0f bv]  | fOPsf ]] 5 . tnsf kZ| |             | gaf/ ]               | 5nkmn u/f “}       | M   |     |     |     |
-| ----------- | --------------------- | ----------- | -------------------- | ------------------ | --- | --- | --- | --- |
-| -s_ klxnf ] | lbgdf sltcf6]         | f kZ|       | gsf ] l7s pQ/ lbOg \ |                    | <   |     |     |     |
-| -v_ rfy}    | f ] lbgdf lbPsf ]     | l7s pQ/sf ] |                      | ;ªV\ of slt lyof ] |     | <   |     |     |
+dflysf ] lrqdf x/] f “} . lagn'  ] cfgf ] pknlAw (I,Q) k/LIf0fdf 8 lbg;Dd l7s pQ/ lbPsf kZ| gx¿sf
+| ljj/0f bv]  | fOPsf ]] 5 . tnsf kZ| | | gaf/ ] | 5nkmn u/f “} | M | | | |
+| -s_ klxnf ] | lbgdf sltcf6] | f kZ| | gsf ] l7s pQ/ lbOg \ | | < | | | |
+| -v_ rfy} | f ] lbgdf lbPsf ] | l7s pQ/sf ] | | ;ªV\ of slt lyof ] | | < | | |
 -u_ sg'  bO'  { lbgdf a/fa/ ;ªV\ ofdf kZ| gx¿sf ] l7s pQ/ lbPsf ] kfOof ] <
-| -3_ pSt /v] | fsf ] ks| | l[t s:tf ] | bl]vG5 < |     |     |     |     |     |
-| ----------- | --------- | ---------- | -------- | --- | --- | --- | --- | --- |
+| -3_ pSt /v] | fsf ] ks| | l[t s:tf ] | bl]vG5 < | | | | | |
 sg'  } Pp6f ;do cGt/fndf bO'  { rnx¿sf ] ;DaGw bv] fpg /v] flrqnfO { ko| fu]  ug { ;lsG5 / o;nfO{
-| :tDa /v] | flrqsf ] ljsNksf ¿kdf lng ;lsG5 . |     |     |     |     |     |     |     |
-| -------- | --------------------------------- | --- | --- | --- | --- | --- | --- | --- |
+| :tDa /v] | flrqsf ] ljsNksf ¿kdf lng ;lsG5 . | | | | | | | |
 pbfx/0f 1
-| tn lbOPsf ] | cfs“ 8fnfO { | /v]  | flrqdf k:| | tt'  u/ . |      |      |       |                      |
-| ----------- | ------------ | ---- | ---------- | --------- | ---- | ---- | ----- | -------------------- |
-| ;do         | 12pm         | 2pm  | 4pm        | 6pm       | 8pm  | 10pm | 12pm  |                      |
-| tfkjm|d     | 26°C         | 28°C | 25°C       | 21°C      | 15°C | 12°C | 10°C  |                      |
-| 158         |              |      |            |           |      |      |       | xfdf| ]ul0ft, sIff * |
-
+| tn lbOPsf ] | cfs“ 8fnfO { | /v]  | flrqdf k:| | tt'  u/ . | | | | |
+| ;do | 12pm | 2pm  | 4pm | 6pm | 8pm  | 10pm | 12pm  | |
+| tfkjm|d | 26°C | 28°C | 25°C | 21°C | 15°C | 12°C | 10°C  | |
+| 158 | | | | | | | | xfdf| ]ul0ft, sIff * |
 ;dfwfg
 oxf “ ;donfO { X-  cIfdf /  tfkjm|dnfO { Y- cIfdf /fvL laGbx' ¿ kQf nufO { /v] f lvRbf lgDgfg;' f/sf ] lrq
-Y
 aG5 .
-30
-25
-20
-)C°( dmj|
-15
-kft
-10
-5
-X
-| 12 noon |     | 2pm | 4pm | 6pm | 8pm 10pm | 12am |
-| ------- | --- | --- | --- | --- | -------- | ---- |
+C°( dmj|
+| 12 noon | | 2pm | 4pm | 6pm | 8pm 10pm | 12am |
 ;do
-Y
-| pbfx/0f 2 |     |     |     |     | 12  |     |
-| --------- | --- | --- | --- | --- | --- | --- |
-10
-| Pp6f k:' ts lajm|t] |            | fn ] Ps lbgdf lajm|L u/s] |     | f k:' tssf]     |     |     |
-| ------------------- | ---------- | ------------------------- | --- | --------------- | --- | --- |
-| ljj/0f ;u“          | s} f ] /v] | flrqdf lbOPsf ]           |     | 5 . /v] flrqsf] |     |     |
+| pbfx/0f 2 | | | | | 12  | |
+| Pp6f k:' ts lajm|t] | | fn ] Ps lbgdf lajm|L u/s] | | f k:' tssf] | | |
+| ljj/0f ;u“ | s} f ] /v] | flrqdf lbOPsf ] | | 5 . /v] flrqsf] | | |
 foVª\ 8
-| ko| fu]  u/L tnsf kZ| |     | gx¿sf ] | pQ/ bp] | m . |     |     |
-| --------------------- | --- | ------- | ------- | --- | --- | --- |
+| ko| fu]  u/L tnsf kZ| | | gx¿sf ] | pQ/ bp] | m . | | |
 ; Lmj|
-6
-| -s_ ;ae} | Gbf a9L sg' |  k:' | ts lajm|L ePsf ] | 5 < | al  |     |
-| -------- | ----------- | ---- | ---------------- | --- | --- | --- |
-4
-| -v_ sg'  bO' |  { k:' tsx¿ a/fa/ ;ªV\ |     |     | ofdf lajm|L ePsf |     |     |
-| ------------ | ---------------------- | --- | --- | ---------------- | --- | --- |
-2
+| -s_ ;ae} | Gbf a9L sg' |  k:' | ts lajm|L ePsf ] | 5 < | al  | |
+| -v_ sg'  bO' |  { k:' tsx¿ a/fa/ ;ªV\ | | | ofdf lajm|L ePsf | | |
 5g \ <
 -u_ k|:t't /]vflrqnfO{ af/Daf/tf tflnsfdf X
 shlfdf;
 tf0lu gf1jl Lh|u\ªc /6o'
-| bv] fpm . |     |     |     |     |     | Lnfk]g stl}g |
-| --------- | --- | --- | --- | --- | --- | ------------ |
-KDs
+| bv] fpm . | | | | | | Lnfk]g stl}g |
 k':ts
 xfdf| ]ul0ft, sIff * 159
-
 ;dfwfg
 -s_ ;aeGbf a9L 12 cf6] f sDKo6' / ljifodf lstfa lasL| eof ] .
 -v_ cªu\ h]| L / gk] fnLdf k:' ts a/fa/ ;ªV\ ofdf (10/10 ) lajm|L eP .
 -u_ k:' ts ul0ft lj1fg cª\u|]hL g]kfnL gl}ts ;fdflhs sDKo'6/
 ;ªV\ of 11 9 10 10 8 6 12
 cEof;
-9.6
 1. tnsf af/Daf/tf tflnsfx¿nfO { /v] flrqdf k:| tt' u/ M
 -s_ sIff 5 6 7 8 9 10
 ljBfyL { ;ªV\ of 30 40 35 44 50 45
@@ -6711,46 +3625,38 @@ lbOPsf ] cfs“ 8fnfO { /v] flrqdf k:| tt' u/L /v] fsf ] ks| l[t nv] .
 3. lbOPsf ] /v] flrqdf Pp6f ;x/sf ] aiff { ljj/0f bv] fOPsf ] 5 . o;sf ] cWoog u/L tnsf
 kZ| gx¿sf ] pQ/ nv] M 24
 -s_ ;ae} Gbf sd jiff { sg'
-20
 dlxgfdf slt ePsf ] lyof ] <
 -v_ ;ae} Gbf a9L jiff { sg' 16
-)m
+m
 dlxgfdf slt ePsf ] lyof ] < m
 -u_ jiffs{ f ] lj:tf/ kQf nufpm .
 {ffij ( 12
-8
 -3_ /v] flrqnfO { af/Daf/tf
 tflnsfdf k:| tt' u/ .
-4
-0
 160 xfdf| ]ul0ft, sIff *
 vfz}j
-7h]
+7h
 /f;c gpf; }fbe h]f;c sQlfs /;lª\
-d
-Y
 dlxgf
-
 kf7
 aLhLo cleJoGhsx¿
-20
-(Algebraic Expressions)
-20.0 kg' /jnfs] g (Review)
-PseGbf a9L dfg xg' ] cIf/ jf ;ªs\ t] nfO { rn (Variable) elgG5 eg ] lglZrt jf Psdfq dfg x'g]
+Algebraic Expressions
+20.0 kg' /jnfs] g (Review
+PseGbf a9L dfg xg' ] cIf/ jf ;ªs\ t] nfO { rn (Variable) elgG5 eg ] lglZrt jf Psdfq dfg x'g
 ;ªs\ t] nfO { crn (constant) elgG5 . h:t } M x rn xf ] eg ] 6 crn xf ] . rn / crnlar ul0ftLo
 ×÷
-rf/ ljm|ofx¿ ( +,-., , ) u/L aGg ] cleJo~hsx¿nfO { aLhLo cleJo~hs (Algebraic Expression)
+rf/ ljm|ofx¿ ( +,-., , ) u/L aGg ] cleJo~hsx¿nfO { aLhLo cleJo~hs (Algebraic Expression
 elgG5 . cleJo~hsdf ePsf] rnsf] ;aeGbf 7'nf] 3ftfª\snfO{ pSt cleJo~hssf] l8u|L
 elgG5 . h:t } M x 3+ 3x 2 - 4x +5 sf ] l8uL| 3 x'G5 . aLhLo cleJo~hsdf ePsf kbx¿sf ;ªV\ ofsf
 cfwf/df pSt aLhLo cleJo~hssf ] gfds/0f ul/G5 . olb aLhLo cleJo~hsdf Pp6f dfq kb eP
 pSt aLhLo cleJo~hsnfO { Ps kbLo cleJo~hs (monomial), bO' c{ f6] f kbx¿ eP låkbLo
-cleJo~hs (binomial), tLgcf]6f kbx¿ eP Tof] lqkbLo cleJo~hs (trinomial)
+cleJo~hs (binomial), tLgcf]6f kbx¿ eP Tof] lqkbLo cleJo~hs (trinomial
 xG' 5 . To:t,} bO' { jf ;fe] Gbf a9L kbx¿ ePdf ax ' kbLo cleJo~hs (polynomial) elgG5 . h:tM}
 x 3+ 3x 2 - 4x +5 axk' bLo cleJo~hs xf ] .
-o;/L ljleGg aLhLo cleJo~hsx¿ tyf ltgLx¿sf ] hf8] , 36fp, u0' fg tyf efusf af/d] f xfdLn]
+o;/L ljleGg aLhLo cleJo~hsx¿ tyf ltgLx¿sf ] hf8] , 36fp, u0' fg tyf efusf af/d] f xfdLn
 sIff 7 df cWoog ul/;ss] f 5f “} . ca xfdL aLhLo cleJo~hsx¿sf ] v08Ls/0fsf af/d] f cWoog
 ub5{ f “} .
-20.1 v08Ls/0f (Factorization)
+20.1 v08Ls/0f (Factorization
 tnsf pbfx/0fx¿ cWoog u/ M
 -s_ 7 x 3 = 21 -v_ x(x+3) = x2+3x -u_ (x-3)(x+3) = x(x+3)-3(x+3) = x2–9
 dflysf ] pbfx/0f -s_ df 21 sf ] u0' fg v08 7 / 3 xg' \ cyft{ 7 / 3 u0' fg ubf { 21 xG' 5 .
@@ -6760,372 +3666,239 @@ v08Ls/0f (factorization) elgG5 .
 h:t } M 7x + x2 = x(7+ x) lsgls bj' d} f x ;femf 5 .
 4x2+8x = 4x (x +2) lsgls bj' d} f 4x ;femf 5 .
 xfdf| ]ul0ft, sIff * 161
-
-|  20.1.1 ;femf lng ] | / kb Pslqt u/L v08Ls/0f ug{ ] |     |     | .   |     |
-| ------------------- | ----------------------------- | --- | --- | --- | --- |
+|  20.1.1 ;femf lng ] | / kb Pslqt u/L v08Ls/0f ug{ ] | | | . | |
 sg'  } axk' bLo cleJo~hsdf ;femf u'0fgv08 ePdf To;nfO { ;femf lnP/ v08Ls/0f ul/G5 .
-| h:t } M 4xy2+ 2xy =2x(2x+y) xG' |     | 5 . |     |     |     |
-| ------------------------------- | --- | --- | --- | --- | --- |
+| h:t } M 4xy2+ 2xy =2x(2x+y) xG' | | 5 . | | | |
 To:t,} axk' bLo cleJo~hsdf ;a } kbx¿df ;femf u0' fgv08 gePdf ;femf u0' fgv08 ePsf
 kbx¿nfO { Pslqt u/L ;femf lnP/ v08Ls/0f ul/G5 . h:t } M 2xy+ 3+ 6x+ y  nfO { kb Pslqt ubf{
-= 2xy + 6x+y+3  =2x(y +3) +1(y+3)=(2x +1) (y +3)
+= 2xy + 6x+y+3  =2x(y +3) +1(y+3)=(2x +1) (y +3
 pbfx/0f 1
-| tnsf cleJo~hsx¿sf ] | v08Ls/0f u/ . |     |     |     |     |
-| ------------------- | ------------- | --- | --- | --- | --- |
+| tnsf cleJo~hsx¿sf ] | v08Ls/0f u/ . | | | | |
 -v_ a2-15b-5a+3ab
 -s_ 4x2+12xy
 ;dfwfg
 ;dfwfg
 oxf,“ a2-15b-5a+3ab
 oxf“,4x2+12xy
-|                          |                   |     | ;femf cfpg ] | kbx¿ ldnfpb“ | f,  |
-| ------------------------ | ----------------- | --- | ------------ | ------------ | --- |
-| = 4x.x +4.3.x.y    [ bj' | d} f 4x ;femf 5 ] |     |              |              |     |
-[ klxnf ] bO'  { kbaf6 a /
+| | | | ;femf cfpg ] | kbx¿ ldnfpb“ | f,  |
+| = 4x.x +4.3.x.y [ bj' | d} f 4x ;femf 5 ] | | | | |
+klxnf ] bO'  { kbaf6 a /
 a2-5a+3ab-15b
-=4x(x+3y)
+=4x(x+3y
 bf;] f| ] bO'  { kbaf6 3b
- = a(a-5)+3b(a-5)
-|     |     |     |  = (a+3b)(a-5) |     | ;femf lnb“ f ] |
-| --- | --- | --- | -------------- | --- | -------------- |
+= a(a-5)+3b(a-5
+| | | |  = (a+3b)(a-5) | | ;femf lnb“ f ] |
 cEof;  20.1.1
-| 1. tnsf cleJo~hsx¿sf ] | v08Ls/0f u/ M |     |                |     |              |
-| ---------------------- | ------------- | --- | -------------- | --- | ------------ |
-| -s_ 6x+3               | -v_ x2+4x     |     | -u_ 12a+3b     |     | -3_ 12p2+6q2 |
-| -ª_ 14xy+7y            | -r_ x+x3      |     | -5_ 12x2+xy+xz |     | -h_ x3+x2+x  |
+| 1. tnsf cleJo~hsx¿sf ] | v08Ls/0f u/ M | | | | |
+| -s_ 6x+3 | -v_ x2+4x | | -u_ 12a+3b | | -3_ 12p2+6q2 |
+| -ª_ 14xy+7y | -r_ x+x3 | | -5_ 12x2+xy+xz | | -h_ x3+x2+x  |
 -em_ 2x2-2x3+8x4
 2. kb Pslqt u/L v08Ls/0f u/ M
-| -s_ ax+bx+ay+by       |     | -v_ 2ab+a2b-2b-ab |     | -u_ x2y-xy+2x2y-2xy |     |
-| --------------------- | --- | ----------------- | --- | ------------------- | --- |
-| -3_ x2 + 3x + xy + 3y |     | -ª_ 2ab+3a+2b2+3b |     | -r_ a-b+a2-ab       |     |
+| -s_ ax+bx+ay+by | | -v_ 2ab+a2b-2b-ab | | -u_ x2y-xy+2x2y-2xy | |
+| -3_ x2 + 3x + xy + 3y | | -ª_ 2ab+3a+2b2+3b | | -r_ a-b+a2-ab | |
 -5_ 2a2 + 5a -6a -15 ) -h_ 2xa-x2a+2a-ax -em_ x2 y+4xy -xy2  -4y2
-| -`_ 3x(x +y) + 3y (x+y) |     | -6_ 2x2+3ax +2ax +3a2 |     |     |                      |
-| ----------------------- | --- | --------------------- | --- | --- | -------------------- |
-| 162                     |     |                       |     |     | xfdf| ]ul0ft, sIff * |
-
-| 20.1.2. bO' |  { jul{ arsf ] | km/ssf ] |     | v08Ls/0f (a2-b2) |     |     |     |     |     |
-| ----------- | -------------- | -------- | --- | ---------------- | --- | --- | --- | --- | --- |
-a
-|     |     |     |     | b-a A |     |     | a   |     | b   |
-| --- | --- | --- | --- | ----- | --- | --- | --- | --- | --- |
-b
-|     |     |     |     |     |     | b-a | A   |     | B   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-a
-B
-|     |     | b   |     | b2  |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-a
-|     |     |     |     | C   |     |     | b   |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| -`_ 3x(x +y) + 3y (x+y) | | -6_ 2x2+3ax +2ax +3a2 | | | |
+| 162 | | | | | xfdf| ]ul0ft, sIff * |
+| 20.1.2. bO' |  { jul{ arsf ] | km/ssf ] | | v08Ls/0f (a2-b2) | | | | | |
+| | | | | b-a A | | | a | | b |
+| | | | | | | b-a | A | | B |
+| | | b | | b2  | | | | | |
+| | | | | C | | | b | | |
 a+b
 a-b
-|     | lrq -s_ |     |     | lrq -v_ |     |     | lrq -u_ |     |     |
-| --- | ------- | --- | --- | ------- | --- | --- | ------- | --- | --- |
+| | lrq -s_ | | | lrq -v_ | | | lrq -u_ | | |
 1. lrq -s_ df bv] fP h:t } nDafO / rf8} fO a cm ePsf ] Pp6f ju { lvRg ] / bj' l}t/ b cm 36fO{
 csf {] ;fgf ] ju { agfpmg ] . Tof ] ;fgf ] jua{ fxs] sf ] efudf 5fof kfg {] . -lrq s_
-| 2.  | lrq -v_ df bv]    | fP h:t } | A, B, / C efux¿ sr“} |                               | Ln ] sf6g\ |  ] . |     |     |     |
-| --- | ----------------- | -------- | -------------------- | ----------------------------- | ---------- | ---- | --- | --- | --- |
-| 3.  | lrqdf A / B nfO { |          | ldnfpb“              | f s:tf ] cfsl[t aG5 < -lrq u_ |            |      |     |     |     |
+| 2.  | lrq -v_ df bv] | fP h:t } | A, B, / C efux¿ sr“} | | Ln ] sf6g\ |  ] . | | | |
+| 3.  | lrqdf A / B nfO { | | ldnfpb“ | f s:tf ] cfsl[t aG5 < -lrq u_ | | | | | |
 4. lrq -u_ sf ] nDafO / rf8} fO slt slt xfn] f, o;sf ] Ifq] kmn slt xfn] f <
-|     | lrq -s_ df 5fof kf/s] |     | f ] efu / lrq -u_ df s ] |     | km/s 5 < |     |     |     |     |
-| --- | --------------------- | --- | ------------------------ | --- | -------- | --- | --- | --- | --- |
-oxf,“ lrq -s_ df 7n' f ] jus{ f ] Ifq] kmn = a2  / ;fgf ] jus{ f ] Ifq] kmn = b2    xG' 5 eg]
-|     | 5fof kf/s]           | f ] efusf ]              | Ifq]                                      | kmn = a2 - b2 xG' | 5 . |     |     |     |     |
-| --- | -------------------- | ------------------------ | ----------------------------------------- | ----------------- | --- | --- | --- | --- | --- |
-|     | To:t, } lrq -u_ sf ] |                          | Ifq] kmn = (a+b) x (a-b)   { cfot ePsfn ] |                   |     | }   |     |     |     |
-|     |                      | t;y { a2-b2 = (a+b)(a-b) |                                           |                   |     |     |     |     |     |
+| | lrq -s_ df 5fof kf/s] | | f ] efu / lrq -u_ df s ] | | km/s 5 < | | | | |
+oxf,“ lrq -s_ df 7n' f ] jus{ f ] Ifq] kmn = a2  / ;fgf ] jus{ f ] Ifq] kmn = b2 xG' 5 eg
+| | 5fof kf/s] | f ] efusf ] | Ifq] | kmn = a2 - b2 xG' | 5 . | | | | |
+| | To:t, } lrq -u_ sf ] | | Ifq] kmn = (a+b) x (a-b) { cfot ePsfn ] | | | } | | | |
+| | | t;y { a2-b2 = (a+b)(a-b) | | | | | | | |
 pbfx/0f 1
 v08Ls/0f u/ M
-1
 -u_ p2
-| -s_ a2-16b2 |     |     |     | -v_ 9x2-49y2 |     |     |     |     |     |
-| ----------- | --- | --- | --- | ------------ | --- | --- | --- | --- | --- |
+| -s_ a2-16b2 | | | | -v_ 9x2-49y2 | | | | | |
 81q2
-| ;dfwfg |     |     | ;dfwfg |     |     | ;dfwfg |     |     |     |
-| ------ | --- | --- | ------ | --- | --- | ------ | --- | --- | --- |
-1
-|                 |            |     |     | oxf,“  9x2-49y2 |     |     | oxf,“     p2 |      |     |
-| --------------- | ---------- | --- | --- | --------------- | --- | --- | ------------- | ---- | --- |
-| -oxf,“  a2-16b2 |            |     |     |                 |     |     |               | 81q2 |     |
-|                 | = a2-(4b)2 |     |     | =9x2-49y2       |     |     |               |      | 2   |
+| ;dfwfg | | | ;dfwfg | | | ;dfwfg | | | |
+| | | | | oxf,“  9x2-49y2 | | | oxf,“ p2 | | |
+| -oxf,“  a2-16b2 | | | | | | | | 81q2 | |
+| | = a2-(4b)2 | | | =9x2-49y2 | | | | | 2 |
  1 
-|     |     |     |     |              |     |     |     | p2 |    |
-| --- | --- | --- | --- | ------------ | --- | --- | --- | ----- | --- |
-|     |     |     |     | =(3x)2-(7y)2 |     |     |     |       |   |
+| | | | | | | | | p2 |  |
+| | | | | =(3x)2-(7y)2 | | | | |   |
 9q
 ;q"  ko| fu]  ubf,{
-|                      |                |     |     | (3x-7y)(3x+7y) |     |     |     |     | 1  1  |
-| -------------------- | -------------- | --- | --- | -------------- | --- | --- | --- | ---- | -------- |
-|                      |                |     |     |                |     |     |     | p | p    |
-|                      |                |     |     |                |     |     |     |     |       |
-|                      | = (a-4b)(a+4b) |     |     |                |     |     |     |     | 9q 9q |
-| xfdf| ]ul0ft, sIff * |                |     |     |                |     |     |     |      | 163      |
-
+| | | | | (3x-7y)(3x+7y) | | | |  | 1  1  |
+| | | | | | | | | p | p  |
+| | | | | | | | |  |   |
+| | = (a-4b)(a+4b) | | | | | | |  | 9q 9q |
+| xfdf| ]ul0ft, sIff * | | | | | | | | | 163 |
 cEof; 20.1.2
-| 1. a2-b2 sf ] ;q" |  ko| fu]  u/L v08Ls/0f u/ M |     |            |     |              |     |
-| ----------------- | --------------------------- | --- | ---------- | --- | ------------ | --- |
-| -s_ x2-4          | -v_ a2-4b2                  |     | -u_ 9x2-y2 |     | -3_ 5x2-20y2 |     |
-50
-|                |         | 1   |            | 1   | -h_ 2p2 |     |
-| -------------- | ------- | --- | ---------- | --- | -------- | --- |
-| -ª_ 13a2-117b2 | -r_ 25 |     | -5_ 121x2 |     |          |     |
-|                |         | y2  |            |     |          | 2   |
-|                |         | 9   |            | y 2 |          | q   |
-15
+| 1. a2-b2 sf ] ;q" |  ko| fu]  u/L v08Ls/0f u/ M | | | | | |
+| -s_ x2-4 | -v_ a2-4b2 | | -u_ 9x2-y2 | | -3_ 5x2-20y2 | |
+| | | 1 | | 1 | -h_ 2p2 | |
+| -ª_ 13a2-117b2 | -r_ 25 | | -5_ 121x2 | | | |
+| | | y2  | | | | 2 |
+| | | 9 | | y 2 | | q |
 60a2
-| -em_ 72-2b2 | -`_ 121-25y2 |     | -6_  |     | -7_ 81-64y2 |     |
-| ----------- | ------------ | --- | ---- | --- | ----------- | --- |
+| -em_ 72-2b2 | -`_ 121-25y2 | | -6_  | | -7_ 81-64y2 | |
 a2
-|                |               |     |               |        | 49 64 |     |
-| -------------- | ------------- | --- | ------------- | ------ | ----- | --- |
-| -8_ 4x3y-81xy3 | -9_ 169-196z2 |     | -0f_ ab3-9a3b | -t_    | x2   | y2  |
-|                |               |     |               |        | 121 9 |     |
-|                |               |     |               | x2     | 81p2  |     |
-| -y_ zx2- zy2   | -b_ (x+2)2-4  |     | -w_ 256      | -g_ 1 |       |     |
-|                |               |     |               | 4      | 121q2 |     |
+| -8_ 4x3y-81xy3 | -9_ 169-196z2 | | -0f_ ab3-9a3b | -t_ | x2 | y2  |
+| | | | | x2 | 81p2  | |
+| -y_ zx2- zy2 | -b_ (x+2)2-4  | | -w_ 256 | -g_ 1 | | |
+| | | | | 4 | 121q2 | |
 2. lbOPsf ] lrqdf 5fof k/s] f ] efusf ] Ifq] kmn slt xfn] f < x cm
-123456789012345678901234567890 123456789012345678901234567890
-123456789012345678901234567890
-123456789012345678901234567890 123456789012345678901234567890
-123456789012345678901234567890
-123456789012345678901234567890 123456789012345678901234567890
-123456789012345678901234567890
-123456789012345678901234567890 123456789012345678901234567890
-123456789012345678901234567890
-|     |     |     | 1 1 2 2 3 3 4 4                        | 5 5 6 6 7 7 8 8 9 9 0 031 1 2 2c3 3 4 4m5 5 6 6 7 7 8 8 9 9 0 0 | 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 |     |
-| --- | --- | --- | -------------------------------------- | --------------------------------------------------------------- | --------------------------------------- | --- |
-|     |     |     | 1 2 3 4                                | 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0                                 | 1 2 3 4 5 6 7 8 9 0 0  x cm             |     |
-|     |     |     | 1 123456789012345678901234567890 2 3 4 | 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0                                 | 1 2 3 4 5 6 7 8 9                       |     |
-|     |     |     | 1 2 3 4                                | 5 6 7 8 9 9 0 0 1 1 2 2 3 3 4 435 5 6 6c7 8 8m9 0               | 1 2 3 4 5 6 7 8 9 0                     |     |
-|     |     |     | 1 123456789012345678901234567890 2 3 4 | 5 6 7 8 7 9 0                                                   | 1 2 3 4 5 6 7 8 9 0                     |     |
-123456789012345678901234567890
-123456789012345678901234567890 123456789012345678901234567890
-123456789012345678901234567890
-123456789012345678901234567890 123456789012345678901234567890
-123456789012345678901234567890
-123456789012345678901234567890 123456789012345678901234567890
-123456789012345678901234567890
- ld6/ nDafO ePsf ]
+| | | | 1 1 2 2 3 3 4 4 | 5 5 6 6 7 7 8 8 9 9 0 031 1 2 2c3 3 4 4m5 5 6 6 7 7 8 8 9 9 0 0 | 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 | |
+| | | | 1 2 3 4 | 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 | 1 2 3 4 5 6 7 8 9 0 0  x cm | |
+| | | | 1 2 3 4 | 5 6 7 8 9 9 0 0 1 1 2 2 3 3 4 435 5 6 6c7 8 8m9 0 | 1 2 3 4 5 6 7 8 9 0 | |
+ld6/ nDafO ePsf
 3. x jufs{ f/ aur“} fsf ] lardf 6 ld6/ lsgf/f ePsf ] jufs{ f/ kfv] /L 5
-| eg ] kfv] /Lafxs] | sf ] aur“} | fsf ] Ifq] kmn slt xfn] | f < |     |     |     |
-| ----------------- | ---------- | ----------------------- | --- | --- | --- | --- |
-12345678901234567890123456789012
-|     |     |     |     | 12345678901234567890123456789012 1 2 3 4 5 6 7 8 9 0 | 1 2 3 4 5 6 7 8 9 0 1 2 3 | 4 5 6 7 8 9 0 1 2 |
-| --- | --- | --- | --- | ---------------------------------------------------- | ------------------------- | ----------------- |
+| eg ] kfv] /Lafxs] | sf ] aur“} | fsf ] Ifq] kmn slt xfn] | f < | | | |
 4. ;u“ s} f ] lrqdf 5fof kfl/Psf ] efusf ] Ifq] kmn slt xfn] f < 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2
-|     |     |     |     | 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 | 1 1 2 2 3 3 4 4 5 5 6 6 7 7R8 8 9 9 0 0c1 1m2 2 3 3 | 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 1 2 2 |
-| --- | --- | --- | --- | --------------------------------------- | --------------------------------------------------- | ----------------------------------- |
-12345678901234567890123456789012
-12345678901234567890123456789012
+| | | | | 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 | 1 1 2 2 3 3 4 4 5 5 6 6 7 7R8 8 9 9 0 0c1 1m2 2 3 3 | 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 1 2 2 |
 kmn = πr2 5_ 12345678901234567890123456789012 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2
 -hxf “ jQ[ sf ] Ifq] 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2
-|     |     |     |     | 12345678901234567890123456789012 1 2 3 4 5 6 7 8 9 0 | 1 2 3 4 5 6 6r7 8 8 c9 0 0m1 2 3 | 4 5 6 7 8 9 0 1 2 |
-| --- | --- | --- | --- | ---------------------------------------------------- | -------------------------------- | ----------------- |
-|     |     |     |     | 1 2 3 4 5 6 7 8 9 0                                  | 1 2 3 4 5 7 9 1 2 3              | 4 5 6 7 8 9 0 1 2 |
-12345678901234567890123456789012 12345678901234567890123456789012
-12345678901234567890123456789012
+| | | | | 12345678901234567890123456789012 1 2 3 4 5 6 7 8 9 0 | 1 2 3 4 5 6 6r7 8 8 c9 0 0m1 2 3 | 4 5 6 7 8 9 0 1 2 |
 5. kZ| g g= 4 df olb R = 10 cm / r = 3 cm eP 5fof 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 1 2 2
-12345678901234567890123456789012
-12345678901234567890123456789012 12345678901234567890123456789012
-12345678901234567890123456789012
-|     |     |     |     | 12345678901234567890123456789012 1 2 3 4 5 6 7 8 9 0 | 1 2 3 4 5 6 7 8 9 0 1 2 3 | 4 5 6 7 8 9 0 1 2 |
-| --- | --- | --- | --- | ---------------------------------------------------- | ------------------------- | ----------------- |
 kfl/Psf ]] efusf ] Ifq] kmn kQf nufpm . 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2
-12345678901234567890123456789012 12345678901234567890123456789012
-12345678901234567890123456789012
-12345678901234567890123456789012 12345678901234567890123456789012
-12345678901234567890123456789012
-| 164 |     |     |     |     | xfdf| ]ul0ft, sIff * |     |
-| --- | --- | --- | --- | --- | -------------------- | --- |
-
-| 20.1.3 k0"               | f { ju {        | xg'  ] lqkbLosf ] | v08Ls/0f         |                         |      |     |     |
-| ------------------------ | --------------- | ----------------- | ---------------- | ----------------------- | ---- | --- | --- |
-| (a+b)2  sf ]             | lj:tfl/t ¿k s ] |                   | xf,] (a-b)2 sf ] | lj:tfl/t ¿k s ]         | xf ] | <   |     |
-| (a+b)2 = a2+2ab+b2     / |                 |                   |                  | (a-b)2 = a2-2ab+b   xG' |      | 5 . |     |
+| 164 | | | | | xfdf| ]ul0ft, sIff * | |
+| 20.1.3 k0" | f { ju { | xg'  ] lqkbLosf ] | v08Ls/0f | | | | |
+| (a+b)2  sf ] | lj:tfl/t ¿k s ] | | xf,] (a-b)2 sf ] | lj:tfl/t ¿k s ] | xf ] | < | |
+| (a+b)2 = a2+2ab+b2 / | | | | (a-b)2 = a2-2ab+b xG' | | 5 . | |
 o;sf af/d] f xfdLn ] sIff 7 df cWoog ul/;ss] f 5f “} . ca xfdL k0" f { jus{ f ] v08Ls/0fsf ] cWoog ub5{ f “} .
 pbfx/0f 1
-| k0" f { ju {    | agfpg tnsf vfnL 7fpd“ |     | f slt /fVgk'                  |     | nf { < |     |     |
-| --------------- | --------------------- | --- | ----------------------------- | --- | ------ | --- | --- |
-| -s_ x2+………….+36 |                       |     |             -v_ 49a2…………+36b2 |     |        |     |     |
+| k0" f { ju { | agfpg tnsf vfnL 7fpd“ | | f slt /fVgk' | | nf { < | | |
+| -s_ x2+………….+36 | | | -v_ 49a2…………+36b2 | | | | |
 ;dfwfg
 -s_ oxf,“
- -v_ oxf,“
-  x2+………….+36
+-v_ oxf,“
+x2+………….+36
 49a2-…………+36b2
 = x2+……….+(6)2
-  =(7a)2 -………+(6b)2
-| ca a2+2ab+b2 ;u“ |     |  tn' | gf ubf,{ |     |                   |              |     |
-| ---------------- | --- | ---- | -------- | --- | ----------------- | ------------ | --- |
-|                  |     |      |          |     | ca, a2-2ab+b2 ;u“ |  tn' gf ubf{ |     |
+=(7a)2 -………+(6b)2
+| ca a2+2ab+b2 ;u“ | |  tn' | gf ubf,{ | | | | |
+| | | | | | ca, a2-2ab+b2 ;u“ |  tn' gf ubf{ | |
 a = x, b = 6
-a = 7a, b = 6b ;   2ab = 2.7a.6b  =84ab xG' 5 .
+a = 7a, b = 6b ; 2ab = 2.7a.6b  =84ab xG' 5 .
 t;y,{ 2ab = 2 . x . 6 = 12x
-ctM 49a2-84ab+36b2    = (7a - 6b)2
-| To;sf/0f, x2 + 12x +36  = (x + 6)2  eof ] |             |     |                    | .   |                                      |              |             |
-| ----------------------------------------- | ----------- | --- | ------------------ | --- | ------------------------------------ | ------------ | ----------- |
-|                                           |             |     |                    |     | lgZsif { M 49a2 – ..... + 36b2 nfO { |              | k0" f { ju{ |
-| lgisif { M x2 + ..... + 36 nfO {          |             |     | k0" f { ju { agfpg |     |                                      |              |             |
-|                                           |             |     |                    |     | agfpg vfnL 7fpd“                     | f 84ab yKgk' | 5 { .       |
-| vfnL 7fpd“                                | f 12x yKgk' | 5 { | .                  |     |                                      |              |             |
+ctM 49a2-84ab+36b2 = (7a - 6b)2
+| To;sf/0f, x2 + 12x +36  = (x + 6)2  eof ] | | | | . | | | |
+| | | | | | lgZsif { M 49a2 – ..... + 36b2 nfO { | | k0" f { ju{ |
+| lgisif { M x2 + ..... + 36 nfO { | | | k0" f { ju { agfpg | | | | |
+| | | | | | agfpg vfnL 7fpd“ | f 84ab yKgk' | 5 { . |
+| vfnL 7fpd“ | f 12x yKgk' | 5 { | . | | | | |
 pbfx/0f 2
 v08Ls/0f u/ M
 -v_ 36a2-48ab+16b2
 -s_ 4x2+20xy+25y2
 ;dfwfg
 ;dfwfg
- oxf,“ 36a2-48ab+16b2
+oxf,“ 36a2-48ab+16b2
 oxf,“ 4x2+20xy+25y2
-|                |     |      |                |     | a2+2ab+b2 sf ] | 9fr“ fdf nh} | fb“ f |
-| -------------- | --- | ---- | -------------- | --- | -------------- | ------------ | ----- |
-| a2+2ab+b2 sf ] |     | 9fr“ | fdf nh} fb“ f, |     |                |              |       |
+| | | | | | a2+2ab+b2 sf ] | 9fr“ fdf nh} | fb“ f |
+| a2+2ab+b2 sf ] | | 9fr“ | fdf nh} fb“ f, | | | | |
 =(6a)2-2.6a.4b+(4b)2
 = (2x)2+2.2x.5y+(5y)2
 =(6a-4b)2
- =(2x+5y)2
+=(2x+5y)2
 xfdf| ]ul0ft, sIff * 165
-
 cEof; 20.1.3
-| 1. vfnL 7fpd“ |     | f pkoS' t kb e/L k0" | f { ju { agfpm M |     |                |     |     |
-| ------------- | --- | -------------------- | ---------------- | --- | -------------- | --- | --- |
-| -s_ x2+…….+16 |     |                      | -v_ 4a2+….+y2    |     | -u_ p2 -…..+36 |     |     |
-4
+| 1. vfnL 7fpd“ | | f pkoS' t kb e/L k0" | f { ju { agfpm M | | | | |
+| -s_ x2+…….+16 | | | -v_ 4a2+….+y2 | | -u_ p2 -…..+36 | | |
 -r_ p2..............
-| -3_ 9a2 -……+16b2 |     |     | -ª_ 25p2 -……+ 49q2 |     |     |     |     |
-| ---------------- | --- | --- | ------------------ | --- | --- | --- | --- |
+| -3_ 9a2 -……+16b2 | | | -ª_ 25p2 -……+ 49q2 | | | | |
 p2
-|                     |     |     |               |     |  -em_ p2.............. |     | 1   |
-| ------------------- | --- | --- | ------------- | --- | ------------------------ | --- | --- |
-| -5_ 225x2 -…..+64y2 |     |     | -h_ 1+……+36y2 |     |                          |     |     |
+| | | | | |  -em_ p2.............. | | 1 |
+| -5_ 225x2 -…..+64y2 | | | -h_ 1+……+36y2 | | | | |
 p2
 v08Ls/0f u/ M
-2.
-| -s_ a2+12a+36   |     |     | -v_ y2+14y+49    |     |     | -u_ p2+22p+121    |     |
-| --------------- | --- | --- | ---------------- | --- | --- | ----------------- | --- |
-| -3_ 4a2+20a+25  |     |     | -ª_ 9r2+60r+100  |     |     | -r_ 36x2+84x+49   |     |
-| -5_ x2 -8x+16   |     |     | -h_ a2 -18a+81   |     |     | -em_ p2  -26p+169 |     |
-| -`_ 9a2 -30a+25 |     |     | -6_ 25y2 -60y+36 |     |     | -7_ 49r2 -70r+25  |     |
+| -s_ a2+12a+36 | | | -v_ y2+14y+49 | | | -u_ p2+22p+121 | |
+| -3_ 4a2+20a+25  | | | -ª_ 9r2+60r+100  | | | -r_ 36x2+84x+49 | |
+| -5_ x2 -8x+16 | | | -h_ a2 -18a+81 | | | -em_ p2  -26p+169 | |
+| -`_ 9a2 -30a+25 | | | -6_ 25y2 -60y+36 | | | -7_ 49r2 -70r+25  | |
 x2
-| -8_ 4p2+24pq+36q2 |     |     | -9_ 9a2+42ab+49b2 |     |     | -0f_  | xy4y2 |
-| ----------------- | --- | --- | ----------------- | --- | --- | ----- | ------- |
-16
+| -8_ 4p2+24pq+36q2 | | | -9_ 9a2+42ab+49b2 | | | -0f_  | xy4y2 |
 y2
-| -t_ 25a2-40ab+16b2 |     |     | -y_ 49q2-70qr+25r2 |     |     | -b_ 25x22xy |     |
-| ------------------ | --- | --- | ------------------ | --- | --- | ------------- | --- |
-25
-| 20.1.4  x2 ± bx + c :j¿ksf ] |         |        | v08Ls/0f |     |     |     |     |
-| ---------------------------- | ------- | ------ | -------- | --- | --- | --- | --- |
-| tnsf ]                       | lrq x/] | f “} M |          |     |     |     |     |
+| -t_ 25a2-40ab+16b2 | | | -y_ 49q2-70qr+25r2 | | | -b_ 25x22xy | |
+| 20.1.4  x2 ± bx + c :j¿ksf ] | | | v08Ls/0f | | | | |
+| tnsf ] | lrq x/] | f “} M | | | | | |
 x + 3
-|     |     | 1                                    | 1                                                             |     |     | 1                   | 2 3 4 5 6 7 8 9 0 1 2 3 4                           |
-| --- | --- | ------------------------------------ | ------------------------------------------------------------- | --- | --- | ------------------- | --------------------------------------------------- |
-|     | x   |                                      | 1 1                                                           |     |     | 12                  | 3 4 5 6 7 8 9 0 1 2 3 4                             |
-|     |     |                                      | 1                                                             |     |     | 1                   | 2 3 4 5 6 7 8 9 0 1 2 3 4                           |
-|     |     | 12345 1234512345612345612345         |                                                               |     |     | 1 12345678901234    | 2 3 4 5 6 7 8 9 0 1 2 3 4                           |
-|     |     | 1234512345612345612345               |                                                               |     |     | 12345678901234      |                                                     |
-|     |     | 1 1 2 2 3 3 4 4 5 5 1 1 2 2          | 3 3 4 4 5 5 6 6 1 1 2 2 3 3 4 4 5 5 6 6 1 1 2 2 3 3 4 4 5 5 1 |     |     | 1 1                 | 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 0 0 1 1 2 2 3 3 4 4 |
-|     |     | 1234512345612345612345               |                                                               |     |     | 12345678901234      |                                                     |
-|     |     | 1234512345612345612345 1 2 3 4 5 1 2 | 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5                                 |     |     | x2 12345678901234 1 | 2 3 4 5 6 7 8 9 0 1 2 3 4                           |
-|     |     | 1 2 3 4 5 1 2                        | 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5                                 | x   |     | 1                   | 2 3 4 5 6 7 8 9 0 1 2 3 4                           |
+| | x | | 1 1 | | | 12 | 3 4 5 6 7 8 9 0 1 2 3 4 |
+| | | 1234512345612345612345 1 2 3 4 5 1 2 | 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 | | | x2 12345678901234 1 | 2 3 4 5 6 7 8 9 0 1 2 3 4 |
+| | | 1 2 3 4 5 1 2 | 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 | x | | 1 | 2 3 4 5 6 7 8 9 0 1 2 3 4 |
 x 1234512345612345612345 1 2 x3 4 5 1 2 3 3x4 5 6 1 2 3 3x4 5 6 1 2 2x3 4 5 12345678901234 1 2 3 4 5 6 7 8 9 0 1 2 3 4
 1 2 3 4 5 1 2 4 5 6 1 2 4 5 6 1 3 4 5 1 2 3 4 5 6 7 8 9 0 1 2 3 4 x+1
-|     |     | 1234512345612345612345 1234512345612345612345 |     |                                                                     |                      | 12345678901234 12345678901234 |       |
-| --- | --- | --------------------------------------------- | --- | ------------------------------------------------------------------- | -------------------- | ----------------------------- | ----- |
-|     |     | 1234512345612345612345                        |     |                                                                     |                      | 12345678901234                |       |
-|     |     | 1234512345612345612345 1234512345612345612345 |     |                                                                     |                      | 12345678901234 12345678901234 |       |
-|     |     | 1234512345612345612345                        |     |                                                                     |                      | 12345678901234                |       |
-|     |     | 1234512345612345612345 1234512345612345612345 |     |                                                                     |                      | 12345678901234 12345678901234 |       |
-|     |     | 1234512345612345612345                        |     |                                                                     |                      | 12345678901234                |       |
-|     |     | 1234512345612345612345 1234512345612345612345 |     | 1234567890123456789012345612345678901234 12345678901234567890123456 |                      |                               |       |
-|     |     | 1234512345612345612345                        |     | 112345678901234567890123456                                         |                      |                               |       |
-|     |     | 1234512345612345612345                        |     | 12345678901234567890123456 12345678901234567890123456               |                      |                               |       |
-|     |     | 2                                             |     | 1 2 3 45                                                            | 6 7 89 0 1 23 4 5    | 67 8 9 01 2 3 45 6            |       |
-|     |     | x 4x3                                       |     | 1 2 34                                                              | 5 6 78 9 0 12 3 4 56 | 7 8 90 1 2 34 5 6             | 1 1 1 |
-(x1)(x3)
-| dflysf ]                | lrqaf6 s ] | kfof +“} 5nkmn u/ . |     |     |     |     |                      |
-| ----------------------- | ---------- | ------------------- | --- | --- | --- | --- | -------------------- |
-| x2 + xa + xb + ab nfO { |            | v08Ls/0f ubf,{      |     |     |     |     |                      |
-| x(x+a)+b(x+a) xG'       |            | 5 .                 |     |     |     |     |                      |
-| 166                     |            |                     |     |     |     |     | xfdf| ]ul0ft, sIff * |
-
+| | | x 4x3 | | 1 2 34 | 5 6 78 9 0 12 3 4 56 | 7 8 90 1 2 34 5 6 | 1 1 1 |
+x1)(x3
+| dflysf ] | lrqaf6 s ] | kfof +“} 5nkmn u/ . | | | | | |
+| x2 + xa + xb + ab nfO { | | v08Ls/0f ubf,{ | | | | | |
+| x(x+a)+b(x+a) xG' | | 5 . | | | | | |
+| 166 | | | | | | | xfdf| ]ul0ft, sIff * |
 xfdf| ]ul0ft, sIff * 167
-
-| 20.1.5  ax2 ± bx ± c :j¿ksf ] | v08Ls/0f |     |     |     |
-| ----------------------------- | -------- | --- | --- | --- |
-ax2+bx+c df ;jk{ y| d a / c sf ] u0' ff ug {] / u0' fgkmnsf ] bO'  { cf6] f u0' fgv08 kQf nufpg ] h;sf]
+| 20.1.5  ax2 ± bx ± c :j¿ksf ] | v08Ls/0f | | | |
+ax2+bx+c df ;jk{ y| d a / c sf ] u0' ff ug {] / u0' fgkmnsf ] bO'  { cf6] f u0' fgv08 kQf nufpg ] h;sf
 hf8]  jf 36fp b xG' 5 . To;nfO { tnsf ] tflnsfaf6 bv] fpg ;lsG5 M
-| cleJo~hs |             |   r / s        | sf ] lrxg\ |     |
-| -------- | ----------- | -------------- | ---------- | --- |
-| ax2+bx+c | + r+s = b   |   bj'  } + ve  |            |     |
-| ax2+bx-c | - r-s = b   |   7n" f ] + ve |            |     |
-| ax2-bx+c | + -r-s = -b |   bj'  } - ve  |            |     |
-| ax2-bx-c | - -r+s = -b |   7n" f ] - ve |            |     |
+| cleJo~hs | | r / s | sf ] lrxg\ | |
+| ax2+bx+c | + r+s = b | bj'  } + ve  | | |
+| ax2+bx-c | - r-s = b | 7n" f ] + ve | | |
+| ax2-bx+c | + -r-s = -b | bj'  } - ve  | | |
+| ax2-bx-c | - -r+s = -b | 7n" f ] - ve | | |
 pbfx/0f 1
 v08Ls/0f u/ M
-| -s_ 6x2+17x+12               |  -v_ 3x2-11x-20 |                                |     |     |
-| ---------------------------- | --------------- | ------------------------------ | --- | --- |
-| ;dfwfg                       |                 | ;dfwfg                         |     |     |
-| oxf,“ a = 6, c = 12, b = +17 |                 | oxf “ a = 3, b = -11 / c = -20 |     |     |
-| a.c = 6x12 = 72              |                 | a.c = -60                      |     |     |
-| = 6x2+9x+8x+12               |                 | = 3x2-15x+4x-20                |     |     |
+| -s_ 6x2+17x+12 |  -v_ 3x2-11x-20 | | | |
+| ;dfwfg | | ;dfwfg | | |
+| oxf,“ a = 6, c = 12, b = +17 | | oxf “ a = 3, b = -11 / c = -20 | | |
+| a.c = 6x12 = 72 | | a.c = -60 | | |
+| = 6x2+9x+8x+12 | | = 3x2-15x+4x-20 | | |
 -15 x 4=-60
-| =  3x(2x+3) +4(2x+3) |     | = 3x(x-5)+4(x-5) |     | -15 + 4 =-11 |
-| -------------------- | --- | ---------------- | --- | ------------ |
-| = (2x+3) (3x+4)      |     | = (3x + 4) (x-5) |     |              |
+| =  3x(2x+3) +4(2x+3) | | = 3x(x-5)+4(x-5) | | -15 + 4 =-11 |
+| = (2x+3) (3x+4) | | = (3x + 4) (x-5) | | |
 cEof; 20.1.5
 v08Ls/0f u/ M
-| -s_ 3x2+5x+2        | -v_ 3x2-4x+1   |     | -u_ 7x2-30x+8     |                      |
-| ------------------- | -------------- | --- | ----------------- | -------------------- |
-| -3_ 4a2-8a+3        | -ª_ 15p2-13p+2 |     | -r_ 12a2-32a+5    |                      |
-| -5_ 5x2-14x-3       | -h_ 10x2-3x-1  |     | -em_ 15p2-13p+2   |                      |
-| -`_ 6b2-4b-10       | -6_ 21x2+25x+4 |     | -7_ 12a2+28ab-5b2 |                      |
-| -8_ 16a2+24ab+9b2   | -9_ 6x2+xy-7y2 |     | -0f_ 3a2-ab-10b2  |                      |
-| -t_ (x+1)2-6(x+1)+8 | -y_ 28+27x-x2  |     | -b_ 6p2q+30pq+36q |                      |
-| 168                 |                |     |                   | xfdf| ]ul0ft, sIff * |
-
+| -s_ 3x2+5x+2 | -v_ 3x2-4x+1 | | -u_ 7x2-30x+8 | |
+| -3_ 4a2-8a+3 | -ª_ 15p2-13p+2 | | -r_ 12a2-32a+5 | |
+| -5_ 5x2-14x-3 | -h_ 10x2-3x-1  | | -em_ 15p2-13p+2 | |
+| -`_ 6b2-4b-10 | -6_ 21x2+25x+4 | | -7_ 12a2+28ab-5b2 | |
+| -8_ 16a2+24ab+9b2 | -9_ 6x2+xy-7y2 | | -0f_ 3a2-ab-10b2  | |
+| -t_ (x+1)2-6(x+1)+8 | -y_ 28+27x-x2  | | -b_ 6p2q+30pq+36q | |
+| 168 | | | | xfdf| ]ul0ft, sIff * |
 xfdf| ]ul0ft, sIff * 169
-
 | 1.  lrqdf bv] | fP h:t } | ;a } eh' f a ePsf ] | Pp6f 3gfsf/ j:t ' | np] m . |
-| ------------- | -------- | ------------------- | ----------------- | ------- |
 2.  To;nfO { kT| os]  eh' fdf b 36fP/ /v] f tfg / lrqdf bv] fP h:t } 8 cf6] f 6j' m|fdf sf6 .
-| 3.  ;a } 6j'     | m|fx¿sf ] 56' | 6\ f56' 6\  } | cfotg lgsfn .           |          |
-| ---------------- | ------------- | ------------- | ----------------------- | -------- |
-| ca, k/" f 3gsf ] | cfotg         | = ;a }        | 6j' m|fx¿sf ] cfotgsf ] | ofu] kmn |
+| 3.  ;a } 6j' | m|fx¿sf ] 56' | 6\ f56' 6\  } | cfotg lgsfn . | |
+| ca, k/" f 3gsf ] | cfotg | = ;a } | 6j' m|fx¿sf ] cfotgsf ] | ofu] kmn |
 a3 = (a-b)3+ (a-b)2b+ (a-b)2b+(a-b)2b+(a-b)b2+(a-b)b2+(a-b)b2+b3
 = (a-b)3 + 3(a-b)2. b + 3(a-b).b2 + b3
 = (a-b)3+ (a2-2ab+b2).b+3(a-b)b2+b3
 = (a-b)3+3a2b- 6ab2+3b3+3ab2–3b3+b3
-|       |  a3                      | = (a-b)3+ 3a2b-3ab2+b3 |                            |     |
-| ----- | ------------------------ | ---------------------- | -------------------------- | --- |
-| cyjf, | (a-b)3 = a3-3a2b+3ab2-b3 |                        |                            |     |
-|       |                          |                        | 3ab bj' d} f ;femf ePsfn_] |     |
-= a3-3ab(a-b)-b3 (
-| (a-b)3 | = a3-3a2b+3ab2-b3 |     |     |     |
-| ------ | ----------------- | --- | --- | --- |
+| |  a3 | = (a-b)3+ 3a2b-3ab2+b3 | | |
+| cyjf, | (a-b)3 = a3-3a2b+3ab2-b3 | | | |
+| | | | 3ab bj' d} f ;femf ePsfn_] | |
+= a3-3ab(a-b)-b3
+| (a-b)3 | = a3-3a2b+3ab2-b3 | | | |
 = a3-3ab(a-b)-b3
 km]l/, (a+b)3
 = a3+3ab(a+b)+b3
-|    cyjfa3+b3 | = (a+b)3 - 3ab(a+b) /   |     |     |     |
-| ------------ | ----------------------- | --- | --- | --- |
-|              | (a-b)3 = a3-3ab(a-b)-b3 |     |     |     |
-|              | = (a-b)3 + 3ab(a-b) xG' |     | 5 . |     |
+| cyjfa3+b3 | = (a+b)3 - 3ab(a+b) / | | | |
+| | (a-b)3 = a3-3ab(a-b)-b3 | | | |
+| | = (a-b)3 + 3ab(a-b) xG' | | 5 . | |
 a3-b3
-gf6]  M  1. (a+b) (a2-ab+b2)
-= a(a2-ab+b2)+b(a2-ab+b2)
+gf6]  M  1. (a+b) (a2-ab+b2
+= a(a2-ab+b2)+b(a2-ab+b2
 =a3-a2b+ab2+a2b-ab2+b3
 =a3+ b3
-|                     | a3+b3 |                           | = (a+b) (a2-ab+b2)  xG' | 5 . |
-| ------------------- | ----- | ------------------------- | ----------------------- | --- |
-| 2. (a-b) (a2+ab+b2) |       | = a(a2+ab+b2)-b(a2+ab+b2) |                         |     |
+| | a3+b3 | | = (a+b) (a2-ab+b2)  xG' | 5 . |
+| 2. (a-b) (a2+ab+b2) | | = a(a2+ab+b2)-b(a2+ab+b2) | | |
 = a3+a2b+ab2-a2b-ab2-b3
 = a3 - b3
-|  a3-b3 = (a-b) (a2+ab+b2)  xG' |     |     | 5 . |     |
-| ------------------------------ | --- | --- | --- | --- |
+|  a3-b3 = (a-b) (a2+ab+b2)  xG' | | | 5 . | |
 170 xfdf| ]ul0ft, sIff *
-
 pbfx/0f 1
 3g kQf nufpm -;q" ko| fu] u//] _ M
--s_ (x+2) -v_ (x-3)
+-s_ (x+2) -v_ (x-3
 ;dfwfg ;dfwfg
 oxf,“ (x-3) sf ] 3g
 oxf,“ (x+2) sf ] 3g
@@ -7140,303 +3913,229 @@ olb (a+b)= 5 / a.b = 6 eP a3+b3 sf ] dfg slt xfn] f <
 ;dfwfg
 oxf,“ (a+b) = 5, ab=6
 a3+b3 = ?
-xfdLnfO { yfxf 5, a3+b3 = (a+b)3- 3ab(a+b)
-= 53 - 3.6(5)
-= 125- 90
-= 35
+xfdLnfO { yfxf 5, a3+b3 = (a+b)3- 3ab(a+b
 pbfx/0f 3
 ;/n u/ M
-(x+y)3 - (x-y)3
+x+y)3 - (x-y)3
 ;dfwfg
 oxf,“ (x+y)3- (x-y)3
-= x3+ 3x2y+ 3xy2 + y3 – (x3-3x2y+3xy2- y3)
+= x3+ 3x2y+ 3xy2 + y3 – (x3-3x2y+3xy2- y3
 = x3+ 3x2y+ 3xy2+ y3 – x3+3x2y-3xy2+ y3
 = 6x2y+2y3
-= 2y(3x2+y2)
+= 2y(3x2+y2
 xfdf| ]ul0ft, sIff * 171
-
 172 xfdf| ]ul0ft, sIff *
-
-| 20.3.  aLhLo cleJo~hsx¿sf ] |     | dxQd ;dfkjts{ |     |  / n3Q' d ;dfkjTo{ |
-| --------------------------- | --- | ------------- | --- | ------------------ |
-(HCF and LCM of Algebraic Expressions)
-| 20.3.1. dxQd ;dfkjts{        |  (Highest Common Factor) |     |                 |     |
-| ---------------------------- | ------------------------ | --- | --------------- | --- |
-| bO'  { ;ªV\ ofx¿ 12 / 18 np] | m . 12 / 18 sf u0'       |     | fgv08x¿ lgsfn . |     |
+| 20.3.  aLhLo cleJo~hsx¿sf ] | | dxQd ;dfkjts{ | |  / n3Q' d ;dfkjTo{ |
+HCF and LCM of Algebraic Expressions
+| 20.3.1. dxQd ;dfkjts{ |  (Highest Common Factor) | | | |
+| bO'  { ;ªV\ ofx¿ 12 / 18 np] | m . 12 / 18 sf u0' | | fgv08x¿ lgsfn . | |
 12  sf u0' fgv08x¿  1, 2, 3, 4, 6, 12 /
-| 18  sf u0' fgv08x¿ 1, 2, 3, 6, 9,18 xG' |     |     | 5g \ . |     |
-| --------------------------------------- | --- | --- | ------ | --- |
+| 18  sf u0' fgv08x¿ 1, 2, 3, 6, 9,18 xG' | | | 5g \ . | |
 12 / 18 sf u0' fgv08x¿dWo ] ;aeGbf 7n' f ] ;femf u0' fgv08 sg'  xf,] Tof ] g } 12 / 18 sf ] dxQd
 ;dfkjt{ s xf ] . oxf,“ 12 / 18 sf ] ;ae} Gbf 7n' f ] ;femf u0' fgv08  6 xf ] .
-| t;y,{ 12 / 18 sf ]         | d=;= 6 eof ] | .   |     |     |
-| -------------------------- | ------------ | --- | --- | --- |
-| To:t, } 3x2y / 6xy2 df x/] | f“}          |     |     |     |
+| t;y,{ 12 / 18 sf ] | d=;= 6 eof ] | . | | |
+| To:t, } 3x2y / 6xy2 df x/] | f“} | | | |
 3x2y = 3.x.x.y /
-| 6xy2 = 2.3.x.y.y xG' | 5 . |     |     |     |
-| -------------------- | --- | --- | --- | --- |
+| 6xy2 = 2.3.x.y.y xG' | 5 . | | | |
 fgv08x¿ 3, x /
-| oL bO'  { cleJo~hslardf ;femf u0' |               |     |     | y 5g'  \ . |
-| --------------------------------- | ------------- | --- | --- | ---------- |
-| To;sf/0f, 3x2y / 6xy2  sf ]       | d=;= 3xy  xG' |     | 5 . |            |
+| oL bO'  { cleJo~hslardf ;femf u0' | | | | y 5g'  \ . |
+| To;sf/0f, 3x2y / 6xy2  sf ] | d=;= 3xy  xG' | | 5 . | |
 lbOPsf aLhLo cleJo~hsx¿sf] ;a}eGbf 7'nf] ;femf cleJo~hs -u'0fgv08_ nfO{ tL
 cleJo~hsx¿sf ] dxQd ;dfkjts{  (Highest Common Factor)  elgG5 . o;nfO { 5f6] s/Ldf
 d=;= (HCF) nl]vG5 .
 pbfx/0f 1
-|   x2-6x+8, x2-4  / x2+4x+4  sf ] |     | d=;= kQf nufpm . |     |     |
-| -------------------------------- | --- | ---------------- | --- | --- |
+| x2-6x+8, x2-4  / x2+4x+4  sf ] | | d=;= kQf nufpm . | | |
 ;dfwfg
 oxf,“ klxnf ] cleJo~hs
 = x2+6x+8
 = x2+4x+2x+8
-= x(x+4)+2(x+4)
-= (x+2) (x+4)
+= x(x+4)+2(x+4
+= (x+2) (x+4
 xfdf| ]ul0ft, sIff * 173
-
-| bf;] f| ] cleJo~hs | = x2-4 |     |     |
-| ------------------ | ------ | --- | --- |
+| bf;] f| ] cleJo~hs | = x2-4 | | |
 = x2-22
-= (x-2) (x+2)
-| t;] f| ] cleJo~hs | = x2+4x+4 |     |     |
-| ----------------- | --------- | --- | --- |
+= (x-2) (x+2
+| t;] f| ] cleJo~hs | = x2+4x+4 | | |
 = x2+2.2x+22
 = (x+2)2
-= (x+2) (x+2)
-| ∴ d=;= = tLgcf6]                           |  } cleJo~hsx¿sf ] | ;femf u0' fgv08 = (x+2) |     |
-| ------------------------------------------ | ----------------- | ----------------------- | --- |
-| To;sf/0f,   x2-6x+8, x2-4  / x2+4x+4  sf ] |                   | d=;= (x +2) xG'         | 5 . |
+= (x+2) (x+2
+| ∴ d=;= = tLgcf6] |  } cleJo~hsx¿sf ] | ;femf u0' fgv08 = (x+2) | |
+| To;sf/0f, x2-6x+8, x2-4  / x2+4x+4  sf ] | | d=;= (x +2) xG' | 5 . |
 cEof; 20.3.1
-| 1. dxQd ;dfkjts{           |  -d=;_ kQf nufpm M |                        |     |
-| -------------------------- | ------------------ | ---------------------- | --- |
-| -s_ 4x2y  / xy2            |                    | -v_ 9x2y3 / 15xy2      |     |
-| -u_ a2bc, b2ac / c2ab      |                    | -3_ x2-4 / 3x+6        |     |
-| -ª_ x2-y2 / xy-y2          |                    | -r_ p2q- q2p, 2p2-2pq  |     |
-| -5_ 3a +b  / 15a +5b       |                    | -h_ x2+2xy+y2  / x2-y2 |     |
-| -em_ x2-11x+30  / x2-36    |                    | -`_ x3-9 / x2-6x + 9   |     |
-| -6_ x2+16x+60 / x2+20x+100 |                    | -7_ a2+5a+6  / a2+a-6  |     |
-| -8_ x2-11x+10 / x3-x       |                    | -9_ a2-2ab+b2 / a4- b4 |     |
+| 1. dxQd ;dfkjts{ |  -d=;_ kQf nufpm M | | |
+| -s_ 4x2y  / xy2 | | -v_ 9x2y3 / 15xy2 | |
+| -u_ a2bc, b2ac / c2ab | | -3_ x2-4 / 3x+6 | |
+| -ª_ x2-y2 / xy-y2 | | -r_ p2q- q2p, 2p2-2pq  | |
+| -5_ 3a +b  / 15a +5b | | -h_ x2+2xy+y2  / x2-y2 | |
+| -em_ x2-11x+30  / x2-36 | | -`_ x3-9 / x2-6x + 9 | |
+| -6_ x2+16x+60 / x2+20x+100 | | -7_ a2+5a+6  / a2+a-6  | |
+| -8_ x2-11x+10 / x3-x | | -9_ a2-2ab+b2 / a4- b4 | |
 -0f_ x2-x2y2  / y2-y4
 2.  d=;= lgsfn M
-| -s_ (x-a) , x2-a2 / x2-2ax+a2 |     | -v_  x2-y2, x2-xy / x2y-y2x     |     |
-| ----------------------------- | --- | ------------------------------- | --- |
-| -u_ a3-ab2, a2+ab /  a2b+ab2  |     | -3_ x2+5x+6, x2+x-6  / x2-9     |     |
-| -ª_ a2+2a-3, a2-3a+2  / a2-1  |     | -r_ x2+4x+4, x2+7x+10 /  x2-x-6 |     |
+| -s_ (x-a) , x2-a2 / x2-2ax+a2 | | -v_  x2-y2, x2-xy / x2y-y2x | |
+| -u_ a3-ab2, a2+ab /  a2b+ab2  | | -3_ x2+5x+6, x2+x-6  / x2-9 | |
+| -ª_ a2+2a-3, a2-3a+2  / a2-1  | | -r_ x2+4x+4, x2+7x+10 /  x2-x-6 | |
 -5_ x3+2x2-15x, x2-7x+12  / 3x2-27 -h_ a2-3a +2, 3a2-2a-8  / 2a2-9a+10
 -em_ a3+6a2-4a-24, a2+5a+6  / a2-4
 174 xfdf| ]ul0ft, sIff *
-
-| 20.3.2. n3Q' | d ;dfkjTo { |     |     |     |     |     |
-| ------------ | ----------- | --- | --- | --- | --- | --- |
-(Lowest Common Multiple)
-| 8 / 10 sf ckjTox{ |     |      | ¿ nv]                               |  .  |     |     |
-| ----------------- | --- | ---- | ----------------------------------- | --- | --- | --- |
-| 8 sf ckjTox{      |     | ¿ (M | ) = {8, 16, 24, 32, 40, 48, …………..} |     |     |     |
-8
-| 10 sf ckjTox{ |     | ¿ (M | ) = {10, 20, 30, 40, 50, 60, ……} |     |     |     |
-| ------------- | --- | ---- | -------------------------------- | --- | --- | --- |
-10
+| 20.3.2. n3Q' | d ;dfkjTo { | | | | | |
+Lowest Common Multiple
+| 8 / 10 sf ckjTox{ | | | ¿ nv] |  .  | | |
+| 8 sf ckjTox{ | | ¿ (M | ) = {8, 16, 24, 32, 40, 48, …………..} | | | |
+| 10 sf ckjTox{ | | ¿ (M | ) = {10, 20, 30, 40, 50, 60, ……} | | | |
 ca 8 / 10 sf ;femf ckjTox{ ¿ sg'  sg ' xg' ,\ / ;ae} Gbf ;fgf ] ;femf ckjTo { kQf nufpm .
 Tof ] g } 8 / 10 sf ] n3Q' d ;dfkjTo { xf ] . oxf,“ 8 / 10 sf ] ;ae} Gbf ;fgf ] ;femf ckjTo { 40 xf ] .
-| To;sf/0f,  8 / 10 n3Q'    |               |     | d ;dfkjTo {    | 40 xf ] | .   |     |
-| ------------------------- | ------------- | --- | -------------- | ------- | --- | --- |
-| kml]/,  8x2 / 10x3 df x/] |               |     | f “} .         |         |     |     |
-| 8 / 10 sf ]               | ;femf ckjTox{ |     | ¿ {40, 80, ….} |         |     |     |
-| ;ae} Gbf ;fgf ]           | ;femf ckjTo { |     | 40 xf ]        | .       |     |     |
+| To;sf/0f,  8 / 10 n3Q' | | | d ;dfkjTo { | 40 xf ] | . | |
+| kml]/,  8x2 / 10x3 df x/] | | | f “} . | | | |
+| 8 / 10 sf ] | ;femf ckjTox{ | | ¿ {40, 80, ….} | | | |
+| ;ae} Gbf ;fgf ] | ;femf ckjTo { | | 40 xf ] | . | | |
 To:t,} x2 / x3 sf ;femf ckjTox{ ¿ x3, x4, x5, x6, ….. xg'  \ / ;ae} Gbf ;fgf ] ;femf ckjTox{ ¿ x3
 xf ] .
-|  8x2 / 10x3 n ]            |     | efu hfg ] |                   | ;aeGbf ;fgf ] | ckjTo { 40x3 xG' | 5 . |
-| -------------------------- | --- | --------- | ----------------- | ------------- | ---------------- | --- |
-| To; sf/0f, 8x2 / 10x3 sf ] |     |           | n=;= klg 40x3 xG' |               | 5 .              |     |
+|  8x2 / 10x3 n ] | | efu hfg ] | | ;aeGbf ;fgf ] | ckjTo { 40x3 xG' | 5 . |
+| To; sf/0f, 8x2 / 10x3 sf ] | | | n=;= klg 40x3 xG' | | 5 . | |
 csf {] tl/sf
 8x2 = 2.2.2.x.x
 10x3 = 2.5.x.x.x
 ;femf u0' fgv08x¿ = 2.x.x. = 2x2
 afs“ L u0' fgv08x¿ = 2.2.5.x = 20x
-| n=;= = ;femf u0' |     | fgv08x¿ x afs“ |     | L u0' fgv08x¿ |     |     |
-| ---------------- | --- | -------------- | --- | ------------- | --- | --- |
-| = 2x2 x 20x      |     | = 40x3         |     |               |     |     |
+| n=;= = ;femf u0' | | fgv08x¿ x afs“ | | L u0' fgv08x¿ | | |
+| = 2x2 x 20x | | = 40x3 | | | | |
 lbOPsf cleJo~hsx¿sf] ;femf u'0fgv08x¿ / af“sL u'0fgv08x¿sf] u'0fg kmn pSt
 cleJo~hsx¿sf ] n3Q' d ;dfkjTo { (lowest common multiple) xf ] .
 bO'  { jf bO' e{ Gbf a9L aLhLo cleJo~hsx¿sf ] n3Q' d ;dfkjTo { egs] f ] tL cleJohsx¿n ] lgMzi]f
 efu hfg ] ;ae} Gbf ;fgf ] aLhLo cleJo~hs xf ] . o;nfO { 5f6] sl/df n=;= (LCM) nl]vG5 .
 xfdf| ]ul0ft, sIff * 175
-
 pbfx/0f 1
 n=;=lgsfn M
 x2-10x+25, x2-x-20 / x2-25
 ;dfwfg
 klxnf ] cleJo~hs = x2-10x+25 bf;] f| ] cleJo~hs = x2-x-20 = x2-5x+4x-20
-   = x2- 2 x x x 5+52 = x(x-5)+4(x-5)
-= (x-5)(x-5)
-= (x+4)(x-5)
+= x2- 2 x x x 5+52 = x(x-5)+4(x-5
+= (x-5)(x-5
+= (x+4)(x-5
 t;] f| ] cleJo~hs = x2-25 = x2-52
-= (x-5)(x+5)
-;a } cleJo~hsdf ;femf u0' fgv08 = (x-5)
+= (x-5)(x+5
+;a } cleJo~hsdf ;femf u0' fgv08 = (x-5
 | ca, n=;= | = ;femf u0' fgv08x¿ x afs“ | L u0' fgv08x¿ |
-| -------- | -------------------------- | ------------- |
-= (x-5)(x-5)(x+5)(x+4)
-= (x-5)2(x+5)(x+4)
+= (x-5)(x-5)(x+5)(x+4
+= (x-5)2(x+5)(x+4
 ∴ n=;=
-= (x-5)2(x+5)(x+4)
+= (x-5)2(x+5)(x+4
 cEof; 20.3.2
 1. n=;= kQf nufpm M
-| -s_ 2x / 4               |     | -v_ 3xy / 6xy2                 |
-| ------------------------ | --- | ------------------------------ |
-| -u_ 5xy / 10y2           |     | -3_ 6a2b / 6ab2                |
-| -ª_ 2a / 2a+4            |     | -r_ 3x2-3 / x2-1               |
-| -5_ x+y/ x2+xy           |     | -h_ x2+4x+4 / x2+2x            |
-| -em_ 5x-20 / x2-16       |     | -`_ p2-pq / pq-q2              |
-| -6_ 3x3+15x2 / 2x3-50x   |     | -7_ x3-4x / x2+7x+10           |
-| -8_ 3x2+7x+2 / 2x2+3x-2  |     |  -9_ y2+2y-48 / y2-9y+18       |
-| -0f_ a2+4ab+4b2 / a2-4b2 |     | -t_ 9x2-24xy+16y2 / 3x2-xy-4y2 |
+| -s_ 2x / 4 | | -v_ 3xy / 6xy2 |
+| -u_ 5xy / 10y2 | | -3_ 6a2b / 6ab2 |
+| -ª_ 2a / 2a+4 | | -r_ 3x2-3 / x2-1 |
+| -5_ x+y/ x2+xy | | -h_ x2+4x+4 / x2+2x |
+| -em_ 5x-20 / x2-16 | | -`_ p2-pq / pq-q2 |
+| -6_ 3x3+15x2 / 2x3-50x | | -7_ x3-4x / x2+7x+10 |
+| -8_ 3x2+7x+2 / 2x2+3x-2  | |  -9_ y2+2y-48 / y2-9y+18 |
+| -0f_ a2+4ab+4b2 / a2-4b2 | | -t_ 9x2-24xy+16y2 / 3x2-xy-4y2 |
 176 xfdf| ]ul0ft, sIff *
-
 xfdf| ]ul0ft, sIff * 177
-
 178 xfdf| ]ul0ft, sIff *
-
 xfdf| ]ul0ft, sIff * 179
-
 180 xfdf| ]ul0ft, sIff *
-
 xfdf| ]ul0ft, sIff * 181
-
 182 xfdf| ]ul0ft, sIff *
-
 xfdf| ]ul0ft, sIff * 183
-
 184 xfdf| ]ul0ft, sIff *
-
 xfdf| ]ul0ft, sIff * 185
-
 186 xfdf| ]ul0ft, sIff *
-
 xfdf| ]ul0ft, sIff * 187
-
 kf7
-21
 3ftfªs\
- (Indices)
-| 21.0. kg'                   | /jnfs] g (Review) |                  |     |     |     |     |
-| --------------------------- | ----------------- | ---------------- | --- | --- | --- | --- |
-| tnsf ] pbfx/0f x/]          |                   | f “} / l;sf “} M |     |     |     |     |
-| a× a × a × a  a/fa/ slt xG' |                   | 5 <              |     |     |     |     |
+Indices
+| 21.0. kg' | /jnfs] g (Review) | | | | | |
+| tnsf ] pbfx/0f x/] | | f “} / l;sf “} M | | | | |
+| a× a × a × a  a/fa/ slt xG' | | 5 < | | | | |
 oxf,“ a  nfO {  n ]  k6s u0' fg ul/Psf ] 5 . t;y,{ a × a × a × a = a4 df JoSt ug { ;lsG5 .
 a 4
-| oxf,“   df a |  nfO { |                         |     |  nfO { |  sf ]                    |     |
-| ------------ | ------ | ----------------------- | --- | ------ | ------------------------ | --- |
-| a4           |        | cfwf/ (base) elgG5 eg ] |     | 4 a    | 3ftfªs\  (index) elgG5 . |     |
+| oxf,“ df a |  nfO { | | |  nfO { |  sf ] | |
+| a4 | | cfwf/ (base) elgG5 eg ] | | 4 a | 3ftfªs\  (index) elgG5 . | |
 o;/L, Pp6 } ;ªV\ of jf rnnfO { ;fx] L ;ªV\ of jf rnn ] bO'  { jf ;fe] Gbf a9L k6s u0' fg ubf { pSt
-| u0' fgnfO { | 5f6] s/Ldf nV] | g ] ;ªs\ | t] nfO { 3ftfªs\ |  elgG5 . |     |     |
-| ----------- | -------------- | -------- | ---------------- | -------- | --- | --- |
- To; } u/L a  nfO { n  k6s;Dd u0' fg u/d] f, a × a × a …×…n times = an xG' 5 .
+| u0' fgnfO { | 5f6] s/Ldf nV] | g ] ;ªs\ | t] nfO { 3ftfªs\ |  elgG5 . | | |
+To; } u/L a  nfO { n  k6s;Dd u0' fg u/d] f, a × a × a …×…n times = an xG' 5 .
 sf lgodx¿
-| 21.1. | 3ftfªs\ | (Laws of Indices) |     |     |     |     |
-| ----- | ------- | ----------------- | --- | --- | --- | --- |
--s_ Pp6 } cfwf/ ePsf 3ftfªs\ x¿sf ] u0' fg (Multiplication Law of Indices with same base)
+| 21.1. | 3ftfªs\ | (Laws of Indices) | | | | |
+-s_ Pp6 } cfwf/ ePsf 3ftfªs\ x¿sf ] u0' fg (Multiplication Law of Indices with same base
 oxf,“ x2.x3 = (x × x) × (x × x × x) = x × x × x × x × x = x5 = x2 + 3
 t;y,{ olb cfwf/ Pp6 } eP 3ftfªs\ x¿sf ] u0' fg ubf { cfwf/ pxL /xG5 / 3ftfªs\  hfl]8G5g \ .
-|                  |     |  ≠   / m / n |  3gfTds k0" |          |                      |  n xG' |
-| ---------------- | --- | ------------ | ----------- | -------- | -------------------- | ------ |
-| To; sf/0f, olb x |     | 0            |             | f { ;ªV\ | of ePdf xm.xn = xm + | 5 .    |
--v_ Pp6 } cfwf/ ePdf 3ftfªs\ x¿sf ] efu (Division law of Indices with same base)
+| | |  ≠ / m / n |  3gfTds k0" | | |  n xG' |
+| To; sf/0f, olb x | | 0 | | f { ;ªV\ | of ePdf xm.xn = xm + | 5 . |
+-v_ Pp6 } cfwf/ ePdf 3ftfªs\ x¿sf ] efu (Division law of Indices with same base
 x3
-| oxf,“  | xxxx |                           |     |     |     |     |
-| ------ | ------- | ------------------------- | --- | --- | --- | --- |
-|        | =      | = x × x × x = x3 = x5 - 2 |     |     |     |     |
+| oxf,“  | xxxx | | | | | |
+| | =  | = x × x × x = x3 = x5 - 2 | | | | |
 x2 xx
-To; sf/0f, olb cfwf/ Pp6 } ePdf 3ftfªs\ x¿sf ] efu ubf { cfwf/ pxL /xG5 / efhssf]
+To; sf/0f, olb cfwf/ Pp6 } ePdf 3ftfªs\ x¿sf ] efu ubf { cfwf/ pxL /xG5 / efhssf
 3ftfªs\ nfO { efHosf ] 3ftfªs\ af6 36fOG5 . To;sf/0f x  ≠  0  / m > n, m,n  bj'  } wgfTds
-| ;ªV\              | of ePdf xm ÷ xn = xm - n |                      |  xG' 5 . |     |     |     |
-| ----------------- | ------------------------ | -------------------- | -------- | --- | --- | --- |
-| -u_ zG" o 3ftfªs\ |                          |  (Law of Zero Index) |          |     |     |     |
-| tnsf ]            | pbfx/0f x/]              | f “} M               |          |     |     |     |
+| ;ªV\ | of ePdf xm ÷ xn = xm - n | |  xG' 5 . | | | |
+| -u_ zG" o 3ftfªs\ | |  (Law of Zero Index) | | | | |
+| tnsf ] | pbfx/0f x/] | f “} M | | | | |
 xx
 oxf,“ x2 ÷ x2 =
-1 ……………. (a)
+1 ……………. (a
 xx
-| 188 |     |     |     |     |     | xfdf| ]ul0ft, sIff * |
-| --- | --- | --- | --- | --- | --- | -------------------- |
-
+| 188 | | | | | | xfdf| ]ul0ft, sIff * |
 xfdf| ]ul0ft, sIff * 189
-
 190 xfdf| ]ul0ft, sIff *
-
 xfdf| ]ul0ft, sIff * 191
-
 192 xfdf| ]ul0ft, sIff *
-
 kf7
 ;dLs/0f, c;dfgtf / n]vflrq
-
-| 22          | (Equation, Inequalities and Graph)  |     |     |     |       |      |
-| ----------- | ----------------------------------- | --- | --- | --- | ----- | ---- |
-| k'g/jnf]sg  |                                     |     |     |     | A  P  | D  F |
-| 22.0        | (Review)                            |     |     |     |       |      |
+| 22 | (Equation, Inequalities and Graph)  | | | | | |
+| k'g/jnf]sg  | | | | | A  P  | D  F |
+| 22.0 | (Review) | | | | | |
 ;a} ldnL tnsf] v]n v]nf}“ .
-|                     |                           |                   |                           |     | G  I  | B  M |
-| ------------------- | ------------------------- | ----------------- | ------------------------- | --- | ----- | ---- |
-| ;an}  ] cfcfkm\gf ] | sfkLdf ;u“                |  } lbP h:t} 4 x 4 |  sf] laª\uf] 6]an agfpm . |     |       |      |
-|                     |                           |                   |                           |     | J  L  | C  E |
-| /   b]lv            |  ;Dd j|md gldnfOsg n]v .  |                   |                           |     |       |      |
-| A P                 |                           |                   |                           |     |       |      |
-| h:t},               |                           |                   |                           |     | O  H  | N  K |
+| | | | | | G  I  | B  M |
+| ;an}  ] cfcfkm\gf ] | sfkLdf ;u“ |  } lbP h:t} 4 x 4 |  sf] laª\uf] 6]an agfpm . | | | |
+| | | | | | J  L  | C  E |
+| / b]lv |  ;Dd j|md gldnfOsg n]v .  | | | | | |
+| A P | | | | | | |
+| h:t}, | | | | | O  H  | N  K |
 A, P, D, F, G, I, B, H, J, L, C, E, O, M, N, K
 ca lzIfsn] Pp6f tl/sfn] tn lbOPsf k|Zgx¿ af]8{df Ps Ps u/L n]Vg'xf];\ M
-| A.  x + 31 = -5    |     | E.            |   I.  | x - 2 < 14   | M.            |     |
-| ------------------ | --- | ------------- | ----- | ------------ | ------------- | --- |
-| B.  y+(-11) = 40   |     | F. 13x = 39   | J.    | x + 5 > 7    | N. 36 < 12x   |     |
-| C.  12 = k - 7     |     | G.            |   K.  | -7 + x < -5  | O. -45 > -15x |     |
-| D.  16 = h - (-4)  |     | H. 15y = 105  | L.    | x + 16 > 26  | P.            |     |
+| A.  x + 31 = -5 | | E. | I.  | x - 2 < 14 | M. | |
+| B.  y+(-11) = 40 | | F. 13x = 39 | J. | x + 5 > 7 | N. 36 < 12x | |
+| C.  12 = k - 7 | | G. | K.  | -7 + x < -5  | O. -45 > -15x | |
+| D.  16 = h - (-4)  | | H. 15y = 105  | L. | x + 16 > 26  | P. | |
 ljBfyL{n] pSt k|Zgsf] ;dfwfg ug]{ / cfk\mgf] laª\uf] tflnsfdf To; cIf/nfO{ j|m; ub}{ hfg] .
-o;/L h'g ljBfyL{sf] klxnf laª\uf] 6]ansf kª\lStsf j|mdzM   cf]6f sf]7fx¿ k"/f j|m; x'G5,
-8
+o;/L h'g ljBfyL{sf] klxnf laª\uf] 6]ansf kª\lStsf j|mdzM cf]6f sf]7fx¿ k"/f j|m; x'G5,
 Tof] ljBfyL{ ljh]tf x'G5 . ca ljh]tfnfO{ k'/:s[t ug]{ .
 ;dLs/0f / Ps rno'St /]vLo ;dLs/0fsf af/]df ;fdfGo hfgsf/L cl3Nnf sIffx¿df lnO;s]sf
 5f}“ . ca xfdL cem lj:t[t ¿kdf cWoog ub{5f}“ .
-
 xfd|f] ul0ft, sIff *
-193
-
- Ps rno'St /]vLo ;dLs/0f
-| 22.1 |     | (Linear Equation of one Variable) |     |
-| ---- | --- | --------------------------------- | --- |
-tnsf k|Zgx¿sf] pQ/ k|To]sn] cfcfk\mgf] skLdf n]Vg] / ;“u}sf] ;fyL;“u 5nkmn u/L pQ/sf]
+Ps rno'St /]vLo ;dLs/0f
+| 22.1 | | (Linear Equation of one Variable) | |
+tnsf k|Zgx¿sf] pQ/ k|To]sn] cfcfk\mgf] skLdf n]Vg] / ;“u}sf] ;fyL;“u 5nkmn u/L pQ/sf
 lgrf]8df k'uf}“ .
 /]vLo ;dLs/0f eg]sf] s] xf] <
 rn eg]sf] s] xf] <
-|  df       |  sf] l8u|L slt 5 < |     |     |
-| --------- | ------------------ | --- | --- |
-| x+5 = 9 x |                    |     |     |
-s] o;df   sf] dfg b'O{cf]6f jf ;f]eGbf a9L x'g ;S5, o;af/] xfdLn] cl3Nnf sIffdf cWoog
-x
-| ul/;s]sf 5f“ } | .   |     |     |
-| -------------- | --- | --- | --- |
+|  df |  sf] l8u|L slt 5 < | | |
+| x+5 = 9 x | | | |
+s] o;df sf] dfg b'O{cf]6f jf ;f]eGbf a9L x'g ;S5, o;af/] xfdLn] cl3Nnf sIffdf cWoog
+| ul/;s]sf 5f“ } | . | | |
 Ps rno'St ;dLs/0fx¿ xn ug]{ tl/sf M
 hf“r M
-|  eP      |  sf] dfg slt xf]nf < |     |     |
-| -------- | -------------------- | --- | --- |
-| x+4 = -3 | x                    |     |     |
+|  eP |  sf] dfg slt xf]nf < | | |
+| x+4 = -3 | x | | |
 x + 4 = -3
 ;dfwfg
--7 + 4 = -3
- -klxn] rn;“u ePsf] crnnfO{ x6fpg]_
-| x+4 = -3 |     |     | dfGo eof] . |
-| -------- | --- | --- | ----------- |
--3 = -3
+-klxn] rn;“u ePsf] crnnfO{ x6fpg]_
+| x+4 = -3 | | | dfGo eof] . |
 cyjf,
 x + 4 -4 = -3 -4
 cyjf,
 x = -7
 pbfx/0f
-1
 xn u/ / pQ/ hf“r]/ x]/ M
 9x-19 = 8
 ;dfwfg
- oxf“,
+oxf“,
 9x-19 = 8
-| cyjf,            |  -b'j}lt/  |  ubf{_ |     |
-| ---------------- | ---------- | ------ | --- |
-|  9x-19+19 = 8+19 |            | +19    |     |
+| cyjf, |  -b'j}lt/  |  ubf{_ | |
+|  9x-19+19 = 8+19 | | +19 | |
 cyjf,
 9x-0 = 27
 hf“r M
@@ -7444,224 +4143,146 @@ cyjf,
 9x-19 = 8
 cyjf,  9 x 3-19 = 8
 x = 3
-27-19 = 8
- dfGo eof] .
-8 = 8
-|     |     |     | xfd|f] ul0ft, sIff * |
-| --- | --- | --- | -------------------- |
-194
-
+dfGo eof] .
+| | | | xfd|f] ul0ft, sIff * |
 pbfx/0f
-2
 xn u/
 ;dfwfg M oxf“
-| cyjf,  |     |  -b'j}tkm{  | 36fpg]_ |
-| ------ | --- | ----------- | ------- |
+| cyjf,  | |  -b'j}tkm{  | 36fpg]_ |
 hf“r
 cyjf,
-| cyjf,  |   -   | /  sf] n=;=  | x'G5._ |
-| ------ | ----- | ------------ | ------ |
-|        | 2, 3, |  4           | 12     |
+| cyjf,  | - | /  sf] n=;=  | x'G5._ |
 cyjf,
- dfGo eof] .
+dfGo eof] .
 cyjf,  - 1 = -1
 pbfx/0f
-3
 xn u/ / hf“r]/ x]/ M
 5x-6 = 3x+10
 ;dfwfg
 oxf“,  5x-6 = 3x+10
 hf“r M
-| cyjf,            |  -b'j}tkm{  |  hf]8\bf_ |     |
-| ---------------- | ----------- | --------- | --- |
-| 5x-6+6 = 3x+10+6 |             | 6         |     |
+| cyjf, |  -b'j}tkm{  |  hf]8\bf_ | |
+| 5x-6+6 = 3x+10+6 | | 6 | |
 5 X 8-6 = 3 X 8+10
 cyjf,
 5x = 3x+16
-40 - 6 = 24 +10
-| cyjf,            |  -b'j}tkm{  |  ubf{_ |     |
-| ---------------- | ----------- | ------ | --- |
-| 5x-3x = 3x-3x+16 |             | -3x    |     |
- dfGo eof] .
-  cyjf,  34 = 34
+| cyjf, |  -b'j}tkm{  |  ubf{_ | |
+| 5x-3x = 3x-3x+16 | | -3x | |
+dfGo eof] .
+cyjf,  34 = 34
 2x = 16
-  cyjf,
-
+cyjf,
 xfd|f] ul0ft, sIff *
-195
-
 pbfx/0f
- 4
 xn u/ M
 ;dfwfg
 oxf“
-| cyjf,  | -   | j|m; u'0ff ubf{_ |     |
-| ------ | --- | ---------------- | --- |
+| cyjf,  | - | j|m; u'0ff ubf{_ | |
 cyjf,
-| cyjf,  |     | -b'j}tkm{   hf]8\bf_ |     |
-| ------ | --- | -------------------- | --- |
-18
+| cyjf,  | | -b'j}tkm{ hf]8\bf_ | |
 cyjf,
-| cyjf,  |     | -b'j}tkm{  -6x  ubf{_ |     |
-| ------ | --- | --------------------- | --- |
+| cyjf,  | | -b'j}tkm{  -6x  ubf{_ | |
 cyjf,
-| cyjf,  |   -  n] efu ubf{_ |     |     |
-| ------ | ----------------- | --- | --- |
-8
-|     |     |     |     |
-| --- | --- | --- | --- |
+| cyjf,  | -  n] efu ubf{_ | | |
 pbfx/0f
-5
-Pp6f cfotsf/ v]tsf] nDafO / rf}8fO   sf] cg'kftdf 5 . olb pSt v]tsf] kl/ldlt
-5:3 400
-ld6/ eP pSt v]tsf]
+Pp6f cfotsf/ v]tsf] nDafO / rf}8fO sf] cg'kftdf 5 . olb pSt v]tsf] kl/ldlt
+ld6/ eP pSt v]tsf
 -s_ kl/ldlt hgfpg] ;dLs/0f n]v .
 -v_ nDafO / rf}8fO kQf nufpm .
 -u_ If]qkmn kQf nufpm .
 ;dfwfg
 oxf“ nDafO / rf}8fOsf] cg'kftsf] ;femf u'0fgv08nfO{  x  dfGbf,
-|   nDafO  | = 5x  eP rf}8fO  | = 3x  x'G5 . |     |
-| -------- | ---------------- | ------------ | --- |
--s_   k|Zgfg';f/, kl/ldlt
- = 400m
+| nDafO  | = 5x  eP rf}8fO  | = 3x  x'G5 . | |
+-s_ k|Zgfg';f/, kl/ldlt
+= 400m
 xfdLnfO{ yfxf 5, cfotsf/ j:t'sf] kl/ldlt  nDafO ± rf}8fO_
-  = 2(
-  cyjf,
-  2(5x+3x) = 400
-|     |     |     | xfd|f] ul0ft, sIff * |
-| --- | --- | --- | -------------------- |
-196
-
-  cyjf,
-  cyjf,
+cyjf,
+2(5x+3x) = 400
+| | | | xfd|f] ul0ft, sIff * |
+cyjf,
+cyjf,
 5x+3x = 200
-  cyjf,
+cyjf,
 8x = 200
-  cyjf,
-	 ∴	x = 25
-| -v_   | v]tsf] nDafO    | (l) = 5x = 5 x 25 = 125 m |     |     |     |
-| ----- | --------------- | ------------------------- | --- | --- | --- |
-|       | v]tsf] rf}8fO   | (b) = 3x = 3 x 25 = 75 m  |     |     |     |
-| -u_   | v]tsf] If]qkmn  | (A) = l x b  ju{ PsfO     |     |     |     |
-|       |                 |   = (125 x 25) m2         |     |     |     |
-|       |                 |   = 3125 m2               |     |     |     |
+cyjf,
+∴	x = 25
+| -v_ | v]tsf] nDafO | (l) = 5x = 5 x 25 = 125 m | | | |
+| | v]tsf] rf}8fO | (b) = 3x = 3 x 25 = 75 m  | | | |
+| -u_ | v]tsf] If]qkmn  | (A) = l x b  ju{ PsfO | | | |
+| | | = (125 x 25) m2 | | | |
+| | | = 3125 m2 | | | |
 cEof;
-22.1
-   xn u/ M
-1.
-|     | -s_      |     | -v_        |     | -u_       |
-| --- | -------- | --- | ---------- | --- | --------- |
-|     | 7x = 21  |     | x - 8 = 9  |     | 3x+4 = 13 |
-|     | -3_      |     | -ª_        |     | -r_       |
+xn u/ M
+| | -s_ | | -v_ | | -u_ |
+| | 7x = 21  | | x - 8 = 9  | | 3x+4 = 13 |
+| | -3_ | | -ª_ | | -r_ |
 5x-14 = 8
-|     | -5_       |     | -h_          |     | -em_  |
-| --- | --------- | --- | ------------ | --- | ----- |
-|     | 8x+9 = 10 |     | 13x-14 = 12  |     |       |
-   xn u/ / hf“r]/ x]/ M
-2.
-|     | -s_              |     | -v_           |     | -u_            |
-| --- | ---------------- | --- | ------------- | --- | -------------- |
-|     | 5x+3 = 2x+6      |     | 4x+7 = 3x+10  |     | 9+14x = 27-11x |
-|     | -3_              |     | -ª_           |     | -r_            |
-|     | 4(x+4) = 3(x-1)  |     | 17-8y = 5-20y |     |                |
-   xn u/ M
-3.
-|     | -s_  |     |  -v_  |     |   -u_  |
-| --- | ---- | --- | ----- | --- | ------ |
+| | -5_ | | -h_ | | -em_  |
+| | 8x+9 = 10 | | 13x-14 = 12  | | |
+xn u/ / hf“r]/ x]/ M
+| | -s_ | | -v_ | | -u_ |
+| | 5x+3 = 2x+6 | | 4x+7 = 3x+10  | | 9+14x = 27-11x |
+| | -3_ | | -ª_ | | -r_ |
+| | 4(x+4) = 3(x-1)  | | 17-8y = 5-20y | | |
+xn u/ M
+| | -s_  | |  -v_  | | -u_  |
 xfd|f] ul0ft, sIff *
-197
-
-|     | -3_  |     |     | -ª_  |     |     | -r_   |     |     |
-| --- | ---- | --- | --- | ---- | --- | --- | ----- | --- | --- |
-|     | -5_  |     |     | -h_  |     |     | -em_  |     |     |
-   xn u/ M
-4.
-|     | -s_  sf]     |            |     | -v_   sf]  |        |           | -u_  | sf]          |     |
-| --- | ------------ | ---------- | --- | ---------- | ------ | --------- | ---- | ------------ | --- |
-|     | x   10% = 35 |            |     | 500        | % = x  |           |      | x  13% = 6.5 |     |
-|     | -3_  sf]     |            |     | -ª_        | sf]    |           |      |              |     |
-|     | x + x        |  33% = 266 |     |            | x + x  |  50%= 381 |      |              |     |
-  sIff   sf   ljBfyL{x¿dWo] s]6Lx¿sf] ;ª\Vof s]6fsf] ;ª\VofeGbf   n] a9L 5 eg] pSt
-| 5.  | 8 35 |     |     |     |     |     |     | 7   |     |
-| --- | ---- | --- | --- | --- | --- | --- | --- | --- | --- |
-  ljBfnosf] sIff   sf ljBfyL{ hgfpg] ;dLs/0f n]v . ;fy} sIff    sf s]6fsf] ;ª\Vof kQf
-|     |     | 8   |     |     |     |     | 8   |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-  nufpm .
-  b'O{cf]6f ;ª\Vofsf] of]ukmn   5 . olb Pp6f ;ª\Vof csf]{ ;ª\VofeGbf   n] a9L 5 eg] tL
-| 6.  |     |     | 20  |     |     |     |     | 4   |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-  ;ª\Vofx¿ kQf nufpm .
-  Pp6f ;ª\Vofsf]   / To;sf]   sf] km/s   5 eg] Tof] ;ª\Vof slt xf]nf, kQf nufpm .
-| 7.  |     |     |     |     | 7   |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-  Pp6f cfotsf] nDafO rf}8fOeGbf     a9L 5 . pSt cfotsf] kl/ldlt     5 eg]
-| 8.  |     |     |     | 8 cm |     |     |     | 56  | cm  |
-| --- | --- | --- | --- | ---- | --- | --- | --- | --- | --- |
-  rf}8fO kQf nufpm .
-  b'O{cf]6f ;ª\Vofx¿   sf] cg'kftdf 5g\ . olb pSt b'O{ ;ª\Vofx¿sf] of]ukmn   eP tL
-| 9.  |     | 4:5 |     |     |     |     |     |     | 981 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-  ;ª\Vofx¿ kQf nufpm .
-  Pp6f n6\7Lsf]   efu kfgL leq 5 . olb pSt n6\7Lsf] nDafO  ld6/ eP n6\7Lsf ]
-| 10. |     |     |     |     |     |     |   5.5 |     |     |
-| --- | --- | --- | --- | --- | --- | --- | ----- | --- | --- |
-  kfgLleqsf] nDafO slt /x]5 <
-   jif{ cufl8 afa'sf] pd]/ 5f]/Lsf] pd]/sf] bf]Aa/ lyof] . olb pgLx¿sf] pd]/sf] of]ukmn
-11. 5
-   jif{ lyof] eg] pgLx¿sf] xfnsf] pd]/ slt xf]nf <
-45
-   jif{ cufl8 afa'sf] pd]/ 5f]/fsf] pd]/sf] tLg u'0ff lyof] . pgLx¿sf] pd]/sf] km/s   jif{
-| 12. 10 |     |     |     |     |     |     |     |     | 20  |
-| ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-  lyof] eg] 5f]/fsf] clxn]sf] pd]/ kQf nufpm .
-|     |     |     |     |     |     |     |     | xfd|f] ul0ft, sIff * |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | -------------------- | --- |
-198
-
-   Ps rno'St /]vLo c;dfgtf
-| 22.2 |     |     |     |     | (Linear Inequalities with single variables) |     |     |     |
-| ---- | --- | --- | --- | --- | ------------------------------------------- | --- | --- | --- |
-sIff   df k9]sf cfwf/df tnsf ;ª\Vof /]vfx¿sf] cWoog u/ / l6«sf]6f]dL  (trichotomy)  x¿
-6
+| | -3_  | | | -ª_  | | | -r_ | | |
+| | -5_  | | | -h_  | | | -em_  | | |
+xn u/ M
+| | -s_  sf] | | | -v_ sf]  | | | -u_  | sf] | |
+| | x 10% = 35 | | | 500 | % = x  | | | x  13% = 6.5 | |
+| | -3_  sf] | | | -ª_ | sf] | | | | |
+| | x + x |  33% = 266 | | | x + x  |  50%= 381 | | | |
+sIff sf ljBfyL{x¿dWo] s]6Lx¿sf] ;ª\Vof s]6fsf] ;ª\VofeGbf n] a9L 5 eg] pSt
+ljBfnosf] sIff sf ljBfyL{ hgfpg] ;dLs/0f n]v . ;fy} sIff sf s]6fsf] ;ª\Vof kQf
+nufpm .
+b'O{cf]6f ;ª\Vofsf] of]ukmn 5 . olb Pp6f ;ª\Vof csf]{ ;ª\VofeGbf n] a9L 5 eg] tL
+;ª\Vofx¿ kQf nufpm .
+Pp6f ;ª\Vofsf] / To;sf] sf] km/s 5 eg] Tof] ;ª\Vof slt xf]nf, kQf nufpm .
+Pp6f cfotsf] nDafO rf}8fOeGbf a9L 5 . pSt cfotsf] kl/ldlt 5 eg
+| 8.  | | | | 8 cm | | | | 56  | cm  |
+rf}8fO kQf nufpm .
+b'O{cf]6f ;ª\Vofx¿ sf] cg'kftdf 5g\ . olb pSt b'O{ ;ª\Vofx¿sf] of]ukmn eP tL
+;ª\Vofx¿ kQf nufpm .
+Pp6f n6\7Lsf] efu kfgL leq 5 . olb pSt n6\7Lsf] nDafO  ld6/ eP n6\7Lsf
+kfgLleqsf] nDafO slt /x]5 <
+jif{ cufl8 afa'sf] pd]/ 5f]/Lsf] pd]/sf] bf]Aa/ lyof] . olb pgLx¿sf] pd]/sf] of]ukmn
+jif{ lyof] eg] pgLx¿sf] xfnsf] pd]/ slt xf]nf <
+jif{ cufl8 afa'sf] pd]/ 5f]/fsf] pd]/sf] tLg u'0ff lyof] . pgLx¿sf] pd]/sf] km/s jif{
+lyof] eg] 5f]/fsf] clxn]sf] pd]/ kQf nufpm .
+| | | | | | | | | xfd|f] ul0ft, sIff * | |
+Ps rno'St /]vLo c;dfgtf
+| 22.2 | | | | | (Linear Inequalities with single variables) | | | |
+sIff df k9]sf cfwf/df tnsf ;ª\Vof /]vfx¿sf] cWoog u/ / l6«sf]6f]dL  (trichotomy)  x¿
 k|of]u u/L n]v M
-| -s_ |     |     |     |     |     | -v_ |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| -s_ | | | | | | -v_ | | |
 -r_
 Ps rno'St c;dfgtfsf] xn
-(Solution of Single Variable Inequalities)
+Solution of Single Variable Inequalities
 /  tLgcf]6f jf:tljs ;ª\Vofx¿ eP,
 a, b  c
-| -s_  |       |  5 eg]       |               |  x'G5 .  h:t} M  |         | eP                |  x'G5 . |     |
-| ---- | ----- | ------------ | ------------- | ---------------- | ------- | ----------------- | ------- | --- |
-|      | a < b |              | a+c<b+c       |                  |         | 2 < 4  2+3 < 4+3  |         |     |
-| -v_  |       |  5 eg]       |               |  x'G5 . h:t} M   |         | eP                |  x'G5 . |     |
-|      | a < b |              | a - c < b - c |                  |         | 2 < 5  2-3 < 5-3  |         |     |
-| -u_  |       |  /   eP      |               |  /               |  x'G5 . |                   |         |     |
-|      |   a<b | c>0          | a.c < b.c     |                  |         |                   |         |     |
-| -3_  |   a<b |  /  c<0  eP  | a.c > b.c     |  /               |  x'G5 . |                   |         |     |
-cyf{t, C0ffTds ;ª\Vofn] u'0ff ubf{  eP   df /   eP   df kl/jt{g x'G5 .
-|     |     |     |     | '>'  | '<' | '<' '>' |     |     |
-| --- | --- | --- | --- | ---- | --- | ------- | --- | --- |
+| -s_  | |  5 eg] | |  x'G5 .  h:t} M  | | eP |  x'G5 . | |
+| | a < b | | a+c<b+c | | | 2 < 4  2+3 < 4+3  | | |
+| -v_  | |  5 eg] | |  x'G5 . h:t} M | | eP |  x'G5 . | |
+| | a < b | | a - c < b - c | | | 2 < 5  2-3 < 5-3  | | |
+| -u_  | |  / eP | |  / |  x'G5 . | | | |
+| | a<b | c>0 | a.c < b.c | | | | | |
+| -3_  | a<b |  /  c<0  eP  | a.c > b.c |  / |  x'G5 . | | | |
+cyf{t, C0ffTds ;ª\Vofn] u'0ff ubf{  eP df / eP df kl/jt{g x'G5 .
 pbfx/0f
-1
 xn u/ / ;ª\Vof /]vfdf k|:t't u/ M
-| -s_  |        |     | -v_  |          |     | -u_         |     | -3_  |
-| ---- | ------ | --- | ---- | -------- | --- | ----------- | --- | ---- |
-|      | 3x<27  |     |      | 4x+3 23  |     | 5x+2(3x-10) | x   |      |
+| -s_  | | | -v_  | | | -u_ | | -3_  |
+| | 3x<27  | | | 4x+3 23  | | 5x+2(3x-10) | x | |
 ;dfwfg
 -s_
-|     |   3x<27 |     |     |     |     | ;ª\Vof /]vfdf k|:t't ubf{, |     |     |
-| --- | ------- | --- | --- | --- | --- | -------------------------- | --- | --- |
-  cyjf,
-  cyjf,
+| | 3x<27 | | | | | ;ª\Vof /]vfdf k|:t't ubf{, | | |
+cyjf,
+cyjf,
 x<9
-|     | ;d"xdf JoSt ubf{ |     |     |     |     | x'G5 .  |     |     |
-| --- | ---------------- | --- | --- | --- | --- | ------- | --- | --- |
- {8, 7, 6, 5, ………..}
+| | ;d"xdf JoSt ubf{ | | | | | x'G5 .  | | |
+{8, 7, 6, 5, ………..}
 xfd|f] ul0ft, sIff *
-199
-
 -v_
 4x+3 23
 cyjf, ;ª\Vof /]vfdf k|:t't ubf{,
@@ -7692,482 +4313,326 @@ cyjf,
 ;d"xdf JoSt ubf{ x'G5 .
 {7, 8, 9, .…..}
 xfd|f] ul0ft, sIff *
-200
-
 pbfx/0f
-2
 nfO{ ;d"xdf / ;ª\Vof /]vfdf b]vfpm .
 -5  x <2
 ;dfwfg
 oxf“
 -5  x <2
-| o;nfO{ b'O{ efudf af“8\bf  |     |  /   x'G5 . |     |
-| -------------------------- | --- | ----------- | --- |
+| o;nfO{ b'O{ efudf af“8\bf  | |  / x'G5 . | |
 -5 x x<2
-| ca,  |  nfO{ ;d"xdf JoSt ubf{    |                       |  x'G5 /  |
-| ---- | ------------------------- | --------------------- | -------- |
-|      | 5 x                       | {-5, -4, -3, -2, ………} |          |
-|      |  nfO{ ;d"xdf JoSt ubf{    |                       |  x'G5 .  |
-|      | x < 2                     | {1, 0, -1, -2, ………}   |          |
-   ;ª\Vof/]vfdf JoSt ubf{
+| ca,  |  nfO{ ;d"xdf JoSt ubf{ | |  x'G5 /  |
+| | 5 x | {-5, -4, -3, -2, ………} | |
+| |  nfO{ ;d"xdf JoSt ubf{ | |  x'G5 .  |
+| | x < 2 | {1, 0, -1, -2, ………} | |
+;ª\Vof/]vfdf JoSt ubf{
 pbfx/0f
-3
-/f]zgLnfO{ ?=   kg]{ Pp6f ?dfn / k|lt uf]6f ?=   kg]{ s]xL sfkLx¿ lsGg' 5 . olb pgL;“u
-50 12
-| hDdf ?=  |  eP a9Ldf sltcf]6f;Dd sfkL lsGg ;lSng\ < |     |     |
-| -------- | ---------------------------------------- | --- | --- |
-150
+/f]zgLnfO{ ?= kg]{ Pp6f ?dfn / k|lt uf]6f ?= kg]{ s]xL sfkLx¿ lsGg' 5 . olb pgL;“u
+| hDdf ?=  |  eP a9Ldf sltcf]6f;Dd sfkL lsGg ;lSng\ < | | |
 ;dfwfg
-oxf“,   hDdf lsGg ;lsg] sfkL ;ª\Vof   dfGbf,
- x
-|     | sfkLsf] hDdf d"No  | x'G5 . |     |
-| --- | ------------------ | ------ | --- |
+oxf“, hDdf lsGg ;lsg] sfkL ;ª\Vof dfGbf,
+| | sfkLsf] hDdf d"No  | x'G5 . | |
 = 12x
-|     |   hDdf vr{  |  x'G5 |     |
-| --- | ----------- | ----- | --- |
+| | hDdf vr{  |  x'G5 | |
 = 50+12x
-|     | pgL;“u ePsf] hDdf /sd  |  ?=  |     |
-| --- | ---------------------- | ---- | --- |
-= 150
-|     | k|Zgfg';f/,  |  x'G5  |     |
-| --- | ------------ | ------ | --- |
-|     | 50+12x       | 150    |     |
-  cyjf,
+| | pgL;“u ePsf] hDdf /sd  |  ?=  | |
+| | k|Zgfg';f/,  |  x'G5  | |
+| | 50+12x | 150 | |
+cyjf,
 50 + 12x - 50 < 150 – 50
-|     | cyjf,  12x < 100 |          |     |
-| --- | ---------------- | -------- | --- |
-|     | cyjf,            |  cf]6f   |     |
+| | cyjf,  12x < 100 | | |
+| | cyjf, |  cf]6f | |
 x <
-|     |     | cf]6f |     |
-| --- | --- | ----- | --- |
-oxf“   sf] dfg eg]sf] sfkLsf] ;ª\Vof xf] h'g k"0ff{ª\sdf x'G5 . t;y{ /f]zgLn] a9Ldf   cf]6f sfkL
+| | | cf]6f | |
+oxf“ sf] dfg eg]sf] sfkLsf] ;ª\Vof xf] h'g k"0ff{ª\sdf x'G5 . t;y{ /f]zgLn] a9Ldf cf]6f sfkL
 x 8
 lsGg ;lS5g\ .
 xfd|f] ul0ft, sIff *
-201
-
 pbfx/0f
-4
-|          |  df olb  |  sf] dfg  |     |  jf ;f]eGbf a9L ePdf  |     |     |  sf] dfg slt xf]nf < |     |     |     |     |
-| -------- | -------- | --------- | --- | --------------------- | --- | --- | -------------------- | --- | --- | --- | --- |
-| y = 4x+5 |          | x         |     | 2                     |     |     | y                    |     |     |     |     |
+| |  df olb  |  sf] dfg  | |  jf ;f]eGbf a9L ePdf  | | |  sf] dfg slt xf]nf < | | | | |
+| y = 4x+5 | | x | | 2 | | | y | | | | |
 ;dfwfg
-| oxf“  |          |  /  |     |     |     |     |     |     |     |     |     |
-| ----- | -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|       | y = 4x+5 | x   | 2   |     |     |     |     |     |     |     |     |
+| oxf“  | |  /  | | | | | | | | | |
+| | y = 4x+5 | x | 2 | | | | | | | | |
 cyjf,
-|     | y  4.2+5 |     |     |     |     |     |     |     |     |     |     |
-| --- | -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | y  4.2+5 | | | | | | | | | | |
 cyjf,
-|     | y 8+5 = 13 |     |     |     |     |     |     |     |     |     |     |
-| --- | ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
- x'G5 .
+| | y 8+5 = 13 | | | | | | | | | | |
+x'G5 .
 ∴ y 13
-| cEof;  | 22.2 |     |     |     |     |     |     |     |     |     |     |
-| ------ | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-1.    xn u/ / ;ª\Vof /]vfdf k|:t't u/ M
-|       | -s_  x+5         | 7               |          |      | -v_  3x+5 <2      |                     |                     | -u_      | 7x–2(x-3)< 16    |     |     |
-| ----- | ---------------- | --------------- | -------- | ---- | ----------------- | ------------------- | ------------------- | -------- | ---------------- | --- | --- |
-|       | -3_  2(x-2)-x<4  |                 |          |      | -ª_  3(x+6)<3+6x  |                     |                     | -r_      | 5+4(x-3) > 9     |     |     |
-|       | -5_              |                 |          |      | -h_               |                     |                     | -em_     |                  |     |     |
-|       |                  |                 |          |      |                   |                     |                     |          |                  |     |     |
-|       | -`_              |                 |          |      | -6_               |                     |                     |     -7_  |                  |     |     |
-|       |                  |                 |          |      |                   |                     |                     |          | 0.9x  0.8+0.1x   |     |     |
-|       | -8_              |                 |          |      | -9_               |                     |                     | -0f_     |                  |     |     |
-|       | -5               | x < -2          |          |      | -2<x              | 4                   |                     |          | 4 x< 9           |     |     |
-|       | -t_              |                 |          |      | -y_               |                     |                     |          |                  |     |     |
-|       | -7<2x+5          |                 | 1        |      | -11               | 3x-2                | -5                  |          |                  |     |     |
-|       |                  | ePsf] ;dLs/0fdf |          |      | ePdf              |                     | sf] dfg slt xf]nf < |          |                  |     |     |
-| 2.    | y = 7x-9         |                 |          |  x   | 2                 | y                   |                     |          |                  |     |     |
-|       |                  | df              | sf] dfg  |      | eP                | sf] dfg slt xf]nf < |                     |          |                  |     |     |
-| 3.    | y = 4x + 5       |                 |  x       | <-3  | y                 |                     |                     |          |                  |     |     |
+| cEof;  | 22.2 | | | | | | | | | | |
+1. xn u/ / ;ª\Vof /]vfdf k|:t't u/ M
+| | -s_  x+5 | 7 | | | -v_  3x+5 <2 | | | -u_ | 7x–2(x-3)< 16 | | |
+| | -3_  2(x-2)-x<4  | | | | -ª_  3(x+6)<3+6x  | | | -r_ | 5+4(x-3) > 9 | | |
+| | -5_ | | | | -h_ | | | -em_ | | | |
+| | -`_ | | | | -6_ | | | -7_  | | | |
+| | | | | | | | | | 0.9x  0.8+0.1x | | |
+| | -8_ | | | | -9_ | | | -0f_ | | | |
+| | -5 | x < -2 | | | -2<x | 4 | | | 4 x< 9 | | |
+| | -t_ | | | | -y_ | | | | | | |
+| | -7<2x+5 | | 1 | | -11 | 3x-2 | -5 | | | | |
+| | | ePsf] ;dLs/0fdf | | | ePdf | | sf] dfg slt xf]nf < | | | | |
+| 2. | y = 7x-9 | | |  x | 2 | y | | | | | |
+| | | df | sf] dfg  | | eP | sf] dfg slt xf]nf < | | | | | |
+| 3. | y = 4x + 5 | |  x | <-3  | y | | | | | | |
 ;dLs/0flbOPsf] 5 . olb
-| 4.   | 3x + 4y + 5 = 0  |      |                      |     |     |     |      |          |                     |     |     |
-| ---- | ---------------- | ---- | -------------------- | --- | --- | --- | ---- | -------- | ------------------- | --- | --- |
-|      | -s_              | eP   | sf] dfg slt xf]nf <  |     |     |     | -v_  | eP       | sf] dfg slt xf]nf < |     |     |
-|      | x                | 5    | y                    |     |     |     |      | x > -5   | y                   |     |     |
-|      | -u_              | eP   | sf] dfg slt xf]nf <  |     |     |     |      |          |                     |     |     |
-|      | y                |  1   | x                    |     |     |     |      |          |                     |     |     |
-  bf]h]{nfO{  ?= kg]{ Pp6f sfkL / ?= kg]{ s]xL snd lsGg' 5 . olb pgL;“u hDdf ?=
-| 5.   |     |  25   |     |     |     | 8   |     |     |     |     | 150  |
-| ---- | --- | ----- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
+| 4. | 3x + 4y + 5 = 0  | | | | | | | | | | |
+| | -s_ | eP | sf] dfg slt xf]nf <  | | | | -v_  | eP | sf] dfg slt xf]nf < | | |
+| | x | 5 | y | | | | | x > -5 | y | | |
+| | -u_ | eP | sf] dfg slt xf]nf <  | | | | | | | | |
+| | y |  1 | x | | | | | | | | |
+bf]h]{nfO{  ?= kg]{ Pp6f sfkL / ?= kg]{ s]xL snd lsGg' 5 . olb pgL;“u hDdf ?=
 5 eg] p;n] a9Ldf sltcf]6f snd lsGg ;Snf <
-|     |     |     |     |     |     |     |     |     |     | xfd|f] ul0ft, sIff * |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | -------------------- | --- |
-202
-
-  Pp6f ;ª\Vofsf] tLg u'0ffdf  hf]8\bf  eGbf ;fgf] x'G5 eg] pSt ;ª\Vof slt xf]nf <
-| 6.   |     | 7   | 13  |     |
-| ---- | --- | --- | --- | --- |
-  ;ª\Vof /]vfdf k|:t't u/ .
+| | | | | | | | | | | xfd|f] ul0ft, sIff * | |
+Pp6f ;ª\Vofsf] tLg u'0ffdf  hf]8\bf  eGbf ;fgf] x'G5 eg] pSt ;ª\Vof slt xf]nf <
+;ª\Vof /]vfdf k|:t't u/ .
 Pp6f ;ª\Vofsf] b'O{ u'0ffnfO{  af6 36fp“bf pSt ;ª\Vofsf] Ps ltxfO /  sf] hf]8eGbf
-| 7.  |     | 9   |     | 3   |
-| --- | --- | --- | --- | --- |
-  ;fgf] jf a/fa/ x'G5 eg] Tof] ;ª\Vof kQf nufpm / ;ª\Vof /]vfdf k|:t't u/ .
-  ljb'nfn] ?=  k|lt lunf;sf s]xL lunf; lrof ?= k|lt Kofs]6sf  Kofs]6 la:s'6
-| 8.                     | 10  |                                    | 45   | 3     |
-| ---------------------- | --- | ---------------------------------- | ---- | ----- |
-| lsGbf pgL;“u ePsf] ?=  |     | n] a9Ldf slt lunf; lrof cfpnf <    |      |       |
-332
-s'g} ;ª\Vof /  sf] of]ukmnsf] tLg u'0ff,  / pSt ;ª\Vofsf] km/ssf] b'O{ u'0ffeGbf ;fgf ]
-| 9.     | 2   |     |  3   |     |
-| ------ | --- | --- | ---- | --- |
-  cyjf a/fa/ 5 eg] pSt ul0ftLo jfSonfO{ c;dfgtfdf n]vL xn u/ / ;ª\Vof /]vfdf
-  k|:t't u/ .
-  olb lbOPsf] cfotsf] kl/ldlt  eGbf a9L eP o;nfO{ c;dfgtf agfP/ xn u/ .
-| 10.   |     | 44cm   |     |     |
-| ----- | --- | ------ | --- | --- |
+;fgf] jf a/fa/ x'G5 eg] Tof] ;ª\Vof kQf nufpm / ;ª\Vof /]vfdf k|:t't u/ .
+ljb'nfn] ?=  k|lt lunf;sf s]xL lunf; lrof ?= k|lt Kofs]6sf  Kofs]6 la:s'6
+| lsGbf pgL;“u ePsf] ?=  | | n] a9Ldf slt lunf; lrof cfpnf < | | |
+s'g} ;ª\Vof /  sf] of]ukmnsf] tLg u'0ff,  / pSt ;ª\Vofsf] km/ssf] b'O{ u'0ffeGbf ;fgf
+cyjf a/fa/ 5 eg] pSt ul0ftLo jfSonfO{ c;dfgtfdf n]vL xn u/ / ;ª\Vof /]vfdf
+k|:t't u/ .
+olb lbOPsf] cfotsf] kl/ldlt  eGbf a9L eP o;nfO{ c;dfgtf agfP/ xn u/ .
+| 10. | | 44cm | | |
 x + 8
- x
 lbOPsf] lqe'hsf] kl/ldlt  eGbf 7'nf] /  eGbf ;fgf] jf a/fa/ 5 eg] o;nfO {
-| 11.  |     | 22cm  | 30cm  |     |
-| ---- | --- | ----- | ----- | --- |
-  c;dfgtfdf JoSt u/L xn u/ .
-x
+| 11.  | | 22cm  | 30cm  | |
+c;dfgtfdf JoSt u/L xn u/ .
 x+2
 2x
 xfd|f] ul0ft, sIff *
-203
-
-   b'O{ rno'St o'ukt/]vLo ;dLs/0fsf] /]vflrqåf/f xn
-22.3
-
-(Graphic solution of two variable linear equations)
+b'O{ rno'St o'ukt/]vLo ;dLs/0fsf] /]vflrqåf/f xn
+Graphic solution of two variable linear equations
 cd[t / cflifznfO{  4  cf]6f an cfk;df af“8\g' 5 . pgLx¿n] slt slt kfpnfg\, x]/f}“ M
-| oxf“,  cd[tn] kfpg] ansf] ;ª\Vof  |     |     | dfgf}“ |     |     |     |     |
-| --------------------------------- | --- | --- | ------ | --- | --- | --- | --- |
+| oxf“,  cd[tn] kfpg] ansf] ;ª\Vof  | | | dfgf}“ | | | | |
 = x
-|   cflifzn] kfpg] ansf] ;ª\Vof  |     |     | dfgf}“  |     |     |     |     |
-| ------------------------------ | --- | --- | ------- | --- | --- | --- | --- |
+| cflifzn] kfpg] ansf] ;ª\Vof  | | | dfgf}“  | | | | |
 = y
 ca tflnsfdf k|:t't ubf{,
-  cd[t
-|     |   (x)  | 4  3  | 2   | 1  0 |     |     |     |
-| --- | ------ | ----- | --- | ---- | --- | --- | --- |
-  cflifz
-|     | (y)  | 0  1  | 2   | 3  4 |     |     |     |
-| --- | ---- | ----- | --- | ---- | --- | --- | --- |
+cd[t
+| | (x)  | 4  3  | 2 | 1  0 | | | |
+cflifz
+| | (y)  | 0  1  | 2 | 3  4 | | | |
 dflysf] tflnsfdf cd[t / cflifzn] kfpg] hDdf an ;a} cj:yfdf  5 .t;y{
-4
-x + y = 4…………………(i)
-To:t}, obL cd[t;“u  cflifzsf] eGbf   cf]6f an a9L eP eg] b'j}n] slt slt an k|fKt u/ ]
-2
+x + y = 4…………………(i
+To:t}, obL cd[t;“u  cflifzsf] eGbf cf]6f an a9L eP eg] b'j}n] slt slt an k|fKt u/
 xf]nfg\, o;nfO{ tflnsfdf lgDgfg';f/ k|:t't ug{ ;lsG5 M
-|   cd[t                                                    | (x)  | 2  3  | 4   | 5  6 |     |     |     |
-| --------------------------------------------------------- | ---- | ----- | --- | ---- | --- | --- | --- |
-|   cflifz                                                  | (y)  | 0  1  | 2   | 3  4 |     |     |     |
-| tflnsfdf x]bf{ cd[tsf] / cflifzsf] efudf hDdf ansf] km/s  |      |       |     | 2    |  5  |     |     |
-Y
-| t;y{  |     | x'G5 . |     |     |     |     |     |
-| ----- | --- | ------ | --- | --- | --- | --- | --- |
-x-y=2 …………………(ii)
+| cd[t | (x)  | 2  3  | 4 | 5  6 | | | |
+| cflifz | (y)  | 0  1  | 2 | 3  4 | | | |
+| tflnsfdf x]bf{ cd[tsf] / cflifzsf] efudf hDdf ansf] km/s  | | | | 2 |  5  | | |
+| t;y{  | | x'G5 . | | | | | |
+x-y=2 …………………(ii
 x+y=4
 ca dflysf b'O{ ;dLs/0fnfO{ u|fkm
 x-y=2
 k]k/df e/]/ x]bf{,
-| lrqdf  x + y = 4  | /  x - y = 2 |  ;dLs/0fx¿  |     |     |     |     |     |
-| ----------------- | ------------ | ----------- | --- | --- | --- | --- | --- |
-(3,1)
-| laGb'  |  cyf{t  | /   df  | X'  |     |     |     | X   |
-| ------ | ------- | ------- | --- | --- | --- | --- | --- |
-| (3,1)  | x = 3   | y =1    |     |     | O   |     |     |
+| lrqdf  x + y = 4  | /  x - y = 2 |  ;dLs/0fx¿  | | | | | |
+| laGb'  |  cyf{t  | / df  | X'  | | | | X |
+| (3,1)  | x = 3 | y =1 | | | O | | |
 k|ltR5]bg ePsf 5g\ . pSt laGb'
-(3.1)
-| g} ;dLs/0f  |  /   sf] xn xf] . lsgls  |     |     |     |     |     |     |
-| ----------- | ------------------------ | --- | --- | --- | --- | --- | --- |
-(i) (ii)
- b'j} ;dLs/0fdf dfGo x'G5
-| (3,1) |     | (?) |     |     |     |     |     |
-| ----- | --- | --- | --- | --- | --- | --- | --- |
+| g} ;dLs/0f  |  / sf] xn xf] . lsgls  | | | | | | |
+i) (ii
+b'j} ;dLs/0fdf dfGo x'G5
+| (3,1) | | (?) | | | | | |
 Y'
 s'g} b'O{ /]vLo ;dLs/0fx¿ n]vflrqdf k|:t't ubf{ k|ltR5]lbt x'G5g\ cyjf sfl6G5g\ eg] pSt
-| ;dLs/0fx¿nfO{ o'ukt/]vLo ;dLs/0f  |     |     |     |     | elgG5 . |     |     |
-| --------------------------------- | --- | --- | --- | --- | ------- | --- | --- |
-(simultaneous equation)
-|     |     |     |     |     |     | xfd|f] ul0ft, sIff * |     |
-| --- | --- | --- | --- | --- | --- | -------------------- | --- |
-204
-
-| pbfx/0f  |     |     |     |
-| -------- | --- | --- | --- |
-1
+| ;dLs/0fx¿nfO{ o'ukt/]vLo ;dLs/0f  | | | | | elgG5 . | | |
+simultaneous equation
+| | | | | | | xfd|f] ul0ft, sIff * | |
+| pbfx/0f  | | | |
 n]vflrqåf/f xn u/ M
-|     | /                      |     |     |
-| --- | ---------------------- | --- | --- |
-|     | 2x - y = 5   x - y = 1 |     |     |
+| | 2x - y = 5 x - y = 1 | | |
 ;dfwfg
- oxf“,
-  2x - y = 5 ………………..(i)
-     /   dfgf}“
-x - y = 1…………………….(ii)
-| ;lds/0f  | (i)  af6 |     |     |
-| -------- | -------- | --- | --- |
-  2x - y = 5
-| cyjf,  | tflnsfdf x]bf{ |     |     |
-| ------ | -------------- | --- | --- |
+oxf“,
+2x - y = 5 ………………..(i
+/ dfgf}“
+x - y = 1…………………….(ii
+| ;lds/0f  | (i)  af6 | | |
+2x - y = 5
+| cyjf,  | tflnsfdf x]bf{ | | |
 y = 2x – 5,
-|  x                 | 1  2    | 3  4 |      |
-| ------------------ | ------- | ---- | ---- |
-|  y                 | -3  -1  | 1  3 |      |
-| t;y{ o;sf laGb'x¿  |         | /    | eP . |
-(1,-3), (2,-1) (3,1)   (4,3)
-| To:t} ;dLs/0f  | af6 x]bf{, |     |     |
-| -------------- | ---------- | --- | --- |
-(ii)
+|  x | 1  2 | 3  4 | |
+|  y | -3  -1  | 1  3 | |
+| t;y{ o;sf laGb'x¿  | | / | eP . |
+| To:t} ;dLs/0f  | af6 x]bf{, | | |
+ii
 x -y = 1
-| cyjf          | df dfg /fVg] /              |  sf] dfg lgsfNg] . |         |
-| ------------- | --------------------------- | ------------------ | ------- |
-| x = 1 + y, y  |                             |  x                 |         |
-|               | x  1                        | 2  3  4            | 5       |
-|               | y  0                        | 1  2  3            | 4       |
-| o;sf laGb'x¿  |                             | /                  |  x'g\ . |
-|               | (1,0), (2,1), (3,2), (4,3)  | (5,4)              |         |
+| cyjf | df dfg /fVg] / |  sf] dfg lgsfNg] . | |
+| x = 1 + y, y  | |  x | |
+| | x  1 | 2  3  4 | 5 |
+| | y  0 | 1  2  3 | 4 |
+| o;sf laGb'x¿  | | / |  x'g\ . |
 ca n]vflrqdf laGb'x¿ cª\sg ug]{ .
-| ;“u}sf] n]vflrqdf ;dLs/0f  |     |  /  |     |
-| -------------------------- | --- | --- | --- |
-(i)
+| ;“u}sf] n]vflrqdf ;dLs/0f  | |  /  | |
+i
 x-y=1
-| ;dLs/0f  | (ii)  laGb'  (4,3) |  jf  x=4  /   |     |
-| -------- | ------------------ | ------------- | --- |
-(4,3)
- df sfl6Psf 5g\ . of] laGb' g}
+| ;dLs/0f  | (ii)  laGb'  (4,3) |  jf  x=4  / | |
+df sfl6Psf 5g\ . of] laGb' g}
 y=3
 ;dLs/0fsf] xn xf] .  O
 hf“r]/ x]bf{,
 2x-y = 5
 To:t},
-| laGb'  (4,3)  | df  |     |     |
-| ------------- | --- | --- | --- |
-       2x-y=5
+| laGb'  (4,3)  | df  | | |
+2x-y=5
 x - y = 1
 cyjf
-| 2x4-3=5 |        | 4 -3 = 1 |     |
-| ------- | ------ | -------- | --- |
-|         |  8-3=5 |          |     |
+| 2x4-3=5 | | 4 -3 = 1 | |
 1 = 1  dfGo eof] .
-|     | 5= 5 |     |     |
-| --- | ---- | --- | --- |
 xfd|f] ul0ft, sIff *
-205
-
-| pbfx/0f    |     |     |     |     |
-| ---------- | --- | --- | --- | --- |
-2
-b'O{ cf]6f ;ª\Vofx¿sf] km/s   5 . 7'nf] ;ª\Vofsf] b'O{ u'0ff / ;fgf] ;ª\Vofsf] tLg u'0ff a/fa/
-3
+| pbfx/0f | | | | |
+b'O{ cf]6f ;ª\Vofx¿sf] km/s 5 . 7'nf] ;ª\Vofsf] b'O{ u'0ff / ;fgf] ;ª\Vofsf] tLg u'0ff a/fa/
 5 eg] tL b'O{ ;ª\Vofx¿ kQf nufpm / /]vflrqdf k|:t't u/ .
 ;dfwfg
-| oxf“, ;fgf] ;ª\Vof   | = x  / 7'nf] ;ª\Vof  | = y  dfgf}“ |                                   |     |
-| -------------------- | -------------------- | ----------- | --------------------------------- | --- |
-| k|Zgfg';f/,          |                      |  /          |                                   |     |
-| y - x = 2 …………………(i) |                      |             | 3x = 2y......................(ii) |     |
-   nfO{ ln“bf
-(i)
-  y -x = 3
-  y = x + 3
-|   x                         | 0  1         | 2  3                 |                |     |
-| --------------------------- | ------------ | -------------------- | -------------- | --- |
-|   y                         | 3  4         | 5  6                 |                |     |
-| dflysf] tflnsfaf6 laGb'x¿   |              |                      | / k|fKt eof] . |     |
-|                             |              | (0,3); (1,4); (2,5)  |  (3,6)         |     |
-| ;dLs/0f                     |  nfO{ ln“bf, |                      |                |     |
-(ii)
+| oxf“, ;fgf] ;ª\Vof | = x  / 7'nf] ;ª\Vof  | = y  dfgf}“ | | |
+| k|Zgfg';f/, | |  / | | |
+| y - x = 2 …………………(i) | | | 3x = 2y......................(ii) | |
+nfO{ ln“bf
+i
+y -x = 3
+y = x + 3
+| x | 0  1 | 2  3 | | |
+| y | 3  4 | 5  6 | | |
+| dflysf] tflnsfaf6 laGb'x¿ | | | / k|fKt eof] . | |
+| ;dLs/0f |  nfO{ ln“bf, | | | |
+ii
 3x = 2y
 cyjf
-|   x  | 0  2  | 4  6          |                     |                         |
-| ---- | ----- | ------------- | ------------------- | ----------------------- |
-|      |       |               |  hf]/ ;ª\Vof ln“bf  |  n] lgMz]if efu nfU5 ._ |
-|   y  | 0  3  | 6  9       (x |                     | 2                       |
+| x  | 0  2  | 4  6 | | |
+| | | |  hf]/ ;ª\Vof ln“bf  |  n] lgMz]if efu nfU5 ._ |
+| y  | 0  3  | 6  9 (x | | 2 |
 dflysf] tflnsfaf6 laGb'x¿
-(0,0);
 k|fKt eof] .
-(2,3) ;(4,6)  (6,9)
-(6,9)
 ca b'O{cf]6} ;dLs/0faf6 k|fKt
 laGb'x¿nfO{ n]vflrqdf cª\sg ubf{
 y-x=3
 n]vflrqdf b'O{cf]6f ;dLs/0fx¿sf
 3x=2y
-| /]vfx¿ laGb'  |  df sfl6Psf 5g\ .  |     |     |     |
-| ------------- | ------------------ | --- | --- | --- |
-|               | (6,9)              |     |     | O   |
-| t;y{  /       | pSt b'O{           |     |     |     |
-| x = 6         |  y = 9             |     |     |     |
+| /]vfx¿ laGb'  |  df sfl6Psf 5g\ .  | | | |
+| | (6,9) | | | O |
+| t;y{  / | pSt b'O{ | | | |
+| x = 6 |  y = 9 | | | |
 ;dLs/0fsf] xn xf] .
-| To;sf/0f 7'nf] ;ª\Vof  | / ;fgf]   |     |     |     |
-| ---------------------- | --------- | --- | --- | --- |
-= 9
-| ;ª\Vof  eof] . |     |     |     |     |
-| -------------- | --- | --- | --- | --- |
-= 6
-|     |     |     |     | xfd|f] ul0ft, sIff * |
-| --- | --- | --- | --- | -------------------- |
-206
-
+| To;sf/0f 7'nf] ;ª\Vof  | / ;fgf] | | | |
+| ;ª\Vof  eof] . | | | | |
+| | | | | xfd|f] ul0ft, sIff * |
 cEof;
-22.3
-   tnsf hf]8L ;dLs/0fx¿nfO{ n]vflrqåf/f xn u/ / hf“r]/ x]/ M
-1.
-|     | -s_       |           |     | -v_      |           |
-| --- | --------- | --------- | --- | -------- | --------- |
-|     | x  +y =2  | 3x-y=10   |     | 3x+y=7   | x = 2y    |
-|     | -u_       |           |     | -3_      |           |
-|     | x+y=13    | 2x = y+8  |     | x+y=6    | x-y=2     |
-|     | -ª_       |           |     | -r_      |           |
-|     | x+y=8     | x-y=4     |     | 4x+y=2   | 3x - 2y=7 |
-|     | -5_       |           |     | -h_      |           |
-|     | 2x+y=4    | x+2y=2    |     | 3x+y=8   | 2x+y=7    |
-|     | -em_      |           |     | -`_      |           |
-|     | 4x+2y=2   | x-3y=11   |     | 2x-y=4   | x+2y=7    |
-|     | -6_       |           |     | -7_      |           |
-|     | 2x+y=5    | 4x+3y=6   |     | x+y=6    | x-y=0     |
-   tn lbOPsf ;d:ofx¿nfO{ ;dLs/0fdf JoSt u/L n]vflrqåf/f xn u/ M
-2.
-|     | -s_ b'O{cf]6f ;ª\Vofsf] of]ukmn  |     |  5 / km/s  |  5 . |     |
-| --- | -------------------------------- | --- | ---------- | ---- | --- |
-|     |                                  |     | 15         | 5    |     |
-  -v_ b'O{cf]6f ;ª\Vofsf] of]ukmn   5 / 7'nf] ;ª\Vof ;fgf] ;ª\Vofsf] tLg u'0ff 7'nf] 5 .
-12
-  -u_ bO'  { ;ªV\ ofsf ] km/s   5 / ;fgf] ;ª\Vofsf]   u'0ff / 7n' f ] ;ªV\ ofsf ]  u'0ff a/fa/ 5 .
-|     |     | 5   |     | 5   | 4   |
-| --- | --- | --- | --- | --- | --- |
-  -3_ tLgcf]6f sfkL / rf/cf]6f sndsf] d"No ?=  200  k5{ /  5  cf]6f sfkL /  2  cf]6f
-      sndsf] d"No ?=   k5{ eg] Pp6f sfkL / Pp6f sndsf] d"No kQf nufpm .
-240
-  -ª_ afa'sf] pd]/ 5f]/Lsf] pd]/sf] t]Aa/df   sd 5 . olb afa' / 5f]/Lsf] pd]/larsf
-3
-km/s   jif{ eP pgLx¿sf] pd]/ kQf nufpm .
-37
-  -r_ d~h'sf] clxn]sf] pd]/ rj|]msf] eGbf   jif{ a9L 5 . d~h'sf]   jif{kl5sf] pd]/ rj|msf
-|     |     |     | 5   |     | 5   |
-| --- | --- | --- | --- | --- | --- |
+tnsf hf]8L ;dLs/0fx¿nfO{ n]vflrqåf/f xn u/ / hf“r]/ x]/ M
+| | -s_ | | | -v_ | |
+| | x  +y =2  | 3x-y=10 | | 3x+y=7 | x = 2y |
+| | -u_ | | | -3_ | |
+| | x+y=13 | 2x = y+8  | | x+y=6 | x-y=2 |
+| | -ª_ | | | -r_ | |
+| | x+y=8 | x-y=4 | | 4x+y=2 | 3x - 2y=7 |
+| | -5_ | | | -h_ | |
+| | 2x+y=4 | x+2y=2 | | 3x+y=8 | 2x+y=7 |
+| | -em_ | | | -`_ | |
+| | 4x+2y=2 | x-3y=11 | | 2x-y=4 | x+2y=7 |
+| | -6_ | | | -7_ | |
+| | 2x+y=5 | 4x+3y=6 | | x+y=6 | x-y=0 |
+tn lbOPsf ;d:ofx¿nfO{ ;dLs/0fdf JoSt u/L n]vflrqåf/f xn u/ M
+| | -s_ b'O{cf]6f ;ª\Vofsf] of]ukmn  | |  5 / km/s  |  5 . | |
+-v_ b'O{cf]6f ;ª\Vofsf] of]ukmn 5 / 7'nf] ;ª\Vof ;fgf] ;ª\Vofsf] tLg u'0ff 7'nf] 5 .
+-u_ bO'  { ;ªV\ ofsf ] km/s 5 / ;fgf] ;ª\Vofsf] u'0ff / 7n' f ] ;ªV\ ofsf ]  u'0ff a/fa/ 5 .
+-3_ tLgcf]6f sfkL / rf/cf]6f sndsf] d"No ?=  200  k5{ /  5  cf]6f sfkL /  2  cf]6f
+sndsf] d"No ?= k5{ eg] Pp6f sfkL / Pp6f sndsf] d"No kQf nufpm .
+-ª_ afa'sf] pd]/ 5f]/Lsf] pd]/sf] t]Aa/df sd 5 . olb afa' / 5f]/Lsf] pd]/larsf
+km/s jif{ eP pgLx¿sf] pd]/ kQf nufpm .
+-r_ d~h'sf] clxn]sf] pd]/ rj|]msf] eGbf jif{ a9L 5 . d~h'sf] jif{kl5sf] pd]/ rj|msf
 clxn]sf] eGbf bf]Aa/ x'G5 eg] pgLx¿sf] clxn]sf] pd]/ slt xf]nf <
-  -5_ ljkgfeGbf ljkLg   jif{ h]7f 5g\ .   jif{ cufl8 ljkLgsf] pd]/ ljkgfsf] eGbf b'O{
-|     |     | 4   | 2   |     |     |
-| --- | --- | --- | --- | --- | --- |
+-5_ ljkgfeGbf ljkLg jif{ h]7f 5g\ . jif{ cufl8 ljkLgsf] pd]/ ljkgfsf] eGbf b'O{
 u'0ff a9L lyof] eg] pgLx¿sf] pd]/ kQf nufpm .
-  -h_ s';'d / pgsf a'afsf] pd]/sf] km/s   jif{ 5 . olb a'afsf] pd]/ s';'dsf] eGbf b'O {
-20
-|     |    u'0ff /   n] a9L 5 eg] pgLx¿sf] pd]/ kQf nufpm . |     |     |     |     |
-| --- | --------------------------------------------------- | --- | --- | --- | --- |
-4
+-h_ s';'d / pgsf a'afsf] pd]/sf] km/s jif{ 5 . olb a'afsf] pd]/ s';'dsf] eGbf b'O {
+| | u'0ff / n] a9L 5 eg] pgLx¿sf] pd]/ kQf nufpm . | | | | |
 xfd|f] ul0ft, sIff *
-207
-
-  ju{ ;dLs/0f
-| 22.4  | (Quadratic Equations) |     |     |     |     |
-| ----- | --------------------- | --- | --- | --- | --- |
-  tnsf ;dLs/0fx¿ x]/ / lbOPsf k|Zgx¿sf af/]df 5nkmn u/ M
-|   x2+2x+1=0 ……………….(i)     |     |                    |   x2-16=0 ………………….(ii)   |     |     |
-| -------------------------- | --- | ------------------ | ------------------------ | --- | --- |
-|   x2-12x+20=0 ………………(iii)  |     |                    |   3x2+4x=0 …………………..(iv) |     |     |
-|   – dflysf ;dLs/0fx¿df     |     |  sf] l8u|L slt 5 < |                          |     |     |
-x
-  – ;dLs/0fx¿df s] km/s kfp“5f} <
-  – dflysf ;dLs/0fx¿df slt sltcf]6f rn 5g\ <
-lbOPsf ;dLs/0fx¿df klxnf], t];|f] / rf}yf] kbdf   sf] l8u|L   /   b'j} 5 eg] bf];|f] ;dLs/0fdf
-|             |                                  |     | x                    | 1 2 |          |
-| ----------- | -------------------------------- | --- | -------------------- | --- | -------- |
-|  sf] l8u|L  |  dfq 5 .                         |     |                      |     |          |
-| x 2         |                                  |     |                      |     |          |
-| l8u|L       |  ePdf ;dLs/0fx¿nfO{ ju{ ;dLs/0f  |     |                      |     |  elgG5 . |
-|             | 2                                |     | (quadratic equation) |     |          |
-olb ju{ ;dLs/0fdf Psrn  sf] l8u|L   dfq 5 eg] pSt ju{ ;dLs/0fnfO{ z'4 ju{
-  'x' 2
-| ;dLs/0f                   |     |   elgG5 . h:t} M  |           | z'4 ju{ ;dLs/0f xf] . |     |
-| ------------------------- | --- | ----------------- | --------- | --------------------- | --- |
-| (pure quadratic equation) |     |                   |  x2-16=0  |                       |     |
-To:t} l8u|L   / l8u|L   ;d]t ePdf kbx¿ ;dfj]z ePsf] ju{ ;dLs/0fnfO{ ldl>t ju{
-2 1
-| ;dLs/0f                    |     |  elgG5 . h:t} M  |           |  ldl>t ju{ ;dLs/0f xf] .  |     |
-| -------------------------- | --- | ---------------- | --------- | ------------------------- | --- |
-| (mixed quadratic equation) |     |                  | x2+7x-8=0 |                           |     |
+ju{ ;dLs/0f
+| 22.4  | (Quadratic Equations) | | | | |
+tnsf ;dLs/0fx¿ x]/ / lbOPsf k|Zgx¿sf af/]df 5nkmn u/ M
+| x2+2x+1=0 ……………….(i) | | | x2-16=0 ………………….(ii) | | |
+| x2-12x+20=0 ………………(iii)  | | | 3x2+4x=0 …………………..(iv) | | |
+| – dflysf ;dLs/0fx¿df | |  sf] l8u|L slt 5 < | | | |
+– ;dLs/0fx¿df s] km/s kfp“5f} <
+– dflysf ;dLs/0fx¿df slt sltcf]6f rn 5g\ <
+lbOPsf ;dLs/0fx¿df klxnf], t];|f] / rf}yf] kbdf sf] l8u|L / b'j} 5 eg] bf];|f] ;dLs/0fdf
+| | | | x | 1 2 | |
+|  sf] l8u|L  |  dfq 5 . | | | | |
+| x 2 | | | | | |
+| l8u|L |  ePdf ;dLs/0fx¿nfO{ ju{ ;dLs/0f  | | | |  elgG5 . |
+| | 2 | | (quadratic equation) | | |
+olb ju{ ;dLs/0fdf Psrn  sf] l8u|L dfq 5 eg] pSt ju{ ;dLs/0fnfO{ z'4 ju{
+'x' 2
+| ;dLs/0f | | elgG5 . h:t} M  | | z'4 ju{ ;dLs/0f xf] . | |
+| (pure quadratic equation) | | |  x2-16=0  | | |
+To:t} l8u|L / l8u|L ;d]t ePdf kbx¿ ;dfj]z ePsf] ju{ ;dLs/0fnfO{ ldl>t ju{
+| ;dLs/0f | |  elgG5 . h:t} M  | |  ldl>t ju{ ;dLs/0f xf] .  | |
+| (mixed quadratic equation) | | | x2+7x-8=0 | | |
 v08Ls/0f ljlwåf/f ju{ ;dLs/0fsf] xn
-(Solving quadratic equations by factorization)
+Solving quadratic equations by factorization
 ju{ ;dLs/0fdf rn  sf] dfg kQf nufpg'nfO{ ju{ ;dLs/0fsf] xn ug'{ elgG5 . ju{
- 'x'
-;dLs/0fsf] l8u|L   x'g] x'“bf o;sf dfg klg b'O{cf]6f x'G5g\ . ju{ ;dLs/0fdf   sf] dfgnfO{
-|                         | 2   |          |     |     | x   |
-| ----------------------- | --- | -------- | --- | --- | --- |
-| ;dLs/0fsf d"n jf d"nx¿  |     |  elgG5 . |     |     |     |
-(roots)
+'x'
+;dLs/0fsf] l8u|L x'g] x'“bf o;sf dfg klg b'O{cf]6f x'G5g\ . ju{ ;dLs/0fdf sf] dfgnfO{
+| | 2 | | | | x |
+| ;dLs/0fsf d"n jf d"nx¿  | |  elgG5 . | | | |
+roots
 pbfx/0f
-1
-| xn u/ M  | -s_             |     |   -v_         |     |     |
-| -------- | --------------- | --- | ------------- | --- | --- |
-|          | x2 + 7x – 8 = 0 |     | 16x2 - 49 = 0 |     |     |
+| xn u/ M  | -s_ | | -v_ | | |
+| | x2 + 7x – 8 = 0 | | 16x2 - 49 = 0 | | |
 ;dfwfg
 -s_
-  x2 + 7x – 8 = 0
-[ 8 x -1 = -8 ]
+x2 + 7x – 8 = 0
+8 x -1 = -8
 cyjf,
-|   x2 + 8x – 8 = 0 |     | [ 8-1=7 ] |     |     |     |
-| ----------------- | --- | --------- | --- | --- | --- |
+| x2 + 8x – 8 = 0 | | [ 8-1=7 ] | | | |
 cyjf,
-  x(x + 8) -1(x + 8) = 0
-cyjf,    (x -1) (x + 8) = 0
-| ls,  (x - 1) = 0        | eP  x = 1  / |         | df  /   b'O{ cf]6f u'0fgv08  |     |                      |
-| ----------------------- | ------------ | ------- | ---------------------------- | --- | -------------------- |
-|                         |              | ab = 0  | a  b                         |     |                      |
-| jf,  x + 8 = 0, x = -8  | x'G5 .       | eP      | jf jf b'j} x'G5 .            |     |                      |
-|                         |              | a = 0   |  b = 0                       |     |                      |
-| t;y{   sf] dfg          |  /   5g\ .   |         |                              |     |                      |
-| x                       | 1 -8         |         |                              |     |                      |
-|                         |              |         |                              |     | xfd|f] ul0ft, sIff * |
-208
-
+x(x + 8) -1(x + 8) = 0
+cyjf, (x -1) (x + 8) = 0
+| ls,  (x - 1) = 0 | eP  x = 1  / | | df  / b'O{ cf]6f u'0fgv08  | | |
+| | | ab = 0  | a  b | | |
+| jf,  x + 8 = 0, x = -8  | x'G5 . | eP | jf jf b'j} x'G5 . | | |
+| | | a = 0 |  b = 0 | | |
+| t;y{ sf] dfg |  / 5g\ . | | | | |
+| x | 1 -8 | | | | |
+| | | | | | xfd|f] ul0ft, sIff * |
 -v_
 16x2- 49=0
 cyjf,
-  (4x)2- (7)2=0
+4x)2- (7)2=0
 cyjf,
-  (4x-7) (4x+7) = 0 (?)
-| olb,       |           |  eP    |           | x'G5 . |     |     |     |     |     |
-| ---------- | --------- | ------ | --------- | ------ | --- | --- | --- | --- | --- |
-|            | 4x-7=0    |        | 4x =7     |        |     |     |     |     |     |
-|            | /         |  x'G5  |           |        |     |     |     |     |     |
-| k]ml/ olb  |           | eP     |           | x'G5 . |     |     |     |     |     |
-|            | 4x + 7=0  |        |  4x = -7  |        |     |     |     |     |     |
-|            | /         |        |           | x'G5 . |     |     |     |     |     |
-
+4x-7) (4x+7) = 0 (?
+| olb, | |  eP | | x'G5 . | | | | | |
+| | 4x-7=0 | | 4x =7 | | | | | | |
+| | / |  x'G5  | | | | | | | |
+| k]ml/ olb  | | eP | | x'G5 . | | | | | |
+| | 4x + 7=0  | |  4x = -7  | | | | | | |
+| | / | | | x'G5 . | | | | | |
 cEof;
-22.4
-  xn u/ M
-1.
-|     | -s_      |     | -v_    |           |     | -u_      |     |     | -3_        |
-| --- | -------- | --- | ------ | --------- | --- | -------- | --- | --- | ---------- |
-|     | x2-4x=0  |     |        | 2x2-x=0   |     | 3x+9x2=0 |     |     | 9x2-4=0    |
-|     | -ª_      |     | -r_    |           |     | -5_      |     |     | -h_        |
-|     | 5x+9x2=0 |     |        | 4x2-7x=0  |     | x2-49=0  |     |     | 169x2-96=0 |
-|     | -em_     |     |   -`_  | (x3-4x)=0 |     |          |     |     |            |
-  xn u/ M
-2.
-|     | -s_         |     |     | -v_         |     | -u_          |     |     |   -3_       |
-| --- | ----------- | --- | --- | ----------- | --- | ------------ | --- | --- | ----------- |
-|     | x2+2x+1=0   |     |     | x2-x-2=0    |     | x2+x-2=0     |     |     | x2+4x+4=0   |
-|     | -ª_         |     |     | -r_         |     | -5_          |     |     | -h_         |
-|     | x2-10x-24=0 |     |     | x2-9x+18=0  |     | x2-11x+30=0  |     |     |   x2+2x-3=0 |
-|     | -em_        |     |     | -`_         |     | -6_          |     |     | -7_         |
-|     | x2+8x+16=0  |     |     | x2-8x+16=0  |     | x2+10x+25=0  |     |     | x2-8x+15=0  |
-  -8_  x2-6x+8=0   -9_  2x2-x-6=0  -0f_  x2+7x+12=0     -t_  7x2+13x-2=0
-|     | -y_          |     |     | -b_            |     | -w_           |     |     |    -g_       |
-| --- | ------------ | --- | --- | -------------- | --- | ------------- | --- | --- | ------------ |
-|     | x2+9x-22=0   |     |     | x2-18x+77=0    |     | 2x2+11x+12=0  |     |     | 3x2-11x-20=0 |
-|     | -k_          |     |     | -km_           |     | -a_           |     |     |   -e_        |
-|     | 10x2+19x+6=0 |     |     | 12x2-11x+2=0   |     |               |     |     | (x+1)2-4=0   |
-|     |  -d_         |     |     | -o_            |     | -/_           |     |     |    -n_       |
-|     | (x+3)2-16=0  |     |     | (x + 6)2-36=0  |     | (x- 7)2-64=0  |     |     | 100-(x-5)2=0 |
+xn u/ M
+| | -s_ | | -v_ | | | -u_ | | | -3_ |
+| | x2-4x=0  | | | 2x2-x=0 | | 3x+9x2=0 | | | 9x2-4=0 |
+| | -ª_ | | -r_ | | | -5_ | | | -h_ |
+| | 5x+9x2=0 | | | 4x2-7x=0  | | x2-49=0  | | | 169x2-96=0 |
+| | -em_ | | -`_  | (x3-4x)=0 | | | | | |
+xn u/ M
+| | -s_ | | | -v_ | | -u_ | | | -3_ |
+| | x2+2x+1=0 | | | x2-x-2=0 | | x2+x-2=0 | | | x2+4x+4=0 |
+| | -ª_ | | | -r_ | | -5_ | | | -h_ |
+| | x2-10x-24=0 | | | x2-9x+18=0  | | x2-11x+30=0  | | | x2+2x-3=0 |
+| | -em_ | | | -`_ | | -6_ | | | -7_ |
+| | x2+8x+16=0  | | | x2-8x+16=0  | | x2+10x+25=0  | | | x2-8x+15=0  |
+-8_  x2-6x+8=0 -9_  2x2-x-6=0  -0f_  x2+7x+12=0 -t_  7x2+13x-2=0
+| | -y_ | | | -b_ | | -w_ | | | -g_ |
+| | x2+9x-22=0 | | | x2-18x+77=0 | | 2x2+11x+12=0  | | | 3x2-11x-20=0 |
+| | -k_ | | | -km_ | | -a_ | | | -e_ |
+| | 10x2+19x+6=0 | | | 12x2-11x+2=0 | | | | | (x+1)2-4=0 |
+| |  -d_ | | | -o_ | | -/_ | | | -n_ |
+| | (x+3)2-16=0  | | | (x + 6)2-36=0  | | (x- 7)2-64=0  | | | 100-(x-5)2=0 |
 xfd|f] ul0ft, sIff *
-209
-
 pQ/dfnf
 cEof;
-1.1
-1.
 -s_ cf;Gg -v_ zLif{led'v -u_ zLif{led'v -3_ cf;Gg -ª_ cf;Gg
 2. cf;Gg sf]0fx¿ M ∠XOY / ∠YOX'; ∠YOX' / ∠X'OY'; ∠X'OY' / ∠Y'OX; ∠Y'OX / ∠XOY
 zLif{led'v sf]0fx¿ M– ∠XOY / ∠X'OY' , ∠X'OY / ∠Y'OX
-3.
 -s_
 75°
 -v_
@@ -8179,15 +4644,11 @@ zLif{led'v sf]0fx¿ M– ∠XOY / ∠X'OY' , ∠X'OY / ∠Y'OX
 -s_ -v_ -u_
 5. x° = 135°, y° = 45°, z= 135° x°= 50°, y° = 80°, z° = 80° y° =z°= 45°
 cEof;
-1.2
-1.
 -s_
 ∠1, ∠2, ∠7
-/
 ∠8
 -v_
 ∠3, ∠4, ∠5
-/
 ∠6
 -s_ / -v_ /
 2. x = 60°, y = 120° z = 120° x = 100°, y = 100° z = 80°
@@ -8196,7 +4657,6 @@ cEof;
 -r_ -5_ -h_
 x = 75° , y = 75° z = 75° x = 20° x = 120°, y = 60° z = 60°
 -s_ 5}gg\ -v_ 5g\ -u_ 5}gg\
-3.
 -s_ -v_
 4. x = y = 49° x = y = 80° a = 80°, b = 100°
 -u_ -3_
@@ -8206,9 +4666,7 @@ x = 95° y = 45° z = 135°, a = 130° x = 90°, y = 50°, z = 40°
 -5_ -h_
 x = 75°, y = 105°, z = 105°, a = 75° x = 115°, y = 115° z = 58°, a = 58°
 cEof;
-2.1
-lzIfsnfO{ b]vfpg]
-1.
+lzIfsnfO{ b]vfpg
 -s_ -v_ -u_ -3_ -ª_
 2. 90° 45°,45° 68°,68° 70°, 70° 60°, 60°, 60°
 -r_ -5_ -h_ -em_
@@ -8216,135 +4674,90 @@ x = 30°, y = 60° 20°, 40°, 120° 60°, 60°, 120° 120°, 75°
 -`_ x = 100°, y = 38°, z = 42° -6_ x = 60°, y = 55° -7_ x = 45° , y = 45°
 -8_
 x = 36° ; 36°, 67°, 77°, y = 77°, z = 67°
-lzIfsnfO{ b]vfpg]
+lzIfsnfO{ b]vfpg
 3. 50°, 95°, 85° 4.
 xfd|f] ul0ft, sIff *
-210
-
 cEof;
-2.2
-lzIfsnfO{ b]vfpg]
+lzIfsnfO{ b]vfpg
 cEof;
-2.3
-|   lzIfsnfO{ b]vfpg]   |     |       |  lzIfsnfO{ b]vfpg]  |     |                  |     |     |     |                   |     |     |
-| --------------------- | --- | ----- | ------------------- | --- | ---------------- | --- | --- | --- | ----------------- | --- | --- |
-| 1.                    |     |       | 2.                  |     |                  |     |     |     |                   |     |     |
-|   -s_                 |     |       | -v_                 |     | -u_              |     |     |     | -3_               |     |     |
-| 3. 110°               |     |       | 5cm                 |     | x = 90°, y = 90° |     |     |     | x = 8cm, y = 6cm  |     |     |
-|   -ª_                 |     |  -r_  |                     |     |                  |     |     |     |                   |     |     |
-| x= 4cm, y =3cm        |     |       | x = y = z = 90°     |     |                  |     |     |     |                   |     |     |
-4.  lzIfsnfO{ b]vfpg]
+| lzIfsnfO{ b]vfpg] | | |  lzIfsnfO{ b]vfpg]  | | | | | | | | |
+| -s_ | | | -v_ | | -u_ | | | | -3_ | | |
+| 3. 110° | | | 5cm | | x = 90°, y = 90° | | | | x = 8cm, y = 6cm  | | |
+| -ª_ | |  -r_  | | | | | | | | | |
+| x= 4cm, y =3cm | | | x = y = z = 90° | | | | | | | | |
+4.  lzIfsnfO{ b]vfpg
 cEof;
-2.4
-lzIfsnfO{ b]vfpg]
+lzIfsnfO{ b]vfpg
 cEof;
-3.1
-|   -s_ 5g\   |     |     | -v_ 5}gg\  |     |     |     |     |     |     |     |     |
-| ----------- | --- | --- | ---------- | --- | --- | --- | --- | --- | --- | --- | --- |
-1.
-|   -s_ sf]=e'=sf] -v_ e'=e'=e'  |     |     |     | -u_ ;=s=e'  |     | -3_ e'=sf]=e'=  |     |     |     |     |     |
-| ------------------------------ | --- | --- | --- | ----------- | --- | --------------- | --- | --- | --- | --- | --- |
-2.
-|   -s_             |  /     |  /       |         |  /                |   ∠P / ∠L, ∠Q  |     | / ∠Μ, ∠R     |     | /  ∠N |     |     |
-| ----------------- | ------ | -------- | ------- | ----------------- | -------------- | --- | ------------ | --- | ----- | --- | --- |
-| 3. PQ             | LM, QR |          |  MN, PR | LN,               |                |     |              |     |       |     |     |
-| -v_ XY = AB ; YZ  |        | /        |         | /                 | /              |     | /            |     |       |     |     |
-|                   |        |  BC, XZ  |         |  AC°, ∠X          |  ∠A; ∠Y        |     | ∠B ; ∠Z = ∠C |     |       |     |     |
-| 4.  -s_           |        |          |         | -v_               |                |     |              |     |       |     |     |
-| x = 13°, y = 13°  |        |          |         | x = 20°, y = 112° |                |     |              |     |       |     |     |
-|   -u_             |        |          |         | -3_               |                |     |              |     |       |     |     |
-| x = 1.8cm         |        |          |         | x = 1, y = 1.25cm |                |     |              |     |       |     |     |
- lzIfsnfO{ b]vfpg]
-| 5.-6.      |             |          |     | 7. AC = PR    |     |     |     |     |     |     |     |
-| ---------- | ----------- | -------- | --- | ------------- | --- | --- | --- | --- | --- | --- | --- |
-|            |  eP ;se' /  |          |     | eP e'=sf]=e'= |     |     |     |     |     |     |     |
-| 8. LN = YZ |             | MN = XY  |     |               |     |     |     |     |     |     |     |
+| -s_ 5g\ | | | -v_ 5}gg\  | | | | | | | | |
+| -s_ sf]=e'=sf] -v_ e'=e'=e'  | | | | -u_ ;=s=e'  | | -3_ e'=sf]=e'=  | | | | | |
+| -s_ |  / |  / | |  / | ∠P / ∠L, ∠Q  | | / ∠Μ, ∠R | | /  ∠N | | |
+| 3. PQ | LM, QR | |  MN, PR | LN, | | | | | | | |
+| -v_ XY = AB ; YZ  | | / | | / | / | | / | | | | |
+| | |  BC, XZ  | |  AC°, ∠X |  ∠A; ∠Y | | ∠B ; ∠Z = ∠C | | | | |
+| 4.  -s_ | | | | -v_ | | | | | | | |
+| x = 13°, y = 13°  | | | | x = 20°, y = 112° | | | | | | | |
+| -u_ | | | | -3_ | | | | | | | |
+| x = 1.8cm | | | | x = 1, y = 1.25cm | | | | | | | |
+lzIfsnfO{ b]vfpg
+| 5.-6. | | | | 7. AC = PR | | | | | | | |
+| |  eP ;se' /  | | | eP e'=sf]=e'= | | | | | | | |
+| 8. LN = YZ | | MN = XY  | | | | | | | | | |
 cEof;
-3.2
-  -s_ lzIfsnfO{ b]vfpg]
-1.
-  -s_  x = 4, y = 5    -v_  x = 6cm, y = 15cm   -u_  x = 18, y = 7  -3_  x = 3, y = 2
-2.
-|                |     |     | -s_ lzIfsnfO{ b]vfpg]   |                   |     |     |     | -v_             |     |     |     |
-| -------------- | --- | --- | ----------------------- | ----------------- | --- | --- | --- | --------------- | --- | --- | --- |
-| (3)  2.2 cm    |     |     | (4)                     |                   |     |     |     | DE = 12cm ; 30° |     |     |     |
-| (5)   3cm, 30° |     |     | (6) (i)                 | lzIfsnfO{ b]vfpg] |     |     |     |  (ii) 6cm       |     |     |     |
+-s_ lzIfsnfO{ b]vfpg
+-s_  x = 4, y = 5 -v_  x = 6cm, y = 15cm -u_  x = 18, y = 7  -3_  x = 3, y = 2
+| | | | -s_ lzIfsnfO{ b]vfpg] | | | | | -v_ | | | |
+| (3)  2.2 cm | | | (4) | | | | | DE = 12cm ; 30° | | | |
+| (5) 3cm, 30° | | | (6) (i) | lzIfsnfO{ b]vfpg] | | | |  (ii) 6cm | | | |
 cEof;
-4.1
-| -s_   18.84 cm    |         |       | -v_ 15.7cm |        | -u_    |     |     | -3_    |     | -ª_ 75.36m           |     |
-| ----------------- | ------- | ----- | ---------- | ------ | ------ | --- | --- | ------ | --- | -------------------- | --- |
-| 1.                |         |       |            |        | 28.26m |     |     | 31.4in |     |                      |     |
-| -r_ 56.52 ft      |    -5_  |       |     -h_    |        |        |     |     |        |     |                      |     |
-|                   |         | 9.42k |            | 47.1yd |        |     |     |        |     |                      |     |
-|                   |         |       |            |        |        |     |     |        |     | xfd|f] ul0ft, sIff * |     |
-211
-
-2.  -s_   2 cm   -v_ 3 in         -u_  -3_      -ª_ 18cm  -r_ 60yd
-|     |     |     | 5.5 m      |     | 10.5ft |     |     |     |
-| --- | --- | --- | ---------- | --- | ------ | --- | --- | --- |
-        (3) 528m    (4)  628m     (5)  50ft   (6) 176m, 4       (7)  0.84 m  (8)   14 in
+| -s_ 18.84 cm | | | -v_ 15.7cm | | -u_ | | | -3_ | | -ª_ 75.36m | |
+| 1. | | | | | 28.26m | | | 31.4in | | | |
+| -r_ 56.52 ft | -5_  | | -h_ | | | | | | | | |
+| | | 9.42k | | 47.1yd | | | | | | | |
+| | | | | | | | | | | xfd|f] ul0ft, sIff * | |
+2.  -s_ 2 cm -v_ 3 in -u_  -3_ -ª_ 18cm  -r_ 60yd
+| | | | 5.5 m | | 10.5ft | | | |
+3) 528m (4)  628m (5)  50ft (6) 176m, 4 (7)  0.84 m  (8) 14 in
 cEof; 4.2
- -s _   28..26 cm2   -v_ 78.5 sq in   -u_  200.96sq.ft.  -3_   -ª_ 254.34m2
-| 1.           |     |      |               |     |              | 113.04 sqin      |       |            |
-| ------------ | --- | ---- | ------------- | --- | ------------ | ---------------- | ----- | ---------- |
-|   -r_ 314km2 |     | -5_  |               |     |         -h_  |                  |   -´_ |            |
-|              |     |      | 176.625 sq.mm |     |              | 379.94cm2        |       | 803.84 cm2 |
-(3) -s_   94.985 cm2   -v_.346.185 m2      -u_  28.26sqin.
-| (2) 153.86 cm2  |     |     |     |     |     |     |     |     |
-| --------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-    -3_   1017.36  m2   - ª_ 11304 sq. ft    (4) 63.585 cm2
-| (5).  -s_            |     |   -v_.30.5 cm2                          |     | -u_  | 30.96sq ft. -3_   |            |                 |     |
-| -------------------- | --- | --------------------------------------- | --- | ---- | ----------------- | ---------- | --------------- | --- |
-| 84.78 cm2            |     |                                         |     |      |                   | 168.56 cm2 |                 |     |
-|                      |     | (7). 7 m; 43.96m   (8)  Zofd. 75.36 cm2 |     |      |                   |            |                 |     |
-| (6) 43.96 ft; 7 ft   |     |                                         |     |      |                   |            | (9) 176.625 cm2 |     |
+-s _ 28..26 cm2 -v_ 78.5 sq in -u_  200.96sq.ft.  -3_ -ª_ 254.34m2
+| 1. | | | | | | 113.04 sqin | | |
+| -r_ 314km2 | | -5_  | | | -h_  | | -´_ | |
+| | | | 176.625 sq.mm | | | 379.94cm2 | | 803.84 cm2 |
+3) -s_ 94.985 cm2 -v_.346.185 m2 -u_  28.26sqin.
+| (2) 153.86 cm2  | | | | | | | | |
+-3_ 1017.36  m2 - ª_ 11304 sq. ft (4) 63.585 cm2
+| (5).  -s_ | | -v_.30.5 cm2 | | -u_  | 30.96sq ft. -3_ | | | |
+| 84.78 cm2 | | | | | | 168.56 cm2 | | |
+| | | (7). 7 m; 43.96m (8)  Zofd. 75.36 cm2 | | | | | | |
+| (6) 43.96 ft; 7 ft | | | | | | | (9) 176.625 cm2 | |
 cEof;
-5.1
-  -s_ if8\d'vf   -v_ lqe'hfsf/ lk|Hd  -u_ k~re'hfwf/ lk/fld8   -3_ ;f]nL
-1.
-|   -ª_ a]ngf  | -r_ 3g   |     | -5_ 6]6«fx]8«g  |     |     | -h_ cfotfwf/ lk/fld8 |     |     |
-| ------------ | -------- | --- | --------------- | --- | --- | -------------------- | --- | --- |
-  -em_ uf]nf
-  -s_ ∆ABC,∆PQR;  cfot  APQC;   cfot  BCQR ;   cfot  APRB;
-2.
-          -v_ ju{ PQRS;  ∆ ∆OPQ,   ∆OQR,     ∆ORS,   ∆OSP
-    -u_ k~re'hABCDE;   ∆ABF,   ∆BCF , ∆CDF, ∆DEF,   ∆EAF
+-s_ if8\d'vf -v_ lqe'hfsf/ lk|Hd  -u_ k~re'hfwf/ lk/fld8 -3_ ;f]nL
+| -ª_ a]ngf  | -r_ 3g | | -5_ 6]6«fx]8«g  | | | -h_ cfotfwf/ lk/fld8 | | |
+-em_ uf]nf
+-s_ ∆ABC,∆PQR;  cfot  APQC; cfot  BCQR ; cfot  APRB;
+-v_ ju{ PQRS;  ∆ ∆OPQ, ∆OQR, ∆ORS, ∆OSP
+-u_ k~re'hABCDE; ∆ABF, ∆BCF , ∆CDF, ∆DEF, ∆EAF
 cEof;
-5.2
-1.   -s_ 6]6«fx]8«g   -v_ 3g   -u_ ;f]nL   -3_ a]ngf   -ª_ if8\e'vf
-|   -r_ 3g   |     |     |  lzIfsnfO{ b]vfpg]    |     |     |     |     |     |
-| ---------- | --- | --- | --------------------- | --- | --- | --- | --- | --- |
-2.-3.
+1. -s_ 6]6«fx]8«g -v_ 3g -u_ ;f]nL -3_ a]ngf -ª_ if8\e'vf
+| -r_ 3g | | |  lzIfsnfO{ b]vfpg] | | | | | |
 cEof;
-6.1
-|   -s_  |      -v_  |           |    -u_  |      |       | -3_        | -ª_   |     |
-| ------ | --------- | --------- | ------- | ---- | ----- | ---------- | ----- | --- |
-| 1. 5cm |           | 50cm      |         | 75cm |       | 10cm       | 20 ft |     |
-|   -r_  | cm        | -5_  17cm |   -h_   |      |   m   | -em_  25cm |       |     |
-  -s_ xf]Og  -v_ xf]    -u_ xf]Og  -3_ xf]   -ª_ xf]   -r_ xf]Og
-2.
-(3)    10cm   - 4 _    cm   - 5 _   cm   - 6 _  21   cm     - 7 _  24cm
-|     |     |     |     |     |     |     |     | xfd|f] ul0ft, sIff * |
-| --- | --- | --- | --- | --- | --- | --- | --- | -------------------- |
-212
-
+| -s_  | -v_  | | -u_  | | | -3_ | -ª_ | |
+| 1. 5cm | | 50cm | | 75cm | | 10cm | 20 ft | |
+| -r_  | cm | -5_  17cm | -h_ | | m | -em_  25cm | | |
+-s_ xf]Og  -v_ xf] -u_ xf]Og  -3_ xf] -ª_ xf] -r_ xf]Og
+3) 10cm - 4 _ cm - 5 _ cm - 6 _  21 cm - 7 _  24cm
+| | | | | | | | | xfd|f] ul0ft, sIff * |
 -s_ xf] -v_ xf] -u_ xf]Og -3_ xf] -ª_ xf]Og -r_ xf]Og
-8.
 cEof;
-6.2
 -s_ PsfO -v_ PsfO -u_ PsfO -3_ PsfO -ª_
-1. 13 6
 PsfO -r_ PsfO -5_ PsfO -h_ PsfO
 -em_ PsfO
-2
 PsfO - _ PsfO - _ lzIfsnfO{ b]vfpg] - _
 2. 10 3 4 5 5, 250km
 lzIfsnfO{ b]vfpg] - _ , - _ PsfO k5{
-6. 7 8 10 ,
-, lzIfsnfO{ b]vfpg]
-(9) (10) a = 0 (11)
+, lzIfsnfO{ b]vfpg
+9) (10) a = 0 (11
 cEof;
-7.1
 -s_ -v_ ju{ lkm6 -u_ -3_
 1. 18cm2 1.96 12cm2 36cm2
 -ª_ ju{ PsfO -r_ -5_ -h_
@@ -8356,19 +4769,14 @@ cEof;
 -s_ -v_ -u_
 3. 16cm 10cm 10cm
 ju{ ld6/ cf]6f
-(4) 13038 (5) 63
 -s_ ju{ ld6/ -v_ ju{ ld6/ -u_ ju{ ld6/
-6. 28 66 5450
 -3_ ju{ ld6/ -ª_ ju{ ld6/
-16 12
 cEof;
-7.2
 -s_ -v_ -u_ -3_ -ª_
 1. 300cm3 24cm3 60,000cm3 30cm2 630cm3
 -s_ -v_ -u_ -3_
 2. 27cm3 64cm3 125cm3 512cm3
 -ª_ 3g lkm6 -r_ 3g OGr
-216 15.625
 cf]6f - _ - _ cf]6f
 3. 27 4 1620 m3 5 10
 -s_ -v_ -u_ _
@@ -8376,136 +4784,80 @@ cf]6f - _ - _ cf]6f
 -s_ -v_
 9. 28 280 (10) 64,000 cm3 (11) 2400cm3
 lzIfsnfO{ b]vfpg] cf]6f
-(12) 6cm (13) (14) 150
+12) 6cm (13) (14) 150
 cEof;
-8.1
-lzIfsnfO{ b]vfpg]
-1.
+lzIfsnfO{ b]vfpg
 xfd|f] ul0ft, sIff *
-213
-
-|   -s_  |            |        | -v_      |     |     | -u_  |                      | -3_   |            |     | -ª_     |     |
-| ------ | ---------- | ------ | -------- | --- | --- | ---- | -------------------- | ----- | ---------- | --- | ------- | --- |
-| 2.     | (1,-2)     |        | (-2,-3)  |     |     |      | (4, 5)               |       | (-6,-6)    |     | (-5, 4) |     |
-|        | -r_        |  -5_   |          |     |     | -h_  |                      | -em_  |            |     | -`_     |     |
-|        | (-2, -5)   |        | (9, 8)   |     |     |      | (-3, 9)              |       | ( -10,-12) |     | (7,-8)  |     |
-|   -s_  |            |        | -v_      |     |     | -u_  |                      | -3_   |            |     | -ª_     |     |
-| 3.     | (-1,2)     |        | (2, 3)   |     |     |      | (-4,-5)              |       | (6, 6)     |     | (5, -4) |     |
-|        | -r_        |        | -5_      |     |     | -h_  |                      | -em_  |            |     | -`_     |     |
-|        | (2, 5)     |        | (-9, -8) |     |     |      | (3,-9)               |       | (10, 12)   |     | (-7, 8) |     |
-|        |            |  PsfO  |          |     |     |      | =  lzIfsnfO{ b]vfpg] |       |            |     |         |     |
-| 4.     | (-5,-6), 5 |        |          |     |     | 5- 7 |                      |       |            |     |         |     |
+| -s_  | | | -v_ | | | -u_  | | -3_ | | | -ª_ | |
+| | -r_ |  -5_ | | | | -h_  | | -em_  | | | -`_ | |
+| -s_  | | | -v_ | | | -u_  | | -3_ | | | -ª_ | |
+| | -r_ | | -5_ | | | -h_  | | -em_  | | | -`_ | |
+| | |  PsfO  | | | | | =  lzIfsnfO{ b]vfpg] | | | | | |
 cEof;
-8.2
-  lzIfsnfO{ b]vfpg]
-1-2.
-|   -s_  |                              |     |     |     |     | -v_  |                           |     |     |     |     |     |
-| ------ | ---------------------------- | --- | --- | --- | --- | ---- | ------------------------- | --- | --- | --- | --- | --- |
-| 3.     | (-7,-4),(7,4), (4,-7)        |     |     |     |     |      | (7,4), (-7,-4), (4,7)     |     |     |     |     |     |
-|        | -u_                          |     |     |     |     | -3_  |                           |     |     |     |     |     |
-|        | (-9, 5), (9,-5), (-5,-9)     |     |     |     |     |      | (0,3), (0, -3), (-3,0)    |     |     |     |     |     |
-|        | -ª_                          |     |     |     |     | -r_  |                           |     |     |     |     |     |
-|        | (8,-4), (-8,4), (4, 8)       |     |     |     |     |      | (5, -2), (-5,-2), (-2, 5) |     |     |     |     |     |
-|        | -5_                          |     |     |     |     | -h_  |                           |     |     |     |     |     |
-|        | (10,10), (-10,-10),(-10,10)  |     |     |     |     |      | (-6,0), (6,0), (0, -6)    |     |     |     |     |     |
-|        | -em_                         |     |     |     |     | -`_  |                           |     |     |     |     |     |
-|        | (0,0), (0,0), (0,0)          |     |     |     |     |      | (9,-9), (9,9) , (9,9)     |     |     |     |     |     |
-lzIfsnfO{ b]vfpg]
-4 - 6.
+lzIfsnfO{ b]vfpg
+| -s_  | | | | | | -v_  | | | | | | |
+| | -u_ | | | | | -3_  | | | | | | |
+| | -ª_ | | | | | -r_  | | | | | | |
+| | -5_ | | | | | -h_  | | | | | | |
+| | -em_ | | | | | -`_  | | | | | | |
+lzIfsnfO{ b]vfpg
 cEof;
-8.3
-|        | lzIfsnfO{ b]vfpg]    |     |          |       |         |              |        |      |        |     |        |     |
-| ------ | -------------------- | --- | -------- | ----- | ------- | ------------ | ------ | ---- | ------ | --- | ------ | --- |
-| 1.     |                      |     |          |       | (2)     | (7,-1)       |        |      |        |     |        |     |
-|        | -s_                  |     | -v_      |  -u_  |         |   -3_        |        | -ª_  |        |     | -r_    |     |
-| 3.     | (1,12)               |     | (-6,9)   |       | (-5,5)  |              | (-8,8) |      | (-1,0) |     | (1,-4) |     |
-|        | -5_                  |     | -h_      |       |         |              |        |      |        |     |        |     |
-|        | (-7,11)              |     | (-8, -3) |       |         |              |        |      |        |     |        |     |
-|        |   lzIfsnfO{ b]vfpg]  |     |          |       |         |  PsfO  bfof“ |        |      |        |     |        |     |
-| 4 - 7. |                      |     |          |       | (8). 7, |              |        |      |        |     |        |     |
+| | lzIfsnfO{ b]vfpg] | | | | | | | | | | | |
+| | -s_ | | -v_ |  -u_  | | -3_ | | -ª_  | | | -r_ | |
+| | -5_ | | -h_ | | | | | | | | | |
+| | lzIfsnfO{ b]vfpg]  | | | | |  PsfO  bfof“ | | | | | | |
 cEof;
-9.1
-| 1.  -s_   |        |     | -v_     | °   | -u_     |      | -3_       |   2. -s_       |     |    -v_ |      |     |
-| --------- | ------ | --- | ------- | --- | ------- | ---- | --------- | -------------- | --- | ------ | ---- | --- |
-|           | 055°   |     | 105     |     |         | 290° |  270°     |                |     | 315°   | 155° |     |
-|     -u_   |        |     | -3_     |     | 3. -s_  |      |   -v_     |           -u_  |     |        |      |     |
-|           | 292.5° |     | 067.5°  |     |         | 240° | 270°      |                |     | 285°   |      |     |
- lzIfsnfO{ b]vfpg]  (5) 242°      ?n/sf] k|of]u u/L gfk]/ x]g]{
-| 4.  |     |     |     |     | (6) 080° |     | (7) |     |     |     |     |     |
-| --- | --- | --- | --- | --- | -------- | --- | --- | --- | --- | --- | --- | --- |
+| 1.  -s_ | | | -v_ | ° | -u_ | | -3_ | 2. -s_ | | -v_ | | |
+| | 055° | | 105 | | | 290° |  270° | | | 315° | 155° | |
+| -u_ | | | -3_ | | 3. -s_  | | -v_ | -u_  | | | | |
+| | 292.5° | | 067.5°  | | | 240° | 270° | | | 285° | | |
+lzIfsnfO{ b]vfpg]  (5) 242° ?n/sf] k|of]u u/L gfk]/ x]g]{
+| 4.  | | | | | (6) 080° | | (7) | | | | | |
 cEof;
-9.2
-|   -s_    |        |         |     | -v_      |             |     -u_  |                        |                |      |        |                      |     |
-| -------- | ------ | ------- | --- | -------- | ----------- | -------- | ---------------------- | -------------- | ---- | ------ | -------------------- | --- |
-| 1.       | 5250 m |         |     |          | 6500 mile   |          | 750 m                  |   (2)  2.25 cm |      |        |                      |     |
-|   -v_    |        |         |     |          |             |          | -s_ lzIfsnfO{ b]vfpg ] |                | -v_  |        |                      |     |
-| 3.       | 6 cm   |         |     | (4) 300m |             | 5.       |                        |                |      |  300 m |                      |     |
-|          |        |         |     |          |             |          |                        |                |      |        | xfd|f] ul0ft, sIff * |     |
-214
-
-|       -u_ |     |     |  ?n/sf] k|of]u u/L gfk]/ x]g]{ |     |     |     |     |     |
-| --------- | --- | --- | ------------------------------ | --- | --- | --- | --- | --- |
-|   110°    |     |     | 6.                             |     |     |     |     |     |
+| -s_ | | | | -v_ | | -u_  | | | | | | |
+| 1. | 5250 m | | | | 6500 mile | | 750 m | (2)  2.25 cm | | | | |
+| -v_ | | | | | | | -s_ lzIfsnfO{ b]vfpg ] | | -v_  | | | |
+| 3. | 6 cm | | | (4) 300m | | 5. | | | |  300 m | | |
+| | | | | | | | | | | | xfd|f] ul0ft, sIff * | |
+| -u_ | | |  ?n/sf] k|of]u u/L gfk]/ x]g]{ | | | | | |
+| 110° | | | 6. | | | | | |
 cEof;
-10.1
-|   -s_  |                     |     |     | -v_       |     | -u_    |     | -3_     |
-| ------ | ------------------- | --- | --- | --------- | --- | ------ | --- | ------- |
-| 1.     | {2,4,6,8,10,12,14}  |     |     | {4,8,10}  |     | {2,6}  |     | {12,14} |
-  -ª_
+| -s_  | | | | -v_ | | -u_ | | -3_ |
+| 1. | {2,4,6,8,10,12,14}  | | | {4,8,10}  | | {2,6}  | | {12,14} |
+-ª_
 {2,6,12,14}
-| lzIfsnfO{ b]vfpg]  |     |     |     |                         |     |     |     |     |
-| ------------------ | --- | --- | --- | ----------------------- | --- | --- | --- | --- |
-| 2.                 |     |     |     | 3. {2,6,10,14,.....}; φ |     |     |     |     |
-  lzIfsnfO{ b]vfpg]
-4.
-|   -s_           |     |     |     | -v_           |     |     | -u_            |     |
-| --------------- | --- | --- | --- | ------------- | --- | --- | -------------- | --- |
-| 5.  {2,4,5,7,8} |     |     |     | {3, 5, 7, 9}  |     |     | {2,4,6,8}      |     |
-| 6.  -s_         |     |     |     | -v_           |     |     | -u_  (A∪B) - C |     |
+| lzIfsnfO{ b]vfpg]  | | | | | | | | |
+| 2. | | | | 3. {2,6,10,14,.....}; φ | | | | |
+lzIfsnfO{ b]vfpg
+| -s_ | | | | -v_ | | | -u_ | |
+| 5.  {2,4,5,7,8} | | | | {3, 5, 7, 9}  | | | {2,4,6,8} | |
+| 6.  -s_ | | | | -v_ | | | -u_  (A∪B) - C | |
 Q-P
-  lzIfsnfO{ b]vfpg]
-7 - 9.
+lzIfsnfO{ b]vfpg
 cEof;
-10.2
-  -s_  {1,3,5,7}  -v_  {2,4,6,8}  -u_  {4,6,8}  -3_  {3,4,5,6,7,8}
-1.
-|   -ª_  | {2,4,5,7}   |     | -r_φ |     |     |     |     |     |
-| ------ | ----------- | --- | ---- | --- | --- | --- | --- | --- |
-  -s_  {3,6,9}   -v_  {1,2,4,5,7,8,10}  -u_  {1,2,3,4,5,6,7,8,9,10}  -3_
+-s_  {1,3,5,7}  -v_  {2,4,6,8}  -u_  {4,6,8}  -3_  {3,4,5,6,7,8}
+| -ª_  | {2,4,5,7} | | -r_φ | | | | | |
+-s_  {3,6,9} -v_  {1,2,4,5,7,8,10}  -u_  {1,2,3,4,5,6,7,8,9,10}  -3_
 2. φ
-|   -ª_  |     |     | -r_ φ |     |     |     |     |     |
-| ------ | --- | --- | ----- | --- | --- | --- | --- | --- |
+| -ª_  | | | -r_ φ | | | | | |
 {3,6,9}
-3.  -s_  {o,u}  -v_  {a,e}  -u_   -3_  {a,e,o,u}  -ª_  {a,e,i}  -r_
-|      |            |     |     |  φ       |     |     |          | {i,o,u} |
-| ---- | ---------- | --- | --- | -------- | --- | --- | -------- | ------- |
-| -5_  |            |     |     | -h_      |     |     | -em_     | -`_     |
-|      | {a,e,o,u}  |     |     | {i,o,u}  |     |     | {a,e,i}  |  φ      |
-  lzIfsnfO{ b]vfpg]
-4.
-  -s_ {sf7df8f“,} eStk'/, nlntk'/, g'jfsf]6, wflbª, /;'jf, l;Gw'kfNrf]s / sfe]|knfGrf]s}
-5.
+3.  -s_  {o,u}  -v_  {a,e}  -u_ -3_  {a,e,o,u}  -ª_  {a,e,i}  -r_
+| | | | |  φ | | | | {i,o,u} |
+| -5_  | | | | -h_ | | | -em_ | -`_ |
+| | {a,e,o,u}  | | | {i,o,u}  | | | {a,e,i}  |  φ |
+lzIfsnfO{ b]vfpg
+-s_ {sf7df8f“,} eStk'/, nlntk'/, g'jfsf]6, wflbª, /;'jf, l;Gw'kfNrf]s / sfe]|knfGrf]s}
 -v_ {g'jfsf]6, wflbª\u, /;'jf l;Gw'kfNrf]s / sfe]|knfGrf]s}|
 -u_ {sf7df8f}“, eStk'/, nlntk'/}
-
-|   -3_ |     |     | -ª_ φ  |     | -r_ φ |     |     |     |
-| ----- | --- | --- | ------ | --- | ----- | --- | --- | --- |
- U
+| -3_ | | | -ª_ φ  | | -r_ φ | | | |
 -s_ {1,2,3,4,....}  -v_ {2,4,6,8,10,......}  -u_{1,3,5,7,.....}
-| 6.                   |     |     |                       |     |     |                |       |     |
-| -------------------- | --- | --- | --------------------- | --- | --- | -------------- | ----- | --- |
-|   -3_{2,4,6,8,....}  |     |     | -ª_{1,2,3,4,5,.....}  |     |     |                | -r_ φ |     |
-| -s_{0,1,2,3,4,5}     |     |     | -v_{4,5,6,7,8}        |     |     | -u_{1,3,4,8,9} |       |     |
-7.
-|   -3_  |     |     |     |     |     | -ª_  |     |     |
-| ------ | --- | --- | --- | --- | --- | ---- | --- | --- |
+| -3_{2,4,6,8,....}  | | | -ª_{1,2,3,4,5,.....}  | | | | -r_ φ | |
+| -s_{0,1,2,3,4,5} | | | -v_{4,5,6,7,8} | | | -u_{1,3,4,8,9} | | |
+| -3_  | | | | | | -ª_  | | |
 {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14} {6,7,8,9,10,11,12,13,14}
-|   -r_  |                            |     |     |     |     | -5_                         |     |                      |
-| ------ | -------------------------- | --- | --- | --- | --- | --------------------------- | --- | -------------------- |
-|        | {0,1,2,3,9,10,11,12,13,14} |     |     |     |     | {0,1,5,6,7,10,11,12,13,14}  |     |                      |
-|        |                            |     |     |     |     |                             |     | xfd|f] ul0ft, sIff * |
-215
-
+| -r_  | | | | | | -5_ | | |
+| | {0,1,2,3,9,10,11,12,13,14} | | | | | {0,1,5,6,7,10,11,12,13,14}  | | |
+| | | | | | | | | xfd|f] ul0ft, sIff * |
 -h_
 {0,1,2,3,4,5,6,7,8,9}
 -em_{4} -`_{10,11,12,13,14}
@@ -8513,61 +4865,30 @@ cEof;
 -8_{0,1,2,3,6,7,8,9,10,11,12,13,14} -9_{0,1,2,3,6,7,9,10,11,12,13,14}
 -0f_{0,1,5,6,7,8,9,10,11,12,13,14} -t_{0,1,2,3,} -y_{5,6,7} -b_{8,9}
 cEof;
-10.3
 -s_ -v_ -u_ -3_ -s_ -v_ -u_
-1. 90 0 10 100 2. 7 9 2
 -3_ -ª_ -r_ -5_ -h_
-14 5 7 8 6
 hgf -s_ -v_ -u_
-3. 25 4. 10 60 30 (5) 10,40
-(6) 25%; 5% (7) 10%,40%
+6) 25%; 5% (7) 10%,40%
 cEof;
-11.1
 -s_ -v_ -u_ -3_ -ª_
-1. 14 23 41 101 140
-5 5 5 5 5
 -r_ -5_ -h_ -em_ -`_
-321 1234 3104 3442 14414
-5 5 5 5 5
 -s_ -v_ -u_ -3_ -ª_ -r_
-2. 14 26 75 586 122 263
 -5_ -h_ -em_ -`_ -6_ -7_
-551 458 954 259 663 1492
 cEof;
-11.2
 -s_ låcfwf/ -v_ bzdnj -u_ låcfwf/ -3_ bzdnj -ª_ bzdnj
-1.
 -r_ bzdnj -5_ låcfwf/ -h_ bzdnj
 -s_ -v_ -u_ -3_ -ª_
-2. 100 1001 1100 11001 100011
-2 2 2 2 2
 -r_ -5_ -h_ -em_ -`_
-1000001 1011110 1000011 10111110 10010011
-2 2 2 2 2
 -6_ -7_ -8_
-11011100 1000000000 1000010010
-2 2 2
 -s_ -v_ -u_ -3_ -ª_ -r_
-3. 12 18 30 33 63 99
 -5_ -h_ -em_ -`_ -6_
-115 819 686 264 375
 -7_
-1753 (4) 1011010011 (5) 257
-2
 cEof;
-12.1
 -s_ -v_ -u_ -3_ -ª_ -r_ -5_
-1. 6 29 23 32 -25 14 1005
 -h_ -em_ -`_ -6_ -7_ -8_
--121 10 63 18 32 2
-lzIfsnfO{ b]vfpg]
-2. (3) 10 (4) 35 (5) 31 (6) 0
-(7) 18 (8) 0 (9) 100 (10) 100
+lzIfsnfO{ b]vfpg
 xfd|f] ul0ft, sIff *
-216
-
 cEof;
-13.1
 -s_ -v_ -u_ -3_ -ª_
 1. 4.5x101 3.4x103 2.3x10-5 1.01x105 1.0x10-2
 -r_ -5_ -h_ -em_ -`_
@@ -8577,16 +4898,11 @@ cEof;
 -t_
 3.45678x103
 -s_ -v_ -u_ -3_
-2. 23,000 54 1.76 0.00176
 -ª_ -r_ -5_ -h_
-0.000074 0.0000001901 1525000 65,815,700
 -em_ -`_ -6_
-525,600,000 0.00000523 0.0000000871
 -7_
-0.00000000775763
-(3) 1.2 x 104 (4) 9.8 x 10-11 (5) 300,000,000m/s (6) 6.48 x 106
+3) 1.2 x 104 (4) 9.8 x 10-11 (5) 300,000,000m/s (6) 6.48 x 106
 cEof;
-13.2
 -s_ -v_ -u_ -3_
 1. 5.47 x 106 7.15 x 10-2 10.53 x 106 3.51 x 102
 -ª_ -r_
@@ -8600,80 +4916,54 @@ cEof;
 -s_ -v_ -u_ -3_
 3. 2.0 x 109 7.0 x 100 2.0 x 107 1.5 x 103
 cf]6f
-(4) 3.33 x 104 (5) 1.35 x 109km (6) 6000
+4) 3.33 x 104 (5) 1.35 x 109km (6) 6000
 cEof;
-14.1
-1.
-lzIfsnfO{ b]vfpg]
-2.
+lzIfsnfO{ b]vfpg
 -s_ cgfg'kflts -v_ cfg'kflts -u_ cgfg'kflts -3_ cfg'kflts
 -ª_ cgfg'kflts -r_ cfg'kflts -5_ cfg'kflts -h_ cgfg'kflts
 -em_ cfg'kflts -`_ cgfg'kflts -6_ cfg'kflts -7_ cfg'kflts
 3. -s_ -v_ -u_ -3_ -ª_ -r_
 -5_ -h_ -em_ -`_
 xfd|f] ul0ft, sIff *
-217
-
-4-5.
-lzIfsnfO{ b]vfpg]
+lzIfsnfO{ b]vfpg
 cEof;
-14.2
-1.
 -s_ -v_ -u_ -3_ -ª_
 -r_ -5_ -h_ -em_ -`_
 -6_ -7_
-2.
 -s_ -v_
-0
 -u_ -3_ -ª_
 -r_ -5_ -h_ -em_ -`_
 -6_ -7_ 4 17 -8_ 13 6
-3.
 -s_ -v_
-196
 -u_ -3_ -ª_ -r_
--117
 -s_ -v_ -u_
-4.
 -3_ -ª_
 cEof;
-15.1
 1. -s_ 5:1 -v_ 1:3 -u_ 1:2 -3_ 4:5 -ª_ 3:8 -r_ 10:1
 hgf ?= / ?= ?=
 2. 800 (3) 16,000cm (4) -9,-12 (5) 250 350 (6) 5400
 ?= ? / ?= ?= ?= / ?=
-7. 64, . 72 80 (8) 10,000,000, 25,000,000 30,000,000
 ? ? / ?=
 9. A = . 10,940 B = . 21,880 C = 65,640
 cEof;
-15.2
 -s_ 5g\ -v_ 5}gg\ -u_ 5}gg\ -3_ 5g\
-1.
 -s_ -v_ -u_ -3_
-2. 3 7 1 14
 -s_ -v_ -u_ -3_
-3. 2 49 55 5
 ?= / ?=
-(4) 121 (5) 7 (6) 480 400 (7) 5 min (8) 96
-/
-(9) 90 (10) 15 (11) 15N (12) 24,48 60 (13) 450gm
+4) 121 (5) 7 (6) 480 400 (7) 5 min (8) 96
+9) 90 (10) 15 (11) 15N (12) 24,48 60 (13) 450gm
 xfd|f] ul0ft, sIff *
-218
-
 cEof;
-15.3
 -s_ -v_ -u_ -3_ -ª_
 1. 75% 34% 62.5% 59% 66.6%
 2. -s_ -v_ -u_ -3_ -ª_
 -s_ -v_ -u_ -3_
-3. 25 135 22.5 44
 -s_ -v_ ld6/ -u_ lbg -3_ ljBfyL{
 4. 1500m 200 50 600
 ?= ?= ?
 5. 1440, 10560 (6) 69 (7) . 2775 (8) 93.75% (9) 39993
 ?=
-(10) 14450 (11) 7.5%
-12.
+10) 14450 (11) 7.5%
 -s_
 10%
 -v_
@@ -8684,14 +4974,11 @@ cEof;
 12%
 -r_
 16.66%
-13. 50% (14) 7% (15)
+13. 50% (14) 7% (15
 ?=
-23076.90 (16)
-ljkgfn]
+ljkgfn
 cEof;
-16.1
 -s_ gfkmf ? -v_ gf]S;fg ? -u_ gfkmf ? -3_ gf]S;fg ?=
-1. = 30 = 500 = 700 = 10
 -s_ gfkmf -v_ gf]S;fgg -u_ gfkmf -3_ gf]S;fg
 2. 10% 10% 10% 0.1%
 ?= ?= ?=
@@ -8700,206 +4987,133 @@ gfkmf ?= gfkmf ?=
 7. 10% (8) 53,820 (9) (10) 50,000
 11. (12) ?= 32,000 (13) gfkmf gf]S;fg s]xL klg x“b' }g .
 cEof;
-16.2
 ?= ?= ?= / ?= ?=
-1. 184.80 (2) 2070 (3) 8756, 23460, 1187.5, 1395
 ?=
 4. 15500 (5) 8%
 -s_ ?= -v_ ?= -u_ ?= -3_ ?=
-6. 120 150 200 450
 -s_ -v_ -u_ -3_
 7. 8% 10% 5% 10%
 ?=
-8. 1250
 -s_ ?= -v_ ?= -u_ ?= -3_ ?=
-9 1960 392 1568 168
 -s_ ?= -v_ ?= -u_ ? -3_ ?
-10. 1052.03 22628.25 6608.24 10322.55
 ?= ?= ?=
-11. 1753.76 12. 1247.52 13. 4423.95
 xfd|f] ul0ft, sIff *
-219
-
 cEof;
-17
-|             |          |  ldg]6   |     |  3G6f  |     |        |  hgf       |     |             |
-| ----------- | -------- | -------- | --- | ------ | --- | ------ | ---------- | --- | ----------- |
-|  (1)  3     | (2)  19  |  (3) 75  |     | (4) 8  |     | (5)  5 |            |     | (6) 434gm   |
-|             |   hgf    |          |     |        |     |        |            |     |             |
-(7)  8 days  (8). 50   (9).  20 km/hr    (10) Rs.1720 (11) Rs. 20,000
+| | |  ldg]6 | |  3G6f  | | |  hgf | | |
+|  (1)  3 | (2)  19  |  (3) 75  | | (4) 8  | | (5)  5 | | | (6) 434gm |
+| | hgf | | | | | | | | |
+7)  8 days  (8). 50 (9).  20 km/hr (10) Rs.1720 (11) Rs. 20,000
 cEof;
-18.1
-|   -s_ ?=   |           | -v_ ?=      |      | -u_ ?=       |       | -3_ ?=  |         |        |     |
-| ---------- | --------- | ----------- | ---- | ------------ | ----- | ------- | ------- | ------ | --- |
-| 1.         | 45        | 1045        |      |              | 315   |         | 39.96   |        |     |
-|   -s_      |  jif{     | -v_   jif{  |      | -u_   jif{   |       | -3_     |  jif{   |  dlxgf |     |
-| 2. 6       |           | 4           |      | 5            |       |         | 1       | 9      |     |
-|   -s_  8%  | -v_       |             | -u_  |              | -3_   |         |         |        |     |
-| 3.         | 3%        |             |      |              |       |         |         |        |     |
-|   -s_ ?=   |           | -v_ ?=      |      | -u_ ?=       |       |         | -3_ ?=  |        |     |
-| 4.         | 9990      | 1200        |      |              | 3300  |         |         | 1000   |     |
-5.   ?=  980     (6)  ?=  2970  (7)  ?=  2500  (8)      (9) 8  jif{
-|  ?=       |     | ?=            | jif{ |     |     |     |     |     |     |
-| --------- | --- | ------------- | ---- | --- | --- | --- | --- | --- | --- |
-| 10. 10000 |     | (11)  432, 4  |      |     |     |     |     |     |     |
+| -s_ ?= | | -v_ ?= | | -u_ ?= | | -3_ ?=  | | | |
+| -s_ |  jif{ | -v_ jif{  | | -u_ jif{ | | -3_ |  jif{ |  dlxgf | |
+| -s_  8%  | -v_ | | -u_  | | -3_ | | | | |
+| 3. | 3% | | | | | | | | |
+| -s_ ?= | | -v_ ?= | | -u_ ?= | | | -3_ ?=  | | |
+5. ?=  980 (6)  ?=  2970  (7)  ?=  2500  (8) (9) 8  jif{
+|  ?= | | ?= | jif{ | | | | | | |
 cEof;
-18.2
-|   -s_ ?=  |     -v_ ?=  |          |     | -u_ ?=  |           | -3_ ?=  |         | -ª_ ?=  |         |
-| --------- | ----------- | -------- | --- | ------- | --------- | ------- | ------- | ------- | ------- |
-| 1.        | 60,500      | 2462.40  |     |         | 26,750    |         | 63,825  |         | 538,410 |
-2.   ?=  39725     3.  ?=  55,500  4. ?=  1000        5.  ?=  1900
-| ?=  | ?=  | ?=  |     | ?=  |     | ?=  |     |     | ?=  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-6. 6,050 ;  6,655       7.   47,600  8.  76,995    9.  14,904  10.  260,000
+| -s_ ?=  | -v_ ?=  | | | -u_ ?=  | | -3_ ?=  | | -ª_ ?=  | |
+2. ?=  39725 3.  ?=  55,500  4. ?=  1000 5.  ?=  1900
+| ?=  | ?=  | ?=  | | ?=  | | ?=  | | | ?=  |
 cEof;  19.1
-|   -s_  |     | -v_     |        | -u_    |     | -3_  |     |     |      |
-| ------ | --- | ------- | ------ | ------ | --- | ---- | --- | --- | ---- |
-| 1. 15  |     | 92      |        | 38     |     |      | 109 |     |      |
-|   -s_  |     | -v_     | jif{   | -u_ ?  |     | -3_  |     |     | -ª_  |
-| 2. 14  |     | 12.5    |        | 66.25  |     |      | 17  |     | 6.2  |
+| -s_  | | -v_ | | -u_ | | -3_  | | | |
+| -s_  | | -v_ | jif{ | -u_ ?  | | -3_  | | | -ª_  |
 cEof;
-19.2
-|   -s_  |      | -v_        |     | -u_  |     | -3_  |          |     | -ª_  |
-| ------ | ---- | ---------- | --- | ---- | --- | ---- | -------- | --- | ---- |
-| 1. 26  |      | 47.5       |     | 6.0  |     |      | 110.5 kg |     | 245  |
-|   -s_  |      | -v_  jif{  |     | -u_  |     | -3_  |          |     |      |
-| 2. 45  |      | 12         |     | 200  |     |      |  500     |     |      |
-hgf
-3.  12, 12
+| -s_  | | -v_ | | -u_  | | -3_  | | | -ª_  |
+| 1. 26  | | 47.5 | | 6.0  | | | 110.5 kg | | 245  |
+| -s_  | | -v_  jif{  | | -u_  | | -3_  | | | |
 cEof;
-19.3
-|    -s_  |     | -v_    |     | -u_  |     | -3_  |     |     | -ª_                  |
-| ------- | --- | ------ | --- | ---- | --- | ---- | --- | --- | -------------------- |
-| 1.      | 3   | 8      |     | 34   |     |      | 120 |     | 182                  |
-|    -s_  |     | -v_ ?  |     | -u_  |     | -3_  |     |     |                      |
-| 2.      | 35  | 225    |     | 30   |     |      | 18  |     |                      |
-|         |     |        |     |      |     |      |     |     | xfd|f] ul0ft, sIff * |
-220
-
+| -s_  | | -v_ | | -u_  | | -3_  | | | -ª_ |
+| -s_  | | -v_ ?  | | -u_  | | -3_  | | | |
+| | | | | | | | | | xfd|f] ul0ft, sIff * |
 cEof;
-19.4
-|           | -s_  |     | -v_        |     |     | -u_        |     | -3_  |        |     |     |
-| --------- | ---- | --- | ---------- | --- | --- | ---------- | --- | ---- | ------ | --- | --- |
-| 1.        | 20   |     |            | 35  |     | 12cm       |     |      | 1.5 ft |     |     |
-| (2). 40   |      |     | (3)  90    |     |     | (4) 75, 45 |     |      |        |     |     |
+| | -s_  | | -v_ | | | -u_ | | -3_  | | | |
+| 1. | 20 | | | 35  | | 12cm | | | 1.5 ft | | |
 cEof;
-19.5
- lzIfsnfO{ b]vfpg] .
-1,2,3
-|     | -s_    |     | -v_   |       |     | -u_    |  -3_  |     |     |     |     |
-| --- | ------ | --- | ----- | ----- | --- | ------ | ----- | --- | --- | --- | --- |
-| 4.  | 72     |     |       | 54    |     |  138   |       | 102 |     |     |     |
-|     | -s_ ?  |     | -v_ ? |       |     | -u_    |       |     |     |     |     |
-| 5.  | 1,750  |     |       | 1,575 |     | 10,500 |       |     |     |     |     |
+lzIfsnfO{ b]vfpg] .
+| | -s_ | | -v_ | | | -u_ |  -3_  | | | | |
+| | -s_ ?  | | -v_ ? | | | -u_ | | | | | |
 cEof;
-19.6
-lzIfsnfO{ b]vfpg] .   -s_ dª\l;/   ld=ld=  -v_ ebf}   ld=ld=  -u_   ld=ld=
-| 1,2  |     |     | 3.  |     | 4   |     |     | 23  |     | 19  |     |
-| ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+lzIfsnfO{ b]vfpg] . -s_ dª\l;/ ld=ld=  -v_ ebf} ld=ld=  -u_ ld=ld=
 cEof;
-20.1.1
-|  -s_  |         |  -v_  |          |   -u_  |         |     | -3_  |           |     | -ª_      |     |
-| ----- | ------- | ----- | -------- | ------ | ------- | --- | ---- | --------- | --- | -------- | --- |
-| 1.    | 3(2x+1) |       | x(x + 4) |        | 3(4a+b) |     |      | 6(2p2+q2) |     | 7y(2x+1) |     |
- -r_  x(1+x2)   -5_  x(12x+y+z)    -h_  x(x2+x+1)    -em_  2x2(1-x+4x2)
-|     | -s_         |     | -v_  |               |     |     | -u_  |             |     | -3_           |     |
-| --- | ----------- | --- | ---- | ------------- | --- | --- | ---- | ----------- | --- | ------------- | --- |
-| 2.  | (a+b) (x+y) |     |      | b(2+a) (2a-1) |     |     |      | 3xy(x-1)    |     |   (x+3) (x+y) |     |
-  -ª_  (a+b) (2b+3)   -r_  (a-b) (a +1)    -5_  (a-3) (2a+5)    -h_  a(x-1) (2-x)
-|     | -em_            |     | -`_ |                  |     |     | -6_              |     |     |     |     |
-| --- | --------------- | --- | --- | ---------------- | --- | --- | ---------------- | --- | --- | --- | --- |
-|     | y(x+4) (x - y)  |     |     |  3(x +y) (x +y)  |     |     |   (x +a) (2x+3a) |     |     |     |     |
+|  -s_  | |  -v_  | | -u_  | | | -3_  | | | -ª_ | |
+| 1. | 3(2x+1) | | x(x + 4) | | 3(4a+b) | | | 6(2p2+q2) | | 7y(2x+1) | |
+-r_  x(1+x2) -5_  x(12x+y+z) -h_  x(x2+x+1) -em_  2x2(1-x+4x2
+| | -s_ | | -v_  | | | | -u_  | | | -3_ | |
+| 2.  | (a+b) (x+y) | | | b(2+a) (2a-1) | | | | 3xy(x-1) | | (x+3) (x+y) | |
+-ª_  (a+b) (2b+3) -r_  (a-b) (a +1) -5_  (a-3) (2a+5) -h_  a(x-1) (2-x
+| | -em_ | | -`_ | | | | -6_ | | | | |
+| | y(x+4) (x - y)  | | |  3(x +y) (x +y)  | | | (x +a) (2x+3a) | | | | |
 cEof;
-20.1.2
-|  -s_      |                |                    | -v_   |                     |                     |       | -u_      |                  |      -3_  |                |     |
-| --------- | -------------- | ------------------ | ----- | ------------------- | ------------------- | ----- | -------- | ---------------- | --------- | -------------- | --- |
-| 1.        | (x-2) (x+2)    |                    |       | (a-2b)(a+2b)        |                     |       |          | (3x-y) (3x+y)    |           | 5(x-2y) (x+2y) |     |
-|      -ª_  |                |                    |  -r_  |                     |                     |       | -5_      |                  |           | -h_            |     |
-|           | 13(a-3b)(a+3b) |                    |       |                     |                     |       |          |                  |           |                |     |
-|           | -em_           |                    | -`_   |                     |                     |       | -6_      |                  |           | -7_            |     |
-|           | 2(6-b) (6+b)   |                    |       |  (11-5y) (11+5y)    |                     |       |          |                  |           |  (9-8y)(9+8y)  |     |
-|           |   -8_          |                    |       |  -9_                |                     |       |          | -0f_             |           |                |     |
-|           |                |  xy(2x-9y)(2x+9y)  |       |                     |  (13-14z) (13+14z)  |       |          |  ab(b-3a) (b+3a) |           |                |     |
-|           | -t_            |                    |       | -y_                 |                     |       | -b_      |                  | -w_       |                |     |
-|           |                |                    |       |                     |  z(x-y)(x+y)        |       |  (x+4)x  |                  |           |                |     |
+|  -s_ | | | -v_ | | | | -u_ | | -3_  | | |
+| 1. | (x-2) (x+2) | | | (a-2b)(a+2b) | | | | (3x-y) (3x+y) | | 5(x-2y) (x+2y) | |
+| -ª_  | | |  -r_  | | | | -5_ | | | -h_ | |
+| | 13(a-3b)(a+3b) | | | | | | | | | | |
+| | -em_ | | -`_ | | | | -6_ | | | -7_ | |
+| | 2(6-b) (6+b) | | |  (11-5y) (11+5y) | | | | | |  (9-8y)(9+8y)  | |
+| | -8_ | | |  -9_ | | | | -0f_ | | | |
+| | |  xy(2x-9y)(2x+9y)  | | |  (13-14z) (13+14z)  | | |  ab(b-3a) (b+3a) | | | |
+| | -t_ | | | -y_ | | | -b_ | | -w_ | | |
+| | | | | |  z(x-y)(x+y) | |  (x+4)x  | | | | |
 -g_
-      2.(x-3) (x+3)  3. (x-6) (x+6)  4. π(R-r) (R+r)   5. 286cm2
-|     |     |     |     |     |     |     |     |     |     | xfd|f] ul0ft, sIff * |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | -------------------- | --- |
-221
-
+2.(x-3) (x+3)  3. (x-6) (x+6)  4. π(R-r) (R+r) 5. 286cm2
+| | | | | | | | | | | xfd|f] ul0ft, sIff * | |
 cEof;
- 20.1.3
-|  -s_  |         | -v_  |     | -u_   |      | -3_  |     | -ª_  |      | -r_  |     |
-| ----- | ------- | ---- | --- | ----- | ---- | ---- | --- | ---- | ---- | ---- | --- |
-| 1.    | 8x      |      | 4ay |       | 12p  | 24ab |     |      | 70pq |      | 4   |
-|       | -5_     | -h_  |     | -em_  |      |      |     |      |      |      |     |
-|       |  240xy  | 12y  |     |       | 2    |      |     |      |      |      |     |
--s_  (a+6)2  -v_  (y+7)2  -u_  (p+11)2    -3_  (2a+5)2  -ª_  (3r+102)
-| 2.  |            |            |     |     |            |     |            |     |           |     |     |
-| --- | ---------- | ---------- | --- | --- | ---------- | --- | ---------- | --- | --------- | --- | --- |
-|     | -r_        | -5_        |     | -h_ |            |     | -em_       |     | -`_       |     |     |
-|     |  (6x+7)2   |  (x-4)2    |     |     |  (a-9)2    |     |  (p-13)2   |     |  (3a-5)2  |     |     |
-|     | -6_        | -7_        |     | -8_ |            |     | -9_        |     | -0f_      |     |     |
-|     |  (5y-6)2   |  (7r-5)2   |     |     |  (2p+6q)2  |     |  (3a+7b)2  |     |           |     |     |
-|     | -t_        | -y_        |     | -b_ |            |     |            |     |           |     |     |
-|     |  (5a-4b)2  |  (7a-5r)2  |     |     |            |     |            |     |           |     |     |
+|  -s_  | | -v_  | | -u_ | | -3_  | | -ª_  | | -r_  | |
+| 1. | 8x | | 4ay | | 12p  | 24ab | | | 70pq | | 4 |
+| | -5_ | -h_  | | -em_  | | | | | | | |
+| |  240xy  | 12y  | | | 2 | | | | | | |
+-s_  (a+6)2  -v_  (y+7)2  -u_  (p+11)2 -3_  (2a+5)2  -ª_  (3r+102
+| | -r_ | -5_ | | -h_ | | | -em_ | | -`_ | | |
+| |  (6x+7)2 |  (x-4)2 | | |  (a-9)2 | |  (p-13)2 | |  (3a-5)2  | | |
+| | -6_ | -7_ | | -8_ | | | -9_ | | -0f_ | | |
+| |  (5y-6)2 |  (7r-5)2 | | |  (2p+6q)2  | |  (3a+7b)2  | | | | |
+| | -t_ | -y_ | | -b_ | | | | | | | |
+| |  (5a-4b)2  |  (7a-5r)2  | | | | | | | | | |
 cEof;
- 20.1.4
-|  -s_  |                  |     | -v_             |             |     | -u_            |     |     | -3_            |             |     |
-| ----- | ---------------- | --- | --------------- | ----------- | --- | -------------- | --- | --- | -------------- | ----------- | --- |
-| 1.    | (3x+2)(x+1)      |     |                 | (a+6)(a+1)  |     | (m-5)(m+1)     |     |     |                | (x-13)(x-2) |     |
-|       | -ª_              |     | -r_             |             |     | -5_            |     |     | -h_            |             |     |
-|       | (x+10)(x-3)      |     |                 | (y-6)(x+5)  |     |  (p-11) (p+3)  |     |     | (a+6)(a+8)     |             |     |
-|       | -em_             |     | -`_             |             |     | -6_            |     |     | -7_            |             |     |
-|       | (x+6) (x+4)      |     |  (x+13) (x-2)   |             |     |  (x-12) (x-2)  |     |     |  (x-5) (x+3)   |             |     |
-|       | -8_              |     | -9_             |             |     | -0f_           |     |     | -t_            |             |     |
-|       |  (x+5) (x-3)     |     |  (x-4) (x-2)    |             |     |  (a-16)(a+3)   |     |     |  a2(a+8)(a+4)  |             |     |
-|       | -y_              |     | -b_             |             |     |                |     |     |                |             |     |
-|       |  x(x+11)(x+1)    |     | `  4x(x-3)(x+1) |             |     |                |     |     |                |             |     |
+|  -s_  | | | -v_ | | | -u_ | | | -3_ | | |
+| 1. | (3x+2)(x+1) | | | (a+6)(a+1)  | | (m-5)(m+1) | | | | (x-13)(x-2) | |
+| | -ª_ | | -r_ | | | -5_ | | | -h_ | | |
+| | (x+10)(x-3) | | | (y-6)(x+5)  | |  (p-11) (p+3)  | | | (a+6)(a+8) | | |
+| | -em_ | | -`_ | | | -6_ | | | -7_ | | |
+| | (x+6) (x+4) | |  (x+13) (x-2) | | |  (x-12) (x-2)  | | |  (x-5) (x+3) | | |
+| | -8_ | | -9_ | | | -0f_ | | | -t_ | | |
+| |  (x+5) (x-3) | |  (x-4) (x-2) | | |  (a-16)(a+3) | | |  a2(a+8)(a+4)  | | |
+| | -y_ | | -b_ | | | | | | | | |
+| |  x(x+11)(x+1) | | `  4x(x-3)(x+1) | | | | | | | | |
 cEof;
- 20.1.5
-|   -s_  |              |       | -v_           |             |     | -u_            |     |   -3_  |               |     |     |
-| ------ | ------------ | ----- | ------------- | ----------- | --- | -------------- | --- | ------ | ------------- | --- | --- |
-| 1.     | (3x+1)(x+2)  |       |               | (3x-1)(x-1) |     | (x-4)(7x-2)    |     |        | (2a-3)(2a-1)  |     |     |
-| -ª_    |              |  -r_  |               |             |     | -5_            |     |        | -h_           |     |     |
-|        | (5p-1)(3p-2) |       | (2a-5)(6a-1)  |             |     |  (5x+1) (x-3)  |     |        | (5x+1)(2x-1)  |     |     |
-  -em_  (3p-2) (5p-1)  -`_  (3b-5) (2b+2)  -6_  (21x+4) (x+1)                 -7_  (2a+5b) (6a-b)
-|     | -8_           |     | -9_             |     |     | -0f_           |     |     | -t_           |     |     |
-| --- | ------------- | --- | --------------- | --- | --- | -------------- | --- | --- | ------------- | --- | --- |
-|     |  (4a+3b)2     |     |  (6x+7y) (x-y)  |     |     |  (3a+5b)(a-2b) |     |     |  (x-3)(x -1)  |     |     |
-|     | -y_           |     | -b_             |     |     |                |     |     |               |     |     |
-|     |  (1+x)(28-x)  |     |  6q(p+2) (p+3)  |     |     |                |     |     |               |     |     |
+| -s_  | | | -v_ | | | -u_ | | -3_  | | | |
+| 1. | (3x+1)(x+2)  | | | (3x-1)(x-1) | | (x-4)(7x-2) | | | (2a-3)(2a-1)  | | |
+| -ª_ | |  -r_  | | | | -5_ | | | -h_ | | |
+| | (5p-1)(3p-2) | | (2a-5)(6a-1)  | | |  (5x+1) (x-3)  | | | (5x+1)(2x-1)  | | |
+-em_  (3p-2) (5p-1)  -`_  (3b-5) (2b+2)  -6_  (21x+4) (x+1) -7_  (2a+5b) (6a-b
+| | -8_ | | -9_ | | | -0f_ | | | -t_ | | |
+| |  (4a+3b)2 | |  (6x+7y) (x-y)  | | |  (3a+5b)(a-2b) | | |  (x-3)(x -1)  | | |
+| | -y_ | | -b_ | | | | | | | | |
+| |  (1+x)(28-x)  | |  6q(p+2) (p+3)  | | | | | | | | |
 cEof;
- 20.2
-|   -s_  |                  |     |   -v_  |               |                    | -u_            |     |     |     |     |     |
-| ------ | ---------------- | --- | ------ | ------------- | ------------------ | -------------- | --- | --- | --- | --- | --- |
-| 1.     | x3+3x2+3x+1      |     |        | x3-9x2+27x-27 |                    | x3+12x2+48x+64 |     |     |     |     |     |
-|        | -3_              |     |        |   -ª_         |                    |                |     |     |     |     |     |
-|        | 8x3-60x+150x-125 |     |        |               | 64-144b+108b2-27b3 |                |     |     |     |     |     |
-|        | -r_              |     |        | -5_           |                    |                |     | -h_ |     |     |     |
-27a3+54a2b+36ab2+8b3      8a3 +12a2b +6ab2 +b3            1+9y+27y2 +27y3
-|     | -s_                         |     |      | -v_       |                           |     |     |     |                      |     |     |
-| --- | --------------------------- | --- | ---- | --------- | ------------------------- | --- | --- | --- | -------------------- | --- | --- |
-| 2.  | 27x3 - 54x2y + 36xy2 - 8y3  |     |      |           | x6 + 3x4y + 3x2y2 + y3    |     |     |     |                      |     |     |
-|     | -u_                         |     |      |   -3_     |                           |     |     |     |                      |     |     |
-|     | a6 + 3a4b2 + 3a2b4 + b6     |     |      |           | 64a3 - 48a2b + 12ab2 - b3 |     |     |     |                      |     |     |
-|     | -s_                         |     | -v_  |           |                           |     |     |     |                      |     |     |
-| 3.  | (2a+3b)3                    |     |      | (4x+5y)3  | (4)  396                  |     |     |     |                      |     |     |
-|     |                             |     |      |           |                           |     |     |     | xfd|f] ul0ft, sIff * |     |     |
-222
-
+| -s_  | | | -v_  | | | -u_ | | | | | |
+| 1. | x3+3x2+3x+1 | | | x3-9x2+27x-27 | | x3+12x2+48x+64 | | | | | |
+| | -3_ | | | -ª_ | | | | | | | |
+| | 8x3-60x+150x-125 | | | | 64-144b+108b2-27b3 | | | | | | |
+| | -r_ | | | -5_ | | | | -h_ | | | |
+27a3+54a2b+36ab2+8b3 8a3 +12a2b +6ab2 +b3 1+9y+27y2 +27y3
+| | -s_ | | | -v_ | | | | | | | |
+| 2.  | 27x3 - 54x2y + 36xy2 - 8y3  | | | | x6 + 3x4y + 3x2y2 + y3 | | | | | | |
+| | -u_ | | | -3_ | | | | | | | |
+| | a6 + 3a4b2 + 3a2b4 + b6 | | | | 64a3 - 48a2b + 12ab2 - b3 | | | | | | |
+| | -s_ | | -v_  | | | | | | | | |
+| 3.  | (2a+3b)3 | | | (4x+5y)3  | (4)  396 | | | | | | |
+| | | | | | | | | | xfd|f] ul0ft, sIff * | | |
 -s_ -v_ -u_
-5. (a-2)(a2+2a+4) (3x+4y) (9x2-12xy+16y2) (5p-6) (25p2+30p+36)
+5. (a-2)(a2+2a+4) (3x+4y) (9x2-12xy+16y2) (5p-6) (25p2+30p+36
 -3_
-(8+7b) (64-56b+49b2)
-(6) 322 (7) 28 (8) 756 (9) 1692
+8+7b) (64-56b+49b2
 -s_ -v_ -u_
-10. -3yz (y+z) 2x(x2+3a2) 3pq(p-q)
+10. -3yz (y+z) 2x(x2+3a2) 3pq(p-q
 -3_ -ª_ -r_
-x3 + y3 x3-y3 3ab (a+b)
+x3 + y3 x3-y3 3ab (a+b
 cEof;
-20.3.1
 -s_ -v_ -u_ -3_ -ª_
 1. xy 3xy2 abc x+2 x-y
 -r_ -5_ -h_ -em_ -`_
@@ -8911,162 +5125,102 @@ x+10 a+3 x-1 a-b 1-y2
 -r_ -5_ -h_ -em_
 x+2 x-3 a-2 a+2
 cEof;
-20.3.2
 -s_ -v_ -u_ -3_ -ª_
-1. 4x 6xy2 10xy2 6a2b2 2a(a+2)
+1. 4x 6xy2 10xy2 6a2b2 2a(a+2
 -r_ -5_ -h_ -em_ -`_
-3(x2-1) x(x+y) x(x+2)2 5(x2-16) pq(p-q)
+3(x2-1) x(x+y) x(x+2)2 5(x2-16) pq(p-q
 -6_ -7_ -8_
-6x2(x2-25) x(x2-4) (x+5) (x+2) (3x+1) (2x-1)
+6x2(x2-25) x(x2-4) (x+5) (x+2) (3x+1) (2x-1
 -9_ -0f_ -t_
-(y-6) (y-3) (y-8) (a-2b) (a+2b)2 (3x-4y)2 (x+y)
+y-6) (y-3) (y-8) (a-2b) (a+2b)2 (3x-4y)2 (x+y
 -s_ -v_ -u_ -3_ -ª_
-2. 24x2y2 x(x2-4) xy(x2-y2) pq(p-q)2(p+q) (a-1)2 (a+1) (a+2)
+2. 24x2y2 x(x2-4) xy(x2-y2) pq(p-q)2(p+q) (a-1)2 (a+1) (a+2
 -r_ -5_ -h_
-(x+1) (x+2)2 (x-2) (x-1) (x-2) (x+3) (2x-3y)2 (2x+3y)2
+x+1) (x+2)2 (x-2) (x-1) (x-2) (x+3) (2x-3y)2 (2x+3y)2
 -em_ -`_
-x2(2x+3)(3x-2)(x-1) x2 (x2-4) (x+6) (x-7)
+x2(2x+3)(3x-2)(x-1) x2 (x2-4) (x+6) (x-7
 cEof;
-20.4.1
 -s_ -v_ -u_ -3_ -ª_ -r_
 1. 11 y ±2 4 ±4 ±7
 -s_ -v_ -u_ -3_ -ª_
-2.
 -r_ -5_ -h_ -em_ -`_
 -6_ -7_ -8_ -9_
 xfd|f] ul0ft, sIff *
-223
-
 cEof;
-20.4.2
 -s_ -v_ -u_ -3_ -ª_
-1.
 -r_ -5_ -h_ -em_
-3 0
 -s_ -v_ -u_ -3_ -ª_
-2.
 -r_ -5_ -h_ -em_ -`_
 y+2 15-5p (p-3)2 3(x+y) 1
 -6_ -7_ -8_ -9_
 x-2y 3a+4b
 cEof;
-20.4.3
 -s_ -v_ -u_ -3_ -ª_
-1.
 -r_ -5_ -h_ -em_
 -`_ -6_ -7_
 -s_ -v_ -u_ -3_
-2.
 -ª_ -r_ -5_ -h_
 -em_ -`_ -6_ -7_
 -8_ -9_ -0f_ -t_
 -y_ -b_ -w_
 -g_ -k_ -km_
 xfd|f] ul0ft, sIff *
-224
-
 cEof;
-20.4.4
-|      | -s_  |     | -v_     |     | -u_     |     | -3_  |     | -ª_    |         | -r_    |
-| ---- | ---- | --- | ------- | --- | ------- | --- | ---- | --- | ------ | ------- | ------ |
-| 1.   |      |     |         |     |         |     |      |     | 2      |         |        |
-| -s_  |      |     | -v_     |     | -u_     |     | -3_  |     | -ª_    |    -r_  |        |
-2.
-| -s_    |      |       | -v_    |     | -u_  |     | -3_   |     | -ª_  |         |     |
-| ------ | ---- | ----- | ------ | --- | ---- | --- | ----- | --- | ---- | ------- | --- |
-| 3.     |      |       | 1      |     |      |     |       |     |      |         |     |
-|        | -r_  |  -5_  |        |     | -h_  |     | -em_  |     | -`_  |         |     |
-|   -s_  |      |       | -v_    |     | -u_  |     | -3_   |     | -ª_  |    -r_  |     |
+| | -s_  | | -v_ | | -u_ | | -3_  | | -ª_ | | -r_ |
+| -s_  | | | -v_ | | -u_ | | -3_  | | -ª_ | -r_  | |
+| -s_ | | | -v_ | | -u_  | | -3_ | | -ª_  | | |
+| | -r_  |  -5_  | | | -h_  | | -em_  | | -`_  | | |
+| -s_  | | | -v_ | | -u_  | | -3_ | | -ª_  | -r_  | |
 4. x+y
-|     | -5_  |     | -h_  |     | -em_  |         |     | -`_  |     |        |     |
-| --- | ---- | --- | ---- | --- | ----- | ------- | --- | ---- | --- | ------ | --- |
-|     | -s_  |     | -v_  |     |       | -u_     |     | -3_  |     | -ª_    |     |
-| 5.  |      |     |      |     |       |         |     | 1    |     | 1      |     |
+| | -5_  | | -h_  | | -em_  | | | -`_  | | | |
+| | -s_  | | -v_  | | | -u_ | | -3_  | | -ª_ | |
 cEof;
-21
-1. -s_     -v_  x13   -u_   -3_ 6x5      -ª_ a6b3      -r_ -12y2
-|          | 87  |     |      |     | p3q2    |     |       |     |        |     |     |
-| -------- | --- | --- | ---- | --- | ------- | --- | ----- | --- | ------ | --- | --- |
-| 2. -s_   |     |     | -v_  |     | -u_     |     | -3_   |     | -ª_ 5p |     |     |
-|          | 9   |     | 45   |     | 4x2     |     | -4a 3 |     |        |     |     |
-. -s_     -v_       -u_    -3_    -ª_ x4y7  -r_ 4 3 3 4 x24
-| 3       | 212     |     | 56    | 54x12 |      | 7 4 p 12 |     |     |     |     |     |
-| ------- | ------- | --- | ----- | ----- | ---- | -------- | --- | --- | --- | --- | --- |
-|    -5_  |         |     | -h_   |       | -´_  |          |     |     |     |     |     |
-|         | (ab) 3c |     | x2y-2 |       | p2   |          |     |     |     |     |     |
-. -s_  2      -v_    -u_        5. -s_ am+n+4    -v_ x    (6) 160
-| 4   |     |     | 56   |     | 5   |     |     |     |     |     |     |
-| --- | --- | --- | ---- | --- | --- | --- | --- | --- | --- | --- | --- |
+1. -s_ -v_  x13 -u_ -3_ 6x5 -ª_ a6b3 -r_ -12y2
+| | 87  | | | | p3q2 | | | | | | |
+| 2. -s_ | | | -v_  | | -u_ | | -3_ | | -ª_ 5p | | |
+| | 9 | | 45 | | 4x2 | | -4a 3 | | | | |
+. -s_ -v_ -u_ -3_ -ª_ x4y7  -r_ 4 3 3 4 x24
+| 3 | 212 | | 56 | 54x12 | | 7 4 p 12 | | | | | |
+| -5_  | | | -h_ | | -´_  | | | | | | |
+| | (ab) 3c | | x2y-2 | | p2 | | | | | | |
+. -s_  2 -v_ -u_ 5. -s_ am+n+4 -v_ x (6) 160
 cEof;
-22.1
-|     | -s_  |     | -v_     |     | -u_    |     | -3_    |     | -ª_     |     | -r_  |
-| --- | ---- | --- | ------- | --- | ------ | --- | ------ | --- | ------- | --- | ---- |
-| 1.  | 3    |     | 17      |     | 3      |     |        |     | 16      |     | 41   |
-|     | -5_  |     | -h_     |     | -em_   |     |        |     |         |     |      |
-2
-|     |     |     |     |     |     |     |     |     |     | xfd|f] ul0ft, sIff * |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | -------------------- | --- |
-225
-
-2.
+| | -s_  | | -v_ | | -u_ | | -3_ | | -ª_ | | -r_  |
+| | -5_  | | -h_ | | -em_ | | | | | | |
+| | | | | | | | | | | xfd|f] ul0ft, sIff * | |
 -s_
-1
 -v_
-3
 -u_ -3_
--19
 -ª_
--1
 -r_
--12
 -s_ -v_ -u_ -3_ -ª_ -r_
 3. -14 -8 –8 6
 -5_ 4 -h_ 0 -em_
 -s_ -v_ -u_ -3_ -ª_
-4. 350 12.5 50 200 254
 5. 2x+ 7 = 35, 14 (6) 8, 12 (7) 12 (8) 10 cm (9) 436, 445
 dL6/ jif{, jif{ jif{
-(10) 4.4 (11) 20 35 (12) 20
 cEof;
-22.2
 1. -s_ x ≥ 2 -v_ x < -1 -u_ x < 2 -3_ x < 8 -ª_ x > 5
 -r_ x > 4 -5_ x ≤ - 1 -h_ x ≥ 5 -em_ x > –1 -`_ x <
--6_ x ≤ 3 -7_ x ≥ 1 -8_ b]lv -0f_ ;Dd lzIfsnfO{ b]vfpg]
+-6_ x ≤ 3 -7_ x ≥ 1 -8_ b]lv -0f_ ;Dd lzIfsnfO{ b]vfpg
 -t_ -6 ≤ x ≤-2 -y_ -3 ≤ x <-1 (2) y ≥ 5 (3) y < -7
 4. -s_ y ≤ -5 -v_ y ≥ -u_ x < -3
 5. 15 j6f (6) < 2 (7) x > (8) 19 lunf;
 9. ≤0 (10) x > 7 (11) 5 < x < 7
 cEof;
-22.3
 -s_ -v_ -u_ -3_ -ª_ -r_
-1. (3,-1) (2,1) (7,6) (4,2) (6,2) (1,-2)
 -5_ -h_ -em_ -`_ 6 -7_
-(2,0) (1,5) (2,-3) (3,2) ( ) (4.5,-4) (3,3)
 -s_ -v_ -u_ -3_ ?.= ?. -ª_
-2. (10,5) (3,9) (20,25) ( 40, .20) (20,57)
 -r_ jif{, jif{_ -5_ jif{, jif{_ -h_ jif{, jif{_
-(15 10 (10 6 (16 36
 xfd|f] ul0ft, sIff *
-226
-
 cEof;
-22.4
-|  -s_  |      |   -v_  |      |  -u_  |      | -3_   |  -ª_  |     | -r_   |     |
-| ----- | ---- | ------ | ---- | ----- | ---- | ----- | ----- | --- | ----- | --- |
-| 1.    | 0,4  | 0,     |      |       |      |       |       |     |       |     |
-|       | -5_  |   -h_  |      | -em_  |      | -`_   |       |     |       |     |
-|       | ±7   |        |      |       | ±12  | 0, ±2 |       |     |       |     |
-|  -s_  |      |        | v_   |       | -u_  |       | -3_   |     | -ª_   |     |
-| 2.    | -1   |        | -1,2 |       |      | 1,-2  | -2    |     | 12,-2 |     |
-  -r_  3,6     -5_  5, 6    -h_  -3,1    -em_  -4    -`_  4
-|     | -6_   |     | -7_    |     | -8_  |        | -9_  |           | -0f_                 |     |
-| --- | ----- | --- | ------ | --- | ---- | ------ | ---- | --------- | -------------------- | --- |
-|     | -5    |     | 5,3    |     |      | 2,4    |      |           | -4,-3                |     |
-|     | -t_   |     | -y_    |     | -b_  |        | -w_  |      -g_  |                      |     |
-|     |       |     | 2, -11 |     |      | 7,11   |      |           |                      |     |
-|     | -k_   |     | -km_   |     | -a_  |        | -e_  |           | -d_                  |     |
-|     |       |     |        |     |      |        | 1,-3 |           | 1,-7                 |     |
-|     | -o_   |     |  -/_   |     | -n_  |        |      |           |                      |     |
-|     | 0,-12 |     | -1,15  |     |      |  15,-5 |      |           |                      |     |
-|     |       |     |        |     |      |        |      |           | xfd|f] ul0ft, sIff * |     |
-227
+|  -s_  | | -v_  | |  -u_  | | -3_ |  -ª_  | | -r_ | |
+| | -5_  | -h_  | | -em_  | | -`_ | | | | |
+| | ±7 | | | | ±12  | 0, ±2 | | | | |
+|  -s_  | | | v_ | | -u_  | | -3_ | | -ª_ | |
+-r_  3,6 -5_  5, 6 -h_  -3,1 -em_  -4 -`_  4
+| | -6_ | | -7_ | | -8_  | | -9_  | | -0f_ | |
+| | -t_ | | -y_ | | -b_  | | -w_  | -g_  | | |
+| | -k_ | | -km_ | | -a_  | | -e_  | | -d_ | |
+| | -o_ | |  -/_ | | -n_  | | | | | |
+| | | | | | | | | | xfd|f] ul0ft, sIff * | |

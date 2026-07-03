@@ -1,101 +1,45 @@
-MY Science and
-Environment
-Grade - 8
-Government of Nepal
-Ministry of Education
-Curriculum Development Centre
+---
+title: "Science Environment"
+grade: 8
+language: english
+subject: "Science Environment"
+publisher: "Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre"
+location: "Sanothimi, Bhaktapur"
+edition: "2017
+"
+---
 
-Publisher: Government of Nepal
-Ministry of Education
-Curriculum Development Centre
-Sanothimi, Bhaktapur
-© Publisher
-Revised Edition : 2017
-Price : 73/-
-All rights reserved. No part of this publication may be reproduced,
-stored in a retrieval system or transmitted, in any other form or by any
-means for commercial purpose without the prior permission in writing of
-Curriculum Development Centre.
+# Science Environment — Grade 8
 
-Preface
-The curriculum and curricular materials have been developed and revised on a
-regular basis with the aim of making education purposeful, practical, relevant and
-job-oriented. It is necessary to instill the feeling of nationalism, national integrity
-and democratic spirit in students and equip them with morality, discipline and self-
-reliance so as to develop in them social and personal skills as well as the basic
-competencies of language, science, occupation, information and communication
-technology, environment and health, and life skills. It is also necessary to enable
-them to appreciate, preserve and promote arts and aesthetics, social norms and val-
-ues and ideals. Moreover, in order to develop an equitable society, it is necessary
-to inculcate students with respect for ethnicity, gender, disabilities, languages, re-
-ligions, cultures and regional diversity. Likewise, education should also help them
-to be well-informed of human rights and social norms and values so as to make
-them capable of playing the role of responsible citizens. This textbook has been
-developed in this form based on the Basic Education Curriculum 2069 (Grade 6 to
-8), incorporating the feedback obtained from teachers, students, parents and other
-stakeholders during its piloting.
-This textbook was translated and edited by Pushpa Raj Bhatta, Ramchandra Regmi,
-Ujjwol Bhomi, Pushparaj Dhakal. In bringing out this text book in this form, the
-contribution of the Executive Director of CDC Mr. Diwakar Dhungel, Deputy Di-
-rector Dambardhoj Angdembe, Prof Dr. Hridayaratna Bajracharya, Prof Dr Chi-
-dananda Pandit, Umanath Lamsal“Umesh”, Parvati Bhattarai, Uttara Shreshtha,
-Bijay Kanta Mishra and Harish Panta is highly commendable.
-Language of this book was edited by Parsuram Tiwari and Ramesh Dhakal. Typing
-was done by Abhaya Shrestha. The layout design of the book was done by Jayaram
-Kuikel and Bhawana Sharma. The illustration of the book was done by Sunil Ranjit
-and Gautam Manandhar. CDC extends sincere thanks to all those who have contrib-
-uted in the development and revision of this text book.
-Textbook is considered as an important tool of learning. Experienced teachers and
-curios students can use various learning resources and tools to achieve the com-
-petencies targeted by the curriculum. An attempt is made to make this textbook
-activity oriented and interested as far as possible. The teachers, students and other
-stakeholders are expected to make constructive comments and suggestions to make
-this book a more useful learning material.
-Government of Nepal
-Ministry of Education
-Curriculum Development Centre
+> **Publisher:** Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre
+> **Location:** Sanothimi, Bhaktapur
 
-Table of Contents
-| Unit  | Topics                      | Page number |
-| ----- | --------------------------- | ----------- |
-|       | Physics                     |             |
-| 1     | Measurement                 | 1           |
-| 2.    | Velocity and Accelerations  | 8           |
-| 3.    | Simple Machine              | 18          |
-| 4.    | Pressure                    | 24          |
-| 5.    | Work, Energy and Power      | 34          |
-| 6.    | Heat                        | 45          |
-| 7.    | Light                       | 53          |
-| 8.    | Sound                       | 67          |
-| 9.    | Magnetism                   | 73          |
-| 10.   | Electricity                 | 78          |
+## Table of Contents
 
-Chemistry
-| 11.  | Matter                 | 84  |
-| ---- | ---------------------- | --- |
-| 12.  | Mixture                | 98  |
-| 13.  | Metal and on-metal     | 103 |
-| 14.  | Acid, Base and Salt    | 109 |
-| 15.  | Some useful chemicals  | 116 |
+| S.No. | Title |
+|-------|-------|
+| 1 | [Measurement](#ch-1) |
+| 2 | [Velocity and Acceleration](#ch-2) |
+| 3 | [Simple Machine](#ch-3) |
+| 4 | [Pressure](#ch-4) |
+| 5 | [Energy](#ch-5) |
+| 8 | [Sound is a form of energy. Sound is produced from different kinds of sources](#ch-8) |
+| 10 | [Electricity](#ch-10) |
+| 11 | [Matter](#ch-11) |
+| 12 | [Mixture](#ch-12) |
+| 14 | [Acid, Base and Salt](#ch-14) |
+| 15 | [Some Useful Chemicals](#ch-15) |
+| 17 | [Cell and Tissue](#ch-17) |
+| 20 | [Weather and Climate](#ch-20) |
+| 21 | [Human beings have had some queries since their origin. Their queries](#ch-21) |
+| 22 | [Natural resources and human dependency](#ch-22) |
+| 23 | [Environmental Degradation and its Conservation](#ch-23) |
+| 24 | [Earth is the common habitat of all living beings. Living beings get air, water, food,](#ch-24) |
 
-Biology
-| 16.  | Living Beings    | 123 |
-| ---- | ---------------- | --- |
-| 17.  | Cell and tissue  | 136 |
-| 18.  | Life process     | 143 |
+---
 
-Geology and Astronomy
-| 19.  | Structure of the Earth                      | 156 |
-| ---- | ------------------------------------------- | --- |
-| 20.  | Weather and Climate                         | 163 |
-| 21.  | The Earth and Universe                      | 170 |
-|      | Environment Science                         |     |
-| 22.  | Environment and it's Balance                | 175 |
-| 23.  | Environmental Degradation and Conservation  | 189 |
-| 24.  | Environment and Sustainable Development     | 207 |
+## 1: Measurement  {#ch-1}
 
-Unit
-1
 Measurement
 We measure different quantities of different objects in our daily life.
 Measurement is the process of finding size, length or amount of any
@@ -126,7 +70,6 @@ quantity of measurement is called unit. Unknown physical quantities are
 compared with the known standard quantity and expressed in terms of
 the unit.
 Science and Environment, class - 8 1
-
 Measurement is the process of comparing an unknown quantity with
 a known standard quantity. The measurement of a physical quantity is
 expressed in number and its unit. For example, the mass of a body is 5
@@ -139,15 +82,14 @@ i)  Fundamental unit:
 Those units which do not depend on other units are called fundamental
 units. Meter (m), kilogram (kg) and second(s) are fundamental units. The
 followings are the fundamental units used in physics.
-|  S N  | Physical quantity    |  Fundamental unit  | Symbol  |     |
-| ----- | -------------------- | ------------------ | ------- | --- |
-| 1     | length               | meter              | m       |     |
-| 2     | mass                 | kilogram           | kg      |     |
-| 3     | time                 | second             | s       |     |
-| 4     | temperature          | Kelvin             | K       |     |
-| 5     | electricity          | Ampere             | A       |     |
-| 6     | Intensity of light   | Candela            | Cd      |     |
-| 7     | Amount of matter     | Mole               | mol     |     |
+|  S N  | Physical quantity |  Fundamental unit  | Symbol  | |
+| 1 | length | meter | m | |
+| 2 | mass | kilogram | kg | |
+| 3 | time | second | s | |
+| 4 | temperature | Kelvin | K | |
+| 5 | electricity | Ampere | A | |
+| 6 | Intensity of light | Candela | Cd | |
+| 7 | Amount of matter | Mole | mol | |
 ii)  Derived unit
 The units which are formed by the combination of fundamental units are
 called derived units. We need to know the distance covered and time taken
@@ -155,24 +97,20 @@ by a car to find the speed of the car. The unit of speed depends on the units
 of length and time. So, the unit of speed 'm/s' is derived unit since it has
 two fundamental units meter and second.
 Some derived units are given below:
-| S N   | Physical quantity   | Derived unit   |  Symbol  |     |
-| ----- | ------------------- | -------------- | -------- | --- |
-| 1     | Area                | square meter   | m2       |     |
- m3
-| 2    | Volume    | cubic meter                        |        |     |
-| ---- | --------- | ---------------------------------- | ------ | --- |
-| 3    | Density   | kilogram per                       |        |     |
-|      |           | cubic meter                        |  kg/m3 |     |
-| 2    |           | Science and Environment, class - 8 |        |     |
-
-| S N   | Physical quantity   | Derived unit        |  Symbol  |     |
-| ----- | ------------------- | ------------------- | -------- | --- |
-| 4     | Speed/ velocity     | meter per second    |  m/s     |     |
-| 5     | Acceleration        | meter per second2   |  m/s2    |     |
-| 6     | force               | Newton              |  N       |     |
-| 7     | work/energy         | Joule               |  J       |     |
-| 8     | Power               | watt                |  W       |     |
-| 9     | Pressure            | Pascal              |  Pa      |     |
+| S N | Physical quantity | Derived unit |  Symbol  | |
+| 1 | Area | square meter | m2 | |
+m3
+| 2 | Volume | cubic meter | | |
+| 3 | Density | kilogram per | | |
+| | | cubic meter |  kg/m3 | |
+| 2 | | Science and Environment, class - 8 | | |
+| S N | Physical quantity | Derived unit |  Symbol  | |
+| 4 | Speed/ velocity | meter per second |  m/s | |
+| 5 | Acceleration | meter per second2 |  m/s2 | |
+| 6 | force | Newton |  N | |
+| 7 | work/energy | Joule |  J | |
+| 8 | Power | watt |  W | |
+| 9 | Pressure | Pascal |  Pa | |
 Measurement of mass
 The quantity of matter contained in a body/object is called its mass. The
 mass of a body/object depends on the number of atoms and their atomic
@@ -185,22 +123,19 @@ and coincides with the mark. Then, we can say that the mass of unknown
 body is equal to the standard mass. The standard unit of mass is kilogram.
 The smaller units of mass are gram (g), milligram (mg), etc. The mass of
 large bodies are measured in quintal and tonne.
-| 1000 mg   | =  1 g        |     |     |     |
-| --------- | ------------- | --- | --- | --- |
-| 1000 g    | =  1 kg       |     |     |     |
-| 100 kg    | =  1 quintal  |     |     |     |
-| 1000 kg   | =  1 ton      |     |     |     |
+| 1000 mg | =  1 g | | | |
+| 1000 g | =  1 kg | | | |
+| 100 kg | =  1 quintal  | | | |
+| 1000 kg | =  1 ton | | | |
 What is 1 kg mass?
 Fig. 1.1
-One kg mass is same all over the world. The mass of standard weight (Dhak)
+One kg mass is same all over the world. The mass of standard weight (Dhak
 made up of platinum and iridium, kept in International Bureau of Weights
 and Measures (IBWM) in France, is considered as 1 kilogram in SI system.
 The standard weight of 1 kg in other countries is made by comparing with
 this standard weight. In Nepal, the standard mass of 1 kg (1 kg Dhak) should
 be equal to that of 1 kg weight kept in the department of metrology.
-| Science and Environment, class - 8  |     |     |     | 3   |
-| ----------------------------------- | --- | --- | --- | --- |
-
+| Science and Environment, class - 8  | | | | 3 |
 Activity 1
 Take a physical balance and different standard masses (Dhak). First find
 the mass of your science book and them the mass of the science book of
@@ -222,7 +157,7 @@ body when it falls down from a certain height is called
 acceleration due to gravity. The weight is equal to the
 product of mass of a body and acceleration due to
 gravity on that place.
-Weight (W) = mass (m) × acceleration due to gravity (g)
+Weight (W) = mass (m) × acceleration due to gravity (g
 The earth is not a perfect sphere. The value of 'g' depends
 upon the distance of that place from center of the earth. So,
 the acceleration due to gravity is not uniform throughout
@@ -234,7 +169,6 @@ measure mass of a body with a physical balance, the effect
 of gravity on both the pan is equal in balanced condition.
 Fig. 1.2
 4 Science and Environment, class - 8
-
 Measurement of time
 The interval between two events is called time. The unit of time is
 determined on the basis of the time taken by the earth to rotate about its
@@ -269,7 +203,6 @@ the shadow of the nail at the same time next day. At what time does
 the tip of the shadow coincide with the mark? Find out the difference
 of time.
 Science and Environment, class - 8 5
-
 Summary
 1. Those quantities which can be measured and expressed in mathematical
 form are called physical quantities.
@@ -300,38 +233,31 @@ e) Mass of a body is measured by …………..
 a) Which is the standard unit of mass?
 i) gram ii) kilogram iii) quintal iv) tonne
 6 Science and Environment, class - 8
-
-  b)  Which device is used to measure the weight of a body?
-|     i)    | physical balance   | ii)  | spring balance    |     |
-| --------- | ------------------ | ---- | ----------------- | --- |
-|     iii)  | beam balance       | iv)  | top- pan balance  |     |
-  c)  Which watch is used by scientists for correct measurement of time?
-|     i)    | simple watch   | ii)  | digital watch  |     |
-| --------- | -------------- | ---- | -------------- | --- |
-|     iii)  | atomic watch   | iv)  | quartz watch   |     |
-  d)  Which for the following is derived unit?
-|     i)    | meter    |   ii)  | kilogram  |     |
-| --------- | -------- | ------ | --------- | --- |
-|     iii)  | second   |   iv)  | joule     |     |
+b)  Which device is used to measure the weight of a body?
+| i) | physical balance | ii)  | spring balance | |
+| iii)  | beam balance | iv)  | top- pan balance  | |
+c)  Which watch is used by scientists for correct measurement of time?
+| i) | simple watch | ii)  | digital watch  | |
+| iii)  | atomic watch | iv)  | quartz watch | |
+d)  Which for the following is derived unit?
+| i) | meter | ii)  | kilogram  | |
+| iii)  | second | iv)  | joule | |
 3.  Differentiate between.
-  a)  Fundamental unit and derived unit
-|   b)  Mass and weight  |     |     |     |     |
-| ---------------------- | --- | --- | --- | --- |
+a)  Fundamental unit and derived unit
+| b)  Mass and weight  | | | | |
 4.  Answer in brief:
-|   a)  Define physical quantity.    |     |     | b)  What is mass?           |     |
-| ---------------------------------- | --- | --- | --------------------------- | --- |
-|   c)  What is 1kg mass?            |     |     | d)  What is unit of speed?  |     |
+| a)  Define physical quantity. | | | b)  What is mass? | |
+| c)  What is 1kg mass? | | | d)  What is unit of speed?  | |
 5)  Convert the following units as:
-|   a)  4.5 hours into second    |     |  b)  | 2.5 kilograms into gram  |     |
-| ------------------------------ | --- | ---- | ------------------------ | --- |
-  c)  1 day into second  [Ans: a) 16200 sec., b) 2500 gm, c) 86400 sec.]
+| a)  4.5 hours into second | |  b)  | 2.5 kilograms into gram  | |
+c)  1 day into second  [Ans: a) 16200 sec., b) 2500 gm, c) 86400 sec.
 6)  Manita carries a box of 40 kg. What is the weight of the box?
-|   (g= 9.8 m/s2)                     | [Ans: 392 N] |     |     |     |
-| ----------------------------------- | ------------ | --- | --- | --- |
-| Science and Environment, class - 8  |              |     |     | 7   |
-
+| (g= 9.8 m/s2) | [Ans: 392 N] | | | |
+| Science and Environment, class - 8  | | | | 7 |
 Unit
-2
+
+## 2: Velocity and Acceleration  {#ch-2}
+
 Velocity and Acceleration
 Trees, stones, towers etc. always remain at the same place. They are called
 stationary objects. In other words, they are at rest. Some bodies keep on
@@ -345,33 +271,22 @@ We can obtain an average velocity when a body has non-uniform motion.
 Average Velocity
 The average distance travelled by a body in a particular direction in one
 second is called average velocity.
- total displacement
+total displacement
 Average velocity =
-|               |  total time taken  |     |
-| ------------- | ------------------ | --- |
-   s
-|     v  =   |     |     |
-| ---------- | --- | --- |
-|         t  |     |     |
-av
-| Where, v  = average velocity  |     |     |
-| ----------------------------- | --- | --- |
-av
-  s = total distance covered in a particular direction (or total displacement)
-       t = total time taken.
+| |  total time taken  | |
+| v  = | | |
+| t  | | |
+| Where, v  = average velocity  | | |
+s = total distance covered in a particular direction (or total displacement
+t = total time taken.
 If a body has displaced 10m in 2 sec and 32m in other 5 sec time, then,
-|                                           |             |   total displacement  |
-| ----------------------------------------- | ----------- | --------------------- |
-| Average velocity                          |             | =                     |
-|                 Vav           total time  |             |                       |
-|                                           |   10m+ 32m  |                       |
-=
-|           2 sec+ 5 sec  |     |     |
-| ----------------------- | --- | --- |
+| | | total displacement  |
+| Average velocity | | = |
+| Vav total time  | | |
+| | 10m+ 32m  | |
+| 2 sec+ 5 sec  | | |
 8  Science and Environment, class - 8
-
 42m
-=
 7 sec
 = 6m/sec
 Average velocity = 6 m/sec
@@ -402,7 +317,6 @@ The velocity of a body described with respect to a reference point is called
 relative velocity.
 1) Observe the figure given below. Initially both the cars are at the same
 Science and Environment, class - 8 9
-
 straight line MN. Here MN is a reference point. Car A is moving due
 west with 10m/s and car B is moving due east with velocity 15m/s.
 In figure b, the state of cars after 1 second is shown. In this position,
@@ -410,7 +324,7 @@ A and B have travelled 10 m and 15m respectively. Now, car B is seen
 to have travelled 25m from car A in 1 sec. So, velocity of car B relative
 to car A is 25m/s.
 Initial state After 1 sec.
-(a) (b)
+a) (b
 2) The initial state of two cars is shown in figure c The car A is moving
 with velocity 10m/s and car B is moving with 15m/s in the same
 direction. The state of cars after 1 second is given in figure d.The car
@@ -420,7 +334,7 @@ travelled only 5m from car A. In this case, the relative velocity of car
 B with respect to car A is 5m/s.
 After 1 sec.
 Initial state
-(c) (d)
+c) (d
 3. In figure e initially two cars A and B are at a line MN. Both cars have
 the same velocity, i.e., 10m/s in the same direction. In figure f , the
 position of the cars after 1 sec. is given. In this case, both cars have
@@ -428,48 +342,33 @@ travelled a distance of 10m. If car B is seen from car A, it is found as
 if car B has not moved through any distance or the relative velocity
 of car B with respect to car A is zero.
 10 Science and Environment, class - 8
-
 After 1 sec.
 Initial state
-(e) (f)
+e) (f
 Similarly, the relative velocity of two cars moving in the same direction=
 velocity of one car - velocity of the other car.
-| \v = v                      | –v  |                   |     |     |
-| --------------------------- | --- | ----------------- | --- | --- |
-| AB  A                       | B   |                   |     |     |
-| Where vA = velocity of A ,V |     |  = velocity of B  |     |     |
-B
+| \v = v | –v  | | | |
+| AB  A | B | | | |
+| Where vA = velocity of A ,V | |  = velocity of B  | | |
 V  = relative velocity of A with respect to B
-AB
 If two cars are moving opposite to each other then, the relative velocity =
 velocity of one car + velocity of the other car.
-| \ V  = V |  + V |     |     |     |
-| -------- | ---- | --- | --- | --- |
-| AB       | A B  |     |     |     |
+| \ V  = V |  + V | | | |
+| AB | A B  | | | |
 Example 2
 Two cars A and B are moving with velocity 12m/s and 8 m/s respectively
 in the same direction. Find the relative velocity of A with respect to B. If
 they move in opposite direction, what will the relative velocity be?
-| Here, velocity of car A, (V |     | )= 12m/s  |     |     |
-| --------------------------- | --- | --------- | --- | --- |
-A
-|   Velocity of car B, (V |     | )= 8 m/s.  |     |     |
-| ----------------------- | --- | ---------- | --- | --- |
-B
-|   Relative velocity, (V |     | )= ?  |     |     |
-| ----------------------- | --- | ----- | --- | --- |
-AB
-  When two cars move in the same direction,
-|   Relative velocity, (V |        | )  = V – V       |     |     |
-| ----------------------- | ------ | ---------------- | --- | --- |
-|                         |        | AB A  B          |     |     |
-|                         |        | = 12m/s – 8 m/s  |     |     |
-|                         | \ V    | = 4m/s           |     |     |
-AB
-  When two cars move in opposite direction,
-| Science and Environment, class - 8  |     |     |     | 11  |
-| ----------------------------------- | --- | --- | --- | --- |
-
+| Here, velocity of car A, (V | | )= 12m/s  | | |
+| Velocity of car B, (V | | )= 8 m/s.  | | |
+| Relative velocity, (V | | )= ?  | | |
+When two cars move in the same direction,
+| Relative velocity, (V | | )  = V – V | | |
+| | | AB A  B | | |
+| | | = 12m/s – 8 m/s  | | |
+| | \ V | = 4m/s | | |
+When two cars move in opposite direction,
+| Science and Environment, class - 8  | | | | 11  |
 Relative velocity (V ) = V + V
 AB A B
 = 12m/s+ 8m/s
@@ -491,11 +390,9 @@ after time (t);
 then the change in velocity = (v - u)m/s and time taken = t
 So, acceleration (a) = change in velocity/ time taken
 final velocity - initial velocity
-=
 time taken
 v - u
 or, a =
-t
 There is no acceleration of a body in uniform velocity. Sometimes the
 velocity of a running bus decreases. When an object is thrown upwards its
 velocity goes on decreasing. Similarly, the velocity decreases if we apply
@@ -503,7 +400,6 @@ brake on a moving bus. In the above cases, the velocity has been decreased.
 The rate of decrease of velocity of a body is called retardation or negative
 acceleration or deceleration.
 12 Science and Environment, class - 8
-
 Example 1:
 A car starts to move from rest. In 5 seconds, its velocity becomes 10m/s.
 Calculate its acceleration.
@@ -512,9 +408,7 @@ Final velocity (v) = 10m/s
 Time taken (t) = 5 s
 Acceleration (a) =?
 We have formula,
-10-0
 or, a =
-5
 \a = 2m/s2
 Example 2
 A car running with 15m/s comes to rest in 5sec, what is its retardation?
@@ -526,11 +420,9 @@ Retardation (a) =?
 We have formula,
 0−15
 a=
-5
 a = – 3m/s2
 Therefore, the retardation of the car is 3m/s2.
 Science and Environment, class - 8 13
-
 Equations related to velocity and acceleration
 The initial velocity, final velocity, acceleration, time and distance covered
 have relations which can be given by equations of motion.
@@ -540,37 +432,35 @@ Acceleration = a Time taken = t
 Distance covered = s
 According to the definition of acceleration,
 a = final velocity – initial velocity / time taken
-v-u ……………. (i)
+v-u ……………. (i
 a =
-t
 v–u = at
-v= u + at …………… (ii)
+v= u + at …………… (ii
 According to definition of average velocity;
 Average velocity= total distance covered / time taken
 = s/t
 Again, average velocity = u+v/2
 Or, s/t= u+v/2
-Or, s = (u+v)/2 × t ……………. (iii)
+Or, s = (u+v)/2 × t ……………. (iii
 Now substituting value of t from equation (i) in equation iii),
 s= (u+v)/2 × (v-u)/a
 v2 –u2
 S =
 2a
-\ v2 = u2 + 2as ………………(iv)
-Now substituting v from eqn (ii) in eqn (iii)
+\ v2 = u2 + 2as ………………(iv
+Now substituting v from eqn (ii) in eqn (iii
 We get, s = (u+u+at)/2 ×t
 s = (2u+at)/2 ×t
 s = (2ut+at2)/2
-\ s= ut + ½ at2 ……..(v)
+\ s= ut + ½ at2 ……..(v
 14 Science and Environment, class - 8
-
 Above formulae are useful to solve mathematical problems related to
 motion.
 Example 2
 A car starts to move from rest. If the acceleration is 0.3m/s2, what will be its
 velocity after 1 minute? What will be the distance covered during the time?
 Here,
-Initial velocity (u) = 0m/s (because the car is at rest)
+Initial velocity (u) = 0m/s (because the car is at rest
 Acceleration (a) = 0.3m/s2
 Time (t) = 1 minute = 60
 Final velocity (v)= ?
@@ -595,7 +485,6 @@ Summary:
 1. The average distance travelled by a body per unit time is called
 average velocity.
 Science and Environment, class - 8 15
-
 2. Reference point is a point with respect to which the relative velocity
 of an object is defined.
 3. The velocity of a body described with respect to a reference point
@@ -605,11 +494,9 @@ is called relative velocity.
 6. The negative acceleration is called retardation.
 7. The equations of motion are:
 v−u u+v
-(i) a= (ii) v = u + at (ii) s= ×t
+i) a= (ii) v = u + at (ii) s= ×t
 t 2
-1
-(iv) v2 = u2 + 2as (v) s=ut+ at2
-2
+iv) v2 = u2 + 2as (v) s=ut+ at2
 Exercise:
 1. Fill in the blanks with appropriate words.
 a) The distance covered in a particular direction per unit time is
@@ -628,41 +515,35 @@ c) The unit of acceleration ……
 5. Give answer in brief.
 a) What is acceleration? b) What is meant by retardation?
 16 Science and Environment, class - 8
-
-  c)  Explain relative velocity with examples.
-  d)  Define reference point.
+c)  Explain relative velocity with examples.
+d)  Define reference point.
 6.  Solve the following numerical problems:
-  a)  A bus has velocity of 20m/s towards east and another bus has velocity
-    of 15m/s in west direction. If they start to move from a point
-    simultaneously, what distance do they cover in 2 minutes? What
-    will be their separation?
-Ans (2400m east, 1800m west, 4200m)
-  b)  If a motorbike travels 2.4 km in 5 minute, find its average velocity.
-|       |     |     |     |     |     | Ans (8m/s) |     |
-| ----- | --- | --- | --- | --- | --- | ---------- | --- |
-  c)  A car starts from rest and gains velocity of 20 m/s in 10 seconds. Find its
-|     acceleration.   |     |     |     |     |     | Ans  | (2m/s2)  |
-| ------------------- | --- | --- | --- | --- | --- | ---- | -------- |
-  d)  If a truck starts from rest and it has acceleration of 4 m/s2 for 5 seconds,
-    calculate its final velocity. What will be the distance travelled by the truck
-|     during the time interval?    |     |     |     |     | Ans  | (20m/s, 50m)  |     |
-| -------------------------------- | --- | --- | --- | --- | ---- | ------------- | --- |
-  e)  A car was moving with a uniform velocity. When its brake was applied, it
-    stopped in 5 seconds with retardation of 1 m/s2. Calculate its
-|     initial velocity.   |     |     |     |     |     | Ans  | (5m/s)  |
-| ----------------------- | --- | --- | --- | --- | --- | ---- | ------- |
-  f)  Two cars are moving with velocities of 70km/hr and 50 km/hr
-    towards east and west direction respectively. Find their relative
-|     velocity.   |     |     |     |     | Ans  | (120km/hr)  |     |
-| --------------- | --- | --- | --- | --- | ---- | ----------- | --- |
-  g)  If two cars A and B are moving with velocity of 60km/hr and 80km/hr
-    respectively in the same direction.,what will be the relative  velocity
-|     of B with respect to A?         |     |     |     |     | Ans  | (20km/hr) |     |
-| ----------------------------------- | --- | --- | --- | --- | ---- | --------- | --- |
-| Science and Environment, class - 8  |     |     |     |     |      |           | 17  |
-
+a)  A bus has velocity of 20m/s towards east and another bus has velocity
+of 15m/s in west direction. If they start to move from a point
+simultaneously, what distance do they cover in 2 minutes? What
+will be their separation?
+Ans (2400m east, 1800m west, 4200m
+b)  If a motorbike travels 2.4 km in 5 minute, find its average velocity.
+| | | | | | | Ans (8m/s) | |
+c)  A car starts from rest and gains velocity of 20 m/s in 10 seconds. Find its
+| acceleration. | | | | | | Ans  | (2m/s2)  |
+d)  If a truck starts from rest and it has acceleration of 4 m/s2 for 5 seconds,
+calculate its final velocity. What will be the distance travelled by the truck
+| during the time interval? | | | | | Ans  | (20m/s, 50m)  | |
+e)  A car was moving with a uniform velocity. When its brake was applied, it
+stopped in 5 seconds with retardation of 1 m/s2. Calculate its
+| initial velocity. | | | | | | Ans  | (5m/s)  |
+f)  Two cars are moving with velocities of 70km/hr and 50 km/hr
+towards east and west direction respectively. Find their relative
+| velocity. | | | | | Ans  | (120km/hr)  | |
+g)  If two cars A and B are moving with velocity of 60km/hr and 80km/hr
+respectively in the same direction.,what will be the relative  velocity
+| of B with respect to A? | | | | | Ans  | (20km/hr) | |
+| Science and Environment, class - 8  | | | | | | | 17  |
 Unit
-3
+
+## 3: Simple Machine  {#ch-3}
+
 Simple Machine
 We use various types of devices or instruments to make our work easier,
 faster and simpler. These devices are called simple machine. For example:
@@ -689,7 +570,6 @@ Load distance Effort distance
 Fulcrum
 Fig. 3.2
 18 Science and Environment, class - 8
-
 An effort is applied at a point on a lever. The distance between fulcrum and
 effort is called effort distance. The effort works against a load. The distance
 between load and fulcrum is called load distance. So, a lever has load, load
@@ -700,25 +580,17 @@ Fulcrum
 Take a scale of 30 cm. Make a small hole at its center
 with a nail and adjust it with a string as shown in
 the figure. Now, suspend two weights on each arm
-| and balance it. Convert the mass into effort where  |     |     |     |     | Effort |      |     |
-| --------------------------------------------------- | --- | --- | --- | --- | ------ | ---- | --- |
-| 100g mass is equivalent to 1N force. Consider the   |     |     |     |     |        | Load |     |
+| and balance it. Convert the mass into effort where  | | | | | Effort | | |
+| 100g mass is equivalent to 1N force. Consider the | | | | | | Load | |
 Stand
 mass on the right arm as load and the mass on the
 left arm as effort. Change the location of the masses
 keeping the scale horizontal. Now fill the given table
-| observing your results. |     |     |     |     | Fig. 3.3 |     |     |
-| ----------------------- | --- | --- | --- | --- | -------- | --- | --- |
+| observing your results. | | | | | Fig. 3.3 | | |
 Example
-| SN   | To the left   |     |     |   To the right  |     |     |     |
-| ---- | ------------- | --- | --- | --------------- | --- | --- | --- |
-
-|      | E    | E.D.(cm)  | E×E.D.  | L    | L.D. (cm)   | L × L.D.  |     |
-| ---- | ---- | --------- | ------- | ---- | ----------- | --------- | --- |
-| 1.   | 5N   | 4         | 20      | 2N   | 10          | 20        |     |
-| 2.   |      |           |         |      |             |           |     |
-| 3.   |      |           |         |      |             |           |     |
-4.
+| SN | To the left | | | To the right  | | | |
+| | E | E.D.(cm)  | E×E.D.  | L | L.D. (cm) | L × L.D.  | |
+| 1. | 5N | 4 | 20 | 2N | 10 | 20 | |
 We can draw a conclusion from the experiment as
 Effort × Effort distance = Load × Load distance
 If the effort distance is shorter, more effort is necessary. If load is placed
@@ -726,65 +598,53 @@ near to fulcrum, a heavy load can be lifted up even with a littlell effort.
 Therefore the lever function is based on this principle. We have used many
 levers e.g. scissors, lemon squeezer, nut cracker, crowbar, etc., which always
 make our work easier.
-| Science and Environment, class - 8  |     |     |     |     |     |     | 19  |
-| ----------------------------------- | --- | --- | --- | --- | --- | --- | --- |
-
+| Science and Environment, class - 8  | | | | | | | 19  |
 Mechanical advantage:
 The ratio of load to effort on a balanced lever is called mechanical advantage.
-|                             |     |                     |  Load (L)   |           |  L  |
-| --------------------------- | --- | ------------------- | ----------- | --------- | --- |
-| Mechanical advantage (MA) = |     |                     |             | or, MA =  |     |
-|                             |     |        Effort (E)   |             |        E  |     |
+| | | |  Load (L) | |  L  |
+| Mechanical advantage (MA) = | | | | or, MA =  | |
+| | | Effort (E) | | E  | |
 Mechanical advantage of a simple machine shows the number of times that
 the force is multiplied by the machine.
 In the given figure, a load of 500N is lifted by an effort of 200N. The load
 distance is 30cm and effort distance is 90cm. The lever has magnified the
 effort hence to lift the heavier load. We calculate mechanical advantage to
 find the number of times that the effort is multiplied.
-|                        |                  | Load   |       500N   |        |     |
-| ---------------------- | ---------------- | ------ | ------------ | ------ | --- |
-| Mathematically, MA =   |                  |        | =            | = 2.5  |     |
-|                        |         Effort   |        |        200N  |        |     |
+| | | Load | 500N | | |
+| Mathematically, MA = | | | = | = 2.5  | |
+| | Effort | | 200N  | | |
 It means that the lever can lift up a load of 2.5 times heavier than the applied
 effort. Some energy is wasted due to friction. So, the mechanical advantage
 decreases with the increase of friction in simple machine.
 Velocity ratio
 Load and effort move a certain distance
 90cm
-| when simple machine is used to lift a  |     |     |     | 500N |     |
-| -------------------------------------- | --- | --- | --- | ---- | --- |
+| when simple machine is used to lift a  | | | | 500N | |
 load by an effort. The distance covered
 200N
 by the movement of load and effort is
-| never equal to each other since the load  |     |     |     |     | Fig. 3.4 |
-| ----------------------------------------- | --- | --- | --- | --- | -------- |
+| never equal to each other since the load  | | | | | Fig. 3.4 |
 30cm
 to be lifted up is greater than the effort
 applied. The distance covered by effort must be greater than the distance
 moved by load. The ratio of distance covered by the effort to the distance
 moved by the load is called velocity ratio.
- distance moved by effort
+distance moved by effort
 Velocity ratio (VR) =
-|       |     distance moved by load  |     |     |     |     |
-| ----- | --------------------------- | --- | --- | --- | --- |
+| | distance moved by load  | | | | |
 In a lever, velocity ratio is equal to the ratio of effort distance and load
 distance.
 effort distance
 VR =
-      load distance
-| 20  |     |     | Science and Environment, class - 8 |     |     |
-| --- | --- | --- | ---------------------------------- | --- | --- |
-
+load distance
+| 20  | | | Science and Environment, class - 8 | | |
 In fig. 3.4, load distance is 30cm
 and effort distance is 90cm.
-|          | effort distance |     |     |
-| -------- | --------------- | --- | --- |
+| | effort distance | | |
 Therefore, VR  =
-|                       | load distance  |     |     |
-| --------------------- | -------------- | --- | --- |
-|           =90cm/30cm  |                |     |     |
-|           = 3         |                |     |     |
-|       \ VR = 3        |                |     |     |
+| | load distance  | | |
+| =90cm/30cm  | | | |
+| \ VR = 3 | | | |
 The velocity ratio of the machine is 3, which means that the effort has to
 move 3 times more distance than the load. There is no effect of friction
 on velocity ratio of a simple machine. But the mechanical advantage is
@@ -797,8 +657,7 @@ When an effort is applied in a
 effort Load distance
 machine, some work is done. That
 Distance
-| work is called input work.  |     | Effort distance |     |
-| --------------------------- | --- | --------------- | --- |
+| work is called input work.  | | Effort distance | |
 travelled by
 load
 Input work = effort  × effort distance  Fig .3.5
@@ -806,60 +665,49 @@ The work done by machine when effort is applied is called output work.
 Output work = load  × load distance
 The ratio of output work to input work in a machine is called efficiency. It
 is expressed in percentage and denoted by h(eta).
-|     |   output work   |     |     |
-| --- | --------------- | --- | --- |
+| | output work | | |
 Efficiency  =  × 100%
-|             | input work                        |     |     |
-| ----------- | --------------------------------- | --- | --- |
-|         =   | [(L × L.D.) / (E × E.D.)] × 100%  |     |     |
-|             |        (L/E)                      |     |     |
-=
+| | input work | | |
+| = | [(L × L.D.) / (E × E.D.)] × 100%  | | |
+| | (L/E) | | |
 × 100%
-|         | ( E.D.)/L.D. |     |     |
-| ------- | ------------ | --- | --- |
-|         | MA           |     |     |
+| | ( E.D.)/L.D. | | |
+| | MA | | |
 = x 100%
-|         |  V R  |     |     |
-| ------- | ----- | --- | --- |
+| |  V R  | | |
 Mechanical advantage is always less than velocity ratio due to friction. So
 the efficiency of a machine is never 100% or more.
-| Science and Environment, class - 8  |     |     | 21  |
-| ----------------------------------- | --- | --- | --- |
-
+| Science and Environment, class - 8  | | | 21  |
 Example: 1
 An effort of 50N is applied to lift a load of 200N by using a lever. If effort
 is displaced through 5m to lift a load through 1m, calculate its MA, VR
 and efficiency.
 Here,
-| Load = 200N                     |     |   Effort = 50N          |
-| ------------------------------- | --- | ----------------------- |
-| Effort distance = 5m            |     |   Load distance = 1m    |
-| Mechanical advantage (MA) = ?   |     | Velocity ratio (VR) = ? |
+| Load = 200N | | Effort = 50N |
+| Effort distance = 5m | | Load distance = 1m |
+| Mechanical advantage (MA) = ? | | Velocity ratio (VR) = ? |
 Efficiency = ?
 We have formula,
 MA = load /effort = 200N/ 50N = 4
 VR= E.D./L.D. = 5m/1m= 5
 Now efficiency (h)= MA/VR  x 100%
-|         | = 4/5 x 100%  |     |
-| ------- | ------------- | --- |
-|         | = 80%         |     |
+| | = 4/5 x 100%  | |
+| | = 80% | |
 Therefore, MA= 4, VR = 5, h = 80%.
 Experimental activity:
 Take a lever and prove the principle of lever L × L.D. = E × E. D.
 Summary
 1)  Lever is a long bar or a plank which is capable of rotating about a fixed
-  point, i.e., fulcrum.
+point, i.e., fulcrum.
 2)  E × E.D. = L × L.D. is the principle of lever.
 3)  Mechanical advantage is the ratio of load to effort.
 4)  The ratio of effort distance to load distance is called velocity ratio.
 5)  The ratio of mechanical advantage to velocity ratio expressed in
-  percentage is called efficiency.
+percentage is called efficiency.
 Exercise:
 1)  Fill in the blanks with the appropriate words
-  a)  The point at which a lever is fixed is called ……………
-| 22  |     | Science and Environment, class - 8 |
-| --- | --- | ---------------------------------- |
-
+a)  The point at which a lever is fixed is called ……………
+| 22  | | Science and Environment, class - 8 |
 b) In a lever, E x E.D. = L x ……..
 c) Mechanical advantage = load/…….
 d) Velocity ratio = ……./load distance
@@ -878,23 +726,24 @@ than other, how can they carry the pole hence making small load for
 the weak man?
 7) Solve the following numerical problems.
 a) A load of 400N is lifted up by an effort of 100N. If load distance is
-20cm, what will be the effort distance? (Ans : 80cm)
+20cm, what will be the effort distance? (Ans : 80cm
 b) Two boys, Shrijan having weight 600N and Shrijesh having weight
 300N are playing see-saw. If Shrijan is sitting at 2m from fulcrum,
-where should Shrijesh sit from fulcrum to balance Shrijan? (Ans: 4m)
+where should Shrijesh sit from fulcrum to balance Shrijan? (Ans: 4m
 c) A lever of length 1m has been used to lift a load of 600N by applying
 an effort of 200N. If load is at 20cm from fulcrum, calculate mechanical
-advantage, velocity ratio and efficiency. (Ans: MA = 3, VR = 4, h=75%)
+advantage, velocity ratio and efficiency. (Ans: MA = 3, VR = 4, h=75%
 d) Study the figure below and find
 2.5m
-the value of effort. (Ans: 120N)
+the value of effort. (Ans: 120N
 600N ?
 0.5m
 Fig. 3.6
 Science and Environment, class - 8 23
-
 Unit
-4
+
+## 4: Pressure  {#ch-4}
+
 Pressure
 The earth is surrounded by air about 1000 km high from the earth surface.
 The layer of air which surrounds the earth is called atmosphere. The air
@@ -926,7 +775,6 @@ Take a metallic can having tight lid. Put some water in the can and heat the
 can opening its mouth. Close the lid tightly after the water boils. Let the
 can be cool and observe it.
 24 Science and Environment, class - 8
-
 The can starts to squeeze because of difference
 between the pressure of the air inside the can
 and atmospheric air pressure outside. The
@@ -965,16 +813,15 @@ These instruments work on the basis of the atmospheric pressure. If there
 were no atmospheric pressure, they would have no use at all. Therefore,
 the atmospheric pressure has great importance to our daily life.
 Science and Environment, class - 8 25
-
 Pressure of liquid
 Pressure is defined as the force acting perpendicularly per unit area. A solid
 object exerts pressure on a surface where it is placed. Likewise, liquid also
 exerts pressure on the bottom of its container due to its own weight.
 The force exerted by a liquid per unit area on the bottom of its container
 due to its weight is called liquid pressure.
-force (F)
+force (F
 Pressure exerted by a regular body (P) =
-area (A)
+area (A
 Measurement of pressure of liquid
 Take a vessel as shown in figure. Let A be the area of
 its base. Pour some liquid up to a height 'h'. Let 'd' be
@@ -987,11 +834,11 @@ be equal to the weight of the liquid.
 Fig. 4.4
 We know that pressure of liquid on the base of the
 container is equal to perpendicular force acting per unit area.
-weight of liquid (w)
+weight of liquid (w
 So, Pressure(P)=
-area of its base(A)
+area of its base(A
 Or, P= w/A
-Or, P= mass × acceleration due to gravity / A (w= mg)
+Or, P= mass × acceleration due to gravity / A (w= mg
 Or, P= (density x volume x g) /A
 Or, P= (d x A x h × g)/A
 \ P= hdg
@@ -1002,8 +849,7 @@ liquid column and density of the liquid.
 Example: 1
 A tank of water has a height of 1.5m. If the tank is full of water, what will
 26 Science and Environment, class - 8
-
-be the pressure given by water at its bottom? (Density of water= 1000kg/m3)
+be the pressure given by water at its bottom? (Density of water= 1000kg/m3
 Here,
 Height of liquid (h) = 1.5m
 Density of the liquid (d)= 1000 kg/m3
@@ -1015,7 +861,7 @@ P =h x d × g
 = 14700N/m2
 \ P = 14700 Pascal
 Example: 2
-The depth fo a liquid in a drum is 2m and the pressure exerted by the liquid
+The depth of a liquid in a drum is 2m and the pressure exerted by the liquid
 at bottom of the drum is 500N/m2. Calculate the density of the liquid.
 Here,
 Depth of the liquid (h)= 2m
@@ -1033,7 +879,6 @@ Characters of liquid pressure:
 Or, the more the depth of a liquid increases, the more the pressure of
 the liquid increases.
 Science and Environment, class - 8 27
-
 Activity 4
 Take a mineral water bottle or a plastic can or a
 tin can with three holes in vertical line at different
@@ -1072,7 +917,6 @@ pack filled with rice or maize. How does it happen so? Discuss it.
 How can you differentiate a heavier body from a lighter body e.g. a wood
 and wax? Can you find by weighing? The mass of a block of wood will be
 28 Science and Environment, class - 8
-
 larger if its size is large. Again, the wax may have larger mass if its size
 is large. Therefore, we need to weigh the blocks of wood and wax having
 equal volume. The block having greater mass will be heavier substance.
@@ -1080,9 +924,9 @@ No two substances can have equal mass in equal volume. So, mass of unit
 volume is calculated by measuring mass and volume of a substance. The
 mass of unit volume is found by taking ratio of mass to volume of a body.
 The mass of unit volume of a body is called its density.
-mass (m)
+mass (m
 Therefore, density of a body (d) =
-volume (v)
+volume (v
 Density of a body is not affected by its shape and size but it depends up on
 the nature of substance. Density of a body is its denseness or compactness.
 The greater the denseness, the density of a substance is higher. For example:
@@ -1098,9 +942,6 @@ We have,
 mass
 density (d) =
 volume
-16000
-=
-2
 = 8000 kg/m3
 \ Density of iron is 8000 kg/m3.
 Unit of density
@@ -1108,7 +949,6 @@ If the mass and volume are measured in kg and m3 respectively, then the
 unit of density is kilogram per cubic meter (kg/m3). But if mass is measured
 in gram and volume is in cm3, then the unit of density will be gm/cm3.
 Science and Environment, class - 8 29
-
 Activity: 6
 Take two containers of same size and regular shape. Fill one container with
 water and the other with sand. Weigh both containers separately to find
@@ -1143,7 +983,6 @@ SN Objects Float/sink More/less density than water
 4 iron pieces
 5 gravel
 30 Science and Environment, class - 8
-
 Those objects which sink in water have greater density than that of water.
 Similarly, the floating objects have less density than that of water.
 Considerable question:
@@ -1152,7 +991,6 @@ Activity 9
 Take a beaker of clean water. Put an egg
 Beaker
 gently into the beaker. The egg descends to
-Egg
 the bottom of beaker or sinks in water. Now,
 Water
 Salt
@@ -1184,78 +1022,69 @@ pressure.
 6) Force is measured in Newton (N) and pressure is measured in Pascal
 or N/m2.
 Science and Environment, class - 8 31
-
 7)  The pressure of liquid increases with depth (h).
 8)  Liquid transmits in an equal normal pressure in all directions.
 9)  The mass contained in a unit volume of a substance is called its density.
 10) The ratio of density of a substance to the density of water is called
-  relative density.
+relative density.
 11) Those substances which have density more than the density of water
-  sink whereas those having density less than that of water float on water.
+sink whereas those having density less than that of water float on water.
 Exercise
 1)  Fill in the blanks with the appropriate words.
-  a)  The pressure exerted by the air in atmosphere is called ............
-  b)  Pressure is the ...............applied per unit area.
-  c)  The pressure .................as the depth of liquid increases.
-  d)  The SI unit of density is .........
-  e)  An object floats on water if the .................of the object is less than
-    that of water.
+a)  The pressure exerted by the air in atmosphere is called ............
+b)  Pressure is the ...............applied per unit area.
+c)  The pressure .................as the depth of liquid increases.
+d)  The SI unit of density is .........
+e)  An object floats on water if the .................of the object is less than
+that of water.
 2)  Choose the correct answer.
-  a)  Which is the SI unit of density?
-|     i) kg/m3   |     | ii) kg/liter   | iii) kg/cm3  | iv) kg/m  |
-| -------------- | --- | -------------- | ------------ | --------- |
-  b)  What is the formula of density?
-|     i) M =  M × V   |         |   ii) V= D × M  |     |     |
-| ------------------- | ------- | --------------- | --- | --- |
-|                     |   V     |                 |  M  |     |
-| iii) D =            |         | iv) D =         |     |     |
-|                     |    M    |                 |   V |     |
-  c)  Which object floats on a liquid?
-|     i)   | an object having less density than that of water |     |     |     |
-| -------- | ------------------------------------------------ | --- | --- | --- |
-|     ii)  | an object having density                         |     |     |     |
-    iii)  an object having greater density than water, that of water
-|     iv)  | an object having mass  |     |                                    |     |
-| -------- | ---------------------- | --- | ---------------------------------- | --- |
-| 32       |                        |     | Science and Environment, class - 8 |     |
-
-  d)  On which direction does a liquid exert pressure?
-|     i) only upwards              |     | ii) only downwards     |     |     |
-| -------------------------------- | --- | ---------------------- | --- | --- |
-|     iii) only on lateral sides   |     | iv) in all directions  |     |     |
-  e)  A point is at a depth of 100m and acceleration due to gravity 9.8 m/s2,
-    how much  pressure will the water exert?
-    i) 980 Pa   ii) 9800 Pa     iii) 98000 Pa    iv) 980000 Pa
+a)  Which is the SI unit of density?
+| i) kg/m3 | | ii) kg/liter | iii) kg/cm3  | iv) kg/m  |
+b)  What is the formula of density?
+| i) M =  M × V | | ii) V= D × M  | | |
+| | V | |  M  | |
+| iii) D = | | iv) D = | | |
+| | M | | V | |
+c)  Which object floats on a liquid?
+| i) | an object having less density than that of water | | | |
+| ii)  | an object having density | | | |
+iii)  an object having greater density than water, that of water
+| iv)  | an object having mass  | | | |
+| 32 | | | Science and Environment, class - 8 | |
+d)  On which direction does a liquid exert pressure?
+| i) only upwards | | ii) only downwards | | |
+| iii) only on lateral sides | | iv) in all directions  | | |
+e)  A point is at a depth of 100m and acceleration due to gravity 9.8 m/s2,
+how much  pressure will the water exert?
+i) 980 Pa ii) 9800 Pa iii) 98000 Pa iv) 980000 Pa
 3)  Give reason.
-  a)  The pressure of liquid varies as per its depth.
-  b)  The base of a dam is made thicker.
-  c)  The strongly blown balloon gets blasted.
+a)  The pressure of liquid varies as per its depth.
+b)  The base of a dam is made thicker.
+c)  The strongly blown balloon gets blasted.
 4)  Answer in brief.
-  a)  Explain atmospheric pressure with examples.
-  b)  How do you know that a liquid exerts pressure?
-  c)  How is the atmospheric pressure detected?
-  d)  Define density.
-  e)  What type of objects float on water?
-  f)  What is relative density?
+a)  Explain atmospheric pressure with examples.
+b)  How do you know that a liquid exerts pressure?
+c)  How is the atmospheric pressure detected?
+d)  Define density.
+e)  What type of objects float on water?
+f)  What is relative density?
 5)  Solve the numerical problems.
-  a)  Calculate the pressure of water at the bottom of a well if the depth
-|     of water is 10m. (g= 9.8 m/s2)   |     | (Ans: 98000Pa)  |     |     |
-| ------------------------------------ | --- | --------------- | --- | --- |
-  b)  In the given figure, find the pressure exerted by
-|     the liquid at its base.   | (Ans: 11,760 pa) |     |     |     |
-| ----------------------------- | ---------------- | --- | --- | --- |
-  c)  Calculate the mass of a block of ice having
-    volume of 5 m3. (density of ice= 920 kg/m3)
-    ( Ans: 4600 kg)
-  d)  A tank with dimensions: 3m x 2m x 2m contains water upto its half
-    portion. What is the pressure at the base of the tank? (density of water
-|     = 1000 kg/m3, g= 9.8 m/s2)      |     |     |   (Ans: 9800 Pa)  |     |
-| ----------------------------------- | --- | --- | ----------------- | --- |
-| Science and Environment, class - 8  |     |     |                   | 33  |
-
+a)  Calculate the pressure of water at the bottom of a well if the depth
+| of water is 10m. (g= 9.8 m/s2) | | (Ans: 98000Pa)  | | |
+b)  In the given figure, find the pressure exerted by
+| the liquid at its base. | (Ans: 11,760 pa) | | | |
+c)  Calculate the mass of a block of ice having
+volume of 5 m3. (density of ice= 920 kg/m3
+Ans: 4600 kg
+d)  A tank with dimensions: 3m x 2m x 2m contains water upto its half
+portion. What is the pressure at the base of the tank? (density of water
+| = 1000 kg/m3, g= 9.8 m/s2) | | | (Ans: 9800 Pa)  | |
+| Science and Environment, class - 8  | | | | 33  |
 Unit
 Energy, Work and Power
-5
+
+## 5: Energy  {#ch-5}
+
 Energy
 All living beings require food. Foods give us energy which is used to do
 different kinds of work. Similarly, vehicles like motorbike, aero planes,
@@ -1284,7 +1113,6 @@ stretched rubber is potential energy.
 Potential energy is the energy possessed by a body by virtue of its position
 or configuration.
 34 Science and Environment, class - 8
-
 A lifted stone up to a certain height or water stored in a dam, etc. have
 potential energy due to position. Similarly, when a spring is twisted or
 stretched, its configuration changes and it has a tendency to return back
@@ -1318,7 +1146,6 @@ Take a ball. Throw the ball and
 tell your friend to catch the
 ball. Again, throw the ball more Fig. 5.1
 Science and Environment, class - 8 35
-
 strongly and tell your friend to catch. What difference have you found
 between the throws before and after while catching the ball? Similarly,
 repeat the same activity with a heavier ball (cricket ball) first and then with
@@ -1351,11 +1178,10 @@ said to be done if a body has a displacement in the direction of force when
 it is acted upon the body. For example: when a body is lifted up or pulled
 on the ground, work is done.
 36 Science and Environment, class - 8
-
 For work, it is necessary to have the followings.
 i) force applied on a body
-ii) displacement (along the direction of force)
-work (w)= force (f) × displacement (d)
+ii) displacement (along the direction of force
+work (w)= force (f) × displacement (d
 \ W= f × d
 If force is in Newton and displacement is in meter then the work done is
 measured in Joule.
@@ -1384,7 +1210,6 @@ We have formula, w = f × d
 = 147.0 J
 So, the total work done in moving the block through 5m is 147J.
 Science and Environment, class - 8 37
-
 Example: 3
 A porter carries a bag of weight 1000N to a distance of 50m, calculate work
 done by him.
@@ -1415,7 +1240,6 @@ Distance (d) = height (h)= 4m Fig 5.3
 Work done (w) = ?
 Work done against gravity (w) = mgh
 38 Science and Environment, class - 8
-
 = 4 × 9.8 × 4
 = 156.8 J
 Therefore, the work done is 156.8 J.
@@ -1448,10 +1272,9 @@ devices do not convert the energy in identical way. Conversion of energy
 refers to the work done by the device. Some devices can work faster while
 other does slow. The rate at which a device can work is called its power.
 Science and Environment, class - 8 39
-
-work done (w)
+work done (w
 Power (P) =
-time taken (t)
+time taken (t
 If work done is in Joule and time in second, unit of power is Joule per
 second or watt.
 If a machine can do 1 Joule work in 1 second then its power is called 1
@@ -1484,7 +1307,6 @@ steps each having height of 15cm. Find his power.
 Here, Mass of Sparsha(m)= 40kg
 Weight of Sparsha (w)= mg= 40 × 9.8= 392N
 40 Science and Environment, class - 8
-
 Total height (h)= 15cm × 14=210cm= 2.1m
 Total time taken(t)= 10sec
 Now, work done (w)= f × d =392 × 2.1 = 832.2J
@@ -1506,7 +1328,7 @@ is called potential energy. PE = mgh
 KE= 1/2m v2
 4) The product of force and displacement of body in the direction of force
 is called work done. It is measured in Joule. The two types of work are :
-(i) the work done against friction (w)= f × d and (ii) work done against
+i) the work done against friction (w)= f × d and (ii) work done against
 gravity (w)= mgh.
 5) The work done in moving a body through 1m by a force of 1N is called
 1J work.
@@ -1516,93 +1338,72 @@ one form to another.
 as the rate of conversion of energy. Power is measured in watt (w).
 8) If 1 Joule of work is done in 1 sec, the power is said to be 1 watt.
 9) The power of engines is also measured in Horse Power (HP).
-(1HP = 746 watt)
+1HP = 746 watt
 Science and Environment, class - 8 41
-
 Exercise
 1)  Fill in the blanks with appropriate words.
-  a)  Energy is the capacity of doing ..............
-  b)  Work is the transformation of ..........
-  c)  Work is measured in ...........
-  d)  When a stone is lifted up, ............... is stored
-  e)  Wind has................... energy.
+a)  Energy is the capacity of doing ..............
+b)  Work is the transformation of ..........
+c)  Work is measured in ...........
+d)  When a stone is lifted up, ............... is stored
+e)  Wind has................... energy.
 2)  Choose the correct answer.
-  a)  Which of the followings have work done?
-|     i) ploughing the field   |     | ii) standing guard  |     |
-| ---------------------------- | --- | ------------------- | --- |
-    iii) standing with a load   iv) trying to move the vehicle at rest
-  b)  A raised foot to kick the football has
-|     i) kinetic energy      |     | ii) potential energy   |     |
-| -------------------------- | --- | ---------------------- | --- |
-|     iii) chemical energy   |     | iv) mechanical energy  |     |
-  c)  Which device converts mechanical energy into electric energy?
-|     i) cell          |     | ii) electric motor  |     |
-| -------------------- | --- | ------------------- | --- |
-|     iii) generator   |     | iv) electric fan    |     |
-  d)  What is the nature of a machine having more power?
-|     i) can do a lot of work   |     | ii) can do a small work  |     |
-| ----------------------------- | --- | ------------------------ | --- |
-|     iii) can work faster      |     | iv) works slowly         |     |
-  e)  A man is standing with a load of 25kg at a height of 1m from ground.
-    How much work has he done?
-|     i) 24.5J   | ii) 25J    | iii) 50J   | iv) 0J  |
-| -------------- | ---------- | ---------- | ------- |
+a)  Which of the followings have work done?
+| i) ploughing the field | | ii) standing guard  | |
+iii) standing with a load iv) trying to move the vehicle at rest
+b)  A raised foot to kick the football has
+| i) kinetic energy | | ii) potential energy | |
+| iii) chemical energy | | iv) mechanical energy  | |
+c)  Which device converts mechanical energy into electric energy?
+| i) cell | | ii) electric motor  | |
+| iii) generator | | iv) electric fan | |
+d)  What is the nature of a machine having more power?
+| i) can do a lot of work | | ii) can do a small work  | |
+| iii) can work faster | | iv) works slowly | |
+e)  A man is standing with a load of 25kg at a height of 1m from ground.
+How much work has he done?
+| i) 24.5J | ii) 25J | iii) 50J | iv) 0J  |
 3)  Answer in brief.
-  a)  What is energy?
-  b)  What is work? Write down the types of work.
-| 42  |     | Science and Environment, class - 8 |     |
-| --- | --- | ---------------------------------- | --- |
-
-  c)  Define power with an example.
-  d)  Define 1J work.
-  e)  What do you mean by 100W power?
-  f)  What is transformation of energy? Explain with example.
+a)  What is energy?
+b)  What is work? Write down the types of work.
+| 42  | | Science and Environment, class - 8 | |
+c)  Define power with an example.
+d)  Define 1J work.
+e)  What do you mean by 100W power?
+f)  What is transformation of energy? Explain with example.
 4)  Write down the transformation of energy in torch light.
 5)  Explain the relation between work and energy with examples.
 6)  Why are we unable to work long without food?
 7)  Write down the types of energy in the following bodies.
-|   i) battery              |     | ii) sun                          |     |     |
-| ------------------------- | --- | -------------------------------- | --- | --- |
-|   iii) water in a dam     |     | iv) a bullet fired from the gun  |     |     |
-|   v) a stretched rubber   |     | vi) a stone at the top of slide  |     |     |
+| i) battery | | ii) sun | | |
+| iii) water in a dam | | iv) a bullet fired from the gun  | | |
+| v) a stretched rubber | | vi) a stone at the top of slide  | | |
 8)  Write down the device which changes energy as mentioned below.
-  i)  Light energy to electric energy
-  ii)  Chemical energy to electric energy
-  iii) Mechanical energy to electric energy
-  iv) Electric energy  to heat energy
-  v)  Electric energy to light energy
-  vi) Chemical energy to light energy
+i)  Light energy to electric energy
+ii)  Chemical energy to electric energy
+iii) Mechanical energy to electric energy
+iv) Electric energy  to heat energy
+v)  Electric energy to light energy
+vi) Chemical energy to light energy
 9)  Write down the points to differentiate work, energy and  power in the
-  following table.
-|     Work                            | Energy   |     |        Power  |     |
-| ----------------------------------- | -------- | --- | ------------- | --- |
-|     1                               | 1        |     |   1           |     |
-|     2                               | 2        |     |   2           |     |
-|     3                               | 3        |     |   3           |     |
-| Science and Environment, class - 8  |          |     |               | 43  |
-
+following table.
+| Work | Energy | | Power  | |
+| Science and Environment, class - 8  | | | | 43  |
 10) Solve the following numerical problems.
-  a)  What is the energy required to lift an object of mass 25kg to a height
-|     of 10m?   |     |     |     | (Asn: 2450J) |
-| ------------- | --- | --- | --- | ------------ |
-  b)  If a stone of 0.5kg is thrown with speed of 5m/s, find its kinetic
-|     energy.   |     |     |     | (Ans: 6.25J)  |
-| ------------- | --- | --- | --- | ------------- |
-  c)  An inclined plane is 3m high. If a kid sits at its top, what will be
-|     his potential energy?   |     |     |     |   (Ans: 1176J)  |
-| --------------------------- | --- | --- | --- | --------------- |
-  d)  A man displaces a box through a distance 20m by applying 20N
-    force. What is his work done? If he takes 2 sec time for this work,
-|     calculate power.   |     |     |     | (Ans: 400J, 200W)  |
-| ---------------------- | --- | --- | --- | ------------------ |
-  e)  A person can carry 20 bricks at a time. Each brick weighs 10N.
-    If he takes 50s to carry 20 such bricks to a distance of 100m, what
-|     is his power?   |     |     |                                    | (Ans: 400W)  |
-| ------------------- | --- | --- | ---------------------------------- | ------------ |
-| 44                  |     |     | Science and Environment, class - 8 |              |
-
+a)  What is the energy required to lift an object of mass 25kg to a height
+| of 10m? | | | | (Asn: 2450J) |
+b)  If a stone of 0.5kg is thrown with speed of 5m/s, find its kinetic
+| energy. | | | | (Ans: 6.25J)  |
+c)  An inclined plane is 3m high. If a kid sits at its top, what will be
+| his potential energy? | | | | (Ans: 1176J)  |
+d)  A man displaces a box through a distance 20m by applying 20N
+force. What is his work done? If he takes 2 sec time for this work,
+| calculate power. | | | | (Ans: 400J, 200W)  |
+e)  A person can carry 20 bricks at a time. Each brick weighs 10N.
+If he takes 50s to carry 20 such bricks to a distance of 100m, what
+| is his power? | | | | (Ans: 400W)  |
+| 44 | | | Science and Environment, class - 8 | |
 Unit
-6
 Heat
 Heat and temperature
 When we touch a piece of ice, we feel cold. Similarly, if we touch a heated
@@ -1633,7 +1434,6 @@ Thus, the hot water loses heat but cold gains heat when they are mixed.
 Heat always flows from a body at higher temperature to the body at lower
 temperature.
 Science and Environment, class - 8 45
-
 Relation between heat and temperature
 The temperature of a body increases when it is heated. Similarly, its
 temperature decreases when it is cooled. It means, heat is the cause to
@@ -1663,7 +1463,6 @@ Mercury Capillary tube
 Stem
 Fig. 6.1
 46 Science and Environment, class - 8
-
 called mercury. Mercury is a good conductor of heat since it is a metal.
 When the bulb of a thermometer is placed in contact with a hot body, the
 mercury is heated and starts to expand. When it expands, its level rises in
@@ -1697,7 +1496,6 @@ Fill about half of a Round Bottomed Flask (RB Flask) with water. Fix a
 thermometer and an L-shaped glass tube through a two-holed cork on the
 mouth of the flask. Heat the flask over a tripod stand with a burner as shown
 Science and Environment, class - 8 47
-
 in figure. The level of mercury rises as water is heated and stops at a point.
 Fig. 6.2 Fig. 6.3
 Note the constant temperature when the water is boiling. This is boiling
@@ -1720,7 +1518,6 @@ one degree Fahrenheit.
 Transformation of unit of temperature
 Generally, there are two types of scales of temperature.
 48 Science and Environment, class - 8
-
 a) Celsius scale: In this scale, the lower fixed point is 0oC and the upper fixed
 point is 100oC.
 b) Fahrenheit scale: In this scale, the lower fixed point is 32oF and the upper
@@ -1730,16 +1527,13 @@ divided into 100 equal parts. But in Fahrenheit scale, the interval is divided
 into 180 equal parts. 0o in Celsius scale corresponds to 32o in Fahrenheit
 scale.
 \ 0oC = 32oF
-=
 The relation between Celsius and Fahrenheit scale is given by following
 equation as C - 0 F – 32
-100 180
 Example 1
 Convert 37oC into Fahrenheit scale.
 Here, C-0/100 = F-32/180
 Or, 37-0/100 = F-32/180
 or, F = 37/100 ×180+32
-= 66.6+ 32 = 98.6
 Therefore, 37oC = 98.6oF
 Example 2
 Express -40°F in to Celsius scale.
@@ -1751,7 +1545,6 @@ C = -40oC
 Therefore -40oF=- 40oC
 Types of thermometer
 Science and Environment, class - 8 49
-
 There are different types of thermometer depending upon the structure
 and their uses.
 a) Clinical thermometer
@@ -1768,7 +1561,7 @@ prismatic. Due to this shape, we can see magnified view of the thread of
 the mercury in the capillary tube when observed from a suitable angle.
 Nowadays, digital clinical thermometer has been used. In this thermometer
 mercury or alcohol is not used.
-b) Laboratory thermometer (simple thermometer)
+b) Laboratory thermometer (simple thermometer
 It is a simple thermometer. It is simply cylindrical and long in structure.
 Mercury is used in this thermometer. When its bulb is placed in contact
 with a hot body, the volume of mercury increases and hence the level of
@@ -1788,12 +1581,11 @@ lower temperature.
 4) Heat is a cause whereas temperature is an effect.
 5) An instrument which is used to measure temperature of a body is called
 50 Science and Environment, class - 8
-
 thermometer.
 6) In general, two scales are used in thermometer, Celsius and Fahrenheit.
 7) The thermometer used to measure temperature of human body is called
 Clinical thermometer.
-8) The thermometer used in laboratory is called simple (laboratory)
+8) The thermometer used in laboratory is called simple (laboratory
 thermometer.
 9) The working principle of a thermometer is that liquid expands on heating
 and contracts on cooling.
@@ -1818,7 +1610,6 @@ d) What is the temperature of human body?
 i) 35oC ii) 37oC iii) 42oC iv) 108oC
 e) What is the range of the temperature measured by a simple thermometer?
 Science and Environment, class - 8 51
-
 i) 0 oC to 100 oC ii) 10 oC to 100 oC
 iii) -10 oC to 110 oC iv) 10 oC to 110 oC
 3) Differentiate between.
@@ -1842,12 +1633,10 @@ and alcohol thermometer, why?
 c) There is constriction made in a clinical thermometer, why?
 d) The wall of the bulb in a thermometer is made thin, why?
 52 Science and Environment, class - 8
-
 Unit
 7 Light
 Light is a form of energy which enables us to see
 objects. We are able to see the things around us and
-Ray
 enjoy natural beauty due to the light. Light travels
 in a straight path through a medium. The narrow
 part of light is represented by a straight line. The
@@ -1872,16 +1661,12 @@ Mirror is an instrument which reflects
 light falling on it and forms image of the object.
 Generally mirrors are of two types: i) Plane mirror ii) Spherical mirror.
 i) Plane mirror
-(ii) Spherical mirror
+ii) Spherical mirror
 i) Plane mirror
 If the reflecting surface of a mirror is flat and smooth, this type of mirror
 is called a plane mirror. Plane mirrors are used as looking glass at home
 Science and Environment, class - 8 53
-
 54 Science and Environment, class - 8
-B
-B
-r
 and in bathroom. To draw a mirror, we draw
 a straight line as reflecting surface. On the
 other side we shade to indicate non-reflecting
@@ -1898,7 +1683,6 @@ The image formed by a plane mirror is erect, virtual (that cannot be obtained
 on a screen), of the same size as the object and formed at a distance equal
 to the object distance. The image thus formed on a plane mirror is laterally
 inverted (or left appearing right and right appearing left).
-r
 Fig. 7.4
 b) Spherical mirrors
 We use plane mirrors as a looking glass in our home, parlors etc. But all
@@ -1915,7 +1699,6 @@ Spoon
 Convex surface
 raised at the center, called a convex surface.
 F ig. 7.5
-
 i) Concave Mirror Focus
 Concave
 mirror
@@ -1927,7 +1710,6 @@ is called concave mirror. The parallel
 light
 beam of light is converged at a point
 after reflection on a concave mirror. This
-f
 point is called focus. Concave mirror is
 also called a converging mirror because it Fig. 7.6
 converge parallel beam of light incident
@@ -1961,7 +1743,6 @@ shifting the mirror? Again bring the mirror nearer and look at your face if
 the image is erect or inverted. Is the image enlarged or diminished than
 before? What can be learnt about the mirror from this experiment?
 Science and Environment, class - 8 55
-
 Real and virtual image
 Activity:4
 Take a concave mirror and turn it towards a window. Hold a white cardboard
@@ -1994,7 +1775,6 @@ The geometrical center of reflecting surface of a mirror is called the
 pole of mirror. It is denoted by P. All the distances are measured
 from this point.
 56 Science and Environment, class - 8
-
 b) Center of curvature
 A spherical mirror (Concave or Convex) is a part of whole sphere of
 glass. The center of the sphere from which the mirror is formed is called
@@ -2022,12 +1802,11 @@ The diagram that represents the image formed by a spherical mirror is called
 a ray diagram. Ray diagrams ascertain the size, location and distance of
 image formed by a spherical mirror.
 Science and Environment, class - 8 57
-
 Rules used to draw ray diagrams in concave mirror
 i) The rays of light parallel to the principal axis
 passes through the focus after reflection.
 ii) The rays of light passing through the focus Fig. 7.10
-(F) reflect parallel to the principal axis.
+F) reflect parallel to the principal axis.
 iii) The rays of light passing through the center of
 curvature reflect through the same path.
 Fig. 7.11
@@ -2055,7 +1834,6 @@ which intersects MF at A’.
 d) Draw A’B’ perpendicular to the principal axis. Here A’B’ is the image
 of AB.
 58 Science and Environment, class - 8
-
 e) Measure the size and position of A’B’.
 The image is diminished, inverted and real which lies between F and C.
 Ray diagram for concave mirror
@@ -2071,10 +1849,8 @@ inverted and highly diminished in size.
 Fig. 7.13
 ii) Object at a point beyond C
 When an object is placed at a point beyond
-F
 C, its image is formed between C and F.
 Object Image
-C
 The formed image is inverted, real and
 diminished.
 Fig. 7.14
@@ -2094,7 +1870,6 @@ mirror. The image formed by a convex mirror is
 Fig. 7.15b
 always virtual, erect and diminished.
 Science and Environment, class - 8 59
-
 i) Object at infinity
 When an object is placed in front of a convex
 mirror at infinity, the image is formed at its
@@ -2102,7 +1877,7 @@ focus behind the mirror. The image is virtual,
 erect and highly diminished.
 ii) Object between P and infinity (object in
 Fig. 7.16
-front of a convex mirror)
+front of a convex mirror
 When an object is placed at any point in
 front of a convex mirror, its image is formed
 between P and F behind the mirror. The
@@ -2128,7 +1903,6 @@ When we see the rivers, lakes, ponds, well, etc., the real depth of water
 seems to be less than its real depth. Similarly, if we dip a straight stick up
 to its half-length in water, it is seen to be bent. Why does it seem so?
 60 Science and Environment, class - 8
-
 The medium through which the light travels is called an optical medium.
 Air, water, kerosene, glass, plastic, etc. are called optical medium because
 light can travel through them. Light can travel even without medium. Light
@@ -2137,19 +1911,13 @@ at the interface of two mediums when it travels from one optical medium
 to another optical medium. The process of bending of light when it travels
 from one optical medium to another is called refraction of light.
 Cause of refraction
-M
-P
 The speed of light is different in different Q Normal
-Air
 media. Higher the density of medium, lesser is A X B
 the speed of light and vice versa. As the speed Glass slab
 of light is different in different media, it bends M
-1
 when it travels from one optical medium to C D
 N Y R
 other. The medium whose density is relatively Z
-S
-M
 high is called denser medium and that having 2
 relatively low density is called rarer medium.
 Fig. 7.18
@@ -2170,9 +1938,7 @@ viii) Join the points R and S and extend RS also to meet the side CD at Y.
 ix) Join X and Y.
 x) Extend PQ to a point Z with dotted line.
 xi) Draw perpendiculars MN and M M2 at the points X and Y respectively.
-1
 Science and Environment, class - 8 61
-
 Here the ray PX travelling from air to glass is called incident ray. The ray
 of light XY is called refracted ray. And the ray YS is coming out of the
 slab is called emergent ray. XZ is the original path of the incident ray. The
@@ -2206,7 +1972,6 @@ bottom has risen or shallower. These are the effects of refraction of light.
 Understanding question
 Is it possible to spear a fish in the water, why?
 62 Science and Environment, class - 8
-
 Experimental work
 Study activity 4 and demonstrate a real image formed by a concave mirror.
 Also measure the focal length of the mirror.
@@ -2242,7 +2007,6 @@ enlarged or diminished according to the position of the object.
 11. Concave mirrors are used in torch, search lights, as headlights of motors,
 as looking glass in parlors and saloons, in telescopes or in solar stoves, etc.
 Science and Environment, class - 8 63
-
 12. Convex mirrors are used to make looking glass of vehicles, reflectors
 in street lamps etc.
 13. The process of bending of light when it passes from one medium to
@@ -2270,7 +2034,6 @@ c) What type of image is called real image?
 i) that cannot be obtained on a screen
 ii) that can be obtained on a screen
 64 Science and Environment, class - 8
-
 iii) an erect image
 iv) an inverted image
 d) Concave mirror is also called..........
@@ -2298,26 +2061,21 @@ a) What is refraction of light?
 b) What type of mirror is called a spherical mirror?
 c) Concave mirror is used to make a solar stove, why?
 Science and Environment, class - 8 65
-
 7. Answer the question with a figure: what type of image is formed by
 a concave mirror when object is placed;
-a) at a point beyond the center of curvature (C)
+a) at a point beyond the center of curvature (C
 b) at infinity
 8. Complete the following figures and answer the questions followed:
 i) What is the name of the process given in figure?
 ii) Write two laws of the process.
-N
-Air
-N
-Air
 Glass
 Glass
-N
 66 Science and Environment, class - 8
-
 unit
 Sound
-8
+
+## 8: Sound is a form of energy. Sound is produced from different kinds of sources  {#ch-8}
+
 Sound is a form of energy. Sound is produced from different kinds of sources
 in our environment. It is produced due to vibration of objects. When a body
 of an object is vibrated, waves are produced. Sound energy is transmitted
@@ -2346,7 +2104,6 @@ directions. This type of wave is called longitudinal wave. When the sound
 propagates, energy transfers from one point to another. While the threads
 of the string remain unchanged.
 Science and Environment, class - 8 67
-
 Wave length:
 The distance between one compression to another nearest compression or
 one rarefaction to another nearest rarefaction of wave propagation is called
@@ -2355,8 +2112,8 @@ in meter.
 Frequency:
 The number of vibrations per second is called frequency. Its symbol is f and
 its unit is hertz (Hz).The bigger units of hertz are kilohertz (KHz) and (MHz).
-1000 Hertz (Hz) =103 Hertz=1 kilohertz (KHz)
-1000000 Hertz (Hz) =106 Hertz (Hz) =1 Megahertz (MHz)
+1000 Hertz (Hz) =103 Hertz=1 kilohertz (KHz
+1000000 Hertz (Hz) =106 Hertz (Hz) =1 Megahertz (MHz
 Question to think:
 The frequency of sound wave is 50 Hz. What does it mean?
 Speed of sound:
@@ -2365,7 +2122,7 @@ in every second. That is why, the sound travels the distance equal to 50
 wavelengths in one second. Suppose the wavelength is 6.6 m, then it
 propagates 50 wavelengths (50 x 6.6) in one second.
 Therefore, the speed of sound wave (v)=50 x 6.6m/s=330m/s.
-Or, the speed (v) =frequency (f) × wave length ( λ)
+Or, the speed (v) =frequency (f) × wave length ( λ
 Or, v = f x λ
 Example: 1
 What will be the speed of sound wave if its wave length is 3.3m with 100
@@ -2377,7 +2134,6 @@ Wavelength ( λ) = 3.3 m or, V =100 x 3.3
 or, V =330m/sec
 Therefore, the speed of sound is 330m/s.
 68 Science and Environment, class - 8
-
 Example: 2
 If the speed of sound is 360m/s and its frequency is 45Hz, What will be
 its wavelength?
@@ -2396,7 +2152,7 @@ process is called reflection. Reflected sound is known as echo.
 Echo:
 Reflection of sound can be experienced (heard) in deep wells, long tunnel,
 deep ridges of the mountains, deep forest, etc. The sound which is obtained
-(heard) after reflection is called an echo. The shortest distance between
+heard) after reflection is called an echo. The shortest distance between
 source and reflector should be 17 meter to hear an echo. Due to the loss of
 energy the echo is feeble than the original sound.
 Reverberation:
@@ -2412,7 +2168,6 @@ reverberation does not occur because certain extent of sound is absorbed
 by the objects. During reverberation both the sounds are not heard clearly
 in big halls. The reflection of sound can be prevented in big halls by using
 Science and Environment, class - 8 69
-
 sound absorbents on the wall of the hall. Big halls and music rooms are
 constructed in such a way that the sounds after striking on the walls create
 proper reverberation. The appropriate reverberation of the sound makes
@@ -2436,7 +2191,7 @@ Time taken (t) =0.1s d = v.t/2
 Distance (d) = ? or, d = 332 x 0.1/2
 or, d = 16.6m
 Therefore, the distance between source and reflecting surface is 16.6m
-(approximately 17m).
+approximately 17m).
 Practical activities:
 Produce sound nearby your school or residential area or jungle, ridge of
 hill, etc. Is echo produced? Observe. What time does it take to hear echo
@@ -2446,7 +2201,6 @@ Summary:
 1. Sound is produced due to vibration of objects.
 2. Sound propagates in the form of wave.
 70 Science and Environment, class - 8
-
 3. If the direction of the wave propagation and the direction of vibration
 of particles of the medium are same, the wave is called longitudinal
 wave.
@@ -2478,21 +2232,16 @@ e. The frequency of sound wave is 70Hz. What does it mean?
 3. What is the difference between echo and reverberation? Write points
 in a table.
 Science and Environment, class - 8 71
-
-4.   If the speed of sound in air is 332m/s and frequency is 10 Hz.
-|  What is its wave length?   |     |     |   (Ans: 33.2m) |
-| --------------------------- | --- | --- | -------------- |
-5.   The speed of sound is 330m/s, its wavelength is3.3 meter. What is its
-| frequency?   |     |     |   (Ans: 100Hz) |
-| ------------ | --- | --- | -------------- |
-6.   The wavelength of sound is 15m and its frequency is100Hz. What is
-its speed?             (Ans: 1500m/s)
-7.   A man sitting nearby a cave of mountain hears the clear echo of
+4. If the speed of sound in air is 332m/s and frequency is 10 Hz.
+|  What is its wave length? | | | (Ans: 33.2m) |
+5. The speed of sound is 330m/s, its wavelength is3.3 meter. What is its
+| frequency? | | | (Ans: 100Hz) |
+6. The wavelength of sound is 15m and its frequency is100Hz. What is
+its speed? (Ans: 1500m/s
+7. A man sitting nearby a cave of mountain hears the clear echo of
 his whistle in 0.25 second. How far is he from mountain? (Take
-| v=332m/s).    |     |                                    |   (Ans: 33.2m) |
-| ------------- | --- | ---------------------------------- | -------------- |
-| 72            |     | Science and Environment, class - 8 |                |
-
+| v=332m/s). | | | (Ans: 33.2m) |
+| 72 | | Science and Environment, class - 8 | |
 Unit
 9 Magnetism
 Molecular theory of magnets
@@ -2526,7 +2275,6 @@ to opposite end. Two ends of the magnet are called North Pole and
 South Pole. The magnetic force is found higher in these two poles in
 comparison to middle part.
 Science and Environment, class - 8 73
-
 4. The poles of magnet cannot be separated. The molecules of the magnetic
 substances retain magnetic property. They are called molecular magnets.
 When molecular magnets align in rows, then the substances exhibit
@@ -2565,7 +2313,6 @@ The process of gaining or obtaining temporary magnetism in magnetic
 material due to the effect of a magnet is called magnetic induction.
 Magnetic induction occurs in the nail before the magnet attracts it. Then,
 74 Science and Environment, class - 8
-
 the nail becomes a temporary magnet. In the magnetic induction, the end
 of the nail closer to North Pole becomes South pole and the end of the nail
 away from North pole becomes North pole. Now, the magnet attracts the
@@ -2600,7 +2347,6 @@ you learn from this? Write.
 2. On the basis of activity 1, verify practically that the magnetic poles
 cannot be separated with each other.
 Science and Environment, class - 8 75
-
 Summary:
 1. Magnet and magnetic materials are made up of molecular magnet.
 2. When all the molecular magnets are set in one direction magnetic
@@ -2630,7 +2376,6 @@ c. What is magnetic induction?
 d. What are the causes of demagnetization?
 e. Write the ways of the conserving of magnetic properties of a magnet.
 76 Science and Environment, class - 8
-
 3. Give a reason.
 a. When a magnet is broken into small pieces its poles cannot be separated
 from each other.
@@ -2644,9 +2389,10 @@ ii. What do you understand by the position of molecules in figure b?
 iii. Which principle is showed by this figure?
 6. Justify a magnetic induction with the help of practical activity?
 Science and Environment, class - 8 77
-
 Unit
-10
+
+## 10: Electricity  {#ch-10}
+
 Electricity
 Simple cell:
 Have you ever seen cell? How is the structure of cell? How does it produce
@@ -2681,9 +2427,7 @@ type of effect is called polarization.
 Ways to control polarization
 i. Copper electrode should be brushed time to time.
 78 Science and Environment, class - 8
-
 ii. A concentrated solution of potassium dichromate (K Cr O7) is added
-2 2
 to the solution.
 2. Local action
 Generally, impure zinc plate is used to make simple cell. Therefore the
@@ -2708,8 +2452,7 @@ dioxide is put inside the can which
 forms a layer around the carbon
 rod. The mixture is covered by jelly
 like paste of ammonium chloride
-(NH Cl).The open end of the zinc
-4
+NH Cl).The open end of the zinc
 can is sealed with wax, tar, or plastic Fig. 10.2
 etc. to protect the materials inside it. A brass cap is set on upper end of
 the carbon rod. The zinc can act as a negative terminal and the carbon rod
@@ -2719,9 +2462,7 @@ Uses:
 2. It can be constructed in a different size.
 3. It is easy to use in torch, radio, remote of television, doll, etc.
 Science and Environment, class - 8 79
-
 The presence of manganese dioxide (MnO ) in this type of cell prevents
-2
 polarization. But local action takes place which reduces the life of the cell.
 House wiring system
 Electricity is generated from electric power station. Generally, electric power
@@ -2758,7 +2499,6 @@ iron, immersion heater, electrical kettle, etc.
 It is a device which runs through electromagnet. At first, a temporary
 magnet is made with the help of electricity. The sound is produced
 80 Science and Environment, class - 8
-
 by the movement of hammer due to magnetic energy. The switch of
 electric bell is placed on the outside of the gate. A person coming from
 the outside can ring the bell to show the signal of arrival. Nowadays,
@@ -2796,8 +2536,7 @@ slightly greater than the total current passing through the circuit. When the
 fuse wire melts, it is necessary to replace it with another fuse wire. Fuse is
 connected to live wire.
 Science and Environment, class - 8 81
-
-Miniature circuit breaker: (MCB)
+Miniature circuit breaker: (MCB
 MCB is the modified (or developed) form of fuse. It prevents
 us from electrical accidents by breaking the circuit when
 current overflows in it. It cuts off the flow of current when
@@ -2825,7 +2564,6 @@ mobile, computer, etc. are the electrical devices.
 circuit is called fuse wire which is made up of Tin and Lead.
 7. MCB is the developed form of fuse.
 82 Science and Environment, class - 8
-
 Exercise:
 1. Fill in the blanks with appropriate words.
 a. Zinc plate in a simple cell acts as……..
@@ -2844,9 +2582,10 @@ e. Write the name of electrical devices which are used in your house?
 5. How does a fuse work? Write.
 6. What is the difference between fuse and MCB? Write.
 Science and Environment, class - 8 83
-
 Unit
-11
+
+## 11: Matter  {#ch-11}
+
 Matter
 There are different kinds of matter around us. Some matters are pure
 whereas others are impure. Impure and complex matters can be broken or
@@ -2878,16 +2617,13 @@ into simpler matters with chemical reaction. An atom is made up of three
 different types of particles called sub-atomic particles. They are: proton,
 neutron and electron.
 84 Science and Environment, class - 8
-
 Proton and neutron reside in the center of proton
 electron
 an atom called nucleus. The electrons are
 found around the nucleus revolving round the
 nucleus. The circular path through which the
 electrons revolve round the nucleus is called - o + o
-- +
 orbit or shell. o +o
--
 Proton
 A proton is a positively charged particle, located
 at the center of the atom, i.e., nucleus. The nucleus A neutral neutron
@@ -2899,7 +2635,7 @@ Neutron:
 It is an electrically neutral or chargeless particle located in the nucleus
 of the atom. The mass of one neutron is nearly equal to the mass of one
 proton. Therefore, the mass of neutron is expressed in atomic mass unit
-(amu). Except hydrogen, all elements contain neutrons.
+amu). Except hydrogen, all elements contain neutrons.
 Electron
 An electron is a negatively charged particle. It revolves round the nucleus
 in a fixed path. The path of revolving electron is called an orbit or shell.
@@ -2917,185 +2653,147 @@ Therefore, the mass of 6 x 1023 protons = 1gm.
 The mass of one proton is nearly equal to the mass of one neutron but
 the mass of an electron is nearly 1/1837 parts of the mass of one proton.
 Science and Environment, class - 8 85
-
 Therefore, the mass of 1837 electrons is equal to the mass of one proton.
-:.  1 p+ =   1no     =1837 e–     = 1 amu.
+:.  1 p+ = 1no =1837 e– = 1 amu.
 Electric charge
-Proton and electron have electric charge : positive (+ve) and negative (-ve)
+Proton and electron have electric charge : positive (+ve) and negative (-ve
 charge respectively. It is measured in coulomb. In short it is written as
-              1 coulomb   =      6.25 x 1018 electrons.
+1 coulomb = 6.25 x 1018 electrons.
 A neutral atom consists of equal number of protons and electrons. That is
 why, generally, atoms are electrically neutral. It is due to presence of equal
 amount of positive and negative electric charge in the atom.
 Comparative study of the proton, electron and neutron
 | Sub-atomic particle | symbol  | mass | Charge | location |
-| ------------------- | ------- | ---- | ------ | -------- |
-| Proton              | P+      | 1amu | +      | nucleus  |
+| Proton | P+ | 1amu | + | nucleus  |
 e–
-| Electron |     | 1/1837 amu | -   | shell   |
-| -------- | --- | ---------- | --- | ------- |
-| Neutron  | no  | 1 amu      | nil | nucleus |
+| Electron | | 1/1837 amu | - | shell |
+| Neutron  | no  | 1 amu | nil | nucleus |
 Atomic number:
 The number of protons presents in the nucleus of an atom is called atomic
 number. In a neutral atom, the number of protons is equal to the number
 of electrons, so
-| Atomic number      | =   Number of protons (p+)      |     |     |     |
-| ------------------ | ------------------------------- | --- | --- | --- |
-|                    |   =   No of electrons (e–)      |     |     |     |
+| Atomic number | = Number of protons (p+) | | | |
+| | = No of electrons (e–) | | | |
 Atomic weight or atomic mass:
 The atomic weight or mass of an atom denotes the sum of mass of protons
 and mass of neutrons present in it. The mass of an electron is negligible.
-Atomic weight = Number of protons (p+)   + Number of neutrons (no)
-Therefore, number of neutrons (no)   = Atomic weight – Number of protons (p+)
-|       |     |   =Atomic weight - Atomic number |     |     |
-| ----- | --- | -------------------------------- | --- | --- |
-    :. no   =   At.wt -At. No.
-| 86  |     | Science and Environment, class - 8 |     |     |
-| --- | --- | ---------------------------------- | --- | --- |
-
+Atomic weight = Number of protons (p+) + Number of neutrons (no
+Therefore, number of neutrons (no) = Atomic weight – Number of protons (p+
+| | | =Atomic weight - Atomic number | | |
+:. no = At.wt -At. No.
+| 86  | | Science and Environment, class - 8 | | |
 Example: 1
 The atomic number and weight of the potassium is 19 and 39 respectively.
 Calculate, how many numbers of protons, neutrons and electrons are found
 in it?
-| Here, Atomic number (p+)   |     | = 19 |     |
-| -------------------------- | --- | ---- | --- |
-  Atomic weight (e–)           =    39
+| Here, Atomic number (p+) | | = 19 | |
+Atomic weight (e–) = 39
 Then, atomic number = number of protons (p+) =number of electrons (e–) =19
-:. ( p+) =   19,
-  (e–)    =19
+:. ( p+) = 19,
+e–) =19
 Again, atomic number = p+ + n0
-|                                            | 39    = 19   +   no       |     |     |
-| ------------------------------------------ | ------------------------- | --- | --- |
-|                                            | 0r, n0   =   39 -19   =20 |     |     |
-|       :.  P+   =19,   e–   =19 and n0 = 20 |                           |     |     |
+| | 39 = 19 + no | | |
+| | 0r, n0 = 39 -19 =20 | | |
+| :.  P+ =19, e– =19 and n0 = 20 | | | |
 Electronic configuration of an atom:
 The proton and neutron are located in the center of the atom or at nucleus.
 An electron revolves round the nucleus in an elliptical orbit or shell at high
 speed. The electrons spinning at high speed establish a permanent path
-(shell). These electrons revolve in a fixed path(shell) at a fixed distance from
+shell). These electrons revolve in a fixed path(shell) at a fixed distance from
 the nucleus. The fixed paths are named as K, L, M, N, etc. The maximum
 number of electrons that each shell can hold can be found by using 2n2
 formula, where n is the number of shell or orbit. For example,
-|  Shell                      | Number of shell(n)   Number of electron |                   |     |
-| --------------------------- | --------------------------------------- | ----------------- | --- |
-| First shell= K              | n= 1                                    | 2n2   = 2 x 12 =2 |     |
+|  Shell | Number of shell(n) Number of electron | | |
+| First shell= K | n= 1 | 2n2 = 2 x 12 =2 | |
 P +
-3218 8 2 0 K   L    M  N
-n
-| Second shell =L    n =2              |     | 2n2   = 2 x 22  = 8   |     |
-| ------------------------------------ | --- | --------------------- | --- |
-| Third shell =M     n  = 3            |     | 2n2    =  2 x 32  =18 |     |
+3218 8 2 0 K L M  N
+| Second shell =L n =2 | | 2n2 = 2 x 22  = 8 | |
+| Third shell =M n  = 3 | | 2n2 =  2 x 32  =18 | |
 Maximum no. of electrons
-| Forth shell =N  | n  =4           | 2n2  = 2 x 42 = 32  | Shell  |
-| --------------- | --------------- | ------------------- | ------ |
+| Forth shell =N  | n  =4 | 2n2  = 2 x 42 = 32  | Shell  |
 Fig. 11.2
 This formula is applied only for a few elements because no atom can hold
 more than 8 electron in outermost shell.
-| Science and Environment, class - 8  |     |     | 87  |
-| ----------------------------------- | --- | --- | --- |
-
+| Science and Environment, class - 8  | | | 87  |
 The electronic configuration, atomic number, atomic mass, number of
 proton, number of electron and number of neutron of first 20 elements are
 given below:
-| Name of    | Sym- | At.  At.wt. P+ | e– no | Electronic configuration |     |
-| ---------- | ---- | -------------- | ----- | ------------------------ | --- |
-| elements   | bol  | no.            |       | K L                      | M N |
-| Hydrogen   | H    | 1 1 1          | 1 o   | 1 -                      |     |
-| Helium     | He   | 2 4 2          | 2 2   | 2 -                      |     |
-| Lithium    | Li   | 3 7 3          | 3 4   | 2 1                      |     |
-| Beryllium  | Be   | 4 9 4          | 4 5   | 2 2                      |     |
-| Boron      | B    | 5 11 5         | 5 6   | 2 3                      |     |
-| Carbon     | C    | 6 12 6         | 6 6   | 2 4                      |     |
-| Nitrogen   | N    | 7 14 7         | 7 7   | 2 5                      |     |
-| Oxygen     | O    | 8 16 8         | 8 8   | 2 6                      |     |
-| Fluorine   | F    | 9 19 9         | 9 10  | 2 7                      |     |
-| Neon       | Ne   | 10 20 10       | 10 10 | 2 8                      |     |
-| Sodium     | Na   | 11 23 11       | 11 12 | 2 8                      | 1   |
-| Magnesium  | Mg   | 12 24 12       | 12 12 | 2 8                      | 2   |
-| Aluminum   | Al   | 13 27 13       | 13 14 | 2 8                      | 3   |
-| Silicon    | Si   | 14 28 14       | 14 14 | 2 8                      | 4   |
-| Phosphorus | P    | 15 31 15       | 15 16 | 2 8                      | 5   |
-| Sulphur    | S    | 16 32 16       | 16 16 | 2 8                      | 6   |
-| Chlorine   | Cl   | 17 35 17       | 17 18 | 2 8                      | 7   |
-| Argon      | Ar   | 18 40 18       | 18 22 | 2 8                      | 8   |
-| Potassium  | K    | 19 39 19       | 19 20 | 2 8                      | 8 1 |
-| Calcium    | Ca   | 20 40 20       | 20 20 | 2 8                      | 8 2 |
- The electronic configuration of some elements:
-| 1. Hydrogen                         |     |       | 2.   Helium           |     |     |
-| ----------------------------------- | --- | ----- | --------------------- | --- | --- |
-|     Atomic number = 1               |     |       |      Atomic number =2 |     |     |
-   Atomic weight = 1                                     Atomic weight = 4
-|            |       |      | Shell    | K  L    | M  N |
-| ---------- | ----- | ---- | -------- | ------- | ---- |
-| Shell      | K  L  | M  N |          |         |      |
-|            |       |      |          | =       |      |
-|            |       |      | no. of e | 2  –    | – –  |
-| no. of e.  | 1  –  | –  – |          |         |      |
-|            |       |      |          | e e     |      |
+| Name of | Sym- | At.  At.wt. P+ | e– no | Electronic configuration | |
+| elements | bol  | no. | | K L | M N |
+| Hydrogen | H | 1 1 1 | 1 o | 1 - | |
+| Helium | He | 2 4 2 | 2 2 | 2 - | |
+| Lithium | Li | 3 7 3 | 3 4 | 2 1 | |
+| Beryllium  | Be | 4 9 4 | 4 5 | 2 2 | |
+| Boron | B | 5 11 5 | 5 6 | 2 3 | |
+| Carbon | C | 6 12 6 | 6 6 | 2 4 | |
+| Nitrogen | N | 7 14 7 | 7 7 | 2 5 | |
+| Oxygen | O | 8 16 8 | 8 8 | 2 6 | |
+| Fluorine | F | 9 19 9 | 9 10  | 2 7 | |
+| Neon | Ne | 10 20 10 | 10 10 | 2 8 | |
+| Sodium | Na | 11 23 11 | 11 12 | 2 8 | 1 |
+| Magnesium  | Mg | 12 24 12 | 12 12 | 2 8 | 2 |
+| Aluminum | Al | 13 27 13 | 13 14 | 2 8 | 3 |
+| Silicon | Si | 14 28 14 | 14 14 | 2 8 | 4 |
+| Phosphorus | P | 15 31 15 | 15 16 | 2 8 | 5 |
+| Sulphur | S | 16 32 16 | 16 16 | 2 8 | 6 |
+| Chlorine | Cl | 17 35 17 | 17 18 | 2 8 | 7 |
+| Argon | Ar | 18 40 18 | 18 22 | 2 8 | 8 |
+| Potassium  | K | 19 39 19 | 19 20 | 2 8 | 8 1 |
+| Calcium | Ca | 20 40 20 | 20 20 | 2 8 | 8 2 |
+The electronic configuration of some elements:
+| 1. Hydrogen | | | 2. Helium | | |
+| Atomic number = 1 | | | Atomic number =2 | | |
+Atomic weight = 1 Atomic weight = 4
+| | | | Shell | K  L | M  N |
+| Shell | K  L  | M  N | | | |
+| | | | no. of e | 2  – | – –  |
+| no. of e.  | 1  –  | –  – | | | |
+| | | | | e e | |
 2p
-e
 1p
 2n
-| Fig. 11.3a |     |     |                                    | Fig. 11.3b |     |
-| ---------- | --- | --- | ---------------------------------- | ---------- | --- |
-| 88         |     |     | Science and Environment, class - 8 |            |     |
-
-| 3. Lithium                         |     |     |     |                           4. Neon |     |     |     |     |     |     |     |
-| ---------------------------------- | --- | --- | --- | --------------------------------- | --- | --- | --- | --- | --- | --- | --- |
-|                                    |     |     |     |                                   |     |     |     |     |     | e   | e   |
-e
-Atomic number = 3          3 p                          Atomic number = 10 e
-|     |     |     |     | e   | e   |     |     |     |     | e 10p | e   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ----- | --- |
+| Fig. 11.3a | | | | Fig. 11.3b | |
+| 88 | | | Science and Environment, class - 8 | | |
+| 3. Lithium | | | | 4. Neon | | | | | | | |
+| | | | | | | | | | | e | e |
+Atomic number = 3 3 p Atomic number = 10 e
+| | | | | e | e | | | | | e 10p | e |
 4n
 10n
-Atomic weight = 7                                     Atomic weight = 20 Fig. 11.3c e
-|     |     |     |     |     |     |     |     |     |     | e   | e   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-e
-| Shell  |     | K   L   |  M    N  |     |       Shell  |     |   K  | L   M  |   N |     |     |
-| ------ | --- | ------- | -------- | --- | ------------ | --- | ---- | ------ | --- | --- | --- |
+Atomic weight = 7 Atomic weight = 20 Fig. 11.3c e
+| | | | | | | | | | | e | e |
+| Shell  | | K L |  M N  | | Shell  | | K  | L M  | N | | |
 Fig. 11.3d
-|  No of e–  |     | 2    1  |  –  | -   |       No of e–  |     |   2  | 8   -       - |     |     |     |
-| ---------- | --- | ------- | --- | --- | --------------- | --- | ---- | ------------- | --- | --- | --- |
-
-e
-5. Sodium                               e                             6. Argon
-|     |     |     |     | e   |     |     |     |     |     |       | e   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ----- | --- |
-|     |     |     |     | e   | e   |     |     |     |     | e     |     |
-|     |     |     |     |     |     |     |     |     |     | e e e | e   |
-Atomic number   = 11    e      P  +        e         Atomic number = 18 e
+|  No of e–  | | 2 1  |  –  | - | No of e–  | | 2  | 8 - - | | | |
+5. Sodium e 6. Argon
+| | | | | e | | | | | | | e |
+| | | | | e | e | | | | | e | |
+| | | | | | | | | | | e e e | e |
+Atomic number = 11 e P  + e Atomic number = 18 e
 e P+
-|     |     |     |     | n 0 |     |     |     |     |     | e   | e   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     | e   |     |     |     |     |     | n0  | e   |
-Atomic weight = 23                  e   e            Atomic weight = 40         e    e
-|     |     |     |     | e   |     |     |     |     |     |     | e e |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | n 0 | | | | | | e | e |
+| | | | | e | | | | | | n0  | e |
+Atomic weight = 23 e e Atomic weight = 40 e e
+| | | | | e | | | | | | | e e |
 e e
-e
-|      Sh ell   |     | K    L  | M    | N   Fig. 11 .3e |     |        |       |                      |     |            |     |
-| ------------- | --- | ------- | ---- | --------------- | --- | ------ | ----- | -------------------- | --- | ---------- | --- |
-|               |     |         |      |                 |     | Shell  |       |    K    L     M    N |     | Fig. 11.3f |     |
-| No of e–      |     |  2  8   | 1    | –               |     |        |       |                      |     |            |     |
-|               |     |         |      |                 |     |        |       | 2   8   8    –       |     |            |     |
+| Sh ell | | K L  | M | N Fig. 11 .3e | | | | | | | |
+| | | | | | | Shell  | | K L M N | | Fig. 11.3f | |
+| No of e– | |  2  8 | 1 | – | | | | | | | |
+| | | | | | | | | 2 8 8 – | | | |
 NO. of e–
-7. Potassium                                      8. Calcium
-    Atomic number = 19                           Atomic number = 20
-    Atomic weight = 39                             Atomic weight = 40
-e
-|           |       |               |     | e         | e          |           |         |                 |     | e         | e   |
-| --------- | ----- | ------------- | --- | --------- | ---------- | --------- | ------- | --------------- | --- | --------- | --- |
-|           |       |               |     | e         | e          | Shell     |         | K   L    M    N |     | e         | e   |
-| Shell     | K     |   L    M    N |     | e e       | e e        |           |         |                 |     | e e       | e e |
-|           |       |               |     | e 1 9 p t |            |           |         |                 |     | 2 0 p t   |     |
-|           |       |               |     | e         | e          |           |         |                 |     | e         | e   |
-|           |       |               |     | 2 0 n 0   | e          | No. of e– |         | 2  8   8     2  |     | e 2 0 n e | e   |
-| No. of e– | 2     |  8   8    1   |     | e e       |            |           |         |                 |     | e         |     |
-|           |       |               |     | e         | e e        |           |         |                 |     | e         | e   |
-|           |       |               |     | e         |            |           |         |                 |     | e e       | e   |
-|           |       |               |     | e         | Fig. 11.3g |           |         |                 |     | e         |     |
+7. Potassium 8. Calcium
+Atomic number = 19 Atomic number = 20
+Atomic weight = 39 Atomic weight = 40
+| | | | | e | e | | | | | e | e |
+| | | | | e | e | Shell | | K L M N | | e | e |
+| Shell | K | L M N | | e e | e e | | | | | e e | e e |
+| | | | | e 1 9 p t | | | | | | 2 0 p t | |
+| | | | | e | e | | | | | e | e |
+| | | | | 2 0 n 0 | e | No. of e– | | 2  8 8 2  | | e 2 0 n e | e |
+| No. of e– | 2 |  8 8 1 | | e e | | | | | | e | |
+| | | | | e | e e | | | | | e | e |
+| | | | | e | | | | | | e e | e |
+| | | | | e | Fig. 11.3g | | | | | e | |
 Fig. 11.3h
 In reality, the shells through which electrons revolve
 round the nucleus are not circular as shown in the
@@ -3104,17 +2802,14 @@ figure but they are elliptical as shown in the figure
 understandable and demonstrative.
 Activity 1
 Method of making a model of oxygen atom
-| Required materials: |     |     |     |     |     |     |     | Fig. 11.4 |     |     |     |
-| ------------------- | --- | --- | --- | --- | --- | --- | --- | --------- | --- | --- | --- |
+| Required materials: | | | | | | | | Fig. 11.4 | | | |
 Soil (black soil), metal wire or thick thread, water, different colors, brush,
 glue, card board, etc.
 Procedure:
-1.   Make 24 small beads of clay. Among them 8 beads of each represent
+1. Make 24 small beads of clay. Among them 8 beads of each represent
 proton, neutron and electron and color them with different three colors
 to identify proton, neutron, and electron.
-| Science and Environment, class - 8  |     |     |     |     |     |     |     |     |     |     | 89  |
-| ----------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
+| Science and Environment, class - 8  | | | | | | | | | | | 89  |
 2. Stick a piece of thick thread or wire to represent a nucleus at the center
 part of a card board.
 3. Stick eight protons and eight neutrons inside the nucleus on the card
@@ -3154,7 +2849,6 @@ neither gain nor lose electrons. So its valency is zero. Such type of elements
 does not take part in chemical reaction. This state of having 8 electrons in
 the outermost shell is called octet, e.g., Neon, Argon, etc.
 90 Science and Environment, class - 8
-
 Molecular formula:
 Molecular formula is the group of symbols of elements to represent a
 molecule of a substance. For example molecular formula of sodium chloride
@@ -3166,42 +2860,28 @@ is called molecular formula. In order to write the molecular formula, you
 must know the elements present in the compound and their valency. The
 molecular formula is derived by the exchanging valences of the atoms. For
 example:
-|   1  |   1  | 1   | 1     |     | 4   | 2    |     |
-| ---- | ---- | --- | ----- | --- | --- | ---- | --- |
-|   H  |   Cl | Na  | Cl    |     | C   | O    |     |
-|      |      |     |       |     |     |      |     |
-|      | HCl  |     | NaCl  |     | C   | O .  |     |
-|      |      |     |       |     | 2   | 4    |     |
-        Hydrogen chloride     Sodium chloride  Carbon dioxide
-|   3   |   2    | 3   | 1    |     | 2    | 1   |     |
-| ----- | ------ | --- | ---- | --- | ---- | --- | --- |
-|   Al  |   O    | N   | H    |     | Mg   | Cl  |     |
-|       |        |     |      |     |      |     |     |
-|       | Al O   |     | NH   |     | MgCl |     |     |
-|       | 2 3    |     | 3    |     |      | 2   |     |
-  Aluminum oxide                    Ammonia   Magnesium  chloride
+| H  | Cl | Na  | Cl | | C | O | |
+| | HCl  | | NaCl  | | C | O .  | |
+Hydrogen chloride Sodium chloride  Carbon dioxide
+| Al  | O | N | H | | Mg | Cl  | |
+| | Al O | | NH | | MgCl | | |
+Aluminum oxide Ammonia Magnesium  chloride
 Molecular weight:
 The sum of weights of the atoms present in a molecule is called the
 molecular weight. Hence, it is calculated by adding the atomic weight of
 the atoms present in a molecule. For example, since there are two hydrogen
 atoms in hydrogen molecule, its molecular weight is two amu. Again,
-| 1.   Molecular weight of water (H |     |     | O) = 2 x H +1x O |     |     |     |     |
-| --------------------------------- | --- | --- | ---------------- | --- | --- | --- | --- |
-2
-                                                           = 2 x 1 +1 x 16
-                                                           = 2+16 = 18 amu
-| Science and Environment, class - 8  |     |     |     |     |     |     | 91  |
-| ----------------------------------- | --- | --- | --- | --- | --- | --- | --- |
-
+| 1. Molecular weight of water (H | | | O) = 2 x H +1x O | | | | |
+= 2 x 1 +1 x 16
+= 2+16 = 18 amu
+| Science and Environment, class - 8  | | | | | | | 91  |
 2. Molecular weight of carbon dioxide (CO ) =1 x C +2 x O
-2
 =1 x 12 + 2x16
 = 12+ 32 = 44 amu
 3. Molecular weight of sodium chloride (NaCl) = 1 x Na +1 x Cl
 = 1 x 23 + 1x 35
 = 23 + 35= 58amu
-4. Molecular weight of calcium carbonate (CaCO )
-3
+4. Molecular weight of calcium carbonate (CaCO
 = 1x Ca +1 x C + 3 X O
 = 1x40 + 1x12 + 3 x 16
 = 40 + 12 +48 = 100 amu
@@ -3224,12 +2904,8 @@ table some drawbacks were found out. Scientist have made attempts to
 remove drawbacks of Mendeleev’s periodic table leading to the development
 of modern periodic table.
 92 Science and Environment, class - 8
-
 elbat cidoirep nredoM
-01
-| Science and Environment, class - 8  |     | 93  |
-| ----------------------------------- | --- | --- |
-
+| Science and Environment, class - 8  | | 93  |
 Chemical reaction
 A chemical change brings about change in molecule and produces entirely
 new substances. The chemical changes occur between atoms and molecules
@@ -3238,41 +2914,32 @@ a flow diagram with their names which is called chemical reaction.
 Word equation
 A chemical equation represented in words is called word equation. For
 example,
-| Hydrogen + Oxygen     |     Water                         |     |
-| --------------------- | --------------------------------- | --- |
-| Potassium chlorate    |       Potassium chloride + Oxygen |     |
+| Hydrogen + Oxygen | Water | |
+| Potassium chlorate | Potassium chloride + Oxygen | |
 Formula equation:
 A chemical word equation expressed using molecular formula is called
 formula equation. For example,
-| 2H  + O                             2H | O   |     |
-| -------------------------------------- | --- | --- |
-| 2 2                                    | 2   |     |
-2KClO                     2KCl   + 3O
-| 3   | 2   |     |
-| --- | --- | --- |
+| 2H  + O 2H | O | |
+2KClO 2KCl + 3O
 Points to be considered  while writing chemical equation:
-1.   The reactant molecules involved in a chemical reaction are written
-  on  the left side of an arrow (         ).
-2.   The products of the reaction are written on the right side of an arrow (     ).
-3.   The condition of the chemical reaction is written above the arrow.
-4.   The direction of a reaction is represented by an arrow head.
-  For example:  Reactants                    products.
-  Word equation: Water                     Oxygen  + Hydrogen
-|   Formula equation:   | 2 H O             O |      + 2H |
-| --------------------- | ------------------- | --------- |
-|                       | 2                   | 2 2       |
+1. The reactant molecules involved in a chemical reaction are written
+on  the left side of an arrow ( ).
+2. The products of the reaction are written on the right side of an arrow ( ).
+3. The condition of the chemical reaction is written above the arrow.
+4. The direction of a reaction is represented by an arrow head.
+For example:  Reactants products.
+Word equation: Water Oxygen  + Hydrogen
+| Formula equation: | 2 H O O | + 2H |
 Project work:
 1.  Study the activity 1 and make models of Helium (He), Carbon(C) and
-  Sodium (Na).
-| 94  |     | Science and Environment, class - 8 |
-| --- | --- | ---------------------------------- |
-
+Sodium (Na).
+| 94  | | Science and Environment, class - 8 |
 2. Make a chart to show the structure of elements having atomic number
 from 1 to 20.
 Summary:
 1. Sub-atomic particles such as electrons, protons and neutrons are present
 in atom. The mass of these particles are measured in atomic mass unit
-(amu) and their charge in coulomb unit.
+amu) and their charge in coulomb unit.
 2. The mass of a proton of an atom is about 1amu. The mass of a neutron
 is also about 1amu and the mass of an electron is nearly 1/1837 amu.
 3. Proton has positive charge, electron has negative charge and neutron
@@ -3301,7 +2968,6 @@ or decomposition. This process is called chemical reaction.
 14. A chemical equation expressed by using molecular formula is called
 formula equation.
 Science and Environment, class - 8 95
-
 Exercise:
 1. Fill in the blanks with appropriate words.
 a. An atom is made up of proton, neutron and……............…
@@ -3336,7 +3002,6 @@ F. Ca ( ) 11
 a. Atom and molecule b. Electron and proton
 c. Atomic number and atomic weight
 96 Science and Environment, class - 8
-
 d. Molecular formula and molecular weight
 5. Define the following terms
 a. Valency b. Molecular formula
@@ -3360,18 +3025,17 @@ electron (e–).
 11. Write down the molecular formula.
 a. Sodium chloride b Water c. Carbon dioxide
 12. Calculate the molecular weight.
-a. Sodium Chloride (NaCl) b. Magnesium sulphate (MgSO )
-4
+a. Sodium Chloride (NaCl) b. Magnesium sulphate (MgSO
 c .Oxygen (O ).
-2
 13. Complete the following word equations.
 a. Hydrogen + Oxygen …………..
 b. Potassium chlorate Potassium chloride + …………..
 c. Water Hydrogen + ………
 Science and Environment, class - 8 97
-
 Unit
-12
+
+## 12: Mixture  {#ch-12}
+
 Mixture
 We use different types of matters in our daily life. Among them, some are
 pure substances and some are impure substances (mixture). When we need
@@ -3408,7 +3072,6 @@ Measuring cylinder, Condenser, etc.
 Procedure:
 1. Take a clean flask and pour the salt solution into it.
 98 Science and Environment, class - 8
-
 2. Place the flask on the tripod stand and clamp it using a stand.
 3. Fit the condenser to the flask as shown in figure.
 4. Manage the flow of the cold water inside the condenser as shown
@@ -3425,7 +3088,7 @@ When the whole water converts into vapor, salt remains in the flask.
 Conclusion:
 When the solution is heated the water gets converted into vapor. The vapor
 passes through a condenser pipe. Where water drops are formed. The water
-(distillate) gets collected in cylinder. Finally the water vaporizes completely
+distillate) gets collected in cylinder. Finally the water vaporizes completely
 and salt remaines in the flask.
 The people living in the Arabian Gulf and sea shore make clean drinking
 water from salty sea water by distillation process.
@@ -3443,14 +3106,12 @@ In this method, the liquid having lower
 Flask
 boiling point is separated out first rather
 than those having higher boiling point. Water in
-hit
 Fractional distillation is carried out using
 a fractional column. The liquid, which is
 Fig. 12.2
-more volatile (having lower boiling point)
+more volatile (having lower boiling point
 will vaporize first, which is condensed and collected in the receiver. The
 Science and Environment, class - 8 99
-
 liquid that is less volatile (having higher boiling point) is distilled latter
 and collected in a separate receiver. Now a days, the fractional distillation
 method is used for the purification of petrol from mineral oil.
@@ -3491,7 +3152,6 @@ colored materials have different speed to spread in water. As a result the
 separation of color is possible. This type of color separation process is called
 paper chromatography.
 100 Science and Environment, class - 8
-
 Activity: 3
 filter paper
 Take a small beaker or glass tumbler. Mix two
@@ -3510,7 +3170,7 @@ Separated
 chalk dust or aluminium oxide into the tube Chalk dust
 mixture
 through larger end. Put a mixture of colors
-(red, blue, black). Observe for some time. One
+red, blue, black). Observe for some time. One
 of the colors drops down through the lower
 end of the tube. Collect the colors using a
 vessel. After sometime another color appears
@@ -3533,7 +3193,6 @@ called chromatography.
 5. Chromatography technique is used to separate and identify the
 chemicals present in colors, blood, urine, etc.
 Science and Environment, class - 8 101
-
 Exercise
 1. Write short answer.
 a. What is distillation?
@@ -3552,7 +3211,6 @@ chromatography process is not suitable? Give reason.
 6. How can you get pure water from impure water? Explain with
 experiment.
 102 Science and Environment, class - 8
-
 Unit
 13 Metal and Non–Metal
 One hundred and eighteen elements have been discovered: 92 are natural
@@ -3574,7 +3232,7 @@ Some important metals, non-metals and metalloids
 We have been using metals, metalloids and nonmetals for different purposes
 in our daily life. The introduction, properties and uses of some important
 metals are as follows:
-Gold (Au)
+Gold (Au
 Gold is shiny yellow colored metal. It is found in Free State. It occurs in
 rocks, sands and alluvial soil. It is extracted from alluvial soil.
 Properties:
@@ -3582,9 +3240,7 @@ Properties:
 2. It is good conductor of heat and electricity.
 3. It does not react with air and water.
 4. It is not affected by simple acids (such as HCl and H So ).
-2 4
 Science and Environment, class - 8 103
-
 Uses:
 1. It is used for making ornaments.
 2. It is used for making coins, idol and medal.
@@ -3615,7 +3271,6 @@ Properties:
 2. It is a good conductor of heat and electricity.
 3. It does not get rusted but on exposure to moist air, it becomes deemed.
 104 Science and Environment, class - 8
-
 4. On heating, it forms a black oxide.
 5. It reacts with acids.
 Uses:
@@ -3647,7 +3302,6 @@ Aluminum does not occur in free state but it also occurs as compounds
 and in the form of ores. Its chief ore is bauxite. Aluminum is extracted
 from bauxite.
 Science and Environment, class - 8 105
-
 Properties:
 1. It is light and white metal.
 2. It is the best conductor of heat and electricity.
@@ -3667,7 +3321,6 @@ in the inner side of the packing cover (biscuits, chocolate etc).
 Silicon (Si):
 Silicon does not occur in free state in nature. It is found in excessive amount
 in the form of compounds. The main source of silicon is sand or silica (SiO ).
-2
 It mainly occurs in the form of silicates in soil. Silicon is a metalloid. It has
 the properties of metal as well as non-metal.
 Properties:
@@ -3680,7 +3333,6 @@ amorphous form is insulator.
 Uses:
 1. It is used for manufacturing glasses.
 106 Science and Environment, class - 8
-
 2. It is used for the manufacture of the different types of soil pots.
 3. The compounds of silicon rocks are used for the manufacture of a sandstone
 house, idols, etc.
@@ -3712,7 +3364,6 @@ middle portion of the periodic table respectively.
 2 . Metalloid has the properties of metal as well as non-metal.
 3. Gold is inactive, yellow and shining metal. It is used for making
 Science and Environment, class - 8 107
-
 ornaments.
 4 . Copper is a reddish brown, conductive metal. It is used for making electric
 wire.
@@ -3744,9 +3395,10 @@ Gold, Silver, Copper, Iron, Aluminum.
 Silicon, Sulphur, Iron, Copper.
 6. Why aluminum metal is used for making body parts of aeroplane?
 108 Science and Environment, class - 8
-
 Unit
-14
+
+## 14: Acid, Base and Salt  {#ch-14}
+
 Acid, Base and Salt
 We eat apple, orange, lemon and 'Amala' that contain acid. Limestone is a
 base. It is used to paint and decorate our house. Similarly, the edible salt
@@ -3766,74 +3418,58 @@ The acids which are found in plant and animals are called organic acids,
 e.g., citric acid, lactic acid, tartaric acid, etc. The acids which are prepared
 in the laboratory are called inorganic acids e.g. hydrochloric acid, (HCl),
 sulphuric acid (H SO ), nitric acid (HNO ), etc.
-2 4 3
 Properties of acid
 1. Physical Properties
-(a) Generally, acids have sour taste.
-(b) Acids turn blue litmus paper into red.
-(c) Acids turn methyl orange into red.
-(d) Acids are neutral to phenolphthalein.
+a) Generally, acids have sour taste.
+b) Acids turn blue litmus paper into red.
+c) Acids turn methyl orange into red.
+d) Acids are neutral to phenolphthalein.
 2. Chemical properties
-(a) An acid reacts with metal to form hydrogen gas.
-(b) Acids react with base to form salt and water.
-(c) Acids give hydrogen ion (H+) when dissolved in water.
+a) An acid reacts with metal to form hydrogen gas.
+b) Acids react with base to form salt and water.
+c) Acids give hydrogen ion (H+) when dissolved in water.
 Science and Environment, class - 8 109
-
 Uses
 Acids are used in different purposes. Uses of Some acids are as follows.
- Acid  Uses
+Acid  Uses
 | a. Sulphuric acid(H |  SO ) | These are used in laboratory,  |
-| ------------------- | ----- | ------------------------------ |
-2 4
-|    Hydrochloric acid(HCl)      |     | industry and factory for various  |
-| ------------------------------ | --- | --------------------------------- |
-|    Nitric acid            (HNO | )   | purposes.                         |
-3
+| Hydrochloric acid(HCl) | | industry and factory for various  |
+| Nitric acid (HNO | ) | purposes. |
 b. Carbonic acid (H  CO ) It is used in soda water, coca cola,
-2 3
 beers and some other drinks.
 c. Acetic acid/vinegar(CH  COOH) It is used to make sour pickles.
-3
 Some common acids that are used in our daily life and their sources:
 Name of acid Sources.
-| 1. Citric acid   | Lemon, Tomato.                             |     |
-| ---------------- | ------------------------------------------ | --- |
-| 2. Tartaric acid | Fruits like bhogate, etc.                  |     |
-| 3. Oxalic acid   | Chariamilo                                 |     |
-| 4. Ascorbic acid | All citrus fruits like lemon, orange, etc. |     |
-| 5. Lactic acid   | Milk, curd, et.c                           |     |
-| 6. Formic acid   | Acid injected by ants.                     |     |
+| 1. Citric acid | Lemon, Tomato. | |
+| 2. Tartaric acid | Fruits like bhogate, etc. | |
+| 3. Oxalic acid | Chariamilo | |
+| 4. Ascorbic acid | All citrus fruits like lemon, orange, etc. | |
+| 5. Lactic acid | Milk, curd, et.c | |
+| 6. Formic acid | Acid injected by ants. | |
 Base
 Bases are the oxides and hydroxides of metal. They react with acids to give
 salt and water. The bases which are soluble in water are called alkali. Bases
 give hydroxyl (OH–) ion when dissolved in water.
 Some important OH– bases:
-Name of bases                              molecular formula
-| Sodium oxide                                           Na |     | O   |
-| --------------------------------------------------------- | --- | --- |
-2
-Sodium hydroxide                                     NaOH
-| Potassium oxide                                          K |     | O   |
-| ---------------------------------------------------------- | --- | --- |
-2
-Potassium hydroxide                                  KOH
-Magnesium oxide                                        MgO
-Magnesium hydroxide                                 Mg (OH)
-2
-| 110  |     | Science and Environment, class - 8 |
-| ---- | --- | ---------------------------------- |
-
+Name of bases molecular formula
+| Sodium oxide Na | | O |
+Sodium hydroxide NaOH
+| Potassium oxide K | | O |
+Potassium hydroxide KOH
+Magnesium oxide MgO
+Magnesium hydroxide Mg (OH
+| 110  | | Science and Environment, class - 8 |
 Properties of bases
 1. Physical Properties
-(a) Generally, bases are bitter in taste. We do not take the taste of
+a) Generally, bases are bitter in taste. We do not take the taste of
 all bases because hard bases burn our skin.
-(b) Some bases are soapy to touch.
-(c) Bases turn red litmus paper into blue.
-(d) Bases turn methyl orange into yellow color.
-(e) Bases turn phenolphthalein into pink color.
+b) Some bases are soapy to touch.
+c) Bases turn red litmus paper into blue.
+d) Bases turn methyl orange into yellow color.
+e) Bases turn phenolphthalein into pink color.
 2. Chemical properties:
-(a) Bases react with acid to give salt and water.
-(b) Bases react with carbon dioxide to form carbonate.
+a) Bases react with acid to give salt and water.
+b) Bases react with carbon dioxide to form carbonate.
 Uses:
 Some common bases and their uses are as follows:
 Name of base Uses
@@ -3841,15 +3477,11 @@ Name of base Uses
 2. Potassium hydroxide (KOH) To wash clothes
 To use as chemical fertilizers.
 3. Aluminium hydroxide, (Al(OH) To use as medicine (antacid)to cure
-3
 gastric disease.
 4. Magnesium hydroxide (Mg(OH) To use as medicine to cure gastric disease.
-2
 4. Calcium hydroxide Ca(OH) To use as laboratory reagent.
-2
 To remove the hardness of water.
 5. Ammonium hydroxide (NH OH) To make chemical fertilizer and plastics.
-4
 Salt:
 Salt is a neutral substance i.e. it is neither acidic nor basic. Some salts are
 salty, some are bitter and some are tasteless. Generally, acids react with
@@ -3860,26 +3492,16 @@ Properties of salt:
 3. Most of the salts are soluble in water.
 4. Some salts are colorless whereas some are colorful.
 Science and Environment, class - 8 111
-
 Uses of salt:
 Some salts are used in our daily life and their uses are given below:
-| Salt                     |     | Uses                       |     |
-| ------------------------ | --- | -------------------------- | --- |
-| 1. Sodium chloride(NaCl) |     | To use in daily foodstuffs |     |
-| 2. Copper sulphate( CuSO | )   | To use as an insecticide   |     |
-4
+| Salt | | Uses | |
+| 1. Sodium chloride(NaCl) | | To use in daily foodstuffs | |
+| 2. Copper sulphate( CuSO | ) | To use as an insecticide | |
 3. Magnasium sulphate(MgSO ) As medicine against constipation
-4
 4. Calcium sulphate  (CaSO ) To plaster the fractured bones and to make cement
-4
 5. Sodium carbonate( Na CO ) To make soap, detergent and glasses
-2 3
-| 6. Sodium bicarbonate( NaHCO | )   | To make baking powder |     |
-| ---------------------------- | --- | --------------------- | --- |
-3
-| 7. Ammonium sulphate (NH | ) SO  | To use as chemical fertilizer |     |
-| ------------------------ | ----- | ----------------------------- | --- |
-|                          | 4 2 4 |                               |     |
+| 6. Sodium bicarbonate( NaHCO | ) | To make baking powder | |
+| 7. Ammonium sulphate (NH | ) SO  | To use as chemical fertilizer | |
 Indicator:
 We use different types of chemicals in our daily life. These chemicals
 cannot be identified easily whether they are acidic, basic or neutral. We
@@ -3891,12 +3513,11 @@ methyl orange and phenolphthalein, etc. These substances can change
 their own color and help to identify the acids, bases and salts. The table
 given below shows how indicators response while introducing acid, base
 and salt separately.
-| Indicator       |       Acid       |      Base    |         Salt   |
-| --------------- | ---------------- | ------------ | -------------- |
-| Red litmus      |         Red      |       Blue   |        Neutral |
-| Blue litmus     |         Red      |       Blue   |        Neutral |
-| Methyl orange   |         Red      |       Yellow |        Neutral |
-| Phenolphthalein |        Colorless |        Pink  |        Neutral |
+| Indicator | Acid | Base | Salt |
+| Red litmus | Red | Blue | Neutral |
+| Blue litmus | Red | Blue | Neutral |
+| Methyl orange | Red | Yellow | Neutral |
+| Phenolphthalein | Colorless | Pink  | Neutral |
 An indicator is used to identify whether a substance is acidic or basic but
 it does not measure the strength of acid and bases. Universal indicator
 is used to identify the strength of acids or base. It is obtained by mixing
@@ -3904,9 +3525,7 @@ simple indicators having different colors. The indicators having red or dark
 red color denote acid and blue or dark blue colors denote base. The green
 color indicates neutral substances. The color change in universal indicator
 is measured in terms of pH scale.
-| 112  |     | Science and Environment, class - 8 |     |
-| ---- | --- | ---------------------------------- | --- |
-
+| 112  | | Science and Environment, class - 8 | |
 pH - scale:
 pH Scale has a series of numbers ranging from 1 to 14. Solution having a
 pH of 1 or 2 are very strong acids and those having pH 13 or 14 are strong
@@ -3914,7 +3533,6 @@ bases. The pH value of neutral substances is 7.
 Basic
 Acidic
 Neutral
-1 2 3 4 5 6 7 8 9 10 11 12 13 14
 PH value of the solution is measured by pH meter. The reading of pH value
 of a solution can be taken directly from the window of the pH meter. In this
 way, pH scale also shows the strength of acid or base.
@@ -3942,7 +3560,6 @@ litmus paper.
 change did you observe; when a litmus paper is kept into the solution
 of acid and base? Observe and write.
 Science and Environment, class - 8 113
-
 Summary:
 1. The chemical substances which give hydrogen ion (H+) in water are
 called acid.
@@ -3972,7 +3589,6 @@ a. Lemon and amala have a sour taste. Why?
 b. Why should an acid be handled with caution?
 c. Skin burns when we touch nettle. Why?
 114 Science and Environment, class - 8
-
 d. The skin burns when an ant bites. Why?
 e. Aluminum hydroxide containing medicine is used for gastric. Why?
 4. Write any four properties of acid.
@@ -3989,9 +3605,10 @@ a. Carbonic acid b. Acetic acid
 c. Sodium hydroxide d. Sodium chloride
 e. Ammonium sulphate
 Science and Environment, class - 8 115
-
 Unit
-15
+
+## 15: Some Useful Chemicals  {#ch-15}
+
 Some Useful Chemicals
 Water
 Water is one of the most important substances found in the earth. About
@@ -4005,23 +3622,21 @@ various purposes, for example, for drinking, bathing, washing clothes,
 cooking food, irrigation and in factory, etc.
 Properties of water:
 1. Physical properties
-(a) Pure water is colorless, odorless and tasteless.
-(b) Water exists in three forms, i.e., solid, liquid and gas.
-(c) It is a transparent liquid.
-(d) Pure water is insulator of heat.
-(e) It freezes at 00 C to form ice and boils at 1000 C to give gas form.
-(f) Water is a universal solvent.
+a) Pure water is colorless, odorless and tasteless.
+b) Water exists in three forms, i.e., solid, liquid and gas.
+c) It is a transparent liquid.
+d) Pure water is insulator of heat.
+e) It freezes at 00 C to form ice and boils at 1000 C to give gas form.
+f) Water is a universal solvent.
 2. Chemical properties
-(a) Water (H O) is made up of two parts of hydrogen and one part of oxygen.
-2
-(b) Pure water is a neutral substance. It is neither acidic nor basic in nature.
+a) Water (H O) is made up of two parts of hydrogen and one part of oxygen.
+b) Pure water is a neutral substance. It is neither acidic nor basic in nature.
 Hard and soft water
 If we use the water from wells, spring, etc. for bathing and washing clothes,
 the hair may become sticky, dirt may not be removed completely and soap
 may not give lather. Why does it happen?
 There are mainly two types of water: 1. Soft water. 2. Hard water
 116 Science and Environment, class - 8
-
 1. Soft water
 The water which gives lather easily with soap is known as soft water. For
 example, rain water, distilled water, etc.
@@ -4049,16 +3664,15 @@ water which gave the lather easily is soft water. The water which did not give
 much lather is hard water. In this way hard and soft water can be identified.
 Types of hardness of water:
 The hardness of water is of two types.
-(a) Temporary hardness.
-(b) Permanent hardness.
-(a) Temporary hardness of water :
+a) Temporary hardness.
+b) Permanent hardness.
+a) Temporary hardness of water :
 If the water contains dissolved calcium and magnesium bicarbonate
 salts it gives temporary hardness of water.
-(b) Permanent hardness:
+b) Permanent hardness:
 If the water contains dissolved chloride and sulphate of calcium and
 magnesium it gives permanent hardness of water.
 Science and Environment, class - 8 117
-
 Removal of hardness
 The hardness of water is removed by converting the dissolved substances
 into insoluble substances.
@@ -4086,7 +3700,6 @@ temporary hardness of water can be removed by boiling.
 Removal of permanent hardness of water:
 Permanent hardness of water can’t be removed by boiling. It can be removed
 by adding washing soda (sodium carbonate, Na CO ) to it. Now, sodium
-2 3
 carbonate reacts with calcium and magnesium salts dissolved in water to
 form insoluble carbonates of calcium and magnesium. The insoluble salts
 settle down at the bottom of the vessel and hardness of water is removed.
@@ -4098,14 +3711,12 @@ doesn’t give lather due to the hardness of water. Now, add one spoonful of
 sodium carbonate salt in a beaker containing water and shake it. Again, take
 a small quantity of water in a test tube and add two or four drops of soap
 118 Science and Environment, class - 8
-
 solution and observe. It gives lather with soap solution. It is understood
 that, permanent hardness of water can be removed by adding sodium
 carbonate solution.
 Sodium carbonate
 Sodium carbonate is a versatile chemical. It is commonly known as washing
 soda. It is a compound of sodium metal. Its molecular formula is Na CO .
-2 3
 It is found in the form of white powder. It is basic in nature.
 Uses
 1. Sodium carbonate is used in the manufacture of soap.
@@ -4117,7 +3728,6 @@ Uses
 Sodium bicarbonate
 It is a useful chemical and made up of sodium metal. Sodium bicarbonate
 is also known as baking soda. Its molecular formula is NaHCO . It is also
-3
 found in the form of white solid substance. It is soluble in water. Baking
 powder is prepared by mixing sodium bicarbonate with potassium hydrogen
 tartrate. In baking industries, it is used to increase the volume of cakes,
@@ -4134,9 +3744,7 @@ Glycerol:
 Glycerol is commonly known as glycerin. It is manufactured from organic
 compound propane. It lies in alcohol group. Its molecular formula is
 C H (OH) It is colorless, sweet tasting syrupy liquid. It is soluble in water.
-3 5 3.
 Science and Environment, class - 8 119
-
 Uses
 1. It is used in the manufacture of medicine, printing ink, stamp pad
 ink, etc.
@@ -4154,9 +3762,6 @@ Project work:
 Observe the different chemicals used in your home. Write their names and
 what are they used for? Write in table.
 S.N. Chemicals Uses
-1
-2
-3
 Practical activities:
 1. Study activity no. 1 and identify hard and soft water.
 2. Study the activity no. 2 and 3 and demonstrate the method of the
@@ -4167,7 +3772,6 @@ Summary
 3. Water is of two types: hard and soft water.
 4. Water which gives lather with soap is called soft water.
 120 Science and Environment, class - 8
-
 5. Water which does not give lather with soap is called hard water.
 6. The hardness of water is of two types: temporary and permanent.
 7. Bicarbonates of calcium and magnesium salt dissolved in water
@@ -4198,7 +3802,6 @@ b) Which salt is dissolved in temporary hard water?
 i. Calcium chloride ii. Calcium sulphate
 iii. Calcium carbonate iv. Calcium bicarbonate
 Science and Environment, class - 8 121
-
 c) How can the permanent hardness of water be removed?
 i. Boiling ii. Filter
 iii. By mixing washing soda iv. By adding calcium carbonate
@@ -4223,7 +3826,6 @@ Explain with a chemical reaction.
 7. What should be done to identify the hardness of water collected from
 different sources? Explain with a diagram.
 122 Science and Environment, class - 8
-
 UNIT
 16 Living Beings
 Some microscopic organisms Plasma membrane
@@ -4236,7 +3838,6 @@ seen with the help of microscope. Such types
 of organisms are called microorganisms. Ribosome
 Among such microorganisms, we will Cytoplasm
 learn about bacteria, virus and fungi in this
-DNA
 chapter.
 Fig. 16.1
 Bacteria
@@ -4261,11 +3862,10 @@ Virus is an ultramicroscopic organism. Virus is derived from a latin word.
 Viruses completely depend on living organisms. They cannot live outside the
 living cell. They show characteristics of both living and non living beings.
 Science and Environment, class -8 123
-
 They are ultramicroscopic. Among them,
 some lack nucleus, some lack cytoplasm,
 Capsid Head
-some contain DNA (Deoxyribonucleic acid)
+some contain DNA (Deoxyribonucleic acid
 Nucleic acid
 and some contain RNA (Ribonucleic acid).
 Collar
@@ -4275,7 +3875,7 @@ Viruses are divided into three types based
 on the host cell.
 1. Plant virus:Virus which infects plants.
 Tail fiber
-Example: TMV (Tobacco Mosaic Virus)
+Example: TMV (Tobacco Mosaic Virus
 Bacteriophase virus
 2. Animal virus: Virus which infects
 Fig. 16.2
@@ -4308,7 +3908,6 @@ Reproduction in fungi is mainly by asexual method. Their reproduction
 occurs through fragmentation, budding, fission, sporulation. Yeast is used
 to prepare alcoholic beverages (beer, wine). Mushroom is used as food.
 124 Science and Environment, class - 8
-
 Modification of different parts of plant
 There are different types of plants in our surrounding. Plants vary from small
 to a very large size. Similarly, some plants are found in water and some are
@@ -4326,7 +3925,7 @@ to exist in the surrounding environment and to perform different functions
 accordingly. Modification in root of plant is for major three functions.
 1. For storage of food 2. For mechanical support
 3. For vital functions
-(A) For storage of food
+A) For storage of food
 Have you ever eaten radish, carrot, turnip? The
 shape and size of roots of such plants are modified
 for storage of food. Modification of tap root occurs
@@ -4339,7 +3938,7 @@ Fig. 16.4
 c) broad upper part and gradually narrowing towards
 the lower part, for example, carrot.
 2. For mechanical support
-Have you ever sat on the platform of Banyan (Baar)
+Have you ever sat on the platform of Banyan (Baar
 and Peepal? Have you seen the roots coming down to
 floor from the branches of banyan? They have helped
 to support the big tree of baar. Sometimes many roots of
@@ -4347,7 +3946,6 @@ banayan occupy the spaces under the tree. Roots arise
 from the stem of bamboo and grow towards floor. It
 Fig. 16.5
 Science and Environment, class -8 125
-
 gives pillar like structure. Similarly, plants like maize, sugarcane etc. bear
 roots from the all sides of stem and grow towards ground. Roots of some
 plants act as climber and climbs other plants. In this way, root is modified
@@ -4371,7 +3969,7 @@ surroundings during the development of plants.
 Some underground stems store food in a form of thick juicy starch. For
 example;, potato. Some stems are with tuber, dry, thorn like. For example;
 steam of ginger, onion and garlic store food material.
-(a) (b) (c)
+a) (b) (c
 Onion Garlic Potato
 Fig. 16.7
 2. Sub-aerial modification
@@ -4380,9 +3978,7 @@ plants, stems are partially underground and partially above the ground.
 New plant is formed by this part, example, grasses. Buds are developed
 from some stem and grows into a new plant.
 126 Science and Environment, class - 8
-
-(a) (b) (c) (d)
-Pea
+a) (b) (c) (d
 Grass Aloe vera Cactus
 Fig. 16.8
 c) Aerial modification
@@ -4409,9 +4005,8 @@ Seeds are of different shapes and types. Some seeds are hardly visible to
 eyes whereas some are big. Seeds are also found in different colours. Gram,
 pea, bean, wheat, maize, rice, mustard, seed of mango are the examples of
 seed. Generally, seeds are of two types.
-(a) Monocotyledon (b) Dicotyledon
+a) Monocotyledon (b) Dicotyledon
 Science and Environment, class -8 127
-
 Activity 1
 Soak the seeds of wheat, maize, gram, pea, bean for a whole day in a vessel.
 Next day the size of seeds increases since they absorb water. Draw the
@@ -4448,7 +4043,6 @@ a) Radicle or future root b) Plumule or future stem
 Radicle develops into root whereas plumule develops into stem. Cotyledons
 of seed store food for developing embryo. Food is obtained from endosperm.
 128 Science and Environment, class - 8
-
 Usually seed doesnot have endosperm.
 Therefore food is stored in cotyledons during
 the maturation of seed. Such seed is called
@@ -4487,7 +4081,6 @@ with cotton and plume. These types of seeds are dispersed from one
 place to another by air. Seeds of silk-cotton, cotton, grass etc are
 dispersed by air.
 Science and Environment, class -8 129
-
 2. By water:
 Seeds are also dispersed through water. Seeds of coconut, betel nut, lotus,
 etc. flow undecomposed for many days floating on water. Then they
@@ -4523,7 +4116,6 @@ seeds in a glass and fill glass with water to the level so that only half of
 the middle seed gets deep inside water and half is present outside water.
 Leave the glass for 3/4 days where little amount of sunlight falls. Then add
 130 Science and Environment, class - 8
-
 little amount of water so that the level of water
 would not decrease. After some days, observe
 the actual condition of all those 3 seeds and
@@ -4560,7 +4152,6 @@ It protects the internal parts in budding
 stage.
 Fig. 16.14
 Science and Environment, class -8 131
-
 • Corolla: Corolla is formed by a group of coloured petals present inside
 calyx. It has aromatic fluid producing glands. Flower is attractive due
 to corolla.
@@ -4590,7 +4181,6 @@ Fertilization
 The process of fusion of male gamete and female gamete to form zygote
 is called fertilization. Pollen tube comes out from each pollen grain after
 132 Science and Environment, class - 8
-
 pollination and pollen tube makes
 its own way to the ovary. The tip
 of the pollen tube bursts in ovule
@@ -4628,7 +4218,6 @@ structure and functions. This is called modification.
 store food, to protect, to form a base and to run different life processes.
 5. Seed is a form of future plant.
 Science and Environment, class -8 133
-
 6. Seed are monocotyledonous and dicotyledonous.
 7. Air, water and temperature should be suitable for seed germination
 8. Seed is dispersed by air, water, human and animals and also by itself.
@@ -4658,7 +4247,6 @@ b) Some of the seeds have cotton or plume.
 c) Leaf is modified into thorn where water availability is low.
 d) More types of plants are available in riverside and lake side.
 134 Science and Environment, class - 8
-
 6. Write short answer
 a) For which functions does the modification of root occur? Write
 with examples.
@@ -4678,12 +4266,13 @@ and temperature for germination.
 12. List the monocot and dicot seeds in the foods that you consume daily.
 13. Label the part of following structures.
 Seed of bean Seed of maize
-(a) (b)
+a) (b
 Fig. 16.18
 Science and Environment, class -8 135
-
 UNIT
-17
+
+## 17: Cell and Tissue  {#ch-17}
+
 Cell and Tissue
 The body of living organism is made up of cell. Microorganisms are made
 up of only one cell. This type of organism is called unicellular organism.
@@ -4714,7 +4303,6 @@ c) They lack blood vessels.
 d) They consist of special types of gland.
 The main functions of epithelial tissues are as follows:
 136 Science and Environment, class - 8
-
 a) Covering b) Protecting
 c) Secreting d) Excreting
 e) Absorbing
@@ -4753,7 +4341,6 @@ helps in the movement of fluid around it. These types of tissues are found
 in secretory organs like gall bladder and salivary gland.
 Its main functions are secretion and absorption.
 Science and Environment, class -8 137
-
 4. Glandular epithelium
 The glands in our body are covered with secreting
 epithelism cells. The tissue made up of these cells
@@ -4789,7 +4376,6 @@ apical meristem. It helps to increase the length of the root and stem.
 2. If the meristematic tissue is found at the lateral side of root or stem, it is
 called lateral meristem. It helps to grow the thickness of root and stem.
 138 Science and Environment, class - 8
-
 Activity 2
 Soak gram or pea for some days. Small sprout grows from it. Cut the tip
 of sprout with the help of blade and put it on the slide. Make it thin flat
@@ -4825,52 +4411,43 @@ work together in a group, for example, mouth, oesophagus, stomach, small
 intestine, large intestine, rectum, liver, gall bladder, pancreas work together
 in digestive system.
 Science and Environment, class -8 139
-
 System in human body, its major organs and functions are given in the
 table below.
 | SN  | System | Organs | Major function |
-| --- | ------ | ------ | -------------- |
 1. Skeletal system bones and cartilage To hold body upright and
 protect soft organs
-| 2. Muscular system |     | muscle, skin | To move out body and cover  |
-| ------------------ | --- | ------------ | --------------------------- |
+| 2. Muscular system | | muscle, skin | To move out body and cover  |
 body
 3. Digestive system stomach, intestine,  To digest food and absorb it
 liver and pancreas
-| 4. Respiratory  |     | nasal tube and lungs | To exchange oxygen and  |
-| --------------- | --- | -------------------- | ----------------------- |
-| system          |     |                      | carbondioxide.          |
+| 4. Respiratory  | | nasal tube and lungs | To exchange oxygen and  |
+| system | | | carbondioxide. |
 5. Circulatory system heart and blood vessel To circulate blood
 6. Excretory system kidneys, liver and  To remove unnecessary
-|     |     | urinary bladder | materials from body |
-| --- | --- | --------------- | ------------------- |
+| | | urinary bladder | materials from body |
 7. Glandular system salivary glands,  To produce hormone and
-|     |     | pituitary gland,  | enzyme |
-| --- | --- | ----------------- | ------ |
+| | | pituitary gland,  | enzyme |
 thyroid gland etc.
 8. Nervous system brain, spinal cord and  To maintain coordination and
-|                  |     | neuron        | communication among organs. |
-| ---------------- | --- | ------------- | --------------------------- |
-| 9. Reproductive  |     | testes, ovary | To produce offspring        |
+| | | neuron | communication among organs. |
+| 9. Reproductive  | | testes, ovary | To produce offspring |
 system
 Experimental work
-1.   Visit a butcher's near your house. Observe various organs like lungs,
-  liver, heart, kidneys, eyes and write down their functions.
-2.   Study activity 1 and draw a diagram of epithelial tissue.
-3.   Study activity 2 and draw a diagram of meristematic tissue.
+1. Visit a butcher's near your house. Observe various organs like lungs,
+liver, heart, kidneys, eyes and write down their functions.
+2. Study activity 1 and draw a diagram of epithelial tissue.
+3. Study activity 2 and draw a diagram of meristematic tissue.
 Summary
-1.   A group of structurally similar cells is called tissue. It  performs special types
+1. A group of structurally similar cells is called tissue. It  performs special types
 of functions.
 2.  The outermost part of animal's organ is made up of epithelial tissue.
-3.   Epithelial tissues are mainly of four types. They are: pavement, cubical,
+3. Epithelial tissues are mainly of four types. They are: pavement, cubical,
 columnar and glandular.
-4.   Epithelial tissue functions as covering, protecting, secreting, absorbing
+4. Epithelial tissue functions as covering, protecting, secreting, absorbing
 and excreting.
-5.   The tissue present at the tip of different parts of plant is called
+5. The tissue present at the tip of different parts of plant is called
 meristematic tissue or meristem.
-| 140    |     |         Science and Environment, class - 8  |     |
-| ------ | --- | ------------------------------------------- | --- |
-
+| 140 | | Science and Environment, class - 8  | |
 6. Generally, meristematic tissues are mainly categorized into two types.
 They are apical meristem and lateral meristem.
 7. Apical meristem causes increase in length whereas lateral
@@ -4902,7 +4479,6 @@ c) Which is the organ that does maximum works in human body?
 i) heart ii) lungs
 iii) liver iv) kidney
 Science and Environment, class -8 141
-
 d) Which tissue is found in gland that produces hormone, enzyme?
 i) pavement ii) cubical
 iii) columnar iv) glandular
@@ -4920,12 +4496,11 @@ b) Columnar epithelium
 c) Cubical epithelium
 d) Glandular epithelium
 7. Name the parts given in the figure.
-(a) (b)
+a) (b
 8. Which tissue is shown in the figure given above? Where is this tissue
 located? Write its one major function.
 9. Write two differences between epithelial and meristematic tissue.
 142 Science and Environment, class - 8
-
 UNIT
 18 Life Process
 Living beings perform different life processes for survival. The processes
@@ -4958,7 +4533,6 @@ Fig. 18.1
 If one cell divides into many daughter cells, it is known as
 multiple fission, example: chlamydomonas, plasmodium, etc.
 Science and Environment, class -8 143
-
 Fig. 18.2
 2. Budding
 The process of formation of a bud at one side of a cell
@@ -4988,7 +4562,6 @@ for example: sweet potato reproduces through root, potato,
 ginger, dahlia, rose by stem and begonia, bryophyllum by leaf.
 Fig. 18.7
 144 Science and Environment, class - 8
-
 Advantage of asexual reproduction
 a) It is simple and short.
 b) Only one parent is enough.
@@ -5025,14 +4598,12 @@ After the fertilization of male and female gamete, zygote is formed. Zygote
 develops in the form of embryo which after definite time develops into a
 baby.
 Science and Environment, class -8 145
-
 Advantages of sexual reproduction
 1. Increment in the number of organism and continuation of generation.
 2. New characteristics are developed in the offspring.
 Human blood circulatory system
 The necessary nutrients, oxygen, hormones, etc. are transported through
 blood to different parts of our body. Similarly, the wastes (CO , urea, uric
-2
 acid) are also transported by the blood to excretory organs for their removal.
 To perform this function, there is continuous circulation of blood in the
 body. This process is called blood circulatory system.
@@ -5045,7 +4616,6 @@ Plasma: Plasma is light yellow coloured fluid. A blood contains 55% plasma.
 It consists 90% water and 10% protein, fat, minerals and carbohydrate.
 The function of plasma is to transport diffused nutrients from intestine
 to different parts of the body. Similarly, it helps to transport CO released
-2
 from respiration process from tissues of lungs. It also transports hormones
 to different tissues.
 Blood cell: Blood cell is mixed with plasma. It is solid substance. Blood
@@ -5064,7 +4634,6 @@ are also produced in bone marrow. White blood cells destroy disease
 causing germs in our body. When the number of white blood cells increases
 excessively in our body, leukemia or blood cancer is caused.
 146 Science and Environment, class - 8
-
 Platelets: Platelets are small non nucleated blood cells. They help to clot
 blood after an injury. They are also produced in the bone marrow. Their
 life span is only two to three days. Less platelets in the body lead to more
@@ -5105,7 +4674,6 @@ because there is presence of valve between auricles and ventricles. There
 are four valves in the heart, they are:
 1. Tricuspid valve: between right auricle and right ventricle
 Science and Environment, class -8 147
-
 2. Mitral valve (Bicuspid valve): between left auricle and left ventricle
 3. Pulmonary valve: between right ventricle and pulmonary artery
 4. Aortic value: between left ventricle and Aorta.
@@ -5140,7 +4708,6 @@ The valve opens and the blood moves from right auricle to right ventricle.
 The blood is then pumped to lungs through pulmonary artery. In lungs,
 the blood takes oxygen and gives carbon dioxide. Likewise, the oxygenated
 148 Science and Environment, class - 8
-
 Aorta
 Pulmonary Artery
 Pulmonary Artery
@@ -5163,7 +4730,6 @@ green plants can prepare their own food.
 Other organisms depend upon the plants
 directly or indirectly for food. The green
 plants prepare their food taking CO from
-2
 air and water from soil in the presence of
 sunlight with the help of chlorophyll. This
 process of preparing food by plant is called
@@ -5173,12 +4739,9 @@ process is taken by chlorophylls in the green leaves from the sunlight. In
 this process, glucose and oxygen are produced.
 Carbon dioxide + water + light glucose + oxygen
 6CO + 6H O C H O + 6O
-2 2 6 12 6 2
 Science and Environment, class -8 149
-
 For photosynthesis, the plants take water from the soil through roots and
 CO through stomata of leaves. The glucose prepared by plant is converted
-2
 into starch and deposited into cells. The oxygen produced by this process
 is passed out through stomata.
 Requirements for photosynthesis in plant
@@ -5189,9 +4752,7 @@ possible without chlorophyll. Therefore, chlorophyll is very important
 substance.
 2. Carbon dioxide: Carbondioxide is a necessary raw material for
 photosynthesis. The source of carbon for a plant is CO in the air. The
-2
 plant takes CO from atmosphere through stomata in leaves. Without,
-2
 carbondioxide plants cannot survive in other carbon containing
 molecules.
 3. Water and minerals: Water is another important raw material. The
@@ -5209,7 +4770,6 @@ Required materials: green leaf, forcep, container (for putting hot water),
 90% ethanol, iodine, plate, water, spirit lamp, dropper, beaker, etc.
 Fig. 18.15
 150 Science and Environment, class - 8
-
 Method:
 Pluck a healthy green leaf from a plant and dip it in boiled water for 5
 minutes. This makes the leaf soft. After that, dip the leaf in luke warm
@@ -5246,7 +4806,6 @@ Fig. 18.17
 days. In a polythene bag, keep a few potassium
 hydroxide and insert a leaf in the bag (as shown in figure) and tie the bag to
 Science and Environment, class -8 151
-
 the leaf with thread.. Now, keep it in sun for some hours. After some hours,
 pluck the leaf covered by bag and another leaf not covered by bag and then
 perform starch test. Which leaf has starch and why, write conclusion with
@@ -5282,7 +4841,6 @@ c) Keep a potted plant in sun light and another in a dark place. After two
 week, see which plant grows fast. What is the reason behind it? Write
 with conclusion.
 152 Science and Environment, class - 8
-
 Summary
 1. The process of reproducing offspring of own kind to continue their
 generation is called reproduction.
@@ -5316,42 +4874,33 @@ b) The process of producing new individual from plant's root, stem or
 leaf is called ………………….
 c) Blood is red fluid ……………… tissue.
 Science and Environment, class -8 153
-
-  d)  Our heart consists of …………… chambers.
-  e)   The blood vessel that carries blood from heart to various parts of
-|     body is called   |     | ……….…… |     |
-| -------------------- | --- | ------ | --- |
-  f)   The process of preparing food by plants is called …….
-2.   Choose the correct answer from the given answers.
-a)   What is the process in which body of living organism breaks and
-  develops into a new individual called?
-|   i) fission         |     | ii) budding     |     |
-| -------------------- | --- | --------------- | --- |
-|   iii) regeneration  |     | iv) sporulation |     |
-b)   Which disease is caused in the deficiency of red blood cells?
-|   i) marasmus        |     | ii) kwashiorkar  |     |
-| -------------------- | --- | ---------------- | --- |
-|   iii) blood cancer  |     | iv) anaemia      |     |
-c)   Which blood cell helps to clot blood at wound?
-|   i) red blood cell  |     | ii) white blood cell  |     |
-| -------------------- | --- | --------------------- | --- |
-|   iii) platelets     |     | iv) all of the above  |     |
+d)  Our heart consists of …………… chambers.
+e) The blood vessel that carries blood from heart to various parts of
+| body is called | | ……….…… | |
+f) The process of preparing food by plants is called …….
+2. Choose the correct answer from the given answers.
+a) What is the process in which body of living organism breaks and
+develops into a new individual called?
+| i) fission | | ii) budding | |
+| iii) regeneration  | | iv) sporulation | |
+b) Which disease is caused in the deficiency of red blood cells?
+| i) marasmus | | ii) kwashiorkar  | |
+| iii) blood cancer  | | iv) anaemia | |
+c) Which blood cell helps to clot blood at wound?
+| i) red blood cell  | | ii) white blood cell  | |
+| iii) platelets | | iv) all of the above  | |
 d)  Which is the blood vessel that carries pure blood?
-|   i) artery      |     | ii) vein        |     |
-| ---------------- | --- | --------------- | --- |
-|   iii) venacava  |     | iv) capillaries |     |
-e)   Which gas evolves during photosynthesis?
-|   i) carbondioxide  |     | ii) oxygen    |     |
-| ------------------- | --- | ------------- | --- |
-|    iii) nitrogen    |     | iv) inert gas |     |
+| i) artery | | ii) vein | |
+| iii) venacava  | | iv) capillaries | |
+e) Which gas evolves during photosynthesis?
+| i) carbondioxide  | | ii) oxygen | |
+| iii) nitrogen | | iv) inert gas | |
 3.  Write the difference between.
-  a) Sexual and asexual reproduction
-  b) Unisexual and Bisexual organism
-  c) Binary fission and multiple fission
-  d) External fertilization and internal fertilization
-| 154    |     |         Science and Environment, class - 8  |     |
-| ------ | --- | ------------------------------------------- | --- |
-
+a) Sexual and asexual reproduction
+b) Unisexual and Bisexual organism
+c) Binary fission and multiple fission
+d) External fertilization and internal fertilization
+| 154 | | Science and Environment, class - 8  | |
 e) Red blood cell and white blood cell
 f) Artery and vein
 4. Write in short.
@@ -5374,7 +4923,6 @@ photosynthesis, with a diagram.
 is evolved during photosynthesis.
 11. What do you mean by starch test? How can it be performed? Explain.
 Science and Environment, class -8 155
-
 Unit
 19 Structure of the Earth
 The Earth is made up of rock, sand, soil, etc. The rocks are found in earth
@@ -5409,7 +4957,6 @@ pyrite is golden green.
 2. Minerals have their own lusture. Commonly, metallic minerals have
 lusture.
 156 Science and Environment, class - 8
-
 3. Minerals are hard.
 4. Minerals are crystalline.
 Uses of minerals
@@ -5445,7 +4992,6 @@ been used by Himalayan people from the past.
 Zinc
 Zinc was not used in ancient time. But it is an important metal today. Zinc
 Science and Environment, class -8 157
-
 mines are found in Ganesh Himal, Fulchoki, Makawanpur, Sankhuwasabha
 etc. It is used for electroplating iron and to making alloys like bronze.
 Limestone:
@@ -5483,7 +5029,6 @@ way soil is formed by breaking the rocks.
 5. The surface of rock erodes when air flows with high speed. Then the
 sand like particles eroded from rock are converted into soil.
 158 Science and Environment, class - 8
-
 Structure of soil
 Soil is made up of broken rocks and organic matters. Generally, it contains
 small particles of rocks and minerals. It also contains water, air and organic
@@ -5524,7 +5069,6 @@ is called erosion. Similarly, the eroded soil is delivered to another place
 by rivers and streams and deposited in the place. This process of eroding
 and depositing of soil is called deposition. Erosion and deposition process
 Science and Environment, class -8 159
-
 occur side by side or together. Erosion is caused by high speed of rain, air,
 river water and water wave in ocean, etc.
 Fig. 19.3
@@ -5550,7 +5094,6 @@ Conservation of soil
 Soil is the main natural resource. It is necessary to conserve soil. A huge
 amount of soil is being lost year by year due to rain water from Nepal
 160 Science and Environment, class - 8
-
 because we have sloppy land in mountain regions. Similarly, unscientific
 cultivation and deforestation are causing the loss of thousands of tons of
 soil by the action of water. Therefore, we can apply the following measures
@@ -5586,7 +5129,6 @@ dead bodies.
 5. The damaging of land by landslide, flood, etc. is called erosion. The
 leaving and piling of soil, sand, etc. on different place is called deposition.
 Science and Environment, class -8 161
-
 6. We can conserve soil by afforestation, terrace farming, preparing dam
 at river banks, and planting trees, fruits and grass.
 Exercise
@@ -5606,9 +5148,10 @@ e) What do you mean by deposition?
 5. Where are the minerals found in Nepal? Show the purpose of these
 minerals in a chart.
 162 Science and Environment, class - 8
-
 Unit
-20
+
+## 20: Weather and Climate  {#ch-20}
+
 Weather and Climate
 How is the climate in your location? Is rainfall high or low there? In fact,
 climate includes temperature and state of rainfall. The climate differs from
@@ -5640,13 +5183,11 @@ a) Distance from equator
 An imaginary circular line which divides the earth into northern half and
 southern half is called equator. Since the earth is spherical, the sunlight
 Science and Environment, class -8 163
-
 falls straightly to the equator
 throughout the year. Therefore, North Pole
 this area is very hot. As we go
 away from equator towards north
 or south, the sunlight does not fall
-Sun
 straight. The inclined light rays Equator
 Light
 should pass through thick layer
@@ -5672,7 +5213,6 @@ northern slope is cold because it rarely faces the sun light.
 5°C
 9°C
 Land
-Sea
 Fig. 20.2
 c) Distance from Sea
 Water heats us and cools slowly while land heats up and cools fast. When
@@ -5680,7 +5220,6 @@ land cools, the sea remains hot. Likewise, when the land heats up, the sea
 remains cold. The places nearby sea is neither cold nor hot because hot
 air flows from sea to the land during cold season and cold air flows from
 164 Science and Environment, class - 8
-
 Monsoon
 Dry air
 Himalayan
@@ -5715,7 +5254,6 @@ Cold climate is found in the Mountain region having altitude from 3300m
 to 5000m from sea level. The temperature reaches up to 15 0C in summer
 and falls below 0°C during winter in this region.
 Science and Environment, class -8 165
-
 Snow falls throughout the year in Himalayas above 5000 meter from sea
 level. The temperature remains below 0 0C throughout the year. No plants
 grow in this area. This type of climate is called Tundra Climate.
@@ -5754,7 +5292,6 @@ average annual rainfall in mid hills is 150-250 mm. This area is opposite
 to the monsoon.
 Pokhara valley is the rainiest place in Nepal because its south east part is
 166 Science and Environment, class - 8
-
 open and Himalayan range lies in northern part. Manang is the rain shadow
 of Nepal where least rainfall occurs.
 Effects of monsoon
@@ -5787,7 +5324,6 @@ Nepal.
 6. The problems like flood, landslide, soil erosion, etc. are caused by heavy
 monsoon rainfall.
 Science and Environment, class -8 167
-
 Exercise
 1. Fill in the blanks, with suitable words.
 a) The annual average state of weather is called ……………….
@@ -5818,7 +5354,6 @@ e) Which part of Nepal has highest rainfall?
 i) Illam ii) Gorkha
 iii) Pokhara iv) Manang
 168 Science and Environment, class - 8
-
 3. Give short answers to following questions.
 a) Define climate.
 b) What is the efffect on climate due to the distance from sea?
@@ -5834,10 +5369,11 @@ d) Flood and landslide disaster is high in eastern hilly regions.
 a) Explain the factors that affect the climate.
 b) How is monsoon originated? Write down its effects.
 Science and Environment, class -8 169
-
 Unit
 Earth and space
-21
+
+## 21: Human beings have had some queries since their origin. Their queries  {#ch-21}
+
 Human beings have had some queries since their origin. Their queries
 are: how was the earth formed? How were the bodies like sun, star, moon
 and planet formed? How many such bodies are there? How long will they
@@ -5870,20 +5406,18 @@ on the Sun due to the attraction of this star. That tidal matter cooled
 and broken into small pieces which became planets and satellites. In
 this way, the Earth was also originated.
 170 Science and Environment, class - 8
-
 4. Solar system from Milky Way
 According to this theory, the dust particles in Milky Way galaxy attracted
 with each other and combined together. A large object was formed which
 is called the sun. Afterwards, small objects like planets, satellites were
 also formed similarly.
 Causes of origin of living beings in the earth
-It is estimated that the earth was originated before 4.5 Arab (4.5 billion)
+It is estimated that the earth was originated before 4.5 Arab (4.5 billion
 years ago. There was no suitable environment for living beings at the time
 of origin of the earth. Because of different movements and changes; suitable
 environment for living beings was created in the earth. The main causes of
 origin of organism in the earth are as follows:
 1. Availability of air (O , N , CO etc.) necessary for organisms,
-2 2 2
 2. Availability of water in suitable amount for organisms,
 3. Availability of suitable temperature etc.
 The change of position of the earth and the sun
@@ -5908,33 +5442,31 @@ Season change
 The revolution of Earth around the sun completes in 365 days. The earth
 revolves in an elliptical path. Sometimes the earth lies near the sun and
 Science and Environment, class - 8 171
-
 sometimes it goes farther from the sun during revolution. The different
 parts of the earth are heated differently. Hence, change in season occurs.
 Four seasons appear in every year. These seasons are:
 i. Summer ii. Autumn
 iii. Winter iv. Spring
 The sunlight falls perpendicularly on tropic of Cancer on June 21
-(approximately Asadh 8). Most of the parts in northern hemisphere face
+approximately Asadh 8). Most of the parts in northern hemisphere face
 towards sun at that time. Therefore the day is long and night is short
 in northern hemisphere. The northern hemisphere is hot and southern
 hemisphere is cold in this period. That’s why summer season occurs in
 northern hemisphere and winter season occurs in southern hemisphere.
 The sunlight falls perpendicularly on equator on September 23
-(approximately Asoj 7). The length of day and night is equal in all parts of
+approximately Asoj 7). The length of day and night is equal in all parts of
 the earth at this time. The climate is neither hot nor cold but moderate at
 all places. In this time the autumn season occurs in northern hemisphere
 and spring season occurs in southern hemisphere.
 The sunlight falls straight on tropic of Capricorn on December 22
-(approximately Poush 7). The day is short and night is long in northern
+approximately Poush 7). The day is short and night is long in northern
 hemisphere at this time. Likewise, day is long and night is short in southern
 hemisphere. The summer season occurs in southern hemisphere and winter
 season occurs in northern hemisphere at that time.
 Again the sunlight falls straight March 21
 on equator on March 21
-(approximately Chaitra 8). The June 21 December
+approximately Chaitra 8). The June 21 December
 length of day and night becomes
-22
 equal all over the world. The
 climate is neither hot nor cold
 in both the hemispheres. In
@@ -5948,7 +5480,6 @@ You might have seen the variation in the size of moon in the sky at night.
 Sometimes the shape of moon looks like sphere, sometimes half sphere and
 sometimes other shapes. Why does this happen? Do you know?
 172 Science and Environment, class - 8
-
 Planets and satellites do not have
 their own light. They reflect
 sunlight and become bright. The
@@ -5991,7 +5522,6 @@ Buffon's Planetsimal hypothesis, Nebular hypothesis of Kant and Laplace
 Tidal theory propounded by Jeans and Jeffrew have been taken as reliable
 theories of origin of the earth.
 Science and Environment, class - 8 173
-
 2. Living beings have been evolved in the earth because there is air, water
 and suitable temperature for survival.
 3. Change in season occurs due to the change in position of the sun and
@@ -6002,10 +5532,10 @@ phases of the moon.
 If there is no brightness in the moon, it is called new moon.
 Exercise
 1. Fill in the blanks with suitable words.
-(a) It is believed that the earth was formed before …………………year.
-(b) The angle formed by the axis of the earth on its orbital plane is
+a) It is believed that the earth was formed before …………………year.
+b) The angle formed by the axis of the earth on its orbital plane is
 …………..
-(c) The time period of increasing the bright part of the moon and
+c) The time period of increasing the bright part of the moon and
 reaching to optimum condition is called …………… .
 d) The day and night is equal all over the world on September 23
 and ………………
@@ -6024,10 +5554,11 @@ b) Bright half and dark half
 c) Axis and orbit
 d) Summer and winter season
 S17c4ie nce and Environment, class - 8 Sc ience and Environment, class1 -7 84
-
 Unit
 Environment and its Balance
-22
+
+## 22: Natural resources and human dependency  {#ch-22}
+
 Natural resources and human dependency
 Earth is the common habitat of human beings and of different organisms.
 Thus all the living beings get their food and shelter from natural resources
@@ -6035,19 +5566,19 @@ available in the earth. Human beings get air, water, food, shelter, medicine
 etc. from natural resources. It shows the relation and dependency between
 humans and natural resources. The relation between natural resources and
 humans is described below:
-(a) Food
+a) Food
 Animals need energy to survive. Organisms get their energy from food.
 Human beings cultivate crops for their living. They cultivate rice, wheat,
 maize, mustard, buck-wheat, etc. These plants prepare their own food by
 photosynthesis process. Animals get their food from these plants. Therefore,
 humans totally depend upon natural resource for food.
-(b) Habitat
+b) Habitat
 Human beings live on land. If there is no land, there is no place for human
 beings to live. Human beings utilize land, plants, minerals, etc. for habitat.
 They obtain wood from plants and trees and brick, pebbles, sand, marble,
 from land for making habitat. These different materials are also taken from
 natural resources.
-(c) Medicinal plants
+c) Medicinal plants
 Medicinal plants are very important plants for human being. People can
 make different kinds of medicine from medicinal herbs. Harro, Barro, Amala,
 Bojho, Sarpagandha, Jatamasi, Panchaunle, Yarsagumba are important
@@ -6059,7 +5590,6 @@ other countries from Nepal. Cultivation of these medicinal plants has also
 been affected with deforestation. Some medicinal plants are in the state of
 extinction.
 Science and Environment, class - 8 175
-
 d) Air
 Air is very important element for living. Human beings need air to live.
 Fresh air keeps human beings healthy. Human beings take in oxygen from
@@ -6081,7 +5611,7 @@ should save the water sources. The chemicals released out from industries
 and factories, garbages, faeces, etc. mixes in the sources of water and makes
 them polluted. The use of polluted water by humans leads to various
 diseases which makes life difficult.
-(f) Land
+f) Land
 All living organisms in the earth depend upon the soil. Humans make their
 habitat on land and food is also produced from land. Humans depend upon
 soil to produce crops, fruits, green vegetables, etc. If necessary foods are not
@@ -6096,7 +5626,6 @@ areas have been established specifically. Protected area consists of national
 park and wildlife reserve. The protected areas of Nepal in different areas
 are as follows:
 176 Science and Environment, class - 8
-
 a) National park
 The area separated for the conservation and management of natural
 environment like wild life, birds, wild flora, habitat of wild life and
@@ -6135,7 +5664,6 @@ It was established in 2032 B.S. Its area is 106 square kilometer. It lies in
 Mugu and Jumla district of Karnali zone. Rara lake lies in this national
 park. Rara Lake is the largest lake of Nepal. The lake is surrounded by
 Science and Environment, class - 8 177
-
 coniferous forest. This area is favorable habitat for birds. Birds from Syberia
 and Mansarowar come to this area in winter. Himalayan bear, Thar, Ghoral,
 Musk deer, Black boar, etc. are found in this national park.
@@ -6151,7 +5679,7 @@ in Dolpa and Mugu district. This is the largest national park of Nepal. The
 wild animals like Snow leopard, Hare, Himalayan bear, Thar, Musk deer,
 Himalayan mouse are found in this area. There is Phoksundo lake in the
 park. It provides natural beauty to the national park. There are Shey gumba
-(monastery) and other buddhist monasteries.
+monastery) and other buddhist monasteries.
 7. Khaptad National Park
 It was established in 2040 B.S. Its area is 255 square kilometer. This park
 is located in Bajhang, Bajura, Doti and Achham districts of Seti zone. Salla,
@@ -6172,7 +5700,6 @@ was established in 2058 B.S. The area of this park is 159 square kilometer.
 Different species of mushroom and butterfly are found here. Clouded
 Leopard, Leopard, Salak of different species, Wild cat, Himalayan bear,
 178 Science and Environment, class - 8
-
 Ghoral, Red Monkey, Langur, Mongoose, Wild boar, Ratuwa, Spotted deer,
 birds, etc are also found in this area.
 10. Banke National park
@@ -6203,13 +5730,12 @@ species are also found in this reserve.
 This was established in 2032 B.S. It has extended in 176 square kilometer
 area. This reserve are situated in Sunsari, Saptari and Udayapur districts.
 This reserve is surrounded by rivers both in the east and the west. Its main
-objective is to conserve and to increase the number of Arna (Wild Buffalo)
+objective is to conserve and to increase the number of Arna (Wild Buffalo
 which is taken as the rare animal in Nepal. Forest of Sissau and Khayer is
 found in this reserve. This reserve is the main living place of different wild
 lives. Like Wild boar, Laguna, Alligator, Dolphin and internally migrated
 birds, etc.
 Science and Environment, class - 8 179
-
 3) Parsa Wildlife Reserve
 This was established in 2040 B.S. Its area is 499 square kilometer. This
 reserve has extended in Chitwan, Makwanpur, Parsa and Bara districts of
@@ -6247,7 +5773,6 @@ in biological diversity. Nature conservation fund is conducting resource
 conservation, society development, tourism management, conservation
 education and extension programme, etc. for the conservation of this area.
 180 Science and Environment, class - 8
-
 2) Kanchanjan Conservation Area
 Kanchanjanga Conservation Area was established in the year 2054 B.S. It has
 1650 square kilometer area. This area is extended upto Tibet in the north of
@@ -6285,7 +5810,6 @@ Krishnasar Conservation Area was established in 2065 B.S. Its area is
 conservation area is situated in Bardiya district.
 Activity 1
 Science and Environment, class - 8 181
-
 Visit any conservation area or national park or wildlife reserve near your
 house and prepare a report including its characteristics.
 Status of forest
@@ -6326,7 +5850,6 @@ from erosion. Similarly, it keeps the balance in atmosphere by releasing out
 oxygen and taking carbondioxide. It gives shelter to the wild life.
 a) Timber trees
 182 Science and Environment, class - 8
-
 Nepal can be divided into terai, hill and Himalayan region geographically.
 In these regions, different kinds of geographical features and climate are
 found. Different types of vegetation are found in these regions. Soil of
@@ -6343,9 +5866,6 @@ Activity 2
 What types of plants are found in your area? For what purpose, those
 plants are used? Observe and write it in the table below:
 S.N. Name of plant Useful part Uses
-1.
-2.
-3.
 b) Medicinal plants
 We can find different types of plants in the forest of Nepal. Some of them are
 used to prepare medicine. Such plants are called medicinal plants. About,
@@ -6364,7 +5884,6 @@ has reduced the production of medicinal plant. The uncontrolled and illegal
 collection and export of the medicinal plants has resulted to the extinction
 of some valuable medicinal plants.
 Science and Environment, class - 8 183
-
 Activity 3
 Name the kinds of medicinal plants found in your area. For what medicine
 have the plants been used? Ask your elders and experienced person and
@@ -6401,7 +5920,6 @@ Arna, Snow Leopard, Antelope (Barasinge), Musk Deer, etc. are also in the
 verse of extinction. 26 species of mammal, 9 species of bird and 3 types of
 reptiles found in Nepal are declared as protected species.
 184 Science and Environment, class - 8
-
 b) Importance and need
 Wild animals and birds are the symbols of natural beauty. They preserve
 natural beauty. They maintain balance in the environment and ecosystem.
@@ -6421,7 +5939,7 @@ are going to be extinct. Similarly, Wild Elephant, Rhino, Tiger, Arna, Snow
 Leopard, Barasinge, Kasturi Mriga, Dolphin, etc. are becoming rare. These
 animals are kept in the list of protected species. Some wild animals declared
 as protected species in Nepal are as follows:
-a) Ek Singe Gainda (One-Horned Rhinoceros)
+a) Ek Singe Gainda (One-Horned Rhinoceros
 One-horned rhinoceros is found in Chitwan
 and Bardiya National Park of Nepal. This is
 kept under protected species because it is a rare
@@ -6431,7 +5949,7 @@ one offspring in one delivery. Human poaches
 it for its horn, hoof and skin. Thus, this animal
 Fig. 22.1
 is in endangered situation.
-(b) Pate Bagh (Bengal Tiger)
+b) Pate Bagh (Bengal Tiger
 Bengal tiger is found in forest of terai in Nepal.
 Specially Bengal tiger is found in Chitwan
 National Park, Parsa Wildlife Reserve, Bardiya
@@ -6442,8 +5960,7 @@ place with enough water. They live on animals like Spotted deer, Wild boar,
 Antelope, Laguna, Ratuwa Mriga, etc. It produces 2 to 6 cubs in one delivery.
 Tiger has also been kept under endangered species due to its poaching.
 Science and Environment, class - 8 185
-
-(c) Hatti (Asiatic Elephant)
+c) Hatti (Asiatic Elephant
 Elephant is found in the terai region of Nepal. The
 plain jungle area below the Chure Hill is the main
 habitat of elephant. Elenphant is found from Jhapa
@@ -6453,7 +5970,7 @@ crop etc. It gives birth to a single baby in one
 delivery. It has long tusks. It has been found that
 elephants are illegally hunted by human for their
 teeth. It is also a rare and protected animal in Nepal. Fig. 22.3
-(d) Habre (Red Panda)
+d) Habre (Red Panda
 This animal is found in the forest situated above
 approximately 3500m and in the forest of bamboo,
 Khasru, Nigalo. This is a bigger attractive animal than
@@ -6463,7 +5980,7 @@ with a fur. That’s why its number has been decreased
 and eventually is in the position of extinction. This
 animal is found in Kanchanjangha and Taplejung Fig. 22.4
 district.
-(e) Ajingar (Python)
+e) Ajingar (Python
 Python is a big snake. It usually lives in tree trunk of
 dense forest and dried leaves. Sometimes, it also lives
 in grassland near the river, lake etc. Its body colour is
@@ -6472,7 +5989,7 @@ metre. This is not poisonous. It swallows small animals,
 lamb of deer, rabbit, goat's kid, etc. Its head is big and
 eyes are small. Its poaching for skin is resulting its
 extinction. Fig. 22.5
-(f) Thulo Dhanes (Giant Pied Hornbill)
+f) Thulo Dhanes (Giant Pied Hornbill
 Giant Pied Hornbill is a big bird found in the forest of
 terai. It has got a casque on the top of its massive bill,
 which makes it more attractive. Its habitat is destroyed
@@ -6480,7 +5997,6 @@ along with the destruction of tall trees in terai. This bird
 is also on the verge of extinction. Its number has been
 decreasing because of poaching hunted for bone and fat. Fig. 22.6
 186 Science and Environment, class - 8
-
 Project Work
 Observe the animals and birds in forest, national park, reserve or
 conservation area or zoo near your residence. Prepare a report including
@@ -6506,25 +6022,24 @@ leopard, python, Dhanes, vulture, etc. are prone to extinct.
 conservd species.
 Exercise
 1. Fill in the blanks with suitable words.
-(a) Forest is …………………… for wild animals.
-(b) In total ………....…. wildlife reserve has been established in Nepal.
-(c) ………… species of bird are declared as protected species in our country.
-(d) In high mountain region, Rai salla, Thingre salla and ………………, etc.
+a) Forest is …………………… for wild animals.
+b) In total ………....…. wildlife reserve has been established in Nepal.
+c) ………… species of bird are declared as protected species in our country.
+d) In high mountain region, Rai salla, Thingre salla and ………………, etc.
 are found.
-(e) Bengal tiger is found in ………………… forest of Nepal.
+e) Bengal tiger is found in ………………… forest of Nepal.
 Science and Environment, class - 8 187
-
 2. Give reason.
-(a) Forest and wild life are closely related.
-(b) Due to the different adverse activities of human, wildlife feels
+a) Forest and wild life are closely related.
+b) Due to the different adverse activities of human, wildlife feels
 difficulty to live.
-(c) National park and reserve help for the conservation of wildlife.
+c) National park and reserve help for the conservation of wildlife.
 3. Write short answer.
-(a) Why is forest destructed?
-(b) What should be done to protect forest?
-(c) What types of medicinal herbs are found in our country?
-(d) Describe about the importance of medicinal herbs.
-(e) What type of effort is given for the wildlife conservation in our
+a) Why is forest destructed?
+b) What should be done to protect forest?
+c) What types of medicinal herbs are found in our country?
+d) Describe about the importance of medicinal herbs.
+e) What type of effort is given for the wildlife conservation in our
 country?
 4. What are the differences between national park and wildlife reserve?
 Write.
@@ -6538,9 +6053,10 @@ Nepal.
 10. What can you do to conserve forest and environment in your surroundings?
 Write in brief.
 188 Science and Environment, class - 8
-
 Unit
-23
+
+## 23: Environmental Degradation and its Conservation  {#ch-23}
+
 Environmental Degradation and its Conservation
 Environment is the base of all organisms for their existence. Human has
 direct relationship with the environmental factors like air, water, soil
@@ -6570,100 +6086,96 @@ air into dirty and stinky air is called air pollution.
 Causes of air pollution
 Various causes lead to air pollution. Among them some major causes are
 as follows:
-(a) Smoke, dust and waste produced from vehicles cause air pollution.
+a) Smoke, dust and waste produced from vehicles cause air pollution.
 Science and Environment, class - 8 189
-
 Fig. 23.1
-(b) Smoke, dust and poisonous gas produced from factories and
+b) Smoke, dust and poisonous gas produced from factories and
 industries cause air pollution.
-(c) The smoke due to the use of fire wood, dried cow dung, wheat stalk,
+c) The smoke due to the use of fire wood, dried cow dung, wheat stalk,
 etc causes air pollution.
-(d) The dust due to mining of minerals and road construction.
-(e) In cities, garbage is thrown elsewhere so that bad smell from rotten garbage
+d) The dust due to mining of minerals and road construction.
+e) In cities, garbage is thrown elsewhere so that bad smell from rotten garbage
 causes air pollution.
 Effects of air pollution
-(a) Air pollution affects human health adversely by causing diseases related
+a) Air pollution affects human health adversely by causing diseases related
 with respiration, eye, lungs and chest etc.
-(b) Air pollution causes loss in plants and damage in cultural heritage
+b) Air pollution causes loss in plants and damage in cultural heritage
 manifested.
-(c) Air pollution causes the disease like burning of eye and asthma.
-(d) Air pollution causes increase in the temperature of the earth.
-(e) Air pollution causes acid rain.
+c) Air pollution causes the disease like burning of eye and asthma.
+d) Air pollution causes increase in the temperature of the earth.
+e) Air pollution causes acid rain.
 2. Water pollution
 River, spring, lake, pond, underground water, etc. are major sources of water.
 Due to different human activities water sources get polluted. Waste from
 industries, chemical fertilizers or pesticides used in field, sewage, other
 remaining of waste, etc. are sources of water pollution. Quality of water
 190 Science and Environment, class - 8
-
 changes directly or indirectly when these wastes mix to the sources of water.
 In this way, harmful things mixed to water source affect the actual quality
 of water and change its current situation. This is called water pollution.
 Causes of water pollution
 Water pollution is the result of different causes. Among them, some major
 causes are as follows:
-(a) In city areas, the pipelines of water and sewage are constructed in the
+a) In city areas, the pipelines of water and sewage are constructed in the
 same point in some places. When sewage pipe breaks suddenly,
 dirty water may mix to drinking water pipe and water gets polluted.
-(b) Activities like washing clothes, washing utensils and letting cattle bath
+b) Activities like washing clothes, washing utensils and letting cattle bath
 in the source of water make the water source polluted.
-(c) The garbage released from factories and different places, other polluted
+c) The garbage released from factories and different places, other polluted
 materials, sewage, etc directly mix with the water source such as river,
 lake, natural pool, pond, etc. making it polluted.
-(d) Farmers use chemical fertilizers, insecticides, pesticides to increase
+d) Farmers use chemical fertilizers, insecticides, pesticides to increase
 crop production. The chemical fertilizer and fluid of insecticides slowly
 mix to water source resulting water pollution.
-(e) From hospital, laboratory, industry, automobile workshop, etc. wastes
+e) From hospital, laboratory, industry, automobile workshop, etc. wastes
 as well as chemicals are released when they mix to water source, water
 pollution occurs.
 Effects of water pollution
 The different effects of water pollution are as follows:
-(a) Polluted water causes diseases like cholera, dysentery, jaundice, typhoid,etc.
-(b) Polluted water harms plants and aquatic animals.
-(c) It affects the photosynthesis process of plants.
-(d) Polluted water spreads bad smell.
-(e) Due to polluted water some young plants as well as aquatic animals die out.
+a) Polluted water causes diseases like cholera, dysentery, jaundice, typhoid,etc.
+b) Polluted water harms plants and aquatic animals.
+c) It affects the photosynthesis process of plants.
+d) Polluted water spreads bad smell.
+e) Due to polluted water some young plants as well as aquatic animals die out.
 3. Land pollution
 Generally, the adverse change in quality of soil is called land pollution.
 Land pollution spoils the fertile soil of land. There are different causes of
 land pollution.
 Causes of land pollution
-(a) Use of greater amount chemical fertilizer in farm.
+a) Use of greater amount chemical fertilizer in farm.
 Science and Environment, class - 8 191
-
-(b) Use of insecticides in farm excessively.
-(c) Throwing of garbages and waste product in soil.
-(d) Undecomposed materials like plastic, glass and metals in soil leads to
+b) Use of insecticides in farm excessively.
+c) Throwing of garbages and waste product in soil.
+d) Undecomposed materials like plastic, glass and metals in soil leads to
 land pollution when they are thrown randomly.
-(e) The undecomposed waste material thrown by the hospital, health
+e) The undecomposed waste material thrown by the hospital, health
 post, lab, factories cause land pollution.
 Effects of land pollution
-(a) Earthworm and microorganism that improve the quality of soil die out.
-(b) The fertility of soil is reduced.
-(c) Decrease in crop production.
-(d) Bad smell from polluted land causes stinking environment.
-(e) Damages the structure of land. The water produced from them also gets
+a) Earthworm and microorganism that improve the quality of soil die out.
+b) The fertility of soil is reduced.
+c) Decrease in crop production.
+d) Bad smell from polluted land causes stinking environment.
+e) Damages the structure of land. The water produced from them also gets
 polluted.
 4. Noise pollution
 The loud sound in the environment is called noise pollution. Production
 of unnecessary sound is also a sound pollution.
 Causes of noise pollution
-(a) Unnecessary sound and noise produced in market and crowded area,
+a) Unnecessary sound and noise produced in market and crowded area,
 city with more vehicles, places with more number of industries,
 cause noise pollution.
-(b) Noise pollution is caused due to construction of road, building, etc.
-(c) Playing radio, television, musical instruments loudly causes noise
+b) Noise pollution is caused due to construction of road, building, etc.
+c) Playing radio, television, musical instruments loudly causes noise
 pollution.
-(d) Unnecessary production of sound from cement factory, flour mills,
+d) Unnecessary production of sound from cement factory, flour mills,
 metal industry causes noise pollution.
-(e) Noise of people in cities, publicity through mikes, etc. also cause
+e) Noise of people in cities, publicity through mikes, etc. also cause
 noise pollution.
 Effects of noise pollution
 Major effects of noise pollution are as follows:
 a) Hearing capacity becomes weak.
 b) High blood pressure arises in human.
 192 Science and Environment, class - 8
-
 c) Maximum loud sound make ruptures in ear drum and leads to deafness.
 d) Health problems appear such as insomnia, digestive disorder, etc.
 e) Causes difficulty to concentrate in studying, writing or doing any activity.
@@ -6700,7 +6212,6 @@ d) When we throw wastes haphazardly, the methane gas comes out after
 they get decomposed and reach the atmosphere.
 e) The gas released from aeroplane is also a green house gas.
 Science and Environment, class - 8 193
-
 f) The water on the surface of earth evaporates due to the heat of Sun.
 This also increases the green house effect.
 Effect of green house effect
@@ -6735,7 +6246,6 @@ f) Hot air, frost, epidemic, etc. lead to increase in adverse effects on human
 health.
 g) Reduction in biological diversity.
 194 Science and Environment, class - 8
-
 Acid rain
 The chemical and physical process by which the water vapour in atmosphere
 mixes to acidic substances and drops on the surface of the earth is called
@@ -6765,11 +6275,9 @@ Measures to control acid rain
 a) Decreasing the source of pollution.
 b) Searching and using alternative energy.
 c) Re-using SO , CO gases released from the factory.
-2 2
 d) Introducing techniques that do not release toxic gases and matters
 in the atmosphere.
 Science and Environment, class - 8 195
-
 Disaster and disaster management
 You might have heard about the loss of people and property by flood,
 landslide, fire and earthquake etc. You might have seen this incident.
@@ -6807,7 +6315,6 @@ Measures of disaster management
 a) Preparedness
 b) Rescue of victim
 196 Science and Environment, class - 8
-
 c) Providing relief, rehabilitation and help to victim
 d) Proper mobilization of aid
 e) conducting public awareness programs.
@@ -6842,7 +6349,6 @@ The increase in volume of water than normal situation in river is called
 flood. Heavy rain fall, melting of glaciers, explosion of glacial lake, overflow
 of blocked river by landslide cause flood. The falling a mass of land down
 Science and Environment, class - 8 197
-
 Fig. 23.2
 the slope of a mountain or hill is called landslide. Flood and landslide cause
 loss of life and properties, Therefore, to protect from flood and landslide
@@ -6866,7 +6372,6 @@ c) Terrace farming in a steep land should be carried out.
 d) House and shed should not be constructed in steep place and place
 with a loose soil.
 198 Science and Environment, class - 8
-
 e) Manage water outlet around the house.
 f) Identify the places where flood and landslide are prone to occur and
 stay on a alert.
@@ -6901,7 +6406,6 @@ c) Keep environment clean.
 d) Pay attention in conservation and sanitation of water resource
 e) In epidemic situation provide treatment for patient
 Science and Environment, class - 8 199
-
 f) Keep knowledge about cause, effect and preventive measures of disease
 and apply caution for that.
 Protective measures of environment
@@ -6940,7 +6444,6 @@ Similarly use of pesticide, chemical fertilizer, etc. should be reduced.
 Washing clothes, bathing, washing dishes and defecation near the water
 source should be prohibited.
 200 Science and Environment, class - 8
-
 d) Soil conservation
 The protection of land or soil is soil conservation. Land should be conserved
 to maintain its original qualities and its fertility. Soil conservation increases
@@ -6980,7 +6483,6 @@ diseases in human, animal and bird. Thus, we all collectively should keep
 our environment clean. Proper disposal of waste and sewerage should be
 managed for it. Similarly, conservation and cleaning of public place, temple,
 Science and Environment, class - 8 201
-
 inn, courtyard, keeping water sources clean, cleaning of house, shed, road,
 lane, etc. should be carried.
 h) Public participation
@@ -6999,7 +6501,7 @@ organizing environment conservation programmes. They have helped to
 formulate policy and to design programs for the conservation of environment
 in our country. Some of the organizations helping in conservation and
 enhancement of environment are as follows:
-1. National Trust for Nature Conservation (NTNC)
+1. National Trust for Nature Conservation (NTNC
 The main objective of this organization is to contribute to stop environmental
 degradation/adverse environmental consequences by conserving and
 managing nature and natural heritages in national as well as international
@@ -7013,13 +6515,12 @@ association with the organizations like Bardiya Conservation Project,
 Bio-diversity Conservation Centre-Chitwan, Central Zoo, etc. Similarly
 this organization also conducts Manaslu Conservation Area Project and
 Annapurna Conservation Area Project.
-(b) The World Conservation Union (IUCN)
+b) The World Conservation Union (IUCN
 It is an international non-governmental organization established in 1948
 A.D. as International Union for Conservation of Nature and Natural resources
-(IUCN) . Recently, it has been named as IUCN- the world conservation union.
+IUCN) . Recently, it has been named as IUCN- the world conservation union.
 Nepal has got a membership of IUCN in 1973A.D. This organization consists
 202 Science and Environment, class - 8
-
 of many higher level commissions such as education and communication,
 environmental economic and social policy, environmental laws, protected
 areas and species survival. These commissions formulate worldwide policies
@@ -7042,7 +6543,7 @@ These functions are: formation of curriculum and text book, teaching
 materials, formation of environmental policy, programme and planning,
 conservation of forest and wildlife, proper management of national park
 and wild life reserve etc.
-c) World Wide Fund of Nature-(WWF)
+c) World Wide Fund of Nature-(WWF
 It is an international non-governmental organization for the conservation
 of nature. It was established in 1961 A.D. It was called the World Wildlife
 Fund in its inception but since 1986, it has been called World-Wide Fund
@@ -7058,14 +6559,13 @@ resources and energy producing toxic waste products and polluting the
 environment.
 This fund has helped to protect so many rare wildlife and vegetation of the
 Science and Environment, class - 8 203
-
 world from being extinct. This fund has been cooperating in conducting the
 programmes such as taking care of watershed area, protection of endangered
 plants and wild animals, checking of illegal trading of endangered animals,
 scientific study and research, environmental awareness programme, etc.
 It has conducted special programme to protect rare wildlife such as tiger,
 rhinoceros, and red panda.
-d) United Nations Environment Programme (UNEP)
+d) United Nations Environment Programme (UNEP
 The United Nations had organized a conference on the human environment
 in Stockholm, Sweden in june, 1972. This conference strengthened the
 concept that man has the right of surviving in healthy environment and
@@ -7077,7 +6577,7 @@ scientists, traders’ group, non-governmental organizations, women and
 youth groups have been participating in its various programmes. It pays
 special attention to make the world's developmental activities healthy and
 long lasting from environmental point of view.
-e) International Center for Integrated Mountain Development (ICIMOD)
+e) International Center for Integrated Mountain Development (ICIMOD
 International Center for Integrated Mountain Development was established
 in 1983 A.D. It is also called ICIMOD in short. There are eight member
 countries of organization, China, India, Pakistan, Bangladesh, Bhutan,
@@ -7099,7 +6599,6 @@ The above various national and international organizations are conducting
 several programs in association with the various departments and offices
 of respective ministries.
 204 Science and Environment, class - 8
-
 Project work
 Summary
 1. The decrease in the natural quality of the environment is called
@@ -7108,7 +6607,7 @@ water pollution, land pollution and noise pollution.
 2. The increase in temperature of earth due to the trapping of sunlight and
 heat by different gases in the atmosphere is called green house effect.
 3. Climate change affects temperature of environment and causes atibristi
-(over rain), anabristi (no rain), unseasonal rains, snowfall, decline in
+over rain), anabristi (no rain), unseasonal rains, snowfall, decline in
 agricultural production, etc.
 4. The gases released from industry, react with water of rain fall to give
 acid rain.
@@ -7131,7 +6630,6 @@ c) National trust for nature conservation
 d) Climate change
 e) Public awareness
 Science and Environment, class - 8 205
-
 3. Give reason
 a) Public awareness helps in conservation and protection of environment.
 b) Afforestation is an important way to conserve environment.
@@ -7159,10 +6657,11 @@ the agencies in your locality? Describe.
 9. As the humans are cause of environmental degradation, it is their
 responsibility to conserve it, justify.
 206 Science and Environment, class - 8
-
 Unit
 Environment and Sustainable Development
-24
+
+## 24: Earth is the common habitat of all living beings. Living beings get air, water, food,  {#ch-24}
+
 Earth is the common habitat of all living beings. Living beings get air, water, food,
 etc. which are necessary for their survival from the earth. The aggregate form of all
 living and non-living beings is called environment.
@@ -7196,7 +6695,6 @@ they are named as cow, buffalo, chicken, goat, grasshopper, etc. Though they see
 similar to each other physically each species has distinct differences. For example,
 cow and buffalo are mammals but they are classified into different species due to
 Science and Environment, class - 8 207
-
 the differences of various characters. This type of differences or varieties between
 the species is called species diversity.
 3. Genetic diversity
@@ -7211,11 +6709,7 @@ Study the biodiversity around your residential area. Ask the local people about 
 plants and animals in that area .Write names of any five plants and animals each that
 you have seen in your area, their benefits and ways to protect them, write in table.
 S.N. Name of plant Advantage Way to protect
-1
-2
 S.N. Name of animals Advantage Way to protect
-1
-2
 Principles of sustainable development
 Development is the process of bringing improvement in any field or sector. Humans
 perform various reformative works for their prosperity. In this process, people
@@ -7235,7 +6729,6 @@ conserved for its durability.
 b. Conservation of biodiversity
 All the creatures of the earth should be protected for sustainable development.
 208 Science and Environment, class - 8
-
 People should conserve the natural resources to protect the creatures. National
 and international programmes need to be launched for the conservation of the
 living beings.
@@ -7275,13 +6768,11 @@ Activity: 2
 Observe the different activities performed by the people around in your residential
 area for one week. Write the things in your exercise book that you deserve. Among
 Science and Environment, class - 8 209
-
 them, which activities are carried out in line with the concept of sustainable
 development and which are not? Write with reasons
 S.N. Peoples activities Concept related to sustainable development
 1 Match it Do not match Why
 2 ………… ………… ……….. ………..
-3.
 Efforts for sustainable development in context of world:
 In 1983, the general assembly of the united nations formed the global commission
 of environment and development under the chairmanship of the then primenister
@@ -7295,15 +6786,15 @@ Jeneraio in 1992, it focused on the conservation of environment to obtain sustai
 development. World food organization also focuses on the conservation and
 management of environment for the fulfillment of the need of future generation. In
 this way, the following points for sustainable development are taken into consideration.
-(a) Care of nature and natural resource management
-(b) Investment in environment
-(c) Conservation of biodiversity
-(d) Conservation of ecosystem
-(e) Pollution control
-(f) Population control and poverty alleviation
-(g) Increase in public participation
-(h) Nongovernmental organization and collective group formation
-(i) Conservation for future generation
+a) Care of nature and natural resource management
+b) Investment in environment
+c) Conservation of biodiversity
+d) Conservation of ecosystem
+e) Pollution control
+f) Population control and poverty alleviation
+g) Increase in public participation
+h) Nongovernmental organization and collective group formation
+i) Conservation for future generation
 Importance of sustainable development:
 Sustainable development is essential for the environmental conservation. The
 developmental works should not harm the environment. If these activities affects
@@ -7313,7 +6804,6 @@ a) Appropriate use of resources
 We should use technology in order to get maximum benefits using minimum
 resources. The use of minerals, water, insecticide, chemical fertilizer, etc should be
 210 Science and Environment, class - 8
-
 minimized. The sustainable development learns the concept of “waste not” while
 using these resources.
 b) Sense of responsibility
@@ -7327,16 +6817,16 @@ Sustainable development emphasizes on the development of health, education,
 agriculture, tourism and social reform, which are needed for the betterment of
 human welfare. The protection and conservation of environment is to be carried out
 in integrated form while developing this aspect.
-(d) People participation based development
+d) People participation based development
 Sustainable development encourages people participation. It creates interest in local
 people for developmental works and environmental conservation. Along with, it
 also helps to conserve and protect the environment.
-(e) Determination of the limit of development
+e) Determination of the limit of development
 People use unlimited resources for the fulfillment of their basic requirements. The
 non-renewable means and resources of the earth will be finished. Therefore the
 development should be done within the limit of the capacity of the earth. Sustainable
 development determines the how much development should be done.
-(f) Long term vision
+f) Long term vision
 Sustainable development preserves the present developmental achievements
 for future and it conserves the available resources. It concerns with the right
 of future generation. Hence it develops the sense of sustainability in human
@@ -7354,7 +6844,6 @@ b) Biodiversity is generally classified into ……………….types.
 c) Sustainable development is also called …………………development.
 d) The developmental works and activities of human beings should
 Science and Environment, class - 8 211
-
 be …………………..to the earth and its resources.
 e) Sustainable development focuses on the …………….of cultural
 heritages.

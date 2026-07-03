@@ -1,817 +1,26 @@
-My Social Studies and
-Creative Arts
-Grade 5
-Government of Nepal
-Ministry of Education
-Curriculum Development Centre|
+---
+title: "Social Studies Creative Arts"
+grade: 5
+language: english
+subject: "Social Studies Creative Arts"
+publisher: "Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre"
+---
 
-| Publisher:   | Government of Nepal            |     |     |
-| ------------ | ------------------------------ | --- | --- |
-|              | Ministry of Education          |     |     |
-|              | Curriculum Development Center  |     |     |
-| ISBN:        |  978-99933-717-8-6             |     |     |
-©
-All rights reserved in Publisher
-| First edition      | :   | 2068 BS  |     |
-| ------------------ | --- | -------- | --- |
-| Revised edition:   |     | 2074 Bs  |     |
-| Price:             |     |  80/-    |     |
-All rights reserved. No part of this publication may be reproduced,
-stored in a retrieval system or transmitted, in any other form or by
-any means for commercial purpose without the prior permission in
-writing of the Curriculum Development  Centre.
+# Social Studies Creative Arts — Grade 5
 
-Preface
-Continuity on the process of development and updating of curriculum and
-textbooks has been given so as to make school level education objective oriented,
-practical, contemporary and employment oriented. Fostering the feelings of unity
-towards the nation & nationality, developing attributes like morality, discipline,
-self-reliance, promoting fundamental language related and mathematical skills
-through the basic knowledge of science, environment and health-related issues.
-Education should instill life skills, create interest in art and beauty promote
-tolerance among different ethnicities, gender, religion, language, culture. Likewise
-it should make learners responsible citizen who can safeguard social values and
-norms. To fulfill this need this textbook has been revised and developed based on
-the curriculum 2065 which was updated according to the suggestions of various
-level committees, teachers, guardians and the final decisions of seminars and
-interactions including other stakeholders of education.
-The contents of Social Studies,Visual Arts and Music are included in this book in
-two page spread system. Illustrations, contents and exercises to promote creativity
-in students are given in a way to make it more activity oriented and learner
-centered. And instructions to the teachers are also provide wherever necessary.
-The writing, editing and revision work of Social Studies portion is done by Dik
-Bahadur Rai, Dina Nath Gautam, Dilli Prasad Sharma and Mahendra Bista, whereas
-Tarzan Rai, Punyasheel Gautam, Suman Bajracharya, Dhan Bahadur Nepali and
-Honey Shrestha developed, edited and revised the Creative Art portion. Valuable
-suggestions are also obtained from Haribole Khanal, Tek Narayan Pandey, Kamala
-Pokharel, Shambhu Dahal and Kamala Pandey in developing this book. Language
-of this book was edited by Ghanashyam Raj Kafle. Art editing and layout concept of
-this book was done by Shreehari Shrestha by making it four colour. CDC would
-like to thank all those who contributed in developing this book.
-Textbook is an important tool of teaching learning process. To achieve the learning
-outcomes of the curriculum, experienced teachers & inquisitive students will use
-various resources and materials in teaching learning process. Effort has been put to
-make this book activity oriented and more interesting, however, there might be some
-rooms for corrections in its language, presentation style and illustrations. Teachers,
-students, guardians, intellectuals and general readers of the book can contribute a lot
-to eliminate these weakness by sending their suggetions. Curriculum Development
-Centre cordially invites for their constructive suggestions.
-Ministry of Education
-Curriculum Development Centre
+> **Publisher:** Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre
 
-CONTENTS
-| Unit  | Topic  | Page |
-| ----- | ------ | ---- |
-Social Studies
-| Unit  One                                      | Me, My family and Neighbours              | 2-11     |
-| ---------------------------------------------- | ----------------------------------------- | -------- |
-|   Lesson 1                                     | My Neighbours and their Occupations       | 2        |
-|   Lesson 2                                     | Dealings with Neighbours                  | 4        |
-|   Lesson 3                                     | Help in the work of the Community         | 6        |
-|   Lesson 4                                     | Equal Treatment                           | 8        |
-|   Lesson 5                                     | Understand Others                         | 10       |
-| Unit Two                                       | Our Traditions, Social Norms and Values   | 12-21    |
-|   Lesson 1                                     | Our Traditions                            | 12       |
-|   Lesson 2                                     | Our Language and Costumes                 | 14       |
-|   Lesson 3                                     | Our Festivals                             | 16       |
-|   Lesson 4                                     | Our Country Our Pride                     | 18       |
-|   Lesson 5                                     | Good People of our District               | 20       |
-| Unit ThreeSocial Problems and their Solutions  |                                           | 22-23    |
-  Lesson 1  Keep Yourself and Your Friends Away from Bad Habits 22
-|   Lesson 2  | Theft, Robbery and Ways to Protect Ourselves  | 24    |
-| ----------- | --------------------------------------------- | ----- |
-|   Lesson 3  | Don’t Copy Others Needlessly                  | 26    |
-|   Lesson 4  | Co-operation                                  | 28    |
-|   Lesson 5  | Social Organisations                          | 30    |
-|   Lesson 6  | Role of our Local bodies                      | 32    |
-| Unit  Four  | Civics Sense                                  | 34-47 |
-|   Lesson 1  | Our Rights                                    | 34    |
-|   Lesson 2  | Our Duties                                    | 36    |
-|   Lesson 3  | Our National Heritage                         | 38    |
-|   Lesson 4  | Our Social Rules and Regulations              | 40    |
-|   Lesson 5  | District coordination Committee               | 42    |
-  Lesson 6      Functions of District coordination Committee  44
-|   Lesson 7   | Equal Treatment and Mutual Cooperation  | 46    |
-| ------------ | --------------------------------------- | ----- |
-| Unit  Five   | Our Earth                               | 48-65 |
-|   Lesson 1   | Physical Features of Nepal              | 48    |
+## Table of Contents
 
-|   Lesson 2                                        | Climate and Life style of Nepal  | 50  |
-| ------------------------------------------------- | -------------------------------- | --- |
-|   Lesson 3                                        | Natural Vegetation of Nepal      | 52  |
-|   Lesson 4                                        | The Soil of Our Country          | 54  |
-|   Lesson 5                                        | Lets draw a Map                  | 56  |
-| 	 Lesson	6						Lets	fill	the	Symbols	in	the	Map	 |                                  | 58  |
-|   Lesson 7                                        | Use of the Globe and Maps        | 60  |
-  Lesson 8  Our  Neighbouring Countries: Bangladesh, Pakistan   62
-|     | and Bhutan  |     |
-| --- | ----------- | --- |
-  Lesson 9  Our Neighbouring Countries: Sri Lanka, Maldives and  64
-|                                     | Afghanistan                                |       |
-| ----------------------------------- | ------------------------------------------ | ----- |
-| Unit Six                            | Our Past                                   | 66-79 |
-|   Lesson 1                          | Historical Objects of Our Community        | 66    |
-|   Lesson 2                          | Historical Personalities of Our Community  | 68    |
-|   Lesson 3                          | Ancient Nepal                              | 70    |
-|   Lesson 4                          | Our National Heros: Janak, Sita, Buddha,   |       |
-|                                     | Ariniko, Sankhadhar and  Amshuverma        | 72    |
-|   Lesson 5                          | Our National heros: Prithivi Narayan,      |       |
-|                                     | Balabhadra and Amar Singh                  | 74    |
-|   Lesson 6      Our National Heros  |                                            | 76    |
-  Lesson 7   Our Head of State and the Head of Government  78
-| Unit Seven Our Economic Activities  |                                               | 80-89 |
-| ----------------------------------- | --------------------------------------------- | ----- |
-|   Lesson 1                          | Occupation of the People of Dolma’s District  | 80    |
-|   Lesson 2                          | School Property                               | 82    |
-|   Lesson 3                          | National Production                           | 84    |
-|   Lesson 4                          | Use of National Products                      | 86    |
-|   Lesson 5                          | Economic Activities of Our Country            | 88    |
-Creative Arts
-| Unit One  Visual Art  |     | 91-134 |
-| --------------------- | --- | ------ |
-  Lesson 1  Making Pictures of Objects that Come into Your Mind  90
-|   Lesson 2  | Sketching Pictures of Plants, Trees and      |     |
-| ----------- | -------------------------------------------- | --- |
-|             | Environment                                  | 92  |
-|   Lesson 3  | Making Pictures of Different Animals         | 93  |
-|   Lesson 4  | Making Pictures through Geometrical  Shapes  | 94  |
-|   Lesson 5  | Preparing Colours                            | 96  |
-|   Lesson 6  | Mixing Colours                               | 97  |
-|   Lesson 7  | Presentation through Colours                 | 100 |
+| S.No. | Title |
+|-------|-------|
+| 3 | [Social Problems and their Solutions](#ch-3) |
+| 6 | [Our Past](#ch-6) |
 
-|   Lesson 8                                         | Wall Painting                              | 101  |
-| -------------------------------------------------- | ------------------------------------------ | ---- |
-|   Lesson 9                                         | Printing by means of Different Techniques  | 103  |
-|   Lesson 10                                        | Printing after Making Stencil              | 105  |
-|   Lesson 11                                        | Planning Collectively                      | 107  |
-|   Lesson 12                                        | Different Types of Collages                | 109  |
-|   Lesson13                                         | Colour the Collage                         | 110  |
-|   Lesson14                                         | Making Different Objects with Clay         | 111  |
-|   Lesson15                                         | Relief Work                                | 113  |
-|   Lesson 16  Independent Presentation using Clay   |                                            | 114  |
-|   Lesson17                                         | Making Different Objects from Paper        | 115  |
-|   Lesson 18                                        | Making Designs by Cutting Paper            | 119  |
-|   Lesson 19                                        | Making Festoons (Decorative Strips) of     |      |
-|                                                    | Colourful Paper                            | 120  |
-|   Lesson 20                                        | Making Paper Bag                           | 121  |
-|   Lesson 21                                        | Reusing Waste Materials                    | 123  |
-|   Lesson 22                                        | Constructing Objects using Wire and Boxes  | 124  |
-  Lesson 23  Constructing Objects using Different Geometrical
-|     | Figures  | 125 |
-| --- | -------- | --- |
-  Lesson 24  Constructing Objects using Sticks and Strings  128
-  Lesson 25  Constructing Objects using Pieces of Paper   129
-|   Lesson 26  | Paper Weaving                  | 130 |
-| ------------ | ------------------------------ | --- |
-|   Lesson 27  | Weaving work in the Community  | 131 |
-|   Lesson28   | Weaving work using the Frames  | 132 |
-Unit Two   Music                                                               135-153
-|   Lesson 1  | Practicing Voice  | 133 |
-| ----------- | ----------------- | --- |
-  Lesson 2  Playing the Madal, the Tabala and the Harmonium 134
-|   Lesson 3  | National Anthem        | 137 |
-| ----------- | ---------------------- | --- |
-|   Lesson 4  | Class Song             | 139 |
-|   Lesson 5  | Singing Local Songs    | 140 |
-|   Lesson 6  | Singing Songs          | 141 |
-|   Lesson 7  | Introduction to Dance  | 142 |
-|   Lesson 8  | Namaskara Dance        | 143 |
-  Lesson 9  Dancing in a Semi Circular (Chandrakar) Position 145
-|   Lesson 10  | Dancing in a Circular (Golakar) Position  | 146 |
-| ------------ | ----------------------------------------- | --- |
-|   Lesson 11  | Local Folk Dance                          | 147 |
-|   Lesson 12  | Hands posture                             | 148 |
-|   Lesson 13  | Acting                                    | 149 |
+---
 
-My Social Studies
-My Social Study and Creative Art , Grade 5 1
+## 3: Social Problems and their Solutions  {#ch-3}
 
-11 Unit 1 Me, My family and Neighbours
-My Neighbours and their Occupations
-Today’s lesson was about the occupations our neighbours are
-engaged in.
-The teacher, starting
-the lesson, said, “In the
-neighbourhood, there
-are people who are
-involved in different
-kinds of occupations
-and trades. In your
-neighbourhood too,
-may be there are
-people engaged in
-different kinds of jobs and occupations. Can you tell me about
-the occupations of your neighbours?” Sabina said, “Close to
-my house is Jeevan’s house. His father works in the field. He
-is a farmer. My other neighbour uncle Bhogendra Yadav is a
-shopkeeper. He owns a shop. Many kinds of commodities can
-be bought from his shop.”
-“My neighbour's name is Babulal. He works in the health post.
-Everyone calls him a health worker. To the east of my house lies
-the house of sister Sumnima. She is a news reader on the radio.”
-said Mingma.
-Salim stood up from his seat to say, “Sir, close to my house is
-the house of Ahmad. His father is a mechanic. He repairs radio,
-television and telephone. To the South of Ahmed’s house is the
-house of Bindiya. Her mother is a teacher in the local school.
-Note to the teacher :
-Emphasize on the active learning by asking the students in your class to tell
-the different kinds of work their neighbours do.
-2 My Social Study and Creative Art , Grade 5
-
-“My neighbours are engaged in different kinds professions. Some
-rear animals. Others work in the office. Yet others work as labours
-in factories’’ said Usha. In this way, one by one, all the students
-of the class told about the occupations of their neighbours.
-Activities
-1. Fill in the blanks with suitable words.
-a. A person living close to your house is called….....
-b. A person who works in the field is called ………....
-c. A……… repairs radio, television and telephone.
-d. A……………….teaches in school.
-e. A person who sells commodities in a shop is known
-as……………………
-2. Many people live in your neighbourhood. Write down what
-work they do.
-3. What work do the neighbours of your classmates do? Ask
-five of your classmates and write it.
-4. What benefits do you get from the occupations of your
-neighbours? Make a table as shown below and write.
-Neighbour’s occupations Benefits
-We can describe the occupations and work of our
-neighbours.
-My Social Study and Creative Art , Grade 5 3
-
-22
-Dealings with Neighbours
-Gyanimaya lives in Banepa. She reads in a local school there. She
-has many friends. Lata, Pushpa, Kiran are her friends from her
-neighbourhood. They all go to the same school as Gyanimaya.
-Her other friends. Fulmaya, Jayarupa and Bhajuram go to another
-school. They are her close friends.
-She plays with her friends on
-Saturdays and other school
-off days. Sometimes, she
-goes to her friends’ house
-to play with them. At times,
-She calls her friend’s parents
-uncle or aunt. Whenever she
-meets them, she greets them
-saying ‘Namaste’ and asking
-them how they are doing. During festivals and other religious
-function, she invites her neighbours and friends to her house.
-When she is invited with other friends, she goes to attend it.
-She keeps herself away from of backbiters in the neighbourhood.
-She doesn’t listen to people who talk badly of other people in
-the neighbourhood. She doesn’t believe it on face value until
-she verifies its truth. She tells her friends to build a habit of
-believing others on the grounds the truth. All her neighbours
-love Gyanimaya for her good conduct. They all treat her like
-their own child.
-Sometimes, her friends visit her house. They greet Gyanimaya’s
-parents with ‘Namaste’ and show respect to them by addressing
-Note to the teacher:
-Divide the students into groups and ask each group to act out the role of their
-dealings towards the neighbours. Make them to follow the habit of believing in
-others only after knowing the fact or the truth.
-4 My Social Study and Creative Art , Grade 5
-
-them as uncle or aunt. Her parents feel very happy and love them
-as they do to their daughter. She respects her neighbours. She
-always talks to them in soft and polite language.
-Activities
-1. Copy the correct sentences only in your exercise book.
-a. We must always talk to our neighbours in soft and polite
-language.
-b. We must help our neighbours in every possible ways
-we can.
-c. It is good to quarrel with our neighbours.
-d. We must believe others only after knowing the fact or
-verification of truth.
-e. We must treat all our neighbours equally.
-2. The following is a short description that Gyanimaya has
-written how she deals with her neighbours.
-When I meet my neighbours, I join hands to say ‘Namaste’.
-Then, I ask them, ‘is everyone fine ?’ A trouble, I help them
-whatever ways I can. My neighbours do different kinds of
-work. I do not discriminate my neighbours. I always talk to
-them softly and politely. I like speaking this way. I believe
-in people by probing the truth.
-Like Gyanimaya, write how you behave or deal with your
-neighbours.
-3. In the table below, write the words you use when you
-address the elders and your friends in your neighbourhood.
-I sound soft and polite while speaking with neighbours.
-My Social Study and Creative Art , Grade 5 5
-
-33
-Help in the Community work
-Santu, Maya, Sangita and her friends live in a village called Jaipur.
-Everyone around knows them because they are always ready to offer
-help. The construction of health post is going on in their village. All
-the locals have gathered and are contributing their share of work. As
-it is Saturday today. Santu, Maya and Sangita have also come there.
-They are helping in the construction work by collecting stones and
-bricks to the work site. To see them thus helping, all the people are
-happy there. They also extend their help at fairs and festivals in their
-community. They take part in cleaning the surroundings of their
-community. They clean up the road by removing stones, thorns,
-etc. At religious ceremonies the community, they collect flowers
-and hand them over to the organizer.
-Arpana and Milan live in the same locality of a town. They join in
-the the work of the community in whatever ways they can. The
-day before, they all cleaned
-the road. They piled up and
-passed on the garbage to a
-disposal site.
-Arpana and Milan tip off
-the local police station of
-any criminal activity in
-their locality. Likewise,
-they also inform the fire brigade just in case of fire breaks out
-in the locality. Once the fire brigade knows, the fire engines are
-sent immediately to put the fire out.
-Next month, there have a polio vaccine and vitamin ‘A’ feeding
-Note to the teacher:
-Conduct the teaching learning activities by applying such methods that would
-encourage the students to participate in the community works that take place
-in their local communities.
-6 My Social Study and Creative Art , Grade 5
-
-campaign to the children below five years of age. So, Arpana
-and Milan are going to help to make the programme successful
-by bringing children from the locality to the vaccination centre.
-Everyone is happy to have children like Arpana and Milan around.
-Activities
-1. Look at the given pictures. What is happening in the
-pictures? How can you help in such works? Tell the class.
-2. In what types of work have you offered your help in your
-community so far? Make a list.
-3. Santu, Maya and Sangita live in a village. Arpana and Milan
-live in a town. Where do you live? Act out the community
-works that you can do in the place where you live.
-4. Divide your classmates into two groups, A and B. Now
-,ask the students of group A to tell the collective works that
-take place in the village, and group B to tell the collective
-works that take place in the town. Then, make a table as
-shown below and write.
-Collective works that take Collective works that take
-place in the village. place in the town
-We must help out to the campaigners in community clean
-up/sanitation.
-My Social Study and Creative Art , Grade 5 7
-
-44
-Equal Treatment
-Long ago in the district of Saptari, there lived a man called Ram
-Prabesh. He had a big plot of land. His house was also not small.
-He had hired some men to work for him. He would think of himself
-as a rich man. He was proud of his money and power. Although
-he owned much wealth, he was very selfish. He never would
-help the needy people in the village. Not only that, he carried a
-old thaught. He never sent his daughters to school of afraid. They
-would lose their character.
-He'd also discriminate people
-in terms of caste. He'd neglect
-the old and the poor of his
-village. No people in the village
-liked Ram Prabesh’s manners.
-So, whenever in troubles, no
-people in the village would
-come out to help him.
-In the same village, there lived another man called Bhola. He was
-very kind and helpful. He was always ready to help the people in
-difficulties. Although he was poor, he was ready to help others
-and would be happy in doing so. He did not believe superiorty or
-inferiority just in terms of caste. He treated his son and daughter
-equally. Both are sent to school. People of different castes lived
-in his neighbourhood but he treated all of them equally. All were
-so inspired as to send their children to school. Bhola used to say
-“Son and daughter are equal”. Everyone in the village liked Bhola
-very much Ram Prabesh would not like him. He would always
-Note to the teacher
-Explain to the students the good outcome of equal treatment and the troubles
-that could crop up due to unequal treatment. You can tell them stories related to
-such treatments or give them examples of such incidents in your own community.
-8 My Social Study and Creative Art , Grade 5
-
-speak ill of Bhola. One day, all of a sudden, Bhola’s house caught
-fire. Everything in the house burnt to ashes but all the people
-from the village came to help him. They arranged a place for
-him to stay and helped him by giving clothes, utensils and food.
-Bhola was happy to find his neighbours helping him so kindly.
-Next year, Ram Prabesh’s house and fields were swept without a
-true by the flood of Saptakoshi River. No one came to help him.
-Because of his bad manners, he did not receive any help from
-his neighbours. Thereafter, Ram Prabesh realized his wrong and
-decided to be kind to everyone and treat them equally.
-Activities
-1. Answer the following questions:
-a. Why was Ram Prabesh proud of himself?
-b. What behaviour of Ram Prabesh was not liked by the
-locals ?
-c. What did Bhola believe in?
-2. Make a table as shown and write three different behaviour
-of Ram Prabesh and Bhola:
-Ram Prabesh’s Behaviour Bhola’s Behaviour or or
-Manners Manners
-3. What kind of people live in your locality? Are they like
-Ram Prabesh or like Bhola? Who do you want to be like?
-Why? Tell the class.
-I do not discriminate my neighbours and friends. I treat
-them all equally.
-My Social Study and Creative Art , Grade 5 9
-
-55
-Understand Others
-Ram Lakhan and Srikrishna study in Grade V. Ram Lakhan is
-from Terai. Srikrishna is a hill born and now settled in the Terai.
-They go to school and sit together. One day, Ram Lakhan lost
-his pen. He asked all his friends in the class, but they denied to
-have seen it. Meanwhile, Ram Lakhan accused of stealing his
-pen. He shouted out ‘Srikrishna is a thief’.
-Srikrishna said to Ram
-Lakhan, ‘I am innocent,
-don’t accuse me.”
-Srikrishna was hurt at Ram
-Lakhan’s behaviour. He
-felt insulted and thought
-nobody understood his
-feelings. He felt embarrassed
-of loss of his image. He was
-disappointed and pulled himself apart from his friends.
-That same day, at lunch break Ram Lakhan reviewed his blame
-to Srikrishna. He said to himself, “I have hurt him unnecessarily.
-Had he stolen my pen, he wouldn’t have felt so upset. How hurt
-would I have felt if I had been in his place? I shouldn’t have
-behaved like that to him.” He then went to Srikrishna to ask
-him to forgive him. The next day, the lost pen was found in the
-school ground.
-We all must respect the feeling of others. We must understand.
-Note to the teacher:
-Right from the early age the children should be taught to cultivate the habit
-of understanding and respecting others’ feelings. They should be told that it
-is not good to hurt others. Do some activities in the class highlighting this.
-10 My Social Study and Creative Art , Grade 5
-
-We must place our serves in other's situations to see how it feels.
-We must share the feeling of others. This is called sympathy. Hence,
-from now on, all of us should try to understand others’ feelings and
-should not treat or speak in a way that would hurt anyone.
-Activities
-1. Answer the following questions:
-a. What did Ram Lakhan say to Srikrishna? Why did he
-say so?
-b. How did Srikrishna feel about Ram Lakhan behaviour
-towards him?
-c. What must we do to show our sympathy to others?
-2. What behaviour falls under sympathetic behaviour? Make
-a list of such behaviour.
-3. If anyone behaves badly with you or discriminates you,
-how would you make him/ her understand that it is not a
-good thing to do?
-4. Point out which of the following is good behaviour and
-which is bad behaviour.
-a. Taking the pen of your friend in a stealthy manner.
-b. Helping friends in the times of need.
-c. Hating a friend who is weak in studies.
-d. Loving brother and sister younger to you.
-I will always be sympathetic to my friends and treat them
-equally.
-My Social Study and Creative Art , Grade 5 11
-
-11 22 33 44 55
-11 Unit 2 Our Traditions, Social Norms and Values
-Our Traditions
-Announcer: Today we are having an oratory competition in our
-class on the topic “Our Traditional Customs”. The first speaker
-Jyoti Nagarkoti is here to present her views.
-Jyoti: Respected teachers, judges and my dear friends!
-Some traditional customs in practice in our society have invited
-many problems. Calling anyone a witch or giving him/her trouble
-or discriminating people is a social crime of caste, preventing
-them to enter the temples and collect water from the public water-
-tap, is another form of in-justice. Exorasing (freeing from evil
-spirits) and quarrelling are not good practices. Ghosts, Spirits,
-etc. do not exist. How could the non existent make anyone
-sick ? People fall sick infected by
-germs and bacteria too small to see
-with our naked eye. We must keep
-ourselves away from all these kinds
-of bad customs. Thank you.
-Announcer: Now I would like to call
-the next speaker, Brij Mohan Jha.
-Brij Mohan: Respected teachers,
-judges and friends!
-A friend speaking before me was able to see bad traditions and
-customs. In our society. it does not lack good customs and
-practice. Respecting elders and showing hospitality to the guests
-are good customs. Having food after bathing and changing clothes
-is a good habit because, in doing so, dirty things cannot get onto
-the food we eat. The festival of Bhai tika strengthens love between
-brothers and sisters. Eating ghiu-chaku at Makar Sankranti gives
-strength to our body. The habit of eating things after washing
-ourhands and legs keeps us healthy. Hence, we have to preserve
-the good old traditions of our society. Thank you.
-12 My Social Study and Creative Art , Grade 5
-
-Announcer : Brij Mohan just now has presented his ideas. Now
-I would like to call Sumitra Gauchan.
-Sumitra : Respected teachers, judges and friends!
-Some traditions and customs in practice in society are good and
-others bad. A sight of an empty pot, empty basket or a cat crossing
-way has no connection with good time or bad time. It is just a
-fear. Looking people down as lower caste or anothers religion is
-a serious social crime. Discrimination between children as son
-and daughter is bad. Putting people down as poor and posing as
-rich is a social evil.
-Throwing away the bits and pieces of foodstuff after meals and
-keeping the kitchen clean is a good practice because in doing
-so, the house always remains clean. Therefore, we must avoid
-all the bad practices and take up the good ones from today itself.
-Thank you.
-Activities
-1. Conduct a similar kind of oratory competition in your class
-and award the student who stands first.
-2. Put up a role play that shows the good practices of our
-society.
-3. Complete the table below by writing the good and bad
-practices that exist in your community and the ways to
-correct the bad practices:
-Good practices Bad practices Ways to correct the
-bad practices
-4. Ask your classmates to make a note of the good practices
-they find in their families.
-We should uproot bad practices and start good ones.
-My Social Study and Creative Art , Grade 5 13
-
-22
-Our Language and Costumes
-A live commentary of a cultural programme of the 'Children’s
-Day' is going on. Sunita, Jeevan and their friends are carefully
-listening to the commentary. People of all social classes and
-religions have gathered on a large ground. They are in their
-own traditional costumes and ornaments. Local music by social
-groups has heat up the area. People
-from Newar, Tamang, Gurung, Rai,
-Limbu, Dhimal, Tharu, Rajbanshi,
-Sherpa, Brahmin, Chhetri, Magar,
-Thakali, Chepang, Sunuwar,
-communities have joined in. Now,
-the song ‘Saya thari goda eutai
-chaal; Saya thari baaja eutai taal’
-(Many feet, with same movement;
-many instruments, with the same
-tune) is playing. Most people there tap their feet in response
-to the music. The dancers dance in a group in circle to give an
-impression of multiple colours. The entire ground looks like a
-beautiful flower garden. All the spectators clap and cheer. Wow!
-They have position themselves in a way to give an impression of
-a big marigold flower. What a beautiful flower it is! One petal of
-the flower is of people in similar costume. A flower of hundred
-petals each with people in different costumes. It looks like a
-colourful marigold flower. Each group is dancing and singing in
-its own language in distinct movement. They are singing the song
-“Haamro bhasa ramro, Haamro bhes ramro, haamro sabai jaat ani
-desh ramro”(Our country is beautiful, our costumes colourful and
-Note to the teacher
-In our society there are people of multiple castes and they have their own
-languages. Even though we have diverse food habits, costumes and practices,
-we stand united to develop our country. Do some activities in the class that
-would develop feelings of helping and respecting each other.
-14 My Social Study and Creative Art , Grade 5
-
-beautiful, our country is composed of people of multiple different
-castes and beauty) It represents different religions and languages
-of Nepal. Now the singing and dancing have been stopped, and
-the chief guest of the programme is addressing.
-Nepal is a beautiful garden of varieties of flowers. We are people
-of different castes, languages, culture and costumes. May be
-we look different in our dressup and languages. We carry a
-common identity 'Nepali'. People of every community, caste and
-religion respect their own language and costumes. We respect
-our own language and costumes. Certainly, we are of different
-communities. But, we have a sence of 'Nepal' deep at heart."
-Activities
-1. Make a list of different social groups in your community and also
-write the languages they speak.
-2. Translate the sentence in bold letters below into your own mother
-tongue. Then divide yourselves into groups of students with the same
-mother tongue and read out the sentence together. Finally, like in
-the lesson, fall in line and holding each other hands, read out the
-sentence in your own languages loudly.
-“Let us all Nepalis stay united, Nepal is our common home, we all
-live in harmony.”
-3. What needs to be done in the community to for the people of many
-castes and religions to live in harmony?
-4. Draw the pictures of different costumes worn at special festivals in
-your community and write a few lines about them.
-5. Saya thari goda eutai chaal
-Saya thari baaja eutai taal
-What does this song mean to say? Explain in one paragraph.
-Our country is a common home of all Nepalis, we all
-must love it.
-My Social Study and Creative Art , Grade 5 15
-
-33
-Our Festivals
-Dear Kajari,
-A big Ekadashi fair is being held at the Bishankhu
-Narayan temple of our village. The fair is held every
-year on Kartik Sukhla Ekadashi. The temple of Lord
-Narayan is in the cave. People far off places come to Kajari Kalwar
-visit the temple to offer their prayers. A large, crowd
-Lahan, Siraha
-gathers here on this particular day. Cuckoopint
-(arum), sweet-potatoes, peanuts and oranges are
-bought and sold, and eaten on this day. Remember
-to write me about the fair held in your place. yours friend
-Bikash
-Various festivals are observed in our country out of them,
-some are religious and other cultural. Dashain, Tihar, Chhat,
-Christmas, Baishak Purnima, Janai Purnima, Id, Teej, Krishna
-Janmastami, Wadangmet, Sakela (a festival observed by Rai
-community), Gaura, etc. are religious festivals. Udhauli, Ubhauli,
-Loshar, Maaghe Sakranti, Buba Aama ko Mukh Herne Aaunsi
-(Father’s day and Mother’s day), Naya Barsha (New Year), Jatra,
-Dewali, Guthi, etc are cultural festivals. The day to observe these
-festivals are marked in the calendar. In our country, almost
-every month one or on other festival of different communities
-falls. Some festivals have roots to a religion, caste or area where
-they are observed. Because different festivals are celebrated at
-different times of the year, there is always an environment of
-merry making and excitement in our country. The Government of
-Nepal declares public holiday on some important festivals. These
-festivals provide us a chance to meet our relatives and extend
-Note to the teacher:
-Our country is a multi cultural country. Different kinds of festivals of different
-castes and religions are celebrated here. Tell the students that festivals
-should be celebrated in a friendly atmosphere and in an economical way. Do
-some activities in the class that would aware the students on these aspects.
-16 My Social Study and Creative Art , Grade 5
-
-cooperation. We get new clothes to wear and delicious food to eat.
-We worship and offer our prayers to gods and goddeses, and also
-dance. In some festivals different games are played. Houses are
-also cleaned and decorated as indicative of the coming festivals.
-If invited to attend the festival observed by people of any castes
-or religions, we should accept the invitation and after taking the
-permission from our parents, we must go to participate in the
-festival. In the name of festivals, we must not spend more than
-we can hold. Festival must not come as a show off or burden.
-Activities
-1. Make a sample postcard and send it to your friend
-explaining him/her about the fair or festival celebrated in
-your community.
-2. Look at the yearly calendar to find out the festivals observed
-in the different months of the year and present them in the
-table given below:
-Month Date/ Tithi Name of the festival Celebrated by which
-Day religious groups and
-castes/Where is it
-celebrated
-3. Make a list of festivals celebrated in your community.
-4. Tell your friends the activities carried out at celebration
-time of festival in your family.
-5. Form a group of friends and act out the things done at any
-one of the festivals observed in your community.
-We must celebrate our festivals happily. We must not
-show off while enjoying festivals.
-My Social Study and Creative Art , Grade 5 17
-
-44
-Our Country Our Pride
-1. Lagdachha malai ramailo merai pakha
-pakhero Himalchuli muntira pani
-bharne pandhero
-2. Hey aama Nepal timilai
-Sansarako ramri banaunla
-3. Himalko chhadke topi chha Maidanko
-choli dhoti chha Tara aajhai pura
-huna, auta kura chha Chhaati ma
-Nepali mann chahinchha
-4. Lalupate fhulio hajur lekhai
-ramailo Danphe Munal nachidiye
-deshai ramailo Sarangiko dhun hajur
-gaineko geetDanda kanda chhahara nai
-nepalako geet
-Dear Daughter, Mehendu
-Blessings!
-Here, I would like to share some happy moments I had had during
-my trip to a foreign country. Once a foreigner asked me, “Which
-country do you come from?” I said to him, “I come from Nepal.”
-He then asked me, “Where is Nepal?” I said, “It is in Asia. It is
-also called a country of Mount Everest.” Embraced me and he
-said, “Wow, I apprecate you as a native of the country of Mount
-Everest.” The other foreigner said, “I visited Nepal two years ago.
-Your country is like the heaven. There are rivers, lakes, springs
-and falls in all places. We get to see rare wild animal like one
-horned rhinoceros and bird like spiny babbler. When I fell ill
-Note to the teacher
-Teach the students to identify the different important places of our country
-and be proud of these places. Play our national songs (given above) and make
-them sing together so that the students develop a sense of patriotism from
-the early age.
-18 My Social Study and Creative Art , Grade 5
-
-there, I was cured of taking herbal medicines. The medicinal
-herbs found there are very effective.” He further said, “Nepal is
-also known as a country of temples. There are artistic temples
-everywhere. Different monuments at different places have
-their own tales of history. Nepal is filled with natural beauty. I
-appreciate Nepal very much. Makalu and Kanchanjunga peaks;
-Phewa, Rara and Tilicho lakes; Gandaki, Koshi and Karnali
-rivers; Lumbini and Ram Janaki temples and Kathmandu, Patan
-and Bhaktapur Durbar squares are examples of art and beauty.”
-I felt very proud to be a Nepali citizen. We must conserve such
-places in our surroundings. Our future generation should see
-them, so we must preserve them. My dear, discuss the things
-with your friends. I will keep on writing more in my next letters.
-Your daddy,
-Babu Tsheri Sherpa
-Activities
-1. In rhythm, sing together the national songs given in the lesson. Sing
-the complete song. You can play the cassette or CD of these songs
-and sing together. These songs are often played on the radio and the
-TV.
-2. Make a list of the things that make our country known to others.
-3. What things are there in your community you feel proud of and
-make your community known to others? Write a letter to your friend
-describing these places.
-4. The picture given in the lesson shows the things we are proud of
-having them that make our country known to others. List the name
-of the things. If there are any other such things, add to your list.
-5. Write a national song or poem and sing it in the class.
-6. Organise a programme to clean the important places nearby your
-school or your house.
-We are proud of the things that make our country known
-to others and we will do our best to preserve them.
-My Social Study and Creative Art , Grade 5 19
-
-55
-Good People of our District
-Hitmaan is a well-known farmer
-in the whole of Palpa district.
-In addition to growing paddy,
-wheat and maize, he grows
-vegetables as well. He grows
-varieties of fruits and ginger in
-his steep field. He also keeps
-cows, buffalos, goats and fowls.
-He contributes a little of his
-savings from agriculture and
-animal rearing to social work.
-He also lends money to the
-needy in his neighbourhood.
-Farmers from different parts
-of the district come to him to
-learn about vegetable and fruit farming. He has contributed a
-good amount of money to establish a higher secondary school
-in the neighbouring village.
-Satni Devi Chaudhary is a social worker in Kailali district. She
-is famous all over the district. She has formed women’s pressure
-group in many villages of her district. This has helped increasing
-the income of women. Now, she is active at constructing road
-to facilitate the goods's excess to the market. This road will
-link the Rural Municipality to the district headquarters. Her
-conviction “Let us make our place beautiful ourselves”, receives
-wide support.
-Note to the teacher
-Tell the students that there are renowned people in every district. Do some
-activities in the class in order to make the students identify such people and
-their work so that the students would get encouragement and inspiration to
-work like them.
-20 My Social Study and Creative Art , Grade 5
-
-Hira Maya Nakarmi, an engineer working in our district says,
-“All must come whatever skill they have with to contribute
-development.” Had she worked in the city, she would have
-earned a lot of money. But, she preferred to live in village to
-contribute for it. She is involved in the developmental works
-like generating electricity generation from the river, constrution
-canal to bring water for irrigation and school building in the
-village. This year, she was honoured as the best personality of
-the district. Many other people do good works in our district. She
-has set an example for every one to learn about 'development for
-us and by ourselves.
-Activities
-1. Make a table like the one below to write down all the good
-work of Hitmann, Satni Devi and Hira Maya:
-Hitmann Satni Devi Hira Maya
-2. What sorts of questions would you ask if you met a renowned
-social worker, doctor, artist, teacher, of your district? Write
-any five questions that you would ask him/ her.
-3. Make a list of work that you think you should do to become
-a change maker of your district in future.
-4. Make a list of all the good work each student of your class
-has done. Announce the student with a series of his/her
-work as a renowned student of grade V, and make him
-leader of your class for one month.
-We know the good people of our district and will.
-My Social Study and Creative Art , Grade 5 21
-
-Unit 3 Social Problems and their Solutions
-11
 Save Yourself and
 others from Bad Habits
 Dhaniya’s Family
@@ -844,9 +53,8 @@ Engage the students in different activities by giving them examples of good
 family and people in the society. And, also tell them how to try bringing the
 people fallen into bad habits onto the right track.
 22 My Social Study and Creative Art , Grade 5
-
 Activities
- 1  .      L  o ok at the pictures below and answer the questions that
+1  . L  o ok at the pictures below and answer the questions that
 follow:
 a.  What made the man in the picture to fall down?
 b.  What sort of place has the man fallen down on?
@@ -856,28 +64,23 @@ man in the picture ?
 2.  Make a table as given below and write what kinds of losses
 could occur due to the bad habit. Specify how drinking and
 smoking cause loss of health and image:
-|   Bad habit         |   Loss                                |     |     |
-| ------------------- | ------------------------------------- | --- | --- |
-|   Drinking alcohol  | encourage to quarrel,unnecessary      |     |     |
-|                     | expense of money,harmful to health,   |     |     |
-|                     | give trouble to family                |     |     |
+| Bad habit | Loss | | |
+| Drinking alcohol  | encourage to quarrel,unnecessary | | |
+| | expense of money,harmful to health, | | |
+| | give trouble to family | | |
 3.  There are two ways to drop bad habits. One personal and
 the other collective. One example of each is given below.
 Write down two other:
-|   Bad habit  | Personal way    | Collectiveway          |     |
-| ------------ | --------------- | ---------------------- | --- |
-|   Smoking    | Avoid smoking   | Launch anti-smoking    |     |
-| Cigarette    | by yourself     |  campaign collectively |     |
+| Bad habit  | Personal way | Collectiveway | |
+| Smoking | Avoid smoking | Launch anti-smoking | |
+| Cigarette | by yourself |  campaign collectively | |
 4.  Draw a picture showing alcohol drinking and its negative
 effects to present it in the class.
 5.  What needs to be done to make your society an Alcohol
 Free Zone? Write.
 Save yourself and others from the addiction of alcohol
 and drugs consumption.
-|                                             |     |     |     |
-| ------------------------------------------- | --- | --- | --- |
-| My Social Study and Creative Art , Grade 5  |     |     | 23  |
-
+| My Social Study and Creative Art , Grade 5  | | | 23  |
 22 Theft, Robbery and Ways to
 Protect Ourselves
 Goods Worth Lakhs of Rupees Robbed
@@ -911,7 +114,6 @@ to list the precautions that have to be taken into account to protect oneself
 from being stolen. Also, tell the students that in case of robbery, they need
 to inform the police immediately.
 24 My Social Study and Creative Art , Grade 5
-
 What should be done? What shouldn’t be done?
 - Make sure the windows doors and are - Don’t leave the doors and windows of
 closed when you leave home. your house open when not in need.
@@ -949,8 +151,6 @@ when we are travelling.
 We can prevent crimes by eliminating the reasons. By
 exercise of precautions also we can prevent them.
 My Social Study and Creative Art , Grade 5 25
-
-33
 Don’t be over- Imitative
 Mohan Lal used to live in a village before. He would to love his
 festivals and rituals. He would actively participate in all the
@@ -983,7 +183,6 @@ to list the precautions that have to be taken into account to protect oneself
 from being stolen. Also tell the students that in case of robbery, they need to
 inform the police immediately.
 26 My Social Study and Creative Art , Grade 5
-
 he celebrated his birthday by blowing out the candles cake and
 burgar gave him better taste. Freshly made dhindo and roti was
 of no taste to him. He had come to the town with a promise to
@@ -994,20 +193,18 @@ Activities
 1.  What changes took place in Mohan Lal after he became
 Michael ?  Make a table as shown below and write. One example
 has been given to you.
-   Before (Mohan Lal)  Now (Michael)
-|   Used to sing folk songs  |     | Started singing pop songs   |     |
-| -------------------------- | --- | --------------------------- | --- |
-|                            |     | and raps                    |     |
-|   ……………………………              |     | ………………………                   |     |
+Before (Mohan Lal)  Now (Michael
+| Used to sing folk songs  | | Started singing pop songs | |
+| | | and raps | |
+| …………………………… | | ……………………… | |
 2.  What changes did you think Mohan Lal would have after going to
 the town?
 3.  What traditional mores do we need to avoid ? What should we
 retain ? Write as shown in the example.
-|     Traditional mores we     |     |   traditional mores we   |     |
-| ---------------------------- | --- | ------------------------ | --- |
-|    need to avoid             |     |   should retain          |     |
-|   Torturing others with the  |     |   Respecting parents     |     |
-  accusation of being witch.
+| Traditional mores we | | traditional mores we | |
+| need to avoid | | should retain | |
+| Torturing others with the  | | Respecting parents | |
+accusation of being witch.
 4.  Have you noticed a similar person who has changed himself or herself
 like Mohan Lal, what changes have you seen in him/her ?
 5.  What suggestions would you give to Michael if you met him? Write
@@ -1016,11 +213,7 @@ down all your suggestions in points.
 A radio’s news message ………………..
 We must not forget our tradition and practices.
 We must not imitate others just so.
-|                                             |     |     |     |
-| ------------------------------------------- | --- | --- | --- |
-| My Social Study and Creative Art , Grade 5  |     |     | 27  |
-
-44
+| My Social Study and Creative Art , Grade 5  | | | 27  |
 Co-operation
 Ujeli, Ajaya and Shanti were grazing goats. Three or so children
 came to see them. One asked if they noticed a white goat coming
@@ -1054,7 +247,6 @@ some activities to teach the students how to mediate democratically between
 the two quarrelling sides when a quarrel breaks out between the students, and
 how to maintain peace and cooperation in the school.
 28 My Social Study and Creative Art , Grade 5
-
 straight to his parents.”
 Ujeli asked the shepherds what they should do then. “Please
 don’t report our parents. We will never do this again.” Ujeli
@@ -1086,8 +278,6 @@ Positive thinking and peace-making helps grow
 cooperation. We must behave in a polite manner with all
 the people.
 My Social Study and Creative Art , Grade 5 29
-
-55
 Social Organisations
 Social ills and evils have been pushing our society far behind
 day by day. There are a number of social problems in our society.
@@ -1121,7 +311,6 @@ The locally formed Youth Club, Women group, Aama Samuha, etc are working
 to eliminate social problems and evils. Find out where these institutions are in
 your community and encourage your students to help them in their work.
 30 My Social Study and Creative Art , Grade 5
-
 Activities
 1. How can a local club help eliminate social problems and evils?
 2. What kinds of activities do Red Cross and Scouts run to
@@ -1153,8 +342,6 @@ taken to Rehabilitation Centre but given punishment?
 Social institutions and organizations help speed up
 social development.
 My Social Study and Creative Art , Grade 5 31
-
-66
 Role of our Local Level
 A person has to be careful prior to doing anything. He should
 avoid bad habits. There is nothing impossible, if we try. We
@@ -1184,7 +371,6 @@ The locally formed Youth Club, Women group, Aama Samuha, etc are working
 to eliminate social problems and evils. Find out where these institutions are in
 your community and encourage your students to help them in their work.
 32 My Social Study and Creative Art , Grade 5
-
 Conduct public awareness programme on radio and television,
 Form a locality improvement committee and make it active,
 Activate Children Club, Aama Samuha, Youth Club, etc
@@ -1200,7 +386,6 @@ municipality or Municipality to resolve the social problems.
 The Local level play a vital role in eliminating social
 problems and evils
 My Social Study and Creative Art , Grade 5 33
-
 11 Unit 4 Civic Sense
 Our Rights
 Sangita Nepali lives in Otoo Tole. In her locality, there is equal
@@ -1234,7 +419,6 @@ to talk to them politely, to treat them equally and to remain mindful with
 the strangers. Also encourage them to respect the people according to their
 traditional customs.
 34 My Social Study and Creative Art , Grade 5
-
 rights. Any one deprived of any rights can file a case for legal
 remedy. The people in Sangita’s locality enjoy the fundamental
 rights. People in the villages or city have equal rights.
@@ -1261,8 +445,6 @@ Rights you enjoy Rights you don’t enjoy
 2. What rights must you have? Write in points.
 We have rights to enjoy our fundamental rights.
 My Social Study and Creative Art , Grade 5 35
-
-22
 Our Duties
 Citizens’ rights and duties are two sides of the same coin. The
 sense of duty rose with the rights. We must do to our duties while
@@ -1291,7 +473,6 @@ vote, right to education, right to property are some of the rights.
 Note to the teacher
 Make the students practise using their rights along with abiding by their duties.
 36 My Social Study and Creative Art , Grade 5
-
 Activities
 1. "Rights and duties are two sides of the same coin." Explain
 with examples.
@@ -1318,8 +499,6 @@ electric bulb of the street lamp post. You stop him and say,
 We have to abide by our duties while enjoying our rights.
 Our National Heritage
 My Social Study and Creative Art , Grade 5 37
-
-33
 Our National Heritage
 Taplejung, 2nd Bhadra.
 Planting the saplings of trees on the barren hill in Fungling
@@ -1342,7 +521,6 @@ Our national and local heritages will remain undamaged in future if we can
 engage our children in the work of conserving such heritages. Therefore, make
 the children participate in the conservation work of our heritages.
 38 My Social Study and Creative Art , Grade 5
-
 fields through a canal from the river. The water of the river is
 also used to run the mill and generate electricity. Bhima and
 her friends always help in cleaning the river. They do not throw
@@ -1371,8 +549,6 @@ Forests Panche baaja
 Lets us rain hands to conserve our National Heritages.
 Our Social Rules and Regulations
 My Social Study and Creative Art , Grade 5 39
-
-44
 Our Social Rules and Regulations
 Biju Chaudhari’s father was constructing a new house. First
 of all, he made a ritual pooja at the foundation of the house.
@@ -1405,7 +581,6 @@ If the people in the society follow the rules and regulations, they will be
 disciplined and social. Do some activities that would aware the children about
 such rules and follow them.
 40 My Social Study and Creative Art , Grade 5
-
 funeral rites, etc. If a person falls sick in a house, the people
 around look after the patient. This is their social rules and
 regulations. Such rule is of their own making.
@@ -1434,8 +609,6 @@ these practices in your community? Ask your parents and
 write.
 We must follow our social rules and regulations.
 My Social Study and Creative Art , Grade 5 41
-
-55
 District Co-ordination Committee
 Nepal has become a federal state. According to the present
 coustitution of Nepal, there are three levels of the government:
@@ -1466,11 +639,10 @@ Don’t simply depend on this textbook to teach the children about the procedure
 of the formation of District Development Committee and its organization. Teach
 them according to the norms set up by the existing directive.
 42 My Social Study and Creative Art , Grade 5
-
 Chief
 Deputy Chief
 3 members 3 women members 1 dalit/minority
-(at least)
+at least
 Activities
 1. How is district coordination committee formed ?
 2. How is district assambly formed ?
@@ -1482,9 +654,7 @@ Each district has a district coordination committee to
 maintain coordination between and/or among the rural
 municipalities and municipalities within the district.
 My Social Study and Creative Art , Grade 5 43
-
 Functions of District
-66
 Co-ordination Committee
 The district development committees of the country have been
 changed into the district coordination committees after Nepal
@@ -1516,10 +686,9 @@ Co-ordination Committee. Ask them to find out the projects completed with
 the assistance of District Co-ordination Committee, and prepare a short report
 about such projects.
 44 My Social Study and Creative Art , Grade 5
-
 iv. To carry out other function accroding to the provincial law.
 It links the coordination of federal and provinal government with
-the local government (Rural municipality and municipality)
+the local government (Rural municipality and municipality
 Activities
 1. What kind of institution is the district coordination
 committee ?
@@ -1536,12 +705,10 @@ c. Development activities conducted by the village council
 and municipalities are monitored and coordinated by
 the .............
 My Social Study and Creative Art , Grade 5 45
-
-77
 Equal Treatment and
 Mutual Co-operation
-(Urmila and Sharmila are discussing the issue how to treat
-equally with all. The conversation between them is given below.)
+Urmila and Sharmila are discussing the issue how to treat
+equally with all. The conversation between them is given below.
 Sharmila: What does equal treatment mean? Will you explain
 me, please ?
 Urmila : Sure ! It's the same kind of behaviour to all known
@@ -1572,7 +739,6 @@ to talk to them politely, to treat them equally and to remain mindful with
 the strangers. Also encourage them to respect the people according to their
 traditional customs.
 46 My Social Study and Creative Art , Grade 5
-
 it. If a quarrel starts in the classroom, you should
 initiate to resolve it in free and fair manner.
 Sharmila : Please, tell me, what must I keep in mind while
@@ -1606,7 +772,6 @@ We must all learn to live in a peaceful environment.
 We should treat everyone equally and maintain mutual
 cooperation among ourselves.
 My Social Study and Creative Art , Grade 5 47
-
 11 Unit 5 Our Earth
 Physical Features of Nepal
 Our country Nepal lies in Asia. Our immediale neighbours China
@@ -1639,7 +804,6 @@ Teach about the physical features of Nepal by asking questions showing the
 map of Nepal or by applying any other suitable means. Perform the activities
 in such a way that there is an active participation of every child.
 48 My Social Study and Creative Art , Grade 5
-
 known as the Terai region. This region stretches all the way from
 Mechi in the east to Mahakali in the west. This region is made up of
 fertile soil. The soil of this region has been carried down by the rain
@@ -1669,8 +833,6 @@ Why? Give reasons.
 Physically our country is divided into three regions:
 Mountain, Hill and Terai
 My Social Study and Creative Art , Grade 5 49
-
-22
 Climate and Life style of Nepal
 The Himalayan region remains cold throughout the
 year. Hence, the people here wear heavy woolen
@@ -1707,7 +869,6 @@ Teach the children about the social life of the people living in the different
 regions of Nepal by discussing, asking and answering, exhibiting and acting or
 by using any suitable technique.
 50 My Social Study and Creative Art , Grade 5
-
 Rajbanshi, Dhimal, etc. The climate is very hot
 here. Most men here wear shirt, pants, dhoti, kurta,
 etc. Women wear saree, blouse, petani, bona, kurta
@@ -1734,8 +895,6 @@ I can give a general introduction to the life style of the
 people and the climate of the Himalayan, the Hilly and the
 Terai regions of our country.
 My Social Study and Creative Art , Grade 5 51
-
-33
 Natural Vegetation of Nepal
 The climate determines the vegetation. Nepal
 is a country having diverse climate. Therefore,
@@ -1767,7 +926,6 @@ Carry out teaching learning activities by following different suitable methods
 like organizing exhibition, taking students on a tour, making them do research
 or any other productive methods.
 52 My Social Study and Creative Art , Grade 5
-
 industries because of this vegetation. Likewise, the forests saves
 us from flood, landslide and soil erosion. It also plays a great role
 in conserving the environment.
@@ -1795,8 +953,6 @@ coniferous trees.
 I can tell the types and importance of various types of
 vegetation of our country.
 My Social Study and Creative Art , Grade 5 53
-
-44
 The Soil of Our Country
 Haridev, Malati and Nanishova are discussing about the soil of
 our country.
@@ -1834,7 +990,6 @@ different suitable methods like organizing exhibition, taking students on a tour
 making them do research or any other productive methods. Collect different
 types of soil and exhibit it in the class.
 54 My Social Study and Creative Art , Grade 5
-
 Cardamom, tea, coffee and fruits are also grows in several
 parts of this region.
 Nani: In the Hilly region, we find loamy soil in Kathmandu
@@ -1857,8 +1012,6 @@ live in are grown?
 I can give a short introduction to the soil found in the
 different regions of Nepal.
 My Social Study and Creative Art , Grade 5 55
-
-55
 Learn to Draw a Map
 A map is the representation of the earth’s surface on a piece
 of paper. Map gives us a lot of information about the earth.
@@ -1890,7 +1043,6 @@ Make the students practise drawing the outline map of Nepal using the methods
 given in the lesson. Also, ask them to practice drawing the map of their zone,
 district and community.
 56 My Social Study and Creative Art , Grade 5
-
 a pencil, an eraser and a clean sheet of blank paper. With
 a pencil draw the outline of the map on the piece of paper.
 Erase the part which doesn’t seem to be correct and keep on
@@ -1914,8 +1066,6 @@ pin it on the display board of your class.
 We can draw the outline of the map using different
 methods.
 My Social Study and Creative Art , Grade 5 57
-
-66
 Fill the Symbols in the Map
 In the previous lesson, you have learnt to draw an outline map
 of Nepal. Learning how to draw a map is not enough. A map
@@ -1930,7 +1080,6 @@ small map. Writing on the map also doesn’t make it look attractive
 and we cannot even get the right information. It is for this reason
 that symbols are used in the map. Some of the common symbols
 or indices that are used on the map are given below:
-) !)) @))
 hills/mountain
 Lake
 Capital/ Town
@@ -1942,13 +1091,10 @@ Note to the teacher
 Make the students draw and fill up the facts on the map side by side and also
 make them practice to insert the symbols correctly.
 58 My Social Study and Creative Art , Grade 5
-
 Activities
 1. Draw the symbols given in the lesson on a chart paper and
 display it in the class.
 2. Match the following fact with their symbol.
-gbL
-tfn
 lxdfn
 ;8s
 ;x/
@@ -1960,8 +1106,6 @@ using symbols show the important facts of that place.
 We have learnt how to show different facts of Nepal on
 the map by using symbols.
 My Social Study and Creative Art , Grade 5 59
-
-77
 Use of the Globe and Maps
 The bell rang after the lunch break. All the students got back to their
 respective classes. The students of grade five were eager to learn
@@ -1995,7 +1139,6 @@ Ask the students to show the land and water parts and the oceans on the map
 and the globe. Also, give the general idea to the students on how to use the
 map and the globe.
 60 My Social Study and Creative Art , Grade 5
-
 it slowly and look for the thing we want to know. The
 earth rotates in the same way.
 Bhaikaji : How are the land and the water parts of the earth shown
@@ -2027,49 +1170,39 @@ from the map from the globe
 We can use the globe and the map to find out geographical
 facts.
 My Social Study and Creative Art , Grade 5 61
-
-| 88  | Our  Neighbouring  |     | Countries:  |
-| --- | ------------------ | --- | ----------- |
+| 88  | Our  Neighbouring  | | Countries:  |
 Bangladesh, Pakistan and Bhutan
-| 1.       | Bangladesh                             |     |     |
-| -------- | -------------------------------------- | --- | --- |
-| Area     | :   1,44,000 square km.                |     |     |
-| Border   | :   India to the east, west and north. |     |     |
+| 1. | Bangladesh | | |
+| Area | : 1,44,000 square km. | | |
+| Border | : India to the east, west and north. | | |
 Bay of Bengal and Myanmaar to
 the south.
-| Capital     | :   Dhaka            |     |     |
-| ----------- | -------------------- | --- | --- |
-| Climate     | :   Hot and rainy    |     |     |
-| Population  | :   12 crore 94 lakh |     |     |
-| Language    | :   Bengali, Urdu    |     |     |
-Major Production :   Paddy, jute and Jute products, fish, tea, etc
+| Capital | : Dhaka | | |
+| Climate | : Hot and rainy | | |
+| Population  | : 12 crore 94 lakh | | |
+| Language | : Bengali, Urdu | | |
+Major Production : Paddy, jute and Jute products, fish, tea, etc
 Main Occupation : Farming/ cultivation
-| Currency  | : Taka                             |     |     |
-| --------- | ---------------------------------- | --- | --- |
-| 2.        | Pakistan                           |     |     |
-| Area      | :   8,04,000 square km             |     |     |
-| Border    | :  India to the east, Afghanistan  |     |     |
+| Currency  | : Taka | | |
+| 2. | Pakistan | | |
+| Area | : 8,04,000 square km | | |
+| Border | :  India to the east, Afghanistan  | | |
 and Iran to the west, China
 to the North and the Pacific
 Ocean to the south
-| Capital  | :   Islamabad                      |     |     |
-| -------- | ---------------------------------- | --- | --- |
-| Climate  | :   Hot in the south, cold in the  |     |     |
+| Capital  | : Islamabad | | |
+| Climate  | : Hot in the south, cold in the  | | |
 north and it rains in the rainy
 season
-| Population  | :   15 crore 6 lakh              |     |     |
-| ----------- | -------------------------------- | --- | --- |
-| Language    | :   Urdu, Punjabi, Sindhi, Pastu |     |     |
+| Population  | : 15 crore 6 lakh | | |
+| Language | : Urdu, Punjabi, Sindhi, Pastu | | |
 Major Occupation :  Farming/cultivation
-| Currency  | :   Rupee |     |     |
-| --------- | --------- | --- | --- |
+| Currency  | : Rupee | | |
 Note to the teacher
 If possible invite persons who have visited Bangladesh, Pakistan and Bhutan
 as resource persons to teach the students. If not possible use any suitable
 methods like question-answer, discussion, etc
-| 62	 	 | 	 	 | 				My Social Study and Creative Art , Grade 5 |     |
-| ----- | --- | ---------------------------------------------- | --- |
-
+| 62	 	 | 	 	 | 				My Social Study and Creative Art , Grade 5 | |
 3. Bhutan
 Area : 46,620 square km
 Border : India to the east, west and north;
@@ -2096,83 +1229,66 @@ bordering Bangladesh, Bhutan and Pakistan.
 We can give the general information of our neighbouring
 countries: Bangladesh, Bhutan and Pakistan.
 My Social Study and Creative Art , Grade 5 63
-
 Our Neighbouring Countries:
-99
 Sri Lanka, Maldives and Afganistan
 1.  Sri Lanka
-| Area     | :  66,000 square km.           |     |
-| -------- | ------------------------------ | --- |
-| Border   | :  Indian Ocean on all sides   |     |
-| Capital  | :  Colombo                     |     |
-| Climate  | :  Hot and humid (extreme hot  |     |
-and rainy)
-| Population  | :  1 crore 92 lakh         |     |
-| ----------- | -------------------------- | --- |
-| Language    | :  Sinhali, Tamil, English |     |
+| Area | :  66,000 square km. | |
+| Border | :  Indian Ocean on all sides | |
+| Capital  | :  Colombo | |
+| Climate  | :  Hot and humid (extreme hot  | |
+and rainy
+| Population  | :  1 crore 92 lakh | |
+| Language | :  Sinhali, Tamil, English | |
 Major  Production :  Coconut, rubber, cloth, fish, tea, etc
 Main Occupation  :  Farming
-| Currency  | :  Rupee |     |
-| --------- | -------- | --- |
+| Currency  | :  Rupee | |
 2.  Maldives
-| Area        | :  300 square km             |     |
-| ----------- | ---------------------------- | --- |
-| Border      | :  Indian Ocean on all sides |     |
-| Capital     | :  Male                      |     |
-| Climate     | :  Extreme hot and rainy     |     |
-| Population  | :  3 lakh                    |     |
-| Language    | :  Divehi, Sinhali, Tamil    |     |
+| Area | :  300 square km | |
+| Border | :  Indian Ocean on all sides | |
+| Capital | :  Male | |
+| Climate | :  Extreme hot and rainy | |
+| Population  | :  3 lakh | |
+| Language | :  Divehi, Sinhali, Tamil | |
 Major Production :  Fish
 Main Occupation : Farming/cultivation and Tourism
-| Currency  | :  Rupiah |     |
-| --------- | --------- | --- |
+| Currency  | :  Rupiah | |
 Note to the teacher
 Collect some other information about Afghanistan, Sri Lanka and Maldives and
 share them with the students.
 | 64	 	 | 	 	 | 				My Social Study and Creative Art , Grade 5 |
-| ----- | --- | ---------------------------------------------- |
-
 3.  Afganistan
-| Area    | :   6, 5,2000 square km              |     |     |     |     |
-| ------- | ------------------------------------ | --- | --- | --- | --- |
-| Border  | :   Pakistan and China to the east;  |     |     |     |     |
+| Area | : 6, 5,2000 square km | | | | |
+| Border  | : Pakistan and China to the east;  | | | | |
 Iran to the west; Turkmenistan
-|                                  | and Tazakistan to the north and  |     |     |     |     |
-| -------------------------------- | -------------------------------- | --- | --- | --- | --- |
+| | and Tazakistan to the north and  | | | | |
 Pakistan to the  south
-| Capital  | :   Kabul                        |     |     |     |     |
-| -------- | -------------------------------- | --- | --- | --- | --- |
-| Climate  | :  Scanty rainfall; Cold in the  |     |     |     |     |
+| Capital  | : Kabul | | | | |
+| Climate  | :  Scanty rainfall; Cold in the  | | | | |
 north, hot in the south
-| Population  | :  2 crore 5 lakh              |     |     |     |     |
-| ----------- | ------------------------------ | --- | --- | --- | --- |
-| Language    | :  Pharsi, Pastu, Paito, Daari |     |     |     |     |
+| Population  | :  2 crore 5 lakh | | | | |
+| Language | :  Pharsi, Pastu, Paito, Daari | | | | |
 Major Production  :  Silk, wheat
 Main Occupation  :  Farming, trade, etc
-| Currency  | :  Afgani |     |     |     |     |
-| --------- | --------- | --- | --- | --- | --- |
+| Currency  | :  Afgani | | | | |
 Activities
 1.  Find out Sri Lanka, Maldives and Afganistan in the map of Asia.
 2.  Write about the following things of Sri Lanka, Maldives and
 Afghanistan.
-
-| Countries  | Capital   | Major       | Major       | Population  | Language |
-| ---------- | --------- | ----------- | ----------- | ----------- | -------- |
-|            |           | Occupation  | Production  |             |          |
+| Countries  | Capital | Major | Major | Population  | Language |
+| | | Occupation  | Production  | | |
 3.  Draw the maps of the following countries and colour them with
 appropriate colours.
-  Maldives, Afghanistan, Sri Lanka, Bhutan, Pakistan, Bangladesh,
+Maldives, Afghanistan, Sri Lanka, Bhutan, Pakistan, Bangladesh,
 India, Nepal and China
 4.  What would have happened if our country had been in the place
 of Sri Lanka? Discuss with your friends or think by yourself
 and say.
 We can give the general information of our neigbouring
 countries Sri Lanka, Maldives and Afghanistan.
-
 My Social Study and Creative Art , Grade 5  65
 
-Unit 6 Our Past
-11
+## 6: Our Past  {#ch-6}
+
 Historical Objects of Our Community
 History is a form of record of past events. We did not notice many
 events ourselves. The facts and figures tell us how the people in
@@ -2206,7 +1322,6 @@ Cultivate the habit of finding out the objects of historical and archeological
 importance of the community in the children. The habit of participating in the
 work of preserving such objects should be encouraged right from their young age.
 66 My Social Study and Creative Art , Grade 5
-
 7. Utensils: We can get knowledge
 about the lifestyle of the people
 living in the past from old utensils
@@ -2237,9 +1352,7 @@ pelting stones
 d. Currency/Coins (ancient) - keeping in files safely
 We must preserve the objects of historical importance.
 My Social Study and Creative Art , Grade 5 67
-
 Historical Personalities
-22
 of Our Community
 Our Social Studies teacher gave us a project work. It was to find
 out the historical personalities of the community. And, then
@@ -2273,7 +1386,6 @@ about them and publicize their contribution. Also, conduct such activities in th
 class that would inspire the children to do something good for the community
 and the country and become known like the historical personalities.
 68 My Social Study and Creative Art , Grade 5
-
 It established Loktantra in our country. Although he lost
 his eye sight by injuries during the movement, he is happy
 at the arrival of Loktantra in the country.
@@ -2300,8 +1412,6 @@ personalities made for the country
 There are historical personalities in our community. We
 must find and respect them.
 My Social Study and Creative Art , Grade 5 69
-
-33
 Ancient Nepal
 Many years ago Kathmandu valley was a big lake. It was not
 like what it is now. The Bagmati River that flows south from
@@ -2313,7 +1423,7 @@ Gopal Dynasty
 Because of green grass waved all
 around the Kathmandu valley,
 the Gopals, came from Mathura
-(India) to settle here. They started
+India) to settle here. They started
 to keep cows. Later, they started
 to rule over the valley. Keeping
 cows was their main occupation.
@@ -2334,7 +1444,6 @@ Note to the teacher:
 Explain the children about the Gopal, Mahispal and Kirat dynasties of ancient
 Nepal by telling stories or by holding discussion about them.
 70 My Social Study and Creative Art , Grade 5
-
 a buffalo is called Mahis. The people who reared buffaloes thus
 came to be called Mahispal. The dynasty ruled Nepal for about
 150 years. The last king of the dynasty was Bhuwan Singh. During
@@ -2367,8 +1476,6 @@ of the Kirats.
 Ancient Nepal was ruled by the Gopal, the Mahispal and
 the Kirat dynasties.
 My Social Study and Creative Art , Grade 5 71
-
-44
 Our National Heroes: Janak, Sita, Buddha,
 Ariniko, Sankhadhar and Amshuverma
 Janak was the king of Mithala. He was a great
@@ -2395,7 +1502,6 @@ our country and had worked for the betterment of the citizens and the country.
 Conduct such activities in the class that the children would admire and feel
 proud of these people.
 72 My Social Study and Creative Art , Grade 5
-
 Amshuverma was a famous king of the Lichchhavi
 period. He had good relations with the neighbouring
 countries. He was a social reformer. He developed
@@ -2423,9 +1529,7 @@ famous like our national luminaries ?
 We all should do something great that to raise the image
 of your country.
 My Social Study and Creative Art , Grade 5 73
-
 Our National Heroes: Prithivi Narayan,
-55
 Balabhadra and Amar Singh
 Mukesh had an exciting dream last night. In his dream, he met
 some of our national heroes. He spoke to them. The following is the
@@ -2460,7 +1564,6 @@ Note to the teacher
 Carry out such activities that would arouse the feeling of learning lessons about
 patriotism and self-respect from our national heroes.
 74 My Social Study and Creative Art , Grade 5
-
 country. We were ready to die for the
 country. We never surrendered to the
 foreigners.
@@ -2493,17 +1596,13 @@ below the pictures and display them in the class.
 It is the duty of us Nepalis to live with dignity and work
 for progress and prosperity.
 My Social Study and Creative Art , Grade 5 75
-
-66
- Our National Heroes
-|     | Pasang Lhamu Sherpa |     |     | Bhimsen Thapa      |     |
-| --- | ------------------- | --- | --- | ------------------ | --- |
-|     | Born on : 2018 B.S. |     |     | Born on: 1832 B.S. |     |
+Our National Heroes
+| | Pasang Lhamu Sherpa | | | Bhimsen Thapa | |
+| | Born on : 2018 B.S. | | | Born on: 1832 B.S. | |
 Place of birth: Gorkha
 Place of birth : Solukhumbu
-|     | Died on : 2050 B.S.     |     |     | Died on: 1896 B.S. |        |
-| --- | ----------------------- | --- | --- | ------------------ | ------ |
-|     | Major work   : She was  |     |     | Major work :       |   H e  |
+| | Died on : 2050 B.S. | | | Died on: 1896 B.S. | |
+| | Major work : She was  | | | Major work : | H e  |
 the first Nepali woman to reach  was the first Prime Minister
 the summit of Mt. Everest. She  of Nepal. He planned  to chase
 the briton from Asia in order to
@@ -2516,15 +1615,13 @@ the treaty of Sugauli to defend
 and courageous like any in the
 Nepal. He had also introduced
 world. She has inspired to Nepalis
-| to do brave and courageous work. |     |     | some reform in Nepal. |     |     |
-| -------------------------------- | --- | --- | --------------------- | --- | --- |
+| to do brave and courageous work. | | | some reform in Nepal. | | |
 Bhanu Bhakta Acharya
 Motiram Bhatta
-|               | Born on: 1871 B.S.      |             |     | Born on: 1923 B.S.       |     |
-| ------------- | ----------------------- | ----------- | --- | ------------------------ | --- |
-|               | Place of birth: Tanahun |             |     | Place of birth:Kathmandu |     |
-|               | Died on: 1926 B.S       |             |     | Died on: 1953 B.S.       |     |
-| Major work :  | At  a                   | time  when  |     |                          |     |
+| | Born on: 1871 B.S. | | | Born on: 1923 B.S. | |
+| | Place of birth: Tanahun | | | Place of birth:Kathmandu | |
+| | Died on: 1926 B.S | | | Died on: 1953 B.S. | |
+| Major work :  | At  a | time  when  | | | |
 Major work : Motiram Bhatta
 literature was composed in Sanskrit,
 Urdu, and Hindi languages only. he  is known as a Young poet of
@@ -2532,8 +1629,7 @@ Nepal. He introduced Bhanu
 proved to all that poetry could be
 Bhakta Acharya by publishing
 written in Nepali language, too.
-|     |     |     | the  Nepali  | version  | of  the  |
-| --- | --- | --- | ------------ | -------- | -------- |
+| | | | the  Nepali  | version  | of  the  |
 He translated the Ramayana from
 Ramayana written by him. It
 Sanskrit into easy Nepali language.
@@ -2550,9 +1646,7 @@ Note to the teacher
 It is our duty to respect and honour our national luminaries. Conduct the
 activities in the class so that the students would feel that they should do good
 work to become like the national heroes.
-| 76	 	 | 	 	 | 				My Social Study and Creative Art , Grade 5 |     |     |     |
-| ----- | --- | ---------------------------------------------- | --- | --- | --- |
-
+| 76	 	 | 	 	 | 				My Social Study and Creative Art , Grade 5 | | | |
 Tribhuvan
 Born on : 1963 B.S. Ram Shah
 Place of birth : Kathmandu Born on : 1643 B.S.
@@ -2600,7 +1694,6 @@ his works.
 National Luminaries are those who serve the country to
 uphold its image. They spend their lifetime there.
 My Social Study and Creative Art , Grade 5 77
-
 77 Our Head of State and
 the Head of Government
 Head of the State
@@ -2637,7 +1730,6 @@ Conduct such activities in the class so that the children would know that the
 head of the state and the head of the government are our representatives and
 they work for us.
 78 My Social Study and Creative Art , Grade 5
-
 The first Prime Minister of Nepal was Bhimsen Thapa. The first
 Prime Minister elected by the people of Nepal was Bisheshwor Prasad
 Koirala. Pushpa Kamal Dahal "Prachanda" was the first elected Prime
@@ -2662,10 +1754,7 @@ country.
 Functions of the President Functions of the Prime Minister
 We know our President and our Prime Minister
 My Social Study and Creative Art , Grade 5 79
-
-|     | Unit 7    | Our Economic Activities |     |     |     |
-| --- | --------- | ----------------------- | --- | --- | --- |
-11
+| | Unit 7 | Our Economic Activities | | | |
 Occupation of the People of
 Dolma’s District
 Dolma lives in Shankhuwashaba district. Though the district is known
@@ -2673,32 +1762,27 @@ as a Himalayan district, most of its parts lie in the hilly region. The
 deepest Arun Valley and Mount Makalu lie in the district. Dolma has
 shown in the table below what the people living in different parts of
 her district do to earn their living:
-| Place  |     |     | Major Economic Activities |     |     |
-| ------ | --- | --- | ------------------------- | --- | --- |
+| Place  | | | Major Economic Activities | | |
 Yak, sheep and mountain goat
 Hatiya, Kimathanka,Chepuwa,
 rearing; collecting herbs and
 Chyamtang, Makalu
 selling it; weaving and selling
 carpets and woolen blankets.
-| Hedangna, Mawadan, Tamku,  |     |     | Weaving doko, baskets and  |     |     |
-| -------------------------- | --- | --- | -------------------------- | --- | --- |
+| Hedangna, Mawadan, Tamku,  | | | Weaving doko, baskets and  | | |
 woolen blankets, orange farming,
-| Bala,     | Yamdang,  | Sisuwa,  |                                   |     |     |
-| --------- | --------- | -------- | --------------------------------- | --- | --- |
-| Pawakhola |           |          | cultivation of wheat, paddy, etc. |     |     |
+| Bala, | Yamdang,  | Sisuwa,  | | | |
+| Pawakhola | | | cultivation of wheat, paddy, etc. | | |
 Num, Siddha Pokhari, Swachi,  Livestock rearing; Cultivation
 of maize, millet etc.
 Barahbise, Nundhaki, Sabha
 Pokhari, Siprung
-| Chewa,                     | Pangma,  | Dhupu,  | cultivation millet, maize and       |          |         |
-| -------------------------- | -------- | ------- | ----------------------------------- | -------- | ------- |
-| Chandanpur, Wana           |          |         | vegetables; livestock farming, etc. |          |         |
-| Manebhanjyang, Khandbari,  |          |         | Business,                           | labour,  | making  |
+| Chewa, | Pangma,  | Dhupu,  | cultivation millet, maize and | | |
+| Chandanpur, Wana | | | vegetables; livestock farming, etc. | | |
+| Manebhanjyang, Khandbari,  | | | Business, | labour,  | making  |
 utensils, job, tourism, etc.
 Tumlingtaar, Chainpur, Madi
-|     |     |     | Cultivation  | of    paddy  | and  |
-| --- | --- | --- | ------------ | ------------ | ---- |
+| | | | Cultivation  | of paddy  | and  |
 Tamaphok, Mudhe,
 vegetables, livestock  farming
 Sanishchare, Syabun
@@ -2707,9 +1791,7 @@ Note to the teacher
 The subject matter given in the lesson is just a model. Ask the students to find
 out and write about the people engaged in the economic activities in their districts.
 Also ask them to show the major production of their districts in the map.
-| 80	 	 | 	 	 | 				My Social Study and Creative Art , Grade 5 |     |     |     |
-| ----- | --- | ---------------------------------------------- | --- | --- | --- |
-
+| 80	 	 | 	 	 | 				My Social Study and Creative Art , Grade 5 | | | |
 Dolma learnt how to draw the map of her district since grade four. So,
 she has drawn a map of her district. There, she show the places and
 the jobs of the people. What occupation people pick depends on the
@@ -2723,7 +1805,6 @@ paddy farming
 orange farming
 sheep and
 mountain goat
-t
 cardamom
 business industry
 maize
@@ -2742,8 +1823,6 @@ people in your district and their importance.
 I can describe the professions and people of my district
 are involved in.
 My Social Study and Creative Art , Grade 5 81
-
-22
 School Property
 Like in our house, there are a number of materials in a school. They
 help us during teaching and learning process. In the classroom,
@@ -2777,7 +1856,6 @@ like arranging the materials in the classroom, taking care of the materials,
 keeping the classroom clean, etc. Monitor the work done by each group and
 reward the group that carries out its responsibility properly.
 82 My Social Study and Creative Art , Grade 5
-
 Activities
 materials on one side and the ways to use them carefully
 on the other:
@@ -2805,9 +1883,7 @@ the work properly.
 4. Draw pictures of the things in your school that you like ?
 We must take proper care of all the materials in the school.
 My Social Study and Creative Art , Grade 5 83
-
-33
- National Production
+National Production
 Many different kinds of goods are produced
 in our country. Majority of the population
 in our country is engaged in agriculture.
@@ -2827,36 +1903,30 @@ and metal furniture, medicines, radio, television, motor parts,
 garments, etc. We do not consume all we produce. The rest
 products are sold out this is what we call export. It earns us
 foreign currency.
-| Goods produced  | Source of    |     | Production Place                      |     |
-| --------------- | ------------ | --- | ------------------------------------- | --- |
-|                 | Production   |     |                                       |     |
-| Paddy           | Agriculture  |     | Terai region, flat land in the hills  |     |
-Maize, Millet and   Agriculture   Hilly region, high hilly region Tea
-|     | Agriculture  |     | Illam, Jhapa, Panchthar, Dhankuta |     |
-| --- | ------------ | --- | --------------------------------- | --- |
-Jute, Mango,    Agriculture  Terai region, flat land in the hills
-| Sugarcane  | Jack fruit, Banana, |                                                |                               |     |
-| ---------- | ------------------- | ---------------------------------------------- | ----------------------------- | --- |
-| Oranges    | Agriculture         |                                                | Dhankuta,  Pokhara and other  |     |
-|            |                     |                                                | high region                   |     |
-| 84	 	      | 	 	                 | 				My Social Study and Creative Art , Grade 5 |                               |     |
-
-| Apples         | Agriculture                               | Jumla, Mustang, Helambu     |     |
-| -------------- | ----------------------------------------- | --------------------------- | --- |
-|                |                                           | and the Himalayan areas     |     |
-| Vegetables     | Agriculture                               | Almost every places         |     |
-| Doko, Naamlo,  | Cottage                                   | Almost every places         |     |
-| Basket (dalo)  | Industries                                | every places                |     |
-| Utensils       | Cottage Industries                        | Rural and urban areas of    |     |
-|                |                                           | different places            |     |
-| Cement         | Large Scale  Industries Udaypur, Hetauda  |                             |     |
-Clothes, Shoes  Large Scale Industries   Big towns like Kathmandu,
-|        |                                                       | Hetauda,Birjung, Biratnagar,etc |     |
-| ------ | ----------------------------------------------------- | ------------------------------- | --- |
-| Soap   | Cottage&Large                                         | Duhabi, Birjung and Butwal      |     |
-|        | Scale Industries                                      |                                 |     |
-| Sugar  | Large Scale Industries  Birjung, Bhairahawa, Morang   |                                 |     |
-|        |                                                       | etc                             |     |
+| Goods produced  | Source of | | Production Place | |
+| | Production | | | |
+| Paddy | Agriculture  | | Terai region, flat land in the hills  | |
+Maize, Millet and Agriculture Hilly region, high hilly region Tea
+| | Agriculture  | | Illam, Jhapa, Panchthar, Dhankuta | |
+Jute, Mango, Agriculture  Terai region, flat land in the hills
+| Sugarcane  | Jack fruit, Banana, | | | |
+| Oranges | Agriculture | | Dhankuta,  Pokhara and other  | |
+| | | | high region | |
+| 84	 	 | 	 	 | 				My Social Study and Creative Art , Grade 5 | | |
+| Apples | Agriculture | Jumla, Mustang, Helambu | |
+| | | and the Himalayan areas | |
+| Vegetables | Agriculture | Almost every places | |
+| Doko, Naamlo,  | Cottage | Almost every places | |
+| Basket (dalo)  | Industries | every places | |
+| Utensils | Cottage Industries | Rural and urban areas of | |
+| | | different places | |
+| Cement | Large Scale  Industries Udaypur, Hetauda  | | |
+Clothes, Shoes  Large Scale Industries Big towns like Kathmandu,
+| | | Hetauda,Birjung, Biratnagar,etc | |
+| Soap | Cottage&Large | Duhabi, Birjung and Butwal | |
+| | Scale Industries | | |
+| Sugar  | Large Scale Industries  Birjung, Bhairahawa, Morang | | |
+| | | etc | |
 Activities
 1.  Make a list of the goods used in your house and school. Write
 which of them were made in your own country and which
@@ -2864,7 +1934,7 @@ others came from outside in or imported.
 2.  Sort out whether the given goods are produced in agriculture
 industry, cottage industry or large scale industry. Also, mention
 where these goods are produced.
-  Sugar, jute bags, tea, apple, biscuits, medicine, soap, clothes,
+Sugar, jute bags, tea, apple, biscuits, medicine, soap, clothes,
 basket, fountain pen, copy, tooth-paste, paddy, milk, vegetables,
 furniture, dhaka, khukuri, karuwa, churpi, doko, and mandro.
 3.  Visit the nearest shop. Look at the things on sale and make
@@ -2875,10 +1945,7 @@ goods of Nepali and foreign brand.
 in the market around you. Write a paragraph about it.
 I can recognize the brands and the importance of the goods
 produced in our country.
-
 My Social Study and Creative Art , Grade 5  85
-
-44
 Use of National Products
 The conversation between Sabina and Ram Agrawal is here She is a
 class five student and he is an industrialist. They discuss ‘Why we
@@ -2912,7 +1979,6 @@ and the goods from other countries. Also help them to write the slogans on the
 usefulness of home produced goods. You can also conduct debate, lecture, etc.
 to add to the children’s knowledge.
 86 My Social Study and Creative Art , Grade 5
-
 people use home made goods large and small industries,
 will grow. People will also get jobs to earn their living. The
 money of our country will remain here. People need not
@@ -2945,9 +2011,7 @@ in the country get jobs, the country will be ………. .
 We must build our habit to use goods made in our own
 country.
 My Social Study and Creative Art , Grade 5 87
-
 Economic Activities of
-55
 Our Country
 The main occupation of the people in the Terai region is cultivation.
 This region of Nepal is called the ‘granary. A large quantity of crops
@@ -2983,7 +2047,6 @@ there are different kinds of economic activities in our country. Also ask the
 students to differentiate between the economic activities of their place and
 the other places.
 88 My Social Study and Creative Art , Grade 5
-
 the region is not suitable for crops. However, wheat, barley, potatoes,
 apples, etc. grow in limited quantity. There is a vast stretch of grazing
 land. So, people here keep animals like sheep, mountain goat, yak,
@@ -3015,9 +2078,7 @@ of profession ? Give your own reasons.
 In our country, people in different places are engaged in
 different economic activities.
 My Social Study and Creative Art , Grade 5 89
-
-| kf7 ! | Unit1   | Visual  Art |     |
-| ----- | ------- | ----------- | --- |
+| kf7 ! | Unit1 | Visual  Art | |
 Making Pictures that Come into
 Lesson 1
 Your Mind
@@ -3030,11 +2091,9 @@ be shown through drawings. We can see how effective cortoons
 events, incidents, views, etc. are to picture the situations. We
 can also present our thoughts, feelings and experiences through
 pictures. For instance, look at the given pictures.
-|     | My enjoyable day      | A being from another planet                    |                           |
-| --- | --------------------- | ---------------------------------------------- | ------------------------- |
-|     | An awful imagination  |                                                | A terrible accident I saw |
-| 90	 | 	 	 	                 | 				My Social Study and Creative Art , Grade 5 |                           |
-
+| | My enjoyable day | A being from another planet | |
+| | An awful imagination  | | A terrible accident I saw |
+| 90	 | 	 	 	 | 				My Social Study and Creative Art , Grade 5 | |
 Look at the following pictures and try to draw similar pictures.
 My dad’s motorcycle
 Cleaning programme
@@ -3058,7 +2117,6 @@ sheets of paper or copies. While making, the students draw the pictures, use
 the pictures given in the lesson as examples. Don’t simply make them copy these
 pictures. Give them freedom to draw pictures of their own.
 91 My Social Study and Creative Art , Grade 5
-
 Sketching Pictures of Plants, Trees and
 Lesson 2
 Environment
@@ -3084,7 +2142,6 @@ Note to the teacher
 In order to make the students execute the above given activities, take the
 students to the relevant places and encourage them to draw what they see.
 92 My Social Study and Creative Art , Grade 5
-
 Lesson 3
 Making Pictures of Different Animals
 Animals are friends of man. We live in a village or a town, Animals
@@ -3110,23 +2167,16 @@ Animals do not always stand like statues. They move here and there. So, ask
 the students to observe their different parts of body and draw the body parts.
 After they draw the body parts, encourage them to draw the entire animals body.
 93 My Social Study and Creative Art , Grade 5
-
-| Lesson  |   4 Making Pictures through Geometrical Shapes |     |     |     |
-| ------- | ---------------------------------------------- | --- | --- | --- |
+| Lesson  | 4 Making Pictures through Geometrical Shapes | | | |
 The looks of all the objects are like those of different geometrical
 shapes. Therefore, it is easier to draw the picture of any object
 with the help of geometrical shapes.
-
-|     |  triangle                       |  hill                                tent or roof |     |     |
-| --- | ------------------------------- | ------------------------------------------------- | --- | --- |
-   circle																											bear																							flower
-|     |  box                                  |     | dog                              |  jeep |
-| --- | ------------------------------------- | --- | -------------------------------- | ----- |
+| |  triangle |  hill tent or roof | | |
+circle																											bear																							flower
+| |  box | | dog |  jeep |
 Identify which geometrical shapes have been used in the
 following pictures and then draw pictures using those shapes.
-| 94	 | 	 	 	 | 				My Social Study and Creative Art , Grade 5 |     |     |
-| --- | ----- | ---------------------------------------------- | --- | --- |
-
+| 94	 | 	 	 	 | 				My Social Study and Creative Art , Grade 5 | | |
 Exercise
 1. Look at the pictures above carefully and find out what
 types of geometrical shapes have been used in the pictures.
@@ -3144,7 +2194,6 @@ Almost all the pictures are in one or more geometrical shapes. Tell the students
 that the framework of all the objects is made of one or the other geometrical
 shapes, and then ,ask them to draw pictures with the help of such shapes.
 95 My Social Study and Creative Art , Grade 5
-
 Preparing Colours
 Lesson 5
 Colour can be made by mixing colour powder like keshari (saffron
@@ -3156,7 +2205,7 @@ picture. The colour does not peel off to mess up our hands or other
 objects after it gets dried up. We can also make new colour with the
 materials available in the classroom.
 In order to make colour, we need red powder, blue powder, saffron
-powder, chalk powder, light grey mud powder and black (charcoal)
+powder, chalk powder, light grey mud powder and black (charcoal
 powder. To stick the colour, we need glue or starch or mobicol and
 to mix the colour well, we need some water. To prepare a colour, mix
 one teaspoon full of colour powder with one teaspoon full of starch
@@ -3175,7 +2224,6 @@ or shapes.
 use them to prepare colours of your choice. After that, use the
 colour you have prepared to colour different pictures.
 96 My Social Study and Creative Art , Grade 5
-
 Mixing Colours
 Lesson 6
 There are various colourful objects in our surrounding, but only
@@ -3194,20 +2242,17 @@ colour colour
 wet brush stroking dry brush coating over lapping colour spread on a wet
 colour paper
 My Social Study and Creative Art , Grade 5 97
-
-| Methods of using local colour  |     |     |     |     |
-| ------------------------------ | --- | --- | --- | --- |
+| Methods of using local colour  | | | | |
 How can we make dark and light colour? Some examples are
-Showing sun     Showing surface      Showing round       Showing Shadow
-| shining   |     | separation   |     |   object  |
-| --------- | --- | ------------ | --- | --------- |
+Showing sun Showing surface Showing round Showing Shadow
+| shining | | separation | | object  |
 given below.
 After learning to mix colours and to show the different effects of
 dark and light colours, use what you have learnt in your picture.
 Coarse lines of dry
 brush
 Colours mixed on the
-paper itself (incomplete)
+paper itself (incomplete
 Colour applied by
 slanting the brush
 Scraped  after using
@@ -3215,12 +2260,10 @@ thick colour
 Added new colour on
 the top of the other
 when colour dried
-| Made by vertically kept  |     | Water spread by using                          |     |     |
-| ------------------------ | --- | ---------------------------------------------- | --- | --- |
-| brush                    |     | brush                                          |     |     |
-| 98	 	                    | 	 	 | 				My Social Study and Creative Art , Grade 5 |     |     |
-
-Tests of pencil colour and wax colour (crayons)
+| Made by vertically kept  | | Water spread by using | | |
+| brush | | brush | | |
+| 98	 	 | 	 	 | 				My Social Study and Creative Art , Grade 5 | | |
+Tests of pencil colour and wax colour (crayons
 What do the effects of colouring and mixing colours shown above
 look like?
 What do the effects of wax colour as shown above look like?
@@ -3244,7 +2287,6 @@ Select some of the activities from the ones given above and make the students
 do the activities by using the colours available in the classroom. Make it
 compulsory for all the students do the given exercise.
 My Social Study and Creative Art , Grade 5 99
-
 Lesson 7 Expression through Colours
 Colours are the most powerful means of expressing our ideas.
 Different feelings can be experienced by looking at the colours.
@@ -3262,7 +2304,6 @@ drawing.
 3. Make a multi-coloured drawing by combining different
 figures and shapes.
 100 My Social Study and Creative Art , Grade 5
-
 Wall Painting
 Lesson 8
 Different kind of pictures made on the wall is called wall painting
@@ -3282,7 +2323,6 @@ Similar kinds of wall paintings are on display at different museums. Arrange a
 trip to take students to these museums to show them such paintings and also
 provide them information about those paintings.
 My Social Study and Creative Art , Grade 5 101
-
 Making Wall painting
 We can select any suitable wall of our school for wall painting, one
 each class. The teacher will select a suitable wall. Then, the students
@@ -3297,7 +2337,7 @@ yourselves, and according to the number of students in each group start
 painting the pictures drawn on each division of the paper onto the wall.
 Make sure that each one of you is engaged. Make the environment of
 your school look beautiful by drawing such wall paintings.
-Children making wall painting]
+Children making wall painting
 Exercise
 1. Together with your friends make a wall painting using the
 colours available in your locality.
@@ -3306,7 +2346,6 @@ Make the children draw wall painting by pasting paper on the wall. In doing so
 the painting can be removed after some days and another can be made on the
 same place.
 102 My Social Study and Creative Art , Grade 5
-
 Printing by means of
 Lesson 9
 Different Techniques
@@ -3337,7 +2376,6 @@ Since the students have to use knife and colour in this method of printing,
 advice the students to be careful.Ask the students to make border at the edge
 and other designs in the centre.
 My Social Study and Creative Art , Grade 5 103
-
 Take a thick piece of paper. Tear it as shown in the picture
 below and after that stick the torn pieces on a smooth surface.
 Now, colour the paper pieces you have stuck on. After colouring
@@ -3356,7 +2394,6 @@ Hold discussion on the above given examples with the students and encourage
 them to try making other such images. After they come up with images of their
 choice, display their work in the classroom.
 104 My Social Study and Creative Art , Grade 5
-
 Printing after Making Stencil
 Lesson 10
 You have already learnt about the stencil/template method of
@@ -3374,7 +2411,6 @@ Print images produced through stencil/template
 Exercise
 1. Prepare these types of templates and print the images.
 My Social Study and Creative Art , Grade 5 105
-
 Images produced after sprinkling or coating colour
 Varieties of images can be printed
 through stencil/template. Through this
@@ -3388,7 +2424,6 @@ You need to pay special attention as the students will be using sharp instrument
 like scissors, knife and needle. Encourage the students to print out different
 images by using different objects.
 106 My Social Study and Creative Art , Grade 5
-
 kf7 !^
 Plan Collectively
 Lesson 11
@@ -3401,7 +2436,7 @@ same story are shown in each picture. Before making collage,
 discuss beforehand and make picture plan with pencil on the
 pieces of base papers. After agreeing on the plan made together,
 make collage by using suitable pieces of paper for objects (like
-houses), characters (persons) and places (hill, floor, etc.)
+houses), characters (persons) and places (hill, floor, etc.
 Note to the teacher
 After having collected the papers, ask the students to plan together and to
 divide the work among them. It is better to give the students the base paper
@@ -3409,7 +2444,6 @@ by drawing border in which the students are supposed to make collage. For
 making a book, the space for binding margin and summary writing has to be
 allocated in advance.
 My Social Study and Creative Art , Grade 5 107
-
 Draw a shape on a piece of paper.
 Then cut out the shape you have
 drawn. Use the outer part of that
@@ -3435,7 +2469,6 @@ pictures above. If you want your students to prepare collages in a group, ask th
 students to choose the subject for collage work after holding discussion.Use the
 collected materials to prepare collage and store the leftover materials for reuse.
 108 My Social Study and Creative Art , Grade 5
-
 Different Types of Collages
 Lesson 12
 Collage can be made by using different objects, pieces of cloth, pieces
@@ -3462,7 +2495,6 @@ pieces.
 4. Make a collage art using different artificial objects on a base
 paper similar to the size of you exercise-book’s page.
 My Social Study and Creative Art , Grade 5 109
-
 Painting the Collage
 Lesson 13
 Make a collage by sticking different objects. You can also arrange
@@ -3484,7 +2516,6 @@ objects, used papers, newspapers, others are used to craft a collage. To make
 the collage look effective, instruct the students not to cover the whole of
 collage with colours but use the colours wherever necessary.
 110 My Social Study and Creative Art , Grade 5
-
 Lesson 1 4 Making Different Objects with Clay
 Different objects like tub, box, toys, house, etc. can be made after
 making slabs of clay. Some examples are shown below.
@@ -3501,14 +2532,13 @@ Exercise
 1. Make any object of your choice after making a slab of clay.
 2. Make any material of your choice after making a coil of clay.
 My Social Study and Creative Art , Grade 5 111
-
 Making a figure or a design on a clay slab
 Keep a lump of clay on a flat surface or a wooden plank. Prepare
 a slab through kneading. On the slab you have prepared, draw an
 image or a design of your choice with a pointed instrument. Then
 carefully cut out the unnecessary part to obtain the desired image
 or design. Smaller lumps of clay can also be topped on the slab
-to make an image. By using these techniques, a texture (image)
+to make an image. By using these techniques, a texture (image
 can be made on the surface of the slab. Observe the textures on
 the clay slab in the samples given below.
 Exercise
@@ -3519,7 +2549,6 @@ Hold discussion with the class after making the students carefully observe the
 samples of the textures given above.Encourage the students to produce such
 images after providing the required materials.
 112 My Social Study and Creative Art , Grade 5
-
 Lesson 15 Relief Work
 The surface of a clay slab can be heightened by topping it with
 clay. It can be deepened by cutting out the clay from it. The statue
@@ -3542,7 +2571,6 @@ and ask the students to carve relief object or image of their choice.Encourage
 the students to create relief images by showing them statues, images produced
 through relief methods. Encourage the students to paint their creations.
 My Social Study and Creative Art , Grade 5 113
-
 kf7 !^
 Lesson 16 Independent Presentation Using Clay
 Clay is the easiest means of making statues of your choice.
@@ -3565,7 +2593,6 @@ Don’t ask the students to copy the samples given above. Use these samples to
 encourage the students to create other statues of their own choice. Make necessary
 arrangement to display the statues and the write ups related to the statues.
 114 My Social Study and Creative Art , Grade 5
-
 Lesson 17 Making Different Objects from Paper
 Different images and shapes can be made by folding or cutting
 sheets of paper. This art of folding or cutting paper sheet is
@@ -3574,86 +2601,18 @@ this lesson, you are going to learn more about making attractive
 objects with sheets of paper. Look at the given pictures very
 carefully and try to make such art pieces.
 A Pointed Cap
-2 4
-3
-1
 A Swallow 5
-2 3
-1
-6
-7
-9
-8
-10
-5
-4
-14
-12 13
-11
-15
 My Social Study and Creative Art , Grade 5 115
-
 A Paper Box
-3 4
-|     |     | 2   |     | 5   |
-| --- | --- | --- | --- | --- |
-1
-8
-6 7
 A Crane
-2
-3
-4
-1
-| 5   | 6   |     |     |     |
-| --- | --- | --- | --- | --- |
-|     |     | 7   | 8   | 9   |
-13
-12
-11
-10
-14
-| 116	 	 | 	 	 | 				My Social Study and Creative Art , Grade 5 |     |     |
-| ------ | --- | ---------------------------------------------- | --- | --- |
-
+| 116	 	 | 	 	 | 				My Social Study and Creative Art , Grade 5 | | |
 A Hen
-1
-|     | 2   | 3   |
-| --- | --- | --- |
-4
-7
-6
-5
-|     | 8   | 9   |
-| --- | --- | --- |
 A Penguin
-2 3
-| 1   |     | 4    |
-| --- | --- | ---- |
-| 5   | 7   | 9 10 |
-6 8
-
 My Social Study and Creative Art , Grade 5
-117
-
 A Jumping Frog
-3 5
-4
-1
-2
-8
-9
-6 7
-5
-1 2 4
-3
 A Radish
 Now cut a piece of paper into two halves with a pair of scissors.
 Cut one half of the paper as shown in the pictures below:
-5
-4
-6 7
-1 2 3
 The paper made above can be fixed as shown in picture 6 to get
 a complete paper radish. Applying the same method other paper
 objects can also be made. Try to make some.
@@ -3665,7 +2624,6 @@ class. Make the students do the above activities properly. See if the students
 are doing the activities step wise. If not, give necessary suggestions. Make
 necessary arrangement to display the different objects made by the student
 118 My Social Study and Creative Art , Grade 5
-
 Making Designs by Cutting Paper
 Lesson 18
 Take a coloured sheet of paper measuring 6 inches long and
@@ -3694,7 +2652,6 @@ It would be better to use a soft coloured sheet of paper to make paper design.
 Encourage your students to make several kinds of designs. Such designs can be
 used at school during ceremonies and functions.
 My Social Study and Creative Art , Grade 5 119
-
 Making Festoon (Decorative Strips/
 Lesson 19
 Toran) of Colourful Paper
@@ -3726,7 +2683,6 @@ pencil, etc. for the class. Encourage your students to make festoon by giving
 them paper pieces. Demonst. Ask the students to use the festoon prepared by
 them during different occasions, ceremonies, etc.
 120 My Social Study and Creative Art , Grade 5
-
 Making Paper Bags
 Lesson 2 0
 A kind of paper bag made with paper and other simple materials
@@ -3740,34 +2696,25 @@ bags. Materials like old waste papers or newspapers, starch or
 glue, scissors, etc. are required to make paper bags. The method of
 making paper bag is given below. Have a piece of paper measuring
 1 foot long and 10 inches wide and do as shown in the figure.
-2 3
-1
 Leaving half inch at one side edge of the paper, fold the paper
 as shown in figure 1.
 Now carefully apply starch or glue to the half inch side edge
 part and folding it, stick it on the other part as shown in figure
 2 and 3.
-7
-4 5 6
 After the glue gets dried up, fold the paper at the bottom part as
 shown in figure 4 and 5.
 After folding, stick the paper, shown in figure 7, at the bottom part
 To make the bag stronger, a thick piece of paper can be pasted
 at the bottom. In this way a paper bag can be made.
 My Social Study and Creative Art , Grade 5 121
-
 Applying the same method, a stronger and better
 paper bag can also be made. For this, a strong and
 good quality paper piece is required. After having
 such piece of paper, follow the sample given below
 and try to make a stronger and better paper bag by
 yourself.
-2
-1
 Cut and paste a rectangular piece of paper in
-3
 the same way as shown in the above figures.
-4
 5 Such paper bag can
 be used as a shopping
 bag by folding the top
@@ -3781,7 +2728,6 @@ how to make the bag before making the students do so. Ask the students to
 make paper bags of different sizes. These bags can also be sold at the community
 market.
 122 My Social Study and Creative Art , Grade 5
-
 Reusing Used Articles
 Lesson 21
 Many objects are thrown away at home after use. Some such
@@ -3813,14 +2759,13 @@ have collected, allow them to use various articles to make the item of their
 choice. Instruct them to use the tools safely. If they encounter difficulty in
 fixing the articles, help them to fix them up.
 My Social Study and Creative Art , Grade 5 123
-
 Lesson 2 2 Constructing Items using Wire and Boxes
 Different shapes can be made with soft wire. Wire artistic pieces
 that can be hung or that can stand on its own can be made with
 wire. Carefully look at the methods of fixing pieces of wire. What
 shapes can be given to the wire, have a look at it also.
-(a) linking (b) loop twisting (c) fixing by twisting
-(d) winding one over the other (e) wave (f) lining
+a) linking (b) loop twisting (c) fixing by twisting
+d) winding one over the other (e) wave (f) lining
 figure of wire (g) making loop (h) wrap (i) hook
 a b c d e f joining (j) coil
 g h i j
@@ -3837,7 +2782,6 @@ available the different substances needed for fixing.Ask the students to make
 different models that are related Social Studies from the boxes. Encourage
 them to make models of factory, school, memorial, etc
 124 My Social Study and Creative Art , Grade 5
-
 Constructing Items Using Different
 Lesson 23
 Geometrical Figures
@@ -3847,7 +2791,6 @@ can be made by fastening geometrical shapes. After making the
 angles and lines of correct measurement, it would be easy to
 fasten them. Look at the plans given below.
 My Social Study and Creative Art , Grade 5 125
-
 Items constructed from different kinds and shapes of boxes
 Exercise
 Make geometrical shapes as shown above on a thick piece of
@@ -3860,7 +2803,6 @@ Note to the teacher
 Before doing the activities, display the models. Help the students to measure
 and cut out the shapes accurately,
 126 My Social Study and Creative Art , Grade 5
-
 Paper Mache
 Cutting out different geometrical shapes from cardboard fasten
 them. Several useful items and materials can be used while
@@ -3891,7 +2833,6 @@ Make necessary arrangement of materials required for Paper Mache.
 Demonstrate the method of fastening after smearing starch or glue. Make the
 students clean up things after completing their works.
 My Social Study and Creative Art , Grade 5 127
-
 Constructing Things Using
 Lesson 24
 Sticks and Strings
@@ -3920,7 +2861,6 @@ With the materials needed for digging and cutting and strings for tying, take
 the students to an open space outside the school. Help the children in their
 construction work, if necessary and encourage them to play and work together.
 128 My Social Study and Creative Art , Grade 5
-
 Lesson 25 Constructing Things Using Pieces of Paper
 A page of paper is two dimensional. But, if it is cut into pieces and
 fastened, a three dimensional structure with length, width and
@@ -3939,7 +2879,6 @@ Note to the teacher
 Show the students other models like the ones shown above and ask them to
 construct the models you show them.
 My Social Study and Creative Art , Grade 5 129
-
 Lesson 26 Paper Weaving
 Like in grade IV, make useful objects by weaving strips cut from a
 large piece of paper. Many articles woven from different materials
@@ -3957,7 +2896,6 @@ Show them the samples of woven articles/objects and hold discussion on the
 materials used for making them. Cut curved paper strips and make the students
 do some weaving work.
 130 My Social Study and Creative Art , Grade 5
-
 Lesson 27 Weaving work in the Community
 At home, we use different woven objects like gundri, nanglo,
 doko, Ghum, etc. Observe, how these objects are woven. There
@@ -3980,7 +2918,6 @@ person who knows how to weave and ask him/her to do the activities given in
 the lesson so that the students can carefully observe him / her weaving and
 learn how to weave.
 My Social Study and Creative Art , Grade 5 131
-
 Lesson 28
 Weaving Work Using the Frames
 Look at the picture of a woman weaving cloth in the previous
@@ -4006,7 +2943,6 @@ The edges of the wire net are pointed and the students may get hurt. So, use
 sellotape to cover such edges. Make necessary arrangement of the required
 materials before starting weaving work.
 132 My Social Study and Creative Art , Grade 5
-
 11 Music
 Practicing Voice
 In order to sing in a good voice (swor) regular practice is
@@ -4037,11 +2973,8 @@ them practise. In the absence of the harmonium instrument, teach the students
 assuming ‘Sa’ to any other swor you find easy to produce. Besides, try to make
 the students recognize the swor.
 133 My Social Study and Creative Art , Grade 5
-
 Playing the Madal, the Tabala and
-22
 the Harmonium
-
 There are many popular musical instruments in Nepal. Among
 them the madal is one popular and a major musical instrument of
 the Nepalese people. It is used a like from the
@@ -4055,20 +2988,17 @@ played with left hand is called the Left. Different bols can be
 produced from the madal and the tabala. Some of the familiar bols
 are given below. Practice these bols together with your friends.
 The bol of the Madal
-| (a)  Khayali        |     | 1   | 2   | 3   | 4   | 5   | 6    | 7       8 |     |
-| ------------------- | --- | --- | --- | --- | --- | --- | ---- | --------- | --- |
-|   (8 matra)    lw+  |     |     | S   | g   | lt  | g   | s    | lw+       | gf  |
-| (b)  Jhyaure        |     |  1  | 2   | 3   | 4   | 5   |  6   |           |     |
-|       (6 matra)     |     | wL  | S   | lt  | gf  | lw  | gf   |           |     |
+| (a)  Khayali | | 1 | 2 | 3 | 4 | 5 | 6 | 7 8 | |
+| (8 matra) lw+  | | | S | g | lt  | g | s | lw+ | gf  |
+| (b)  Jhyaure | |  1  | 2 | 3 | 4 | 5 |  6 | | |
+| (6 matra) | | wL  | S | lt  | gf  | lw  | gf | | |
 The bol of the Tabala
-| (a)  Kaharwa         |      |  1  |  2                                             | 3          | 4   | 5   | 6   | 7    | 8    |
-| -------------------- | ---- | --- | ---------------------------------------------- | ---------- | --- | --- | --- | ---- | ---- |
-|   (8 matra)      wf  |      |     | u]                                             | g          | lt  | g   | s   | lw+  | gf   |
-|                      |   x  |     |                                                |          O |     |     |     |      |      |
-| 134	 	               | 	    | 	   | 				My Social Study and Creative Art , Grade 5 |            |     |     |     |      |      |
-
-(b). Dadra 1 2 3 4 5 6
-(6 matra) wf lw gf wf t" gf
+| (a)  Kaharwa | |  1  |  2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| (8 matra) wf  | | | u] | g | lt  | g | s | lw+  | gf |
+| | x  | | | O | | | | | |
+| 134	 	 | 	 | 	 | 				My Social Study and Creative Art , Grade 5 | | | | | | |
+b). Dadra 1 2 3 4 5 6
+6 matra) wf lw gf wf t" gf
 x O
 Exercise
 Practise the notation (swor lipi) on the
@@ -4088,41 +3018,21 @@ u /] ;f lg= w= k= w= lg ;f /] u /] ;f – – –
 ;f /] u, ;f – /] u d /] u d, /] – u d k
 u d k, u – d k w d k w d – k w lg
 135 My Social Study and Creative Art , Grade 5
-
-  k   w  lg  k  –  w  lg  ;Of ;Of  lg  w  k  ;fOlg wk du /];f
-( (
-|                    |     |              |     |                            | (   | (   |
-| ------------------ | --- | ------------ | --- | -------------------------- | --- | --- |
-|   ;f  /]  ;f/] u   |     | /] u  /]u d  |     | u  d ud  k   d  k  dk  w   |     |     |
-|                    |     |              | (   |                            | (   |     |
-|                    | (   |              |     |                            |     | (   |
-  k  w  kw  lg  w lg  wlg ;Of ;Of/O] uOdO kOdO uO/O]  ;Oflg  wk du /];f
-|     | (   |     | (   | ( ( | ( ( ( | ( ( ( |
-| --- | --- | --- | --- | --- | ----- | ----- |
-
+k w  lg  k  –  w  lg  ;Of ;Of  lg  w  k  ;fOlg wk du /];f
+| ;f  /]  ;f/] u | | /] u  /]u d  | | u  d ud  k d  k  dk  w | | |
+k  w  kw  lg  w lg  wlg ;Of ;Of/O] uOdO kOdO uO/O]  ;Oflg  wk du /];f
 Practise of the notation (sworlipi) in Dadra Taal
-!= ;f  /]  u  ;f  lg  w  w  lg  / ] ;f  –  –   u  –  /]  u  d  –
-|     |     | O O | O O |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-  d  u  /]    ;f  –  –    ;f  /]  u   /]  u  d  u   d  k  d  k  w
-  k  w  lg  w  lg ;Of  ;Of  lg  w  lg  w  k   w  k  d   k  d u
-  d  u  /]  u  /]  ;f ;f/] ud kw  lg;f+ lgw kd u/] ud kw kd u/] ;f
-|     |     | (   | (  (  | (  (  | (  (  (  | (  (  (  |
-| --- | --- | --- | ----- | ----- | -------- | -------- |
-@=  u  d  u    k  –  –     d  u  /]  ;f  –  –  ;f  –  /]       u – d
-  k  –  w      lg  –  ;Of    ;Of  –  lg w  –  k  d  –  u      /]  –  –
-  lg  –  w    k  –  d     u  –  /]  ;f  –  –  ;f/]  ;f/] u    /]  –  –
-(  (
-  /]u  /]u d  u  –  –   ud  ud k   d  –  –  dk  dk w   k  –  –
-| (  (  |     | (   | (   |     | (  (  |     |
-| ----- | --- | --- | --- | --- | ----- | --- |
-  kw kw  lg w  –  –    wlg wlg ;Of  lg  –  –   ;Oflg ;fOlg wk   d u /]]
-| (  (                   |     | (   | (   |     | (  (  (  |     |
-| ---------------------- | --- | --- | --- | --- | -------- | --- |
-| lgw kd u/]  ;f  –  –   |     |     |     |     |          |     |
-
-| (  (  | (   |     |     |     |     |     |
-| ----- | --- | --- | --- | --- | --- | --- |
+!= ;f  /]  u  ;f  lg  w  w  lg  / ] ;f  –  – u  –  /]  u  d  –
+| | | O O | O O | | | |
+d  u  /] ;f  –  – ;f  /]  u /]  u  d  u d  k  d  k  w
+k  w  lg  w  lg ;Of  ;Of  lg  w  lg  w  k w  k  d k  d u
+d  u  /]  u  /]  ;f ;f/] ud kw  lg;f+ lgw kd u/] ud kw kd u/] ;f
+@=  u  d  u k  –  – d  u  /]  ;f  –  –  ;f  –  /] u – d
+k  –  w lg  –  ;Of ;Of  –  lg w  –  k  d  –  u /]  –  –
+lg  –  w k  –  d u  –  /]  ;f  –  –  ;f/]  ;f/] u /]  –  –
+/]u  /]u d  u  –  – ud  ud k d  –  –  dk  dk w k  –  –
+kw kw  lg w  –  – wlg wlg ;Of  lg  –  – ;Oflg ;fOlg wk d u /
+| lgw kd u/]  ;f  –  – | | | | | | |
 Exercise
 Practise the above given notation (swor lipi) in Khayali Taal and
 Dadra Taal on the harmonium. Also practise the taal on the musical
@@ -4132,31 +3042,24 @@ Note to the teacher
 Write these notations (swor lipi) on the board or on the cardboard in the
 classroom and make them practise these notations (swor lipi) regularly. It would
 be better if the musical instrument is played while they practise these notations.
-| 136	 	 | 	   | 	   | 				My Social Study and Creative Art , Grade 5 |     |     |     |
-| ------ | --- | --- | ---------------------------------------------- | --- | --- | --- |
-
-33
-|     |     | National Anthem |     |     |
-| --- | --- | --------------- | --- | --- |
+| 136	 	 | 	 | 	 | 				My Social Study and Creative Art , Grade 5 | | | |
+| | | National Anthem | | |
 It is necessary for each citizen to learn the national anthem. The
 national anthem is the identity of our country. It is compulsory
 for the teachers and the students to sing the national anthem at
 morning school prayer.
 ;of} y'“uf k"mnsf xfdL Pp6} dfnf g]kfnL
-
-|                                              | ;fj{ef}d eO{ km}lnPsf d]rL dxfsfnL       |                                                |     |     |
-| -------------------------------------------- | ---------------------------------------- | ---------------------------------------------- | --- | --- |
-|                                              | k|s[ltsf sf]l6 sf]l6 ;Dkbfsf] cf“rn      |                                                |     |     |
-|                                              | jL/x¿sf /utn] :jtGq / c6n                |                                                |     |     |
-|                                              | 1fge"ld zflGte"ld t/fO{ kxf8 lxdfn       |                                                |     |     |
-|                                              | cv08 of] Kof/f] xfd|f] dft[e"ld g]kfn    |                                                |     |     |
-|                                              | ax'n hflt, efiff, wd{, ;+:s[lt 5g\ ljzfn |                                                |     |     |
-|                                              | cu|ufdL /fi6« xfd|f] ho ho g]kfn .       |                                                |     |     |
-| Notation (swor lipi) of the National Anthem  |                                          |                                                |     |     |
-| 137	 	                                       | 	 	                                      | 				My Social Study and Creative Art , Grade 5 |     |     |
-
+| | ;fj{ef}d eO{ km}lnPsf d]rL dxfsfnL | | | |
+| | k|s[ltsf sf]l6 sf]l6 ;Dkbfsf] cf“rn | | | |
+| | jL/x¿sf /utn] :jtGq / c6n | | | |
+| | 1fge"ld zflGte"ld t/fO{ kxf8 lxdfn | | | |
+| | cv08 of] Kof/f] xfd|f] dft[e"ld g]kfn | | | |
+| | ax'n hflt, efiff, wd{, ;+:s[lt 5g\ ljzfn | | | |
+| | cu|ufdL /fi6« xfd|f] ho ho g]kfn . | | | |
+| Notation (swor lipi) of the National Anthem  | | | | |
+| 137	 	 | 	 	 | 				My Social Study and Creative Art , Grade 5 | | |
 Composer: Byakul Maila
-(Pradeep Kumar Rai)
+Pradeep Kumar Rai
 Music : Ambar Gurung
 Exercise
 1. Practise the notation (swor lipi) of the national anthem
@@ -4170,37 +3073,31 @@ taal of the madal, too. Make the students practise the national anthem either
 individually or in a group. Also tell them that the composer and the musician of
 this anthem are Byakul Maila (Pradeep Kumar Rai) and Amber Gurung respectively.
 138 My Social Study and Creative Art , Grade 5
-
 Class Song
-44
 There is a provision of classwise song from class 1 to class X. The
 class song for class V is “Muna haun hami kalila………deshko
 laagi marni chaun”. This song gives a message that is enough to
 help the students build up a good character. This song has to be
 sung by the students everyday.
 d'gf xf“} xfdL slnnf km'n]/ ;'jf; 5g]{ 5f“} .
-|     | b]zsf nflu af“Rg] 5f}“ b]zs} nflu dg]{ 5f}“ .  |                                           |
-| --- | ---------------------------------------------- | ----------------------------------------- |
-|     |                                                | xfjf / kfgL /fd|f] 5 :jR5 / lgnf] cfsfz   |
-|     |                                                | ;+;f/n] k'Hg] u/]sf] a'b\wsf] lbJo k|sfz  |
-|     |                                                | c;ª\Vo y'“uf k"mnsf pg]sf] ;'Gb/ dfnf of] |
-|     |                                                | ;+;f/nfO{ dfof l;sfpg] kljq kf7zfnf of]   |
-|     | ljZjdf zflGt km}nfpg], k|lt1f xfdL ug]{ 5f}“   |                                           |
-|     | b]zsf nflu af“Rg] 5f}“ b]zs} nflu dg]{ 5f}“    |                                           |
-|     |                                                | wtL{df xfd|f] slxNo} a}/Ln] 6]Sg kfPg     |
-|     |                                                | k|f0fsf] afhL nufof}“ xfdLnfO{ x]Kg kfPg  |
-|     |                                                | df6fsf] dfof gu/] g]kfnL sxf“ x'g] 5f}“   |
-|     |                                                | t/fO{sf kmf“6 c“ufnL lxdfnr'nL x'g] 5f}“  |
-|     | g]kfnsf] gfd rDsfpg hLjg} ck{0f ug]{ 5f}“      |                                           |
-|     | b]zsf nflu af“Rg]5f}“, b]zs} nflu dg]{ 5f}“    |                                           |
-|     |                                                | d'gf xf} xfdL slnnf ===                   |
+| | b]zsf nflu af“Rg] 5f}“ b]zs} nflu dg]{ 5f}“ .  | |
+| | | xfjf / kfgL /fd|f] 5 :jR5 / lgnf] cfsfz |
+| | | ;+;f/n] k'Hg] u/]sf] a'b\wsf] lbJo k|sfz  |
+| | | c;ª\Vo y'“uf k"mnsf pg]sf] ;'Gb/ dfnf of] |
+| | | ;+;f/nfO{ dfof l;sfpg] kljq kf7zfnf of] |
+| | ljZjdf zflGt km}nfpg], k|lt1f xfdL ug]{ 5f}“ | |
+| | b]zsf nflu af“Rg] 5f}“ b]zs} nflu dg]{ 5f}“ | |
+| | | wtL{df xfd|f] slxNo} a}/Ln] 6]Sg kfPg |
+| | | k|f0fsf] afhL nufof}“ xfdLnfO{ x]Kg kfPg  |
+| | | df6fsf] dfof gu/] g]kfnL sxf“ x'g] 5f}“ |
+| | | t/fO{sf kmf“6 c“ufnL lxdfnr'nL x'g] 5f}“  |
+| | g]kfnsf] gfd rDsfpg hLjg} ck{0f ug]{ 5f}“ | |
+| | b]zsf nflu af“Rg]5f}“, b]zs} nflu dg]{ 5f}“ | |
+| | | d'gf xf} xfdL slnnf === |
 Exercise
 Practise the above given class song repeatedly in swor and taal.
-| 139	 	 | 	   | 	 				My Social Study and Creative Art , Grade 5 |
-| ------ | --- | ------------------------------------------------ |
-
+| 139	 	 | 	 | 	 				My Social Study and Creative Art , Grade 5 |
 Singing Local Songs
-55
 The songs sung in the local area are called local songs. Varieties
 of local songs sung in different places of our country. According
 to place, environment and life style of people, the local songs
@@ -4232,7 +3129,6 @@ and group to repeat the song after Group A. Wherever the students make error,
 ask them to correct it by instructing them how to sing. Make the students sing
 different types of local songs sung in our country.
 140 My Social Study and Creative Art , Grade 5
-
 66 Singing Songs
 Different types of songs are sung in different places of our
 country. In the place where you live, there are also different
@@ -4240,29 +3136,29 @@ songs that are quite popular. Try to sing such songs together with
 your friends. Some songs are given here, practise singing them.
 ´/gf
 kxf8sf] lzv/af6
-b]zsf] df6f]
+b]zsf] df6f
 b]v“] ´/]sf] hn .
-bz] sf ] df6f ] l;hg{ fn ] eg { ;s ] xG' Yof] d]/f] dgdf aTtL an]
+bz] sf ] df6f ] l;hg{ fn ] eg { ;s ] xG' Yof] d]/f] dgdf aTtL an
 5ftLel/ Gofgf ] dfof 5g { ;s ] xG' Yof ] ! xhf/f}“ ´ndn ..
 df6f];“u} gftf uf“;L a:g] dg eof] Tof] kfgLsf] ´/gfdf
 zlSt slt 5 n's]sf] .
-3fdkfgLdf hLjg ;w}“ ck{0f eO/x\of]
+3fdkfgLdf hLjg ;w}“ ck{0f eO/x\of
 b]Vg ;s] slt To;df
 s]xL ug{ ;s] h:tf] 5}g c´} klg
 aTtL lah'nL an]sf] ..
 lgbn] 5f]Knf egL 8/ nfU5 5fofd'lg
 t/ xfo To;} g} kUnL
-wtL{nfO{ pHofnf]df x]g{ ;s] x'GYof]
+wtL{nfO{ pHofnf]df x]g{ ;s] x'GYof
 kfgL Joy{ axG5 .
 b]zsf] df6f] l;h{gfn] eg{ ;s] x'GYof] ! tTTj xfdL hfGb}gf}“
 3fdsf] ´'Nsf] l6Kt} hf“bf leq w]/} 7'“Uof] leqleq} /xG5 ..
-ToxL 7'“ufO d]6\g] uLt ufpg ;s] k'Uof] s] xfdL dflg;sf]
+ToxL 7'“ufO d]6\g] uLt ufpg ;s] k'Uof] s] xfdL dflg;sf
 x[bosf lul/df .
 xftn] yf]/} cf“;' k'5L hfg ;s] klg
 5}gg\ o:t} c6'6
 cf]7cf]7df /ª\u r9fO{ ;kmn aGYof] h'gL
 lgd{n hnsf ´/gf !
-d[To'nfO{ xf“;Lxf“;L ag{ ;s] x'GYof]
+d[To'nfO{ xf“;Lxf“;L ag{ ;s] x'GYof
 xfdLleq eP olb o:tf
 b]zsf] df6f] l;h{gfn] eg{ ;s] x'GYof] !
 ;'Gb/ ´/gf xhf/ .
@@ -4278,8 +3174,6 @@ the students practise such songs either individually or in a group in the taal o
 clapping, madal or any locally available musical instruments.In this way, make
 the students sing different types of poems in the form of songs.
 141 My Social Study and Creative Art , Grade 5
-
-11
 Introduction to Dance
 Dance is typically known as naach in Nepali language. It is one of
 the means through which our happiness and sorrow is expressed.
@@ -4296,8 +3190,8 @@ movement of hands, feet, head, body, etc. We have to show and also
 preserve our art and culture by dancing the popular dance of the area
 where we live.Although there are different dances in our society,
 dance has been mainly categorized into two groups:
-(a) Folk dance (b) Classical dance
-(a) Brief Introduction to Folk Dance
+a) Folk dance (b) Classical dance
+a) Brief Introduction to Folk Dance
 A folk dance is, typically known as Lok nritya in Nepali language.
 It is a simple dance performed in a traditional ways of fascinated
 possessed by the customary rituals, festivals, happiness, sorrow,
@@ -4307,7 +3201,7 @@ The dance evolves from the folk lifestyle. The dance clearly reveals
 the culture of the country. There are different kinds of folk dances.
 Syabru, sorathi, jyhaure, Kauda, Dhime, Selo, Jhijhiya, Jhangad, etc
 are some of the folk dances of our country.
-(b) Brief Introduction to Classical Dance
+b) Brief Introduction to Classical Dance
 A classical dance is typically known as Sashtriya nritya in Nepali
 language. It is a dance performed through movement of different parts
 of the body in perfect match with the sur, taal, rhythm, action, etc.
@@ -4315,7 +3209,6 @@ as defined by the Sashtra. The dance is completely under control of
 Sashtra (rules and regulations). There are different types of classical
 dances like Charya dance, Asthamatrika dance, etc.
 142 My Social Study and Creative Art , Grade 5
-
 22 Namaskara Dance
 From grades I to IV, you have learnt the basic steps of dance like
 moving forward and backward by shaking your waist along with
@@ -4327,13 +3220,10 @@ Brief Introduction to Namaskara Dance
 Namaskara dance is performed to seek blessings from the
 audience sitting at your right, left and front, gurus and god before
 starting to perform any dance.
-1 2 3
-4 5 6
 Exercise
 Practise namaskara dance by looking at the pictures given
 above.
 My Social Study and Creative Art , Grade 5 143
-
 Look at the different postures of dance and practise doing them.
 Exercise
 Dance as shown in the picture above by moving around in taal.
@@ -4346,22 +3236,12 @@ without touching their friends. Then, ask them to put both their hands onto
 their waists. First, show how to perform this dance to the students and then,
 ask them to follow you. Make them practise this action repeatedly.
 144 My Social Study and Creative Art , Grade 5
-
 Dancing in a Semi Circular
-33
-(Chandrakar) Position
+Chandrakar) Position
 Dancing by giving taal with feet and by holding frock with both
 the hands or by putting the hands onto the waist is known as
 semi circular dance, typically known as chandrakar nritya. Look
 at the picture below and dance by standing in a line.
-1 2 3 4 5 6 7 8
-5 6
-4 7
-3
-8
-2
-9
-1
 Exercise
 Perform a semi circular dance together with your friends.
 Note to the teacher
@@ -4379,10 +3259,8 @@ If there are girls, they can hold their frocks with both the hands and if there
 are boys they can put their hands onto their waists or both can put their hands
 onto their heads giving the shape of flowers.
 My Social Study and Creative Art , Grade 5 145
-
 Dancing in a Circular
-44
-(Golakar) Position
+Golakar) Position
 The circular dance, typically known as golakar nritya, can be
 performed by making circle. This dance is to some extent similar
 to semi circular dance. While dancing, the movement of hands
@@ -4392,19 +3270,11 @@ or both hands have
 to be placed onto the
 head giving them the
 shape of a flower.
-15 14
 The girls can also
-16 13
-12
 hold their frocks and 1
 dance. The picture 2 11
 below is an example 10
-3
 of circular dance.
-9
-4 8
-5 6
-7
 Exercise
 Perform a circular dance together with your friends.
 Note to the teacher
@@ -4418,7 +3288,6 @@ the 1st student to move at a longer pace and the 16th student to move at a
 shorter pace. In the 16th matra of the khayali which is played for four times,
 the 1st student should meet the 16th student by dancing in the circular form.
 146 My Social Study and Creative Art , Grade 5
-
 55 Local Folk Dance
 Local folk dance is a typical dance performed in the local area
 or community. The dance is performed in the local language,
@@ -4448,7 +3317,6 @@ Make the students dance in the songs sung in the local area or community.
 While making the students perform such dance, use the available local musical
 instruments.
 My Social Study and Creative Art , Grade 5 147
-
 66 Hand’s Posture
 Different shapes are made with fingers and hands in the course of dancing.
 These shapes of fingers and hands are known as hand’s posture or Hasta
@@ -4458,26 +3326,26 @@ his dance successfully. We can also make the shapes of different animals,
 birds, flowers, hills, rivers etc with our fingers and hands.The posture of our
 hands helps us to convey the meaning of words.Try to copy the different
 postures of hand by carefully looking at the pictures given below.
-(Patak)
+Patak
 Meaning: This posture of hand helps to convey the meaning of wait,
 come, go, you, blessing, country, wind, Buddha (if both hands are
 kept over the head), hill.
-(Musti)
-(Sikhar)
+Musti
+Sikhar
 Meaning: bravery, courage,
 Meaning: pride, Buddha
 move ahead, etc
-(Suchi ) (Singhamukh)
+Suchi ) (Singhamukh
 Meaning: one, wait, Meaning: deer, lion,
 that, listen…. cow ……
-(Alpadam)
-(Anjuli ) Meaning: flower,
+Alpadam
+Anjuli ) Meaning: flower,
 Meaning: namaskar where……..
-(Matsya)
-(Kapot) Meaning: fish
+Matsya
+Kapot) Meaning: fish
 Meaning: book, give
 and take blessing
-(Utsanga)
+Utsanga
 Exercise Meaning: we
 Using the postures of hand or hasta mudras, given above, act
 in any play, story or dance.
@@ -4486,7 +3354,6 @@ Make the students position their hands as shown above. While making postures/
 mudras the position of fingers should remain as it is. Explain the students what
 meaning is conveyed or which animal is shown by a particular posture/mudra.
 148 My Social Study and Creative Art , Grade 5
-
 77 Acting
 The art of theatrical presentation of the imitation of any character of a
 story by an actor is called acting. The facial expression and dialogues
@@ -4511,7 +3378,6 @@ story choose different characters from among the students and make them
 act out the story. Ask the students to create the subject matter for a story
 or you create one for them and make them act on the same.
 My Social Study and Creative Art , Grade 5 149
-
 Nepali folk musical instruments
 Different types of folk musical instruments are played in Nepal.
 Some of the folk musical instruments are shown below. Look at
@@ -4527,7 +3393,7 @@ Chyangbrung
 Madal
 Bansuri
 Dhyangro
-Dhime lwd]
+Dhime lwd
 Sanai
 Note to the teacher
 Hold discussion about the different local musical instruments shown above

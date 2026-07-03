@@ -57,6 +57,415 @@ def build_file_map():
 
 FILE_MAP = build_file_map()
 
+# --- PDF URL Mapping ---
+# Loads PDF URLs from book_pdf_map.json and builds a lookup table
+PDF_CDN_BASE = 'https://giwmscdnone.gov.np/media/pdf_upload/'
+_pdf_content_map_path = BASE / 'book_pdf_map.json'
+
+# Nepali subject keywords for matching display subjects to PDF titles
+# Each subject maps to one or more Nepali phrases that identify that subject in PDF titles
+SUBJECT_NEPALI_KEYWORDS = {
+    'nepali': ['नेपाली'],
+    'english': ['अंग्रेजी'],
+    'math': ['गणित'],
+    'optional_math': ['ऐच्छिक गणित'],
+    'science': ['विज्ञान तथा प्रविधि', 'विज्ञान'],
+    'social_studies': ['सामाजिक अध्ययन', 'सामाजिक'],
+    'history': ['इतिहास'],
+    'economics': ['अर्थशास्त्र'],
+    'accountancy': ['कार्यालय सञ्चालन र लेखा', 'लेखा'],
+    'computer_science': ['कम्प्युटर विज्ञान', 'कम्प्युटर'],
+    'health': ['स्वास्थ्य'],
+    'optional_health': ['ऐच्छिक स्वास्थ्य'],
+    'serofero': ['सेरोफेरो'],
+    'population': ['जनसंख्या'],
+    'education': ['शिक्षा'],
+    'civics': ['नागरिक शास्त्र', 'नागरिक'],
+    'environmental_science': ['वातावरण विज्ञान', 'वातावारण विज्ञान', 'वातावर'],
+    'geography': ['भुगोल'],
+    'yoga': ['योग शिक्षा', 'योग'],
+    'ayurveda': ['आयुर्वेद शिक्षा', 'आयुर्वेद'],
+    'sanskrit': ['संस्कृत'],
+    'nitishasram': ['नीतिशास्र', 'नीतिशास्त्र'],
+    'bhot_language': ['भोट भाषा'],
+    'naturopath': ['प्राकृतिक'],
+    'karmakand': ['कर्मकाण्ड'],
+    'audit': ['लेखापरिक्षण']
+}
+
+DEVANAGARI_DIGITS = str.maketrans('०१२३४५६७८९', '0123456789')
+
+def _to_arabic_digits(s):
+    """Convert Devanagari digits to Arabic digits."""
+    return s.translate(DEVANAGARI_DIGITS)
+
+def _is_textbook(title):
+    """Return True only for actual textbook PDFs."""
+    if not title:
+        return False
+    # Non-textbook patterns to filter out
+    non_textbook = [
+        'शिक्षक निर्देशिका', 'शिक्षक निर्देशन',
+        'विशिष्टीकरण तालिका', 'Specification Grid', 'Specification',
+        'सूचना', 'Notice', 'मान्यता', 'समकक्षता',
+    ]
+    for pat in non_textbook:
+        if pat in title:
+            return False
+    # Also filter TG- URLs
+    return True
+
+def _extract_nepali_subject(title):
+    """Extract the Nepali subject name from a CDC PDF title."""
+    # Remove curriculum center suffix
+    clean = re.sub(r'\s*\|.*$', '', title).strip()
+    # Remove parenthetical year/edition info
+    clean = re.sub(r'\s*\([^)]*\)', '', clean)
+    # The Nepali name is everything before कक्षा
+    m = re.search(r'^([\u0900-\u097F\s/]+?)\s*(?:कक्षा|Grade|Class)', clean)
+    if m:
+        return m.group(1).strip()
+    return ''
+
+def _get_pdf_subject_slug(title):
+    """Return the subject slug for a PDF title.
+    Uses the extracted Nepali subject name (not parenthetical lang flags)."""
+    ne = _extract_nepali_subject(title)
+    if not ne:
+        return None
+    # Check subject keywords against the EXTRACTED Nepali name (e.g., "गणित")
+    # Use longest-keyword-first matching
+    all_kw = []
+    for slug, keywords in SUBJECT_NEPALI_KEYWORDS.items():
+        for kw in keywords:
+            all_kw.append((kw, slug))
+    all_kw.sort(key=lambda x: -len(x[0]))
+    for kw, slug in all_kw:
+        if kw in ne:
+            return slug
+    # Check against full title as fallback (for 'अंग्रेजी' as standalone subject)
+    if 'अंग्रेजी' in title and 'अनुवाद' not in title:
+        return 'english'
+    return None
+
+def _is_english_translation(title):
+    """Check if a PDF title is an English translation."""
+    return 'अंग्रेजी अनुवाद' in title or 'अङ्ग्रेजी अनुवाद' in title or 'english translation' in title.lower() or 'english version' in title.lower()
+
+# Build (class, subject) -> pdf_url mapping from book_pdf_map.json titles
+def _build_pdf_lookup():
+    lookup = {}
+    try:
+        with open(_pdf_content_map_path, 'r', encoding='utf-8') as f:
+            pmap = json.load(f)
+    except Exception:
+        return lookup
+
+    for cid, info in pmap.items():
+        pdf_url = info.get('pdf_url', '')
+        title = info.get('title', '')
+        if not pdf_url or not title:
+            continue
+        if not _is_textbook(title):
+            continue
+        # Detect class number (handles both Devanagari and Arabic digits)
+        m = re.search(r'(?:कक्षा|Grade|class)\s*([\d०१२३४५६७८९]+)', title, re.I)
+        if not m:
+            continue
+        cls_num_str = _to_arabic_digits(m.group(1))
+        try:
+            cls_num = int(cls_num_str)
+        except ValueError:
+            continue
+        if cls_num < 1 or cls_num > 12:
+            continue
+        # Extract subject info
+        nepali_name = _extract_nepali_subject(title)
+        subject_slug = _get_pdf_subject_slug(title)
+        is_eng_trans = _is_english_translation(title)
+        cls_key = f"Class {cls_num}"
+        entry = {
+            'pdf_url': pdf_url, 'title': title,
+            'nepali_name': nepali_name, 'subject_slug': subject_slug,
+            'is_eng_trans': is_eng_trans
+        }
+        lookup.setdefault(cls_key, []).append(entry)
+
+    return lookup
+
+PDF_LOOKUP = _build_pdf_lookup()
+
+def _get_display_subject_slug(subj):
+    """Map a display subject name to a normalized slug for PDF matching."""
+    s = subj.lower().strip()
+    # Remove Compulsory/Optional prefix
+    is_optional = s.startswith('optional')
+    s = re.sub(r'^(compulsory|optional)\s+', '', s)
+    # Remove parenthetical
+    s_clean = re.sub(r'\s*\([^)]*\)', '', s).strip()
+    has_english = 'english' in s or s_clean.endswith('(english)')
+
+    # Direct slug mappings — ORDER MATTERS: more specific keys must come FIRST
+    slug_map = [
+        ('computer science', 'computer_science'),
+        ('environmental science', 'environmental_science'),
+        ('optional mathematics', 'optional_math'),
+        ('social studies', 'social_studies'),
+        ('yoga education', 'yoga'),
+        ('nepali', 'nepali'),
+        ('english', 'english'),
+        ('mathematics', 'optional_math' if is_optional else 'math'),
+        ('math', 'optional_math' if is_optional else 'math'),
+        ('science', 'science'),
+        ('accountancy', 'accountancy'),
+        ('account', 'accountancy'),
+        ('economics', 'economics'),
+        ('history', 'history'),
+        ('computer', 'computer_science'),
+        ('health', 'health'),
+        ('population', 'population'),
+        ('education', 'education'),
+        ('serofero', 'serofero'),
+        ('civics', 'civics'),
+        ('yoga', 'yoga'),
+        ('ayurveda', 'ayurveda'),
+        ('sanskrit', 'sanskrit'),
+        ('naturopath', 'naturopath'),
+    ]
+    for key, slug in slug_map:
+        if key in s_clean:
+            return slug
+    # Check for Nepali words in subject
+    for slug, keywords in SUBJECT_NEPALI_KEYWORDS.items():
+        for kw in keywords:
+            if kw in subj:
+                return slug
+    return None
+
+def get_pdf_url(cls, subj):
+    """Look up PDF URL for a given class and subject using the built lookup."""
+    entries = PDF_LOOKUP.get(cls, [])
+    if not entries:
+        return None
+
+    subj_slug = _get_display_subject_slug(subj)
+    if not subj_slug:
+        return None
+
+    subj_lower = subj.lower()
+    has_eng_in_name = 'english' in subj_lower or '(english)' in subj_lower
+    has_nep_in_name = 'nepali' in subj_lower or '(nepali)' in subj_lower or '(nep' in subj_lower
+
+    # Find best matching entry
+    best_score = -999
+    best_url = None
+
+    for entry in entries:
+        slug = entry['subject_slug']
+        if not slug:
+            continue
+        score = 0
+
+        # Primary: subject slug matches
+        if slug == subj_slug:
+            score += 200
+        # Partial: e.g. 'science' slug matching 'science' subject
+        elif slug in subj_slug or subj_slug in slug:
+            score += 100
+
+        if score == 0:
+            continue
+
+        # Language version matching (tiebreaker)
+        wants_eng = has_eng_in_name
+        wants_nep = not has_eng_in_name
+        if wants_eng and entry['is_eng_trans']:
+            score += 50
+        elif wants_eng and not entry['is_eng_trans']:
+            score -= 30
+        elif wants_nep and not entry['is_eng_trans']:
+            score += 20
+        elif wants_nep and entry['is_eng_trans']:
+            score -= 30
+
+        if score > best_score:
+            best_score = score
+            best_url = entry['pdf_url']
+
+    return best_url
+
+def parse_frontmatter(text):
+    """Extract YAML frontmatter fields from markdown content."""
+    # Normalize line endings
+    text = text.replace('\r\n', '\n')
+    m = re.match(r'^---\s*\n(.+?)\n---', text, re.DOTALL)
+    if not m:
+        return {}
+    data = {}
+    for line in m.group(1).split('\n'):
+        line = line.strip()
+        if ':' in line:
+            sep = line.index(':')
+            key = line[:sep].strip()
+            val = line[sep+1:].strip().strip('"\'')
+            data[key] = val
+    return data
+
+def read_file_frontmatter(path):
+    """Read just the frontmatter from a markdown file."""
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            head = f.read(4096)
+        return parse_frontmatter(head)
+    except Exception:
+        return {}
+
+def analyze_book(path):
+    """Extract frontmatter, all headings, and chapter info from a markdown file."""
+    with open(path, 'r', encoding='utf-8') as f:
+        content = f.read()
+    content = content.replace('\r\n', '\n')
+
+    fm = parse_frontmatter(content)
+    lines = content.split('\n')
+    headings = []
+    pos = 0
+
+    for i, line in enumerate(lines):
+        m = re.match(r'^(#{1,6})\s+(.+)$', line)
+        if m:
+            level = len(m.group(1))
+            raw = m.group(2).strip()
+            anchor = None
+            clean = raw
+            am = re.search(r'\{#ch-(\d+)\}', raw)
+            if am:
+                anchor = f'ch-{am.group(1)}'
+                clean = re.sub(r'\s*\{#ch-\d+\}\s*', '', raw)
+            headings.append({
+                'level': level, 'text': clean, 'anchor': anchor,
+                'line': i, 'pos': pos
+            })
+        pos += len(line) + 1
+
+    # Chapter detection: find ALL chapter-like headings
+    skip_list = ['table of contents', 'contents', 'content', 'index', 'introduction',
+                 'preface', 'acknowledgements', 'foreword', 'glossary',
+                 'bibliography', 'references', 'appendix',
+                 'topic', 'summary', 'exercise', 'review',
+                 'विषयवस्तु', 'विषय सूची', 'अनुक्रमणिका','प्रस्तावना','भूमिका']
+    nepali_digits = set('०१२३४५६७८९')
+    en_digit_start = re.compile(r'^\d+\s*[:.)\s]')
+    nepali_digit_start = re.compile(r'^[०१२३४५६७८९]+\s*[:.)\s]')
+    unit_prefix = re.compile(r'^(?:Unit|Lesson|Chapter|Module|Section|एकाइ|पाठ|भाग)\s*\d+', re.I)
+
+    chapters = []
+    seen_ch_num = set()
+    first_h1 = True
+
+    for h in headings:
+        text = h['text'].strip()
+        text_lower = text.lower().rstrip('.').strip()
+
+        # Skip document title (first h1)
+        if h['level'] == 1:
+            if first_h1:
+                first_h1 = False
+                continue
+
+        # Skip non-chapter headings
+        if h['level'] > 2:
+            continue
+        if text_lower in skip_list:
+            continue
+        if len(text) < 4 and not h['anchor']:
+            continue
+
+        is_chapter = False
+        if h['anchor']:
+            is_chapter = True
+        elif en_digit_start.match(text) or nepali_digit_start.match(text):
+            is_chapter = True
+        elif unit_prefix.match(text):
+            is_chapter = True
+        # Also accept any `##` or `#` heading that's not a skip word
+        elif h['level'] == 2 and len(text) > 5:
+            is_chapter = True
+
+        if is_chapter:
+            # Deduplicate by anchor
+            if h['anchor'] and h['anchor'] in seen_ch_num:
+                continue
+            if h['anchor']:
+                seen_ch_num.add(h['anchor'])
+            chapters.append(h)
+
+    # If no chapters with anchors and the file has clear Lesson/Unit markers,
+    # scan body text for them as a last resort
+    if len([c for c in chapters if c.get('anchor')]) == 0 and len(chapters) <= 1:
+        # Check first 800 non-heading lines for "Lesson" or "Unit" patterns
+        body_lines = []
+        for i, line in enumerate(lines):
+            if i > 0 and not re.match(r'^#{1,4}\s+', line):
+                body_lines.append((i, line))
+        check_text = '\n'.join(l for _, l in body_lines[:300])
+        
+        has_lesson = bool(re.search(r'^Lesson\s', check_text, re.MULTILINE))
+        has_unit = bool(re.search(r'\bUnit\s+\d+\s*:', check_text[:2000]))
+        
+        if has_lesson or has_unit:
+            for line_idx, line in body_lines[:500]:
+                stripped = line.strip()
+                # Match "Lesson Title" pattern
+                lm = re.match(r'^Lesson\s+(.+)$', stripped, re.I)
+                if lm:
+                    title = lm.group(1).strip()
+                    if title and len(title) > 3 and title.lower() != 'topic page':
+                        chapters.append({
+                            'level': 0, 'text': title, 'anchor': None,
+                            'line': line_idx, 'pos': 0, '_from_body': True
+                        })
+                        if len(chapters) >= 20:
+                            break
+
+    # Assign display numbers
+    prev_num = 0
+    for idx, ch in enumerate(chapters):
+        ch['display_num'] = idx + 1
+        if ch['anchor']:
+            try:
+                ch['ch_num'] = int(ch['anchor'].split('-')[1])
+            except (ValueError, IndexError):
+                ch['ch_num'] = idx + 1
+        else:
+            ch['ch_num'] = idx + 1
+
+    return {'frontmatter': fm, 'headings': headings, 'chapters': chapters}
+
+@app.route('/api/scan', methods=['GET'])
+def scan_books():
+    """Scan ALL books and return structured index with real chapters from each file."""
+    result = {}
+    for (cls, subj), path in sorted(FILE_MAP.items()):
+        if cls not in result:
+            result[cls] = []
+        try:
+            analysis = analyze_book(path)
+            fm = analysis['frontmatter']
+            result[cls].append({
+                'name': fm.get('subject', subj) if fm.get('subject') else subj,
+                'file': os.path.relpath(path, str(BASE)),
+                'frontmatter': fm,
+                'chapters': analysis['chapters'],
+                'heading_count': len(analysis['headings'])
+            })
+        except Exception as e:
+            result[cls].append({
+                'name': subj, 'file': os.path.relpath(path, str(BASE)),
+                'error': str(e), 'chapters': [], 'heading_count': 0
+            })
+    return jsonify(result)
+
 @app.route('/')
 def index():
     return send_from_directory(BASE, 'toc_webpage.html')
@@ -71,19 +480,37 @@ def list_files():
 
 @app.route('/api/resolve', methods=['GET'])
 def resolve_file():
-    """Resolve a class+subject to its file path (without reading)."""
+    """Resolve a class+subject to its file path and return parsed frontmatter."""
     cls = request.args.get('class', '')
     subj = request.args.get('subject', '')
     path = FILE_MAP.get((cls, subj))
-    if path:
-        rel = os.path.relpath(path, str(BASE))
-        return jsonify({"path": rel, "exists": True})
-    # Try fuzzy match
-    for (c, s), p in FILE_MAP.items():
-        if c == cls and (s.lower() == subj.lower() or subj.lower() in s.lower() or s.lower() in subj.lower()):
-            rel = os.path.relpath(p, str(BASE))
-            return jsonify({"path": rel, "exists": True, "matched_subject": s})
-    return jsonify({"path": None, "exists": False}), 404
+    matched_subj = None
+    if not path:
+        for (c, s), p in FILE_MAP.items():
+            if c == cls and (s.lower() == subj.lower() or subj.lower() in s.lower() or s.lower() in subj.lower()):
+                path = p
+                matched_subj = s
+                break
+    if not path:
+        return jsonify({"path": None, "exists": False}), 404
+    rel = os.path.relpath(path, str(BASE))
+    fm = read_file_frontmatter(path)
+    result = {"path": rel, "exists": True}
+    if matched_subj:
+        result["matched_subject"] = matched_subj
+    if fm:
+        result["frontmatter"] = fm
+    return jsonify(result)
+
+@app.route('/api/pdf-url', methods=['GET'])
+def pdf_url():
+    """Return the PDF URL for a given class/subject if known."""
+    cls = request.args.get('class', '')
+    subj = request.args.get('subject', '')
+    url = get_pdf_url(cls, subj)
+    if url:
+        return jsonify({"pdf_url": url, "available": True})
+    return jsonify({"pdf_url": None, "available": False})
 
 @app.route('/api/read-file', methods=['GET'])
 def read_file():
@@ -106,6 +533,76 @@ def read_file():
         return jsonify({"path": rel, "content": content, "size": len(content)})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+@app.route('/api/chapter-content', methods=['GET'])
+def chapter_content():
+    """Extract and return content for a specific chapter from a markdown file."""
+    cls = request.args.get('class', '')
+    subj = request.args.get('subject', '')
+    ch_idx = request.args.get('index')
+    if ch_idx is None:
+        return jsonify({"error": "Missing 'index' parameter"}), 400
+    try:
+        ch_idx = int(ch_idx)
+    except ValueError:
+        return jsonify({"error": "Invalid chapter index"}), 400
+
+    path = FILE_MAP.get((cls, subj))
+    if not path:
+        for (c, s), p in FILE_MAP.items():
+            if c == cls and (subj.lower() in s.lower() or s.lower() in subj.lower()):
+                path = p
+                break
+    if not path:
+        return jsonify({"error": f"File not found for {cls}/{subj}"}), 404
+
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            content = f.read()
+        content = content.replace('\r\n', '\n')
+
+        analysis = analyze_book(path)
+        chapters = analysis['chapters']
+        if not chapters or ch_idx >= len(chapters):
+            return jsonify({"error": f"Chapter index {ch_idx} out of range ({len(chapters)} chapters)"}), 404
+
+        ch = chapters[ch_idx]
+        lines = content.split('\n')
+
+        # Find start line: the chapter's heading line
+        start_line = ch['line']
+        # Find end line: next chapter heading, or end of file
+        end_line = len(lines)
+        for other in chapters:
+            if other['line'] > start_line:
+                end_line = other['line']
+                break
+
+        # Extract content
+        ch_lines = lines[start_line:end_line]
+        ch_content = '\n'.join(ch_lines)
+
+        # Also try to include content before the heading if it's a body-detected chapter
+        if ch.get('_from_body'):
+            # Include a few lines before for context
+            pre = max(0, start_line - 2)
+            ch_content = '\n'.join(lines[pre:end_line])
+
+        lines_before = start_line
+        lines_after = len(lines) - end_line
+
+        return jsonify({
+            "content": ch_content,
+            "chapter": ch,
+            "start_line": start_line,
+            "end_line": end_line,
+            "total_lines": len(lines),
+            "lines_before": lines_before,
+            "lines_after": lines_after
+        })
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
 
 @app.route('/api/chat', methods=['POST'])
 def chat():
@@ -191,17 +688,33 @@ Every question must be directly based on the content present in the textbook exc
         "ask": f"""You are an AI tutor for {subject_header}. {lang_instr} {source_instr} Answer the student's question based on the textbook content below. Be thorough, educational, and use examples from the text. If the question is off-topic, politely redirect to the subject matter."""
     }
 
-    system_prompt = system_prompts.get(mode, system_prompts["ask"])
+    # Build mode-specific prompt
+    if mode == "extract_chapter":
+        chapter_num = (chapter_index or 0) + 1
+        system_prompt = f"""You are a textbook content extractor for {subject_header}. {lang_instr} Given the full textbook markdown content below, find the chapter that contains the anchor `{{#ch-{chapter_num}}}` and extract it in clean, readable markdown format. The chapter starts at the heading line containing `{{#ch-{chapter_num}}}`. Include ALL content from that chapter: headings, subheadings, body text, exercises, questions, activities, examples, tables, diagrams, and any other material. Clean up OCR artifacts or garbled text where the original meaning is clear. CRITICAL: Output the chapter content directly — start with the heading and nothing else. No preamble like \"Here is the extracted chapter\", no explanations, no code fences. Just the raw markdown starting from the chapter heading."""
+    else:
+        system_prompt = system_prompts.get(mode, system_prompts["ask"])
+
+    content_limit = 80000 if mode == "extract_chapter" else 20000
 
     # If chapter specified, try to extract that section
     chapter_context = ""
     if chapter_index is not None:
         chapter_context = f"\n(The student is asking about Chapter {chapter_index + 1})"
 
-    user_prompt = f"""Here is the full textbook content for {subject_header}:
+    if mode == "extract_chapter":
+        user_prompt = f"""Here is the full textbook content:
 
 === BEGIN TEXTBOOK CONTENT ===
-{content[:20000]}
+{content[:content_limit]}
+=== END TEXTBOOK CONTENT ===
+
+Extract Chapter {chapter_index + 1} from the content above. Return it cleanly formatted in markdown."""
+    else:
+        user_prompt = f"""Here is the full textbook content for {subject_header}:
+
+=== BEGIN TEXTBOOK CONTENT ===
+{content[:content_limit]}
 === END TEXTBOOK CONTENT ===
 
 {chapter_context}
@@ -298,12 +811,23 @@ def chat_stream():
         "ask": f"You are an AI tutor for {subject_header}. {lang_instr} {source_instr} Answer the student's question based on the textbook content below. Be thorough, educational, and use examples from the text."
     }
 
-    system_prompt = system_prompts.get(mode, system_prompts["ask"])
+    if mode == "extract_chapter":
+        chapter_num = (chapter_index or 0) + 1
+        chapter_name = data.get('chapterName', f'Chapter {chapter_num}')
+        system_prompt = f"You are a textbook content extractor for {subject_header}. {lang_instr} Given the full textbook markdown content below, find the chapter that contains the anchor `{{#ch-{chapter_num}}}` and extract it in clean, readable markdown format. The chapter starts at the heading line containing `{{#ch-{chapter_num}}}`. Include ALL content from that chapter: headings, subheadings, body text, exercises, questions, activities, examples, tables, diagrams, and any other material. Clean up OCR artifacts or garbled text where the original meaning is clear. CRITICAL: Output the chapter content directly — start with the heading and nothing else. No preamble like \"Here is the extracted chapter\", no explanations, no code fences. Just the raw markdown starting from the chapter heading."
+    else:
+        system_prompt = system_prompts.get(mode, system_prompts["ask"])
+
+    content_limit = 80000 if mode == "extract_chapter" else 20000
+
     chapter_context = ""
     if chapter_index is not None:
         chapter_context = f"\n(The student is asking about Chapter {chapter_index + 1})"
 
-    user_prompt = f"Here is the full textbook content for {subject_header}:\n\n=== BEGIN TEXTBOOK CONTENT ===\n{content[:20000]}\n=== END TEXTBOOK CONTENT ===\n{chapter_context}\nStudent's request: {query}"
+    if mode == "extract_chapter":
+        user_prompt = f"Here is the full textbook content:\n\n=== BEGIN TEXTBOOK CONTENT ===\n{content[:content_limit]}\n=== END TEXTBOOK CONTENT ===\n\nExtract Chapter {chapter_index + 1} from the content above. Return it cleanly formatted in markdown."
+    else:
+        user_prompt = f"Here is the full textbook content for {subject_header}:\n\n=== BEGIN TEXTBOOK CONTENT ===\n{content[:content_limit]}\n=== END TEXTBOOK CONTENT ===\n{chapter_context}\nStudent's request: {query}"
 
     def generate():
         def stream_provider(api_key, api_url, model):

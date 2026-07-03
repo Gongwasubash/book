@@ -1,0 +1,222 @@
+﻿
+============================================================
+Class 1 (6 files)
+============================================================
+  Class 1\Class 1 English.md
+    89622 -> 64879 chars, 75 ch, -24743 chars (100%)
+  Class 1\Class 1 Mathematics (English).md
+    47798 -> 30913 chars, 8 ch, -16885 chars (100%)
+  Class 1\Class 1 Mathematics (Nepali).md
+    76774 -> 22778 chars, 7 ch, -53996 chars (100%)
+  Class 1\Class 1 Nepali.md
+    145598 -> 93216 chars, 30 ch, -52382 chars (100%)
+  Class 1\Class 1 Nepali_unicode.md
+    145598 -> 93240 chars, 30 ch, -52358 chars (100%)
+  Class 1\Class 1 Serofero.md
+    91382 -> 42673 chars, 6 ch, -48709 chars (100%)
+
+============================================================
+Class 10 (11 files)
+============================================================
+  Class 10\Class 10 Accountancy.md
+    708756 -> 515504 chars, 14 ch, -193252 chars (100%)
+  Class 10\Class 10 Compulsory English.md
+    447415 -> 361448 chars, 12 ch, -85967 chars (100%)
+  Class 10\Class 10 Compulsory Mathematics (English).md
+    527413 -> 383020 chars, 0 ch, -144393 chars (0%)
+  Class 10\Class 10 Compulsory Mathematics (Nepali).md
+    631167 -> 409479 chars, 9 ch, -221688 chars (100%)
+  Class 10\Class 10 Compulsory Nepali.md
+    427325 -> 356993 chars, 15 ch, -70332 chars (100%)
+  Class 10\Class 10 Computer Science.md
+    269639 -> 139893 chars, 3 ch, -129746 chars (100%)
+  Class 10\Class 10 Economics.md
+    357802 -> 278567 chars, 4 ch, -79235 chars (100%)
+  Class 10\Class 10 History.md
+    312538 -> 282966 chars, 10 ch, -29572 chars (100%)
+  Class 10\Class 10 Optional Mathematics.md
+    673939 -> 395278 chars, 6 ch, -278661 chars (100%)
+  Class 10\Class 10 Science.md
+    918156 -> 670548 chars, 19 ch, -247608 chars (100%)
+  Class 10\Class 10 Social Studies.md
+    549137 -> 463239 chars, 39 ch, -85898 chars (100%)
+
+============================================================
+Class 2 (5 files)
+============================================================
+  Class 2\Class 2 English.md
+    139331 -> 100637 chars, 30 ch, -38694 chars (100%)
+  Class 2\Class 2 Health Physical Creative Arts (English).md
+    126656 -> 116139 chars, 8 ch, -10517 chars (100%)
+  Class 2\Class 2 Mathematics (English).md
+    92367 -> 74643 chars, 9 ch, -17724 chars (100%)
+  Class 2\Class 2 Mathematics (Nepali).md
+    216572 -> 92822 chars, 16 ch, -123750 chars (100%)
+  Class 2\Class 2 Nepali.md
+    283659 -> 161493 chars, 23 ch, -122166 chars (100%)
+
+============================================================
+Class 3 (5 files)
+============================================================
+  Class 3\Class 3 English.md
+    178449 -> 131901 chars, 26 ch, -46548 chars (100%)
+  Class 3\Class 3 Maths (English).md
+    106767 -> 86088 chars, 3 ch, -20679 chars (100%)
+  Class 3\Class 3 Maths (Nepali).md
+    247715 -> 112901 chars, 21 ch, -134814 chars (100%)
+  Class 3\Class 3 Nepali.md
+    347833 -> 209953 chars, 23 ch, -137880 chars (100%)
+  Class 3\Class 3 Serofero.md
+    191997 -> 92951 chars, 7 ch, -99046 chars (100%)
+
+============================================================
+Class 4 (8 files)
+============================================================
+  Class 4\Class 4 English.md
+    245487 -> 135212 chars, 10 ch, -110275 chars (100%)
+  Class 4\Class 4 Health Physical Creative Arts (Nepali).md
+    143606 -> 121345 chars, 13 ch, -22261 chars (100%)
+  Class 4\Class 4 Mathematics (English).md
+    320336 -> 197197 chars, 12 ch, -123139 chars (100%)
+  Class 4\Class 4 Mathematics (Nepali).md
+    296427 -> 176829 chars, 5 ch, -119598 chars (100%)
+  Class 4\Class 4 Nepali.md
+    172830 -> 156945 chars, 15 ch, -15885 chars (100%)
+  Class 4\Class 4 Science and Technology (English).md
+    126656 -> 116118 chars, 8 ch, -10538 chars (100%)
+  Class 4\Class 4 Science and Technology (Nepali).md
+    189195 -> 120495 chars, 3 ch, -68700 chars (100%)
+  Class 4\Class 4 Social Studies and Human Value Education.md
+    150571 -> 133892 chars, 0 ch, -16679 chars (0%)
+
+============================================================
+Class 5 (9 files)
+============================================================
+  Class 5\Class 5 English.md
+    130429 -> 7565 chars, 12 ch, -122864 chars (100%)
+  Class 5\Class 5 Mathematics (English).md
+    154749 -> 107404 chars, 18 ch, -47345 chars (100%)
+  Class 5\Class 5 Mathematics (Nepali).md
+    287689 -> 132360 chars, 0 ch, -155329 chars (0%)
+  Class 5\Class 5 Nepali.md
+    164812 -> 110846 chars, 11 ch, -53966 chars (100%)
+  Class 5\Class 5 Science and Technology.md
+    200949 -> 193264 chars, 3 ch, -7685 chars (100%)
+  Class 5\Class 5 Science Health Physical (English).md
+    183372 -> 165803 chars, 15 ch, -17569 chars (100%)
+  Class 5\Class 5 Science Health Physical (Nepali).md
+    186863 -> 158920 chars, 15 ch, -27943 chars (100%)
+  Class 5\Class 5 Social Studies Creative Arts (English).md
+    211959 -> 158003 chars, 2 ch, -53956 chars (100%)
+  Class 5\Class 5 Social Studies Creative Arts (Nepali).md
+    390387 -> 78490 chars, 2 ch, -311897 chars (100%)
+
+============================================================
+Class 6 (8 files)
+============================================================
+  Class 6\Class 6 English.md
+    244384 -> 144537 chars, 6 ch, -99847 chars (100%)
+  Class 6\Class 6 Health Physical (Nepali).md
+    240483 -> 222657 chars, 0 ch, -17826 chars (0%)
+  Class 6\Class 6 Health Physical Creative Arts (English).md
+    216603 -> 213335 chars, 0 ch, -3268 chars (0%)
+  Class 6\Class 6 Mathematics (English Transcribed).md
+    340982 -> 187990 chars, 0 ch, -152992 chars (0%)
+  Class 6\Class 6 Mathematics (Nepali).md
+    344877 -> 283589 chars, 0 ch, -61288 chars (0%)
+  Class 6\Class 6 Nepali.md
+    288806 -> 224677 chars, 14 ch, -64129 chars (100%)
+  Class 6\Class 6 Science (Nepali).md
+    317468 -> 296138 chars, 0 ch, -21330 chars (0%)
+  Class 6\Class 6 Social Studies.md
+    258197 -> 244202 chars, 0 ch, -13995 chars (0%)
+
+============================================================
+Class 7 (9 files)
+============================================================
+  Class 7\Class 7 English.md
+    295026 -> 256903 chars, 18 ch, -38123 chars (100%)
+  Class 7\Class 7 Health Physical (Nepali).md
+    213542 -> 197416 chars, 0 ch, -16126 chars (0%)
+  Class 7\Class 7 Health Physical Creative Arts (English).md
+    194711 -> 172446 chars, 7 ch, -22265 chars (100%)
+  Class 7\Class 7 Maths (English).md
+    314114 -> 243419 chars, 0 ch, -70695 chars (0%)
+  Class 7\Class 7 Maths (Nepali).md
+    564126 -> 384305 chars, 0 ch, -179821 chars (0%)
+  Class 7\Class 7 Nepali.md
+    274067 -> 236153 chars, 16 ch, -37914 chars (100%)
+  Class 7\Class 7 Science Technology (English).md
+    278883 -> 240239 chars, 4 ch, -38644 chars (100%)
+  Class 7\Class 7 Science Technology (Nepali).md
+    369158 -> 325726 chars, 0 ch, -43432 chars (0%)
+  Class 7\Class 7 Social Studies.md
+    271936 -> 259379 chars, 0 ch, -12557 chars (0%)
+
+============================================================
+Class 8 (14 files)
+============================================================
+  Class 8\Class 8 English 2019.md
+    246616 -> 203603 chars, 19 ch, -43013 chars (100%)
+  Class 8\Class 8 English 2023.md
+    15868 -> 9482 chars, 0 ch, -6386 chars (0%)
+  Class 8\Class 8 Health Physical Creative Arts (English).md
+    292228 -> 264060 chars, 11 ch, -28168 chars (100%)
+  Class 8\Class 8 Health Physical Education.md
+    166566 -> 110304 chars, 0 ch, -56262 chars (0%)
+  Class 8\Class 8 Maths (English Transcribed).md
+    336316 -> 301592 chars, 0 ch, -34724 chars (0%)
+  Class 8\Class 8 Maths (Nepali).md
+    513702 -> 226121 chars, 4 ch, -287581 chars (100%)
+  Class 8\Class 8 Moral Education (English).md
+    151602 -> 143561 chars, 3 ch, -8041 chars (100%)
+  Class 8\Class 8 Moral Education (Nepali).md
+    135438 -> 85218 chars, 0 ch, -50220 chars (0%)
+  Class 8\Class 8 Nepali 2076.md
+    233231 -> 139176 chars, 0 ch, -94055 chars (0%)
+  Class 8\Class 8 Nepali 2080.md
+    275822 -> 264310 chars, 13 ch, -11512 chars (100%)
+  Class 8\Class 8 Science Environment (English).md
+    365076 -> 341526 chars, 17 ch, -23550 chars (100%)
+  Class 8\Class 8 Science Environment (Nepali).md
+    456535 -> 228975 chars, 5 ch, -227560 chars (100%)
+  Class 8\Class 8 Social Studies Population.md
+    280460 -> 181430 chars, 0 ch, -99030 chars (0%)
+  Class 8\Class 8 Vocational Technical Education.md
+    279945 -> 176798 chars, 0 ch, -103147 chars (0%)
+
+============================================================
+Class 9 (13 files)
+============================================================
+  Class 9\Class 9 Computer Science 2081.md
+    317095 -> 238211 chars, 6 ch, -78884 chars (100%)
+  Class 9\Class 9 Economics 2074.md
+    349153 -> 296764 chars, 5 ch, -52389 chars (100%)
+  Class 9\Class 9 English 2079.md
+    442686 -> 236369 chars, 4 ch, -206317 chars (100%)
+  Class 9\Class 9 Mathematics (English) 2022.md
+    569457 -> 409568 chars, 21 ch, -159889 chars (100%)
+  Class 9\Class 9 Mathematics (Nepali) 2079.md
+    698517 -> 471074 chars, 0 ch, -227443 chars (0%)
+  Class 9\Class 9 Mathematics Open Ended 2079.md
+    694505 -> 472541 chars, 0 ch, -221964 chars (0%)
+  Class 9\Class 9 Naturopath 2082.md
+    4382 -> 3707 chars, 0 ch, -675 chars (0%)
+  Class 9\Class 9 Nepali 2079.md
+    346228 -> 292083 chars, 15 ch, -54145 chars (100%)
+  Class 9\Class 9 Optional Mathematics 2074.md
+    566371 -> 297151 chars, 5 ch, -269220 chars (100%)
+  Class 9\Class 9 Optional Mathematics 2076.md
+    349768 -> 237492 chars, 6 ch, -112276 chars (100%)
+  Class 9\Class 9 Science Technology 2024.md
+    455672 -> 299459 chars, 0 ch, -156213 chars (0%)
+  Class 9\Class 9 Social Studies 2079.md
+    434191 -> 411874 chars, 37 ch, -22317 chars (100%)
+  Class 9\Class 9 Yoga Education 2082.md
+    16037 -> 12352 chars, 12 ch, -3685 chars (100%)
+
+============================================================
+Books with chapters: 63, without: 25
+Total: 88 files, 845 chapters
+DRY RUN
+============================================================

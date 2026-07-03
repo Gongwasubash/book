@@ -1,0 +1,17 @@
+Server starting...
+AI provider: groq
+API key: MISSING
+Groq model: llama-3.3-70b-versatile
+Files indexed: 89
+  Class 1: 6 files
+  Class 10: 11 files
+  Class 2: 5 files
+  Class 3: 5 files
+  Class 4: 8 files
+  Class 5: 9 files
+  Class 6: 8 files
+  Class 7: 9 files
+  Class 8: 15 files
+  Class 9: 13 files
+ * Serving Flask app 'server'
+ * Debug mode: on

@@ -55,6 +55,14 @@ body{font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif;backgroun
 .resultBox{background:#fff;border:1px solid #E5DFD2;border-radius:10px;padding:20px}
 .resultMeta{display:flex;align-items:center;gap:6px;font-size:11.5px;color:#8A8070;margin-bottom:12px;font-weight:600}
 .resultText{white-space:pre-wrap;font-family:inherit;font-size:13.5px;line-height:1.6;color:#2B2620;margin:0}
+/* PDF viewer */
+.pdfViewer{width:100%;height:85vh;border:none;border-radius:10px;background:#fff}
+.viewToggle{margin-left:auto;display:flex;gap:4px;background:#F0EBE0;border-radius:6px;padding:2px}
+.viewToggle button{padding:5px 12px;border:none;background:transparent;border-radius:4px;font-size:12px;font-weight:600;color:#5C5446;cursor:pointer;transition:.12s}
+.viewToggle button.active{background:#fff;color:#A33B2C}
+.pdfLoading{display:flex;align-items:center;justify-content:center;height:300px;color:#8A8070;font-size:14px}
+.pdfUnavailable{text-align:center;padding:40px;color:#8A8070}
+.pdfUnavailable h3{font-size:16px;color:#2B2620;margin-bottom:8px}
 /* empty state */
 .emptyState{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:40px;margin:auto}
 .emptyIcon{font-size:36px;margin-bottom:10px}
@@ -75,7 +83,7 @@ body{font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif;backgroun
 .tocTable tr.active .page{color:#fff}
 
 /* chapter content */
-.chapterContent{background:#fff;border:1px solid #E5DFD2;border-radius:10px;padding:24px;margin-bottom:24px;max-height:70vh;overflow-y:auto}
+.chapterContent{background:#fff;border:1px solid #E5DFD2;border-radius:10px;padding:24px;margin-bottom:24px}
 .chapterContent h1{font-size:22px;font-weight:700;color:#2B2620;margin:28px 0 12px 0;padding-bottom:8px;border-bottom:2px solid #F3E9DE}
 .chapterContent h1:first-child{margin-top:0}
 .chapterContent h2{font-size:18px;font-weight:700;color:#2B2620;margin:24px 0 10px 0}
@@ -91,6 +99,7 @@ body{font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif;backgroun
 .chapterContent pre{background:#F8F6F0;border:1px solid #E5DFD2;border-radius:8px;padding:14px;overflow-x:auto;margin:12px 0;font-size:13px;line-height:1.5}
 .chapterContent pre code{background:none;padding:0;border-radius:0}
 .chapterContent a{color:#A33B2C;text-decoration:underline}
+.chapterContent.fullBook{max-height:none;overflow-y:visible;margin-bottom:0}
 /* genre badge in work column */
 .genreBadge{display:inline-block;font-size:11px;color:#8A8070;background:#F3E9DE;border-radius:4px;padding:2px 8px;margin-left:8px;font-weight:400}
 .chapterMeta{font-size:12px;color:#8A8070;margin-top:-14px;margin-bottom:18px}
@@ -712,6 +721,11 @@ const UNINDEXABLE = new Set(["Class 9|Naturopath 2082","Class 9|Yoga Education 2
 
 // ====== APP STATE ======
 let activeClass = null, activeSubject = null, selectedChapter = null, result = null, error = null;
+let viewMode = 'pdf'; // 'pdf' | 'chapter'
+let pdfAvailable = false;
+let pdfUrlCache = {}; // key -> pdf_url
+let pdfPageTarget = null; // page number to jump to in PDF
+let pendingScroll = null;
 let EXERCISES_DATA = null;
 function key(c,s){return c+'|'+s}
 
@@ -739,7 +753,7 @@ function renderSidebar(){
       const s = document.createElement('button');
       s.className = 'subjectRow' + (activeClass===cls && activeSubject===i ? ' active' : '');
       s.innerHTML = `<span style="font-size:11px;opacity:.6">${getIcon(sub)}</span><span class="subjectLabel">${sub}</span>`;
-      s.onclick = () => { activeSubject=i; selectedChapter=null; result=null; error=null; renderSidebar(); renderContent(); closeSidebar(); };
+      s.onclick = () => { activeSubject=i; selectedChapter=null; result=null; error=null; pdfPageTarget=null; renderSidebar(); renderContent(); closeSidebar(); };
       subWrap.appendChild(s);
     });
     clsDiv.appendChild(subWrap);
@@ -786,6 +800,9 @@ function renderContent(){
   welcome.style.display='none';
   mainWork.style.display='flex';
 
+  // Reset view mode when switching books
+  viewMode = 'pdf';
+
   const ch = getChapters(cls, sub);
   const isUnindexable = UNINDEXABLE.has(key(cls, sub));
 
@@ -807,7 +824,7 @@ function renderContent(){
     html += `</tr></thead><tbody>`;
     tblData.forEach((r,i) => {
       const act = selectedChapter===i ? ' active' : '';
-      html += `<tr class="${act}" onclick="selectChapter(${i})" style="cursor:pointer">`;
+      html += `<tr data-ch="${i}" class="${act}" onclick="selectChapter(${i})" style="cursor:pointer">`;
       html += `<td class="num">${r.num}</td><td>${r.title}</td>`;
       if(hasGenre) html += `<td class="genre">${r.genre||'—'}</td>`;
       if(hasPage) html += `<td class="page">${r.page||'—'}</td>`;
@@ -818,56 +835,333 @@ function renderContent(){
   } else {
     let html = `<div class="colLabel">Chapters (${ch.chapters.length})</div>`;
     ch.chapters.forEach((c,i) => {
-      html += `<button class="chapterBtn${selectedChapter===i?' active':''}" onclick="selectChapter(${i})">${c}</button>`;
+      html += `<button data-ch="${i}" class="chapterBtn${selectedChapter===i?' active':''}" onclick="selectChapter(${i})">${c}</button>`;
     });
     chCol.innerHTML = html;
   }
 
-  // Work column
-  const workCol = document.getElementById('workCol');
-  if(isUnindexable){
-    workCol.innerHTML = `<div class="emptyState"><div class="emptyIcon">⚠️</div><div class="emptyTitle">OCR scan too damaged</div><div class="emptyDesc">This book's scan is too corrupted to extract chapter titles reliably.</div></div>`;
-    return;
-  }
-  if(!ch){
-    workCol.innerHTML = `<div class="emptyState"><div class="emptyIcon">📖</div><div class="emptyTitle">Chapters not indexed yet</div><div class="emptyDesc">This book hasn't been broken into chapters yet.</div></div>`;
-    return;
-  }
-  if(selectedChapter===null){
-    workCol.innerHTML = `<div class="pickPrompt">Select a chapter to view details</div>`;
-    return;
+  // Work column — render based on view mode
+  renderWorkColumn();
+}
+
+function renderWorkColumn(){
+  var pk = key(activeClass, INDEX[activeClass][activeSubject]);
+  var hasPdf = !!pdfUrlCache[pk];
+  var isUnindexable = UNINDEXABLE.has(pk);
+
+  // If we haven't checked PDF availability yet, do it async
+  if (!hasPdf && pdfUrlCache[pk] !== false) {
+    pdfUrlCache[pk] = false; // mark as checked
+    fetch(API_BASE+'/api/pdf-url?class='+encodeURIComponent(activeClass)+'&subject='+encodeURIComponent(INDEX[activeClass][activeSubject]))
+      .then(function(r){ return r.json(); })
+      .then(function(d){
+        if(d.available && d.pdf_url){
+          pdfUrlCache[pk] = d.pdf_url;
+          if (viewMode === 'pdf') renderWorkColumn();
+        }
+      }).catch(function(){});
   }
 
-  const tblDataRow = tblData ? tblData[selectedChapter] : null;
-  const chapterName = tblDataRow ? tblDataRow.title : ch.chapters[selectedChapter];
-  let metaHtml = '';
-  if(tblDataRow && (tblDataRow.genre || tblDataRow.page)){
-    metaHtml = `<div class="chapterMeta">`;
-    if(tblDataRow.genre) metaHtml += `<span class="genreBadge">${tblDataRow.genre}</span>`;
-    if(tblDataRow.page) metaHtml += `${tblDataRow.genre ? ' ' : ''}Page ${tblDataRow.page}`;
-    metaHtml += `</div>`;
+  var workCol = document.getElementById('workCol');
+  var ch = getChapters(activeClass, INDEX[activeClass][activeSubject]);
+
+  // Auto-select first chapter if none selected
+  if (selectedChapter === null && ch && ch.chapters && ch.chapters.length > 0) {
+    selectedChapter = 0;
   }
-  workCol.innerHTML = `
-    <div class="chapterTitle">${chapterName}</div>
-    ${metaHtml}
-    <div id="chapterContent" class="chapterContent"><div style="text-align:center;color:#8A8070;font-size:13px;padding:12px 0"><span class="loadingDots">Loading chapter content</span></div></div>
-    <div class="actionsRow">
-      <button class="actionCard" onclick="callAI('mcq')"><div style="font-size:20px">📝</div><div class="actionLabel">Generate MCQs</div><div class="actionDesc">10 questions with answer key</div></button>
-      <button class="actionCard" onclick="callAI('mindmap')"><div style="font-size:20px">🧠</div><div class="actionLabel">Mind Map</div><div class="actionDesc">Visual concept breakdown</div></button>
-      <button class="actionCard" onclick="callAI('exercise')"><div style="font-size:20px">✏️</div><div class="actionLabel">Practice Exercise</div><div class="actionDesc">Mixed Q&A with solutions</div></button>
-      <button class="actionCard" onclick="callAI('chapter_exercise')"><div style="font-size:20px">📘</div><div class="actionLabel">Chapter Exercise</div><div class="actionDesc">Real exercises from the textbook</div></button>
-    </div>
-    <div class="queryRow">
-      <input class="queryInput" id="queryInput" placeholder="Ask a question about this chapter..." onkeydown="if(event.key==='Enter')callAI('ask')">
-      <button class="queryBtn" onclick="callAI('ask')">Ask AI</button>
-    </div>
-    <div id="resultArea"></div>
-  `;
-  loadChapterContent();
+
+  // Build toggle
+  var toggleHtml = '<div class="viewToggle">';
+  if (hasPdf) {
+    toggleHtml += '<button class="'+(viewMode==='pdf'?'active':'')+'" onclick="switchView(\'pdf\')">📄 PDF View</button>';
+  }
+  toggleHtml += '<button class="'+(viewMode==='chapter'?'active':'')+'" onclick="switchView(\'chapter\')">📖 Chapter View</button>';
+  toggleHtml += '</div>';
+
+  if (viewMode === 'pdf' && hasPdf) {
+    var pdfSrc = pdfUrlCache[pk];
+    if (pdfPageTarget) {
+      pdfSrc += '#page=' + pdfPageTarget;
+    }
+    workCol.innerHTML = toggleHtml + '<iframe class="pdfViewer" src="'+pdfSrc+'"></iframe>';
+  } else if (viewMode === 'pdf' && !hasPdf && pdfUrlCache[pk] === false) {
+    // Checked and no PDF available — show chapter view with note
+    workCol.innerHTML = toggleHtml + renderChapterView(ch, isUnindexable);
+  } else {
+    // viewMode === 'chapter' or PDF still loading
+    viewMode = 'chapter';
+    pdfPageTarget = null;
+    workCol.innerHTML = toggleHtml + renderChapterView(ch, isUnindexable);
+  }
+}
+
+function renderChapterView(ch, isUnindexable){
+  var html = '<div id="chapterContent" class="chapterContent"><div style="text-align:center;color:#8A8070;font-size:13px;padding:12px 0"><span class="loadingDots">Loading chapter</span></div></div>';
+  html += '<div class="actionsRow" id="aiActionsRow">';
+  html += '<button class="actionCard" onclick="callAI(\'mcq\')" id="aiMcqBtn" disabled><div style="font-size:20px">📝</div><div class="actionLabel">Generate MCQs</div><div class="actionDesc">10 questions with answer key</div></button>';
+  html += '<button class="actionCard" onclick="callAI(\'mindmap\')" id="aiMindmapBtn" disabled><div style="font-size:20px">🧠</div><div class="actionLabel">Mind Map</div><div class="actionDesc">Visual concept breakdown</div></button>';
+  html += '<button class="actionCard" onclick="callAI(\'exercise\')" id="aiExerciseBtn" disabled><div style="font-size:20px">✏️</div><div class="actionLabel">Practice Exercise</div><div class="actionDesc">Mixed Q&A with solutions</div></button>';
+  html += '<button class="actionCard" onclick="callAI(\'chapter_exercise\')" id="aiChapterExBtn" disabled><div style="font-size:20px">📘</div><div class="actionLabel">Chapter Exercise</div><div class="actionDesc">Real exercises from the textbook</div></button>';
+  html += '</div>';
+  html += '<div class="queryRow"><input class="queryInput" id="queryInput" placeholder="Ask a question about this chapter..." onkeydown="if(event.key===\'Enter\')callAI(\'ask\')"><button class="queryBtn" onclick="callAI(\'ask\')" id="aiAskBtn">Ask AI</button></div>';
+  html += '<div id="resultArea"></div>';
+
+  // Load chapter content if chapter selected
+  if (selectedChapter !== null) {
+    setTimeout(function(){ fetchChapterContent(selectedChapter); }, 0);
+  } else if (!ch || isUnindexable) {
+    setTimeout(function(){ loadFullBook(); }, 0);
+  }
+
+  return html;
+}
+
+// Devanagari numeral to Arabic numeral converter
+function devToAr(num){
+  var map = {'०':'0','१':'1','२':'2','३':'3','४':'4','५':'5','६':'6','७':'7','८':'8','९':'9'};
+  return String(num).replace(/[०१२३४५६७८९]/g, function(c){ return map[c] || c; });
+}
+
+// PDF page offset per book (printed page -> PDF page)
+// Default offset is 2 (cover + copyright); 0 means same as printed page
+var PDF_PAGE_OFFSET = {};
+function setPdfOffset(k, offset){ PDF_PAGE_OFFSET[k] = offset; }
+setPdfOffset("Class 1|Nepali", 3);
+setPdfOffset("Class 1|Serofero", 3);
+setPdfOffset("Class 1|Mathematics (Nepali)", 3);
+setPdfOffset("Class 2|Nepali", 3);
+setPdfOffset("Class 2|Mathematics (Nepali)", 3);
+setPdfOffset("Class 3|Nepali", 3);
+setPdfOffset("Class 3|Maths (Nepali)", 3);
+setPdfOffset("Class 4|Nepali", 3);
+setPdfOffset("Class 4|Mathematics (Nepali)", 3);
+setPdfOffset("Class 4|Health Physical Creative Arts (Nepali)", 3);
+setPdfOffset("Class 4|Science and Technology (Nepali)", 3);
+setPdfOffset("Class 5|Nepali", 3);
+setPdfOffset("Class 5|Mathematics (Nepali)", 3);
+setPdfOffset("Class 6|Maths (English Transcribed)", 2);
+setPdfOffset("Class 8|Health Physical Creative Arts (English)", 2);
+setPdfOffset("Class 8|Maths (English Transcribed)", 2);
+setPdfOffset("Class 9|Computer Science 2081", 2);
+setPdfOffset("Class 10|Compulsory Nepali", 2);
+setPdfOffset("Class 10|Computer Science", 2);
+
+function switchView(mode){
+  viewMode = mode;
+  if (mode === 'pdf') {
+    pdfPageTarget = null; // full PDF when clicking PDF View button
+  }
+  renderWorkColumn();
+}
+
+function scrollToChapter(i){
+  // Try anchor-based scroll first
+  var chId = 'ch-'+(i+1);
+  var target = document.getElementById(chId);
+  if(target){
+    target.scrollIntoView({behavior:'smooth', block:'start'});
+    return true;
+  }
+
+  // Try to get start line from API (for files without anchors)
+  var subj = INDEX[activeClass][activeSubject];
+  var apiUrl = API_BASE+'/api/chapter-content?class='+encodeURIComponent(activeClass)+'&subject='+encodeURIComponent(subj)+'&index='+i;
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', apiUrl, false); // synchronous fallback
+  try {
+    xhr.send();
+    if(xhr.status === 200){
+      var data = JSON.parse(xhr.responseText);
+      if(data.start_line !== undefined){
+        var lineNum = data.start_line;
+        // Find any element with that data-line attribute
+        if(data._from_body) lineNum = Math.max(0, data.start_line - 2);
+        var el = document.querySelector('#chapterContent [data-line="'+lineNum+'"]');
+        if(el){
+          el.scrollIntoView({behavior:'smooth', block:'start'});
+          return true;
+        }
+        // Broader: find closest element with data-line >= start_line
+        var allEls = document.querySelectorAll('#chapterContent [data-line]');
+        for(var e=0; e<allEls.length; e++){
+          var dl = parseInt(allEls[e].getAttribute('data-line'));
+          if(dl >= lineNum){
+            allEls[e].scrollIntoView({behavior:'smooth', block:'start'});
+            return true;
+          }
+        }
+      }
+    }
+  } catch(e) {}
+
+  // Fallback: search rendered text for chapter name
+  var chName = getChapterName();
+  if(chName && chName.length > 2){
+    var allEls = document.querySelectorAll('#chapterContent h1, #chapterContent h2, #chapterContent h3, #chapterContent h4');
+    for(var e=0; e<allEls.length; e++){
+      if(allEls[e].textContent.indexOf(chName) >= 0){
+        allEls[e].scrollIntoView({behavior:'smooth', block:'start'});
+        return true;
+      }
+    }
+    // Broader search
+    allEls = document.querySelectorAll('#chapterContent p, #chapterContent div');
+    for(var e=0; e<allEls.length; e++){
+      if(allEls[e].textContent.indexOf(chName) >= 0){
+        allEls[e].scrollIntoView({behavior:'smooth', block:'start'});
+        return true;
+      }
+    }
+  }
+  return false;
 }
 
 function selectChapter(i){
-  selectedChapter = i; result=null; error=null; renderContent();
+  selectedChapter = i; result=null; error=null;
+  var pk = key(activeClass, INDEX[activeClass][activeSubject]);
+  var hasPdf = !!pdfUrlCache[pk];
+  var tblData = TOC_TABLES[pk];
+
+  // Check if we have page data to jump to in PDF
+  var pageNum = null;
+  if (hasPdf && tblData && tblData[i] && tblData[i].page) {
+    var pageStr = devToAr(tblData[i].page);
+    pageNum = parseInt(pageStr, 10);
+    if (!isNaN(pageNum)) {
+      var offset = PDF_PAGE_OFFSET[pk] || 2;
+      pageNum += offset;
+    }
+  }
+
+  // Update sidebar active state
+  document.querySelectorAll('.chapterBtn, .tocTable tr').forEach(function(el){
+    el.classList.toggle('active', el.dataset && parseInt(el.dataset.ch)===i);
+  });
+
+  if (hasPdf && pageNum !== null) {
+    viewMode = 'pdf';
+    pdfPageTarget = pageNum;
+    renderWorkColumn();
+  } else {
+    if (viewMode === 'pdf') {
+      viewMode = 'chapter';
+    }
+    pdfPageTarget = null;
+    renderWorkColumn();
+  }
+}
+
+// Cache for loaded markdown files to avoid re-fetching
+const FULL_MARKDOWN_CACHE = {};
+
+async function fetchChapterContent(index){
+  var area = document.getElementById('chapterContent');
+  if(!area) return;
+  var subj = INDEX[activeClass][activeSubject];
+  var k = key(activeClass, subj);
+
+  // Try API first
+  var apiUrl = API_BASE+'/api/chapter-content?class='+encodeURIComponent(activeClass)+'&subject='+encodeURIComponent(subj)+'&index='+index;
+  try {
+    var resp = await fetch(apiUrl);
+    if(resp.ok){
+      var data = await resp.json();
+      var md = data.content || '';
+      if(md){
+        area.innerHTML = markdownToHtml(md);
+        // Enable AI buttons
+        var aiBtns = document.querySelectorAll('.actionCard');
+        for(var b=0;b<aiBtns.length;b++) aiBtns[b].disabled = false;
+        // Cache frontmatter
+        if(!FILE_CACHE[k]) FILE_CACHE[k] = {};
+        // Store chapter content for AI
+        if(!FILE_CACHE[k].chapterContents) FILE_CACHE[k].chapterContents = {};
+        FILE_CACHE[k].chapterContents[index] = md;
+        return;
+      }
+    }
+  } catch(e) {}
+
+  // Fallback: load full file and extract chapter client-side
+  var folder = encodeURIComponent(activeClass);
+  var fname = encodeURIComponent(activeClass+' '+subj+'.md');
+  var fileUrl = folder+'/'+fname;
+  try {
+    var resp = await fetch(fileUrl);
+    if(!resp.ok){ area.innerHTML = '<div style="text-align:center;color:#A33B2C;font-size:13px;padding:12px 0">Could not load chapter content.</div>'; return; }
+    var text = await resp.text();
+    FULL_MARKDOWN_CACHE[k] = text;
+
+    // Cache frontmatter and headings
+    if(!FILE_CACHE[k]) FILE_CACHE[k] = {};
+    if(!FILE_CACHE[k].frontmatter) FILE_CACHE[k].frontmatter = parseYamlFrontmatter(text);
+    if(!FILE_CACHE[k].headings) FILE_CACHE[k].headings = parseChapterHeadings(text);
+
+    // Find chapter boundaries using {#ch-N} anchors
+    var lines = text.split('\n');
+    var chNum = index + 1;
+    var startLine = -1, endLine = lines.length;
+    for(var i=0;i<lines.length;i++){
+      var chMatch = lines[i].match(/\{#ch-(\d+)\}/);
+      if(chMatch){
+        var n = parseInt(chMatch[1]);
+        if(n === chNum) startLine = i;
+        else if(n > chNum && startLine >= 0){
+          endLine = i;
+          break;
+        }
+      }
+    }
+
+    if(startLine >= 0){
+      var chLines = lines.slice(startLine, endLine);
+      var chMd = chLines.join('\n');
+      area.innerHTML = markdownToHtml(chMd);
+    } else {
+      // No anchor found — render entire file (legacy fallback)
+      area.innerHTML = markdownToHtml(text);
+    }
+
+    // Enable AI buttons
+    var aiBtns = document.querySelectorAll('.actionCard');
+    for(var b=0;b<aiBtns.length;b++) aiBtns[b].disabled = false;
+  } catch(e){
+    area.innerHTML = '<div style="text-align:center;color:#A33B2C;font-size:13px;padding:12px 0">Error loading chapter: '+e.message+'</div>';
+  }
+}
+
+// Cache for parsed file data (frontmatter + chapter headings)
+const FILE_CACHE = {};
+
+function parseYamlFrontmatter(text){
+  // Normalize line endings
+  text = text.replace(/\r\n/g,'\n');
+  var m = text.match(/^---\s*\n([\s\S]*?)\n---/);
+  if(!m) return {};
+  var data = {};
+  m[1].split('\n').forEach(function(line){
+    line = line.trim();
+    var sep = line.indexOf(':');
+    if(sep>0) data[line.substring(0,sep).trim()] = line.substring(sep+1).trim().replace(/^["']|["']$/g,'');
+  });
+  return data;
+}
+
+function parseChapterHeadings(text){
+  // Match ## heading {#ch-N} pattern
+  var heads = [], rx = /^##\s+(.+?)\s*\{#ch-(\d+)\}\s*$/gm;
+  var lines = text.split('\n');
+  for(var i=0;i<lines.length;i++){
+    var m2 = lines[i].match(rx);
+    if(m2){
+      var title = lines[i].replace(/^##\s+/,'').replace(/\s*\{#ch-\d+\}\s*$/,'').trim();
+      // Clean up garbled prefix like "3: " or "१: "
+      title = title.replace(/^[०१२३४५६७८९\d]+:\s*/,'');
+      var num = parseInt(lines[i].match(/\{#ch-(\d+)\}/)[1]);
+      heads.push({num:num, title:title, line:i});
+    }
+  }
+  return heads;
 }
 
 function getChapterName(){
@@ -892,7 +1186,7 @@ async function callAI(mode){
     query = document.getElementById('queryInput').value.trim();
     if(!query){ document.getElementById('queryInput').focus(); return; }
   } else {
-    query = 'Generate '+modeNames[mode].toLowerCase()+' for the chapter "'+chName+'".';
+    query = 'Generate '+modeNames[mode].toLowerCase()+' for this chapter based on the textbook content provided.';
   }
 
   // Show loading state
@@ -923,7 +1217,7 @@ async function callAI(mode){
           var ex = matched[mi];
           exerciseText += (ex.name || 'Exercise') + ':\n' + ex.text + '\n\n';
         }
-        var answerQuery = 'Answer the following textbook exercises for the chapter "'+chName+'". For each exercise, provide the correct answer/solution. Here are the exercises:\n\n'+exerciseText;
+        var answerQuery = 'Answer the following textbook exercises for this chapter. For each exercise, provide the correct answer/solution. Here are the exercises:\n\n'+exerciseText;
         resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText"><span class="loadingDots">Generating answers for textbook exercises</span></div></div>';
         doAIFetch(mode, answerQuery, label, btns);
         return true;
@@ -955,6 +1249,7 @@ async function doAIFetch(mode, query, label, btns){
   var subj = INDEX[activeClass][activeSubject];
   var chName = getChapterName();
 
+  var k = key(activeClass, activeSubject);
   var folder = encodeURIComponent(activeClass);
   var fname = encodeURIComponent(activeClass+' '+subj+'.md');
   var fileUrl = folder+'/'+fname;
@@ -963,6 +1258,14 @@ async function doAIFetch(mode, query, label, btns){
     var resp = await fetch(fileUrl);
     if(resp.ok) fileContent = await resp.text();
   } catch(e) {}
+  // Parse subject from file frontmatter if available
+  if(!FILE_CACHE[k] || !FILE_CACHE[k].frontmatter){
+    if(!FILE_CACHE[k]) FILE_CACHE[k] = {};
+    FILE_CACHE[k].frontmatter = parseYamlFrontmatter(fileContent);
+  }
+  var fileSubject = FILE_CACHE[k] && FILE_CACHE[k].frontmatter && FILE_CACHE[k].frontmatter.subject;
+  var resolvedSubject = fileSubject || subj;
+
   var MAX_CHARS = 20000;
   var startPos = 0;
   if(chName && fileContent.length > MAX_CHARS){
@@ -989,7 +1292,7 @@ async function doAIFetch(mode, query, label, btns){
   }
   fileContent = fileContent.substring(startPos, startPos + MAX_CHARS);
   resultArea.innerHTML = '<div class="resultBox"><div class="resultMeta">'+label+' &mdash; '+chName+'</div><div class="resultText"><span class="loadingDots">Thinking</span></div></div>';
-  var basePayload = {class:activeClass,subject:subj,chapterIndex:selectedChapter,query:query,mode:mode,fileContent:fileContent};
+  var basePayload = {class:activeClass,subject:resolvedSubject,chapterIndex:selectedChapter,query:query,mode:mode,fileContent:fileContent};
   var streamPayload = JSON.parse(JSON.stringify(basePayload));
   streamPayload.stream = true;
   var xhr = new XMLHttpRequest();
@@ -1033,12 +1336,10 @@ async function doAIFetch(mode, query, label, btns){
   xhr.send(JSON.stringify(streamPayload));
 }
 
-async function loadChapterContent(){
+async function loadFullBook(){
   var area = document.getElementById('chapterContent');
   if(!area) return;
   var subj = INDEX[activeClass][activeSubject];
-  var chName = getChapterName();
-  if(!chName){ area.innerHTML = ''; return; }
   var folder = encodeURIComponent(activeClass);
   var fname = encodeURIComponent(activeClass+' '+subj+'.md');
   var fileUrl = folder+'/'+fname;
@@ -1046,42 +1347,24 @@ async function loadChapterContent(){
     var resp = await fetch(fileUrl);
     if(!resp.ok){ area.innerHTML = ''; return; }
     var text = await resp.text();
-    var MAX = 25000;
-    var startPos = 0;
-    if(chName){
-      var idx = text.indexOf(chName);
-      if(idx>=0) startPos = idx;
-      else {
-        var num = selectedChapter+1;
-        var queries = ['Chapter '+num,'chapter '+num,num+'. ','kf7 M '];
-        if(num<=9) queries.push('kf7 M '+num);
-        var nep = ['०','१','२','३','४','५','६','७','८','९'];
-        var nns = num.toString().split('').map(function(d){return nep[parseInt(d)]}).join('');
-        queries.push(nns+'. '); queries.push(nns+'.');
-        for(var q=0;q<queries.length;q++){
-          var si = text.indexOf(queries[q]);
-          if(si>=0){ startPos=si; break; }
-        }
-      }
+
+    // Cache frontmatter and headings (for AI features)
+    var k = key(activeClass, activeSubject);
+    if(!FILE_CACHE[k]) FILE_CACHE[k] = {};
+    if(!FILE_CACHE[k].frontmatter) FILE_CACHE[k].frontmatter = parseYamlFrontmatter(text);
+    if(!FILE_CACHE[k].headings) FILE_CACHE[k].headings = parseChapterHeadings(text);
+
+    // Render full book content
+    area.innerHTML = markdownToHtml(text);
+
+    // Try pending scroll first (user clicked chapter before book loaded)
+    var scrollCh = (pendingScroll !== null && pendingScroll !== undefined) ? pendingScroll : selectedChapter;
+    pendingScroll = null;
+    if(scrollCh !== null && scrollCh !== undefined){
+      var aiBtns = document.querySelectorAll('.actionCard');
+      for(var b=0;b<aiBtns.length;b++) aiBtns[b].disabled = false;
+      requestAnimationFrame(function(){ scrollToChapter(scrollCh); });
     }
-    // Find the next chapter/section heading to stop at
-    var searchEnd = Math.min(startPos + MAX, text.length);
-    var cutoff = searchEnd;
-    var from = startPos + Math.min(150, text.length - startPos - 1);
-    var chunk = text.substring(from, searchEnd);
-    var endRx = /(?:\n|\r\n?)(?:#\s|##\s|###\s|kf7\s+M\s[!@#$%^&*()\d]|PsfO\s+\d+\s+M|[०१२३४५६७८९]+\.\s|\d+\.\s|[A-Z][a-z]+\s+\d+)/;
-    var m = endRx.exec(chunk);
-    if(m) cutoff = from + m.index;
-    else {
-      // Fallback: look for kf7 M  or PsfO  patterns line-by-line
-      for(var ci=from; ci<searchEnd; ci++){
-        if(ci+6<text.length && text.substring(ci,ci+6)==='\nkf7 M'){
-          cutoff = ci+1; break;
-        }
-      }
-    }
-    var content = text.substring(startPos, cutoff).trim();
-    area.innerHTML = markdownToHtml(content);
   } catch(e){ area.innerHTML = ''; }
 }
 
@@ -1095,30 +1378,36 @@ function markdownToHtml(md){
       if(inOrdered){ html += '</ol>'; inOrdered = false; }
       continue;
     }
-    if(t.startsWith('### ')){ html += '<h3>'+inlineFmt(t.substring(4))+'</h3>'; continue; }
-    if(t.startsWith('## ')){ html += '<h2>'+inlineFmt(t.substring(3))+'</h2>'; continue; }
-    if(t.startsWith('# ')){ html += '<h1>'+inlineFmt(t.substring(2))+'</h1>'; continue; }
+    function anchorId(text){
+      var m2 = text.match(/\{#ch-(\d+)\}/);
+      return m2 ? ' id="ch-'+m2[1]+'"' : '';
+    }
+    function stripAnchor(text){ return text.replace(/\s*\{#ch-\d+\}\s*/g,''); }
+    function addLineAttr(){ return ' data-line="'+i+'"'; }
+    if(t.startsWith('### ')){ var c3=stripAnchor(t.substring(4)); html += '<h3'+anchorId(t)+addLineAttr()+'>'+inlineFmt(c3)+'</h3>'; continue; }
+    if(t.startsWith('## ')){ var c2=stripAnchor(t.substring(3)); html += '<h2'+anchorId(t)+addLineAttr()+'>'+inlineFmt(c2)+'</h2>'; continue; }
+    if(t.startsWith('# ')){ var c1=stripAnchor(t.substring(2)); html += '<h1'+anchorId(t)+addLineAttr()+'>'+inlineFmt(c1)+'</h1>'; continue; }
     if(t.startsWith('- ')||t.startsWith('* ')){
       var item = t.startsWith('- ')?t.substring(2):t.substring(2);
       if(inOrdered){ html += '</ol>'; inOrdered = false; }
       if(!inList){ html += '<ul>'; inList = true; }
-      html += '<li>'+inlineFmt(item)+'</li>'; continue;
+      html += '<li'+addLineAttr()+'>'+inlineFmt(item)+'</li>'; continue;
     }
     if(/^\d+[\.\)]\s/.test(t)){
       var item = t.replace(/^\d+[\.\)]\s/,'');
       if(inList){ html += '</ul>'; inList = false; }
       if(!inOrdered){ html += '<ol>'; inOrdered = true; }
-      html += '<li>'+inlineFmt(item)+'</li>'; continue;
+      html += '<li'+addLineAttr()+'>'+inlineFmt(item)+'</li>'; continue;
     }
     if(/^!\[.*\]\(.*\)$/.test(t)){
       var alt = t.match(/!\[(.*?)\]/)[1];
       var src = t.match(/\((.*?)\)/)[1];
-      html += '<img src="'+src+'" alt="'+alt+'">'; continue;
+      html += '<img src="'+src+'" alt="'+alt+'"'+addLineAttr()+'>'; continue;
     }
     if(/^[-*_]{3,}$/.test(t)){ html += '<hr>'; continue; }
     if(inList){ html += '</ul>'; inList = false; }
     if(inOrdered){ html += '</ol>'; inOrdered = false; }
-    html += '<p>'+inlineFmt(t)+'</p>';
+    html += '<p'+addLineAttr()+'>'+inlineFmt(t)+'</p>';
   }
   if(inList) html += '</ul>';
   if(inOrdered) html += '</ol>';

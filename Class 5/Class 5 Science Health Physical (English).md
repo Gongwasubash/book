@@ -1,305 +1,41 @@
-My Science, Health and
-Physical Education
-Grade 5
-Government of Nepal
-Ministry of Education
-Curriculum Development Centre
+---
+title: "Science Health Physical"
+grade: 5
+language: english
+subject: "Science Health Physical"
+publisher: "Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre"
+edition: "2052 BS"
+isbn: "978-9937-8247-3-6"
+---
 
-Publisher: Government of Nepal
-Ministry of Education
-Curriculum Development Center
-ISBN: 978-9937-8247-3-6
-© All rights reserved in Publisher
-First edition : 2052 BS
-Reprint : 2075 Bs
-Price: 83/-
-All rights reserved. No part of this publication may be reproduced,
-stored in a retrieval system or transmitted, in any other form or by
-any means for commercial purpose without the prior permission in
-writing of the Curriculum Development Centre.
+# Science Health Physical — Grade 5
 
-Preface
-Continuity on the process of development and updating of curriculum and
-textbooks has been given so as to make school level education objective oriented,
-practical, contemporary and employment oriented. Fostering the feelings of unity
-towards the nation & nationality, developing attributes like morality, discipline,
-self-reliance, promoting fundamental language related and mathematical skills
-through the basic knowledge of science, environment and health-related issues.
-Education should instill life skills, create interest in art and beauty promote
-tolerance among different ethnicities, gender, religion, language, culture. Likewise
-it should make learners responsible citizen who can safeguard social values and
-norms. To fulfill this need this textbook has been revised and developed based on
-the curriculum 2065 which was updated according to the suggestions of various
-level committees, teachers, guardians and the final decisions of seminars and
-interactions including other stakeholders of education.
-This book includes three areas: Science and Environment, Health and Physical
-Education. Illustrations, contents and activities to be learnt by self exploration
-have been given so as to make it activity oriented and learner centered. Instructions
-for teachers are also provided wherever possible. This book first written by Durga
-Regmi and edited by Mohan Gopal Nyachho in 2052 B.S. has been revised in
-line with primary curriculum by a panel comprised of Chitra Prasad Devkota,
-Ram Prasad Subedi, Dumberdhoj Angdembe, Achala Thapa, Nandakaji Shrestha,
-Nanubaba Dawadi, Imanarayan Shrestha and Maniraj Poudel. This Edition was
-piloted before its implementation. Again in 2065 B.S. it has been revised in
-this form by a panel comprised of Dinesh Kumar Shrestha, Ram Prasad Subedi,
-Dumberdhoj Angdembe, Tilak Shashank and Shankar Poudel. The contents
-of science portion was edited by Ram Prasad Subedi. The health and physical
-portion was written by Shanta Bahadur Shrestha, Chandrabardhan Rai, Devraj
-Maharjan, Khagendra Bahadur Singh, Punnya Ghimire and Prakash Maharjan, has
-been edited by Nepal Hari Ranabhat, Om Raimajhi and Diwakarlal Amatya. The
-executive director Haribol Khanal and Dy director Shambhu Prasad Dahal have
-also played important role in developing this book. This book was translated by
-Shankar Adhikari and its language was edited by Ramesh Dhakal. Art editing
-and layout concept of this book was done by Shreehari Shrestha by making it four
-colour. CDC would like to thank all those who contributed in developing this book.
-Government of Nepal
-Ministry of Education
-Curriculum Development Centre
+> **Publisher:** Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre
 
-Contents
-| Lesson  | Content  | Page no.  |
-| ------- | -------- | --------- |
+## Table of Contents
 
-| Science    |                                              | 1-80 |
-| ---------- | -------------------------------------------- | ---- |
-| Lesson 1   | Different Kinds of Animals                   | 1    |
-| Lesson 2   | Cell                                         | 8    |
-| Lesson 3   | Lifecycle of a Butterfly                     | 11   |
-| Lesson 4   | Monocot and Dicot Plants                     | 14   |
-| Lesson 5   | Simple Life Processes of Animals and Plants  | 19   |
-| Lesson 6   | Effects of Human Activities on Environment   | 24   |
-| Lesson 7   | Environment Conservation                     | 31   |
-| Lesson 8   | Change in State of Matter                    | 37   |
-| Lesson 9   | Sources of Energy                            | 41   |
-| Lesson 10  | Weather                                      | 48   |
-| Lesson 11  | Cloud                                        | 53   |
-| Lesson 12  | Solar Family                                 | 56   |
-| Lesson 13  | The Earth                                    | 64   |
-| Lesson 14  | Information and Communication                | 70   |
-| Lesson 15  | Simple Local Technologies                    | 75   |
+| S.No. | Title |
+|-------|-------|
+| 2 | [c ell](#ch-2) |
+| 3 | [Lifecycle of a Butterfly](#ch-3) |
+| 4 | [Monocot and Dicot Plants](#ch-4) |
+| 5 | [Life Processes of](#ch-5) |
+| 6 | [Effects of Human](#ch-6) |
+| 7 | [Environment c onservation](#ch-7) |
+| 8 | [c hange in state of Matter](#ch-8) |
+| 9 | [Sources of Energy](#ch-9) |
+| 10 | [Weather](#ch-10) |
+| 11 | [c loud](#ch-11) |
+| 12 | [The Solar System](#ch-12) |
+| 13 | [The Earth](#ch-13) |
+| 14 | [information and](#ch-14) |
+| 15 | [Simple Local Technologies](#ch-15) |
+| 1 | [Personal Cleanliness](#ch-1) |
 
-Health
-81-125
-| Lesson 1  | Individual Cleanliness             | 81  |
-| --------- | ---------------------------------- | --- |
-| Lesson 2  | Physical Exercise, Rest and Sleep  | 85  |
-| Lesson 3  | Need of Environmental Cleanlines   | 88  |
-| Lesson 4  | Solid Wastes                       | 93  |
+---
 
-| Lesson 5   | Balanced Diet                                   | 96  |
-| ---------- | ----------------------------------------------- | --- |
-| Lesson 6   | Causes of Malnutrition and Preventive Measures  | 99  |
-| Lesson 7   | Communicable Diseases                           | 103 |
-| Lesson 8   | HIV and AIDS                                    | 107 |
-| Lesson 9   | Be Saved from Accidents                         | 109 |
-| Lesson 10  | Caution and First Aid                           | 111 |
-| Lesson 11  | Health Service and Community Health             | 113 |
-Lesson 12  Let’s Enjoy Health Service and Let’s Co-operate  116
-| Lesson 13           | Smoking                   | 119 |
-| ------------------- | ------------------------- | --- |
-| Lesson 14           | Drinking and Drugs        | 122 |
-| Physical Education  | 126-155                   |     |
-| Lesson 1            | Locomotor Skills          | 126 |
-| Lesson 2            | Jumping                   | 130 |
-| Lesson 3            | Throwing                  | 133 |
-| Lesson 4            | Relays                    | 135 |
-| Lesson 5            | Non-locomotor Skills      | 137 |
-| Lesson 6            | Drill                     | 139 |
-| Lesson 7            | Physical Training (P.T.)  | 141 |
-| Lesson 8            | Minor and Local Games     | 145 |
-| Lesson 9            | Local Games               | 147 |
-| Lesson 10           | Creative Games            | 149 |
-| Lesson 11           | Ball Games                | 151 |
-| Lesson 12           | Balance Work              | 152 |
-| Lesson 13           | Tumbling Work             | 154 |
+## 2: c ell  {#ch-2}
 
-Part 1 Science
-Lesson 1
-Different Kinds of Animals
-Animals are of different kinds. One kind of animal is different
-from another on the basis of shape, size and physical structure.
-Animals around us can be divided into two types on the basis of
-their physical structure. Some animals have backbone whereas
-some others do not have backbone. Fish, frog, snake, crocodile,
-pigeon, chicken, cow, buffalo, dog, etc. are the examples of
-animals with backbone. Slug, earthworm, butterfly, grasshopper,
-spider, etc. are the animals without backbone.
-Animals with backbone
-There are many animals around us with backbone. Some of them
-live in water, whereas some others live both in water and on
-land. Some live only on land. These animals do not have similar
-body structure. Animals with backbone are classified into the
-following five classes according to their body structure:
-A. Pisces
-All kinds of fish fall in this class. Fish lives in water. Fishes are of
-different shapes and sizes. Some fishes are big, whereas some are
-small. Most of the fishes have scales all over their body. Fishes
-Science, Health and Physical Education 5 1
-
-have fins in different parts of their body to help them to swim
-in water. They have head, trunk and tail. They breathe through
-gills. They lay eggs. Shark, sea horse and different kinds of fish
-fall in this class.
-B. Amphibia
-Animals of this class can live both in water
-and on land. The animals of this group have
-smooth, moist and soft skin. They have eyes
-on the top part of their head which can be
-moved around. They have their head and
-trunk with their neck which is not distinctly
-separated. Their hind limbs are longer than
-their fore limbs which help them to jump.
-Their hind limbs have webbed feet which help them to swim in
-water. They have their tongue stuck to the front part which helps
-them to catch the insects. Frogs fall in this class. Young frogs
-are called tadpoles. They live only in water in tadpole stage and
-breathe through gills. Frogs breathe with skin when they are in
-water and with lungs when they are on land. They lay eggs in
-water. Besides frog, toad and salamander also fall into this class.
-C. Reptilia
-Most of the animals in this class crawl on land or on wall. Some
-of them also live in water. They have their head, neck, trunk and
-tail. Among these animals, some have four legs. Their skin is
-dry and some of them have hard scales all over their body. They
-breathe through lungs. They lay eggs. Lizards, tortoise, snake,
-wall lizard, crocodiles etc. are the animals of this class.
-2 Science, Health and Physical Educ ation 5
-
-D. Aves
-Different kinds of birds fall in this class. Almost all the birds
-can fly in the air. Birds have a pair of wings in their body. The
-wings have feathers. Feathers are of different colours. Feathers
-keep the body of birds warm and the wings help them to fly.
-Birds have light but developed bones in their body. Their body
-can be divided into head, neck and trunk. They have beaks.
-They breathe through lungs. Parrot, duck, eagle, ostrich, dove,
-penguins, etc. are the examples of this class.
-E. Mammalia
-Animals of this class have their body covered with fur or hair.
-Their body contain as head, neck and trunk and two pairs of
-limbs. Some of the mammals have their fore limbs developed
-as arms. Most of these animals have tails too. These animals
-breathe with lungs. They have teeth and a pair of external ears.
-Animals of this class have well-developed brain. They give birth
-to babies and females feed them from mammary gland. Mammals
-like whale and dolphin have their fore limbs developed as
-paddles which enable them to swim in water like fish. The bat
-is a mammal that can fly like a bird. Its fore limbs are developed
-as wings. Humans also fall in class mammal. Human is the most
-developed creature among the animals. Hare,mice, cow, cat, tiger,
-bear, elephant, whale, human etc. are the examples of this class.
-Science, Health and Physical Education 5 3
-
-Animals without backbone
-There are many animals without backbone in our surrounding.
-Most of the animals without backbone have hard outer cover for
-their protection. This group consists of the animals ranging from
-microorganism to crab, scorpion, snail and earthworm. We will
-discuss on some of these animals in this lesson.
-These animals are classified mainly into nine phyla. Each phylum
-is explained in brief as below:
-A. Protozoa
-The creatures in this phylum are single celled and microscopic
-in size and too small to be seen with naked eyes. All the life
-processes in their body are controlled by the single cell. They
-reproduce by splitting in half which is known as binary fission.
-These creatures are found in sea water, human body or in moist
-places. Amoeba, paramecium and euglena fall into this phylum.
-Amoeba paramecium
-4 Science, Health and Physical Educ ation 5
-
-B. Porifera
-The animal of this phylum have pores on
-their body. Their bodies are made up of
-many cells. They do not have head, eyes
-and limbs. Spongila is an example of the
-creatures of this phylum.
-C. Coelenterata
-The animals of this phylum have their bodies
-like hollow cylinder. These animals have a sponge
-single opening in their body called mouth
-but they have no anus. These creatures use
-tentacles to keep the small aquatic creatures
-in their mouth. They have neither head nor
-limbs. The reproduction of these animals
-also takes place by budding. Hydra and coral
-hydra
-are the examples of this phylum.
-D. Platyhelminthes
-The creatures of this phylum have flat body.
-The shape of the body of animals is like a
-ribbon ar a leaf. Some of them have leaf
-like body. They live in the body of other
-animals. They live by sucking the fluid of
-the digested food or blood by staying in
-the intestines of cow, buffalo and in liver
-of sheep. Thus they are called parasites.
-Tapeworm stays in intestines of humans
-and pigs whereas liver fluke stays in the tapeworm
-liver of sheep.
-E. Nemathelminthes
-The animals of this phylum have round
-body. The front and back parts of their body
-are pointed. They have both mouth and
-Science, Health and Physical Education 5 5
-
-anus. Some of these creatures live by sucking the fluids from
-others’ body. Ascaris found in human intestines is an example
-of this type of parasite.
-F. Annelida
-The creatures of this phylum have long,
-segmented and cylindrical body. The
-front and the back part of their body are
-distinctly seen. Their body is covered earthworm
-with smooth moisturised skin. They are found in water and in
-soil. Earthworms are found in soil whereas leech live by sucking
-the blood from the outer part of other animals’ body.
-G. Arthropoda
-Among the animals of this phylum, some swim
-in water, some live on land and some are found
-flying in the air. Their limbs look like jointed
-segments. Body is covered by skeleton. Their
-body is made up of three distinct parts: head,
-thorax and abdomen. Butterfly, housefly, spider,
-centipede, milipede, crab, etc. are the examples
-butterfly
-of this phylum.
-H. Mollusca
-The animals with soft body like slug, snail, and
-octopus fall under the phylum ‘mollusca’. The
-body of this type of animal is covered with hard
-shell. They have mouth, eyes, and tentacles on snail
-their head.
-I. Echinodermata
-The sea animal with their body covered with
-hard shells fall in this phylum. Starfish and
-sea urchin are the examples of echinodermata.
-Starfish has five arms but no distinct trunk. starfish
-6 Science, Health and Physical Educ ation 5
-
-Teaching Instruction
-Start the lesson by observing the environment around.
-Focus on the learning by providing the chance to the students for direct
-observation of creatures.
-ExErci SE
-1. Classify the following animals into two groups: ‘animals
-with backbone’ and ‘animals without backbone’.
-Fish, snake, pigeon, earthworm, frog, spongila, bat, horse,
-butterfly, shark, snail, leech, bear, hawk, duck, whale,
-starfish.
-2. Write two examples of animals of each of the following
-category.
-water animals, amphibia, land animals, aves.
-3. Nepalese notes have pictures of different animals. Find
-what animals are on those notes and also write the
-categories of those animals.
-4. Draw simple pictures of the following animals with two
-characteristics of each:
-fish, bird, earthworm, snake, butterfly, frog, cow, hydra,
-ameoba.
-Science, Health and Physical Education 5 7
-
-Lesson 2
 c ell
 Different kinds of animals and plants are found around us.
 Some animals are big while others are small. Some animals and
@@ -325,7 +61,6 @@ Animal and plant cells are mainly made up of the following parts:
 3. Vacuole
 4. Nucleus
 8 Science, Health and Physical Educ ation 5
-
 Cell membrane
 Cell membrane is a kind of membrane that surrounds the cell.
 In plant cells, cell membrane lies inner to the cell wall whereas
@@ -356,23 +91,20 @@ Show the plant cell from the membrane of onion with the help of a torch.
 If possible, provide chance to the students to observe slides of plant and
 animal cells through microscope.
 Science, Health and Physical Education 5 9
-
-| ExErci         | SE                                           |     |
-| -------------- | -------------------------------------------- | --- |
-| 1.  Tick the ( | √ ) true and cross (×) the false statements. |     |
-|   a.           | All the cells do not have similar shape.     |     |
-|   b.           | Animal cells have cell wall.                 |     |
-|   c.           | Vacuole is big and permanent in plant cell.  |     |
-|   d.           | Nucleus controls the activities of a cell.   |     |
+| ExErci | SE | |
+| 1.  Tick the ( | √ ) true and cross (×) the false statements. | |
+| a. | All the cells do not have similar shape. | |
+| b. | Animal cells have cell wall. | |
+| c. | Vacuole is big and permanent in plant cell.  | |
+| d. | Nucleus controls the activities of a cell. | |
 2.  Match the following.
-|   Column ‘A’       |     |   Column ‘B’                        |
-| ------------------ | --- | ----------------------------------- |
-| a.  Vacuole        |     |   (  ) flexible jelly.              |
-| b.  Chlorophyll    |     |   (  ) thin net.                    |
-| c.  Nucleus        |     |   (  ) green colour pigment.        |
-| d.  Cytoplasm      |     |   (  ) empty space.                 |
-| e.  Cell membrane  |     |   (  ) controls the cell activities |
-|                    |     |   (  ) cell wall                    |
+| Column ‘A’ | | Column ‘B’ |
+| a.  Vacuole | | (  ) flexible jelly. |
+| b.  Chlorophyll | | (  ) thin net. |
+| c.  Nucleus | | (  ) green colour pigment. |
+| d.  Cytoplasm | | (  ) empty space. |
+| e.  Cell membrane  | | (  ) controls the cell activities |
+| | | (  ) cell wall |
 3.  Answer the following questions.
 a.  What is the smallest unit of body of living things?
 b.  What is cell wall? Where is it found?
@@ -380,9 +112,10 @@ c.  What is cytoplasm? What does it contain?
 d.  Where does nucleus lie? Why is it important?
 e.  Write any two differences between plant and animal cell.
 4.  Draw and label the diagrams of plant cell and animal cell.
-10                  Science, Health and Physical Educ ation 5
+10 Science, Health and Physical Educ ation 5
 
-Lesson 3
+## 3: Lifecycle of a Butterfly  {#ch-3}
+
 Lifecycle of a Butterfly
 The insects like bees, mosquitoes and flies undergo four stages
 of their lifecycle: egg, larva, pupa and adult. The lifecycle of a
@@ -391,7 +124,6 @@ butterfly also consists of the following four stages:
 Each stage is explained in brief below:
 pupa
 larva adult
-egg
 1. Egg
 Adult female butterfly lays eggs in line or randomly on the under
 surface of the leaves. The eggs are tiny and of different colours.
@@ -400,7 +132,6 @@ Sticky substance helps eggs to be stuck on the leaf.
 In few days, the colour of the eggs change and small eggs hatch
 into larvas. The larva of a butterfly is called caterpillar. The
 Science, Health and Physical Education 5 11
-
 caterpillar has the body made of many segments. They have
 legs but no wings. They grow by eating leaves of plants. They
 eat voraciously in this stage.
@@ -426,7 +157,6 @@ leaves of the plants. Some leaves may contain tiny eggs. Observe
 those eggs for some days. Note down the changes occurred there
 daily.
 12 Science, Health and Physical Educ ation 5
-
 ExErci SE
 1. Draw a figure showing the lifecycle of a butterfly and label
 the different stages.
@@ -441,7 +171,8 @@ in their lifecycle.
 c. Briefly explain the lifecycle of a butterfly.
 Science, Health and Physical Education 5 13
 
-Lesson 4
+## 4: Monocot and Dicot Plants  {#ch-4}
+
 Monocot and Dicot Plants
 Flowering Plants
 Observe the plants found
@@ -475,7 +206,6 @@ have tap root system. Some plants do not have main root instead
 they have bunch of root. This type of root is called fibrous root
 system. The plants like paddy, maize have fibrous root.
 14 Science, Health and Physical Educ ation 5
-
 Functions of roots
 1. Roots help to keep the plants firm in soil.
 2. Roots absorb water and other minerals for plants from the soil.
@@ -506,7 +236,6 @@ Flower
 There are different kinds of flowers. They also vary in colour.
 The most attractive part of a plant is flower. Flowers give fruits
 Science, Health and Physical Education 5 15
-
 and seeds. New plants grow from seeds. Go around your house
 or school to find out the flower plants and observe the colour,
 size, etc. of the flowers. Some plants have separate male and
@@ -541,7 +270,6 @@ Gynoecium lies in the middle of a flower. It is the female
 reproductive part of a flower. The upper part is like a tube and
 the lower part is swollen. The swollen part is the ovary. which
 16 Science, Health and Physical Educ ation 5
-
 later changes into fruit and seeds.
 Fruit
 Flowers grow into fruits in plants. Fruits contain seeds inside
@@ -572,35 +300,33 @@ While teaching the parts of plants, bring a plant as a sample and give them
 chance to observe the different parts so that the students directly recognize
 the leaf, flower, fruit, root, stem, seed etc.Try to make the students recall the
 Science, Health and Physical Education 5 17
-
 fact that plants take in oxygen and throw out carbondioxide in respiration and
 they absorb carbondioxide and release oxygen in photosynthesis.
 Observe the plants around you and categorize them into two groups:
 monocots and dicots.
-| ExErci | SE  |     |     |
-| ------ | --- | --- | --- |
+| ExErci | SE  | | |
 1.  Fill in the blanks with correct words.
 a.  Roots help a plant to ………… in the soil.
 b.  Shoot remains …………… the surface of the earth.
 c.  The outermost part of the flower is called……………..
 d.  The male reproductive organ of a flower is called………….
 2.  Match the following.
-|   Column ‘A’  |                |     |   Column ‘B’         |
-| ------------- | -------------- | --- | -------------------- |
-|   a.          | Female organ   |     |   (  ) green         |
-|   b.          | Androecium     |     |   (  ) colourful     |
-|   c.          | Calyx          |     |   (  ) pollen grain  |
-|   d.          | Corolla        |     |   (  ) gynoecium     |
-|               |                |     |   (  ) fibrous root  |
+| Column ‘A’  | | | Column ‘B’ |
+| a. | Female organ | | (  ) green |
+| b. | Androecium | | (  ) colourful |
+| c. | Calyx | | (  ) pollen grain  |
+| d. | Corolla | | (  ) gynoecium |
+| | | | (  ) fibrous root  |
 3.  Categorize whether the following plants are monocots or
 dicots.
-  mango, apple, pumpkin, wheat, maize, soyabean, pea, garlic,
+mango, apple, pumpkin, wheat, maize, soyabean, pea, garlic,
 orange, paddy, gram.
 4.  Draw a picture of each of monocot and dicot plants so that
 they can be distinguished. Also label the different parts.
-18                  Science, Health and Physical Educ ation 5
+18 Science, Health and Physical Educ ation 5
 
-Lesson 5
+## 5: Life Processes of  {#ch-5}
+
 Life Processes of
 Animals and Plants
 5. Draw a figure of a flower and label the different parts.
@@ -630,7 +356,6 @@ The animals like goats or hare eat green plants or different parts
 of the plants as their food whereas the animals like tiger, jackle,
 lion, etc. eat other animals for their living. The animals that
 Science, Health and Physical Education 5 19
-
 can’t prepare their food themselves are called heterotrophs. The
 plant eating animals (herbivores) like goat and hare and flesh
 eating animals (carnivores) like lion and tiger are heterotrophs.
@@ -665,7 +390,6 @@ food prepared on the leaves also reaches to the different parts
 of a plant like: root, branch, leaf, fruit and flower by the same
 process.
 20 Science, Health and Physical Educ ation 5
-
 4. Excretion
 Different waste materials are produced in the body during the life
 process of living things. These wastes are harmful to the body.
@@ -695,7 +419,6 @@ plant. Different parts of a plant store food. The plant is eaten
 by animals as their food. Animals feed on the things like: sweet
 potato, potato, ginger, sugarcane, cabbage, cauliflower, apple,
 Science, Health and Physical Education 5 21
-
 tomato, etc. Among the heterotrophs, carnivorous animals like:
 tigers and lions, feed on the herbivorous animals. Omnivores eat
 both animals and plants. When one type of animal eats another
@@ -726,7 +449,6 @@ balance in environment. Thus, living things depend directly or
 indirectly on environment. Similarly, living things have a great
 role in maintaining environmental balance.
 22 Science, Health and Physical Educ ation 5
-
 Activity
 Keep some water in a bowl and put some mustard, gram, peas
 or beans and leave them for two or three days. Observe daily and
@@ -752,7 +474,8 @@ c. Write any four life processes of living things and explain
 them.
 Science, Health and Physical Education 5 23
 
-Lesson 6
+## 6: Effects of Human  {#ch-6}
+
 Effects of Human
 Activities on Environment
 Living things around us (plants and animals) and non-living
@@ -766,7 +489,6 @@ reckless throwing of garbage, allowing animals around the
 sources of water, producing smoke and dust etc also pollute
 environment. The bad effects of human activities on air, water,
 land and forests are explained below.
-Air
 All the living things including plants and animals get oxygen
 from air for breathing. No living things remain alive without
 oxygen. Humans pollute the air containing oxygen by different
@@ -781,12 +503,10 @@ Smoke from forest fire burning of tyre, and vehicles
 The garbage coming out from house and hotel and bad smell of
 dead animals thrown carelessly
 24 Science, Health and Physical Educ ation 5
-
 Effects of polluted air
 The smoke and dust particles mixed with the air cause respiratory
 diseases like: pneumonia, bronchitis, lung cancer, etc. and skin
 Science, Health and Physical Education 5 25
-
 diseases. The polluted air also affects climate change. It also
 affects the plants, birds and animals as well.
 Water
@@ -805,7 +525,6 @@ excretion near the sources of water.
 Bathing and grazing animals near the sources of water.
 Not managing proper drainage system.
 26 Science, Health and Physical Educ ation 5
-
 Mixing the polluted water containing chemicals from the
 factories in the river.
 Dumping the household garbage, wastes from hospitals and
@@ -837,7 +556,6 @@ Plants are badly affected by soil pollution
 Fertility of land decreases
 Affects the animals living in the land
 Science, Health and Physical Education 5 27
-
 Forest
 Forest plays an important role in the conservation of climate of
 the environment. The nature of the animals and plants found in
@@ -868,7 +586,6 @@ Environmental pollution caused by the setting of forest fire
 Flood, landslide and soil erosion
 When water overflows from rivers or stream than normal, it is
 28 Science, Health and Physical Educ ation 5
-
 called flood. During rainfall soil becomes wet and heavier and
 slides downward which is called landslide. You must have
 known the damage of people and property caused by flood and
@@ -888,17 +605,15 @@ locality being pollutted? Observe and make a short note.
 2. Go around your locality and make a list of human activities
 that cause air pollution.
 Science, Health and Physical Education 5 29
-
 ExErci SE
-√
-1 Put a tick ( ) if the statements are correct and a cross (×)
+1 Put a tick ( ) if the statements are correct and a cross (×
 if they are wrong.
-a. Polluted air is injurious to health. ( )
-b. Humans have no role in air pollution. ( )
+a. Polluted air is injurious to health.
+b. Humans have no role in air pollution.
 c. Drainage channels should not be mixed in river and
-ponds. ( )
-d. Population growth is the main reason of deforestation. ( )
-e. Terrace farming does not cause erosion. ( )
+ponds.
+d. Population growth is the main reason of deforestation.
+e. Terrace farming does not cause erosion.
 2. Fill in the blanks with correct words.
 a. We should not use water purifying…………….. more than
 required.
@@ -917,7 +632,8 @@ e. List the effects of polluted water and polluted air on
 humans.
 30 Science, Health and Physical Educ ation 5
 
-Lesson 7
+## 7: Environment c onservation  {#ch-7}
+
 Environment c onservation
 How is the environment around us formed? What are the effects
 of human activities on animals, air, water, etc. of environment?
@@ -935,7 +651,6 @@ given priority. Fume producing vehichles are to be examined on
 timely basis to control the fume. Afforestation and planting trees
 on road sides should be done for minimizing dust. Industries
 Science, Health and Physical Education 5 31
-
 should be established away from cities so that air and water
 pollution can be minimized. Dead animals and wastes should
 be buried in proper place so that the germs and the bad smell
@@ -970,7 +685,6 @@ humans work for the conservation of forest, environmental
 degradation won’t occur. In this way, conservation and protection
 of forest helps in conservation of environment too.
 32 Science, Health and Physical Educ ation 5
-
 e. Forestation
 We have empty places around us. When we keep them empty,
 they look dry. Trees are to be planted in such places. Such action
@@ -988,7 +702,6 @@ To protect the water sources from being polluted, the drainage
 channels should not be linked with the rivers directly. Drainage,
 polluted water from factories and wastes should be properly
 Science, Health and Physical Education 5 33
-
 managed away from the sources of water. Human should stop
 to defecate and urinate near the sources of water.
 g. Proper farming
@@ -1022,7 +735,6 @@ Trees are to be planted. There should be the availability of water,
 toilets, drainage system, shopping centres, hospital, school and
 public transport.
 34 Science, Health and Physical Educ ation 5
-
 j. Proper mangement of garbage
 The management of waste is an important aspect of environment
 conservation. The gas and water from hospitals and factories are
@@ -1035,19 +747,17 @@ Discuss with the students on the activities that contribute to pollution,
 preventive measures adopted and the things to be done to prevent pollution.
 Organize field trip if possible.
 Science, Health and Physical Education 5 35
-
 ExErci SE
-√
 1 Put a tick ( ) if the statements is correct and a cross (×) if
 it is wrong.
 a. Trees are to be planted to decrease the pollution caused
-by smoke and dust. ( )
+by smoke and dust.
 b. Rivers are to be let flow freely without making
-embankments. ( )
-c. Forest fire destroys wildlife and plants. ( )
-d. Farming is to be done in sloppy land as it is. ( )
+embankments.
+c. Forest fire destroys wildlife and plants.
+d. Farming is to be done in sloppy land as it is.
 e. Unplanned urbanization increases environmental
-pollution. ( )
+pollution.
 2. Answer the following questions in brief.
 a. What can be done to protect air from being polluted?
 Write any two measures.
@@ -1060,7 +770,8 @@ e. What is unplanned urbanization? How can it be made
 planned?
 36 Science, Health and Physical Educ ation 5
 
-Lesson 8
+## 8: c hange in state of Matter  {#ch-8}
+
 c hange in state of Matter
 Change in states of matter
 Matters have three states: solid, liquid and gas. Ice is the solid
@@ -1069,10 +780,10 @@ is the liquid state. When water is heated, it changes into steam
 which is known as the gas state of water.These three states of
 matter when heated or cooled, change into another state.
 Ice heated water heated vapour
-(solid) (liquid) (gas)
+solid) (liquid) (gas
 Vapour water Ice
 cooled cooled
-(gas) (liquid) (solid)
+gas) (liquid) (solid
 When matter changes from one state to another state, it is called
 the change in state of matter.
 Activity
@@ -1088,7 +799,6 @@ into water. The solid matter
 when heated changes into liquid.
 This is called melting.
 Science, Health and Physical Education 5 37
-
 Freezing
 2 Take a candle. Light it with a match. What do you
 see there? Tilt the burning candle a little. The
@@ -1119,7 +829,6 @@ up. When a matter in liquid state
 changes into gas by heating, it is
 called evaporation.
 38 Science, Health and Physical Educ ation 5
-
 Condensation
 5. Repeat the activity 4. When water starts
 boiling, put a cold plate just over the
@@ -1130,25 +839,23 @@ it changes into water. The change of
 matter from gas state into the liquid
 state is called condensation.
 ExErci SE
-√
-1. Put a tick ( ) if the statements are correct and a cross (×)
+1. Put a tick ( ) if the statements are correct and a cross (×
 if they are wrong.
 a. There occurs no change in the state of matter by heating
-or cooling. ( )
+or cooling.
 b. When the solid changes into liquid by heating, it is
-called melting. ( )
-c. Comphor changes into liquid when heated. ( )
+called melting.
+c. Comphor changes into liquid when heated.
 d. When water changes into steam by heating, it is called
-evaporation. ( )
+evaporation.
 e. When liquid becomes solid by cooling, it is called
-freezing. ( )
+freezing.
 2. Fill in the blanks with correct words.
 a. Liquid wax becomes ………….. when it becomes cooler.
 b. When comphor is heated, it changes into …………..
 state.
 c. When water vapour is cooled, it looses………......…..
 Science, Health and Physical Education 5 39
-
 d. The process in which liquid changes into solid by
 cooling is called…………..
 e. When water vapour is cooled, it becomes…………..
@@ -1166,7 +873,8 @@ a. Water vapour changing into water by cooling.
 b. Comphor changing into gas by heating.
 40 Science, Health and Physical Educ ation 5
 
-Lesson 9
+## 9: Sources of Energy  {#ch-9}
+
 Sources of Energy
 Energy is needed for different purposes: to cook food, to boil
 water and milk, to move bus or truck, to dry clothes, to keep
@@ -1188,10 +896,7 @@ your house. Fill in the table given below with sources in correct
 columns:
 S.N. Sources of Energy Renewable Non-renewable
 1. Kerosene
-2.
-3.
 Science, Health and Physical Education 5 41
-
 Forms of energy
 We get energy in different forms. What are the sources of energy
 that we use in our daily life? Heat energy, light energy, sound
@@ -1215,7 +920,6 @@ Sound energy
 The energy produced by vibrating or sounding objects is called
 sound energy. We hear the sound produced by the object. The
 42 Science, Health and Physical Educ ation 5
-
 objects move when sound is produced. Bell, Sitar drum, etc. are
 the sources of sound. These instruments vibrate when they are
 played for music or sound. When a moving object vibrates, the
@@ -1233,7 +937,6 @@ produced in this way is called hydroelctricity. We can obtain
 heat and light from electricity. Instruments like radio, television
 run with electric energy.
 Science, Health and Physical Education 5 43
-
 Magnetic energy
 The energy that a magnet possesses is
 called magnetic energy. A magnet pulls
@@ -1250,8 +953,6 @@ steel spoon etc one by one. Observe and fill in the following table
 copying it in your exercise book.
 S.N. Objects The magnet attracts/ repels
 1 Pin
-2
-3
 Use of energy
 We do many things like reading, writing, running, jumping etc.
 from morning to evening. Others also play games and carry loads.
@@ -1265,7 +966,6 @@ The moving water also possesses energy. The moving water helps
 in operation of watermill (GHATTA). Moving wind also posseses
 energy. The energy from wind helps to move fan.
 44 Science, Health and Physical Educ ation 5
-
 Light and heat energy is very important for us. Nothing can be
 done without light. Like light energy, we use heat energy in
 different activities. Heat keeps us warm. We dry wet clothes
@@ -1299,7 +999,6 @@ and that vapour comes down the earth in the form of rainfall
 and rivers are formed. We can generate electricity from water.
 In absence of the sun, all the water on the earth becomes ice.
 Science, Health and Physical Education 5 45
-
 Solar cooker and solar heater are popular nowadays. Calculators,
 traffic lights and vehicles are also in operation with solar energy.
 Solar energy is the best alternate source in energy crisis.
@@ -1319,19 +1018,16 @@ Planting trees for firewood and timber
 Stopping the unnecessary use of electricity and fire
 Increasing the use of bio fuel, etc
 ExErci SE
-√
 1. Put a tick ( ) if the statement is correct and a cross (×) if
 it is wrong.
-a. Coal is a renewable source of energy. ( )
+a. Coal is a renewable source of energy.
 b. Heat and light are obtained from the Sun and from the
-burning objects. ( )
+burning objects.
 c. Heat and light can not be obtained from electric energy.
-( )
 46 Science, Health and Physical Educ ation 5
-
-d. A magnet attracts the objects made of iron. ( )
+d. A magnet attracts the objects made of iron.
 e. Electricity is generated from the current of moving
-water. ( )
+water.
 2. Fill in the blanks with correct words.
 a. All the animals get………….. from food.
 b. Plants prepare their………….. from heat and light energy
@@ -1350,7 +1046,8 @@ e. “The sun is the main source of energy”, Why?
 f. Write any four measures to conserve energy.
 Science, Health and Physical Education 5 47
 
-Lesson 10
+## 10: Weather  {#ch-10}
+
 Weather
 What is weather? What should be done to know the daily
 weather of your place or of around your school? Is the sky clean
@@ -1367,7 +1064,6 @@ cloud and it starts raining. In this way, there occurs change in
 the state of sky, sun, rain, wind and temperature now and then
 in our locality. This type of change is called change in weather.
 48 Science, Health and Physical Educ ation 5
-
 The condition of sun, rain, wind, temperature, humidity, etc.
 that get changed with in a short period of a time in a particular
 place is called weather. In contrast, climate means the aggregate
@@ -1387,7 +1083,6 @@ While going to school
 During tiffin time
 While returning home
 Science, Health and Physical Education 5 49
-
 Factors bringing change in weather and climate
 The temperature of atmosphere frequently changes. The
 temperature is different at different times of a day: morning,
@@ -1422,7 +1117,6 @@ forms cloud when it becomes cooler. The water again comes
 back to the Earth in the form of rainfall. This cycle is called
 watercycle. Watercycle causes rainfall on the Earth.
 50 Science, Health and Physical Educ ation 5
-
 Humidity
 The amount of water vapour in the air is called humidity. Water
 goes into the atmosphere in the form of steam due to the heat
@@ -1458,7 +1152,6 @@ parts of our country. The information obtained from those centres
 helps us to know how the weather is changing, and this helps
 in forecasting the weather.
 Science, Health and Physical Education 5 51
-
 Nowadays weather forecasting is done by observing the condition
 and the speed of the cloud in the pictures taken by the satellites
 moving round the earth. Similarly, weather can be forecast on
@@ -1490,7 +1183,8 @@ d. What is weather forecasting?
 e. What is the difference in humid air and dry air?
 52 Science, Health and Physical Educ ation 5
 
-Lesson 11
+## 11: c loud  {#ch-11}
+
 c loud
 You must have seen the Sky covered
 with cloud.Observe the cloud blocking
@@ -1519,7 +1213,6 @@ in large amount in the sky, it is likely that
 rainfall with hailstones occurs.
 2. Cumulus
 Science, Health and Physical Education 5 53
-
 Cumulus cloud is white and thick. Its
 upper part looks like a ball similar to
 the cauliflower and it is white. When
@@ -1552,17 +1245,14 @@ Activity
 Observe the days when the sky is cloudy. Identify the different
 types of cloud as explained in the lesson.
 54 Science, Health and Physical Educ ation 5
-
 ExErci SE
-√
 1. Put a tick ( ) if the statement is correct and a cross (×) if
 it is wrong.
-a. The cloud that looks like fog is stratus. ( )
-b. Cumulus cloud is found very high in the sky. ( )
+a. The cloud that looks like fog is stratus.
+b. Cumulus cloud is found very high in the sky.
 c. Small drops of water in the water vapour together form
-cloud. ( )
+cloud.
 d. The cloud found very low in the sky is brown in colour.
-( )
 2. Fill in the blanks with correct words.
 a. The cloud which has greater amount of ice is …………….
 b. The water vapour becomes cooler in the atmosphere
@@ -1576,7 +1266,8 @@ c. Give a short introduction of the cloud that causes
 lightening and thunder.
 Science, Health and Physical Education 5 55
 
-Lesson 12
+## 12: The Solar System  {#ch-12}
+
 The Solar System
 The Sun and Solar System
 The sun is a star that is nearest to us. The Sun is the ball of burning
@@ -1594,7 +1285,6 @@ Planet and star
 The Sun has its own light so it is called the star. The heavenly
 bodies which move around the sun are called planets. The earth,
 56 Science, Health and Physical Educ ation 5
-
 where we are living, is also a planet.The planets do not give off
 their own light but they appear bright in the sky. What might be
 the reason? Can you say? The planets reflect the light coming
@@ -1625,11 +1315,10 @@ are thousands of times bigger than the sun. Planets are small
 heavenly bodies in comparison to the sun or stars.
 Activity
 1. The Venus is sometimes seen from the Earth at dusk
-(immediately after the sunset) in the western sky and at other
+immediately after the sunset) in the western sky and at other
 times it is seen from the Earth at dawn (before sunrise) in
 the eastern sky. Observe and recognize.
 Science, Health and Physical Education 5 57
-
 2. With the help of teacher or the textbook, prepare a colourful
 chart of the solar system. Also label the planets.
 3. Observe the heavenly bodies seen in the clear Sky at night.
@@ -1638,8 +1327,6 @@ find between stars and planets? Fill in the following table
 and show it to your teacher.
 S.N. Criteria of observation Planets Stars
 1 Own light No Yes
-2
-3
 Phases of the moon
 You must have experienced the daily change in the shape of
 the moon. During the time when the moon is seen at night, the
@@ -1660,7 +1347,6 @@ Moon’.
 How does the shape of the moon get changed? Observe everyday
 for a whole month. From the new moon day onwards, the bright
 58 Science, Health and Physical Educ ation 5
-
 part of the Moon increases slowly and it is seen totally bright on
 the full moon day. This duration is called bright half. Similarly
 from the full moon day onwards, the bright part starts decreasing
@@ -1672,7 +1358,7 @@ The phases of the moon help in preparing the calender of each
 month. The duration between one new moon day and next new
 moon day or between one full moon day and next full moon
 day is of nearly a month. This duration is called a lunar month.
-(CHANDRAMAS).
+CHANDRAMAS).
 Eclipse
 The earth moves round the sun in its own orbit. Similarly the
 moon moves round the earth. In this process, sometimes the moon
@@ -1681,7 +1367,6 @@ earth lies between the sun and the moon. Whenever, all these
 three bodies (the sun, the moon and the earth) lie in a straight
 line, eclipse occurs.
 Science, Health and Physical Education 5 59
-
 penumbra
 umbra
 source of light opaque object
@@ -1707,10 +1392,8 @@ moon is totally shadowed. The eclipse occurred in that situation
 is called a total lunar eclipse. Similarly, if the moon is covered
 by the penumbra of the earth, only a portion of the moon is
 60 Science, Health and Physical Educ ation 5
-
 partial Lunar Eclipse
 penumbra
-sun
 umbra
 earth
 Total Lunar Eclipse
@@ -1730,7 +1413,6 @@ of the earth, the sun is seen to be totally shadowed. The eclipse
 occurred in that situation is called a total solar eclipse. Similarly,
 Science, Health and Physical Education 5 61
 moon
-
 from the rarer shadowed area of the earth, the Sun is seen to
 be partially shadowed. The eclipse occurred in that situation
 is called a partial solar eclipse. A solar eclipse can only occur
@@ -1740,29 +1422,24 @@ Observe the bright part or the shape of the moon from one new
 moon to another new moon (nearly over a month) and make a
 note of how you perceive it. On the basis of your note, draw a
 figure of the moon too.
-| ExErci | SE  |     |     |
-| ------ | --- | --- | --- |
+| ExErci | SE  | | |
 1.  Put a tick ( √ ) if the statement is correct and a cross (×) if
 it is wrong.
-|   a.  | The moon is the satellite of the earth. (     )  |     |     |
-| ----- | ------------------------------------------------ | --- | --- |
-|   b.  | The planets have their own light. (     )        |     |     |
-  c.  The venus is the smallest planet of the solar system. (   )
-|   d.  | Different creatures live on the earth. (     )       |     |     |
-| ----- | ---------------------------------------------------- | --- | --- |
-|   e.  | The process in which the bright portion of the moon  |     |     |
-increases or decreases is called the phases of the moon (     )
+| a.  | The moon is the satellite of the earth. ( )  | | |
+| b.  | The planets have their own light. ( ) | | |
+c.  The venus is the smallest planet of the solar system.
+| d.  | Different creatures live on the earth. ( ) | | |
+| e.  | The process in which the bright portion of the moon  | | |
+increases or decreases is called the phases of the moon
 2.  Match column ‘A’ with column ‘B’.
-|   Column ‘A’  |             |     |   Column ‘B’                |
-| ------------- | ----------- | --- | --------------------------- |
-|   a.          | Planet      |     |   (    ) dark night         |
-|   b.          | Jupiter     |     |   (    ) moon               |
-|   c.          | New Moon    |     |   (    ) star               |
-|   d.          | Satellite   |     |   (    ) the largest planet |
-|               |             |     |   (    ) earth              |
-|               |             |     |   (    ) full moon night    |
-62                  Science, Health and Physical Educ ation 5
-
+| Column ‘A’  | | | Column ‘B’ |
+| a. | Planet | | ( ) dark night |
+| b. | Jupiter | | ( ) moon |
+| c. | New Moon | | ( ) star |
+| d. | Satellite | | ( ) the largest planet |
+| | | | ( ) earth |
+| | | | ( ) full moon night |
+62 Science, Health and Physical Educ ation 5
 3. Fill in the blanks with correct words.
 a. The solar system has ………… planets.
 b. The heavenly bodies that moves round the planets are
@@ -1784,7 +1461,8 @@ Write any two differences.
 5. Draw a neat labelled diagram of the solar eclipse.
 Science, Health and Physical Education 5 63
 
-Lesson 13
+## 13: The Earth  {#ch-13}
+
 The Earth
 If you look at a globe, you will find that the
 surface of the earth is made up of land and
@@ -1808,7 +1486,6 @@ The inner structure of the earth is different. As shown in the
 figure, the structure of the earth can be divided into three main
 parts. They are: the crust, the mantle and the core.
 64 Science, Health and Physical Educ ation 5
-
 The crust
 Crust is the outermost part of the earth. Its thickness is different
 from place to place. The crust can go as much as 75 km deep from
@@ -1834,7 +1511,6 @@ Continuous change on the earth’s surface
 You must have seen the muddy water in the rivers during the
 rainfall in monsoon. Why has the water become muddy? Why
 Science, Health and Physical Education 5 65
-
 has the surface of benches been covered with a layer of dust
 during a long holiday? Have you thought about this? The rainfall
 during the monsoon season sweeps away the weak layer of soil
@@ -1864,7 +1540,6 @@ of the temperature causes the rocks expand and contract. When
 this process continues for a long time, the rocks become weak
 and get broken.
 66 Science, Health and Physical Educ ation 5
-
 Activity 3
 Collect some chalk powder and put it on the table so that
 everyone can see it. Spread a black plastic on the floor a little
@@ -1897,7 +1572,6 @@ grazing of the cattle at a particular area causes the destruction
 of the plants. The soil of the land becomes loose and weak.
 Farming without terrace and the developmental works also make
 Science, Health and Physical Education 5 67
-
 the surface soil loose. When the surface soil becomes loose and
 weak, the monsoon rain carries away such soil. In this way, the
 earth’s surface gets on changing because of temperature, wind,
@@ -1908,22 +1582,20 @@ the elderly people whether those surfaces are like that from the
 beginning or they get develped later. On the basis of their reply
 write the causes of the change in the earth’s surface.
 ExErci SE
-√
 1. Put a tick ( ) if the statement is correct and a cross (×) if
 it is wrong.
 a. The weathering of the earth’s surface due to various
-causes is called soil erosion. ( )
-b. Mantle is the thickest layer of the earth. ( )
-c. The plain area surrounded by hills is called valley. ( )
+causes is called soil erosion.
+b. Mantle is the thickest layer of the earth.
+c. The plain area surrounded by hills is called valley.
 d. The rivers cause the weathering of rocks and carry them
-away to make a pile in plain area. ( )
+away to make a pile in plain area.
 e. Farming without terrace in slopes causes soil erosion
-in greater quantity. ( )
+in greater quantity.
 2. Fill in the blank spaces with correct words.
 a. The monsoon rain makes the soil of the land…………….
 b. The causes of the change in the earth’s surface are: wind,
 68 Science, Health and Physical Educ ation 5
-
 water, animals and…………
 c. The monsoon water carries away the surface soil of
 ………….more easily than that of plain area.
@@ -1940,7 +1612,8 @@ e. How does the heat of the sun cause change in the earth’s
 surface? Explain.
 Science, Health and Physical Education 5 69
 
-Lesson 14
+## 14: information and  {#ch-14}
+
 information and
 c ommunication
 The collection of statistics and knowledge on any subject is called
@@ -1969,7 +1642,6 @@ time. Newspapers, magazines, etc. are periodic publications.
 These publications have their definite use. We read newspapers
 to have an idea of present situation.
 70 Science, Health and Physical Educ ation 5
-
 b. Reference materials and general collection
 While writing an article or a book, we need to collect information
 from different sources. Those sources are called reference
@@ -2002,7 +1674,6 @@ c. Mass communication
 a. Intrapersonal communication
 Communication takes place in self while we are thinking over
 Science, Health and Physical Education 5 71
-
 something or trying to solve a problem. Let’s take an example:
 suppose you have a T-shirt in one hand a shirt in another hand.
 What will be your response? You may say that the shirt is more
@@ -2030,14 +1701,13 @@ Computer as a means of communication
 Nowadays the use of computer has tremendously increased.
 Computer is also an important means of communication. The
 computer has three main parts: (a) CPU (Central Processing Unit),
-(b) monitor and (c) keyboard/mouse.
+b) monitor and (c) keyboard/mouse.
 Keyboard and mouse are used to give commands/input to the
 computer. Likewise, the command/input is processed by CPU
 making it meaningful. This is also called the brain of a computer.
 Information is displayed on monitor. The information can be
 printed, recorded or transferred. Computer can function as
 72 Science, Health and Physical Educ ation 5
-
 a means of communication only when it is connected to the
 network. We should contact at the telecommunication office
 for networking. Internet can be browsed on the computer by
@@ -2063,19 +1733,17 @@ Write names of any two books and any two periodic publications.
 Write any two types of information that can be obtained from
 each of them.
 Science, Health and Physical Education 5 73
-
 ExErci SE
-√
 1. Put a tick ( ) if the statement is correct and a cross (×) if
 it is wrong.
 a. Periodic publications are published at a fixed interval
-of time. ( )
+of time.
 b. The sources of information that are collected for writing
-an article are called reference materials. ( )
+an article are called reference materials.
 c. The transmission of information takes place within the
-same individual in interpersonal communication. ( )
+same individual in interpersonal communication.
 d. Mass communication is a one-way communication
-system ( )
+system
 2. Fill in the blanks with correct words.
 a. The communication that takes place within the self is
 called……………. communication.
@@ -2092,7 +1760,8 @@ c. How can the computer function as a means of
 communication ?
 74 Science, Health and Physical Educ ation 5
 
-Lesson 15
+## 15: Simple Local Technologies  {#ch-15}
+
 Simple Local Technologies
 We have been using different technologies in our villages to
 simplify our daily activities from the very beginning. Dhiki and
@@ -2102,7 +1771,7 @@ also been in use. In the process of bringing timely changes in
 traditional technologies, improved earthern stove has replaced
 traditional earthern stove. In this lesson, we will discuss the
 general introduction to these technologies and their uses.
-A. Dhiki and stone grinding mill (Janto)
+A. Dhiki and stone grinding mill (Janto
 Dhiki and stone grinding mills (Janto) have been found in use
 before the use of modern machines for pounding and grinding.
 Dhiki
@@ -2114,16 +1783,15 @@ raise it. At the one third parts from the tail of the log, a wooden
 bar (Aaglo) is kept crosswise on the pillars on both sides so that
 the Dhiki is between them. The Dhiki has a pestle on the middle
 Science, Health and Physical Education 5 75
-
 part of the front of the log. The pestle has a cylindrical metal plate
 with teeth like a saw attached to it. The pestle is kept/made in
 such a way that it falls in the mortar (a stone with a hole on it).
 While pounding grains, the tail (shorter end of the Dhiki behind
 the wooden pillars) is pressed with a foot to raise the front part
-(that has pestle). When the leg is detached, the front part goes
+that has pestle). When the leg is detached, the front part goes
 down and the pestle falls on the grains in the mortar. The frequent
 repetition of the process causes pounding of grains.
-Stone grinding mill (Janto)
+Stone grinding mill (Janto
 Stone grinding mill is a traditional tool used for grinding. It has
 two stone wheels, a wooden stick (called handle) and a small
 iron nail (pivot).
@@ -2140,15 +1808,14 @@ through the hole of the upper wheel. While grinding, the grains
 are put in the hole and the upper wheel is moved round with
 the help of the handle. While moving the upper stone this way,
 the grounded grain comes out of the part between the wheels.
-B. Hand mill (Kol)
+B. Hand mill (Kol
 Hand mill is used to squeeze and press juicy and sour fruits
-(lemon, citron, shaddock etc.), sugarcane and mustard. The
+lemon, citron, shaddock etc.), sugarcane and mustard. The
 structure of hand mills is different, however, all of them are based
 on the same theory. If juicy items are pressed heavily, they get
 squeezed and the juice comes out. The hand mill is based on
 the same operational theory.The structure lemon/citron sueezing
 76 Science, Health and Physical Educ ation 5
-
 hand mill is like that shown in the picture. A long ditch is made
 along a flat piece of wood and on its one end, there is a hole. At
 the outer end of the hole, there is a small piece of wood to keep
@@ -2157,7 +1824,7 @@ Lime
 Wall
 Passage
 Wooden Device
-(Kol)
+Kol
 Container
 the pressing stick stable. This type of hand mill is diagnolly
 pierced on the wall. The citron to be squeezed is put on the ditch
@@ -2168,7 +1835,6 @@ juice is then collected and boiled.
 The structure of mustard squeezing hand mill is like that shown
 in the picture. The structure of this mill is different from that used
 Science, Health and Physical Education 5 77
-
 to squeeze sugarcane. However it is rotated in the same way as
 the sugarcane squeezing mill. A piece of log is kept horizontally
 in the pestle. Having kept the mustard in the mill, the horizontal
@@ -2203,7 +1869,6 @@ because of these weaknesses. In traditional earthern oven, fire
 need s to reach to the both mouths but in improved earthern
 oven, there is a flat piece of iron between the first and the second
 78 Science, Health and Physical Educ ation 5
-
 mouths. The surplus heat from the first mouth of the oven gets
 the iron plate heated and the heat causes the air upto the second
 mouth hot.
@@ -2217,7 +1882,7 @@ smoke goes out of the house through the chimney and we can
 be safe from the bad effects of smoke in our health.
 Teaching Instructions
 Take your students to a short tour to show them Dhiki, stone grinding mill
-(Janto), hand mill and imroved earthern stove. Let them observe these
+Janto), hand mill and imroved earthern stove. Let them observe these
 technologies as many as possible. Ask your students to state what they
 know about them.
 Activity
@@ -2226,17 +1891,15 @@ pounding and grinding? Write. Write in short about the pounding
 and gridning technologies other than Dhiki and stone grinding
 mill (Janto) if you have them in your locality.
 Science, Health and Physical Education 5 79
-
 ExErci SE
-√
 1. Put a tick ( ) if the statements is correct and a cross (×) if
 it is wrong.
-a. People use stone grinding mill (Janto) for grinding. ( )
+a. People use stone grinding mill (Janto) for grinding.
 b. Mustard squeezing mill and sugarcane squeezing mill
-have difference in their theory. ( )
+have difference in their theory.
 c. Traditional earthern stove is better than the improved
-earthern stove from the perspective of health. ( )
-d. People use Dhiki for pounding. ( )
+earthern stove from the perspective of health.
+d. People use Dhiki for pounding.
 2. Fill in the blanks with correct words.
 a. A wooden stick that is used for moving the upper stone
 wheel of stone ginding mill is called ………………..
@@ -2255,9 +1918,10 @@ of power?
 e. Write the structure of stone grinding mill in short .
 4. Make a clear picture of Dhiki.
 80 Science, Health and Physical Educ ation 5
-
 Health Education
-Lesson 1
+
+## 1: Personal Cleanliness  {#ch-1}
+
 Personal Cleanliness
 Cleanliness of different parts of body
 Anything done for keeping the body clean and healthy is called
@@ -2287,7 +1951,6 @@ food gets rotten and causes the stinking of mouth, swelling of
 gum and toothache. We should brush our teeth properly with
 a smooth toothbrush moving it up and down twice a day after
 Science, Health and Physical Education 5 81
-
 each meal. After eating sweet food, we should clean our mouth
 with water. The use of flouride toothpaste helps in making the
 teeth strong.
@@ -2316,7 +1979,6 @@ process, the girls should not hesitate or be afraid of consulting
 with their mothers or elder sisters. During menstruation, the sex
 organ should be washed with clean water and the soft cotton pad
 82 Science, Health and Physical Educ ation 5
-
 should be used. The pad absorbs the dirty  blood. The food to be
 eaten during the time should be nutrituous and should contain
 minerals. More attention on cleanliness should be given  during
@@ -2337,18 +1999,15 @@ students to brush their teeth accordingly.
 ExErCisE
 1.  Match the organs in column ‘A’ with their functions in
 column ‘B’.
-|   Group ‘A’  |        |     |   Group ‘B’                            |
-| ------------ | ------ | --- | -------------------------------------- |
-|   Organs     |        |     |   Functions                            |
-|   (a)        | Teeth  |     |   (   ) helps to smell.                |
-|   (b)        | Eyes   |     |   (   ) help to digest food.           |
-|   (c)        | Ears   |     |   (   ) helps to see.                  |
-|   (d)        | Nose   |     |   (   ) should be brushed twice a day. |
-|              |        |     |   (   ) helps to listen.               |
-Science, Health and Physical Education 5                                83
-
-√
-2. Put a tick ( ) if the statements is correct and a cross (×)
+| Group ‘A’  | | | Group ‘B’ |
+| Organs | | | Functions |
+| (a) | Teeth  | | ( ) helps to smell. |
+| (b) | Eyes | | ( ) help to digest food. |
+| (c) | Ears | | ( ) helps to see. |
+| (d) | Nose | | ( ) should be brushed twice a day. |
+| | | | ( ) helps to listen. |
+Science, Health and Physical Education 5 83
+2. Put a tick ( ) if the statements is correct and a cross (×
 if it is wrong:
 a. We should rub our eyes if dust falls in it.
 b. We should brush our teeth only when we have a
@@ -2366,7 +2025,6 @@ Health Slogan
 Let’s clean organs of body everyday,
 save and be safe from diseases.
 84 Science, Health and Physical Educ ation 5
-
 Lesson 2
 Physical exercise,
 rest and sleep
@@ -2398,7 +2056,6 @@ their age. Physical exercise helps in increasing the digestive
 power which in turn helps to increase appetite to make the body
 strong and for proper sleep.
 Science, Health and Physical Education 5 85
-
 Regualr rest and sleep
 Have you seen the machines in factories? A machine cannot
 function if one of its parts goes wrong. Our body is also like a
@@ -2419,7 +2076,6 @@ Teach focusing on the lifeskills that help the students to develop habits to
 lead a healthy life.Give behavioural examples of balanced diet, regular rest
 and exercise. Give more rationales behind the necessity of rest and exercise.
 86 Science, Health and Physical Educ ation 5
-
 Activity
 Why does our body need exercise, rest and sleep? Discuss and
 make a list of the reasons behind their requirement and present
@@ -2428,11 +2084,11 @@ ExErCisE
 1. Complete the following sentences choosing the correct word
 from the brackets.
 a. We need regular……….. for being healthy. (sleep, diet,
-exercise)
+exercise
 b. We should eat………........….. for keeping our body
-healthy. (corn/soyabean/vegetables, balanced diet)
+healthy. (corn/soyabean/vegetables, balanced diet
 c. Bed room should be clean, well ventilated and
-………..............…. (cold, dark, silent)
+………..............…. (cold, dark, silent
 2. Answer the following questions.
 a. What four things are needed for an individual to be
 healthy? Write.
@@ -2443,7 +2099,6 @@ Health Slogan
 ‘Let’s have regular exercise and rest,
 let’s learn to live a healthy life.’
 Science, Health and Physical Education 5 87
-
 Lesson 3
 Need of Environmental
 Cleanliness
@@ -2459,7 +2114,6 @@ birds, animals, houses, schools around
 us. It is the combined form of living and
 non-living things. So, the teacher told us
 88 Science, Health and Physical Educ ation 5
-
 that cleanliness of environment is to be
 given special attention.
 Hareram Chaudhary : What have we done to environment?
@@ -2481,7 +2135,7 @@ contain lots of trees and there used to
 be no scarcity of grass and firewood.
 There used to be enough sources of
 water. There used to be no shop and
-no plastic. (interrupted in the middle)
+no plastic. (interrupted in the middle
 Hareram Chaudhary : What are you saying? Do you
 mean that environment is spoilt by
 the development, construction and
@@ -2493,7 +2147,6 @@ from development. I’m saying that
 during the process of development,
 environment should be kept clean
 Science, Health and Physical Education 5 89
-
 and in balance. While setting up the
 water tap, the drainage should also be
 built. Empty areas are to be planted
@@ -2528,7 +2181,6 @@ environment. Didn’t the teacher
 tell us that it’s our duty to keep the
 environment clean and balanced?
 90 Science, Health and Physical Educ ation 5
-
 Hareram Chaudhary : Really? We suffer from diseases if the
 enviroment is dirty, don’t we?
 Krishnamaya Lama : Yes. Environmental balance and
@@ -2546,7 +2198,7 @@ container nearby. I will try to make
 the people aware that it is the duty
 of all of us to keep the environment
 clean, fresh and balanced.
-(They arrive at the juction and follow the paths to their homes)
+They arrive at the juction and follow the paths to their homes
 Teaching Instruction
 Teach focusing on the concept of environment and the importance of
 environmental cleanliness. Teach focusing on the lifeskills that can change
@@ -2558,14 +2210,12 @@ Health Slogan
 ‘It’s the duty of all of us to keep
 the environment clean and fresh.’
 Science, Health and Physical Education 5 91
-
 Activity
 Go around your neighbourhood. Find out what activities at your neighbourhood
 people do tht can cause pollution in the environment. How can you help to
 stop the pollution? Work in groups to fill in the following table and present it
 to the class.
 ExErCisE
-√
 1. Put a tick ( ) if the statements is correct and a cross (×) if
 it is wrong.
 a. Living and non-living things together form the
@@ -2583,7 +2233,6 @@ three reasons.
 c. What things are to be done to manage the wastes
 increased together with developmental works?
 92 Science, Health and Physical Educ ation 5
-
 Lesson 4
 solid Wastes
 We use different things at our home. The remains of used things
@@ -2591,7 +2240,7 @@ to be thrown are called wastage. The wastage when we throw
 comes into contact with other things and changes into garbage.
 Such garbage comes from room, house, shop, factories, school,
 etc. Solid waste can be divided into two types: decaying wastes
-(bio- degradable) and non-decaying wastes (non bio- degradable) .
+bio- degradable) and non-decaying wastes (non bio- degradable) .
 a. Bio-degradable wastes
 The wastes that decay are also called biodegradable wastes.
 Withered plants and weeds, dead animals, remains of vegetables,
@@ -2600,7 +2249,6 @@ useless clothes, leather, torn straw mats, jute bags, etc. also fall
 in bio-degradable wastes. These wastes decay and get changed
 into soil.
 Science, Health and Physical Education 5 93
-
 b. Non-biodegradable wastes
 The wastes that do not decay are also called non-biodegradable
 wastes. This type includes plastic, glass, pieces of metal objects
@@ -2611,7 +2259,7 @@ are several ways of waste management. For example: minimizing
 waste, reuse of the objects or recycling them.
 Earning from wastes/coins from wastes
 For the management of wastes, we should sort out the wastes into:
-decaying and non-decaying (biodegradable and non-biodegradable)
+decaying and non-decaying (biodegradable and non-biodegradable
 wastes. Among the non-decaying (non-biodegradable) too; plastic,
 metals (iron, copper, aluminium etc.) and glass bottles are to be
 kept separately. These can be recycled and new objects can be
@@ -2635,40 +2283,31 @@ on the part of the students necessary for maintaining the clean environment
 at home, school and community. Ask the students to manage the wastes
 around so that they can get experimental knowledge and skill.
 94 Science, Health and Physical Educ ation 5
-
 Activity
 What wastes are produced at home, schools and shops? Make
 different lists of biodegradable and non-biodegradable wastes.
 ExErCisE
-√
 1.  Put a tick ( ) if the statements is correct and a cross (×) if
 it is wrong.
-  a.  The water that comes while washing dishes is solid waste.
-|   b.  | Biodegradable wastes decay immediately.              |     |     |
-| ----- | ---------------------------------------------------- | --- | --- |
-|   c.  | Compost fertilizer can be made from decaying things. |     |     |
-|   d.  | Plastic is non-decaying waste.                       |     |     |
-|   e.  | Compost fertilizer is good for vegetable farming.    |     |     |
+a.  The water that comes while washing dishes is solid waste.
+| b.  | Biodegradable wastes decay immediately. | | |
+| c.  | Compost fertilizer can be made from decaying things. | | |
+| d.  | Plastic is non-decaying waste. | | |
+| e.  | Compost fertilizer is good for vegetable farming. | | |
 2.  Match column ‘A’ with column ‘B’.
-|   Column ‘A’  |     |     | Column ‘B’ |
-| ------------- | --- | --- | ---------- |
-
-|   (a)  | Weeds         |     | (   ) re-useable                     |
-| ------ | ------------- | --- | ------------------------------------ |
-|   (b)  | Waste         |     | (   ) does not decay                 |
-|   (c)  | Glass bottle  |     | (   ) is decaying waste              |
-|   (d)  | Iron          |     | (   ) pollutes the environment.      |
-|        |               |     | (   ) can be made compost fertilizer |
+| Column ‘A’  | | | Column ‘B’ |
+| (a)  | Weeds | | ( ) re-useable |
+| (b)  | Waste | | ( ) does not decay |
+| (c)  | Glass bottle  | | ( ) is decaying waste |
+| (d)  | Iron | | ( ) pollutes the environment. |
+| | | | ( ) can be made compost fertilizer |
 3.  Write answers to the following questions.
-|   a.  | What is called solid waste?                            |     |     |
-| ----- | ------------------------------------------------------ | --- | --- |
-|   b.  | Write the names of any five wastes produced at school. |     |     |
-|   c.  | How does the environment is get littered? Mention any  |     |     |
+| a.  | What is called solid waste? | | |
+| b.  | Write the names of any five wastes produced at school. | | |
+| c.  | How does the environment is get littered? Mention any  | | |
 two causes.
-|   d.  | How is compost fertilizer made?  |     |     |
-| ----- | -------------------------------- | --- | --- |
-Science, Health and Physical Education 5                                95
-
+| d.  | How is compost fertilizer made?  | | |
+Science, Health and Physical Education 5 95
 Lesson 5
 Balanced Diet
 Our body becomes healthy, if the food we eat is clean and
@@ -2688,7 +2327,6 @@ nutrients:
 Carbohydrates: rice, maize, wheat, barley, buckwheat, millet,
 potatoes, sweet food, etc.
 96 Science, Health and Physical Educ ation 5
-
 Protein: pulse, broad beans, green beans, nuts, soybean,
 cashew, milk, cheese, fish, meat, curd, egg, etc.
 Fat: oil, ghee, meat, etc.
@@ -2717,7 +2355,6 @@ While teaching, focus the content on the food stuff available in different
 communities.Divide the class into groups to divide the food stuff according
 to the nutrients found in them. Also ask to display their work.
 Science, Health and Physical Education 5 97
-
 Activity
 1. What food have you and your friends eaten in the morning?
 Make a list in group. Prepare a table according to the
@@ -2728,13 +2365,12 @@ ExErCisE
 1. Complete the following sentences choosing the right word
 from the brackets.
 a. We should always eat………. (balanced diet, diet
-containing proteins, diet containing vitamins)
-b. ………… is found in rice. (Minerals, Carbohydrates, Fat)
+containing proteins, diet containing vitamins
+b. ………… is found in rice. (Minerals, Carbohydrates, Fat
 c. Balanced diet makes our body……….. (healthy, weak,
-fat)
+fat
 d. Children and pregnant woman should always eat………..
-food. (nutritious, much, only one kind of)
-√
+food. (nutritious, much, only one kind of
 2. Put a tick ( ) if the statement is correct and a cross (×) if
 it is wrong.
 a. We should eat one kind of food all the time.
@@ -2746,7 +2382,6 @@ a. What type of diet is called balanced diet?
 b. Prepare the list of food that gives energy to body.
 c. Write any five food stuff found in our countryside.
 98 Science, Health and Physical Educ ation 5
-
 Lesson 6
 Causes of Malnutrition
 and Preventive Measures
@@ -2778,7 +2413,6 @@ if it lacks required amount of carbohydrates and
 protein, the disease is called marasmus. This
 disease is common among the small children due
 Science, Health and Physical Education 5 99
-
 to the lack of balance diet or due to other infectious diseases.
 To protect the children from this, they should be given the food
 that contains enough amount of nutrition.
@@ -2812,7 +2446,6 @@ it in pulse or cooked vegetables
 water.
 6. Cut the fruits only after washing them properly.
 100 Science, Health and Physical Educ ation 5
-
 Teaching Instruction
 Teach the lesson on focusing the effects of malnutrition on an individual’s
 physical, mental and social aspects. Teach the lesson by informing the
@@ -2823,28 +2456,23 @@ List the techniques of preserving the nutrients containing in food
 stuff and display it in the classroom.
 ExErCisE
 1.  Match column ‘A’ with column ‘B’.
-|   Column ‘A’            |         | Column ‘B’            |
-| ----------------------- | ------- | --------------------- |
-|   (a)  Night Blindness  | (   )   | is caused due to the  |
+| Column ‘A’ | | Column ‘B’ |
+| (a)  Night Blindness  | ( ) | is caused due to the  |
 lack of carbohydrates.
-|   (b)  Anaemia   | (   )   |  is the source of iron. |
-| ---------------- | ------- | ----------------------- |
-|   (c)  Marasmus  | (   )   | is caused due to the    |
+| (b)  Anaemia | ( ) |  is the source of iron. |
+| (c)  Marasmus  | ( ) | is caused due to the |
 lack of vitamin ‘A’.
-|   (d)  Communicable disease  | (   )   | is caused due to the  |
-| ---------------------------- | ------- | --------------------- |
+| (d)  Communicable disease  | ( ) | is caused due to the  |
 lack of iron.
-|       | (   )   | can trasfer from one  |
-| ----- | ------- | --------------------- |
+| | ( ) | can trasfer from one  |
 person to another.
 2.  Put a tick ( √ ) if the statement is correct and a cross (×) if it
 is wrong.
-  a.  People become fat if suffered from malnutrition.
-  b.  The lack of vitamin ‘C’ causes night blindness.
-  c.  Washing the rice several times by rubbing destroys
+a.  People become fat if suffered from malnutrition.
+b.  The lack of vitamin ‘C’ causes night blindness.
+c.  Washing the rice several times by rubbing destroys
 nutrients.
-Science, Health and Physical Education 5                                101
-
+Science, Health and Physical Education 5 101
 d. We should always eat nutritious food.
 e. The vegetable should be cooked for a long time so that
 it becomes tender.
@@ -2859,7 +2487,6 @@ Health Slogan
 Let’s eat nutritious food,
 be safe and save from malnutrition.
 102 Science, Health and Physical Educ ation 5
-
 Lesson 7
 Communicable Diseases
 We can do many good things if we have healthy body. We can
@@ -2888,7 +2515,6 @@ Some communicable diseases
 Tuberculosis is a communicable
 disease which is caused by a kind
 Science, Health and Physical Education 5 103
-
 of micro bacteria. This disease can affect lungs, intestine, bone
 etc. of human body. The person with tuberculosis in lungs or
 chest has regular cough for two weeks or more. This disease can
@@ -2922,7 +2548,6 @@ only after cleaning them.
 3. Whooping cough
 This disease affects in the wind pipe. The disease can quickly
 104 Science, Health and Physical Educ ation 5
-
 attack the children. This is a communicable disease caused
 by bacterial infection. The main causes of this disease are:
 malnutrition, lack of care, cold environment, pollution, etc.
@@ -2946,7 +2571,6 @@ a particular place.
 5. Cholera
 Cholera is a speedy communicable disease. This disease is caused
 Science, Health and Physical Education 5 105
-
 by a bacterium. Polluted water, lack of personal or environmental
 cleanliness, having rotten and stale food etc. can cause cholera.
 The patient suffers from frequent diarrhoea and vomiting. The
@@ -2960,24 +2584,21 @@ exercise and nutrituous food etc. helps us to be protected from
 all kinds of diseases.
 ExErCisE
 1.  Match the diseases with their symptoms.
-|   Diseases              |     |   Symptoms                     |
-| ----------------------- | --- | ------------------------------ |
-|   (a)   Measles         |     | (   ) blood appears in phlegm. |
-|   (b)   Whooping cough  |     | (   ) red spots appear.        |
-  (c)   Tuberculosis    (   ) having stool like ‘rice water’.
-|   (d)   Chickenpox  |     | (   ) bubbles with water appear.   |
-| ------------------- | --- | ---------------------------------- |
-|   (e)   Cholera     |     | (   ) having continuous cough.     |
-|                     |     | (   ) blood apperas in excrement.  |
+| Diseases | | Symptoms |
+| (a) Measles | | ( ) blood appears in phlegm. |
+| (b) Whooping cough  | | ( ) red spots appear. |
+c) Tuberculosis ( ) having stool like ‘rice water’.
+| (d) Chickenpox  | | ( ) bubbles with water appear. |
+| (e) Cholera | | ( ) having continuous cough. |
+| | | ( ) blood apperas in excrement.  |
 2.  Answer the following questions.
-  a.  What is communicable disease?
-  b.  Write the names of any five non-communicable diseases.
-  c.  What are the symptoms of tuberculosis?
-  d.  Write any five causes of being affected by disease.
-  e.  Write the symptoms and preventive measures of whooping
+a.  What is communicable disease?
+b.  Write the names of any five non-communicable diseases.
+c.  What are the symptoms of tuberculosis?
+d.  Write any five causes of being affected by disease.
+e.  Write the symptoms and preventive measures of whooping
 cough.
-106                  Science, Health and Physical Educ ation 5
-
+106 Science, Health and Physical Educ ation 5
 Lesson 8
 HiV and AiDs
 HIV (Human Immunideficiency Virus) is a kind of small/micro
@@ -3006,7 +2627,6 @@ contaminated with HIV-infected blood
 3. Through the common use of HIV infected needles and
 syringes
 Science, Health and Physical Education 5 107
-
 4. Through blood transfusion from HIV infected person
 5. Babies born by HIV infected mothers
 The following activities with HIV-AIDS infected people are safe
@@ -3017,7 +2637,6 @@ The following activities with HIV-AIDS infected people are safe
 5. When the infected person has cough or sneeze.
 6. Taking care of infected people.
 ExErCisE
-√
 1. Put a tick ( ) if the statement is correct and a cross (×) if
 it is wrong.
 a. It is okay to use needles and syringes commonly.
@@ -3035,7 +2654,6 @@ d. Write five ways where HIV and AIDS can not transfer.
 e. How does HIV transfer from one person to another? Write
 the way.
 108 Science, Health and Physical Educ ation 5
-
 Lesson 9
 Let’s be safe
 from Accidents
@@ -3056,7 +2674,6 @@ decreases the probability of accidents.
 We should follow the traffic lights and traffic rules while crossing
 the road. We should be careful while walking slopes in the hills
 Science, Health and Physical Education 5 109
-
 or while crossing the river. We should not play with medicine
 bottles. We should be cautious while doing the things like:
 walking on the slippery path, using the fire, swimming or using
@@ -3084,7 +2701,6 @@ d. List the accidents that can occur in classroom.
 Health Slogan
 ‘Be safe and save from accidents.
 110 Science, Health and Physical Educ ation 5
-
 Lesson 10
 Caution and First Aid
 To be safe from accidents, we should be cautious while playing,
@@ -3115,7 +2731,6 @@ is known: whether it is a normal or mad.
 It will be easier for us to carry out first aid in case of accidents
 if we have kept the first aid box in our home. This box should
 Science, Health and Physical Education 5 111
-
 contain scissors, knife, blade, cotton, bandage, handkerchief,
 soap, paracetamol, oral rehydration solution, spirit, dettol,
 thermometer, etc. We should also suggest our friends keeping
@@ -3142,7 +2757,6 @@ d. What instruments or things are to be there in the first
 aid box? Make a list.
 e. Where is first aid carried out and why?
 112 Science, Health and Physical Educ ation 5
-
 Lesson 11
 Health service and
 Community Health
@@ -3165,7 +2779,6 @@ health cannot be made better with the effort of a single person.
 All the people of a community should be equally responsible
 for this.
 Science, Health and Physical Education 5 113
-
 Clean food and clean drinking water should be managed
 for a community. Individual and group cleanliness is to be
 paid attention to including the management of public toilets.
@@ -3196,17 +2809,16 @@ ExErCisE
 1. Choose the correct words from the brackets to complete
 the sentences given below.
 a. ………. provide health services in the country side.
-(Teachers/Health workers/Engineers)
+Teachers/Health workers/Engineers
 114 Science, Health and Physical Educ ation 5
-
 b. The institutions that provide health services are
 called……………. (health posts/community buildings/area
-offices)
+offices
 c. For the betterment of community health, assistance
 of………….. is required. (individuals/ institutions/
-community)
+community
 d. We should go to………….. for health service. (hospital/
-wizards/drug store)
+wizards/drug store
 2. Decide whether the following statements are ‘True’ or
 ‘False’.
 a. The service that is obtained before and after the illness for
@@ -3227,7 +2839,6 @@ Health Slogan
 ‘Let’s go to the nearest health institution if
 health problems occur, fetch others there too.
 Science, Health and Physical Education 5 115
-
 Lesson 12
 Let’s Enjoy the Health
 service and Co-operate
@@ -3257,7 +2868,6 @@ hospitals located in our community. Sometimes,
 these services are available at mobile health camps
 too.
 116 Science, Health and Physical Educ ation 5
-
 Student : Who provides these services, madam?
 Teacher : These services are generally provided by health
 workers and health assistants. If they find the illness
@@ -3284,7 +2894,6 @@ Divide different roles among your friends: doctor, patient, nurse,
 health assistant, etc. Now play the roles of those characters with
 their tasks of providing health service.
 Science, Health and Physical Education 5 117
-
 ExErCisE
 1. Decide whether the following statements are ‘True’ or
 ‘False’.
@@ -3301,7 +2910,6 @@ c. Why is it necessary to publicize about the health
 services?
 d. What is mobile health camp?
 118 Science, Health and Physical Educ ation 5
-
 Lesson 13
 smoking
 Smoking means particularly the consumption of tobacco
@@ -3326,12 +2934,11 @@ nearly 4000 kinds of harmful
 and poisonous chemicals.
 These also include the elements
 like: nicotine, tobbaco tar
-(sticky matter) and carbonmonooxide. These elements get into
+sticky matter) and carbonmonooxide. These elements get into
 the body in smoking which can cause heart diseases, cancer,
 asthma, dental diseases, etc. Pregnant smokers not only harm
 themselves but also to the babies inside them.
 Science, Health and Physical Education 5 119
-
 Smoking, together with the smokers, harms the people living
 together, too. Young children are highly affected by it. So,
 everyone should try their best to avoid it. We should not develop
@@ -3361,40 +2968,32 @@ in the womb.
 c. Tobacco contains nearly 4000 kinds of harmful and
 poisonous……………
 120 Science, Health and Physical Educ ation 5
-
-|   d.  | The harmful elements in the tobacco cause diseases  |     |     |
-| ----- | --------------------------------------------------- | --- | --- |
+| d.  | The harmful elements in the tobacco cause diseases  | | |
 like: asthma,………., heart disease, dental diseases etc.
-|   e.  | I advise my family members ……… |     |     |
-| ----- | ------------------------------ | --- | --- |
+| e.  | I advise my family members ……… | | |
 2.  Match the words in column ‘A’ with their descriptions in
 column ‘B’.
-|   Column ‘A’  |     |     |   Column ‘B’ |
-| ------------- | --- | --- | ------------ |
-  (a)   Dry tobacco  (   )  the disease caused by smoking that
+| Column ‘A’  | | | Column ‘B’ |
+a) Dry tobacco  ( )  the disease caused by smoking that
 can appear after a long time.
-  (b)   Cigeratte  (   )  the problem that appears shortly after
+b) Cigeratte  ( )  the problem that appears shortly after
 smoking.
-|   (c)         | Cancer    | (   )  the object used to inhale smoke.  |     |
-| ------------- | --------- | ---------------------------------------- | --- |
-|   (d)  Cough  |           | (   )  eyes become smaller.              |     |
-|   (e)         | Nicotine  | (   )  dry tobacco consumed by chewing   |     |
-|               |           | (   )  harmful element found in tobacco. |     |
+| (c) | Cancer | ( )  the object used to inhale smoke.  | |
+| (d)  Cough  | | ( )  eyes become smaller. | |
+| (e) | Nicotine  | ( )  dry tobacco consumed by chewing | |
+| | | ( )  harmful element found in tobacco. | |
 3.  Answer the following questions in short.
-|   a.  | What is smoking?                                     |     |     |
-| ----- | ---------------------------------------------------- | --- | --- |
-|   b.  | Write any four immediate effects of smoking.         |     |     |
-|   c.  | Write any five techniques of avoiding smoking.       |     |     |
-|   d.  | How do people adopt the bad habit of smoking? Write  |     |     |
+| a.  | What is smoking? | | |
+| b.  | Write any four immediate effects of smoking. | | |
+| c.  | Write any five techniques of avoiding smoking. | | |
+| d.  | How do people adopt the bad habit of smoking? Write  | | |
 any three examples.
-|   e.  | Write the names of any five harmful elements found in  |     |     |
-| ----- | ------------------------------------------------------ | --- | --- |
+| e.  | Write the names of any five harmful elements found in  | | |
 tobacco.
 Health Slogan
 Clean environment and
- smokingless life for healthiness.
-Science, Health and Physical Education 5                                121
-
+smokingless life for healthiness.
+Science, Health and Physical Education 5 121
 Lesson 14
 Alcohol and Drugs
 Alcohol and drugs are two different types of intoxicating
@@ -3424,7 +3023,6 @@ hemp and narcotic can be directly obtained from plants and can
 be consumed. The drugs like hemp and heroin are made from
 other different drugs. The consumption of these substances
 122 Science, Health and Physical Educ ation 5
-
 brings change in normal behaviour of an individual. Pondering,
 staring, having useless ideas, obstinacy/persistence are some of
 the symptoms of drug addicts. The continuous consumption
@@ -3446,21 +3044,15 @@ others to avoid these to control bad habits. Different places in our
 country have been declared as ‘No alcoholic zone’. This should
 be well-adopted in behaviour.
 Science, Health and Physical Education 5 123
-
 Activity
 1. Discuss in groups the aspects of drinking given in the
 following table. Fill in the table and present it to the class:
 s.no Name of How people Physical Mental Social
 drinks learn effects effects effects
-1.
-2.
-3.
-4.
 2. Prepare and demonstrate a drama against drinking and drugs
 with the help of the teacher. Invite your guardians to the
 program too.
 ExErCisE
-√
 1. Put a tick ( ) if the statement is correct and a cross (×) if
 it is wrong.
 a. Drinks and drugs are intoxicating substances.
@@ -3472,7 +3064,6 @@ social aspects.
 e. It is the duty of all to run programs against the
 consumption of drinks and drugs.
 124 Science, Health and Physical Educ ation 5
-
 2. Answer the following questions.
 a. Write any five substances that come under drinks.
 b. What suggestions do you give to your family members
@@ -3485,7 +3076,6 @@ Health Slogan
 Let’s stop the consumtion of drugs from today
 and lead a peaceful and healthy life.
 Science, Health and Physical Education 5 125
-
 Physical Education
 Lesson 1
 Locomotor skills
@@ -3505,7 +3095,6 @@ do the following activities for proper walking.
 Activity 1
 Let’s walk with long strides in a straight line.
 126 Science, Health and Physical Educ ation 5
-
 Activity 2
 Let’s walk quickly over the line of a round circle and complete
 one circle.
@@ -3522,7 +3111,6 @@ their walk from the line.
 Practice 4. Complete the distance of 30m with different styles
 of walking.
 Science, Health and Physical Education 5 127
-
 Running
 We can reach our destination more quickly by running than
 walking. While running, hands and legs move quickly. Rapid
@@ -3542,7 +3130,6 @@ Keep your friends in line with 5 students in each. Ask each group
 to run with the command ‘On your mark, get set, go’ one by one.
 Give the command loudly to make your friends run.
 128 Science, Health and Physical Educ ation 5
-
 Activity 2
 Hurdle Race
 Let’s practice the race with different types of hurdles on the way
@@ -3563,7 +3150,6 @@ aware of the accidents likely to occur during climbing up and down the steps
 Keep in mind the time and joyfulness of the activity. Involve the students in
 the practice activities according to the weightage.
 Science, Health and Physical Education 5 129
-
 Lesson 2
 Jumping
 Pushing oneself suddenly off the ground and is called jumping.
@@ -3593,7 +3179,6 @@ Jump off the ground at the
 same time with both of your
 legs in the air.
 130 Science, Health and Physical Educ ation 5
-
 Activity 2
 Long jump by treading on the take off board
 We will stand in a queue. We’ll run along the racecourse after the
@@ -3607,7 +3192,6 @@ to the skill.
 j]:6g{ /f]n tl/sf
 l;h/ tl/sf
 Science, Health and Physical Education 5 131
-
 Activity 4
 High jump on increased height
 We can practise high jump at different heights. Increase the
@@ -3627,7 +3211,6 @@ Make the incompetent students adopt ‘Look & Learn’ technique.
 Observe the landing area and make the students aware of possible accidents
 Never forget to praise correct activities.
 132 Science, Health and Physical Educ ation 5
-
 Lesson 3
 Throwing
 Sending something away through the force, especially by the
@@ -3655,7 +3238,6 @@ a boundary line,
 let’s play hitting
 by chungi.
 Science, Health and Physical Education 5 133
-
 Activity 2
 Bouncing the ball with
 two hands and throwing
@@ -3688,7 +3270,6 @@ heavy ball and tennis ball as a light ball. Apart from these, local materials
 can also be used in this activity. Make the place vacant where the heavy
 ball is to be thrown.
 134 Science, Health and Physical Educ ation 5
-
 Lesson 4
 Relay games
 The games that are played in team with members co-operating
@@ -3701,7 +3282,6 @@ Ball pass and target relay
 Activity 2
 Baton pass relay
 Science, Health and Physical Education 5 135
-
 Activity 3
 Broad jump, hop and chungi pass relay
 Relays can be played in different ways. Three tasks are to be done
@@ -3725,7 +3305,6 @@ Make the rule that no underhand is allowed in target practice.
 Observe the play ground and make the students aware of possible accidents.
 Use smooth materials in landing area.
 136 Science, Health and Physical Educ ation 5
-
 Lesson 5
 Non locomotor Skills
 The physical activities done without changing the location are the
@@ -3737,7 +3316,6 @@ following activities to develop non-locomotor skills.
 Activity 1
 Hanging on a bar
 Science, Health and Physical Education 5 137
-
 Activity 2
 Climbing along a rope
 Activity 3
@@ -3755,7 +3333,6 @@ Encourage the students in doing activities. Observe the play ground and
 make the students aware of the possible accidents.Involve the students in
 the abovementioned activities only after enough practice of arms and legs.
 138 Science, Health and Physical Educ ation 5
-
 Lesson 6
 Drill
 Drill involves different types of physical exercises done in a group
@@ -3783,23 +3360,22 @@ Focus on other activities for warming up.Give clear idea of low and line.
 Make the sound clear and loud in giving command.Motivate the students to
 be disciplined.
 Science, Health and Physical Education 5 139
-
 Activity 2
 Quick march
 Immediately after the command of quick march, move ahead
 counting 1-2 (1 for left leg, 2 for right leg). Move your right hand
 at 1 and left hand at 2.
 Rule of command
-1. The team will quick march. (information)
-2. Mark…. Quickly. (Command)
-3. Marking quickly immediately after the command. (activity)
+1. The team will quick march. (information
+2. Mark…. Quickly. (Command
+3. Marking quickly immediately after the command. (activity
 Activity 3
 Halt
 When the team has their left legs on the land, the command ‘halt’
 is to be given. We will practise ‘halt’ as per the rules given below.
 Right leg – check
 Left leg – one
-Right leg – two (halt)
+Right leg – two (halt
 Rule of command
 The team will halt. Halt…!
 Look, learn and do
@@ -3813,9 +3389,8 @@ ExERciSE
 1. What organs of body come in motion in drill?
 2. Which leg is used in what activity in the command ‘halt’?
 140 Science, Health and Physical Educ ation 5
-
 Lesson 7
-Physical Training (P.T.)
+Physical Training (P.T.
 Physical training makes our body healthy and smart. It helps us
 to be disciplined too. Thus, we do physical training regularly in
 group. We can prepare for the demonstration of rhythmic and
@@ -3827,7 +3402,6 @@ Body stretching training
 Activity 2
 Exercise of arms and legs
 Science, Health and Physical Education 5 141
-
 Activity 3
 Training of shoulder
 Activity 4
@@ -3837,7 +3411,6 @@ P. Training of arms and waist
 Activity 6
 P. Training of back and waist
 142 Science, Health and Physical Educ ation 5
-
 Activity 7
 Training starting from heel
 Activity 8
@@ -3847,7 +3420,6 @@ Training by bending down
 Activity 10
 Body revolving training
 Science, Health and Physical Education 5 143
-
 Activity 11
 Body bending training
 Activity 12
@@ -3862,7 +3434,6 @@ Teaching Instructions
 Observe whether the training is being done correctly or not.Pay attention
 whether the physical training is done as per the rhythm or not.
 144 Science, Health and Physical Educ ation 5
-
 Lesson 8
 Minor and Local games
 Minor games
@@ -3888,7 +3459,6 @@ names of cities frequently. While the students are going to the free city as utt
 by the teacher, whoever is touched first by the leader is to be nominated a new
 leader. Determine the time for the game as per the necessity.
 Science, Health and Physical Education 5 145
-
 Activity 2
 Boatman
 Let’s practise the boatman game by looking at the picture
@@ -3905,7 +3475,7 @@ in a circle. At the time, the
 teacher will say a definite
 number; you should together
 try to be the same in number
-(by holding each other’s hand)
+by holding each other’s hand
 Teaching Instruction:
 Involve the students in warming up before playing the game. Adopt the safety
 measures. Determine the numbers of city on the basis of the playground
@@ -3914,7 +3484,6 @@ the names of cities frequently. While the students are going to the free city
 as uttered by the teacher, whoever is touched first by the leader is to be
 nominated a new leader.Determine the time for the game as per the necessity.
 146 Science, Health and Physical Educ ation 5
-
 Lesson 9
 Local Games
 The games which are played at local level in their own way
@@ -3938,7 +3507,6 @@ to form the pile according to the rule deserves the score. Also congratulate the
 at the stopwatch to calculate the time taken by each team to form the pile or to keep all the
 members of the opponent team out.
 Science, Health and Physical Education 5 147
-
 Activity 2
 Dandibiyo
 The game which is played by striking a small pivot (biyo) of 10
@@ -3951,7 +3519,6 @@ the scores obtained by each team striking the pivot (biyo). You can use the
 stick (Dandi) or the pivot (biyo) that is twice, three times or four times longer.
 Encourge the students to play new local games.
 148 Science, Health and Physical Educ ation 5
-
 Lesson 10
 Creative Games
 A. Story games
@@ -3975,7 +3542,6 @@ Duck walk in pair
 Cover the distance by walking like a duck with the same pace
 in pair.
 Science, Health and Physical Education 5 149
-
 Crab walk
 Be in position with your knee bent down, hands behind and
 the body raised. Now, move ahead like a crab with the help of
@@ -3996,7 +3562,6 @@ pictures and motivate the students to imitate. Ask students to act individually,
 in pair or in groups separately. Ask every student to act if possible. Increase
 or decreae the walking distance on the basis of the students’ ability.
 150 Science, Health and Physical Educ ation 5
-
 Lesson 11
 Ball Games
 Ball games are very interesting for us. Despite being interesting,
@@ -4024,7 +3589,6 @@ Encourage the students to pracitse dribbling and bouncing in interesting
 structurers besides given above (8). Ask the students to dribble the ball with
 the part between the toe and heel while dribbling with leg.
 Science, Health and Physical Education 5 151
-
 Lesson 12
 Balance Work
 We should be able to keep our body by ourselves in balance. It
@@ -4036,18 +3600,14 @@ etc are the different ways of keeping our body in balance which
 we learned in earlier grade. Here, we will practise to keep our
 body in balance with our body in different shapes and sizes.
 152 Science, Health and Physical Educ ation 5
-
 Activity
-| 1.  Balance  | maintained       | by  |
-| ------------ | ---------------- | --- |
-| standing     | with  stretched  |     |
+| 1.  Balance  | maintained | by  |
+| standing | with  stretched  | |
 hands on the back of two
 people who have bent down.
 | 2.  Balance  | maintained  | by  |
-| ------------ | ----------- | --- |
 raising the legs straight of
 | two  people  | standing  | on  |
-| ------------ | --------- | --- |
 shoulder
 3.  Balance maintained by two people
 with one’s one leg rose
@@ -4059,8 +3619,7 @@ Teaching Instructions
 Praise to encourage the students. Observe the play ground and make the
 students aware of possible accidents. Involve the students in any of the
 activity only after warming up. Instruct the students carefully.
-Science, Health and Physical Education 5                                153
-
+Science, Health and Physical Education 5 153
 Lesson 13
 Tumbling work
 Gymnastics is an important game. The ability of the players to
@@ -4075,7 +3634,6 @@ Front roll
 Activity 2
 Back roll
 154 Science, Health and Physical Educ ation 5
-
 Activity 3
 Side roll
 Look, learn and do
