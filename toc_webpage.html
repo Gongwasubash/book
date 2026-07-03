@@ -143,6 +143,8 @@ body{font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif;backgroun
   .actionsRow{flex-direction:column}
 }
 </style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script>pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';</script>
 </head>
 <body>
 
@@ -857,6 +859,7 @@ function renderWorkColumn(){
       .then(function(d){
         if(d.available && d.pdf_url){
           pdfUrlCache[pk] = d.pdf_url;
+          detectPdfOffset(pk, d.pdf_url, function(){});
           if (viewMode === 'pdf') renderWorkColumn();
         }
       }).catch(function(){});
@@ -922,29 +925,40 @@ function devToAr(num){
   return String(num).replace(/[०१२३४५६७८९]/g, function(c){ return map[c] || c; });
 }
 
-// PDF page offset per book (printed page -> PDF page)
-// Default offset is 2 (cover + copyright); 0 means same as printed page
-var PDF_PAGE_OFFSET = {};
-function setPdfOffset(k, offset){ PDF_PAGE_OFFSET[k] = offset; }
-setPdfOffset("Class 1|Nepali", 3);
-setPdfOffset("Class 1|Serofero", 3);
-setPdfOffset("Class 1|Mathematics (Nepali)", 3);
-setPdfOffset("Class 2|Nepali", 3);
-setPdfOffset("Class 2|Mathematics (Nepali)", 3);
-setPdfOffset("Class 3|Nepali", 3);
-setPdfOffset("Class 3|Maths (Nepali)", 3);
-setPdfOffset("Class 4|Nepali", 3);
-setPdfOffset("Class 4|Mathematics (Nepali)", 3);
-setPdfOffset("Class 4|Health Physical Creative Arts (Nepali)", 3);
-setPdfOffset("Class 4|Science and Technology (Nepali)", 3);
-setPdfOffset("Class 5|Nepali", 3);
-setPdfOffset("Class 5|Mathematics (Nepali)", 3);
-setPdfOffset("Class 6|Maths (English Transcribed)", 2);
-setPdfOffset("Class 8|Health Physical Creative Arts (English)", 2);
-setPdfOffset("Class 8|Maths (English Transcribed)", 2);
-setPdfOffset("Class 9|Computer Science 2081", 2);
-setPdfOffset("Class 10|Compulsory Nepali", 2);
-setPdfOffset("Class 10|Computer Science", 2);
+// PDF page offset per book — auto-detected via PDF.js page labels
+// Cache: key -> offset (null = detection pending)
+var PDF_OFFSET_CACHE = {};
+
+function detectPdfOffset(pk, pdfUrl, callback) {
+  if (PDF_OFFSET_CACHE[pk] !== undefined) {
+    callback(PDF_OFFSET_CACHE[pk] === null ? 2 : PDF_OFFSET_CACHE[pk]);
+    return;
+  }
+  PDF_OFFSET_CACHE[pk] = null; // mark pending
+
+  pdfjsLib.getDocument(pdfUrl).promise.then(function(pdf) {
+    return pdf.getPageLabels();
+  }).then(function(labels) {
+    if (!labels || labels.length === 0) {
+      PDF_OFFSET_CACHE[pk] = 2;
+      callback(2);
+      return;
+    }
+    var offset = 2;
+    for (var i = 0; i < labels.length; i++) {
+      var label = (labels[i] || '').toString().trim();
+      if (devToAr(label) === '1') {
+        offset = i;
+        break;
+      }
+    }
+    PDF_OFFSET_CACHE[pk] = offset;
+    callback(offset);
+  }).catch(function() {
+    PDF_OFFSET_CACHE[pk] = 2;
+    callback(2);
+  });
+}
 
 function switchView(mode){
   viewMode = mode;
@@ -1028,7 +1042,8 @@ function selectChapter(i){
     var pageStr = devToAr(tblData[i].page);
     pageNum = parseInt(pageStr, 10);
     if (!isNaN(pageNum)) {
-      var offset = PDF_PAGE_OFFSET[pk] || 2;
+      var offset = PDF_OFFSET_CACHE[pk];
+      if (offset === null || offset === undefined) offset = 2;
       pageNum += offset;
     }
   }
@@ -1042,6 +1057,17 @@ function selectChapter(i){
     viewMode = 'pdf';
     pdfPageTarget = pageNum;
     renderWorkColumn();
+    // If offset still pending, re-render once detected
+    if (PDF_OFFSET_CACHE[pk] === null) {
+      var pdfUrl = pdfUrlCache[pk];
+      detectPdfOffset(pk, pdfUrl, function(detectedOffset) {
+        var newOffset = detectedOffset || 2;
+        if (newOffset !== 2) {
+          pdfPageTarget = parseInt(devToAr(tblData[i].page), 10) + newOffset;
+          renderWorkColumn();
+        }
+      });
+    }
   } else {
     if (viewMode === 'pdf') {
       viewMode = 'chapter';
