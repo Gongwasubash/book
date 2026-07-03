@@ -1036,10 +1036,10 @@ function detectPdfOffsetOnce(pk, pdf){
 
 // Check pdfJumpRequest and set pdfCurrentPage accordingly
 // PDF_OFFSET_CACHE[pk] is guaranteed to be set before this is called
+// When no jump request, keeps pdfCurrentPage unchanged (preserves user's current page)
 function resolvePdfJump(pk, maxPage){
   if (!pdfJumpRequest || pdfJumpRequest.pk !== pk) {
-    pdfCurrentPage = 1;
-    return;
+    return; // keep current page
   }
   var offset = PDF_OFFSET_CACHE[pk] || 2;
   var baseNum = parseInt(devToAr(pdfJumpRequest.rawTblPage), 10);
@@ -1189,15 +1189,12 @@ function selectChapter(i){
   });
 
   if (rawPage) {
-    // Queue page jump — offset will be applied in loadPdfViewer after detection
+    // Have page number — jump to that page in PDF
     pdfJumpRequest = { pk: pk, rawTblPage: rawPage };
     viewMode = 'pdf';
     renderWorkColumn();
   } else {
-    // No page data → show chapter view
-    if (viewMode === 'pdf') {
-      viewMode = 'chapter';
-    }
+    // No page data — stay in current view mode (don't force chapter view)
     pdfJumpRequest = null;
     renderWorkColumn();
   }
